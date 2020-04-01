@@ -242,8 +242,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  github-pages
-  jekyll-feed (~> 0.6)
+  github-pages (~> 204)
   minima (~> 2.0)
   tzinfo-data
 

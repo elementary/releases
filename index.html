@@ -1,0 +1,9 @@
+---
+layout: default
+title: Releases
+---
+<ul>
+  {% for release in site.data.releases %}
+    <li>{{ release.repo }}</li>
+  {% endfor %}
+</ul>
