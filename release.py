@@ -37,5 +37,5 @@ for repo in repos:
 
   print('{} ({}) released {}'.format (repo.repo.name, repo.release.tag_name, release_date))
   
-with open('data.json', 'w') as outfile:
+with open('_data/releases.json', 'w') as outfile:
     json.dump(json_out, outfile)
