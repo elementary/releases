@@ -19,8 +19,20 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install PyGithub
-    - name: Run script
+    - name: Run script and commit changes
       run: |
         python release.py
+        echo "Setting up git credentials..."
+        git remote set-url origin https://x-access-token:"$GITHUB_TOKEN"@github.com/"$GITHUB_REPOSITORY".git
+        git config --global user.email "actions@github.com"
+        git config --global user.name "actions"
+        echo "Git credentials configured."
+        
+        echo "Pushing new data to repository"
+        git checkout master
+        git add .
+        git commit -m "Automatic update of data"
+        git push --set-upstream origin master
+        echo "Push complete"
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
