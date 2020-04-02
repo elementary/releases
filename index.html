@@ -20,15 +20,17 @@ title: Releases
         <time datetime="{{ repo.releases.first.release_date }}">{{ repo.releases.first.release_date | date: "%b %e, %Y" }}</time>
       </td>
       <td>
-        {% if repo.new_commits == 0 %}
+        <a href="https://github.com/elementary/{{ repo.name }}/compare/{{ repo.releases.first.version }}...master">
+          {% if repo.new_commits == 0 %}
           <span class="status good">Up to date</span>
-        {% elsif repo.new_commits == 1 %}
-          <span class="status">{{ repo.new_commits }} commit since release</span>
-        {% elsif repo.new_commits > 10 %}
+          {% elsif repo.new_commits > 0 and repo.new_commits <= 10 %}
+          <span class="status warn">{{ repo.new_commits }} commit since release</span>
+          {% elsif repo.new_commits > 10 %}
           <span class="status critical">{{ repo.new_commits }} commits since release</span>
-        {% else %}
+          {% else %}
           <span class="status">{{ repo.new_commits }} commits since release</span>
-        {% endif %}
+          {% endif %}
+        </a>
       </td>
     </tr>
   {% endfor %}
@@ -42,6 +44,10 @@ title: Releases
 
 .good {
   color: #206b00;
+}
+
+.warn {
+  color: #ad5f00;
 }
 
 .critical {
