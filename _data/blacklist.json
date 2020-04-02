@@ -11,5 +11,8 @@
   "appcenter-web",
   "fonts",
   "releases",
-  "houston"
+  "houston",
+  "wingpanel-indicator-ayatana",
+  "app-template",
+  "debian-test-package"
 ]

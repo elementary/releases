@@ -3,6 +3,8 @@ layout: default
 title: Releases
 ---
 
+{% assign org_href = "https://github.com/elementary" %}
+
 <table class="releases">
   <thead>
     <th>Repository</th>
@@ -11,27 +13,41 @@ title: Releases
   </thead>
   <tbody>
   {% for repo in site.data.repos %}
-  {% unless site.data.blacklist contains repo.name %}
-    <tr>
+    {% unless site.data.blacklist contains repo.name %}
+    {% assign repo_href = org_href | append: "/" | append: repo.name %}
+    {% assign commits_href = repo_href | append: "/compare/" | append: repo.releases.first.version | append: "...master" %}
+    <tr id="{{ repo.name }}" >
       <td>
-        <span class="name">{{ repo.name }}</span>
+        <a href="{{ repo_href }}" class="name">{{ repo.name }}</a>
         <a class="version" href="{{ repo.releases.first.href }}">{{ repo.releases.first.version }}</a>
       </td>
       <td>
-        <time datetime="{{ repo.releases.first.release_date }}">{{ repo.releases.first.release_date | date: "%b %e, %Y" }}</time>
+        <time datetime="{{ repo.releases.first.release_date }}" title="{{ repo.releases.first.release_date }}">{{ repo.releases.first.release_date | date: "%b %e, %Y" }}</time>
       </td>
       <td>
-        <a href="https://github.com/elementary/{{ repo.name }}/compare/{{ repo.releases.first.version }}...master">
           {% if repo.new_commits == 0 %}
           <span class="status good">Up to date</span>
-          {% elsif repo.new_commits > 0 and repo.new_commits <= 10 %}
-          <span class="status warn">{{ repo.new_commits }} commit since release</span>
-          {% elsif repo.new_commits > 10 %}
-          <span class="status critical">{{ repo.new_commits }} commits since release</span>
-          {% else %}
-          <span class="status">{{ repo.new_commits }} commits since release</span>
+          {% elsif repo.new_commits == 1 %}
+          <span class="status">
+            <a href="{{ commits_href }}">{{ repo.new_commits }} commit</a>
+            since release
+          </span>
+          {% elsif repo.new_commits > 1 and repo.new_commits < 10 %}
+          <span class="status">
+            <a href="{{ commits_href }}">{{ repo.new_commits }} commits</a>
+            since release
+          </span>
+          {% elsif repo.new_commits >= 10 and repo.new_commits < 50 %}
+          <span class="status warn">
+            <a href="{{ commits_href }}">{{ repo.new_commits }} commits</a>
+            since release
+          </span>
+          {% elsif repo.new_commits >= 50 %}
+          <span class="status critical">
+            <a href="{{ commits_href }}">{{ repo.new_commits }} commits</a>
+            since release
+          </span>
           {% endif %}
-        </a>
       </td>
     </tr>
     {% endunless %}
@@ -42,6 +58,11 @@ title: Releases
 <style>
 .name {
   display: block;
+  font-weight: bold;
+}
+
+.status a {
+  color: inherit;
 }
 
 .good {
