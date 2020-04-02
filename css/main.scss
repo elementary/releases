@@ -16,19 +16,13 @@ html {
   background-color: var(--bg-color);
   color: var(--fg-color);
   fill: var(--fg-color);
-  font-family: "Open Sans", "Noto Sans", "Roboto", "Droid Sans", sans-serif;
+  font-family: Inter, "Open Sans", "Noto Sans", "Roboto", "Droid Sans", sans-serif;
   margin: 0;
   overflow-x: hidden;
 }
 
-section {
-  max-width: 800px;
-  margin: 1em auto;
-}
-
 table {
-  margin-left: auto;
-  margin-right: auto;
+  margin: 2em auto;
 }
 
 a {
@@ -46,9 +40,9 @@ a {
 }
 
 .status {
-  background-color: rgba(212, 212, 212, 0.5);
+  background-color: var(--status-bg-color);
   border-radius: 1em;
-  color: #555761;
+  color: var(--status-fg-color);
   font-size: 0.85em;
   padding: 0.15em 0.75em;
 

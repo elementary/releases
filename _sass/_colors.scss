@@ -63,6 +63,9 @@ $BLACK_900: #000000;
   --fg-color:  #{$BLACK_500};
   --accent-color:  #{$BLUEBERRY_700};
 
+  --status-bg-color: #{transparentize($SILVER_300, 0.5)};
+  --status-fg-color: #{$SILVER_900};
+
   --success-bg-color: #{transparentize($LIME_100, 0.5)};
   --success-fg-color: #{$LIME_900};
 }
@@ -72,6 +75,9 @@ $BLACK_900: #000000;
     --bg-color:  #{$BLACK_700};
     --fg-color:  #{$SILVER_300};
     --accent-color:  #{$BLUEBERRY_300};
+
+    --status-bg-color: #{transparentize($SILVER_100, 0.75)};
+    --status-fg-color: #{$SILVER_100};
 
     --success-bg-color: #{transparentize($LIME_100, 0.75)};
     --success-fg-color: #{$LIME_100};
