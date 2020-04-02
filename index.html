@@ -29,23 +29,19 @@ title: Releases
           <span class="status good">Up to date</span>
         {% elsif repo.new_commits == 1 %}
           <span class="status">
-            <a href="{{ commits_href }}">{{ repo.new_commits }} commit</a>
-            since release
+            <a href="{{ commits_href }}">{{ repo.new_commits }} unreleased commit</a>
           </span>
         {% elsif repo.new_commits > 1 and repo.new_commits < 10 %}
           <span class="status">
-            <a href="{{ commits_href }}">{{ repo.new_commits }} commits</a>
-            since release
+            <a href="{{ commits_href }}">{{ repo.new_commits }} unreleased commits</a>
           </span>
         {% elsif repo.new_commits >= 10 and repo.new_commits < 50 %}
           <span class="status warn">
-            <a href="{{ commits_href }}">{{ repo.new_commits }} commits</a>
-            since release
+            <a href="{{ commits_href }}">{{ repo.new_commits }} unreleased commits</a>
           </span>
         {% elsif repo.new_commits >= 50 %}
           <span class="status critical">
-            <a href="{{ commits_href }}">{{ repo.new_commits }} commits</a>
-            since release
+            <a href="{{ commits_href }}">{{ repo.new_commits }} unreleased commits</a>
           </span>
         {% endif %}
       </td>
@@ -56,24 +52,40 @@ title: Releases
 </table>
 
 <style>
+section {
+    width: auto;
+}
+
 .name {
   display: block;
   font-weight: bold;
 }
 
+.status {
+  background-color: rgba(212, 212, 212, 0.5);
+  border-radius: 1em;
+  color: #555761;
+  font-size: 0.85em;
+  padding: 0.15em 0.75em;
+}
+
 .status a {
   color: inherit;
+  font-weight: inherit;
 }
 
 .good {
+  background-color: rgba(209, 255, 130, 0.5);
   color: #206b00;
 }
 
 .warn {
+  background-color: rgba(255, 243, 148, 0.5);
   color: #ad5f00;
 }
 
 .critical {
+  background-color: rgba(255, 140, 130, 0.5);
   color: #7a0000;
 }
 </style>
