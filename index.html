@@ -2,8 +2,49 @@
 layout: default
 title: Releases
 ---
-<ul>
+
+<table class="releases">
+  <thead>
+    <th>Repository</th>
+    <th>Release</th>
+    <th>Status</th>
+  </thead>
+  <tbody>
   {% for repo in site.data.repos %}
-    <li>{{ repo.name }} (<a href="{{ repo.releases.first.href }}">{{ repo.releases.first.version }}</a>) released {{ repo.releases.first.release_date | date_to_string }}. {{ repo.new_commits }} commits to master since.</li>
+    <tr>
+      <td>
+        <span class="name">{{ repo.name }}</span>
+        <a class="version" href="{{ repo.releases.first.href }}">{{ repo.releases.first.version }}</a>
+      </td>
+      <td>
+        <time datetime="{{ repo.releases.first.release_date }}">{{ repo.releases.first.release_date | date: "%b %e, %Y" }}</time>
+      </td>
+      <td>
+        {% if repo.new_commits == 0 %}
+          <span class="status good">Up to date</span>
+        {% elsif repo.new_commits == 1 %}
+          <span class="status">{{ repo.new_commits }} commit since release</span>
+        {% elsif repo.new_commits > 10 %}
+          <span class="status critical">{{ repo.new_commits }} commits since release</span>
+        {% else %}
+          <span class="status">{{ repo.new_commits }} commits since release</span>
+        {% endif %}
+      </td>
+    </tr>
   {% endfor %}
-</ul>
+  </tbody>
+</table>
+
+<style>
+.name {
+  display: block;
+}
+
+.good {
+  color: #206b00;
+}
+
+.critical {
+  color: #7a0000;
+}
+</style>
