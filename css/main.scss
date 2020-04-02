@@ -1,0 +1,73 @@
+---
+# main.scss needs front-matter to be parsed by Jekyll
+---
+@import "colors";
+
+:root {
+    color-scheme: light dark;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body,
+html {
+  background-color: var(--bg-color);
+  color: var(--fg-color);
+  fill: var(--fg-color);
+  font-family: "Open Sans", "Noto Sans", "Roboto", "Droid Sans", sans-serif;
+  margin: 0;
+  overflow-x: hidden;
+}
+
+section {
+  max-width: 800px;
+  margin: 1em auto;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+a {
+  color: var(--accent-color);
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+.name {
+  display: block;
+  font-weight: bold;
+}
+
+.status {
+  background-color: rgba(212, 212, 212, 0.5);
+  border-radius: 1em;
+  color: #555761;
+  font-size: 0.85em;
+  padding: 0.15em 0.75em;
+
+  a {
+    color: inherit;
+  }
+}
+
+.good {
+  background-color: var(--success-bg-color);
+  color: var(--success-fg-color);
+}
+
+.warn {
+  background-color: rgba(255, 243, 148, 0.5);
+  color: #ad5f00;
+}
+
+.critical {
+  background-color: rgba(255, 140, 130, 0.5);
+  color: #7a0000;
+}
