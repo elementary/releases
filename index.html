@@ -19,7 +19,14 @@ title: Releases
     <tr id="{{ repo.name }}" >
       <td>
         <a href="{{ repo_href }}" class="name">{{ repo.name }}</a>
-        <a class="version" href="{{ repo.releases.first.href }}">{{ repo.releases.first.version }}</a>
+        <details>
+          <summary>
+            <a class="version" href="{{ repo.releases.first.href }}">{{ repo.releases.first.version }}</a>
+          </summary>
+          <h4>{{ repo.releases.first.title }}</h4>
+          <p>{{ repo.releases.first.body }}</p>
+        </details>
+
       </td>
       <td>
         <time datetime="{{ repo.releases.first.release_date }}" title="{{ repo.releases.first.release_date }}">{{ repo.releases.first.release_date | date: "%b %e, %Y" }}</time>
