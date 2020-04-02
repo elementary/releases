@@ -9,17 +9,17 @@ title: Releases
     <th>Release Date</th>
     <th>Commits Since Release</th>
   </tr>
-  {% assign sorted = (site.data.releases | sort: 'commits_since') | reverse %}
-  {% for release in sorted %}
+  {% assign sorted = (site.data.repos | sort: 'new_commits') | reverse %}
+  {% for repo in sorted %}
   <tr>
     <td>
-      <a href="https://github.com/elementary/{{ release.repo }}"> {{ release.repo }}</a>
+      <a href="{{ repo.releases.first.href }}"> {{ repo.name }}</a>
     </td>
     <td>
-      <a href="https://github.com/elementary/{{ release.repo }}/releases/tag/{{ release.version }}">{{ release.version }}</a>
+      <a href="{{ repo.releases.first.href }}/releases/tag/{{ repo.releases.first.version }}">{{ repo.releases.first.version }}</a>
     </td>
-    <td>{{ release.release_date }}</td>
-    <td>{{ release.commits_since }}</td>
+    <td>{{ repo.releases.first.release_date | date_to_string }}</td>
+    <td>{{ repo.new_commits }}</td>
   </tr>
   {% endfor %}
 </table>
