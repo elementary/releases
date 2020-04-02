@@ -25,29 +25,29 @@ title: Releases
         <time datetime="{{ repo.releases.first.release_date }}" title="{{ repo.releases.first.release_date }}">{{ repo.releases.first.release_date | date: "%b %e, %Y" }}</time>
       </td>
       <td>
-          {% if repo.new_commits == 0 %}
+        {% if repo.new_commits == 0 %}
           <span class="status good">Up to date</span>
-          {% elsif repo.new_commits == 1 %}
+        {% elsif repo.new_commits == 1 %}
           <span class="status">
             <a href="{{ commits_href }}">{{ repo.new_commits }} commit</a>
             since release
           </span>
-          {% elsif repo.new_commits > 1 and repo.new_commits < 10 %}
+        {% elsif repo.new_commits > 1 and repo.new_commits < 10 %}
           <span class="status">
             <a href="{{ commits_href }}">{{ repo.new_commits }} commits</a>
             since release
           </span>
-          {% elsif repo.new_commits >= 10 and repo.new_commits < 50 %}
+        {% elsif repo.new_commits >= 10 and repo.new_commits < 50 %}
           <span class="status warn">
             <a href="{{ commits_href }}">{{ repo.new_commits }} commits</a>
             since release
           </span>
-          {% elsif repo.new_commits >= 50 %}
+        {% elsif repo.new_commits >= 50 %}
           <span class="status critical">
             <a href="{{ commits_href }}">{{ repo.new_commits }} commits</a>
             since release
           </span>
-          {% endif %}
+        {% endif %}
       </td>
     </tr>
     {% endunless %}
