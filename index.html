@@ -3,7 +3,7 @@ layout: default
 title: Releases
 ---
 <ul>
-  {% for release in site.data.releases %}
-    <li>{{ release.repo }} ({{ release.version }}) released {{ release.release_date }}. {{ release.commits_since }} commits to master since.</li>
+  {% for repo in site.data.repos %}
+    <li>{{ repo.name }} (<a href="{{ repo.releases.first.href }}">{{ repo.releases.first.version }}</a>) released {{ repo.releases.first.release_date | date_to_string }}. {{ repo.new_commits }} commits to master since.</li>
   {% endfor %}
 </ul>
