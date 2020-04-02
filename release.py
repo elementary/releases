@@ -5,7 +5,7 @@ import sys
 from github import Github
 from github.GithubException import UnknownObjectException as GithubUnknownObjectException
 
-g = Github(os.environ['GITHUB_TOKEN'])
+g = Github(os.environ['GITHUB_TOKEN'], per_page=100)
 
 class NoReleasesFound(Exception):
   pass
