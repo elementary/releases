@@ -4,6 +4,6 @@ title: Releases
 ---
 <ul>
   {% for release in site.data.releases %}
-    <li>{{ release.repo }} ({{ release.version }}) released on {{ release.release_date }}</li>
+    <li>{{ release.repo }} ({{ release.version }}) released on {{ release.release_date }}. {{ releases.commits_since }} commits to master since release.</li>
   {% endfor %}
 </ul>
