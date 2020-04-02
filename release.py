@@ -25,12 +25,13 @@ org = g.get_organization('elementary')
 
 repos = []
 for repo in org.get_repos():
-  print ('Processing {}...'.format(repo.name))
-  try:
-    repos.append(Repo(repo))
-  # This catches repos that don't have releases and ignores them
-  except NoReleasesFound:
-    pass
+  if repo.archived is False:
+    print ('Processing {}...'.format(repo.name))
+    try:
+      repos.append(Repo(repo))
+    # This catches repos that don't have releases and ignores them
+    except NoReleasesFound:
+      pass
 
 repos = sorted(repos, key=lambda repo: repo.last_release_timestamp, reverse=True)
 
