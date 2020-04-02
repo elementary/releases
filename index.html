@@ -11,6 +11,7 @@ title: Releases
   </thead>
   <tbody>
   {% for repo in site.data.repos %}
+  {% unless site.data.blacklist contains repo.name %}
     <tr>
       <td>
         <span class="name">{{ repo.name }}</span>
@@ -33,6 +34,7 @@ title: Releases
         </a>
       </td>
     </tr>
+    {% endunless %}
   {% endfor %}
   </tbody>
 </table>
