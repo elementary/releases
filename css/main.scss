@@ -22,7 +22,23 @@ html {
 }
 
 table {
+  background-color: var(--view-color);
+  border: 1px solid var(--dim-color);
+  border-spacing: 0;
+  border-radius: 0.5em;
+  box-shadow: 0 1em 2em rgba(0, 0, 0, 0.125);
   margin: 2em auto;
+
+  td,
+  th {
+    padding: 1em;
+    border-bottom: 1px solid var(--dim-color);
+    text-align: left;
+  }
+
+  th {
+    background-color: var(--dim-color);
+  }
 }
 
 a {
@@ -59,9 +75,15 @@ a {
 .warn {
   background-color: rgba(255, 243, 148, 0.5);
   color: #ad5f00;
+
+  background-color: var(--warning-bg-color);
+  color: var(--warning-fg-color);
 }
 
 .critical {
   background-color: rgba(255, 140, 130, 0.5);
   color: #7a0000;
+
+  background-color: var(--critical-bg-color);
+  color: var(--critical-fg-color);
 }

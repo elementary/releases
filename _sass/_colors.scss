@@ -61,25 +61,43 @@ $BLACK_900: #000000;
 :root {
   --bg-color:  #{$SILVER_100};
   --fg-color:  #{$BLACK_500};
-  --accent-color:  #{$BLUEBERRY_700};
+  --view-color: white;
+  --dim-color: #{$SILVER_300};
+
+  --link-color:  #{$BLUEBERRY_700};
 
   --status-bg-color: #{transparentize($SILVER_300, 0.5)};
   --status-fg-color: #{$SILVER_900};
 
   --success-bg-color: #{transparentize($LIME_100, 0.5)};
   --success-fg-color: #{$LIME_900};
+
+  --warning-bg-color: #{transparentize($BANANA_100, 0.5)};
+  --warning-fg-color: #{$BANANA_900};
+
+  --critical-bg-color: #{transparentize($STRAWBERRY_100, 0.5)};
+  --critical-fg-color: #{$STRAWBERRY_900};
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
     --bg-color:  #{$BLACK_700};
     --fg-color:  #{$SILVER_300};
-    --accent-color:  #{$BLUEBERRY_300};
+    --view-color: #{$BLACK_500};
+    --dim-color: #{$SILVER_900};
 
-    --status-bg-color: #{transparentize($SILVER_100, 0.75)};
+    --link-color:  #{$BLUEBERRY_100};
+
+    --status-bg-color: #{transparentize($SILVER_500, 0.75)};
     --status-fg-color: #{$SILVER_100};
 
-    --success-bg-color: #{transparentize($LIME_100, 0.75)};
+    --success-bg-color: #{transparentize($LIME_500, 0.75)};
     --success-fg-color: #{$LIME_100};
+
+    --warning-bg-color: #{transparentize($BANANA_500, 0.75)};
+    --warning-fg-color: #{$BANANA_100};
+
+    --critical-bg-color: #{transparentize($STRAWBERRY_500, 0.75)};
+    --critical-fg-color: #{$STRAWBERRY_100};
   }
 }
