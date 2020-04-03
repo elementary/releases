@@ -38,10 +38,11 @@ section {
 
 table {
   background-color: var(--view-color);
-  border: 1px solid var(--dim-color);
   border-spacing: 0;
-  border-radius: 0.5em;
-  box-shadow: 0 1em 2em rgba(0, 0, 0, 0.125);
+  border-radius: 0.375em;
+  box-shadow:
+    0 0 0 1px rgba(0, 0, 0, 0.05),
+    0 3px 6px rgba(0, 0, 0, 0.22);
   margin: 2em auto;
   max-width: 800px;
   width: 100%;
@@ -49,7 +50,6 @@ table {
   td,
   th {
     padding: 0.5em 1em;
-    border-bottom: 1px solid var(--dim-color);
     text-align: left;
 
     &.release {
@@ -57,16 +57,22 @@ table {
     }
   }
 
+  td {
+    border-top: 1px solid var(--dim-color);
+  }
+
   th {
     background-color: var(--dim-color);
+    opacity: 0.75;
 
     &:first-child {
-      border-top-left-radius: calc(0.5em - 1px);
+      border-top-left-radius: calc(0.375em - 1px);
     }
 
     &:last-child {
-      border-top-right-radius: calc(0.5em - 1px);
+      border-top-right-radius: calc(0.375em - 1px);
     }
+
   }
 }
 
@@ -81,11 +87,11 @@ a {
 
 .name {
   display: block;
-  font-weight: bold;
+  font-weight: 600;
 }
 
 .version {
-  font-weight: 600;
+  font-size: 0.85em;
   opacity: 0.75;
 }
 

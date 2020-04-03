@@ -83,8 +83,8 @@ $BLACK_900: #000000;
   :root {
     --bg-color:  #{mix($BLACK_900, $BLACK_700)};
     --fg-color:  #{$SILVER_300};
-    --view-color: #{$BLACK_700};
-    --dim-color: #{mix($BLACK_500, $BLACK_700)};
+    --view-color: #{mix($BLACK_500, $BLACK_700)};
+    --dim-color: #{$BLACK_700};
 
     --link-color:  #{$BLUEBERRY_100};
 
