@@ -19,9 +19,11 @@ layout: default
     <tr id="{{ repo.name }}" >
       <td class="release">
         <a href="{{ repo_href }}" class="name">{{ repo.name }}</a>
-        <a class="version" href="{{ repo.releases.first.href }}">{{ repo.releases.first.version }}</a>
-        on
-        <time datetime="{{ repo.releases.first.release_date }}" title="{{ repo.releases.first.release_date }}">{{ repo.releases.first.release_date | date: "%b %e, %Y" }}</time>
+        <a class="version" href="{{ repo.releases.first.href }}">
+            {{ repo.releases.first.version }}
+            on
+            <time datetime="{{ repo.releases.first.release_date }}" title="{{ repo.releases.first.release_date }}">{{ repo.releases.first.release_date | date: "%b %e, %Y" }}</time>
+        </a>
       </td>
       <td class="status">
         {% if repo.new_commits == 0 %}
