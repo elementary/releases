@@ -51,6 +51,10 @@ table {
     padding: 0.5em 1em;
     border-bottom: 1px solid var(--dim-color);
     text-align: left;
+
+    &.release {
+      width: 80%;
+    }
   }
 
   th {
@@ -75,10 +79,6 @@ a {
 .version {
   font-weight: 600;
   opacity: 0.75;
-}
-
-.status {
-  text-align: center;
 }
 
 .badge {
