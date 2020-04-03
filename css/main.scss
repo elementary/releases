@@ -17,12 +17,23 @@ html {
   color: var(--fg-color);
   fill: var(--fg-color);
   font-family: Inter, "Open Sans", "Noto Sans", "Roboto", "Droid Sans", sans-serif;
+  font-size: 4.375vw; // 14px at 320 width
+  line-height: 1.5em;
   margin: 0;
   overflow-x: hidden;
+
+  @media (min-width: 320px) {
+    font-size: 14px;
+  }
+
+  @media (min-width: 600px) {
+    font-size: 16px;
+  }
 }
 
 section {
   text-align: center;
+  margin: 0 1em;
 }
 
 table {
@@ -32,12 +43,18 @@ table {
   border-radius: 0.5em;
   box-shadow: 0 1em 2em rgba(0, 0, 0, 0.125);
   margin: 2em auto;
+  max-width: 800px;
+  width: 100%;
 
   td,
   th {
-    padding: 1em;
+    padding: 0.5em 1em;
     border-bottom: 1px solid var(--dim-color);
     text-align: left;
+
+    &.release {
+      width: 80%;
+    }
   }
 
   th {
@@ -67,12 +84,18 @@ a {
   font-weight: bold;
 }
 
-.status {
+.version {
+  font-weight: 600;
+  opacity: 0.75;
+}
+
+.badge {
   background-color: var(--status-bg-color);
   border-radius: 1em;
   color: var(--status-fg-color);
   font-size: 0.85em;
   padding: 0.15em 0.75em;
+  white-space: nowrap;
 
   a {
     color: inherit;
