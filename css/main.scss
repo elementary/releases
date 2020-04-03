@@ -52,14 +52,14 @@ table {
     padding: 0.5em;
     border-bottom: 1px solid var(--dim-color);
     text-align: left;
+
+    &:first-child {
+      padding-left: 1em;
+    }
   }
 
   th {
     background-color: var(--dim-color);
-  }
-
-  td:first-child {
-    padding-left: 1em;
   }
 }
 
