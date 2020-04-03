@@ -62,7 +62,7 @@ $BLACK_900: #000000;
   --bg-color:  #{$SILVER_100};
   --fg-color:  #{$BLACK_500};
   --view-color: white;
-  --dim-color: #{$SILVER_300};
+  --dim-color: #{mix($SILVER_300, $SILVER_100)};
 
   --link-color:  #{$BLUEBERRY_700};
 
@@ -81,10 +81,10 @@ $BLACK_900: #000000;
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --bg-color:  #{$BLACK_700};
+    --bg-color:  #{mix($BLACK_900, $BLACK_700)};
     --fg-color:  #{$SILVER_300};
-    --view-color: #{$BLACK_500};
-    --dim-color: #{$SILVER_900};
+    --view-color: #{$BLACK_700};
+    --dim-color: #{mix($BLACK_500, $BLACK_700)};
 
     --link-color:  #{$BLUEBERRY_100};
 
