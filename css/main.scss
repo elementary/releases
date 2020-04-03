@@ -43,6 +43,8 @@ table {
   border-radius: 0.5em;
   box-shadow: 0 1em 2em rgba(0, 0, 0, 0.125);
   margin: 2em auto;
+  max-width: 800px;
+  width: 100%;
 
   td,
   th {
@@ -76,6 +78,10 @@ a {
 }
 
 .status {
+  text-align: center;
+}
+
+.badge {
   background-color: var(--status-bg-color);
   border-radius: 1em;
   color: var(--status-fg-color);
