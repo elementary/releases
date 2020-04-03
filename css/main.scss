@@ -21,6 +21,10 @@ html {
   overflow-x: hidden;
 }
 
+section {
+  text-align: center;
+}
+
 table {
   background-color: var(--view-color);
   border: 1px solid var(--dim-color);
