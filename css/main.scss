@@ -1,0 +1,93 @@
+---
+# main.scss needs front-matter to be parsed by Jekyll
+---
+@import "colors";
+
+:root {
+    color-scheme: light dark;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body,
+html {
+  background-color: var(--bg-color);
+  color: var(--fg-color);
+  fill: var(--fg-color);
+  font-family: Inter, "Open Sans", "Noto Sans", "Roboto", "Droid Sans", sans-serif;
+  margin: 0;
+  overflow-x: hidden;
+}
+
+section {
+  text-align: center;
+}
+
+table {
+  background-color: var(--view-color);
+  border: 1px solid var(--dim-color);
+  border-spacing: 0;
+  border-radius: 0.5em;
+  box-shadow: 0 1em 2em rgba(0, 0, 0, 0.125);
+  margin: 2em auto;
+
+  td,
+  th {
+    padding: 1em;
+    border-bottom: 1px solid var(--dim-color);
+    text-align: left;
+  }
+
+  th {
+    background-color: var(--dim-color);
+  }
+}
+
+a {
+  color: var(--accent-color);
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+.name {
+  display: block;
+  font-weight: bold;
+}
+
+.status {
+  background-color: var(--status-bg-color);
+  border-radius: 1em;
+  color: var(--status-fg-color);
+  font-size: 0.85em;
+  padding: 0.15em 0.75em;
+
+  a {
+    color: inherit;
+  }
+}
+
+.good {
+  background-color: var(--success-bg-color);
+  color: var(--success-fg-color);
+}
+
+.warn {
+  background-color: rgba(255, 243, 148, 0.5);
+  color: #ad5f00;
+
+  background-color: var(--warning-bg-color);
+  color: var(--warning-fg-color);
+}
+
+.critical {
+  background-color: rgba(255, 140, 130, 0.5);
+  color: #7a0000;
+
+  background-color: var(--critical-bg-color);
+  color: var(--critical-fg-color);
+}
