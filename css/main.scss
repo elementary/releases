@@ -17,12 +17,26 @@ html {
   color: var(--fg-color);
   fill: var(--fg-color);
   font-family: Inter, "Open Sans", "Noto Sans", "Roboto", "Droid Sans", sans-serif;
+  font-size: 3.75vw; // 12px at 320 width
   margin: 0;
   overflow-x: hidden;
+
+  @media (min-width: 320px) {
+    font-size: 12px;
+  }
+
+  @media (min-width: 600px) {
+    font-size: 14px;
+  }
+
+  @media (min-width: 1024px) {
+    font-size: 16px;
+  }
 }
 
 section {
   text-align: center;
+  margin: 0 1em;
 }
 
 table {
@@ -35,13 +49,17 @@ table {
 
   td,
   th {
-    padding: 1em;
+    padding: 0.5em;
     border-bottom: 1px solid var(--dim-color);
     text-align: left;
   }
 
   th {
     background-color: var(--dim-color);
+  }
+
+  td:first-child {
+    padding-left: 1em;
   }
 }
 
@@ -65,6 +83,7 @@ a {
   color: var(--status-fg-color);
   font-size: 0.85em;
   padding: 0.15em 0.75em;
+  white-space: nowrap;
 
   a {
     color: inherit;
