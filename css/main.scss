@@ -17,19 +17,16 @@ html {
   color: var(--fg-color);
   fill: var(--fg-color);
   font-family: Inter, "Open Sans", "Noto Sans", "Roboto", "Droid Sans", sans-serif;
-  font-size: 3.75vw; // 12px at 320 width
+  font-size: 4.375vw; // 14px at 320 width
+  line-height: 1.5em;
   margin: 0;
   overflow-x: hidden;
 
   @media (min-width: 320px) {
-    font-size: 12px;
-  }
-
-  @media (min-width: 600px) {
     font-size: 14px;
   }
 
-  @media (min-width: 1024px) {
+  @media (min-width: 600px) {
     font-size: 16px;
   }
 }
@@ -49,13 +46,9 @@ table {
 
   td,
   th {
-    padding: 0.5em;
+    padding: 0.5em 1em;
     border-bottom: 1px solid var(--dim-color);
     text-align: left;
-
-    &:first-child {
-      padding-left: 1em;
-    }
   }
 
   th {
@@ -75,6 +68,11 @@ a {
 .name {
   display: block;
   font-weight: bold;
+}
+
+.version {
+  font-weight: 600;
+  opacity: 0.75;
 }
 
 .status {

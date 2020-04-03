@@ -8,8 +8,7 @@ layout: default
 
 <table class="releases">
   <thead>
-    <th>Repository</th>
-    <th>Latest Release</th>
+    <th>Release</th>
     <th>Commits Since</th>
   </thead>
   <tbody>
@@ -21,8 +20,7 @@ layout: default
       <td>
         <a href="{{ repo_href }}" class="name">{{ repo.name }}</a>
         <a class="version" href="{{ repo.releases.first.href }}">{{ repo.releases.first.version }}</a>
-      </td>
-      <td>
+        on
         <time datetime="{{ repo.releases.first.release_date }}" title="{{ repo.releases.first.release_date }}">{{ repo.releases.first.release_date | date: "%b %e, %Y" }}</time>
       </td>
       <td>
