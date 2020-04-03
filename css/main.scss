@@ -1,0 +1,130 @@
+---
+# main.scss needs front-matter to be parsed by Jekyll
+---
+@import "colors";
+
+:root {
+    color-scheme: light dark;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body,
+html {
+  background-color: var(--bg-color);
+  color: var(--fg-color);
+  fill: var(--fg-color);
+  font-family: Inter, "Open Sans", "Noto Sans", "Roboto", "Droid Sans", sans-serif;
+  font-size: 4.375vw; // 14px at 320 width
+  line-height: 1.5em;
+  margin: 0;
+  overflow-x: hidden;
+
+  @media (min-width: 320px) {
+    font-size: 14px;
+  }
+
+  @media (min-width: 600px) {
+    font-size: 16px;
+  }
+}
+
+section {
+  text-align: center;
+  margin: 0 1em;
+}
+
+table {
+  background-color: var(--view-color);
+  border-spacing: 0;
+  border-radius: 0.375em;
+  box-shadow:
+    0 0 0 1px rgba(0, 0, 0, 0.05),
+    0 3px 6px rgba(0, 0, 0, 0.22);
+  margin: 2em auto;
+  max-width: 800px;
+  width: 100%;
+
+  td,
+  th {
+    padding: 0.5em 1em;
+    text-align: left;
+
+    &.release {
+      width: 80%;
+    }
+  }
+
+  td {
+    border-top: 1px solid var(--dim-color);
+  }
+
+  th {
+    background-color: var(--dim-color);
+    opacity: 0.75;
+
+    &:first-child {
+      border-top-left-radius: calc(0.375em - 1px);
+    }
+
+    &:last-child {
+      border-top-right-radius: calc(0.375em - 1px);
+    }
+
+  }
+}
+
+a {
+  color: var(--accent-color);
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+.name {
+  display: block;
+  font-weight: 600;
+}
+
+.version {
+  font-size: 0.85em;
+  opacity: 0.75;
+}
+
+.badge {
+  background-color: var(--status-bg-color);
+  border-radius: 1em;
+  color: var(--status-fg-color);
+  font-size: 0.85em;
+  padding: 0.15em 0.75em;
+  white-space: nowrap;
+
+  a {
+    color: inherit;
+  }
+}
+
+.good {
+  background-color: var(--success-bg-color);
+  color: var(--success-fg-color);
+}
+
+.warn {
+  background-color: rgba(255, 243, 148, 0.5);
+  color: #ad5f00;
+
+  background-color: var(--warning-bg-color);
+  color: var(--warning-fg-color);
+}
+
+.critical {
+  background-color: rgba(255, 140, 130, 0.5);
+  color: #7a0000;
+
+  background-color: var(--critical-bg-color);
+  color: var(--critical-fg-color);
+}
