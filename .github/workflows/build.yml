@@ -6,7 +6,7 @@ on:
       - master
   schedule:
     # * is a special character in YAML so you have to quote this string
-    - cron:  '0 0 * * *'
+    - cron:  '0 * * * *'
 
 jobs:
   build:
@@ -28,12 +28,12 @@ jobs:
         python release.py
         echo "Setting up git credentials..."
         git remote set-url origin https://x-access-token:"$GITHUB_TOKEN"@github.com/"$GITHUB_REPOSITORY".git
-        git config --global user.email "actions@github.com"
-        git config --global user.name "actions"
+        git config --global user.email "builds@elementary.io"
+        git config --global user.name "elementaryBot"
         echo "Git credentials configured."
 
         git checkout master
         git add .
         git commit -m "Automatic update of data" && git push --set-upstream origin master || true
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.GIT_USER_TOKEN }}
