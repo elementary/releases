@@ -32,8 +32,8 @@ jobs:
         git config --global user.name "actions"
         echo "Git credentials configured."
 
-        git checkout gh-pages
+        git checkout master
         git add .
-        git commit -m "Automatic update of data" && git push --set-upstream origin gh-pages || true
+        git commit -m "Automatic update of data" && git push --set-upstream origin master || true
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
