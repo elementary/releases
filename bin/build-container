@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cd $(git rev-parse --show-toplevel) # work from repo dir
+docker build -t io.elementary.releases .
