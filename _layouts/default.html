@@ -18,7 +18,7 @@
         {% endif %}
       </p>
       {{ content | replace: '<a href="http', '<a rel="nofollow noopener noreferrer" target="_blank" href="http' }}
-
+      <p><small>Last updated <time datetime="{{ site.time }}" title="{{ site.time }}">{{ site.time | date: "%b %e, %Y at %l:%M %p %Z" }}</time>.</small></p>
     </section>
   </body>
 </html>
