@@ -19,16 +19,25 @@ layout: default
     <tr id="{{ repo.name }}" >
       <td class="release">
         <a href="{{ repo_href }}" class="name">{{ repo.name }}</a>
-        <details>
-          <summary>
-            <a class="version" href="{{ repo.releases.first.href }}">
-                {{ repo.releases.first.version }} on
-                <time datetime="{{ repo.releases.first.release_date }}" title="{{ repo.releases.first.release_date }}">{{ repo.releases.first.release_date | date: "%b %e, %Y" }}</time>
-            </a>
-          </summary>
-          <h4>{{ repo.releases.first.title }}</h4>
-          <p>{{ repo.releases.first.body }}</p>
-        </details>
+
+        {% assign now_secs = site.time | date: '%s' %}
+        {% for release in repo.releases %}
+          {% assign repo_secs = release.release_date | date: '%s' %}
+          {% assign repo_age_secs = now_secs | minus: repo_secs %}
+
+          {% comment %} Always show the first, plus any releases in the past month {% endcomment %}
+          {% if forloop.first or repo_age_secs < 2592000 %}
+            <details>
+              <summary class="version">
+                <a href="{{ release.href }}">{{ release.version }}</a>
+                on
+                <time datetime="{{ release.release_date }}" title="{{ release.release_date }}">{{ release.release_date | date: "%b %e, %Y" }}</time>
+              </summary>
+              <h4>{{ release.title }}</h4>
+              <p>{{ release.body }}</p>
+            </details>
+          {% endif %}
+        {% endfor %}
       </td>
       <td class="status">
         {% if repo.new_commits == 0 %}
