@@ -95,10 +95,20 @@ a {
   opacity: 0.75;
 }
 
+.status {
+  text-align: center;
+
+  small {
+    display: block;
+    font-size: 0.75em;
+  }
+}
+
 .badge {
   background-color: var(--status-bg-color);
   border-radius: 1em;
   color: var(--status-fg-color);
+  display: inline-block;
   font-size: 0.85em;
   padding: 0.15em 0.75em;
   white-space: nowrap;
