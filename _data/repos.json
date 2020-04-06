@@ -368,7 +368,7 @@
         "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.0"
       }
     ],
-    "new_commits": 0
+    "new_commits": 2
   },
   {
     "name": "wingpanel-indicator-sound",
@@ -921,7 +921,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 0
+    "new_commits": 2
   },
   {
     "name": "appcenter",
@@ -2751,7 +2751,7 @@
         "href": "https://github.com/elementary/capnet-assist/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 24
+    "new_commits": 26
   },
   {
     "name": "switchboard-plug-display",
@@ -3150,7 +3150,7 @@
         "href": "https://github.com/elementary/pantheon-agent-geoclue2/releases/tag/1.0"
       }
     ],
-    "new_commits": 24
+    "new_commits": 26
   },
   {
     "name": "pantheon-agent-polkit",
