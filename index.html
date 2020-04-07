@@ -5,6 +5,7 @@ layout: default
 ---
 
 {% assign org_href = "https://github.com/elementary" %}
+{% assign now = 'now' | date: '%s' | plus: 0 %}
 
 <table class="releases">
   <thead>
@@ -16,6 +17,7 @@ layout: default
     {% unless site.data.blacklist contains repo.name %}
     {% assign repo_href = org_href | append: "/" | append: repo.name %}
     {% assign commits_href = repo_href | append: "/compare/" | append: repo.releases.first.version | append: "...master" %}
+    {% assign release_date = repo.releases.first.release_date | date: '%s' | plus: 0 %}
     <tr id="{{ repo.name }}" >
       <td class="release">
         <a href="{{ repo_href }}" class="name">{{ repo.name }}</a>
@@ -32,11 +34,15 @@ layout: default
           <span class="badge">
             <a href="{{ commits_href }}">{{ repo.new_commits }} commit</a>
           </span>
-        {% elsif repo.new_commits > 1 and repo.new_commits < 15 %}
+        {% elsif release_date > (now - 2419200) %}
           <span class="badge">
             <a href="{{ commits_href }}">{{ repo.new_commits }} commits</a>
           </span>
-        {% elsif repo.new_commits >= 15 and repo.new_commits < 50 %}
+        {% elsif repo.new_commits > 1 and repo.new_commits < 10 %}
+          <span class="badge">
+            <a href="{{ commits_href }}">{{ repo.new_commits }} commits</a>
+          </span>
+        {% elsif repo.new_commits >= 10 and repo.new_commits < 50 %}
           <span class="badge warn">
             <a href="{{ commits_href }}">{{ repo.new_commits }} commits</a>
           </span>
