@@ -42,11 +42,11 @@ layout: default
           <span class="badge warn">
             <a href="{{ commits_href }}">{{ repo.new_commits }} commits</a>
           </span>
-        {% elsif repo.new_commits > 1 and repo.new_commits < 10 %}
+        {% elsif repo.new_commits > 1 and repo.new_commits < 15 %}
           <span class="badge">
             <a href="{{ commits_href }}">{{ repo.new_commits }} commits</a>
           </span>
-        {% elsif repo.new_commits >= 10 and repo.new_commits < 50 %}
+        {% elsif repo.new_commits >= 15 and repo.new_commits < 50 %}
           <span class="badge warn">
             <a href="{{ commits_href }}">{{ repo.new_commits }} commits</a>
           </span>
