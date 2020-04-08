@@ -858,7 +858,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 9
+    "new_commits": 11
   },
   {
     "name": "terminal",
@@ -1073,7 +1073,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 2
+    "new_commits": 3
   },
   {
     "name": "appcenter",
@@ -2641,7 +2641,7 @@
         "href": "https://github.com/elementary/videos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 39
+    "new_commits": 44
   },
   {
     "name": "applications-menu",
@@ -2717,7 +2717,7 @@
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
       }
     ],
-    "new_commits": 163
+    "new_commits": 165
   },
   {
     "name": "wingpanel-indicator-bluetooth",
@@ -2944,7 +2944,7 @@
         "href": "https://github.com/elementary/switchboard-plug-about/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 25
+    "new_commits": 26
   },
   {
     "name": "switchboard-plug-useraccounts",
