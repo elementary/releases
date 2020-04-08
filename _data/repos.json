@@ -1349,7 +1349,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.0.1"
       }
     ],
-    "new_commits": 3
+    "new_commits": 4
   },
   {
     "name": "wingpanel-indicator-session",
@@ -2641,7 +2641,7 @@
         "href": "https://github.com/elementary/videos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 44
+    "new_commits": 54
   },
   {
     "name": "applications-menu",
@@ -2999,7 +2999,7 @@
         "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 45
+    "new_commits": 47
   },
   {
     "name": "switchboard-plug-pantheon-shell",
