@@ -1,5 +1,88 @@
 [
   {
+    "name": "applications-menu",
+    "releases": [
+      {
+        "version": "2.6.0",
+        "release_date": "2020-04-09T20:38:38",
+        "title": "applications-menu 2.6.0 Released",
+        "body": "<p>Category view is now a list</p>\n<p>Improved keyboard navigation</p>\n<p>Performance improvements</p>\n<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/applications-menu/releases/tag/2.6.0"
+      },
+      {
+        "version": "2.5.0",
+        "release_date": "2019-11-25T17:07:00",
+        "title": "applications-menu 2.5.0 Released",
+        "body": "applications-menu 2.5.0 is out! \n\nChanges:\n\n* Improved keyboard navigation, including new tooltips and menu key support\n* Highlight action matches in the search view\n* Add a \"View in AppCenter\" menu item\n* Performance improvements\n* Updated translations\n",
+        "href": "https://github.com/elementary/applications-menu/releases/tag/2.5.0"
+      },
+      {
+        "version": "2.4.4",
+        "release_date": "2019-08-20T23:54:30",
+        "title": "Slingshot 2.4.4 Released",
+        "body": "slingshot-launcher 2.4.4 is out!\r\n\r\nChanges:\r\n* Don\u2019t launch apps being dragged from search results\r\n* Prevent AppCenter from possibly freezing panel\r\n* Drop support for Plank `< 0.11`\r\n* Updated translations",
+        "href": "https://github.com/elementary/applications-menu/releases/tag/2.4.4"
+      },
+      {
+        "version": "2.4.3",
+        "release_date": "2019-05-16T10:10:36",
+        "title": "Slingshot 2.4.3 Released",
+        "body": "slingshot-launcher 2.4.3 is out!\r\n\r\nChanges:\r\n* Build system fixes\r\n* Support more system management keywords\r\n* Fix ignored translations in search results\r\n* Keyboard navigation fix\r\n* Updated translations",
+        "href": "https://github.com/elementary/applications-menu/releases/tag/2.4.3"
+      },
+      {
+        "version": "2.4.2",
+        "release_date": "2019-01-22T09:51:45",
+        "title": "Slingshot 2.4.2 Released",
+        "body": "slingshot-launcher 2.4.2 is out!\r\n\r\nChanges:\r\n* Don't highlight query in text search results\r\n* Add Meson build system\r\n* Use Granite for tooltip accels\r\n* Updated translations",
+        "href": "https://github.com/elementary/applications-menu/releases/tag/2.4.2"
+      },
+      {
+        "version": "2.4.1",
+        "release_date": "2018-12-07T18:41:24",
+        "title": "Slingshot 2.4.1 Released",
+        "body": "slingshot-launcher 2.4.1 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/applications-menu/issues?q=is%3Aclosed+milestone%3A2.4.1).",
+        "href": "https://github.com/elementary/applications-menu/releases/tag/2.4.1"
+      },
+      {
+        "version": "2.4.0",
+        "release_date": "2018-09-18T15:41:03",
+        "title": "Slingshot 2.4.0 Released",
+        "body": "slingshot-launcher 2.4.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/applications-menu/issues?q=is%3Aclosed+milestone%3A2.4.0).",
+        "href": "https://github.com/elementary/applications-menu/releases/tag/2.4.0"
+      },
+      {
+        "version": "2.3.0",
+        "release_date": "2018-06-20T05:30:04",
+        "title": "Slingshot 2.3.0 Released",
+        "body": "slingshot-launcher 2.3.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/applications-menu/issues?q=is%3Aclosed+milestone%3A2.3.0).",
+        "href": "https://github.com/elementary/applications-menu/releases/tag/2.3.0"
+      },
+      {
+        "version": "2.2.0",
+        "release_date": "2017-09-26T14:20:28",
+        "title": "Slingshot 2.2.0 Released",
+        "body": "slingshot-launcher 2.2.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/applications-menu/issues?q=is%3Aclosed+milestone%3A2.2.0).",
+        "href": "https://github.com/elementary/applications-menu/releases/tag/2.2.0"
+      },
+      {
+        "version": "2.1.3",
+        "release_date": "2017-05-15T12:00:23",
+        "title": "Slingshot 2.1.3 Released",
+        "body": "slingshot-launcher 2.1.3 is out!",
+        "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.3"
+      },
+      {
+        "version": "2.1.2",
+        "release_date": "2017-05-12T08:49:05",
+        "title": "Slingshot 2.1.2 Released",
+        "body": "slingshot-launcher 2.1.2 is out!",
+        "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
+      }
+    ],
+    "new_commits": 0
+  },
+  {
     "name": "appcenter",
     "releases": [
       {
@@ -3223,82 +3306,6 @@
     "new_commits": 61
   },
   {
-    "name": "applications-menu",
-    "releases": [
-      {
-        "version": "2.5.0",
-        "release_date": "2019-11-25T17:07:00",
-        "title": "applications-menu 2.5.0 Released",
-        "body": "applications-menu 2.5.0 is out! \n\nChanges:\n\n* Improved keyboard navigation, including new tooltips and menu key support\n* Highlight action matches in the search view\n* Add a \"View in AppCenter\" menu item\n* Performance improvements\n* Updated translations\n",
-        "href": "https://github.com/elementary/applications-menu/releases/tag/2.5.0"
-      },
-      {
-        "version": "2.4.4",
-        "release_date": "2019-08-20T23:54:30",
-        "title": "Slingshot 2.4.4 Released",
-        "body": "slingshot-launcher 2.4.4 is out!\r\n\r\nChanges:\r\n* Don\u2019t launch apps being dragged from search results\r\n* Prevent AppCenter from possibly freezing panel\r\n* Drop support for Plank `< 0.11`\r\n* Updated translations",
-        "href": "https://github.com/elementary/applications-menu/releases/tag/2.4.4"
-      },
-      {
-        "version": "2.4.3",
-        "release_date": "2019-05-16T10:10:36",
-        "title": "Slingshot 2.4.3 Released",
-        "body": "slingshot-launcher 2.4.3 is out!\r\n\r\nChanges:\r\n* Build system fixes\r\n* Support more system management keywords\r\n* Fix ignored translations in search results\r\n* Keyboard navigation fix\r\n* Updated translations",
-        "href": "https://github.com/elementary/applications-menu/releases/tag/2.4.3"
-      },
-      {
-        "version": "2.4.2",
-        "release_date": "2019-01-22T09:51:45",
-        "title": "Slingshot 2.4.2 Released",
-        "body": "slingshot-launcher 2.4.2 is out!\r\n\r\nChanges:\r\n* Don't highlight query in text search results\r\n* Add Meson build system\r\n* Use Granite for tooltip accels\r\n* Updated translations",
-        "href": "https://github.com/elementary/applications-menu/releases/tag/2.4.2"
-      },
-      {
-        "version": "2.4.1",
-        "release_date": "2018-12-07T18:41:24",
-        "title": "Slingshot 2.4.1 Released",
-        "body": "slingshot-launcher 2.4.1 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/applications-menu/issues?q=is%3Aclosed+milestone%3A2.4.1).",
-        "href": "https://github.com/elementary/applications-menu/releases/tag/2.4.1"
-      },
-      {
-        "version": "2.4.0",
-        "release_date": "2018-09-18T15:41:03",
-        "title": "Slingshot 2.4.0 Released",
-        "body": "slingshot-launcher 2.4.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/applications-menu/issues?q=is%3Aclosed+milestone%3A2.4.0).",
-        "href": "https://github.com/elementary/applications-menu/releases/tag/2.4.0"
-      },
-      {
-        "version": "2.3.0",
-        "release_date": "2018-06-20T05:30:04",
-        "title": "Slingshot 2.3.0 Released",
-        "body": "slingshot-launcher 2.3.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/applications-menu/issues?q=is%3Aclosed+milestone%3A2.3.0).",
-        "href": "https://github.com/elementary/applications-menu/releases/tag/2.3.0"
-      },
-      {
-        "version": "2.2.0",
-        "release_date": "2017-09-26T14:20:28",
-        "title": "Slingshot 2.2.0 Released",
-        "body": "slingshot-launcher 2.2.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/applications-menu/issues?q=is%3Aclosed+milestone%3A2.2.0).",
-        "href": "https://github.com/elementary/applications-menu/releases/tag/2.2.0"
-      },
-      {
-        "version": "2.1.3",
-        "release_date": "2017-05-15T12:00:23",
-        "title": "Slingshot 2.1.3 Released",
-        "body": "slingshot-launcher 2.1.3 is out!",
-        "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.3"
-      },
-      {
-        "version": "2.1.2",
-        "release_date": "2017-05-12T08:49:05",
-        "title": "Slingshot 2.1.2 Released",
-        "body": "slingshot-launcher 2.1.2 is out!",
-        "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
-      }
-    ],
-    "new_commits": 170
-  },
-  {
     "name": "pantheon-agent-geoclue2",
     "releases": [
       {
@@ -3832,7 +3839,7 @@
         "href": "https://github.com/elementary/switchboard-plug-parental-controls/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 224
+    "new_commits": 230
   },
   {
     "name": "press-kit",
