@@ -2073,7 +2073,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-session/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 9
+    "new_commits": 10
   },
   {
     "name": "switchboard-plug-sharing",
@@ -3765,7 +3765,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 1255
+    "new_commits": 1256
   },
   {
     "name": "fonts",
