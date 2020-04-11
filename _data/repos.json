@@ -1825,7 +1825,7 @@
         "href": "https://github.com/elementary/terminal/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 9
+    "new_commits": 14
   },
   {
     "name": "granite",
@@ -3337,7 +3337,7 @@
         "href": "https://github.com/elementary/pantheon-agent-geoclue2/releases/tag/1.0"
       }
     ],
-    "new_commits": 29
+    "new_commits": 30
   },
   {
     "name": "actions",
