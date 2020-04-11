@@ -3303,7 +3303,7 @@
         "href": "https://github.com/elementary/videos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 61
+    "new_commits": 64
   },
   {
     "name": "pantheon-agent-geoclue2",
@@ -3839,7 +3839,7 @@
         "href": "https://github.com/elementary/switchboard-plug-parental-controls/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 238
+    "new_commits": 245
   },
   {
     "name": "press-kit",
