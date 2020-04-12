@@ -80,7 +80,7 @@
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
       }
     ],
-    "new_commits": 0
+    "new_commits": 2
   },
   {
     "name": "appcenter",
@@ -894,7 +894,7 @@
         "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 4
+    "new_commits": 6
   },
   {
     "name": "wingpanel",
@@ -2663,7 +2663,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 11
+    "new_commits": 12
   },
   {
     "name": "wingpanel-indicator-network",
@@ -3390,7 +3390,7 @@
         "href": "https://github.com/elementary/feedback/releases/tag/1.0"
       }
     ],
-    "new_commits": 318
+    "new_commits": 319
   },
   {
     "name": "houston",
