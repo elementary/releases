@@ -1,5 +1,74 @@
 [
   {
+    "name": "videos",
+    "releases": [
+      {
+        "version": "2.7.1",
+        "release_date": "2020-04-14T22:18:45",
+        "title": "videos 2.7.1 Released",
+        "body": "<p>Other updates:</p>\n<ul>\n<li>Reliably update the replay button description and file</li>\n<li>More consistently remember the last playing video and its play position</li>\n<li>Fix missing icon in episode view</li>\n<li>Translation updates</li>\n</ul>\n",
+        "href": "https://github.com/elementary/videos/releases/tag/2.7.1"
+      },
+      {
+        "version": "2.7.0",
+        "release_date": "2019-11-25T17:17:19",
+        "title": "videos 2.7.0 Released",
+        "body": "videos 2.7.0 is out! \r\n\r\nChanges:\r\n\r\nNew features:\r\n\r\n* Option to automatically play next videos\r\n* Navigate the playlist with the keyboard\r\n* Add a button to clear the playlist\r\n* Show audio track language in settings\r\n* Show playlist item titles in their tooltips\r\n\r\nOther updates:\r\n\r\n* Show an error for unsupported files\r\n* Fix disappearing cursor on headerbar\r\n* Hide seekbar preview when switching windows with Alt + Tab\r\n* Translation updates\r\n",
+        "href": "https://github.com/elementary/videos/releases/tag/2.7.0"
+      },
+      {
+        "version": "2.6.3",
+        "release_date": "2019-01-09T10:19:08",
+        "title": "Videos 2.6.3 Released",
+        "body": "Videos 2.6.3 is out!\r\n\r\nChanges:\r\n* Build fixes\r\n* Updated translations",
+        "href": "https://github.com/elementary/videos/releases/tag/2.6.3"
+      },
+      {
+        "version": "2.6.2",
+        "release_date": "2018-10-01T06:52:12",
+        "title": "Videos 2.6.2 Released",
+        "body": "Videos 2.6.2 is out!\r\n\r\nThis release includes build fixes and updated translations.",
+        "href": "https://github.com/elementary/videos/releases/tag/2.6.2"
+      },
+      {
+        "version": "2.6.1",
+        "release_date": "2018-07-31T09:16:04",
+        "title": "Videos 2.6.1 Released",
+        "body": "Videos 2.6.1 is out!\r\n\r\nThis release includes translation updates.",
+        "href": "https://github.com/elementary/videos/releases/tag/2.6.1"
+      },
+      {
+        "version": "0.2.6",
+        "release_date": "2018-06-20T08:43:37",
+        "title": "Videos 0.2.6 Released",
+        "body": "Videos 0.2.6 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/videos/issues?q=is%3Aclosed+milestone%3A0.2.6).",
+        "href": "https://github.com/elementary/videos/releases/tag/0.2.6"
+      },
+      {
+        "version": "0.2.5",
+        "release_date": "2018-01-08T19:53:24",
+        "title": "Audience 0.2.5 Released",
+        "body": "Audience 0.2.5 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/videos/issues?q=is%3Aclosed+milestone%3A0.2.5).",
+        "href": "https://github.com/elementary/videos/releases/tag/0.2.5"
+      },
+      {
+        "version": "0.2.4",
+        "release_date": "2017-08-12T02:05:24",
+        "title": "Audience 0.2.4 Released",
+        "body": "Audience 0.2.4 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/videos/milestone/3).",
+        "href": "https://github.com/elementary/videos/releases/tag/0.2.4"
+      },
+      {
+        "version": "0.2.3",
+        "release_date": "2017-08-02T11:05:26",
+        "title": "Audience 0.2.3 Released",
+        "body": "Audience 0.2.3 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/videos/milestone/1?closed=1).",
+        "href": "https://github.com/elementary/videos/releases/tag/0.2.3"
+      }
+    ],
+    "new_commits": 1
+  },
+  {
     "name": "applications-menu",
     "releases": [
       {
@@ -536,7 +605,7 @@
         "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
       }
     ],
-    "new_commits": 8
+    "new_commits": 12
   },
   {
     "name": "photos",
@@ -3242,68 +3311,6 @@
       }
     ],
     "new_commits": 4
-  },
-  {
-    "name": "videos",
-    "releases": [
-      {
-        "version": "2.7.0",
-        "release_date": "2019-11-25T17:17:19",
-        "title": "videos 2.7.0 Released",
-        "body": "videos 2.7.0 is out! \r\n\r\nChanges:\r\n\r\nNew features:\r\n\r\n* Option to automatically play next videos\r\n* Navigate the playlist with the keyboard\r\n* Add a button to clear the playlist\r\n* Show audio track language in settings\r\n* Show playlist item titles in their tooltips\r\n\r\nOther updates:\r\n\r\n* Show an error for unsupported files\r\n* Fix disappearing cursor on headerbar\r\n* Hide seekbar preview when switching windows with Alt + Tab\r\n* Translation updates\r\n",
-        "href": "https://github.com/elementary/videos/releases/tag/2.7.0"
-      },
-      {
-        "version": "2.6.3",
-        "release_date": "2019-01-09T10:19:08",
-        "title": "Videos 2.6.3 Released",
-        "body": "Videos 2.6.3 is out!\r\n\r\nChanges:\r\n* Build fixes\r\n* Updated translations",
-        "href": "https://github.com/elementary/videos/releases/tag/2.6.3"
-      },
-      {
-        "version": "2.6.2",
-        "release_date": "2018-10-01T06:52:12",
-        "title": "Videos 2.6.2 Released",
-        "body": "Videos 2.6.2 is out!\r\n\r\nThis release includes build fixes and updated translations.",
-        "href": "https://github.com/elementary/videos/releases/tag/2.6.2"
-      },
-      {
-        "version": "2.6.1",
-        "release_date": "2018-07-31T09:16:04",
-        "title": "Videos 2.6.1 Released",
-        "body": "Videos 2.6.1 is out!\r\n\r\nThis release includes translation updates.",
-        "href": "https://github.com/elementary/videos/releases/tag/2.6.1"
-      },
-      {
-        "version": "0.2.6",
-        "release_date": "2018-06-20T08:43:37",
-        "title": "Videos 0.2.6 Released",
-        "body": "Videos 0.2.6 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/videos/issues?q=is%3Aclosed+milestone%3A0.2.6).",
-        "href": "https://github.com/elementary/videos/releases/tag/0.2.6"
-      },
-      {
-        "version": "0.2.5",
-        "release_date": "2018-01-08T19:53:24",
-        "title": "Audience 0.2.5 Released",
-        "body": "Audience 0.2.5 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/videos/issues?q=is%3Aclosed+milestone%3A0.2.5).",
-        "href": "https://github.com/elementary/videos/releases/tag/0.2.5"
-      },
-      {
-        "version": "0.2.4",
-        "release_date": "2017-08-12T02:05:24",
-        "title": "Audience 0.2.4 Released",
-        "body": "Audience 0.2.4 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/videos/milestone/3).",
-        "href": "https://github.com/elementary/videos/releases/tag/0.2.4"
-      },
-      {
-        "version": "0.2.3",
-        "release_date": "2017-08-02T11:05:26",
-        "title": "Audience 0.2.3 Released",
-        "body": "Audience 0.2.3 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/videos/milestone/1?closed=1).",
-        "href": "https://github.com/elementary/videos/releases/tag/0.2.3"
-      }
-    ],
-    "new_commits": 66
   },
   {
     "name": "pantheon-agent-geoclue2",
