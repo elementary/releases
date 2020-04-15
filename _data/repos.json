@@ -1,5 +1,46 @@
 [
   {
+    "name": "pantheon-agent-geoclue2",
+    "releases": [
+      {
+        "version": "1.0.4",
+        "release_date": "2020-04-15T00:35:38",
+        "title": "pantheon-agent-geoclue2 1.0.4 Released",
+        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/pantheon-agent-geoclue2/releases/tag/1.0.4"
+      },
+      {
+        "version": "1.0.3",
+        "release_date": "2019-11-15T21:56:27",
+        "title": "pantheon-agent-geoclue2 1.0.3 Released",
+        "body": "pantheon-agent-geoclue2 1.0.3 is out! \n\nChanges:\n\n* Updated translations\n",
+        "href": "https://github.com/elementary/pantheon-agent-geoclue2/releases/tag/1.0.3"
+      },
+      {
+        "version": "1.0.2",
+        "release_date": "2019-06-30T16:26:54",
+        "title": "Pantheon Geoclue2 Agent 1.0.2 Released",
+        "body": "Pantheon Geoclue2 Agent 1.0.2 is out!\r\n\r\nChanges:\r\n* Fix regression so daemon always listens for connections instead of timing out after 10 seconds\r\n* Updated translations",
+        "href": "https://github.com/elementary/pantheon-agent-geoclue2/releases/tag/1.0.2"
+      },
+      {
+        "version": "1.0.1",
+        "release_date": "2018-12-19T09:38:08",
+        "title": "Pantheon Geoclue2 Agent 1.0.1 Released",
+        "body": "Pantheon Geoclue2 Agent 1.0.1 is out!\r\n\r\nThis release includes translation updates.",
+        "href": "https://github.com/elementary/pantheon-agent-geoclue2/releases/tag/1.0.1"
+      },
+      {
+        "version": "1.0",
+        "release_date": "2018-05-24T19:30:28",
+        "title": "Pantheon Geoclue2 Agent 1.0 Released",
+        "body": "Pantheon Geoclue2 Agent 1.0 is out!\r\n\r\nThis is its initial release.",
+        "href": "https://github.com/elementary/pantheon-agent-geoclue2/releases/tag/1.0"
+      }
+    ],
+    "new_commits": 0
+  },
+  {
     "name": "videos",
     "releases": [
       {
@@ -3311,40 +3352,6 @@
       }
     ],
     "new_commits": 4
-  },
-  {
-    "name": "pantheon-agent-geoclue2",
-    "releases": [
-      {
-        "version": "1.0.3",
-        "release_date": "2019-11-15T21:56:27",
-        "title": "pantheon-agent-geoclue2 1.0.3 Released",
-        "body": "pantheon-agent-geoclue2 1.0.3 is out! \n\nChanges:\n\n* Updated translations\n",
-        "href": "https://github.com/elementary/pantheon-agent-geoclue2/releases/tag/1.0.3"
-      },
-      {
-        "version": "1.0.2",
-        "release_date": "2019-06-30T16:26:54",
-        "title": "Pantheon Geoclue2 Agent 1.0.2 Released",
-        "body": "Pantheon Geoclue2 Agent 1.0.2 is out!\r\n\r\nChanges:\r\n* Fix regression so daemon always listens for connections instead of timing out after 10 seconds\r\n* Updated translations",
-        "href": "https://github.com/elementary/pantheon-agent-geoclue2/releases/tag/1.0.2"
-      },
-      {
-        "version": "1.0.1",
-        "release_date": "2018-12-19T09:38:08",
-        "title": "Pantheon Geoclue2 Agent 1.0.1 Released",
-        "body": "Pantheon Geoclue2 Agent 1.0.1 is out!\r\n\r\nThis release includes translation updates.",
-        "href": "https://github.com/elementary/pantheon-agent-geoclue2/releases/tag/1.0.1"
-      },
-      {
-        "version": "1.0",
-        "release_date": "2018-05-24T19:30:28",
-        "title": "Pantheon Geoclue2 Agent 1.0 Released",
-        "body": "Pantheon Geoclue2 Agent 1.0 is out!\r\n\r\nThis is its initial release.",
-        "href": "https://github.com/elementary/pantheon-agent-geoclue2/releases/tag/1.0"
-      }
-    ],
-    "new_commits": 30
   },
   {
     "name": "actions",
