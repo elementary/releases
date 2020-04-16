@@ -329,7 +329,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 18
+    "new_commits": 26
   },
   {
     "name": "switchboard-plug-useraccounts",
@@ -646,7 +646,7 @@
         "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
       }
     ],
-    "new_commits": 15
+    "new_commits": 21
   },
   {
     "name": "photos",
