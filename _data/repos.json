@@ -329,7 +329,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 31
+    "new_commits": 34
   },
   {
     "name": "switchboard-plug-useraccounts",
@@ -3853,7 +3853,7 @@
         "href": "https://github.com/elementary/switchboard-plug-parental-controls/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 254
+    "new_commits": 258
   },
   {
     "name": "press-kit",
