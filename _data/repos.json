@@ -190,7 +190,7 @@
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
       }
     ],
-    "new_commits": 11
+    "new_commits": 15
   },
   {
     "name": "appcenter",
@@ -329,7 +329,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 62
+    "new_commits": 70
   },
   {
     "name": "switchboard-plug-useraccounts",
@@ -722,7 +722,7 @@
         "href": "https://github.com/elementary/photos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 1
+    "new_commits": 2
   },
   {
     "name": "switchboard-plug-mouse-touchpad",
