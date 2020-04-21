@@ -646,7 +646,7 @@
         "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
       }
     ],
-    "new_commits": 27
+    "new_commits": 35
   },
   {
     "name": "photos",
@@ -2059,7 +2059,7 @@
         "href": "https://github.com/elementary/onboarding/releases/tag/1.0"
       }
     ],
-    "new_commits": 4
+    "new_commits": 9
   },
   {
     "name": "wingpanel-indicator-keyboard",
