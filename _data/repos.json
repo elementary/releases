@@ -107,7 +107,7 @@
         "href": "https://github.com/elementary/videos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 2
+    "new_commits": 3
   },
   {
     "name": "applications-menu",
@@ -190,7 +190,7 @@
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
       }
     ],
-    "new_commits": 15
+    "new_commits": 16
   },
   {
     "name": "appcenter",
@@ -391,7 +391,7 @@
         "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 11
+    "new_commits": 12
   },
   {
     "name": "wingpanel-indicator-bluetooth",
@@ -722,7 +722,7 @@
         "href": "https://github.com/elementary/photos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 2
+    "new_commits": 3
   },
   {
     "name": "switchboard-plug-mouse-touchpad",
@@ -949,7 +949,7 @@
         "href": "https://github.com/elementary/switchboard-plug-security-privacy/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 9
+    "new_commits": 10
   },
   {
     "name": "pantheon-agent-polkit",
@@ -1935,7 +1935,7 @@
         "href": "https://github.com/elementary/terminal/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 28
+    "new_commits": 30
   },
   {
     "name": "granite",
@@ -2560,7 +2560,7 @@
         "href": "https://github.com/elementary/switchboard-plug-network/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 13
+    "new_commits": 14
   },
   {
     "name": "switchboard-plug-locale",
@@ -2608,7 +2608,7 @@
         "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 13
+    "new_commits": 14
   },
   {
     "name": "sideload",
@@ -2773,7 +2773,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 12
+    "new_commits": 13
   },
   {
     "name": "wingpanel-indicator-network",
@@ -3853,7 +3853,7 @@
         "href": "https://github.com/elementary/switchboard-plug-parental-controls/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 258
+    "new_commits": 268
   },
   {
     "name": "press-kit",
