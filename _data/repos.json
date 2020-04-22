@@ -2890,7 +2890,7 @@
         "href": "https://github.com/elementary/music/releases/tag/0.4.0.3"
       }
     ],
-    "new_commits": 7
+    "new_commits": 11
   },
   {
     "name": "wingpanel-indicator-nightlight",
@@ -3303,7 +3303,7 @@
         "href": "https://github.com/elementary/icons/releases/tag/4.0.1.1"
       }
     ],
-    "new_commits": 8
+    "new_commits": 9
   },
   {
     "name": "wallpapers",
@@ -3786,7 +3786,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 1259
+    "new_commits": 1261
   },
   {
     "name": "fonts",
