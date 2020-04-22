@@ -1,5 +1,108 @@
 [
   {
+    "name": "switchboard-plug-pantheon-shell",
+    "releases": [
+      {
+        "version": "2.8.4",
+        "release_date": "2020-04-22T21:37:28",
+        "title": "switchboard-plug-pantheon-shell 2.8.4 Released",
+        "body": "<p>Illustrate Dock icon sizes</p>\n<p>Fix system wallpapers being copied</p>\n<p>Update search results</p>\n<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/2.8.4"
+      },
+      {
+        "version": "2.8.3",
+        "release_date": "2020-04-08T20:19:29",
+        "title": "switchboard-plug-pantheon-shell 2.8.3 Released",
+        "body": "<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/2.8.3"
+      },
+      {
+        "version": "2.8.2",
+        "release_date": "2019-11-15T22:18:40",
+        "title": "switchboard-plug-pantheon-shell 2.8.2 Released",
+        "body": "switchboard-plug-pantheon-shell 2.8.2 is out! \n\nChanges:\n\n* Fix issues with setting wallpapers on the Login and Lock screen\n* Updated translations\n",
+        "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/2.8.2"
+      },
+      {
+        "version": "2.8.1",
+        "release_date": "2019-03-27T11:34:07",
+        "title": "Switchboard Desktop Plug 2.8.1 Released",
+        "body": "switchboard-plug-pantheon-shell 2.8.1 is out!\r\n\r\nChanges:\r\n* Updated translations",
+        "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/2.8.1"
+      },
+      {
+        "version": "2.8.0",
+        "release_date": "2018-12-21T11:29:38",
+        "title": "Switchboard Desktop Plug 2.8.0 Released",
+        "body": "switchboard-plug-pantheon-shell 2.8.0 is out!\r\n\r\nChanges:\r\n* Appearance tab\r\n* Ignore all wallpaper symlinks\r\n* Updated translations",
+        "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/2.8.0"
+      },
+      {
+        "version": "2.7.2",
+        "release_date": "2018-11-28T13:34:36",
+        "title": "Switchboard Desktop Plug 2.7.2 Released",
+        "body": "switchboard-plug-pantheon-shell 2.7.2 is out!\r\n\r\nChanges:\r\n* Scan sub-directories for wallpapers\r\n* Updated translations",
+        "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/2.7.2"
+      },
+      {
+        "version": "2.7.1",
+        "release_date": "2018-10-16T00:20:01",
+        "title": "Switchboard Desktop Plug 2.7.1 Released",
+        "body": "switchboard-plug-pantheon-shell 2.7.1 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-pantheon-shell/issues?q=is%3Aclosed+milestone%3A2.7.1).",
+        "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/2.7.1"
+      },
+      {
+        "version": "0.2.7",
+        "release_date": "2018-06-08T16:48:34",
+        "title": "Switchboard Desktop Plug 0.2.7 Released",
+        "body": "switchboard-plug-pantheon-shell 0.2.7 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-pantheon-shell/issues?q=is%3Aclosed+milestone%3A0.2.7).",
+        "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/0.2.7"
+      },
+      {
+        "version": "0.2.6",
+        "release_date": "2017-06-14T23:02:26",
+        "title": "Switchboard Desktop Plug 0.2.6 Released",
+        "body": "switchboard-plug-pantheon-shell 0.2.6 is out!",
+        "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/0.2.6"
+      },
+      {
+        "version": "switchboard-plug-pantheon-shell-0.2.5",
+        "release_date": "2017-04-15T05:25:53",
+        "title": "Switchboard Desktop Plug 0.2.5 Released",
+        "body": "switchboard-plug-pantheon-shell 0.2.5 is out!",
+        "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
+      }
+    ],
+    "new_commits": 0
+  },
+  {
+    "name": "switchboard-plug-parental-controls",
+    "releases": [
+      {
+        "version": "3.0.0",
+        "release_date": "2020-04-22T21:06:36",
+        "title": "switchboard-plug-parental-controls 3.0.0 Released",
+        "body": "<p>Rename to Screen Time &amp; Limits</p>\n<p>Show your own account</p>\n<p>Redesign the app chooser</p>\n<p>Redesign the Screen Time view</p>\n<p>Fix an issue with removing URLs from restricted websites</p>\n<p>Reliably apply time restrictions</p>\n<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/switchboard-plug-parental-controls/releases/tag/3.0.0"
+      },
+      {
+        "version": "2.1.5",
+        "release_date": "2018-10-09T09:19:42",
+        "title": "Switchboard Parental Controls Plug 2.1.5 Released",
+        "body": "switchboard-plug-parental-controls 2.1.5 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-parental-controls/issues?q=is%3Aclosed+milestone%3A2.1.5).",
+        "href": "https://github.com/elementary/switchboard-plug-parental-controls/releases/tag/2.1.5"
+      },
+      {
+        "version": "0.1.4",
+        "release_date": "2018-06-19T06:31:56",
+        "title": "Switchboard Parental Controls Plug 0.1.4 Released",
+        "body": "switchboard-plug-parental-controls 0.1.4 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-parental-controls/issues?q=is%3Aclosed+milestone%3A0.1.4).",
+        "href": "https://github.com/elementary/switchboard-plug-parental-controls/releases/tag/0.1.4"
+      }
+    ],
+    "new_commits": 0
+  },
+  {
     "name": "pantheon-agent-geoclue2",
     "releases": [
       {
@@ -578,75 +681,6 @@
       }
     ],
     "new_commits": 7
-  },
-  {
-    "name": "switchboard-plug-pantheon-shell",
-    "releases": [
-      {
-        "version": "2.8.3",
-        "release_date": "2020-04-08T20:19:29",
-        "title": "switchboard-plug-pantheon-shell 2.8.3 Released",
-        "body": "<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/2.8.3"
-      },
-      {
-        "version": "2.8.2",
-        "release_date": "2019-11-15T22:18:40",
-        "title": "switchboard-plug-pantheon-shell 2.8.2 Released",
-        "body": "switchboard-plug-pantheon-shell 2.8.2 is out! \n\nChanges:\n\n* Fix issues with setting wallpapers on the Login and Lock screen\n* Updated translations\n",
-        "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/2.8.2"
-      },
-      {
-        "version": "2.8.1",
-        "release_date": "2019-03-27T11:34:07",
-        "title": "Switchboard Desktop Plug 2.8.1 Released",
-        "body": "switchboard-plug-pantheon-shell 2.8.1 is out!\r\n\r\nChanges:\r\n* Updated translations",
-        "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/2.8.1"
-      },
-      {
-        "version": "2.8.0",
-        "release_date": "2018-12-21T11:29:38",
-        "title": "Switchboard Desktop Plug 2.8.0 Released",
-        "body": "switchboard-plug-pantheon-shell 2.8.0 is out!\r\n\r\nChanges:\r\n* Appearance tab\r\n* Ignore all wallpaper symlinks\r\n* Updated translations",
-        "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/2.8.0"
-      },
-      {
-        "version": "2.7.2",
-        "release_date": "2018-11-28T13:34:36",
-        "title": "Switchboard Desktop Plug 2.7.2 Released",
-        "body": "switchboard-plug-pantheon-shell 2.7.2 is out!\r\n\r\nChanges:\r\n* Scan sub-directories for wallpapers\r\n* Updated translations",
-        "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/2.7.2"
-      },
-      {
-        "version": "2.7.1",
-        "release_date": "2018-10-16T00:20:01",
-        "title": "Switchboard Desktop Plug 2.7.1 Released",
-        "body": "switchboard-plug-pantheon-shell 2.7.1 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-pantheon-shell/issues?q=is%3Aclosed+milestone%3A2.7.1).",
-        "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/2.7.1"
-      },
-      {
-        "version": "0.2.7",
-        "release_date": "2018-06-08T16:48:34",
-        "title": "Switchboard Desktop Plug 0.2.7 Released",
-        "body": "switchboard-plug-pantheon-shell 0.2.7 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-pantheon-shell/issues?q=is%3Aclosed+milestone%3A0.2.7).",
-        "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/0.2.7"
-      },
-      {
-        "version": "0.2.6",
-        "release_date": "2017-06-14T23:02:26",
-        "title": "Switchboard Desktop Plug 0.2.6 Released",
-        "body": "switchboard-plug-pantheon-shell 0.2.6 is out!",
-        "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/0.2.6"
-      },
-      {
-        "version": "switchboard-plug-pantheon-shell-0.2.5",
-        "release_date": "2017-04-15T05:25:53",
-        "title": "Switchboard Desktop Plug 0.2.5 Released",
-        "body": "switchboard-plug-pantheon-shell 0.2.5 is out!",
-        "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
-      }
-    ],
-    "new_commits": 35
   },
   {
     "name": "photos",
@@ -3834,26 +3868,6 @@
       }
     ],
     "new_commits": 228
-  },
-  {
-    "name": "switchboard-plug-parental-controls",
-    "releases": [
-      {
-        "version": "2.1.5",
-        "release_date": "2018-10-09T09:19:42",
-        "title": "Switchboard Parental Controls Plug 2.1.5 Released",
-        "body": "switchboard-plug-parental-controls 2.1.5 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-parental-controls/issues?q=is%3Aclosed+milestone%3A2.1.5).",
-        "href": "https://github.com/elementary/switchboard-plug-parental-controls/releases/tag/2.1.5"
-      },
-      {
-        "version": "0.1.4",
-        "release_date": "2018-06-19T06:31:56",
-        "title": "Switchboard Parental Controls Plug 0.1.4 Released",
-        "body": "switchboard-plug-parental-controls 0.1.4 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-parental-controls/issues?q=is%3Aclosed+milestone%3A0.1.4).",
-        "href": "https://github.com/elementary/switchboard-plug-parental-controls/releases/tag/0.1.4"
-      }
-    ],
-    "new_commits": 268
   },
   {
     "name": "press-kit",
