@@ -41,5 +41,6 @@
   <meta itemprop="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
   <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
 
+  <link rel="stylesheet" type="text/css" media="all" href="{{ 'https://styles.elementary.io/main.css' | append: '?v=' | append: hash }}" />
   <link rel="stylesheet" type="text/css" media="all" href="{{ '/css/main.css' | prepend: site.baseurl | append: '?v=' | append: hash }}" />
 </head>

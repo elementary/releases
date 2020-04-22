@@ -1,35 +1,8 @@
 ---
 # main.scss needs front-matter to be parsed by Jekyll
 ---
-@import "colors";
 
-:root {
-    color-scheme: light dark;
-}
-
-* {
-  box-sizing: border-box;
-}
-
-body,
-html {
-  background-color: var(--bg-color);
-  color: var(--fg-color);
-  fill: var(--fg-color);
-  font-family: Inter, "Open Sans", "Noto Sans", "Roboto", "Droid Sans", sans-serif;
-  font-size: 4.375vw; // 14px at 320 width
-  line-height: 1.5em;
-  margin: 0;
-  overflow-x: hidden;
-
-  @media (min-width: 320px) {
-    font-size: 14px;
-  }
-
-  @media (min-width: 600px) {
-    font-size: 16px;
-  }
-}
+// Depends on https://github.com/elementary/web-styles
 
 section {
   text-align: center;
@@ -114,17 +87,11 @@ a {
 }
 
 .warn {
-  background-color: rgba(255, 243, 148, 0.5);
-  color: #ad5f00;
-
   background-color: var(--warning-bg-color);
   color: var(--warning-fg-color);
 }
 
 .critical {
-  background-color: rgba(255, 140, 130, 0.5);
-  color: #7a0000;
-
   background-color: var(--critical-bg-color);
   color: var(--critical-fg-color);
 }
