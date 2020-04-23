@@ -1,4 +1,5 @@
 import datetime
+import timeago
 import json
 import os
 import sys
@@ -52,6 +53,7 @@ for repo in repos:
     releases.append ({
       "version": release.tag_name,
       "release_date": release.created_at.isoformat(),
+      "timeago": timeago.format(release.created_at, now),
       "title": release.title,
       "body": release.body,
       "href": release.html_url
