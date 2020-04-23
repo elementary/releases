@@ -432,7 +432,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 115
+    "new_commits": 119
   },
   {
     "name": "switchboard-plug-useraccounts",
@@ -3240,7 +3240,7 @@
         "href": "https://github.com/elementary/default-settings/releases/tag/5.0"
       }
     ],
-    "new_commits": 14
+    "new_commits": 15
   },
   {
     "name": "icons",
