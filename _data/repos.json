@@ -432,7 +432,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 104
+    "new_commits": 108
   },
   {
     "name": "switchboard-plug-useraccounts",
@@ -1616,7 +1616,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-power/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 0
+    "new_commits": 4
   },
   {
     "name": "switchboard-plug-datetime",
