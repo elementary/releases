@@ -2059,7 +2059,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 5
+    "new_commits": 8
   },
   {
     "name": "onboarding",
@@ -3820,7 +3820,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 1264
+    "new_commits": 1265
   },
   {
     "name": "fonts",
