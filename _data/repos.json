@@ -141,7 +141,7 @@
         "href": "https://github.com/elementary/pantheon-agent-geoclue2/releases/tag/1.0"
       }
     ],
-    "new_commits": 0
+    "new_commits": 1
   },
   {
     "name": "videos",
@@ -432,7 +432,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 108
+    "new_commits": 115
   },
   {
     "name": "switchboard-plug-useraccounts",
@@ -604,7 +604,7 @@
         "href": "https://github.com/elementary/capnet-assist/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 1
+    "new_commits": 2
   },
   {
     "name": "switchboard-plug-about",
@@ -1038,7 +1038,7 @@
         "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 7
+    "new_commits": 9
   },
   {
     "name": "wingpanel",
@@ -1190,7 +1190,7 @@
         "href": "https://github.com/elementary/greeter/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 8
+    "new_commits": 9
   },
   {
     "name": "calculator",
@@ -1472,7 +1472,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 12
+    "new_commits": 13
   },
   {
     "name": "shortcut-overlay",
@@ -1506,7 +1506,7 @@
         "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.0"
       }
     ],
-    "new_commits": 3
+    "new_commits": 5
   },
   {
     "name": "wingpanel-indicator-sound",
@@ -2059,7 +2059,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 4
+    "new_commits": 5
   },
   {
     "name": "onboarding",
@@ -2402,7 +2402,7 @@
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 8
+    "new_commits": 10
   },
   {
     "name": "camera",
@@ -2669,7 +2669,7 @@
         "href": "https://github.com/elementary/sideload/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 5
+    "new_commits": 6
   },
   {
     "name": "switchboard",
@@ -3240,7 +3240,7 @@
         "href": "https://github.com/elementary/default-settings/releases/tag/5.0"
       }
     ],
-    "new_commits": 13
+    "new_commits": 14
   },
   {
     "name": "icons",
@@ -3438,7 +3438,7 @@
         "href": "https://github.com/elementary/feedback/releases/tag/1.0"
       }
     ],
-    "new_commits": 319
+    "new_commits": 320
   },
   {
     "name": "houston",
