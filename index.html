@@ -17,7 +17,7 @@ layout: default
     {% unless site.data.blacklist contains repo.name %}
     {% assign repo_href = org_href | append: "/" | append: repo.name %}
     {% assign commits_href = repo_href | append: "/compare/" | append: repo.releases.first.version | append: "...master" %}
-    {% assign release_date = repo.releases.first.release_date | date: '%s' | plus: 0 %}
+    {% assign release_date_seconds = repo.releases.first.release_date | date: '%s' | plus: 0 %}
     <tr id="{{ repo.name }}" >
       <td class="release">
         <a href="{{ repo_href }}" class="name">{{ repo.name }}</a>
@@ -30,7 +30,7 @@ layout: default
       <td class="status">
         {% if repo.new_commits == 0 %}
           <span class="badge good">Up to date</span>
-        {% elsif release_date > (now - 2419200) %}
+        {% elsif release_date_seconds > (now - 2419200) %}
           <span class="badge good">
             <a href="{{ commits_href }}">Recent Release</a>
           </span>
@@ -51,6 +51,9 @@ layout: default
             <a href="{{ commits_href }}">{{ repo.new_commits }} commits</a>
           </span>
         {% endif %}
+        <sub class="timeago"><time datetime="{{ repo.releases.first.release_date }}">
+          {{ repo.releases.first.timeago }}
+        </time></sub>
       </td>
     </tr>
     {% endunless %}
