@@ -73,7 +73,7 @@
         "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
       }
     ],
-    "new_commits": 0
+    "new_commits": 2
   },
   {
     "name": "switchboard-plug-parental-controls",
@@ -2059,7 +2059,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 8
+    "new_commits": 9
   },
   {
     "name": "onboarding",
