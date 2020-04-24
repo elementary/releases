@@ -3055,7 +3055,7 @@
         "href": "https://github.com/elementary/stylesheet/releases/tag/5.0.4"
       }
     ],
-    "new_commits": 3
+    "new_commits": 5
   },
   {
     "name": "switchboard-plug-bluetooth",
@@ -3337,7 +3337,7 @@
         "href": "https://github.com/elementary/icons/releases/tag/4.0.1.1"
       }
     ],
-    "new_commits": 11
+    "new_commits": 12
   },
   {
     "name": "wallpapers",
