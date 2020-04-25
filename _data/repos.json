@@ -1,5 +1,32 @@
 [
   {
+    "name": "gala",
+    "releases": [
+      {
+        "version": "3.3.1",
+        "release_date": "2020-04-25T17:27:44",
+        "title": "gala 3.3.1 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Fix crash when changing workspaces while a transient window is opening</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/gala/releases/tag/3.3.1"
+      },
+      {
+        "version": "3.3.0",
+        "release_date": "2020-04-03T18:45:09",
+        "title": "gala 3.3.0 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Don't show Gala Background Services in the dock</li>\n<li>Fixes for media key handling</li>\n<li>Show keyboard shortcuts in HeaderBar menus</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/gala/releases/tag/3.3.0"
+      },
+      {
+        "version": "3.2.0",
+        "release_date": "2020-01-07T17:58:30",
+        "title": "gala 3.2.0 Released",
+        "body": "gala 3.2.0 is out! \n\n<p>Improvements:</p>\n<ul>\n<li>Improve window shadows for legacy apps</li>\n<li>Fix potential crash when taking screenshots</li>\n<li>Fix notification position after changing DPI</li>\n<li>Fix animations for moving and maximizing tiled windows</li>\n</ul>\n",
+        "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
+      }
+    ],
+    "new_commits": 2
+  },
+  {
     "name": "switchboard-plug-pantheon-shell",
     "releases": [
       {
@@ -73,7 +100,7 @@
         "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
       }
     ],
-    "new_commits": 2
+    "new_commits": 3
   },
   {
     "name": "switchboard-plug-parental-controls",
@@ -1453,26 +1480,6 @@
       }
     ],
     "new_commits": 20
-  },
-  {
-    "name": "gala",
-    "releases": [
-      {
-        "version": "3.3.0",
-        "release_date": "2020-04-03T18:45:09",
-        "title": "gala 3.3.0 Released",
-        "body": "<p>Improvements:</p>\n<ul>\n<li>Don't show Gala Background Services in the dock</li>\n<li>Fixes for media key handling</li>\n<li>Show keyboard shortcuts in HeaderBar menus</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/gala/releases/tag/3.3.0"
-      },
-      {
-        "version": "3.2.0",
-        "release_date": "2020-01-07T17:58:30",
-        "title": "gala 3.2.0 Released",
-        "body": "gala 3.2.0 is out! \n\n<p>Improvements:</p>\n<ul>\n<li>Improve window shadows for legacy apps</li>\n<li>Fix potential crash when taking screenshots</li>\n<li>Fix notification position after changing DPI</li>\n<li>Fix animations for moving and maximizing tiled windows</li>\n</ul>\n",
-        "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
-      }
-    ],
-    "new_commits": 14
   },
   {
     "name": "shortcut-overlay",
