@@ -432,7 +432,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 119
+    "new_commits": 125
   },
   {
     "name": "switchboard-plug-useraccounts",
@@ -1616,7 +1616,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-power/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 4
+    "new_commits": 8
   },
   {
     "name": "switchboard-plug-datetime",
@@ -2059,7 +2059,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 9
+    "new_commits": 12
   },
   {
     "name": "onboarding",
@@ -2807,7 +2807,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 16
+    "new_commits": 19
   },
   {
     "name": "wingpanel-indicator-network",
@@ -2924,7 +2924,7 @@
         "href": "https://github.com/elementary/music/releases/tag/0.4.0.3"
       }
     ],
-    "new_commits": 11
+    "new_commits": 15
   },
   {
     "name": "wingpanel-indicator-nightlight",
