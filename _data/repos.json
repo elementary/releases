@@ -838,7 +838,7 @@
         "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 6
+    "new_commits": 8
   },
   {
     "name": "switchboard-plug-display",
@@ -1341,7 +1341,7 @@
         "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/0.1"
       }
     ],
-    "new_commits": 16
+    "new_commits": 18
   },
   {
     "name": "switchboard-plug-printers",
@@ -2375,7 +2375,7 @@
         "href": "https://github.com/elementary/switchboard-plug-notifications/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 5
+    "new_commits": 6
   },
   {
     "name": "switchboard-plug-keyboard",
