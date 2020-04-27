@@ -459,7 +459,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 125
+    "new_commits": 129
   },
   {
     "name": "switchboard-plug-useraccounts",
@@ -1789,7 +1789,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 26
+    "new_commits": 28
   },
   {
     "name": "code",
@@ -1851,7 +1851,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 28
+    "new_commits": 33
   },
   {
     "name": "terminal",
@@ -2931,7 +2931,7 @@
         "href": "https://github.com/elementary/music/releases/tag/0.4.0.3"
       }
     ],
-    "new_commits": 15
+    "new_commits": 16
   },
   {
     "name": "wingpanel-indicator-nightlight",
