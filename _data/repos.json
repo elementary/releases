@@ -100,7 +100,7 @@
         "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
       }
     ],
-    "new_commits": 7
+    "new_commits": 11
   },
   {
     "name": "switchboard-plug-parental-controls",
@@ -127,7 +127,7 @@
         "href": "https://github.com/elementary/switchboard-plug-parental-controls/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 4
+    "new_commits": 6
   },
   {
     "name": "pantheon-agent-geoclue2",
