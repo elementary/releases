@@ -1,5 +1,88 @@
 [
   {
+    "name": "switchboard",
+    "releases": [
+      {
+        "version": "2.4.0",
+        "release_date": "2020-04-30T20:47:16",
+        "title": "switchboard 2.4.0 Released",
+        "body": "<ul>\n<li>Redesign search results view</li>\n<li>Tab key moves focus out of search</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard/releases/tag/2.4.0"
+      },
+      {
+        "version": "2.3.9",
+        "release_date": "2020-03-30T21:01:11",
+        "title": "switchboard 2.3.9 Released",
+        "body": "switchboard 2.3.9 is out! \n\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard/releases/tag/2.3.9"
+      },
+      {
+        "version": "2.3.8",
+        "release_date": "2020-01-14T23:17:14",
+        "title": "switchboard 2.3.8 Released",
+        "body": "switchboard 2.3.8 is out! \n\n<ul>\n<li>Fix an issue that prevented tiling on small displays</li>\n<li>Fix an issue with restoring the correct window size</li>\n<li>Make the category grid fill the available space when maximized</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard/releases/tag/2.3.8"
+      },
+      {
+        "version": "2.3.7",
+        "release_date": "2019-11-04T22:08:38",
+        "title": "switchboard 2.3.7 Released",
+        "body": "switchboard 2.3.7 is out! \n\nChanges:\n\n* Pressing the \"Down\" arrow key from the search box correctly focuses the first row\n* Drop dynamic items from the Dock secondary-click menu\n* Updated translations\n",
+        "href": "https://github.com/elementary/switchboard/releases/tag/2.3.7"
+      },
+      {
+        "version": "2.3.6",
+        "release_date": "2019-01-23T08:18:24",
+        "title": "Switchboard 2.3.6 Released",
+        "body": "Switchboard 2.3.6 is out!\r\n\r\nChanges:\r\n* Add accel tooltip to navigation button\r\n* Updated translations",
+        "href": "https://github.com/elementary/switchboard/releases/tag/2.3.6"
+      },
+      {
+        "version": "2.3.5",
+        "release_date": "2018-11-29T15:44:15",
+        "title": "Switchboard 2.3.5 Released",
+        "body": "Switchboard 2.3.5 is out!\r\n\r\nChanges:\r\n* Improved window state saving code\r\n* Updated translations",
+        "href": "https://github.com/elementary/switchboard/releases/tag/2.3.5"
+      },
+      {
+        "version": "2.3.4",
+        "release_date": "2018-10-08T16:03:13",
+        "title": "Switchboard 2.3.4 Released",
+        "body": "Switchboard 2.3.4 is out!\r\n\r\nChanges:\r\n* Fixed incorrect gettext domain value causing missing translations",
+        "href": "https://github.com/elementary/switchboard/releases/tag/2.3.4"
+      },
+      {
+        "version": "2.3.3",
+        "release_date": "2018-10-04T11:56:54",
+        "title": "Switchboard 2.3.3 Released",
+        "body": "Switchboard 2.3.3 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard/issues?q=is%3Aclosed+milestone%3A2.3.3).",
+        "href": "https://github.com/elementary/switchboard/releases/tag/2.3.3"
+      },
+      {
+        "version": "2.3.2",
+        "release_date": "2018-07-27T07:39:49",
+        "title": "Switchboard 2.3.2 Released",
+        "body": "Switchboard 2.3.2 is out!\r\n\r\nThis release includes new translations.",
+        "href": "https://github.com/elementary/switchboard/releases/tag/2.3.2"
+      },
+      {
+        "version": "2.3.1",
+        "release_date": "2018-06-06T09:21:40",
+        "title": "Switchboard 2.3.1 Released",
+        "body": "Switchboard 2.3.1 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard/issues?q=is%3Aclosed+milestone%3A2.3.1).",
+        "href": "https://github.com/elementary/switchboard/releases/tag/2.3.1"
+      },
+      {
+        "version": "2.3.0",
+        "release_date": "2017-07-28T01:39:04",
+        "title": "Switchboard 2.3.0 Released",
+        "body": "Switchboard 2.3.0 is out!",
+        "href": "https://github.com/elementary/switchboard/releases/tag/2.3.0"
+      }
+    ],
+    "new_commits": 1
+  },
+  {
     "name": "granite",
     "releases": [
       {
@@ -2698,82 +2781,6 @@
       }
     ],
     "new_commits": 6
-  },
-  {
-    "name": "switchboard",
-    "releases": [
-      {
-        "version": "2.3.9",
-        "release_date": "2020-03-30T21:01:11",
-        "title": "switchboard 2.3.9 Released",
-        "body": "switchboard 2.3.9 is out! \n\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard/releases/tag/2.3.9"
-      },
-      {
-        "version": "2.3.8",
-        "release_date": "2020-01-14T23:17:14",
-        "title": "switchboard 2.3.8 Released",
-        "body": "switchboard 2.3.8 is out! \n\n<ul>\n<li>Fix an issue that prevented tiling on small displays</li>\n<li>Fix an issue with restoring the correct window size</li>\n<li>Make the category grid fill the available space when maximized</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard/releases/tag/2.3.8"
-      },
-      {
-        "version": "2.3.7",
-        "release_date": "2019-11-04T22:08:38",
-        "title": "switchboard 2.3.7 Released",
-        "body": "switchboard 2.3.7 is out! \n\nChanges:\n\n* Pressing the \"Down\" arrow key from the search box correctly focuses the first row\n* Drop dynamic items from the Dock secondary-click menu\n* Updated translations\n",
-        "href": "https://github.com/elementary/switchboard/releases/tag/2.3.7"
-      },
-      {
-        "version": "2.3.6",
-        "release_date": "2019-01-23T08:18:24",
-        "title": "Switchboard 2.3.6 Released",
-        "body": "Switchboard 2.3.6 is out!\r\n\r\nChanges:\r\n* Add accel tooltip to navigation button\r\n* Updated translations",
-        "href": "https://github.com/elementary/switchboard/releases/tag/2.3.6"
-      },
-      {
-        "version": "2.3.5",
-        "release_date": "2018-11-29T15:44:15",
-        "title": "Switchboard 2.3.5 Released",
-        "body": "Switchboard 2.3.5 is out!\r\n\r\nChanges:\r\n* Improved window state saving code\r\n* Updated translations",
-        "href": "https://github.com/elementary/switchboard/releases/tag/2.3.5"
-      },
-      {
-        "version": "2.3.4",
-        "release_date": "2018-10-08T16:03:13",
-        "title": "Switchboard 2.3.4 Released",
-        "body": "Switchboard 2.3.4 is out!\r\n\r\nChanges:\r\n* Fixed incorrect gettext domain value causing missing translations",
-        "href": "https://github.com/elementary/switchboard/releases/tag/2.3.4"
-      },
-      {
-        "version": "2.3.3",
-        "release_date": "2018-10-04T11:56:54",
-        "title": "Switchboard 2.3.3 Released",
-        "body": "Switchboard 2.3.3 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard/issues?q=is%3Aclosed+milestone%3A2.3.3).",
-        "href": "https://github.com/elementary/switchboard/releases/tag/2.3.3"
-      },
-      {
-        "version": "2.3.2",
-        "release_date": "2018-07-27T07:39:49",
-        "title": "Switchboard 2.3.2 Released",
-        "body": "Switchboard 2.3.2 is out!\r\n\r\nThis release includes new translations.",
-        "href": "https://github.com/elementary/switchboard/releases/tag/2.3.2"
-      },
-      {
-        "version": "2.3.1",
-        "release_date": "2018-06-06T09:21:40",
-        "title": "Switchboard 2.3.1 Released",
-        "body": "Switchboard 2.3.1 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard/issues?q=is%3Aclosed+milestone%3A2.3.1).",
-        "href": "https://github.com/elementary/switchboard/releases/tag/2.3.1"
-      },
-      {
-        "version": "2.3.0",
-        "release_date": "2017-07-28T01:39:04",
-        "title": "Switchboard 2.3.0 Released",
-        "body": "Switchboard 2.3.0 is out!",
-        "href": "https://github.com/elementary/switchboard/releases/tag/2.3.0"
-      }
-    ],
-    "new_commits": 25
   },
   {
     "name": "wingpanel-indicator-datetime",
