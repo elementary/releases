@@ -405,7 +405,7 @@
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
       }
     ],
-    "new_commits": 0
+    "new_commits": 6
   },
   {
     "name": "appcenter",
@@ -1177,7 +1177,7 @@
         "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 8
+    "new_commits": 9
   },
   {
     "name": "switchboard-plug-display",
@@ -2190,7 +2190,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 42
+    "new_commits": 44
   },
   {
     "name": "terminal",
@@ -2658,7 +2658,7 @@
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 19
+    "new_commits": 20
   },
   {
     "name": "camera",
@@ -2898,7 +2898,7 @@
         "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 24
+    "new_commits": 25
   },
   {
     "name": "sideload",
@@ -3814,7 +3814,7 @@
         "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/2.0"
       }
     ],
-    "new_commits": 373
+    "new_commits": 374
   },
   {
     "name": "website",
