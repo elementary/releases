@@ -551,7 +551,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 17
+    "new_commits": 18
   },
   {
     "name": "switchboard-plug-pantheon-shell",
@@ -1618,7 +1618,7 @@
         "href": "https://github.com/elementary/calculator/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 15
+    "new_commits": 16
   },
   {
     "name": "switchboard-plug-sound",
@@ -2190,7 +2190,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 44
+    "new_commits": 46
   },
   {
     "name": "terminal",
@@ -2713,7 +2713,7 @@
         "href": "https://github.com/elementary/camera/releases/tag/1.0"
       }
     ],
-    "new_commits": 0
+    "new_commits": 1
   },
   {
     "name": "switchboard-plug-power",
@@ -3359,7 +3359,7 @@
         "href": "https://github.com/elementary/screenshot/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 21
+    "new_commits": 22
   },
   {
     "name": "default-settings",
@@ -3923,7 +3923,7 @@
         "href": "https://github.com/elementary/mail/releases/tag/1.0.6"
       }
     ],
-    "new_commits": 231
+    "new_commits": 232
   },
   {
     "name": "press-kit",
