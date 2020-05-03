@@ -135,7 +135,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 2
+    "new_commits": 6
   },
   {
     "name": "switchboard",
@@ -1556,7 +1556,7 @@
         "href": "https://github.com/elementary/greeter/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 9
+    "new_commits": 10
   },
   {
     "name": "calculator",
@@ -1818,7 +1818,7 @@
         "href": "https://github.com/elementary/calendar/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 21
+    "new_commits": 25
   },
   {
     "name": "shortcut-overlay",
@@ -1852,7 +1852,7 @@
         "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.0"
       }
     ],
-    "new_commits": 7
+    "new_commits": 9
   },
   {
     "name": "wingpanel-indicator-sound",
@@ -2987,7 +2987,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 23
+    "new_commits": 24
   },
   {
     "name": "wingpanel-indicator-network",
@@ -3494,7 +3494,7 @@
         "href": "https://github.com/elementary/feedback/releases/tag/1.0"
       }
     ],
-    "new_commits": 320
+    "new_commits": 322
   },
   {
     "name": "houston",
