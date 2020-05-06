@@ -3,6 +3,13 @@
     "name": "icons",
     "releases": [
       {
+        "version": "5.3.1",
+        "release_date": "2020-05-06T18:10:20",
+        "title": "icons 5.3.1 Released",
+        "body": "<p>Minor updates</p>\n<ul>\n<li>Update emoji names for emoji picker in elementary OS 6 and latest GTK</li>\n<li>Replace Inkscape with rsvg for building cursors</li>\n</ul>\n",
+        "href": "https://github.com/elementary/icons/releases/tag/5.3.1"
+      },
+      {
         "version": "5.3.0",
         "release_date": "2020-05-01T05:35:02",
         "title": "icons 5.3.0 Released",
@@ -101,7 +108,7 @@
         "href": "https://github.com/elementary/icons/releases/tag/4.0.1.1"
       }
     ],
-    "new_commits": 2
+    "new_commits": 0
   },
   {
     "name": "gala",
