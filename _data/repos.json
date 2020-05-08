@@ -322,7 +322,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 12
+    "new_commits": 16
   },
   {
     "name": "applications-menu",
@@ -634,7 +634,7 @@
         "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
       }
     ],
-    "new_commits": 39
+    "new_commits": 45
   },
   {
     "name": "switchboard-plug-parental-controls",
@@ -3242,7 +3242,7 @@
         "href": "https://github.com/elementary/stylesheet/releases/tag/5.0.4"
       }
     ],
-    "new_commits": 37
+    "new_commits": 40
   },
   {
     "name": "switchboard-plug-bluetooth",
