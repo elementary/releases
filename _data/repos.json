@@ -1053,7 +1053,7 @@
         "href": "https://github.com/elementary/switchboard-plug-about/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 12
+    "new_commits": 13
   },
   {
     "name": "photos",
@@ -3883,7 +3883,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 1482
+    "new_commits": 1484
   },
   {
     "name": "fonts",
