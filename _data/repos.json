@@ -225,7 +225,7 @@
         "href": "https://github.com/elementary/switchboard/releases/tag/2.3.0"
       }
     ],
-    "new_commits": 3
+    "new_commits": 7
   },
   {
     "name": "granite",
@@ -1308,7 +1308,7 @@
         "href": "https://github.com/elementary/switchboard-plug-applications/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 22
+    "new_commits": 25
   },
   {
     "name": "switchboard-plug-security-privacy",
@@ -2631,7 +2631,7 @@
         "href": "https://github.com/elementary/switchboard-plug-notifications/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 18
+    "new_commits": 22
   },
   {
     "name": "switchboard-plug-keyboard",
