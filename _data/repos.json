@@ -1749,7 +1749,7 @@
         "href": "https://github.com/elementary/switchboard-plug-printers/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 35
+    "new_commits": 39
   },
   {
     "name": "calendar",
@@ -2905,7 +2905,7 @@
         "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 26
+    "new_commits": 28
   },
   {
     "name": "sideload",
@@ -3297,7 +3297,7 @@
         "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 32
+    "new_commits": 37
   },
   {
     "name": "screenshot",
@@ -3821,7 +3821,7 @@
         "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/2.0"
       }
     ],
-    "new_commits": 375
+    "new_commits": 379
   },
   {
     "name": "website",
