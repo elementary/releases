@@ -2356,7 +2356,7 @@
         "href": "https://github.com/elementary/onboarding/releases/tag/1.0"
       }
     ],
-    "new_commits": 14
+    "new_commits": 16
   },
   {
     "name": "wingpanel-indicator-keyboard",
@@ -3242,7 +3242,7 @@
         "href": "https://github.com/elementary/stylesheet/releases/tag/5.0.4"
       }
     ],
-    "new_commits": 50
+    "new_commits": 51
   },
   {
     "name": "switchboard-plug-bluetooth",
