@@ -142,7 +142,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 10
+    "new_commits": 11
   },
   {
     "name": "switchboard",
@@ -322,7 +322,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 30
+    "new_commits": 31
   },
   {
     "name": "applications-menu",
@@ -736,7 +736,7 @@
         "href": "https://github.com/elementary/pantheon-agent-geoclue2/releases/tag/1.0"
       }
     ],
-    "new_commits": 2
+    "new_commits": 3
   },
   {
     "name": "videos",
@@ -977,7 +977,7 @@
         "href": "https://github.com/elementary/capnet-assist/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 5
+    "new_commits": 6
   },
   {
     "name": "switchboard-plug-about",
@@ -1411,7 +1411,7 @@
         "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 13
+    "new_commits": 15
   },
   {
     "name": "wingpanel",
@@ -1563,7 +1563,7 @@
         "href": "https://github.com/elementary/greeter/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 15
+    "new_commits": 16
   },
   {
     "name": "calculator",
@@ -1859,7 +1859,7 @@
         "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.0"
       }
     ],
-    "new_commits": 13
+    "new_commits": 14
   },
   {
     "name": "wingpanel-indicator-sound",
@@ -2197,7 +2197,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 51
+    "new_commits": 53
   },
   {
     "name": "terminal",
@@ -2720,7 +2720,7 @@
         "href": "https://github.com/elementary/camera/releases/tag/1.0"
       }
     ],
-    "new_commits": 3
+    "new_commits": 4
   },
   {
     "name": "switchboard-plug-power",
@@ -2932,7 +2932,7 @@
         "href": "https://github.com/elementary/sideload/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 9
+    "new_commits": 12
   },
   {
     "name": "wingpanel-indicator-datetime",
@@ -3501,7 +3501,7 @@
         "href": "https://github.com/elementary/feedback/releases/tag/1.0"
       }
     ],
-    "new_commits": 327
+    "new_commits": 330
   },
   {
     "name": "houston",
