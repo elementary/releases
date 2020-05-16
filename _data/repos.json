@@ -805,7 +805,7 @@
         "href": "https://github.com/elementary/videos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 9
+    "new_commits": 10
   },
   {
     "name": "switchboard-plug-useraccounts",
@@ -2135,7 +2135,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 38
+    "new_commits": 40
   },
   {
     "name": "code",
@@ -3930,7 +3930,7 @@
         "href": "https://github.com/elementary/mail/releases/tag/1.0.6"
       }
     ],
-    "new_commits": 234
+    "new_commits": 236
   },
   {
     "name": "press-kit",
