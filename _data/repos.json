@@ -1411,7 +1411,7 @@
         "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 15
+    "new_commits": 16
   },
   {
     "name": "wingpanel",
@@ -1563,7 +1563,7 @@
         "href": "https://github.com/elementary/greeter/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 16
+    "new_commits": 17
   },
   {
     "name": "calculator",
@@ -2932,7 +2932,7 @@
         "href": "https://github.com/elementary/sideload/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 12
+    "new_commits": 13
   },
   {
     "name": "wingpanel-indicator-datetime",
