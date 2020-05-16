@@ -1,5 +1,67 @@
 [
   {
+    "name": "switchboard-plug-power",
+    "releases": [
+      {
+        "version": "2.4.2",
+        "release_date": "2020-05-16T21:31:17",
+        "title": "switchboard-plug-power 2.4.2 Released",
+        "body": "<p>Fix potential freeze when changing settings from multiple panes</p>\n<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/switchboard-plug-power/releases/tag/2.4.2"
+      },
+      {
+        "version": "2.4.1",
+        "release_date": "2020-04-01T23:33:34",
+        "title": "switchboard-plug-power 2.4.1 Released",
+        "body": "switchboard-plug-power 2.4.1 is out! \n\n<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/switchboard-plug-power/releases/tag/2.4.1"
+      },
+      {
+        "version": "2.4.0",
+        "release_date": "2019-11-15T22:48:03",
+        "title": "switchboard-plug-power 2.4.0 Released",
+        "body": "switchboard-plug-power 2.4.0 is out! \n\nChanges:\n\n* Remove broken hibernate option\n* Add prompt to shutdown to power button actions\n* Updated translations\n",
+        "href": "https://github.com/elementary/switchboard-plug-power/releases/tag/2.4.0"
+      },
+      {
+        "version": "2.3.5",
+        "release_date": "2019-01-29T07:15:14",
+        "title": "Switchboard Power Plug 2.3.5 Released",
+        "body": "switchboard-plug-power 2.3.5 is out!\r\n\r\nChanges:\r\n* Updated translations",
+        "href": "https://github.com/elementary/switchboard-plug-power/releases/tag/2.3.5"
+      },
+      {
+        "version": "2.3.4",
+        "release_date": "2018-10-10T15:23:27",
+        "title": "Switchboard Power Plug 2.3.4 Released",
+        "body": "switchboard-plug-power 2.3.4 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-power/issues?q=is%3Aclosed+milestone%3A2.3.4).",
+        "href": "https://github.com/elementary/switchboard-plug-power/releases/tag/2.3.4"
+      },
+      {
+        "version": "0.3.3",
+        "release_date": "2018-06-08T13:35:19",
+        "title": "Switchboard Plug Power 0.3.3 Released",
+        "body": "switchboard-plug-power 0.3.3 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-power/issues?q=is%3Aclosed+milestone%3A0.3.3).",
+        "href": "https://github.com/elementary/switchboard-plug-power/releases/tag/0.3.3"
+      },
+      {
+        "version": "0.3.2",
+        "release_date": "2017-07-19T18:59:28",
+        "title": "Switchboard Plug Power 0.3.2 Released",
+        "body": "switchboard-plug-power 0.3.2 is out!\r\n\r\nThe list of issues closed for this release can be found [here](https://github.com/elementary/switchboard-plug-power/milestone/2?closed=1).",
+        "href": "https://github.com/elementary/switchboard-plug-power/releases/tag/0.3.2"
+      },
+      {
+        "version": "0.3.1",
+        "release_date": "2017-05-11T07:31:06",
+        "title": "Switchboard Plug Power 0.3.1 Released",
+        "body": "switchboard-plug-power 0.3.1 is out!\r\n\r\nSee a list of associated issues [here](https://github.com/elementary/switchboard-plug-power/milestone/1?closed=1)",
+        "href": "https://github.com/elementary/switchboard-plug-power/releases/tag/0.3.1"
+      }
+    ],
+    "new_commits": 0
+  },
+  {
     "name": "icons",
     "releases": [
       {
@@ -634,7 +696,7 @@
         "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
       }
     ],
-    "new_commits": 54
+    "new_commits": 55
   },
   {
     "name": "switchboard-plug-parental-controls",
@@ -2017,7 +2079,7 @@
         "href": "https://github.com/elementary/switchboard-plug-datetime/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 11
+    "new_commits": 14
   },
   {
     "name": "files",
@@ -2723,61 +2785,6 @@
     "new_commits": 4
   },
   {
-    "name": "switchboard-plug-power",
-    "releases": [
-      {
-        "version": "2.4.1",
-        "release_date": "2020-04-01T23:33:34",
-        "title": "switchboard-plug-power 2.4.1 Released",
-        "body": "switchboard-plug-power 2.4.1 is out! \n\n<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/switchboard-plug-power/releases/tag/2.4.1"
-      },
-      {
-        "version": "2.4.0",
-        "release_date": "2019-11-15T22:48:03",
-        "title": "switchboard-plug-power 2.4.0 Released",
-        "body": "switchboard-plug-power 2.4.0 is out! \n\nChanges:\n\n* Remove broken hibernate option\n* Add prompt to shutdown to power button actions\n* Updated translations\n",
-        "href": "https://github.com/elementary/switchboard-plug-power/releases/tag/2.4.0"
-      },
-      {
-        "version": "2.3.5",
-        "release_date": "2019-01-29T07:15:14",
-        "title": "Switchboard Power Plug 2.3.5 Released",
-        "body": "switchboard-plug-power 2.3.5 is out!\r\n\r\nChanges:\r\n* Updated translations",
-        "href": "https://github.com/elementary/switchboard-plug-power/releases/tag/2.3.5"
-      },
-      {
-        "version": "2.3.4",
-        "release_date": "2018-10-10T15:23:27",
-        "title": "Switchboard Power Plug 2.3.4 Released",
-        "body": "switchboard-plug-power 2.3.4 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-power/issues?q=is%3Aclosed+milestone%3A2.3.4).",
-        "href": "https://github.com/elementary/switchboard-plug-power/releases/tag/2.3.4"
-      },
-      {
-        "version": "0.3.3",
-        "release_date": "2018-06-08T13:35:19",
-        "title": "Switchboard Plug Power 0.3.3 Released",
-        "body": "switchboard-plug-power 0.3.3 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-power/issues?q=is%3Aclosed+milestone%3A0.3.3).",
-        "href": "https://github.com/elementary/switchboard-plug-power/releases/tag/0.3.3"
-      },
-      {
-        "version": "0.3.2",
-        "release_date": "2017-07-19T18:59:28",
-        "title": "Switchboard Plug Power 0.3.2 Released",
-        "body": "switchboard-plug-power 0.3.2 is out!\r\n\r\nThe list of issues closed for this release can be found [here](https://github.com/elementary/switchboard-plug-power/milestone/2?closed=1).",
-        "href": "https://github.com/elementary/switchboard-plug-power/releases/tag/0.3.2"
-      },
-      {
-        "version": "0.3.1",
-        "release_date": "2017-05-11T07:31:06",
-        "title": "Switchboard Plug Power 0.3.1 Released",
-        "body": "switchboard-plug-power 0.3.1 is out!\r\n\r\nSee a list of associated issues [here](https://github.com/elementary/switchboard-plug-power/milestone/1?closed=1)",
-        "href": "https://github.com/elementary/switchboard-plug-power/releases/tag/0.3.1"
-      }
-    ],
-    "new_commits": 18
-  },
-  {
     "name": "switchboard-plug-a11y",
     "releases": [
       {
@@ -2857,7 +2864,7 @@
         "href": "https://github.com/elementary/switchboard-plug-network/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 23
+    "new_commits": 24
   },
   {
     "name": "switchboard-plug-locale",
