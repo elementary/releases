@@ -744,7 +744,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 61
+    "new_commits": 62
   },
   {
     "name": "switchboard-plug-pantheon-shell",
@@ -820,7 +820,7 @@
         "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
       }
     ],
-    "new_commits": 55
+    "new_commits": 56
   },
   {
     "name": "switchboard-plug-parental-controls",
@@ -991,7 +991,7 @@
         "href": "https://github.com/elementary/videos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 10
+    "new_commits": 11
   },
   {
     "name": "switchboard-plug-useraccounts",
@@ -2460,7 +2460,7 @@
         "href": "https://github.com/elementary/terminal/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 47
+    "new_commits": 48
   },
   {
     "name": "onboarding",
@@ -3166,7 +3166,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-nightlight/releases/tag/2.0"
       }
     ],
-    "new_commits": 13
+    "new_commits": 14
   },
   {
     "name": "stylesheet",
