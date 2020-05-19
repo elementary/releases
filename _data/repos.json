@@ -121,7 +121,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 1
+    "new_commits": 4
   },
   {
     "name": "switchboard-plug-power",
@@ -183,7 +183,7 @@
         "href": "https://github.com/elementary/switchboard-plug-power/releases/tag/0.3.1"
       }
     ],
-    "new_commits": 0
+    "new_commits": 4
   },
   {
     "name": "icons",
@@ -744,7 +744,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 62
+    "new_commits": 64
   },
   {
     "name": "switchboard-plug-pantheon-shell",
@@ -2335,7 +2335,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 54
+    "new_commits": 56
   },
   {
     "name": "terminal",
