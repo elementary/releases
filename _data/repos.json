@@ -1,5 +1,60 @@
 [
   {
+    "name": "switchboard-plug-security-privacy",
+    "releases": [
+      {
+        "version": "2.2.4",
+        "release_date": "2020-05-25T18:11:21",
+        "title": "switchboard-plug-security-privacy 2.2.4 Released",
+        "body": "<ul>\n<li>Translation updates</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-security-privacy/releases/tag/2.2.4"
+      },
+      {
+        "version": "2.2.3",
+        "release_date": "2020-04-08T20:06:40",
+        "title": "switchboard-plug-security-privacy 2.2.3 Released",
+        "body": "<ul>\n<li>Translation updates</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-security-privacy/releases/tag/2.2.3"
+      },
+      {
+        "version": "2.2.2",
+        "release_date": "2019-10-29T22:10:13",
+        "title": "switchboard-plug-security-privacy 2.2.2 Released",
+        "body": "switchboard-plug-security-privacy 2.2.2 is out! \n\nChanges:\n\n* Redesigned \"Housekeeping\" page\n* Translation updates\n",
+        "href": "https://github.com/elementary/switchboard-plug-security-privacy/releases/tag/2.2.2"
+      },
+      {
+        "version": "2.2.1",
+        "release_date": "2019-03-15T19:26:59",
+        "title": "Switchboard Security & Privacy Plug 2.2.1 Released",
+        "body": "switchboard-plug-security-privacy 2.2.1 is out!\r\n\r\nChanges:\r\n* Search keyword improvements\r\n* Updated translations",
+        "href": "https://github.com/elementary/switchboard-plug-security-privacy/releases/tag/2.2.1"
+      },
+      {
+        "version": "2.2.0",
+        "release_date": "2018-10-16T02:10:58",
+        "title": "Switchboard Security & Privacy Plug 2.2.0 Released",
+        "body": "switchboard-plug-security-privacy 2.2.0 is out!\r\n\r\nChanges:\r\n* Housekeeping panel for temporary file management\r\n* Updated translations\r\n",
+        "href": "https://github.com/elementary/switchboard-plug-security-privacy/releases/tag/2.2.0"
+      },
+      {
+        "version": "0.1.3",
+        "release_date": "2018-06-19T07:30:52",
+        "title": "Switchboard Security & Privacy Plug 0.1.3 Released",
+        "body": "switchboard-plug-security-privacy 0.1.3 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-security-privacy/issues?q=is%3Aclosed+milestone%3A0.1.3).",
+        "href": "https://github.com/elementary/switchboard-plug-security-privacy/releases/tag/0.1.3"
+      },
+      {
+        "version": "0.1.2",
+        "release_date": "2017-05-22T19:20:44",
+        "title": "Switchboard Security & Privacy Plug 0.1.2 Released",
+        "body": "switchboard-plug-security-privacy 0.1.2 is out!",
+        "href": "https://github.com/elementary/switchboard-plug-security-privacy/releases/tag/0.1.2"
+      }
+    ],
+    "new_commits": 1
+  },
+  {
     "name": "switchboard-plug-datetime",
     "releases": [
       {
@@ -328,7 +383,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 16
+    "new_commits": 18
   },
   {
     "name": "switchboard",
@@ -1495,54 +1550,6 @@
       }
     ],
     "new_commits": 26
-  },
-  {
-    "name": "switchboard-plug-security-privacy",
-    "releases": [
-      {
-        "version": "2.2.3",
-        "release_date": "2020-04-08T20:06:40",
-        "title": "switchboard-plug-security-privacy 2.2.3 Released",
-        "body": "<ul>\n<li>Translation updates</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-security-privacy/releases/tag/2.2.3"
-      },
-      {
-        "version": "2.2.2",
-        "release_date": "2019-10-29T22:10:13",
-        "title": "switchboard-plug-security-privacy 2.2.2 Released",
-        "body": "switchboard-plug-security-privacy 2.2.2 is out! \n\nChanges:\n\n* Redesigned \"Housekeeping\" page\n* Translation updates\n",
-        "href": "https://github.com/elementary/switchboard-plug-security-privacy/releases/tag/2.2.2"
-      },
-      {
-        "version": "2.2.1",
-        "release_date": "2019-03-15T19:26:59",
-        "title": "Switchboard Security & Privacy Plug 2.2.1 Released",
-        "body": "switchboard-plug-security-privacy 2.2.1 is out!\r\n\r\nChanges:\r\n* Search keyword improvements\r\n* Updated translations",
-        "href": "https://github.com/elementary/switchboard-plug-security-privacy/releases/tag/2.2.1"
-      },
-      {
-        "version": "2.2.0",
-        "release_date": "2018-10-16T02:10:58",
-        "title": "Switchboard Security & Privacy Plug 2.2.0 Released",
-        "body": "switchboard-plug-security-privacy 2.2.0 is out!\r\n\r\nChanges:\r\n* Housekeeping panel for temporary file management\r\n* Updated translations\r\n",
-        "href": "https://github.com/elementary/switchboard-plug-security-privacy/releases/tag/2.2.0"
-      },
-      {
-        "version": "0.1.3",
-        "release_date": "2018-06-19T07:30:52",
-        "title": "Switchboard Security & Privacy Plug 0.1.3 Released",
-        "body": "switchboard-plug-security-privacy 0.1.3 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-security-privacy/issues?q=is%3Aclosed+milestone%3A0.1.3).",
-        "href": "https://github.com/elementary/switchboard-plug-security-privacy/releases/tag/0.1.3"
-      },
-      {
-        "version": "0.1.2",
-        "release_date": "2017-05-22T19:20:44",
-        "title": "Switchboard Security & Privacy Plug 0.1.2 Released",
-        "body": "switchboard-plug-security-privacy 0.1.2 is out!",
-        "href": "https://github.com/elementary/switchboard-plug-security-privacy/releases/tag/0.1.2"
-      }
-    ],
-    "new_commits": 24
   },
   {
     "name": "pantheon-agent-polkit",
