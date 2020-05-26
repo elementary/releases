@@ -107,7 +107,7 @@
         "href": "https://github.com/elementary/switchboard-plug-datetime/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 14
+    "new_commits": 15
   },
   {
     "name": "wingpanel-indicator-datetime",
@@ -3529,7 +3529,7 @@
         "href": "https://github.com/elementary/feedback/releases/tag/1.0"
       }
     ],
-    "new_commits": 330
+    "new_commits": 332
   },
   {
     "name": "houston",
