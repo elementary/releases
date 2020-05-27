@@ -799,7 +799,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 71
+    "new_commits": 74
   },
   {
     "name": "switchboard-plug-pantheon-shell",
@@ -2018,7 +2018,7 @@
         "href": "https://github.com/elementary/calendar/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 39
+    "new_commits": 41
   },
   {
     "name": "shortcut-overlay",
