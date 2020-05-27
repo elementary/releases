@@ -52,7 +52,7 @@
         "href": "https://github.com/elementary/switchboard-plug-security-privacy/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 3
+    "new_commits": 5
   },
   {
     "name": "switchboard-plug-datetime",
@@ -1108,7 +1108,7 @@
         "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 30
+    "new_commits": 32
   },
   {
     "name": "wingpanel-indicator-bluetooth",
@@ -1880,7 +1880,7 @@
         "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/0.1"
       }
     ],
-    "new_commits": 34
+    "new_commits": 36
   },
   {
     "name": "switchboard-plug-printers",
