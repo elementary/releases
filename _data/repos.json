@@ -52,7 +52,7 @@
         "href": "https://github.com/elementary/switchboard-plug-security-privacy/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 5
+    "new_commits": 7
   },
   {
     "name": "switchboard-plug-datetime",
@@ -383,7 +383,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 22
+    "new_commits": 25
   },
   {
     "name": "switchboard",
@@ -1170,7 +1170,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 3
+    "new_commits": 4
   },
   {
     "name": "capnet-assist",
@@ -3270,7 +3270,7 @@
         "href": "https://github.com/elementary/stylesheet/releases/tag/5.0.4"
       }
     ],
-    "new_commits": 70
+    "new_commits": 71
   },
   {
     "name": "switchboard-plug-bluetooth",
@@ -3428,7 +3428,7 @@
         "href": "https://github.com/elementary/default-settings/releases/tag/5.0"
       }
     ],
-    "new_commits": 18
+    "new_commits": 19
   },
   {
     "name": "wallpapers",
