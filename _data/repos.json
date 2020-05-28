@@ -1,5 +1,67 @@
 [
   {
+    "name": "switchboard-plug-bluetooth",
+    "releases": [
+      {
+        "version": "2.3.2",
+        "release_date": "2020-05-28T20:11:49",
+        "title": "switchboard-plug-bluetooth 2.3.2 Released",
+        "body": "<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/2.3.2"
+      },
+      {
+        "version": "2.3.1",
+        "release_date": "2020-02-26T21:19:52",
+        "title": "switchboard-plug-bluetooth 2.3.1 Released",
+        "body": "switchboard-plug-bluetooth 2.3.1 is out! \n\n<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/2.3.1"
+      },
+      {
+        "version": "2.3.0",
+        "release_date": "2019-10-31T17:38:19",
+        "title": "switchboard-plug-bluetooth 2.3.0 Released",
+        "body": "switchboard-plug-bluetooth 2.3.0 is out! \n\nChanges:\n\n* Pair with devices that require a password, key code, or confirmation\n* Updated translations\n",
+        "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/2.3.0"
+      },
+      {
+        "version": "2.2.2",
+        "release_date": "2019-04-09T02:53:50",
+        "title": "Switchboard Bluetooth Plug 2.2.2 Released",
+        "body": "switchboard-plug-bluetooth 2.2.2 is out!\r\n\r\nChanges:\r\n* Auto connect to trusted devices more reliably\r\n* Updated translations",
+        "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/2.2.2"
+      },
+      {
+        "version": "2.2.1",
+        "release_date": "2019-01-25T06:49:14",
+        "title": "Switchboard Bluetooth Plug 2.2.1 Released",
+        "body": "switchboard-plug-bluetooth 2.2.1 is out now!\r\n\r\nChanges:\r\n* Update to new wingpanel-indicator-bluetooth schema",
+        "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/2.2.1"
+      },
+      {
+        "version": "2.2.0",
+        "release_date": "2019-01-24T13:45:42",
+        "title": "Switchboard Bluetooth Plug 2.2.0 Released",
+        "body": "switchboard-plug-bluetooth 2.2.0 is out now!\r\n\r\nChanges:\r\n* Improved stability\r\n* More accurate Remove button\r\n* Don't show badges for unpaired devices\r\n* Rewrite discovering label\r\n* Display disabled Bluetooth icon while disabled\r\n* Fix discoverability issues\r\n* Updated translations",
+        "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/2.2.0"
+      },
+      {
+        "version": "2.1.2",
+        "release_date": "2018-10-15T21:09:06",
+        "title": "Switchboard Bluetooth Plug 2.1.2 Released",
+        "body": "switchboard-plug-bluetooth 2.1.2 is out now!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-bluetooth/issues?q=is%3Aclosed+milestone%3A2.1.2).",
+        "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/2.1.2"
+      },
+      {
+        "version": "0.1.1",
+        "release_date": "2018-06-08T13:49:01",
+        "title": "Switchboard Bluetooth Plug 0.1.1 Released",
+        "body": "switchboard-plug-bluetooth 0.1.1 is out now!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-bluetooth/issues?q=is%3Aclosed+milestone%3A0.1.1).",
+        "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/0.1.1"
+      }
+    ],
+    "new_commits": 0
+  },
+  {
     "name": "onboarding",
     "releases": [
       {
@@ -3161,7 +3223,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 13
+    "new_commits": 18
   },
   {
     "name": "music",
@@ -3361,62 +3423,7 @@
         "href": "https://github.com/elementary/stylesheet/releases/tag/5.0.4"
       }
     ],
-    "new_commits": 71
-  },
-  {
-    "name": "switchboard-plug-bluetooth",
-    "releases": [
-      {
-        "version": "2.3.1",
-        "release_date": "2020-02-26T21:19:52",
-        "title": "switchboard-plug-bluetooth 2.3.1 Released",
-        "body": "switchboard-plug-bluetooth 2.3.1 is out! \n\n<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/2.3.1"
-      },
-      {
-        "version": "2.3.0",
-        "release_date": "2019-10-31T17:38:19",
-        "title": "switchboard-plug-bluetooth 2.3.0 Released",
-        "body": "switchboard-plug-bluetooth 2.3.0 is out! \n\nChanges:\n\n* Pair with devices that require a password, key code, or confirmation\n* Updated translations\n",
-        "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/2.3.0"
-      },
-      {
-        "version": "2.2.2",
-        "release_date": "2019-04-09T02:53:50",
-        "title": "Switchboard Bluetooth Plug 2.2.2 Released",
-        "body": "switchboard-plug-bluetooth 2.2.2 is out!\r\n\r\nChanges:\r\n* Auto connect to trusted devices more reliably\r\n* Updated translations",
-        "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/2.2.2"
-      },
-      {
-        "version": "2.2.1",
-        "release_date": "2019-01-25T06:49:14",
-        "title": "Switchboard Bluetooth Plug 2.2.1 Released",
-        "body": "switchboard-plug-bluetooth 2.2.1 is out now!\r\n\r\nChanges:\r\n* Update to new wingpanel-indicator-bluetooth schema",
-        "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/2.2.1"
-      },
-      {
-        "version": "2.2.0",
-        "release_date": "2019-01-24T13:45:42",
-        "title": "Switchboard Bluetooth Plug 2.2.0 Released",
-        "body": "switchboard-plug-bluetooth 2.2.0 is out now!\r\n\r\nChanges:\r\n* Improved stability\r\n* More accurate Remove button\r\n* Don't show badges for unpaired devices\r\n* Rewrite discovering label\r\n* Display disabled Bluetooth icon while disabled\r\n* Fix discoverability issues\r\n* Updated translations",
-        "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/2.2.0"
-      },
-      {
-        "version": "2.1.2",
-        "release_date": "2018-10-15T21:09:06",
-        "title": "Switchboard Bluetooth Plug 2.1.2 Released",
-        "body": "switchboard-plug-bluetooth 2.1.2 is out now!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-bluetooth/issues?q=is%3Aclosed+milestone%3A2.1.2).",
-        "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/2.1.2"
-      },
-      {
-        "version": "0.1.1",
-        "release_date": "2018-06-08T13:49:01",
-        "title": "Switchboard Bluetooth Plug 0.1.1 Released",
-        "body": "switchboard-plug-bluetooth 0.1.1 is out now!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-bluetooth/issues?q=is%3Aclosed+milestone%3A0.1.1).",
-        "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/0.1.1"
-      }
-    ],
-    "new_commits": 42
+    "new_commits": 72
   },
   {
     "name": "screenshot",
@@ -3485,7 +3492,7 @@
         "href": "https://github.com/elementary/screenshot/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 30
+    "new_commits": 31
   },
   {
     "name": "default-settings",
