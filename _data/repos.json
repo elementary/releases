@@ -1,5 +1,218 @@
 [
   {
+    "name": "switchboard-plug-notifications",
+    "releases": [
+      {
+        "version": "2.1.7",
+        "release_date": "2020-05-28T23:43:12",
+        "title": "switchboard-plug-notifications 2.1.7 Released",
+        "body": "<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/switchboard-plug-notifications/releases/tag/2.1.7"
+      },
+      {
+        "version": "2.1.6",
+        "release_date": "2020-04-01T23:40:00",
+        "title": "switchboard-plug-notifications 2.1.6 Released",
+        "body": "switchboard-plug-notifications 2.1.6 is out! \n\n<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/switchboard-plug-notifications/releases/tag/2.1.6"
+      },
+      {
+        "version": "2.1.5",
+        "release_date": "2018-10-16T08:05:38",
+        "title": "Switchboard Notifications Plug 2.1.5 Released",
+        "body": "switchboard-plug-notifications 2.1.5 is out!\r\n\r\nThis release includes updated translations.",
+        "href": "https://github.com/elementary/switchboard-plug-notifications/releases/tag/2.1.5"
+      },
+      {
+        "version": "0.1.4",
+        "release_date": "2018-06-11T15:29:47",
+        "title": "Switchboard Notifications Plug 0.1.4 Released",
+        "body": "switchboard-plug-notifications 0.1.4 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-notifications/issues?q=is%3Aclosed+milestone%3A0.1.4).",
+        "href": "https://github.com/elementary/switchboard-plug-notifications/releases/tag/0.1.4"
+      },
+      {
+        "version": "0.1.3",
+        "release_date": "2017-10-03T20:40:51",
+        "title": "Switchboard Notifications Plug 0.1.3 Released",
+        "body": "switchboard-plug-notifications 0.1.3 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-notifications/issues?q=is%3Aclosed+milestone%3A0.1.3).",
+        "href": "https://github.com/elementary/switchboard-plug-notifications/releases/tag/0.1.3"
+      },
+      {
+        "version": "0.1.2",
+        "release_date": "2017-05-24T22:05:45",
+        "title": "Switchboard Notifications Plug 0.1.2 Released",
+        "body": "switchboard-plug-notifications 0.1.2 is out!",
+        "href": "https://github.com/elementary/switchboard-plug-notifications/releases/tag/0.1.2"
+      }
+    ],
+    "new_commits": 0
+  },
+  {
+    "name": "switchboard-plug-locale",
+    "releases": [
+      {
+        "version": "2.5.2",
+        "release_date": "2020-05-28T23:42:54",
+        "title": "switchboard-plug-locale 2.5.2 Released",
+        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.5.2"
+      },
+      {
+        "version": "2.5.1",
+        "release_date": "2020-04-01T22:48:03",
+        "title": "switchboard-plug-locale 2.5.1 Released",
+        "body": "switchboard-plug-locale 2.5.1 is out! \n\n<ul>\n<li>Fix an issue with cancelling language installation</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.5.1"
+      },
+      {
+        "version": "2.5.0",
+        "release_date": "2019-11-15T23:09:58",
+        "title": "switchboard-plug-locale 2.5.0 Released",
+        "body": "switchboard-plug-locale 2.5.0 is out! \n\nChanges:\n\n* Redesigned Install Language popover\n* Asks for permission when needed. No more extra InfoBar\n* Installtion progress InfoBar is now a Dialog\n* Language list properly updates when adding or removing languages\n* Updated translations\n",
+        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.5.0"
+      },
+      {
+        "version": "2.4.1",
+        "release_date": "2018-12-19T06:28:04",
+        "title": "Switchboard Locale Plug 2.4.1 Released",
+        "body": "switchboard-plug-locale 2.4.1 is out!\r\n\r\nChanges:\r\n* Better search keywords\r\n* Don't restrict locale length\r\n* Updated translations",
+        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.4.1"
+      },
+      {
+        "version": "2.4.0",
+        "release_date": "2018-10-15T21:26:12",
+        "title": "Switchboard Locale Plug 2.4.0 Released",
+        "body": "switchboard-plug-locale 2.4.0 is out!\r\n\r\nThis list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-locale/issues?q=is%3Aclosed+milestone%3A2.4.0).",
+        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.4.0"
+      },
+      {
+        "version": "0.2.3",
+        "release_date": "2017-05-22T20:19:26",
+        "title": "Switchboard Locale Plug 0.2.3 Released",
+        "body": "switchboard-plug-locale 0.2.3 is out!",
+        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/0.2.3"
+      },
+      {
+        "version": "0.2.2",
+        "release_date": "2017-05-12T08:27:01",
+        "title": "Switchboard Locale Plug 0.2.2 Released",
+        "body": "switchboard-plug-locale 0.2.2 is out!",
+        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/0.2.2"
+      }
+    ],
+    "new_commits": 2
+  },
+  {
+    "name": "switchboard-plug-display",
+    "releases": [
+      {
+        "version": "2.2.2",
+        "release_date": "2020-05-28T23:40:12",
+        "title": "switchboard-plug-display 2.2.2 Released",
+        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/2.2.2"
+      },
+      {
+        "version": "2.2.1",
+        "release_date": "2020-04-08T20:14:06",
+        "title": "switchboard-plug-display 2.2.1 Released",
+        "body": "<ul>\n<li>Fix 1px gaps between displays</li>\n<li>Properly center rotated displays</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/2.2.1"
+      },
+      {
+        "version": "2.2.0",
+        "release_date": "2019-11-15T23:04:19",
+        "title": "switchboard-plug-display 2.2.0 Released",
+        "body": "switchboard-plug-display 2.2.0 is out! \n\nChanges:\n\n* Improved multi-display layouts with better snapping and aligning\n* Fixed the placement of display name tags\n* Updated translations\n",
+        "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/2.2.0"
+      },
+      {
+        "version": "2.1.9",
+        "release_date": "2019-09-24T15:20:51",
+        "title": "Switchboard Display Plug 2.1.9 Released",
+        "body": "switchboard-plug-display 2.1.9 is out!\r\n\r\nChanges:\r\n* Nightlight: parse minutes in schedule input properly\r\n* Build system install path fix\r\n* Updated translations",
+        "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/2.1.9"
+      },
+      {
+        "version": "2.1.8",
+        "release_date": "2019-04-22T11:09:15",
+        "title": "Switchboard Display Plug 2.1.8 Released",
+        "body": "switchboard-plug-display 2.1.8 is out!\r\n\r\nChanges:\r\n* Updated translations",
+        "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/2.1.8"
+      },
+      {
+        "version": "2.1.7",
+        "release_date": "2019-04-05T16:05:19",
+        "title": "Switchboard Display Plug 2.1.7 Released",
+        "body": "switchboard-plug-display 2.1.7 is out!\r\n\r\nChanges:\r\n* Use Mutter API to apply DPI changes\r\n* Tweak display colors CSS\r\n* DisplayWidget: Use Gtk.MenuButton instead of Gtk.ToggleButton\r\n* Updated translations",
+        "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/2.1.7"
+      },
+      {
+        "version": "2.1.6",
+        "release_date": "2018-12-21T14:18:01",
+        "title": "Switchboard Display Plug 2.1.6 Released",
+        "body": "switchboard-plug-display 2.1.6 is out!\r\n\r\nChanges:\r\n* Search keyword improvements\r\n* Refresh Rate controls\r\n* Nightlight settings are insensitive while disabled\r\n* Change \"Rotation\" label to \"Screen rotation\"\r\n* Updated translations",
+        "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/2.1.6"
+      },
+      {
+        "version": "2.1.5",
+        "release_date": "2018-10-01T07:23:46",
+        "title": "Display Plug 2.1.5 Released",
+        "body": "switchboard-plug-display 2.1.5 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-display/issues?q=is%3Aclosed+milestone%3A2.1.5).",
+        "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/2.1.5"
+      },
+      {
+        "version": "0.1.4",
+        "release_date": "2018-06-19T06:43:20",
+        "title": "Display Plug 0.1.4 Released",
+        "body": "switchboard-plug-display 0.1.4 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-display/issues?q=is%3Aclosed+milestone%3A0.1.4).",
+        "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/0.1.4"
+      },
+      {
+        "version": "0.1.3",
+        "release_date": "2017-05-02T20:26:18",
+        "title": "Display Plug 0.1.3 Released",
+        "body": "switchboard-plug-display 0.1.3 is out!",
+        "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/0.1.3"
+      }
+    ],
+    "new_commits": 3
+  },
+  {
+    "name": "sideload",
+    "releases": [
+      {
+        "version": "1.1.1",
+        "release_date": "2020-05-28T23:39:24",
+        "title": "sideload 1.1.1 Released",
+        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/sideload/releases/tag/1.1.1"
+      },
+      {
+        "version": "1.1.0",
+        "release_date": "2020-04-01T20:05:38",
+        "title": "sideload 1.1.0 Released",
+        "body": "sideload 1.1.0 is out! \n\n<ul>\n<li>Show app name in the main view once it's loaded</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/sideload/releases/tag/1.1.0"
+      },
+      {
+        "version": "1.0.1",
+        "release_date": "2020-02-26T06:40:15",
+        "title": "sideload 1.0.1 Released",
+        "body": "sideload 1.0.1 is out! \n\n<ul>\n<li>Improve performance of download size calculation</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/sideload/releases/tag/1.0.1"
+      },
+      {
+        "version": "1.0.0",
+        "release_date": "2019-10-29T19:57:23",
+        "title": "sideload 1.0.0 Released",
+        "body": "sideload 1.0.0 is out! \n\nChanges:\n\n* First release. Hello world!\n",
+        "href": "https://github.com/elementary/sideload/releases/tag/1.0.0"
+      }
+    ],
+    "new_commits": 6
+  },
+  {
     "name": "wingpanel-indicator-network",
     "releases": [
       {
@@ -1993,75 +2206,6 @@
     "new_commits": 12
   },
   {
-    "name": "switchboard-plug-display",
-    "releases": [
-      {
-        "version": "2.2.1",
-        "release_date": "2020-04-08T20:14:06",
-        "title": "switchboard-plug-display 2.2.1 Released",
-        "body": "<ul>\n<li>Fix 1px gaps between displays</li>\n<li>Properly center rotated displays</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/2.2.1"
-      },
-      {
-        "version": "2.2.0",
-        "release_date": "2019-11-15T23:04:19",
-        "title": "switchboard-plug-display 2.2.0 Released",
-        "body": "switchboard-plug-display 2.2.0 is out! \n\nChanges:\n\n* Improved multi-display layouts with better snapping and aligning\n* Fixed the placement of display name tags\n* Updated translations\n",
-        "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/2.2.0"
-      },
-      {
-        "version": "2.1.9",
-        "release_date": "2019-09-24T15:20:51",
-        "title": "Switchboard Display Plug 2.1.9 Released",
-        "body": "switchboard-plug-display 2.1.9 is out!\r\n\r\nChanges:\r\n* Nightlight: parse minutes in schedule input properly\r\n* Build system install path fix\r\n* Updated translations",
-        "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/2.1.9"
-      },
-      {
-        "version": "2.1.8",
-        "release_date": "2019-04-22T11:09:15",
-        "title": "Switchboard Display Plug 2.1.8 Released",
-        "body": "switchboard-plug-display 2.1.8 is out!\r\n\r\nChanges:\r\n* Updated translations",
-        "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/2.1.8"
-      },
-      {
-        "version": "2.1.7",
-        "release_date": "2019-04-05T16:05:19",
-        "title": "Switchboard Display Plug 2.1.7 Released",
-        "body": "switchboard-plug-display 2.1.7 is out!\r\n\r\nChanges:\r\n* Use Mutter API to apply DPI changes\r\n* Tweak display colors CSS\r\n* DisplayWidget: Use Gtk.MenuButton instead of Gtk.ToggleButton\r\n* Updated translations",
-        "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/2.1.7"
-      },
-      {
-        "version": "2.1.6",
-        "release_date": "2018-12-21T14:18:01",
-        "title": "Switchboard Display Plug 2.1.6 Released",
-        "body": "switchboard-plug-display 2.1.6 is out!\r\n\r\nChanges:\r\n* Search keyword improvements\r\n* Refresh Rate controls\r\n* Nightlight settings are insensitive while disabled\r\n* Change \"Rotation\" label to \"Screen rotation\"\r\n* Updated translations",
-        "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/2.1.6"
-      },
-      {
-        "version": "2.1.5",
-        "release_date": "2018-10-01T07:23:46",
-        "title": "Display Plug 2.1.5 Released",
-        "body": "switchboard-plug-display 2.1.5 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-display/issues?q=is%3Aclosed+milestone%3A2.1.5).",
-        "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/2.1.5"
-      },
-      {
-        "version": "0.1.4",
-        "release_date": "2018-06-19T06:43:20",
-        "title": "Display Plug 0.1.4 Released",
-        "body": "switchboard-plug-display 0.1.4 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-display/issues?q=is%3Aclosed+milestone%3A0.1.4).",
-        "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/0.1.4"
-      },
-      {
-        "version": "0.1.3",
-        "release_date": "2017-05-02T20:26:18",
-        "title": "Display Plug 0.1.3 Released",
-        "body": "switchboard-plug-display 0.1.3 is out!",
-        "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/0.1.3"
-      }
-    ],
-    "new_commits": 19
-  },
-  {
     "name": "switchboard-plug-applications",
     "releases": [
       {
@@ -3001,47 +3145,6 @@
     "new_commits": 24
   },
   {
-    "name": "switchboard-plug-notifications",
-    "releases": [
-      {
-        "version": "2.1.6",
-        "release_date": "2020-04-01T23:40:00",
-        "title": "switchboard-plug-notifications 2.1.6 Released",
-        "body": "switchboard-plug-notifications 2.1.6 is out! \n\n<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/switchboard-plug-notifications/releases/tag/2.1.6"
-      },
-      {
-        "version": "2.1.5",
-        "release_date": "2018-10-16T08:05:38",
-        "title": "Switchboard Notifications Plug 2.1.5 Released",
-        "body": "switchboard-plug-notifications 2.1.5 is out!\r\n\r\nThis release includes updated translations.",
-        "href": "https://github.com/elementary/switchboard-plug-notifications/releases/tag/2.1.5"
-      },
-      {
-        "version": "0.1.4",
-        "release_date": "2018-06-11T15:29:47",
-        "title": "Switchboard Notifications Plug 0.1.4 Released",
-        "body": "switchboard-plug-notifications 0.1.4 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-notifications/issues?q=is%3Aclosed+milestone%3A0.1.4).",
-        "href": "https://github.com/elementary/switchboard-plug-notifications/releases/tag/0.1.4"
-      },
-      {
-        "version": "0.1.3",
-        "release_date": "2017-10-03T20:40:51",
-        "title": "Switchboard Notifications Plug 0.1.3 Released",
-        "body": "switchboard-plug-notifications 0.1.3 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-notifications/issues?q=is%3Aclosed+milestone%3A0.1.3).",
-        "href": "https://github.com/elementary/switchboard-plug-notifications/releases/tag/0.1.3"
-      },
-      {
-        "version": "0.1.2",
-        "release_date": "2017-05-24T22:05:45",
-        "title": "Switchboard Notifications Plug 0.1.2 Released",
-        "body": "switchboard-plug-notifications 0.1.2 is out!",
-        "href": "https://github.com/elementary/switchboard-plug-notifications/releases/tag/0.1.2"
-      }
-    ],
-    "new_commits": 27
-  },
-  {
     "name": "switchboard-plug-keyboard",
     "releases": [
       {
@@ -3163,81 +3266,6 @@
       }
     ],
     "new_commits": 9
-  },
-  {
-    "name": "switchboard-plug-locale",
-    "releases": [
-      {
-        "version": "2.5.1",
-        "release_date": "2020-04-01T22:48:03",
-        "title": "switchboard-plug-locale 2.5.1 Released",
-        "body": "switchboard-plug-locale 2.5.1 is out! \n\n<ul>\n<li>Fix an issue with cancelling language installation</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.5.1"
-      },
-      {
-        "version": "2.5.0",
-        "release_date": "2019-11-15T23:09:58",
-        "title": "switchboard-plug-locale 2.5.0 Released",
-        "body": "switchboard-plug-locale 2.5.0 is out! \n\nChanges:\n\n* Redesigned Install Language popover\n* Asks for permission when needed. No more extra InfoBar\n* Installtion progress InfoBar is now a Dialog\n* Language list properly updates when adding or removing languages\n* Updated translations\n",
-        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.5.0"
-      },
-      {
-        "version": "2.4.1",
-        "release_date": "2018-12-19T06:28:04",
-        "title": "Switchboard Locale Plug 2.4.1 Released",
-        "body": "switchboard-plug-locale 2.4.1 is out!\r\n\r\nChanges:\r\n* Better search keywords\r\n* Don't restrict locale length\r\n* Updated translations",
-        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.4.1"
-      },
-      {
-        "version": "2.4.0",
-        "release_date": "2018-10-15T21:26:12",
-        "title": "Switchboard Locale Plug 2.4.0 Released",
-        "body": "switchboard-plug-locale 2.4.0 is out!\r\n\r\nThis list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-locale/issues?q=is%3Aclosed+milestone%3A2.4.0).",
-        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.4.0"
-      },
-      {
-        "version": "0.2.3",
-        "release_date": "2017-05-22T20:19:26",
-        "title": "Switchboard Locale Plug 0.2.3 Released",
-        "body": "switchboard-plug-locale 0.2.3 is out!",
-        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/0.2.3"
-      },
-      {
-        "version": "0.2.2",
-        "release_date": "2017-05-12T08:27:01",
-        "title": "Switchboard Locale Plug 0.2.2 Released",
-        "body": "switchboard-plug-locale 0.2.2 is out!",
-        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/0.2.2"
-      }
-    ],
-    "new_commits": 33
-  },
-  {
-    "name": "sideload",
-    "releases": [
-      {
-        "version": "1.1.0",
-        "release_date": "2020-04-01T20:05:38",
-        "title": "sideload 1.1.0 Released",
-        "body": "sideload 1.1.0 is out! \n\n<ul>\n<li>Show app name in the main view once it's loaded</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/sideload/releases/tag/1.1.0"
-      },
-      {
-        "version": "1.0.1",
-        "release_date": "2020-02-26T06:40:15",
-        "title": "sideload 1.0.1 Released",
-        "body": "sideload 1.0.1 is out! \n\n<ul>\n<li>Improve performance of download size calculation</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/sideload/releases/tag/1.0.1"
-      },
-      {
-        "version": "1.0.0",
-        "release_date": "2019-10-29T19:57:23",
-        "title": "sideload 1.0.0 Released",
-        "body": "sideload 1.0.0 is out! \n\nChanges:\n\n* First release. Hello world!\n",
-        "href": "https://github.com/elementary/sideload/releases/tag/1.0.0"
-      }
-    ],
-    "new_commits": 17
   },
   {
     "name": "music",
@@ -3437,7 +3465,7 @@
         "href": "https://github.com/elementary/stylesheet/releases/tag/5.0.4"
       }
     ],
-    "new_commits": 72
+    "new_commits": 74
   },
   {
     "name": "screenshot",
