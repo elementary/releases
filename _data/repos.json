@@ -1555,7 +1555,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 25
+    "new_commits": 27
   },
   {
     "name": "switchboard",
@@ -1735,7 +1735,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 36
+    "new_commits": 41
   },
   {
     "name": "switchboard-plug-pantheon-shell",
@@ -1886,7 +1886,7 @@
         "href": "https://github.com/elementary/pantheon-agent-geoclue2/releases/tag/1.0"
       }
     ],
-    "new_commits": 5
+    "new_commits": 8
   },
   {
     "name": "videos",
@@ -2127,7 +2127,7 @@
         "href": "https://github.com/elementary/capnet-assist/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 9
+    "new_commits": 13
   },
   {
     "name": "photos",
@@ -3669,7 +3669,7 @@
         "href": "https://github.com/elementary/feedback/releases/tag/1.0"
       }
     ],
-    "new_commits": 333
+    "new_commits": 336
   },
   {
     "name": "houston",
