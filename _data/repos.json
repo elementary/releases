@@ -320,7 +320,7 @@
         "href": "https://github.com/elementary/switchboard-plug-network/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 4
+    "new_commits": 10
   },
   {
     "name": "switchboard-plug-bluetooth",
@@ -609,7 +609,7 @@
         "href": "https://github.com/elementary/switchboard-plug-printers/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 1
+    "new_commits": 2
   },
   {
     "name": "switchboard-plug-sound",
@@ -1140,7 +1140,7 @@
         "href": "https://github.com/elementary/switchboard-plug-datetime/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 5
+    "new_commits": 7
   },
   {
     "name": "appcenter",
@@ -3176,7 +3176,7 @@
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 37
+    "new_commits": 38
   },
   {
     "name": "camera",
