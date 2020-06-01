@@ -27,8 +27,8 @@ layout: default
           {% assign repo_secs = release.release_date | date: '%s' %}
           {% assign repo_age_secs = now_secs | minus: repo_secs %}
 
-          {% comment %} Always show the first, plus any releases in the past month {% endcomment %}
-          {% if forloop.first or repo_age_secs < 2592000 %}
+          {% comment %} Always show the first, plus any releases in the past two months {% endcomment %}
+          {% if forloop.first or repo_age_secs < 5184000 %}
             <details>
               <summary class="version">
                 <a href="{{ release.href }}">{{ release.version }}</a>
