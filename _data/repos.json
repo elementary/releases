@@ -1,5 +1,88 @@
 [
   {
+    "name": "calendar",
+    "releases": [
+      {
+        "version": "5.0.5",
+        "release_date": "2020-06-02T04:44:14",
+        "title": "calendar 5.0.5 Released",
+        "body": "<p>Minor Updates:</p>\n<ul>\n<li>Fix several issues with adding and removing monthly recurring events</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/calendar/releases/tag/5.0.5"
+      },
+      {
+        "version": "5.0.4",
+        "release_date": "2020-04-03T20:09:04",
+        "title": "calendar 5.0.4 Released",
+        "body": "<p>Minor Updates:</p>\n<ul>\n<li>Correctly save event reminders</li>\n<li>Ellipsize event participant details if necessary</li>\n<li>Fix unwanted rescheduling when editing event title</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/calendar/releases/tag/5.0.4"
+      },
+      {
+        "version": "5.0.3",
+        "release_date": "2019-11-27T19:39:03",
+        "title": "calendar 5.0.3 Released",
+        "body": "calendar 5.0.3 is out! \n\n<p>Fix crash when editing an event with no location</p>\n",
+        "href": "https://github.com/elementary/calendar/releases/tag/5.0.3"
+      },
+      {
+        "version": "5.0.2",
+        "release_date": "2019-11-26T18:12:31",
+        "title": "calendar 5.0.2 Released",
+        "body": "calendar 5.0.2 is out! \n\n<p>Fix potential crash when loading events with no start or end time</p>\n",
+        "href": "https://github.com/elementary/calendar/releases/tag/5.0.2"
+      },
+      {
+        "version": "5.0.1",
+        "release_date": "2019-11-25T22:50:33",
+        "title": "calendar 5.0.1 Released",
+        "body": "calendar 5.0.1 is out! \r\n\r\n- Make agenda pane fill the whole space\r\n- Set the suggested time for new events to the next whole hour\r\n- Fix issues with recurring events\r\n- Performance improvements\r\n- Updated translations\r\n",
+        "href": "https://github.com/elementary/calendar/releases/tag/5.0.1"
+      },
+      {
+        "version": "5.0",
+        "release_date": "2019-03-01T00:38:47",
+        "title": "Calendar 5.0 Released",
+        "body": "Calendar 5.0 is out!\r\n\r\nChanges:\r\n* Present import window when opening ICS files\r\n* Add a search entry for calendars\r\n* Always use calendar icon in notifications\r\n* Agenda view can now be navigated by keyboard\r\n* Right-to-left improvements\r\n* Various UI overhauls including lime accent color\r\n* Overall code cleanup and rewrites\r\n* Updated translations",
+        "href": "https://github.com/elementary/calendar/releases/tag/5.0"
+      },
+      {
+        "version": "4.2.3",
+        "release_date": "2018-10-16T09:26:43",
+        "title": "Calendar 4.2.3 Released",
+        "body": "Changes:\r\n* Styling adjustments\r\n* Fix location panel initialization\r\n* Updated translations",
+        "href": "https://github.com/elementary/calendar/releases/tag/4.2.3"
+      },
+      {
+        "version": "4.2.2",
+        "release_date": "2018-10-03T08:17:05",
+        "title": "Calendar 4.2.2 Released",
+        "body": "Calendar 4.2.2 is out!\r\n\r\nChanges:\r\n* Meson build system\r\n* Date format fixes\r\n* Miscellaneous build fixes\r\n* Updated translations",
+        "href": "https://github.com/elementary/calendar/releases/tag/4.2.2"
+      },
+      {
+        "version": "0.4.2.1",
+        "release_date": "2018-06-22T09:51:25",
+        "title": "Calendar 0.4.2.1 Released",
+        "body": "Calendar 0.4.2.1 is out!\r\n\r\nThis release includes the following changes:\r\n* Update `wingpanel-indicator-datetime` settings path\r\n* New translations",
+        "href": "https://github.com/elementary/calendar/releases/tag/0.4.2.1"
+      },
+      {
+        "version": "0.4.2",
+        "release_date": "2018-06-06T09:04:54",
+        "title": "Calendar 0.4.2 Released",
+        "body": "Calendar 0.4.2 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/calendar/issues?q=is%3Aclosed+milestone%3A0.4.2).",
+        "href": "https://github.com/elementary/calendar/releases/tag/0.4.2"
+      },
+      {
+        "version": "0.4.1",
+        "release_date": "2017-12-01T20:54:43",
+        "title": "Maya (Calendar) 0.4.1 Released",
+        "body": "maya-calendar 0.4.1 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/calendar/issues?q=is%3Aclosed+milestone%3A0.4.1).",
+        "href": "https://github.com/elementary/calendar/releases/tag/0.4.1"
+      }
+    ],
+    "new_commits": 0
+  },
+  {
     "name": "files",
     "releases": [
       {
@@ -2543,82 +2626,6 @@
       }
     ],
     "new_commits": 43
-  },
-  {
-    "name": "calendar",
-    "releases": [
-      {
-        "version": "5.0.4",
-        "release_date": "2020-04-03T20:09:04",
-        "title": "calendar 5.0.4 Released",
-        "body": "<p>Minor Updates:</p>\n<ul>\n<li>Correctly save event reminders</li>\n<li>Ellipsize event participant details if necessary</li>\n<li>Fix unwanted rescheduling when editing event title</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/calendar/releases/tag/5.0.4"
-      },
-      {
-        "version": "5.0.3",
-        "release_date": "2019-11-27T19:39:03",
-        "title": "calendar 5.0.3 Released",
-        "body": "calendar 5.0.3 is out! \n\n<p>Fix crash when editing an event with no location</p>\n",
-        "href": "https://github.com/elementary/calendar/releases/tag/5.0.3"
-      },
-      {
-        "version": "5.0.2",
-        "release_date": "2019-11-26T18:12:31",
-        "title": "calendar 5.0.2 Released",
-        "body": "calendar 5.0.2 is out! \n\n<p>Fix potential crash when loading events with no start or end time</p>\n",
-        "href": "https://github.com/elementary/calendar/releases/tag/5.0.2"
-      },
-      {
-        "version": "5.0.1",
-        "release_date": "2019-11-25T22:50:33",
-        "title": "calendar 5.0.1 Released",
-        "body": "calendar 5.0.1 is out! \r\n\r\n- Make agenda pane fill the whole space\r\n- Set the suggested time for new events to the next whole hour\r\n- Fix issues with recurring events\r\n- Performance improvements\r\n- Updated translations\r\n",
-        "href": "https://github.com/elementary/calendar/releases/tag/5.0.1"
-      },
-      {
-        "version": "5.0",
-        "release_date": "2019-03-01T00:38:47",
-        "title": "Calendar 5.0 Released",
-        "body": "Calendar 5.0 is out!\r\n\r\nChanges:\r\n* Present import window when opening ICS files\r\n* Add a search entry for calendars\r\n* Always use calendar icon in notifications\r\n* Agenda view can now be navigated by keyboard\r\n* Right-to-left improvements\r\n* Various UI overhauls including lime accent color\r\n* Overall code cleanup and rewrites\r\n* Updated translations",
-        "href": "https://github.com/elementary/calendar/releases/tag/5.0"
-      },
-      {
-        "version": "4.2.3",
-        "release_date": "2018-10-16T09:26:43",
-        "title": "Calendar 4.2.3 Released",
-        "body": "Changes:\r\n* Styling adjustments\r\n* Fix location panel initialization\r\n* Updated translations",
-        "href": "https://github.com/elementary/calendar/releases/tag/4.2.3"
-      },
-      {
-        "version": "4.2.2",
-        "release_date": "2018-10-03T08:17:05",
-        "title": "Calendar 4.2.2 Released",
-        "body": "Calendar 4.2.2 is out!\r\n\r\nChanges:\r\n* Meson build system\r\n* Date format fixes\r\n* Miscellaneous build fixes\r\n* Updated translations",
-        "href": "https://github.com/elementary/calendar/releases/tag/4.2.2"
-      },
-      {
-        "version": "0.4.2.1",
-        "release_date": "2018-06-22T09:51:25",
-        "title": "Calendar 0.4.2.1 Released",
-        "body": "Calendar 0.4.2.1 is out!\r\n\r\nThis release includes the following changes:\r\n* Update `wingpanel-indicator-datetime` settings path\r\n* New translations",
-        "href": "https://github.com/elementary/calendar/releases/tag/0.4.2.1"
-      },
-      {
-        "version": "0.4.2",
-        "release_date": "2018-06-06T09:04:54",
-        "title": "Calendar 0.4.2 Released",
-        "body": "Calendar 0.4.2 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/calendar/issues?q=is%3Aclosed+milestone%3A0.4.2).",
-        "href": "https://github.com/elementary/calendar/releases/tag/0.4.2"
-      },
-      {
-        "version": "0.4.1",
-        "release_date": "2017-12-01T20:54:43",
-        "title": "Maya (Calendar) 0.4.1 Released",
-        "body": "maya-calendar 0.4.1 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/calendar/issues?q=is%3Aclosed+milestone%3A0.4.1).",
-        "href": "https://github.com/elementary/calendar/releases/tag/0.4.1"
-      }
-    ],
-    "new_commits": 41
   },
   {
     "name": "wingpanel-indicator-sound",
