@@ -590,7 +590,7 @@
         "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 2
+    "new_commits": 3
   },
   {
     "name": "onboarding",
@@ -817,7 +817,7 @@
         "href": "https://github.com/elementary/switchboard-plug-printers/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 2
+    "new_commits": 3
   },
   {
     "name": "switchboard-plug-sound",
@@ -886,7 +886,7 @@
         "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/0.1"
       }
     ],
-    "new_commits": 2
+    "new_commits": 3
   },
   {
     "name": "greeter",
@@ -3190,7 +3190,7 @@
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 38
+    "new_commits": 41
   },
   {
     "name": "camera",
