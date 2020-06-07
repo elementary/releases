@@ -473,7 +473,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 0
+    "new_commits": 3
   },
   {
     "name": "switchboard-plug-network",
@@ -707,7 +707,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 6
+    "new_commits": 9
   },
   {
     "name": "shortcut-overlay",
@@ -1286,7 +1286,7 @@
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
       }
     ],
-    "new_commits": 6
+    "new_commits": 9
   },
   {
     "name": "switchboard-plug-datetime",
@@ -1763,7 +1763,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 27
+    "new_commits": 29
   },
   {
     "name": "switchboard",
@@ -2694,7 +2694,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.0.4"
       }
     ],
-    "new_commits": 15
+    "new_commits": 16
   },
   {
     "name": "wingpanel-indicator-power",
@@ -3136,7 +3136,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-session/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 23
+    "new_commits": 24
   },
   {
     "name": "switchboard-plug-sharing",
@@ -4119,7 +4119,7 @@
         "href": "https://github.com/elementary/mail/releases/tag/1.0.6"
       }
     ],
-    "new_commits": 238
+    "new_commits": 239
   },
   {
     "name": "press-kit",
