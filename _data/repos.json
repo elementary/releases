@@ -418,7 +418,7 @@
         "href": "https://github.com/elementary/sideload/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 6
+    "new_commits": 8
   },
   {
     "name": "wingpanel-indicator-network",
@@ -2101,7 +2101,7 @@
         "href": "https://github.com/elementary/pantheon-agent-geoclue2/releases/tag/1.0"
       }
     ],
-    "new_commits": 8
+    "new_commits": 10
   },
   {
     "name": "videos",
@@ -2342,7 +2342,7 @@
         "href": "https://github.com/elementary/capnet-assist/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 13
+    "new_commits": 15
   },
   {
     "name": "photos",
