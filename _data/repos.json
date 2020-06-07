@@ -2742,7 +2742,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-power/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 16
+    "new_commits": 17
   },
   {
     "name": "code",
@@ -3039,7 +3039,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.0.1"
       }
     ],
-    "new_commits": 9
+    "new_commits": 11
   },
   {
     "name": "wingpanel-indicator-session",
