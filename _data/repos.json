@@ -205,7 +205,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 21
+    "new_commits": 23
   },
   {
     "name": "switchboard-plug-notifications",
@@ -1943,7 +1943,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 48
+    "new_commits": 52
   },
   {
     "name": "switchboard-plug-pantheon-shell",
@@ -2804,7 +2804,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 84
+    "new_commits": 85
   },
   {
     "name": "terminal",
@@ -2929,7 +2929,7 @@
         "href": "https://github.com/elementary/terminal/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 62
+    "new_commits": 63
   },
   {
     "name": "wingpanel-indicator-keyboard",
