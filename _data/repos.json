@@ -308,7 +308,7 @@
         "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 2
+    "new_commits": 6
   },
   {
     "name": "switchboard-plug-display",
@@ -1072,7 +1072,7 @@
         "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 5
+    "new_commits": 8
   },
   {
     "name": "switchboard-plug-about",
@@ -1155,7 +1155,7 @@
         "href": "https://github.com/elementary/switchboard-plug-about/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 1
+    "new_commits": 3
   },
   {
     "name": "switchboard-plug-parental-controls",
@@ -1348,7 +1348,7 @@
         "href": "https://github.com/elementary/switchboard-plug-datetime/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 7
+    "new_commits": 11
   },
   {
     "name": "appcenter",
@@ -2019,7 +2019,7 @@
         "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
       }
     ],
-    "new_commits": 65
+    "new_commits": 68
   },
   {
     "name": "os",
@@ -2473,7 +2473,7 @@
         "href": "https://github.com/elementary/switchboard-plug-applications/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 67
+    "new_commits": 70
   },
   {
     "name": "wingpanel",
