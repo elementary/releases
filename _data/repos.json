@@ -1501,7 +1501,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 18
+    "new_commits": 20
   },
   {
     "name": "switchboard-plug-security-privacy",
@@ -2473,7 +2473,7 @@
         "href": "https://github.com/elementary/switchboard-plug-applications/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 72
+    "new_commits": 73
   },
   {
     "name": "wingpanel",
@@ -3486,7 +3486,7 @@
         "href": "https://github.com/elementary/stylesheet/releases/tag/5.0.4"
       }
     ],
-    "new_commits": 76
+    "new_commits": 77
   },
   {
     "name": "screenshot",
