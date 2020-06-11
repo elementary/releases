@@ -1798,7 +1798,7 @@
         "href": "https://github.com/elementary/icons/releases/tag/4.0.1.1"
       }
     ],
-    "new_commits": 2
+    "new_commits": 3
   },
   {
     "name": "gala",
@@ -3493,7 +3493,7 @@
         "href": "https://github.com/elementary/stylesheet/releases/tag/5.0.4"
       }
     ],
-    "new_commits": 81
+    "new_commits": 82
   },
   {
     "name": "screenshot",
@@ -4126,7 +4126,7 @@
         "href": "https://github.com/elementary/mail/releases/tag/1.0.6"
       }
     ],
-    "new_commits": 239
+    "new_commits": 240
   },
   {
     "name": "press-kit",
