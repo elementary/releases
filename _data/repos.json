@@ -1570,7 +1570,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 28
+    "new_commits": 32
   },
   {
     "name": "switchboard-plug-security-privacy",
@@ -3596,7 +3596,7 @@
         "href": "https://github.com/elementary/default-settings/releases/tag/5.0"
       }
     ],
-    "new_commits": 19
+    "new_commits": 20
   },
   {
     "name": "wallpapers",
