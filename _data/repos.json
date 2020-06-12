@@ -66,7 +66,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 3
+    "new_commits": 9
   },
   {
     "name": "calendar",
@@ -597,7 +597,7 @@
         "href": "https://github.com/elementary/switchboard-plug-network/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 13
+    "new_commits": 14
   },
   {
     "name": "switchboard-plug-bluetooth",
@@ -1258,7 +1258,7 @@
         "href": "https://github.com/elementary/switchboard-plug-parental-controls/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 5
+    "new_commits": 6
   },
   {
     "name": "applications-menu",
@@ -2542,7 +2542,7 @@
         "href": "https://github.com/elementary/switchboard-plug-applications/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 73
+    "new_commits": 74
   },
   {
     "name": "wingpanel",
