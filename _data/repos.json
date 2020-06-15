@@ -2301,7 +2301,7 @@
         "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 36
+    "new_commits": 38
   },
   {
     "name": "wingpanel-indicator-bluetooth",
@@ -3596,7 +3596,7 @@
         "href": "https://github.com/elementary/default-settings/releases/tag/5.0"
       }
     ],
-    "new_commits": 21
+    "new_commits": 22
   },
   {
     "name": "wallpapers",
@@ -4079,7 +4079,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 1626
+    "new_commits": 1627
   },
   {
     "name": "fonts",
