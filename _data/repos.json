@@ -274,7 +274,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 28
+    "new_commits": 29
   },
   {
     "name": "switchboard-plug-notifications",
@@ -4079,7 +4079,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 1624
+    "new_commits": 1626
   },
   {
     "name": "fonts",
