@@ -149,7 +149,7 @@
         "href": "https://github.com/elementary/calendar/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 3
+    "new_commits": 4
   },
   {
     "name": "files",
@@ -1832,7 +1832,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 30
+    "new_commits": 31
   },
   {
     "name": "switchboard",
@@ -2012,7 +2012,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 52
+    "new_commits": 54
   },
   {
     "name": "switchboard-plug-pantheon-shell",
@@ -3259,7 +3259,7 @@
         "href": "https://github.com/elementary/camera/releases/tag/1.0"
       }
     ],
-    "new_commits": 9
+    "new_commits": 10
   },
   {
     "name": "switchboard-plug-a11y",
