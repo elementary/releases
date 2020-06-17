@@ -149,7 +149,7 @@
         "href": "https://github.com/elementary/calendar/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 4
+    "new_commits": 7
   },
   {
     "name": "files",
@@ -1832,7 +1832,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 31
+    "new_commits": 34
   },
   {
     "name": "switchboard",
@@ -2936,7 +2936,7 @@
         "href": "https://github.com/elementary/terminal/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 64
+    "new_commits": 65
   },
   {
     "name": "wingpanel-indicator-keyboard",
@@ -3493,7 +3493,7 @@
         "href": "https://github.com/elementary/stylesheet/releases/tag/5.0.4"
       }
     ],
-    "new_commits": 86
+    "new_commits": 88
   },
   {
     "name": "screenshot",
