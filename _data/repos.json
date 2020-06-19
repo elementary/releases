@@ -1,5 +1,109 @@
 [
   {
+    "name": "wingpanel",
+    "releases": [
+      {
+        "version": "2.3.2",
+        "release_date": "2020-06-19T19:01:53",
+        "title": "wingpanel 2.3.2 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Fix a potential issue when ending the session</li>\n<li>Use \"allowed\" and \"forbidden\" list names</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/wingpanel/releases/tag/2.3.2"
+      },
+      {
+        "version": "2.3.1",
+        "release_date": "2020-04-06T03:59:58",
+        "title": "wingpanel 2.3.1 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Fix an issue with some 3 monitor layouts</li>\n<li>Reduce spacing between icons</li>\n<li>Add support for mutter 3.36</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/wingpanel/releases/tag/2.3.1"
+      },
+      {
+        "version": "2.3.0",
+        "release_date": "2020-03-02T19:36:38",
+        "title": "wingpanel 2.3.0 Released",
+        "body": "wingpanel 2.3.0 is out! \n\n<p>Improvements:</p>\n<ul>\n<li>Fix an issue where moving windows to a secondary display above the panel wouldn't work</li>\n<li>Register with session manager</li>\n<li>Add support for mutter 3.3x</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/wingpanel/releases/tag/2.3.0"
+      },
+      {
+        "version": "2.2.6",
+        "release_date": "2019-10-31T20:41:42",
+        "title": "wingpanel 2.2.6 Released",
+        "body": "wingpanel 2.2.6 is out! \n\nChanges:\n\n* Fix an issue with the panel being draggable on touch screens\n* Fix focus on dialogs launched from the panel\n* Updated translations\n",
+        "href": "https://github.com/elementary/wingpanel/releases/tag/2.2.6"
+      },
+      {
+        "version": "2.2.5",
+        "release_date": "2019-06-05T09:55:20",
+        "title": "Wingpanel 2.2.5 Released",
+        "body": "Wingpanel 2.2.5 is out!\r\n\r\nChanges:\r\n* More accurately focus launched apps\r\n* Mitigate panel transparency calculation regressions with newer Mutter library\r\n* Deprecate unused indicator properties",
+        "href": "https://github.com/elementary/wingpanel/releases/tag/2.2.5"
+      },
+      {
+        "version": "2.2.4",
+        "release_date": "2019-04-24T12:30:39",
+        "title": "Wingpanel 2.2.4 Released",
+        "body": "Wingpanel 2.2.4 is out!\r\n\r\nChanges:\r\n* Fix moving window to another workspace not updating panel state",
+        "href": "https://github.com/elementary/wingpanel/releases/tag/2.2.4"
+      },
+      {
+        "version": "2.2.3",
+        "release_date": "2019-03-18T16:38:23",
+        "title": "Wingpanel 2.2.3 Released",
+        "body": "Wingpanel 2.2.3 is out!\r\n\r\nChanges:\r\n* Fix potential window overlap",
+        "href": "https://github.com/elementary/wingpanel/releases/tag/2.2.3"
+      },
+      {
+        "version": "2.2.2",
+        "release_date": "2019-01-17T20:03:29",
+        "title": "Wingpanel 2.2.2 Released",
+        "body": "Wingpanel 2.2.2 is out!\r\n\r\nChanges:\r\n* Fix disappearing reactivated indicators\r\n* Updated translations",
+        "href": "https://github.com/elementary/wingpanel/releases/tag/2.2.2"
+      },
+      {
+        "version": "2.2.1",
+        "release_date": "2018-12-20T12:23:56",
+        "title": "Wingpanel 2.2.1 Released",
+        "body": "Wingpanel 2.2.1 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/wingpanel/issues?q=is%3Aclosed+milestone%3A2.2.1).",
+        "href": "https://github.com/elementary/wingpanel/releases/tag/2.2.1"
+      },
+      {
+        "version": "2.2.0",
+        "release_date": "2018-10-04T14:34:15",
+        "title": "Wingpanel 2.2.0 Released",
+        "body": "Wingpanel 2.2.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/wingpanel/issues?q=is%3Aclosed+milestone%3A2.2.0).",
+        "href": "https://github.com/elementary/wingpanel/releases/tag/2.2.0"
+      },
+      {
+        "version": "2.1.1",
+        "release_date": "2018-06-22T07:24:13",
+        "title": "Wingpanel 2.1.1 Released",
+        "body": "Wingpanel 2.1.1 is out!\r\n\r\nThis release includes the following changes:\r\n* Settings path moved to `io.elementary.desktop.wingpanel`\r\n* New translations",
+        "href": "https://github.com/elementary/wingpanel/releases/tag/2.1.1"
+      },
+      {
+        "version": "2.1.0",
+        "release_date": "2018-06-06T11:41:54",
+        "title": "Wingpanel 2.1.0 Released",
+        "body": "Wingpanel 2.1.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/wingpanel/issues?q=is%3Aclosed+milestone%3A2.1.0).",
+        "href": "https://github.com/elementary/wingpanel/releases/tag/2.1.0"
+      },
+      {
+        "version": "2.0.4",
+        "release_date": "2017-09-12T02:01:36",
+        "title": "Wingpanel 2.0.4 Released",
+        "body": "Wingpanel 2.0.4 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/wingpanel/milestone/2?closed=1).",
+        "href": "https://github.com/elementary/wingpanel/releases/tag/2.0.4"
+      },
+      {
+        "version": "2.0.3",
+        "release_date": "2017-05-30T19:07:22",
+        "title": "Wingpanel 2.0.3 Released",
+        "body": "Wingpanel 2.0.3 is out!",
+        "href": "https://github.com/elementary/wingpanel/releases/tag/2.0.3"
+      }
+    ],
+    "new_commits": 0
+  },
+  {
     "name": "pantheon-agent-polkit",
     "releases": [
       {
@@ -2550,103 +2654,6 @@
       }
     ],
     "new_commits": 74
-  },
-  {
-    "name": "wingpanel",
-    "releases": [
-      {
-        "version": "2.3.1",
-        "release_date": "2020-04-06T03:59:58",
-        "title": "wingpanel 2.3.1 Released",
-        "body": "<p>Improvements:</p>\n<ul>\n<li>Fix an issue with some 3 monitor layouts</li>\n<li>Reduce spacing between icons</li>\n<li>Add support for mutter 3.36</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/wingpanel/releases/tag/2.3.1"
-      },
-      {
-        "version": "2.3.0",
-        "release_date": "2020-03-02T19:36:38",
-        "title": "wingpanel 2.3.0 Released",
-        "body": "wingpanel 2.3.0 is out! \n\n<p>Improvements:</p>\n<ul>\n<li>Fix an issue where moving windows to a secondary display above the panel wouldn't work</li>\n<li>Register with session manager</li>\n<li>Add support for mutter 3.3x</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/wingpanel/releases/tag/2.3.0"
-      },
-      {
-        "version": "2.2.6",
-        "release_date": "2019-10-31T20:41:42",
-        "title": "wingpanel 2.2.6 Released",
-        "body": "wingpanel 2.2.6 is out! \n\nChanges:\n\n* Fix an issue with the panel being draggable on touch screens\n* Fix focus on dialogs launched from the panel\n* Updated translations\n",
-        "href": "https://github.com/elementary/wingpanel/releases/tag/2.2.6"
-      },
-      {
-        "version": "2.2.5",
-        "release_date": "2019-06-05T09:55:20",
-        "title": "Wingpanel 2.2.5 Released",
-        "body": "Wingpanel 2.2.5 is out!\r\n\r\nChanges:\r\n* More accurately focus launched apps\r\n* Mitigate panel transparency calculation regressions with newer Mutter library\r\n* Deprecate unused indicator properties",
-        "href": "https://github.com/elementary/wingpanel/releases/tag/2.2.5"
-      },
-      {
-        "version": "2.2.4",
-        "release_date": "2019-04-24T12:30:39",
-        "title": "Wingpanel 2.2.4 Released",
-        "body": "Wingpanel 2.2.4 is out!\r\n\r\nChanges:\r\n* Fix moving window to another workspace not updating panel state",
-        "href": "https://github.com/elementary/wingpanel/releases/tag/2.2.4"
-      },
-      {
-        "version": "2.2.3",
-        "release_date": "2019-03-18T16:38:23",
-        "title": "Wingpanel 2.2.3 Released",
-        "body": "Wingpanel 2.2.3 is out!\r\n\r\nChanges:\r\n* Fix potential window overlap",
-        "href": "https://github.com/elementary/wingpanel/releases/tag/2.2.3"
-      },
-      {
-        "version": "2.2.2",
-        "release_date": "2019-01-17T20:03:29",
-        "title": "Wingpanel 2.2.2 Released",
-        "body": "Wingpanel 2.2.2 is out!\r\n\r\nChanges:\r\n* Fix disappearing reactivated indicators\r\n* Updated translations",
-        "href": "https://github.com/elementary/wingpanel/releases/tag/2.2.2"
-      },
-      {
-        "version": "2.2.1",
-        "release_date": "2018-12-20T12:23:56",
-        "title": "Wingpanel 2.2.1 Released",
-        "body": "Wingpanel 2.2.1 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/wingpanel/issues?q=is%3Aclosed+milestone%3A2.2.1).",
-        "href": "https://github.com/elementary/wingpanel/releases/tag/2.2.1"
-      },
-      {
-        "version": "2.2.0",
-        "release_date": "2018-10-04T14:34:15",
-        "title": "Wingpanel 2.2.0 Released",
-        "body": "Wingpanel 2.2.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/wingpanel/issues?q=is%3Aclosed+milestone%3A2.2.0).",
-        "href": "https://github.com/elementary/wingpanel/releases/tag/2.2.0"
-      },
-      {
-        "version": "2.1.1",
-        "release_date": "2018-06-22T07:24:13",
-        "title": "Wingpanel 2.1.1 Released",
-        "body": "Wingpanel 2.1.1 is out!\r\n\r\nThis release includes the following changes:\r\n* Settings path moved to `io.elementary.desktop.wingpanel`\r\n* New translations",
-        "href": "https://github.com/elementary/wingpanel/releases/tag/2.1.1"
-      },
-      {
-        "version": "2.1.0",
-        "release_date": "2018-06-06T11:41:54",
-        "title": "Wingpanel 2.1.0 Released",
-        "body": "Wingpanel 2.1.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/wingpanel/issues?q=is%3Aclosed+milestone%3A2.1.0).",
-        "href": "https://github.com/elementary/wingpanel/releases/tag/2.1.0"
-      },
-      {
-        "version": "2.0.4",
-        "release_date": "2017-09-12T02:01:36",
-        "title": "Wingpanel 2.0.4 Released",
-        "body": "Wingpanel 2.0.4 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/wingpanel/milestone/2?closed=1).",
-        "href": "https://github.com/elementary/wingpanel/releases/tag/2.0.4"
-      },
-      {
-        "version": "2.0.3",
-        "release_date": "2017-05-30T19:07:22",
-        "title": "Wingpanel 2.0.3 Released",
-        "body": "Wingpanel 2.0.3 is out!",
-        "href": "https://github.com/elementary/wingpanel/releases/tag/2.0.3"
-      }
-    ],
-    "new_commits": 10
   },
   {
     "name": "calculator",
