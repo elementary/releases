@@ -2123,7 +2123,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 55
+    "new_commits": 56
   },
   {
     "name": "switchboard-plug-pantheon-shell",
@@ -2412,7 +2412,7 @@
         "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 38
+    "new_commits": 39
   },
   {
     "name": "wingpanel-indicator-bluetooth",
