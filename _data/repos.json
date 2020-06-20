@@ -447,7 +447,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 39
+    "new_commits": 40
   },
   {
     "name": "switchboard-plug-notifications",
@@ -1681,7 +1681,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 41
+    "new_commits": 42
   },
   {
     "name": "switchboard-plug-security-privacy",
