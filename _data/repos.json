@@ -322,7 +322,7 @@
         "href": "https://github.com/elementary/calendar/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 24
+    "new_commits": 26
   },
   {
     "name": "files",
@@ -1943,7 +1943,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 39
+    "new_commits": 40
   },
   {
     "name": "switchboard",
