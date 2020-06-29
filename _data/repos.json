@@ -447,7 +447,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 47
+    "new_commits": 51
   },
   {
     "name": "switchboard-plug-notifications",
@@ -3376,7 +3376,7 @@
         "href": "https://github.com/elementary/music/releases/tag/0.4.0.3"
       }
     ],
-    "new_commits": 30
+    "new_commits": 31
   },
   {
     "name": "wingpanel-indicator-nightlight",
