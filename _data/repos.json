@@ -412,7 +412,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 13
+    "new_commits": 15
   },
   {
     "name": "files",
@@ -585,7 +585,7 @@
         "href": "https://github.com/elementary/switchboard-plug-notifications/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 0
+    "new_commits": 1
   },
   {
     "name": "switchboard-plug-locale",
@@ -963,7 +963,7 @@
         "href": "https://github.com/elementary/onboarding/releases/tag/1.0"
       }
     ],
-    "new_commits": 15
+    "new_commits": 16
   },
   {
     "name": "shortcut-overlay",
@@ -3521,7 +3521,7 @@
         "href": "https://github.com/elementary/stylesheet/releases/tag/5.0.4"
       }
     ],
-    "new_commits": 96
+    "new_commits": 97
   },
   {
     "name": "screenshot",
@@ -3590,7 +3590,7 @@
         "href": "https://github.com/elementary/screenshot/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 60
+    "new_commits": 62
   },
   {
     "name": "default-settings",
@@ -4107,7 +4107,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 1669
+    "new_commits": 1670
   },
   {
     "name": "fonts",
