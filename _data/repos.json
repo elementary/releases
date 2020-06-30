@@ -949,7 +949,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 12
+    "new_commits": 13
   },
   {
     "name": "shortcut-overlay",
@@ -2026,7 +2026,7 @@
         "href": "https://github.com/elementary/switchboard/releases/tag/2.3.0"
       }
     ],
-    "new_commits": 21
+    "new_commits": 22
   },
   {
     "name": "granite",
