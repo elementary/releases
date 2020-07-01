@@ -1,5 +1,317 @@
 [
   {
+    "name": "files",
+    "releases": [
+      {
+        "version": "4.4.4",
+        "release_date": "2020-07-01T16:42:26",
+        "title": "files 4.4.4 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Add warning and error colored disk usage bars when disk becomes too full</li>\n<li>Prevent window resizing when filename column width exceeds available space</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Fix handling of filenames containing the # character</li>\n<li>Fix regressions regarding pathbar context menus and clicking</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/files/releases/tag/4.4.4"
+      },
+      {
+        "version": "4.4.3",
+        "release_date": "2020-06-01T23:35:32",
+        "title": "files 4.4.3 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Paste images into other apps instead of file paths where possible</li>\n<li>Paste into a selected folder when using Ctrl + V</li>\n<li>Show file info overlay in List View as well</li>\n<li>Traverse search results with Tab key</li>\n<li>Show an error message when attempting to open trashed files</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Fix uneditable area in pathbar which is showing home folder placeholder</li>\n<li>Fix an issue that prevented file modification times from showing</li>\n<li>Fix size of restored tiled window</li>\n<li>Fix color tags disappearing when thumbnails hidden</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/files/releases/tag/4.4.3"
+      },
+      {
+        "version": "4.4.2",
+        "release_date": "2020-04-03T18:30:32",
+        "title": "files 4.4.2 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Fix crash when a device icon is coming from a file</li>\n<li>Fix device icon sometimes missing</li>\n<li>Fix occasional view freeze after renaming</li>\n<li>Improve renaming logic when dealing with leading/trailing whitespace</li>\n<li>Fix breadcrumbs sometimes incorrect at startup</li>\n<li>Do not show file:// prefix in navigation buttons menus</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/files/releases/tag/4.4.2"
+      },
+      {
+        "version": "4.4.1",
+        "release_date": "2020-03-03T09:38:55",
+        "title": "files 4.4.1 Released",
+        "body": "files 4.4.1 is out! \n\n<p>Minor updates:</p>\n<ul>\n<li>Fix \"New Folder\" keyboard shortcut label in menu</li>\n<li>Fix navigation with back/forward button context menu</li>\n<li>Fix path bar sometimes showing wrong path when closing a tab</li>\n<li>Ensure keyboard shortcuts work immediately after creating or renaming a file</li>\n<li>Do not include \"file://\" in pathbar text or when pasting path as text</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/files/releases/tag/4.4.1"
+      },
+      {
+        "version": "4.4.0",
+        "release_date": "2020-02-11T16:23:21",
+        "title": "files 4.4.0 Released",
+        "body": "files 4.4.0 is out! \n\n<ul>\n<li>Show keyboard shortcuts in menu items</li>\n<li>Fix an issue with breadcrumbs in the file chooser</li>\n<li>Show a warning when ejecting a volume that's still in use</li>\n<li>Fix cursor update after horizontal scroll in Column View</li>\n<li>Fix folder-open icon persisting after closing Column View</li>\n<li>Use destructive action styling for some trash dialog buttons</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/files/releases/tag/4.4.0"
+      },
+      {
+        "version": "4.3.0",
+        "release_date": "2020-01-07T18:53:19",
+        "title": "files 4.3.0 Released",
+        "body": "files 4.3.0 is out! \n\n<p>New features:</p>\n<ul>\n<li>Initial git plugin support</li>\n<li>Follow global history setting when restoring and saving tabs</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Ensure tabs showing same folder remain synchronized</li>\n<li>Fix drag with secondary button on empty space</li>\n<li>Show custom media type icons for installed apps</li>\n<li>Fix appearance of inactive diskspace indicator</li>\n<li>Improve pathbar animation</li>\n<li>Update documentation</li>\n<li>Update translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/files/releases/tag/4.3.0"
+      },
+      {
+        "version": "4.2.0",
+        "release_date": "2019-09-10T01:17:50",
+        "title": "Files 4.2.0 Released",
+        "body": "Files 4.2.0 is out!\r\n\r\nChanges:\r\n* Initial cloudproviders plugin support\r\n* Fix selecting pasted files\r\n* Fix color label visibility while using dark theme\r\n* Fix selecting files using `Shift` key\r\n* Draw checkerboard background for image items\r\n* Improved styling for disk space bars\r\n* Updated translations",
+        "href": "https://github.com/elementary/files/releases/tag/4.2.0"
+      },
+      {
+        "version": "4.1.9",
+        "release_date": "2019-07-26T14:54:02",
+        "title": "Files 4.1.9 Released",
+        "body": "Files 4.1.9 is out!\r\n\r\nChanges:\r\n* Show more search results\r\n* Ensure valid tab name generation\r\n* Properly sort folders by date and size\r\n* Launching Files from Terminal now opens new tab instead of new window\r\n* Improve MTP support\r\n* Various tagging feature refinements\r\n* Keyboard navigation improvements\r\n* Symlink copy and paste fixes\r\n* Avoid crash when Templates folder is null\r\n* Reduce memory footprint of FileChooserDialog\r\n* Avoid crash when selecting image file in some situations\r\n* Fix unclosable progress window while copying network files to removable storage\r\n* Fix drag and drop after double clicking a blank area\r\n* Avoid crash while scrolling over view switcher\r\n* Avoid possible crash in some copy and paste situations\r\n* Updated translations",
+        "href": "https://github.com/elementary/files/releases/tag/4.1.9"
+      },
+      {
+        "version": "4.1.8",
+        "release_date": "2019-05-02T20:45:24",
+        "title": "Files 4.1.8 Released",
+        "body": "Files 4.1.8 is out!\r\n\r\nChanges:\r\n* Keyboard navigation fix for cherry picking select files in icon view\r\n* Don't hardcode search placeholder text style, fixes dark theme issue\r\n* Updated translations",
+        "href": "https://github.com/elementary/files/releases/tag/4.1.8"
+      },
+      {
+        "version": "4.1.7",
+        "release_date": "2019-04-08T19:53:01",
+        "title": "Files 4.1.7 Released",
+        "body": "Files 4.1.7 is out!\r\n\r\nChanges:\r\n* Minor spacing adjustments to location bar\r\n* Fix F2 renaming behavior\r\n* Updated translations",
+        "href": "https://github.com/elementary/files/releases/tag/4.1.7"
+      },
+      {
+        "version": "4.1.6",
+        "release_date": "2019-03-26T09:58:49",
+        "title": "Files 4.1.6 Released",
+        "body": "Files 4.1.6 is out!\r\n\r\nChanges:\r\n* Minor spacing adjustments to location breadcrumbs\r\n* Consistently remember color tags\r\n* Reload thumbnails when changing zoom level to avoid showing placeholder unnecessarily\r\n* Fix running scripts with spaces in filename\r\n* Updated translations",
+        "href": "https://github.com/elementary/files/releases/tag/4.1.6"
+      },
+      {
+        "version": "4.1.5",
+        "release_date": "2019-02-13T23:53:57",
+        "title": "Files 4.1.5 Released",
+        "body": "Files 4.1.5 is out!\r\n\r\nChanges:\r\n* Fix high CPU regression in v4.1.4\r\n* File sorting fixes\r\n* Updated translations",
+        "href": "https://github.com/elementary/files/releases/tag/4.1.5"
+      },
+      {
+        "version": "4.1.4",
+        "release_date": "2019-01-31T13:35:34",
+        "title": "Files 4.1.4 Released",
+        "body": "Files 4.1.4 is out!\r\n\r\nChanges:\r\n* Meson: fix soversion names\r\n* Remove CMake build system\r\n* Fix missing File System properties menu\r\n* Drop intltool dependency\r\n* Fix default file type handler logic\r\n* Fix initial search window size too small\r\n* Add option to disable local file thumbnails\r\n* Fix crash when opening multiple video files\r\n* Fix some timing issues around adding and removing files\r\n* Meson: fix missing library headers\r\n* Fix color tag display\r\n* Show reserved space in Properties window\r\n* Updated translations",
+        "href": "https://github.com/elementary/files/releases/tag/4.1.4"
+      },
+      {
+        "version": "4.1.3",
+        "release_date": "2019-01-09T15:15:23",
+        "title": "Files 4.1.3 Released",
+        "body": "Files 4.1.3 is out!\r\n\r\nChanges:\r\n* Add border radius to text background\r\n* Fix file mimetype association regression\r\n* New pathbar tooltips\r\n* Build fixes\r\n* Updated translations",
+        "href": "https://github.com/elementary/files/releases/tag/4.1.3"
+      },
+      {
+        "version": "4.1.2",
+        "release_date": "2019-01-02T10:32:57",
+        "title": "Files 4.1.2 Released",
+        "body": "Files 4.1.2 is out!\r\n\r\nChanges:\r\n* Plugin build fixes\r\n* Updated translations",
+        "href": "https://github.com/elementary/files/releases/tag/4.1.2"
+      },
+      {
+        "version": "4.1.1",
+        "release_date": "2018-12-28T20:34:15",
+        "title": "Files 4.1.1 Released",
+        "body": "Files 4.1.1 is out!\r\n\r\nChanges:\r\n* Fix `Ctrl+Tab` behavior\r\n* Fix building without Unity library",
+        "href": "https://github.com/elementary/files/releases/tag/4.1.1"
+      },
+      {
+        "version": "4.1.0",
+        "release_date": "2018-12-27T18:31:52",
+        "title": "Files 4.1.0 Released",
+        "body": "Files 4.1.0 is out!\r\n\r\nChanges:\r\n* Hide breadcrumbs and show placeholder and search icon in home folder\r\n* Style error dialogs\r\n* Right click fixes\r\n* Reload recent view when privacy setting changes\r\n* `Connect Server` fixes\r\n* Do not activate multiple files with single click\r\n* Use `Tab` to toggle View and Sidebar keyboard focus\r\n* Delete color tag database entries for trashed files\r\n* Throttle tab closing\r\n* `Ctrl` key fixes\r\n* Drag and drop fixes\r\n* Show icons in `Open with` menus\r\n* Tooltip fixes\r\n* Memory leak fixes\r\n* Crash fixes\r\n* Trash: respect sound setting\r\n* Localization fixes\r\n* Updated translations",
+        "href": "https://github.com/elementary/files/releases/tag/4.1.0"
+      },
+      {
+        "version": "4.0",
+        "release_date": "2018-10-16T09:04:13",
+        "title": "Files 4.0 Released",
+        "body": "Files 4.0 is out!\r\n\r\nThis is a massive release!!!\r\n\r\nThe prolific list of issues closed by this release can be found [here](https://github.com/elementary/files/issues?q=is%3Aclosed+milestone%3A4.0).",
+        "href": "https://github.com/elementary/files/releases/tag/4.0"
+      }
+    ],
+    "new_commits": 4
+  },
+  {
+    "name": "granite",
+    "releases": [
+      {
+        "version": "5.5.0",
+        "release_date": "2020-07-01T16:27:01",
+        "title": "granite 5.5.0 Released",
+        "body": "<p>New Style Constants:</p>\n<ul>\n<li>STYLE_CLASS_COLOR_BUTTON</li>\n<li>STYLE_CLASS_ROUNDED</li>\n</ul>\n<p>Deprecations:</p>\n<ul>\n<li>Several theming utilities. Use Gtk.CssProvider and Gtk.StyleContext instead</li>\n<li>Granite.Services.SimpleCommand. Use GLib.AppInfo.create_from_commandline instead</li>\n<li>Old unused utilities like get_button_layout_schema, get_default_close_button_position, and Granite.Services.Paths</li>\n<li>Old unused widgets like CollapsiblePaned and CompositedWindow</li>\n</ul>\n<p>Other Changes:</p>\n<ul>\n<li>Granite.SourceList now gets Gtk.STYLE_CLASS_SIDEBAR by default</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/granite/releases/tag/5.5.0"
+      },
+      {
+        "version": "5.4.0",
+        "release_date": "2020-04-29T22:16:12",
+        "title": "granite 5.4.0 Released",
+        "body": "<p>New features:</p>\n<ul>\n<li>New Settings class to share Pantheon desktop settings with apps</li>\n<li>Introduced Settings.prefers_color_scheme to get a user's color scheme preference, i.e. for a dark style</li>\n</ul>\n<p>Deprecations:</p>\n<ul>\n<li>It is now recommended to use GLib.Settings instead of Granite.Services.Settings</li>\n</ul>\n",
+        "href": "https://github.com/elementary/granite/releases/tag/5.4.0"
+      },
+      {
+        "version": "5.3.1",
+        "release_date": "2020-04-02T00:21:23",
+        "title": "granite 5.3.1 Released",
+        "body": "granite 5.3.1 is out! \n\n<p>Improvements:</p>\n<ul>\n<li>Better align labels in settings sidebars</li>\n<li>Make AccelLabel.label settable</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/granite/releases/tag/5.3.1"
+      },
+      {
+        "version": "5.3.0",
+        "release_date": "2019-12-13T19:42:03",
+        "title": "granite 5.3.0 Released",
+        "body": "granite 5.3.0 is out! \r\n\r\n<p>New features:</p>\r\n<ul>\r\n<li>Add tooltips to source list items and their actions</li>\r\n<li>New AccelLabel widget for use in menus and popovers</li>\r\n</ul>\r\n<p>Improvements:</p>\r\n<ul>\r\n<li>Delay tab resizing when closing tabs</li>\r\n<li>Updated translations</li>\r\n</ul>\r\n",
+        "href": "https://github.com/elementary/granite/releases/tag/5.3.0"
+      },
+      {
+        "version": "5.2.5",
+        "release_date": "2019-09-05T23:49:51",
+        "title": "Granite 5.2.5 Released",
+        "body": "Granite 5.2.5 is out!\r\n\r\nChanges:\r\n* meson: fix shared library path\r\n* Utils: Add equal keys to accel_to_string\r\n* Provide Badge and Progress support for an Application using same DBus API as libunity\r\n* DynamicNotebook: support `Close Tabs to the Right`\r\n* DynamicNotebook: don\u2019t re-open closed tabs while rapidly closing tabs\r\n* Updated translations",
+        "href": "https://github.com/elementary/granite/releases/tag/5.2.5"
+      },
+      {
+        "version": "5.2.4",
+        "release_date": "2019-07-06T19:40:55",
+        "title": "Granite 5.2.4 Released",
+        "body": "Granite 5.2.4 is out!\r\n\r\nChanges:\r\n* Deprecate IconFactory\r\n* System: deprecate utilies provided by GLib\r\n* Utils: Add more keys to `accel-to-string` (Left and Right Alt, Left and Right Shift)\r\n* MessageDialog: Add the ability to set icon badges\r\n* Revert from custom Wingpanel DateTime settings schema (`io.elementary.desktop.wingpanel.datetime`) to GNOME (`org.gnome.desktop.interface`)\r\n* SimpleSettingsPage: make title and description selectable\r\n* Updated translations",
+        "href": "https://github.com/elementary/granite/releases/tag/5.2.4"
+      },
+      {
+        "version": "5.2.3",
+        "release_date": "2019-02-14T21:36:29",
+        "title": "Granite 5.2.3 Released",
+        "body": "Granite 5.2.3 is out!\r\n\r\nChanges:\r\n* Switch from CMake to Meson build system\r\n* DateTime: Strip leading spaces from time formats\r\n* Support Gdk.Key.Return for Enter markup\r\n* MessageDialog: Add show_error_expander method\r\n* Add function `history_is_enabled`\r\n* Fix typos in documentation\r\n* TimePicker: Use more compact boolean comparison syntax\r\n* Updated translations",
+        "href": "https://github.com/elementary/granite/releases/tag/5.2.3"
+      },
+      {
+        "version": "5.2.2",
+        "release_date": "2018-12-17T13:02:11",
+        "title": "Granite 5.2.2 Released",
+        "body": "Granite 5.2.2 is out!\r\n\r\nChanges:\r\n* Utils: Ignore empty accel strings\r\n* Updated translations",
+        "href": "https://github.com/elementary/granite/releases/tag/5.2.2"
+      },
+      {
+        "version": "5.2.1",
+        "release_date": "2018-11-07T19:18:54",
+        "title": "Granite 5.2.1 Released",
+        "body": "Granite 5.2.1 is out!\r\n\r\nChanges:\r\n* Utils: Make accels optional\r\n* Updated translations",
+        "href": "https://github.com/elementary/granite/releases/tag/5.2.1"
+      },
+      {
+        "version": "5.2.0",
+        "release_date": "2018-11-01T20:50:16",
+        "title": "Granite 5.2.0 Released",
+        "body": "Granite 5.2.0 is out!\r\n\r\nChanges:\r\n* Added `Granite.STYLE_CLASS_CHECKERBOARD`\r\n* Added Accel utilities:\r\n  * `accel_to_string`, takes something like \"<Super>Right\" and returns \"\u2318 + \u2192\"\r\n  * `markup_accel_tooltip`, takes a description and an accel string array and returns the markup for tooltips\r\n* DateTime: use `io.elementary.desktop.wingpanel.datetime` for settings instead of `org.gnome.desktop.interface`\r\n* Updated translations",
+        "href": "https://github.com/elementary/granite/releases/tag/5.2.0"
+      },
+      {
+        "version": "5.1.0",
+        "release_date": "2018-08-23T23:54:44",
+        "title": "Granite 5.1.0 Released",
+        "body": "Granite 5.1.0 is out!\r\n\r\nChanges:\r\n* Add Granite.ModeSwitch\r\n* Deprecate Granite.Application\r\n* SourceList: Don't propagate right click\r\n* DateTime: Add commas in date format\r\n* Improved translations",
+        "href": "https://github.com/elementary/granite/releases/tag/5.1.0"
+      },
+      {
+        "version": "5.0",
+        "release_date": "2018-06-05T07:59:34",
+        "title": "Granite 5.0 Released",
+        "body": "Granite 5.0 is out!\r\n\r\nThis list of issues closed by this release can be found [here](https://github.com/elementary/granite/issues?q=is%3Aclosed+milestone%3A5.0).",
+        "href": "https://github.com/elementary/granite/releases/tag/5.0"
+      },
+      {
+        "version": "0.5",
+        "release_date": "2017-11-02T03:08:51",
+        "title": "Granite 0.5 Released",
+        "body": "Granite 0.5 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/granite/issues?q=is%3Aclosed+milestone%3A0.5).",
+        "href": "https://github.com/elementary/granite/releases/tag/0.5"
+      },
+      {
+        "version": "0.4.1",
+        "release_date": "2017-05-07T02:08:52",
+        "title": "Granite 0.4.1 Released",
+        "body": "Granite 0.4.1 is out!\r\n\r\nA detailed change log is available [here](https://github.com/elementary/granite/milestone/1?closed=1)",
+        "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
+      }
+    ],
+    "new_commits": 1
+  },
+  {
+    "name": "videos",
+    "releases": [
+      {
+        "version": "2.7.2",
+        "release_date": "2020-07-01T16:26:26",
+        "title": "videos 2.7.2 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Start up faster with large libraries</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Fix cases where subtitles refused to load</li>\n<li>Handle if library folder is deleted or moved</li>\n<li>Translation updates</li>\n</ul>\n",
+        "href": "https://github.com/elementary/videos/releases/tag/2.7.2"
+      },
+      {
+        "version": "2.7.1",
+        "release_date": "2020-04-14T22:18:45",
+        "title": "videos 2.7.1 Released",
+        "body": "<p>Other updates:</p>\n<ul>\n<li>Reliably update the replay button description and file</li>\n<li>More consistently remember the last playing video and its play position</li>\n<li>Fix missing icon in episode view</li>\n<li>Translation updates</li>\n</ul>\n",
+        "href": "https://github.com/elementary/videos/releases/tag/2.7.1"
+      },
+      {
+        "version": "2.7.0",
+        "release_date": "2019-11-25T17:17:19",
+        "title": "videos 2.7.0 Released",
+        "body": "videos 2.7.0 is out! \r\n\r\nChanges:\r\n\r\nNew features:\r\n\r\n* Option to automatically play next videos\r\n* Navigate the playlist with the keyboard\r\n* Add a button to clear the playlist\r\n* Show audio track language in settings\r\n* Show playlist item titles in their tooltips\r\n\r\nOther updates:\r\n\r\n* Show an error for unsupported files\r\n* Fix disappearing cursor on headerbar\r\n* Hide seekbar preview when switching windows with Alt + Tab\r\n* Translation updates\r\n",
+        "href": "https://github.com/elementary/videos/releases/tag/2.7.0"
+      },
+      {
+        "version": "2.6.3",
+        "release_date": "2019-01-09T10:19:08",
+        "title": "Videos 2.6.3 Released",
+        "body": "Videos 2.6.3 is out!\r\n\r\nChanges:\r\n* Build fixes\r\n* Updated translations",
+        "href": "https://github.com/elementary/videos/releases/tag/2.6.3"
+      },
+      {
+        "version": "2.6.2",
+        "release_date": "2018-10-01T06:52:12",
+        "title": "Videos 2.6.2 Released",
+        "body": "Videos 2.6.2 is out!\r\n\r\nThis release includes build fixes and updated translations.",
+        "href": "https://github.com/elementary/videos/releases/tag/2.6.2"
+      },
+      {
+        "version": "2.6.1",
+        "release_date": "2018-07-31T09:16:04",
+        "title": "Videos 2.6.1 Released",
+        "body": "Videos 2.6.1 is out!\r\n\r\nThis release includes translation updates.",
+        "href": "https://github.com/elementary/videos/releases/tag/2.6.1"
+      },
+      {
+        "version": "0.2.6",
+        "release_date": "2018-06-20T08:43:37",
+        "title": "Videos 0.2.6 Released",
+        "body": "Videos 0.2.6 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/videos/issues?q=is%3Aclosed+milestone%3A0.2.6).",
+        "href": "https://github.com/elementary/videos/releases/tag/0.2.6"
+      },
+      {
+        "version": "0.2.5",
+        "release_date": "2018-01-08T19:53:24",
+        "title": "Audience 0.2.5 Released",
+        "body": "Audience 0.2.5 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/videos/issues?q=is%3Aclosed+milestone%3A0.2.5).",
+        "href": "https://github.com/elementary/videos/releases/tag/0.2.5"
+      },
+      {
+        "version": "0.2.4",
+        "release_date": "2017-08-12T02:05:24",
+        "title": "Audience 0.2.4 Released",
+        "body": "Audience 0.2.4 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/videos/milestone/3).",
+        "href": "https://github.com/elementary/videos/releases/tag/0.2.4"
+      },
+      {
+        "version": "0.2.3",
+        "release_date": "2017-08-02T11:05:26",
+        "title": "Audience 0.2.3 Released",
+        "body": "Audience 0.2.3 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/videos/milestone/1?closed=1).",
+        "href": "https://github.com/elementary/videos/releases/tag/0.2.3"
+      }
+    ],
+    "new_commits": 4
+  },
+  {
     "name": "appcenter",
     "releases": [
       {
@@ -573,131 +885,6 @@
       }
     ],
     "new_commits": 15
-  },
-  {
-    "name": "files",
-    "releases": [
-      {
-        "version": "4.4.3",
-        "release_date": "2020-06-01T23:35:32",
-        "title": "files 4.4.3 Released",
-        "body": "<p>Improvements:</p>\n<ul>\n<li>Paste images into other apps instead of file paths where possible</li>\n<li>Paste into a selected folder when using Ctrl + V</li>\n<li>Show file info overlay in List View as well</li>\n<li>Traverse search results with Tab key</li>\n<li>Show an error message when attempting to open trashed files</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Fix uneditable area in pathbar which is showing home folder placeholder</li>\n<li>Fix an issue that prevented file modification times from showing</li>\n<li>Fix size of restored tiled window</li>\n<li>Fix color tags disappearing when thumbnails hidden</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/files/releases/tag/4.4.3"
-      },
-      {
-        "version": "4.4.2",
-        "release_date": "2020-04-03T18:30:32",
-        "title": "files 4.4.2 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Fix crash when a device icon is coming from a file</li>\n<li>Fix device icon sometimes missing</li>\n<li>Fix occasional view freeze after renaming</li>\n<li>Improve renaming logic when dealing with leading/trailing whitespace</li>\n<li>Fix breadcrumbs sometimes incorrect at startup</li>\n<li>Do not show file:// prefix in navigation buttons menus</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/files/releases/tag/4.4.2"
-      },
-      {
-        "version": "4.4.1",
-        "release_date": "2020-03-03T09:38:55",
-        "title": "files 4.4.1 Released",
-        "body": "files 4.4.1 is out! \n\n<p>Minor updates:</p>\n<ul>\n<li>Fix \"New Folder\" keyboard shortcut label in menu</li>\n<li>Fix navigation with back/forward button context menu</li>\n<li>Fix path bar sometimes showing wrong path when closing a tab</li>\n<li>Ensure keyboard shortcuts work immediately after creating or renaming a file</li>\n<li>Do not include \"file://\" in pathbar text or when pasting path as text</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/files/releases/tag/4.4.1"
-      },
-      {
-        "version": "4.4.0",
-        "release_date": "2020-02-11T16:23:21",
-        "title": "files 4.4.0 Released",
-        "body": "files 4.4.0 is out! \n\n<ul>\n<li>Show keyboard shortcuts in menu items</li>\n<li>Fix an issue with breadcrumbs in the file chooser</li>\n<li>Show a warning when ejecting a volume that's still in use</li>\n<li>Fix cursor update after horizontal scroll in Column View</li>\n<li>Fix folder-open icon persisting after closing Column View</li>\n<li>Use destructive action styling for some trash dialog buttons</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/files/releases/tag/4.4.0"
-      },
-      {
-        "version": "4.3.0",
-        "release_date": "2020-01-07T18:53:19",
-        "title": "files 4.3.0 Released",
-        "body": "files 4.3.0 is out! \n\n<p>New features:</p>\n<ul>\n<li>Initial git plugin support</li>\n<li>Follow global history setting when restoring and saving tabs</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Ensure tabs showing same folder remain synchronized</li>\n<li>Fix drag with secondary button on empty space</li>\n<li>Show custom media type icons for installed apps</li>\n<li>Fix appearance of inactive diskspace indicator</li>\n<li>Improve pathbar animation</li>\n<li>Update documentation</li>\n<li>Update translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/files/releases/tag/4.3.0"
-      },
-      {
-        "version": "4.2.0",
-        "release_date": "2019-09-10T01:17:50",
-        "title": "Files 4.2.0 Released",
-        "body": "Files 4.2.0 is out!\r\n\r\nChanges:\r\n* Initial cloudproviders plugin support\r\n* Fix selecting pasted files\r\n* Fix color label visibility while using dark theme\r\n* Fix selecting files using `Shift` key\r\n* Draw checkerboard background for image items\r\n* Improved styling for disk space bars\r\n* Updated translations",
-        "href": "https://github.com/elementary/files/releases/tag/4.2.0"
-      },
-      {
-        "version": "4.1.9",
-        "release_date": "2019-07-26T14:54:02",
-        "title": "Files 4.1.9 Released",
-        "body": "Files 4.1.9 is out!\r\n\r\nChanges:\r\n* Show more search results\r\n* Ensure valid tab name generation\r\n* Properly sort folders by date and size\r\n* Launching Files from Terminal now opens new tab instead of new window\r\n* Improve MTP support\r\n* Various tagging feature refinements\r\n* Keyboard navigation improvements\r\n* Symlink copy and paste fixes\r\n* Avoid crash when Templates folder is null\r\n* Reduce memory footprint of FileChooserDialog\r\n* Avoid crash when selecting image file in some situations\r\n* Fix unclosable progress window while copying network files to removable storage\r\n* Fix drag and drop after double clicking a blank area\r\n* Avoid crash while scrolling over view switcher\r\n* Avoid possible crash in some copy and paste situations\r\n* Updated translations",
-        "href": "https://github.com/elementary/files/releases/tag/4.1.9"
-      },
-      {
-        "version": "4.1.8",
-        "release_date": "2019-05-02T20:45:24",
-        "title": "Files 4.1.8 Released",
-        "body": "Files 4.1.8 is out!\r\n\r\nChanges:\r\n* Keyboard navigation fix for cherry picking select files in icon view\r\n* Don't hardcode search placeholder text style, fixes dark theme issue\r\n* Updated translations",
-        "href": "https://github.com/elementary/files/releases/tag/4.1.8"
-      },
-      {
-        "version": "4.1.7",
-        "release_date": "2019-04-08T19:53:01",
-        "title": "Files 4.1.7 Released",
-        "body": "Files 4.1.7 is out!\r\n\r\nChanges:\r\n* Minor spacing adjustments to location bar\r\n* Fix F2 renaming behavior\r\n* Updated translations",
-        "href": "https://github.com/elementary/files/releases/tag/4.1.7"
-      },
-      {
-        "version": "4.1.6",
-        "release_date": "2019-03-26T09:58:49",
-        "title": "Files 4.1.6 Released",
-        "body": "Files 4.1.6 is out!\r\n\r\nChanges:\r\n* Minor spacing adjustments to location breadcrumbs\r\n* Consistently remember color tags\r\n* Reload thumbnails when changing zoom level to avoid showing placeholder unnecessarily\r\n* Fix running scripts with spaces in filename\r\n* Updated translations",
-        "href": "https://github.com/elementary/files/releases/tag/4.1.6"
-      },
-      {
-        "version": "4.1.5",
-        "release_date": "2019-02-13T23:53:57",
-        "title": "Files 4.1.5 Released",
-        "body": "Files 4.1.5 is out!\r\n\r\nChanges:\r\n* Fix high CPU regression in v4.1.4\r\n* File sorting fixes\r\n* Updated translations",
-        "href": "https://github.com/elementary/files/releases/tag/4.1.5"
-      },
-      {
-        "version": "4.1.4",
-        "release_date": "2019-01-31T13:35:34",
-        "title": "Files 4.1.4 Released",
-        "body": "Files 4.1.4 is out!\r\n\r\nChanges:\r\n* Meson: fix soversion names\r\n* Remove CMake build system\r\n* Fix missing File System properties menu\r\n* Drop intltool dependency\r\n* Fix default file type handler logic\r\n* Fix initial search window size too small\r\n* Add option to disable local file thumbnails\r\n* Fix crash when opening multiple video files\r\n* Fix some timing issues around adding and removing files\r\n* Meson: fix missing library headers\r\n* Fix color tag display\r\n* Show reserved space in Properties window\r\n* Updated translations",
-        "href": "https://github.com/elementary/files/releases/tag/4.1.4"
-      },
-      {
-        "version": "4.1.3",
-        "release_date": "2019-01-09T15:15:23",
-        "title": "Files 4.1.3 Released",
-        "body": "Files 4.1.3 is out!\r\n\r\nChanges:\r\n* Add border radius to text background\r\n* Fix file mimetype association regression\r\n* New pathbar tooltips\r\n* Build fixes\r\n* Updated translations",
-        "href": "https://github.com/elementary/files/releases/tag/4.1.3"
-      },
-      {
-        "version": "4.1.2",
-        "release_date": "2019-01-02T10:32:57",
-        "title": "Files 4.1.2 Released",
-        "body": "Files 4.1.2 is out!\r\n\r\nChanges:\r\n* Plugin build fixes\r\n* Updated translations",
-        "href": "https://github.com/elementary/files/releases/tag/4.1.2"
-      },
-      {
-        "version": "4.1.1",
-        "release_date": "2018-12-28T20:34:15",
-        "title": "Files 4.1.1 Released",
-        "body": "Files 4.1.1 is out!\r\n\r\nChanges:\r\n* Fix `Ctrl+Tab` behavior\r\n* Fix building without Unity library",
-        "href": "https://github.com/elementary/files/releases/tag/4.1.1"
-      },
-      {
-        "version": "4.1.0",
-        "release_date": "2018-12-27T18:31:52",
-        "title": "Files 4.1.0 Released",
-        "body": "Files 4.1.0 is out!\r\n\r\nChanges:\r\n* Hide breadcrumbs and show placeholder and search icon in home folder\r\n* Style error dialogs\r\n* Right click fixes\r\n* Reload recent view when privacy setting changes\r\n* `Connect Server` fixes\r\n* Do not activate multiple files with single click\r\n* Use `Tab` to toggle View and Sidebar keyboard focus\r\n* Delete color tag database entries for trashed files\r\n* Throttle tab closing\r\n* `Ctrl` key fixes\r\n* Drag and drop fixes\r\n* Show icons in `Open with` menus\r\n* Tooltip fixes\r\n* Memory leak fixes\r\n* Crash fixes\r\n* Trash: respect sound setting\r\n* Localization fixes\r\n* Updated translations",
-        "href": "https://github.com/elementary/files/releases/tag/4.1.0"
-      },
-      {
-        "version": "4.0",
-        "release_date": "2018-10-16T09:04:13",
-        "title": "Files 4.0 Released",
-        "body": "Files 4.0 is out!\r\n\r\nThis is a massive release!!!\r\n\r\nThe prolific list of issues closed by this release can be found [here](https://github.com/elementary/files/issues?q=is%3Aclosed+milestone%3A4.0).",
-        "href": "https://github.com/elementary/files/releases/tag/4.0"
-      }
-    ],
-    "new_commits": 58
   },
   {
     "name": "switchboard-plug-notifications",
@@ -2050,103 +2237,6 @@
     "new_commits": 22
   },
   {
-    "name": "granite",
-    "releases": [
-      {
-        "version": "5.4.0",
-        "release_date": "2020-04-29T22:16:12",
-        "title": "granite 5.4.0 Released",
-        "body": "<p>New features:</p>\n<ul>\n<li>New Settings class to share Pantheon desktop settings with apps</li>\n<li>Introduced Settings.prefers_color_scheme to get a user's color scheme preference, i.e. for a dark style</li>\n</ul>\n<p>Deprecations:</p>\n<ul>\n<li>It is now recommended to use GLib.Settings instead of Granite.Services.Settings</li>\n</ul>\n",
-        "href": "https://github.com/elementary/granite/releases/tag/5.4.0"
-      },
-      {
-        "version": "5.3.1",
-        "release_date": "2020-04-02T00:21:23",
-        "title": "granite 5.3.1 Released",
-        "body": "granite 5.3.1 is out! \n\n<p>Improvements:</p>\n<ul>\n<li>Better align labels in settings sidebars</li>\n<li>Make AccelLabel.label settable</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/granite/releases/tag/5.3.1"
-      },
-      {
-        "version": "5.3.0",
-        "release_date": "2019-12-13T19:42:03",
-        "title": "granite 5.3.0 Released",
-        "body": "granite 5.3.0 is out! \r\n\r\n<p>New features:</p>\r\n<ul>\r\n<li>Add tooltips to source list items and their actions</li>\r\n<li>New AccelLabel widget for use in menus and popovers</li>\r\n</ul>\r\n<p>Improvements:</p>\r\n<ul>\r\n<li>Delay tab resizing when closing tabs</li>\r\n<li>Updated translations</li>\r\n</ul>\r\n",
-        "href": "https://github.com/elementary/granite/releases/tag/5.3.0"
-      },
-      {
-        "version": "5.2.5",
-        "release_date": "2019-09-05T23:49:51",
-        "title": "Granite 5.2.5 Released",
-        "body": "Granite 5.2.5 is out!\r\n\r\nChanges:\r\n* meson: fix shared library path\r\n* Utils: Add equal keys to accel_to_string\r\n* Provide Badge and Progress support for an Application using same DBus API as libunity\r\n* DynamicNotebook: support `Close Tabs to the Right`\r\n* DynamicNotebook: don\u2019t re-open closed tabs while rapidly closing tabs\r\n* Updated translations",
-        "href": "https://github.com/elementary/granite/releases/tag/5.2.5"
-      },
-      {
-        "version": "5.2.4",
-        "release_date": "2019-07-06T19:40:55",
-        "title": "Granite 5.2.4 Released",
-        "body": "Granite 5.2.4 is out!\r\n\r\nChanges:\r\n* Deprecate IconFactory\r\n* System: deprecate utilies provided by GLib\r\n* Utils: Add more keys to `accel-to-string` (Left and Right Alt, Left and Right Shift)\r\n* MessageDialog: Add the ability to set icon badges\r\n* Revert from custom Wingpanel DateTime settings schema (`io.elementary.desktop.wingpanel.datetime`) to GNOME (`org.gnome.desktop.interface`)\r\n* SimpleSettingsPage: make title and description selectable\r\n* Updated translations",
-        "href": "https://github.com/elementary/granite/releases/tag/5.2.4"
-      },
-      {
-        "version": "5.2.3",
-        "release_date": "2019-02-14T21:36:29",
-        "title": "Granite 5.2.3 Released",
-        "body": "Granite 5.2.3 is out!\r\n\r\nChanges:\r\n* Switch from CMake to Meson build system\r\n* DateTime: Strip leading spaces from time formats\r\n* Support Gdk.Key.Return for Enter markup\r\n* MessageDialog: Add show_error_expander method\r\n* Add function `history_is_enabled`\r\n* Fix typos in documentation\r\n* TimePicker: Use more compact boolean comparison syntax\r\n* Updated translations",
-        "href": "https://github.com/elementary/granite/releases/tag/5.2.3"
-      },
-      {
-        "version": "5.2.2",
-        "release_date": "2018-12-17T13:02:11",
-        "title": "Granite 5.2.2 Released",
-        "body": "Granite 5.2.2 is out!\r\n\r\nChanges:\r\n* Utils: Ignore empty accel strings\r\n* Updated translations",
-        "href": "https://github.com/elementary/granite/releases/tag/5.2.2"
-      },
-      {
-        "version": "5.2.1",
-        "release_date": "2018-11-07T19:18:54",
-        "title": "Granite 5.2.1 Released",
-        "body": "Granite 5.2.1 is out!\r\n\r\nChanges:\r\n* Utils: Make accels optional\r\n* Updated translations",
-        "href": "https://github.com/elementary/granite/releases/tag/5.2.1"
-      },
-      {
-        "version": "5.2.0",
-        "release_date": "2018-11-01T20:50:16",
-        "title": "Granite 5.2.0 Released",
-        "body": "Granite 5.2.0 is out!\r\n\r\nChanges:\r\n* Added `Granite.STYLE_CLASS_CHECKERBOARD`\r\n* Added Accel utilities:\r\n  * `accel_to_string`, takes something like \"<Super>Right\" and returns \"\u2318 + \u2192\"\r\n  * `markup_accel_tooltip`, takes a description and an accel string array and returns the markup for tooltips\r\n* DateTime: use `io.elementary.desktop.wingpanel.datetime` for settings instead of `org.gnome.desktop.interface`\r\n* Updated translations",
-        "href": "https://github.com/elementary/granite/releases/tag/5.2.0"
-      },
-      {
-        "version": "5.1.0",
-        "release_date": "2018-08-23T23:54:44",
-        "title": "Granite 5.1.0 Released",
-        "body": "Granite 5.1.0 is out!\r\n\r\nChanges:\r\n* Add Granite.ModeSwitch\r\n* Deprecate Granite.Application\r\n* SourceList: Don't propagate right click\r\n* DateTime: Add commas in date format\r\n* Improved translations",
-        "href": "https://github.com/elementary/granite/releases/tag/5.1.0"
-      },
-      {
-        "version": "5.0",
-        "release_date": "2018-06-05T07:59:34",
-        "title": "Granite 5.0 Released",
-        "body": "Granite 5.0 is out!\r\n\r\nThis list of issues closed by this release can be found [here](https://github.com/elementary/granite/issues?q=is%3Aclosed+milestone%3A5.0).",
-        "href": "https://github.com/elementary/granite/releases/tag/5.0"
-      },
-      {
-        "version": "0.5",
-        "release_date": "2017-11-02T03:08:51",
-        "title": "Granite 0.5 Released",
-        "body": "Granite 0.5 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/granite/issues?q=is%3Aclosed+milestone%3A0.5).",
-        "href": "https://github.com/elementary/granite/releases/tag/0.5"
-      },
-      {
-        "version": "0.4.1",
-        "release_date": "2017-05-07T02:08:52",
-        "title": "Granite 0.4.1 Released",
-        "body": "Granite 0.4.1 is out!\r\n\r\nA detailed change log is available [here](https://github.com/elementary/granite/milestone/1?closed=1)",
-        "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
-      }
-    ],
-    "new_commits": 58
-  },
-  {
     "name": "switchboard-plug-pantheon-shell",
     "releases": [
       {
@@ -2303,75 +2393,6 @@
       }
     ],
     "new_commits": 10
-  },
-  {
-    "name": "videos",
-    "releases": [
-      {
-        "version": "2.7.1",
-        "release_date": "2020-04-14T22:18:45",
-        "title": "videos 2.7.1 Released",
-        "body": "<p>Other updates:</p>\n<ul>\n<li>Reliably update the replay button description and file</li>\n<li>More consistently remember the last playing video and its play position</li>\n<li>Fix missing icon in episode view</li>\n<li>Translation updates</li>\n</ul>\n",
-        "href": "https://github.com/elementary/videos/releases/tag/2.7.1"
-      },
-      {
-        "version": "2.7.0",
-        "release_date": "2019-11-25T17:17:19",
-        "title": "videos 2.7.0 Released",
-        "body": "videos 2.7.0 is out! \r\n\r\nChanges:\r\n\r\nNew features:\r\n\r\n* Option to automatically play next videos\r\n* Navigate the playlist with the keyboard\r\n* Add a button to clear the playlist\r\n* Show audio track language in settings\r\n* Show playlist item titles in their tooltips\r\n\r\nOther updates:\r\n\r\n* Show an error for unsupported files\r\n* Fix disappearing cursor on headerbar\r\n* Hide seekbar preview when switching windows with Alt + Tab\r\n* Translation updates\r\n",
-        "href": "https://github.com/elementary/videos/releases/tag/2.7.0"
-      },
-      {
-        "version": "2.6.3",
-        "release_date": "2019-01-09T10:19:08",
-        "title": "Videos 2.6.3 Released",
-        "body": "Videos 2.6.3 is out!\r\n\r\nChanges:\r\n* Build fixes\r\n* Updated translations",
-        "href": "https://github.com/elementary/videos/releases/tag/2.6.3"
-      },
-      {
-        "version": "2.6.2",
-        "release_date": "2018-10-01T06:52:12",
-        "title": "Videos 2.6.2 Released",
-        "body": "Videos 2.6.2 is out!\r\n\r\nThis release includes build fixes and updated translations.",
-        "href": "https://github.com/elementary/videos/releases/tag/2.6.2"
-      },
-      {
-        "version": "2.6.1",
-        "release_date": "2018-07-31T09:16:04",
-        "title": "Videos 2.6.1 Released",
-        "body": "Videos 2.6.1 is out!\r\n\r\nThis release includes translation updates.",
-        "href": "https://github.com/elementary/videos/releases/tag/2.6.1"
-      },
-      {
-        "version": "0.2.6",
-        "release_date": "2018-06-20T08:43:37",
-        "title": "Videos 0.2.6 Released",
-        "body": "Videos 0.2.6 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/videos/issues?q=is%3Aclosed+milestone%3A0.2.6).",
-        "href": "https://github.com/elementary/videos/releases/tag/0.2.6"
-      },
-      {
-        "version": "0.2.5",
-        "release_date": "2018-01-08T19:53:24",
-        "title": "Audience 0.2.5 Released",
-        "body": "Audience 0.2.5 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/videos/issues?q=is%3Aclosed+milestone%3A0.2.5).",
-        "href": "https://github.com/elementary/videos/releases/tag/0.2.5"
-      },
-      {
-        "version": "0.2.4",
-        "release_date": "2017-08-12T02:05:24",
-        "title": "Audience 0.2.4 Released",
-        "body": "Audience 0.2.4 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/videos/milestone/3).",
-        "href": "https://github.com/elementary/videos/releases/tag/0.2.4"
-      },
-      {
-        "version": "0.2.3",
-        "release_date": "2017-08-02T11:05:26",
-        "title": "Audience 0.2.3 Released",
-        "body": "Audience 0.2.3 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/videos/milestone/1?closed=1).",
-        "href": "https://github.com/elementary/videos/releases/tag/0.2.3"
-      }
-    ],
-    "new_commits": 37
   },
   {
     "name": "switchboard-plug-useraccounts",
