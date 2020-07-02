@@ -233,7 +233,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 1
+    "new_commits": 2
   },
   {
     "name": "videos",
@@ -815,7 +815,7 @@
         "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 10
+    "new_commits": 11
   },
   {
     "name": "code",
