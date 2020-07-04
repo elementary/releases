@@ -469,7 +469,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 10
+    "new_commits": 12
   },
   {
     "name": "wingpanel-indicator-datetime",
@@ -815,7 +815,7 @@
         "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 11
+    "new_commits": 13
   },
   {
     "name": "code",
@@ -1097,7 +1097,7 @@
         "href": "https://github.com/elementary/sideload/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 8
+    "new_commits": 10
   },
   {
     "name": "wingpanel-indicator-network",
