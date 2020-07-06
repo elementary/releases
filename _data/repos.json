@@ -3206,7 +3206,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-session/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 27
+    "new_commits": 28
   },
   {
     "name": "switchboard-plug-sharing",
@@ -3267,7 +3267,7 @@
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 43
+    "new_commits": 44
   },
   {
     "name": "camera",
