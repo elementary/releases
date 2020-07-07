@@ -129,7 +129,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 6
+    "new_commits": 10
   },
   {
     "name": "granite",
@@ -3206,7 +3206,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-session/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 28
+    "new_commits": 30
   },
   {
     "name": "switchboard-plug-sharing",
