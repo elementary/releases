@@ -2358,7 +2358,7 @@
         "href": "https://github.com/elementary/os/releases/tag/5.1.1"
       }
     ],
-    "new_commits": 5
+    "new_commits": 6
   },
   {
     "name": "pantheon-agent-geoclue2",
@@ -2702,7 +2702,7 @@
         "href": "https://github.com/elementary/switchboard-plug-applications/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 95
+    "new_commits": 96
   },
   {
     "name": "calculator",
