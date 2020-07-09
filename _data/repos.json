@@ -1489,7 +1489,7 @@
         "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/0.1"
       }
     ],
-    "new_commits": 6
+    "new_commits": 10
   },
   {
     "name": "greeter",
@@ -3322,7 +3322,7 @@
         "href": "https://github.com/elementary/camera/releases/tag/1.0"
       }
     ],
-    "new_commits": 16
+    "new_commits": 20
   },
   {
     "name": "switchboard-plug-a11y",
@@ -3625,7 +3625,7 @@
         "href": "https://github.com/elementary/screenshot/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 67
+    "new_commits": 71
   },
   {
     "name": "default-settings",
