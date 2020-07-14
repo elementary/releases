@@ -42,4 +42,9 @@
   <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
 
   <link rel="stylesheet" type="text/css" media="all" href="{{ '/css/main.css' | prepend: site.baseurl | append: '?v=' | append: hash }}" />
+
+  {% if jekyll.environment == "production" %}
+    <script async defer data-domain="releases.elementary.io" src="https://stats.elementary.io/js/index.js"></script>
+    <script>window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }</script> 
+  {% endif %}
 </head>
