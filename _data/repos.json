@@ -642,7 +642,7 @@
         "href": "https://github.com/elementary/calendar/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 5
+    "new_commits": 6
   },
   {
     "name": "wingpanel",
@@ -2117,7 +2117,7 @@
         "href": "https://github.com/elementary/icons/releases/tag/4.0.1.1"
       }
     ],
-    "new_commits": 10
+    "new_commits": 11
   },
   {
     "name": "gala",
@@ -2999,7 +2999,7 @@
         "href": "https://github.com/elementary/terminal/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 65
+    "new_commits": 70
   },
   {
     "name": "wingpanel-indicator-keyboard",
