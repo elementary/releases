@@ -309,7 +309,7 @@
         "href": "https://github.com/elementary/videos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 6
+    "new_commits": 8
   },
   {
     "name": "appcenter",
@@ -642,7 +642,7 @@
         "href": "https://github.com/elementary/calendar/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 6
+    "new_commits": 8
   },
   {
     "name": "wingpanel",
@@ -1489,7 +1489,7 @@
         "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/0.1"
       }
     ],
-    "new_commits": 10
+    "new_commits": 13
   },
   {
     "name": "greeter",
@@ -3322,7 +3322,7 @@
         "href": "https://github.com/elementary/camera/releases/tag/1.0"
       }
     ],
-    "new_commits": 20
+    "new_commits": 24
   },
   {
     "name": "switchboard-plug-a11y",
