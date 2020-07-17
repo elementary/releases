@@ -1152,7 +1152,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 8
+    "new_commits": 10
   },
   {
     "name": "switchboard-plug-network",
@@ -3109,7 +3109,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.0.1"
       }
     ],
-    "new_commits": 14
+    "new_commits": 15
   },
   {
     "name": "wingpanel-indicator-session",
@@ -3459,7 +3459,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-nightlight/releases/tag/2.0"
       }
     ],
-    "new_commits": 24
+    "new_commits": 26
   },
   {
     "name": "stylesheet",
@@ -4189,7 +4189,7 @@
         "href": "https://github.com/elementary/mail/releases/tag/1.0.6"
       }
     ],
-    "new_commits": 242
+    "new_commits": 244
   },
   {
     "name": "press-kit",
