@@ -2234,7 +2234,7 @@
         "href": "https://github.com/elementary/switchboard/releases/tag/2.3.0"
       }
     ],
-    "new_commits": 23
+    "new_commits": 24
   },
   {
     "name": "switchboard-plug-pantheon-shell",
@@ -2999,7 +2999,7 @@
         "href": "https://github.com/elementary/terminal/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 77
+    "new_commits": 78
   },
   {
     "name": "wingpanel-indicator-keyboard",
