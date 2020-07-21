@@ -469,7 +469,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 20
+    "new_commits": 24
   },
   {
     "name": "wingpanel-indicator-datetime",
@@ -2151,7 +2151,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 54
+    "new_commits": 55
   },
   {
     "name": "switchboard",
