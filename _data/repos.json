@@ -2151,7 +2151,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 52
+    "new_commits": 54
   },
   {
     "name": "switchboard",
@@ -3267,7 +3267,7 @@
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 49
+    "new_commits": 57
   },
   {
     "name": "camera",
