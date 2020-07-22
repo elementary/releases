@@ -1696,7 +1696,7 @@
         "href": "https://github.com/elementary/switchboard-plug-about/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 14
+    "new_commits": 15
   },
   {
     "name": "switchboard-plug-parental-controls",
@@ -3267,7 +3267,7 @@
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 57
+    "new_commits": 62
   },
   {
     "name": "camera",
@@ -3425,7 +3425,7 @@
         "href": "https://github.com/elementary/music/releases/tag/0.4.0.3"
       }
     ],
-    "new_commits": 35
+    "new_commits": 36
   },
   {
     "name": "wingpanel-indicator-nightlight",
