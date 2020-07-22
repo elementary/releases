@@ -1696,7 +1696,7 @@
         "href": "https://github.com/elementary/switchboard-plug-about/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 4
+    "new_commits": 8
   },
   {
     "name": "switchboard-plug-parental-controls",
@@ -2117,7 +2117,7 @@
         "href": "https://github.com/elementary/icons/releases/tag/4.0.1.1"
       }
     ],
-    "new_commits": 12
+    "new_commits": 13
   },
   {
     "name": "gala",
