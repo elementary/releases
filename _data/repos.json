@@ -469,7 +469,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 27
+    "new_commits": 31
   },
   {
     "name": "wingpanel-indicator-datetime",
@@ -987,7 +987,7 @@
         "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 7
+    "new_commits": 9
   },
   {
     "name": "switchboard-plug-display",
@@ -3267,7 +3267,7 @@
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 62
+    "new_commits": 67
   },
   {
     "name": "camera",
