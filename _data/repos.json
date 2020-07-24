@@ -129,7 +129,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 31
+    "new_commits": 37
   },
   {
     "name": "granite",
@@ -309,7 +309,7 @@
         "href": "https://github.com/elementary/videos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 10
+    "new_commits": 11
   },
   {
     "name": "appcenter",
@@ -884,7 +884,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 37
+    "new_commits": 39
   },
   {
     "name": "switchboard-plug-notifications",
@@ -2764,7 +2764,7 @@
         "href": "https://github.com/elementary/calculator/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 48
+    "new_commits": 49
   },
   {
     "name": "wingpanel-indicator-sound",
@@ -2999,7 +2999,7 @@
         "href": "https://github.com/elementary/terminal/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 78
+    "new_commits": 79
   },
   {
     "name": "wingpanel-indicator-keyboard",
@@ -4142,7 +4142,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 1761
+    "new_commits": 1766
   },
   {
     "name": "fonts",
