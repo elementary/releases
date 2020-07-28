@@ -1310,7 +1310,7 @@
         "href": "https://github.com/elementary/onboarding/releases/tag/1.0"
       }
     ],
-    "new_commits": 39
+    "new_commits": 42
   },
   {
     "name": "shortcut-overlay",
@@ -1696,7 +1696,7 @@
         "href": "https://github.com/elementary/switchboard-plug-about/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 32
+    "new_commits": 33
   },
   {
     "name": "switchboard-plug-parental-controls",
@@ -3747,7 +3747,7 @@
         "href": "https://github.com/elementary/initial-setup/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 59
+    "new_commits": 61
   },
   {
     "name": "feedback",
