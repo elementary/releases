@@ -129,7 +129,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 39
+    "new_commits": 41
   },
   {
     "name": "granite",
@@ -469,7 +469,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 32
+    "new_commits": 34
   },
   {
     "name": "wingpanel-indicator-datetime",
@@ -1696,7 +1696,7 @@
         "href": "https://github.com/elementary/switchboard-plug-about/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 26
+    "new_commits": 32
   },
   {
     "name": "switchboard-plug-parental-controls",
@@ -2151,7 +2151,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 63
+    "new_commits": 65
   },
   {
     "name": "switchboard",
@@ -2310,7 +2310,7 @@
         "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
       }
     ],
-    "new_commits": 91
+    "new_commits": 99
   },
   {
     "name": "os",
@@ -3267,7 +3267,7 @@
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 70
+    "new_commits": 72
   },
   {
     "name": "camera",
