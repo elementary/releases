@@ -129,7 +129,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 58
+    "new_commits": 62
   },
   {
     "name": "granite",
@@ -2151,7 +2151,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 65
+    "new_commits": 66
   },
   {
     "name": "switchboard",
