@@ -2310,7 +2310,7 @@
         "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
       }
     ],
-    "new_commits": 99
+    "new_commits": 100
   },
   {
     "name": "os",
@@ -2702,7 +2702,7 @@
         "href": "https://github.com/elementary/switchboard-plug-applications/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 105
+    "new_commits": 106
   },
   {
     "name": "calculator",
