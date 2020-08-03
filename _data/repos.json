@@ -642,7 +642,7 @@
         "href": "https://github.com/elementary/calendar/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 11
+    "new_commits": 12
   },
   {
     "name": "wingpanel",
@@ -3425,7 +3425,7 @@
         "href": "https://github.com/elementary/music/releases/tag/0.4.0.3"
       }
     ],
-    "new_commits": 36
+    "new_commits": 37
   },
   {
     "name": "wingpanel-indicator-nightlight",
