@@ -1551,7 +1551,7 @@
         "href": "https://github.com/elementary/greeter/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 9
+    "new_commits": 10
   },
   {
     "name": "switchboard-plug-mouse-touchpad",
@@ -3659,7 +3659,7 @@
         "href": "https://github.com/elementary/default-settings/releases/tag/5.0"
       }
     ],
-    "new_commits": 23
+    "new_commits": 24
   },
   {
     "name": "wallpapers",
@@ -4142,7 +4142,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 1782
+    "new_commits": 1785
   },
   {
     "name": "fonts",
