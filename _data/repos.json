@@ -746,7 +746,7 @@
         "href": "https://github.com/elementary/wingpanel/releases/tag/2.0.3"
       }
     ],
-    "new_commits": 4
+    "new_commits": 5
   },
   {
     "name": "pantheon-agent-polkit",
@@ -884,7 +884,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 41
+    "new_commits": 42
   },
   {
     "name": "switchboard-plug-notifications",
@@ -2151,7 +2151,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 66
+    "new_commits": 67
   },
   {
     "name": "switchboard",
