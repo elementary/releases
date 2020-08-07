@@ -1,5 +1,156 @@
 [
   {
+    "name": "switchboard-plug-keyboard",
+    "releases": [
+      {
+        "version": "2.4.0",
+        "release_date": "2020-08-07T18:14:32",
+        "title": "switchboard-plug-keyboard 2.4.0 Released",
+        "body": "<p>Add a view to configure input methods</p>\n<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.4.0"
+      },
+      {
+        "version": "2.3.6",
+        "release_date": "2020-04-01T23:34:57",
+        "title": "switchboard-plug-keyboard 2.3.6 Released",
+        "body": "switchboard-plug-keyboard 2.3.6 is out! \n\n<p>New \"Workspaces\" icon</p>\n<p>Exclude Space from single-key shortcuts</p>\n<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.3.6"
+      },
+      {
+        "version": "2.3.5",
+        "release_date": "2019-03-06T09:03:16",
+        "title": "Switchboard Keyboard Plug 2.3.5 Released",
+        "body": "switchboard-plug-keyboard 2.3.5 is out!\r\n\r\nChanges:\r\n* Search keyword improvements\r\n* Added window `Close` keybinding option\r\n* Keyboard navigation fix\r\n* Build system fix for `gnomekbdui` dependency\r\n* More accurate and consistent labels\r\n* Change appdata id to `io.elementary.switchboard.keyboard`\r\n* Updated translations",
+        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.3.5"
+      },
+      {
+        "version": "2.3.4",
+        "release_date": "2018-10-16T00:27:00",
+        "title": "Switchboard Keyboard Plug 2.3.4 Released",
+        "body": "switchboard-plug-keyboard 2.3.4 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-keyboard/issues?q=is%3Aclosed+milestone%3A2.3.4).",
+        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.3.4"
+      },
+      {
+        "version": "0.3.3",
+        "release_date": "2018-06-08T16:39:32",
+        "title": "Switchboard Keyboard Plug 0.3.3 Released",
+        "body": "switchboard-plug-keyboard 0.3.3 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-keyboard/issues?q=is%3Aclosed+milestone%3A0.3.3).",
+        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
+      }
+    ],
+    "new_commits": 0
+  },
+  {
+    "name": "wingpanel-indicator-nightlight",
+    "releases": [
+      {
+        "version": "2.0.4",
+        "release_date": "2020-08-07T18:14:11",
+        "title": "wingpanel-indicator-nightlight 2.0.4 Released",
+        "body": "<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/wingpanel-indicator-nightlight/releases/tag/2.0.4"
+      },
+      {
+        "version": "2.0.3",
+        "release_date": "2020-03-02T18:30:27",
+        "title": "wingpanel-indicator-nightlight 2.0.3 Released",
+        "body": "wingpanel-indicator-nightlight 2.0.3 is out! \n\n<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/wingpanel-indicator-nightlight/releases/tag/2.0.3"
+      },
+      {
+        "version": "2.0.2",
+        "release_date": "2019-02-19T15:11:12",
+        "title": "Wingpanel Nightlight Indicator 2.0.2 Released",
+        "body": "wingpanel-indicator-nightlight 2.0.2 is out!\r\n\r\nChanges:\r\n* Updated translations",
+        "href": "https://github.com/elementary/wingpanel-indicator-nightlight/releases/tag/2.0.2"
+      },
+      {
+        "version": "2.0.1",
+        "release_date": "2018-10-02T16:26:13",
+        "title": "Wingpanel Nightlight Indicator 2.0.1 Released",
+        "body": "wingpanel-indicator-nightlight 2.0.1 is out!\r\n\r\nThis release includes updated translations.",
+        "href": "https://github.com/elementary/wingpanel-indicator-nightlight/releases/tag/2.0.1"
+      },
+      {
+        "version": "2.0",
+        "release_date": "2018-06-07T08:43:32",
+        "title": "Wingpanel Nightlight Indicator 2.0 Released",
+        "body": "wingpanel-indicator-nightlight 2.0 is out!\r\n\r\nThis is the initial release.",
+        "href": "https://github.com/elementary/wingpanel-indicator-nightlight/releases/tag/2.0"
+      }
+    ],
+    "new_commits": 0
+  },
+  {
+    "name": "wingpanel-indicator-sound",
+    "releases": [
+      {
+        "version": "2.1.6",
+        "release_date": "2020-08-07T18:08:45",
+        "title": "wingpanel-indicator-sound 2.1.6 Released",
+        "body": "<p>Update default music player when changed</p>\n<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.1.6"
+      },
+      {
+        "version": "2.1.5",
+        "release_date": "2020-04-03T18:40:26",
+        "title": "wingpanel-indicator-sound 2.1.5 Released",
+        "body": "<p>Correctly show \"Unknown Artist\" when artist info isn't available</p>\n<p>Performance improvements</p>\n<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.1.5"
+      },
+      {
+        "version": "2.1.4",
+        "release_date": "2019-11-25T16:55:25",
+        "title": "wingpanel-indicator-sound 2.1.4 Released",
+        "body": "wingpanel-indicator-sound 2.1.4 is out! \n\nChanges:\n\n* Updated translations\n",
+        "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.1.4"
+      },
+      {
+        "version": "2.1.3",
+        "release_date": "2019-03-07T07:07:56",
+        "title": "Wingpanel Sound Indicator 2.1.3 Released",
+        "body": "wingpanel-indicator-sound 2.1.3 is out!\r\n\r\nChanges:\r\n* Fix touchpad smooth and horizontal scrolling\r\n* Middle click to mute microphone\r\n* Scroll over microphone icon to adjust mic volume\r\n* Smarter MPRIS art update\r\n* Fix music player fallback icon logic\r\n* Animate mute icon\r\n* Updated translations",
+        "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.1.3"
+      },
+      {
+        "version": "2.1.2",
+        "release_date": "2018-12-19T12:00:05",
+        "title": "Wingpanel Sound Indicator 2.1.2 Released",
+        "body": "wingpanel-indicator-sound 2.1.2 is out!\r\n\r\nChanges:\r\n* Don't close an nonexistent notifications\r\n* Updated translations",
+        "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.1.2"
+      },
+      {
+        "version": "2.1.1",
+        "release_date": "2018-10-01T11:41:07",
+        "title": "Wingpanel Sound Indicator 2.1.1 Released",
+        "body": "wingpanel-indicator-sound 2.1.1 is out!\r\n\r\nChanges:\r\n* Remove 'by' before artist text\r\n* Code clean up\r\n* Updated translations",
+        "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.1.1"
+      },
+      {
+        "version": "2.1.0",
+        "release_date": "2018-06-19T00:35:49",
+        "title": "Wingpanel Sound Indicator 2.1.0 Released",
+        "body": "wingpanel-indicator-sound 2.1.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/wingpanel-indicator-sound/issues?q=is%3Aclosed+milestone%3A2.1.0).",
+        "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.1.0"
+      },
+      {
+        "version": "2.0.5",
+        "release_date": "2017-05-03T02:10:51",
+        "title": "Wingpanel Sound Indicator 2.0.5 Released",
+        "body": "wingpanel-indicator-sound 2.0.5 is out!",
+        "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.0.5"
+      },
+      {
+        "version": "2.0.4",
+        "release_date": "2017-04-21T18:42:18",
+        "title": "Wingpanel Sound Indicator 2.0.4 Released",
+        "body": "wingpanel-indicator-sound 2.0.4 is out!",
+        "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.0.4"
+      }
+    ],
+    "new_commits": 2
+  },
+  {
     "name": "appcenter",
     "releases": [
       {
@@ -2774,68 +2925,6 @@
     "new_commits": 49
   },
   {
-    "name": "wingpanel-indicator-sound",
-    "releases": [
-      {
-        "version": "2.1.5",
-        "release_date": "2020-04-03T18:40:26",
-        "title": "wingpanel-indicator-sound 2.1.5 Released",
-        "body": "<p>Correctly show \"Unknown Artist\" when artist info isn't available</p>\n<p>Performance improvements</p>\n<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.1.5"
-      },
-      {
-        "version": "2.1.4",
-        "release_date": "2019-11-25T16:55:25",
-        "title": "wingpanel-indicator-sound 2.1.4 Released",
-        "body": "wingpanel-indicator-sound 2.1.4 is out! \n\nChanges:\n\n* Updated translations\n",
-        "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.1.4"
-      },
-      {
-        "version": "2.1.3",
-        "release_date": "2019-03-07T07:07:56",
-        "title": "Wingpanel Sound Indicator 2.1.3 Released",
-        "body": "wingpanel-indicator-sound 2.1.3 is out!\r\n\r\nChanges:\r\n* Fix touchpad smooth and horizontal scrolling\r\n* Middle click to mute microphone\r\n* Scroll over microphone icon to adjust mic volume\r\n* Smarter MPRIS art update\r\n* Fix music player fallback icon logic\r\n* Animate mute icon\r\n* Updated translations",
-        "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.1.3"
-      },
-      {
-        "version": "2.1.2",
-        "release_date": "2018-12-19T12:00:05",
-        "title": "Wingpanel Sound Indicator 2.1.2 Released",
-        "body": "wingpanel-indicator-sound 2.1.2 is out!\r\n\r\nChanges:\r\n* Don't close an nonexistent notifications\r\n* Updated translations",
-        "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.1.2"
-      },
-      {
-        "version": "2.1.1",
-        "release_date": "2018-10-01T11:41:07",
-        "title": "Wingpanel Sound Indicator 2.1.1 Released",
-        "body": "wingpanel-indicator-sound 2.1.1 is out!\r\n\r\nChanges:\r\n* Remove 'by' before artist text\r\n* Code clean up\r\n* Updated translations",
-        "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.1.1"
-      },
-      {
-        "version": "2.1.0",
-        "release_date": "2018-06-19T00:35:49",
-        "title": "Wingpanel Sound Indicator 2.1.0 Released",
-        "body": "wingpanel-indicator-sound 2.1.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/wingpanel-indicator-sound/issues?q=is%3Aclosed+milestone%3A2.1.0).",
-        "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.1.0"
-      },
-      {
-        "version": "2.0.5",
-        "release_date": "2017-05-03T02:10:51",
-        "title": "Wingpanel Sound Indicator 2.0.5 Released",
-        "body": "wingpanel-indicator-sound 2.0.5 is out!",
-        "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.0.5"
-      },
-      {
-        "version": "2.0.4",
-        "release_date": "2017-04-21T18:42:18",
-        "title": "Wingpanel Sound Indicator 2.0.4 Released",
-        "body": "wingpanel-indicator-sound 2.0.4 is out!",
-        "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.0.4"
-      }
-    ],
-    "new_commits": 24
-  },
-  {
     "name": "wingpanel-indicator-power",
     "releases": [
       {
@@ -3243,40 +3332,6 @@
     "new_commits": 25
   },
   {
-    "name": "switchboard-plug-keyboard",
-    "releases": [
-      {
-        "version": "2.3.6",
-        "release_date": "2020-04-01T23:34:57",
-        "title": "switchboard-plug-keyboard 2.3.6 Released",
-        "body": "switchboard-plug-keyboard 2.3.6 is out! \n\n<p>New \"Workspaces\" icon</p>\n<p>Exclude Space from single-key shortcuts</p>\n<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.3.6"
-      },
-      {
-        "version": "2.3.5",
-        "release_date": "2019-03-06T09:03:16",
-        "title": "Switchboard Keyboard Plug 2.3.5 Released",
-        "body": "switchboard-plug-keyboard 2.3.5 is out!\r\n\r\nChanges:\r\n* Search keyword improvements\r\n* Added window `Close` keybinding option\r\n* Keyboard navigation fix\r\n* Build system fix for `gnomekbdui` dependency\r\n* More accurate and consistent labels\r\n* Change appdata id to `io.elementary.switchboard.keyboard`\r\n* Updated translations",
-        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.3.5"
-      },
-      {
-        "version": "2.3.4",
-        "release_date": "2018-10-16T00:27:00",
-        "title": "Switchboard Keyboard Plug 2.3.4 Released",
-        "body": "switchboard-plug-keyboard 2.3.4 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-keyboard/issues?q=is%3Aclosed+milestone%3A2.3.4).",
-        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.3.4"
-      },
-      {
-        "version": "0.3.3",
-        "release_date": "2018-06-08T16:39:32",
-        "title": "Switchboard Keyboard Plug 0.3.3 Released",
-        "body": "switchboard-plug-keyboard 0.3.3 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-keyboard/issues?q=is%3Aclosed+milestone%3A0.3.3).",
-        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
-      }
-    ],
-    "new_commits": 72
-  },
-  {
     "name": "camera",
     "releases": [
       {
@@ -3433,40 +3488,6 @@
       }
     ],
     "new_commits": 37
-  },
-  {
-    "name": "wingpanel-indicator-nightlight",
-    "releases": [
-      {
-        "version": "2.0.3",
-        "release_date": "2020-03-02T18:30:27",
-        "title": "wingpanel-indicator-nightlight 2.0.3 Released",
-        "body": "wingpanel-indicator-nightlight 2.0.3 is out! \n\n<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/wingpanel-indicator-nightlight/releases/tag/2.0.3"
-      },
-      {
-        "version": "2.0.2",
-        "release_date": "2019-02-19T15:11:12",
-        "title": "Wingpanel Nightlight Indicator 2.0.2 Released",
-        "body": "wingpanel-indicator-nightlight 2.0.2 is out!\r\n\r\nChanges:\r\n* Updated translations",
-        "href": "https://github.com/elementary/wingpanel-indicator-nightlight/releases/tag/2.0.2"
-      },
-      {
-        "version": "2.0.1",
-        "release_date": "2018-10-02T16:26:13",
-        "title": "Wingpanel Nightlight Indicator 2.0.1 Released",
-        "body": "wingpanel-indicator-nightlight 2.0.1 is out!\r\n\r\nThis release includes updated translations.",
-        "href": "https://github.com/elementary/wingpanel-indicator-nightlight/releases/tag/2.0.1"
-      },
-      {
-        "version": "2.0",
-        "release_date": "2018-06-07T08:43:32",
-        "title": "Wingpanel Nightlight Indicator 2.0 Released",
-        "body": "wingpanel-indicator-nightlight 2.0 is out!\r\n\r\nThis is the initial release.",
-        "href": "https://github.com/elementary/wingpanel-indicator-nightlight/releases/tag/2.0"
-      }
-    ],
-    "new_commits": 27
   },
   {
     "name": "stylesheet",
