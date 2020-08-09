@@ -551,7 +551,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 15
+    "new_commits": 17
   },
   {
     "name": "videos",
@@ -1042,7 +1042,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 43
+    "new_commits": 45
   },
   {
     "name": "switchboard-plug-notifications",
@@ -3384,7 +3384,7 @@
         "href": "https://github.com/elementary/camera/releases/tag/1.0"
       }
     ],
-    "new_commits": 27
+    "new_commits": 28
   },
   {
     "name": "switchboard-plug-a11y",
@@ -4170,7 +4170,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 1787
+    "new_commits": 1799
   },
   {
     "name": "fonts",
