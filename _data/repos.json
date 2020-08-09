@@ -973,7 +973,7 @@
         "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 16
+    "new_commits": 17
   },
   {
     "name": "code",
@@ -2309,7 +2309,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 70
+    "new_commits": 72
   },
   {
     "name": "switchboard",
@@ -2860,7 +2860,7 @@
         "href": "https://github.com/elementary/switchboard-plug-applications/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 106
+    "new_commits": 108
   },
   {
     "name": "calculator",
