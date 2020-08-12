@@ -136,7 +136,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 6
+    "new_commits": 9
   },
   {
     "name": "switchboard-plug-keyboard",
@@ -177,7 +177,7 @@
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 1
+    "new_commits": 2
   },
   {
     "name": "wingpanel-indicator-nightlight",
@@ -1152,7 +1152,7 @@
         "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 9
+    "new_commits": 10
   },
   {
     "name": "switchboard-plug-display",
@@ -1861,7 +1861,7 @@
         "href": "https://github.com/elementary/switchboard-plug-about/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 43
+    "new_commits": 44
   },
   {
     "name": "switchboard-plug-parental-controls",
@@ -4177,7 +4177,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 1801
+    "new_commits": 1804
   },
   {
     "name": "fonts",
