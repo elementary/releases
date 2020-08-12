@@ -136,7 +136,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 11
+    "new_commits": 14
   },
   {
     "name": "switchboard-plug-keyboard",
@@ -2523,7 +2523,7 @@
         "href": "https://github.com/elementary/os/releases/tag/5.1.1"
       }
     ],
-    "new_commits": 8
+    "new_commits": 10
   },
   {
     "name": "pantheon-agent-geoclue2",
