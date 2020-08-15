@@ -613,7 +613,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 17
+    "new_commits": 18
   },
   {
     "name": "videos",
@@ -2743,7 +2743,7 @@
         "href": "https://github.com/elementary/capnet-assist/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 17
+    "new_commits": 18
   },
   {
     "name": "photos",
@@ -4184,7 +4184,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 1809
+    "new_commits": 1818
   },
   {
     "name": "fonts",
