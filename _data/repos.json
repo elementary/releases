@@ -2337,7 +2337,7 @@
         "href": "https://github.com/elementary/icons/releases/tag/4.0.1.1"
       }
     ],
-    "new_commits": 21
+    "new_commits": 22
   },
   {
     "name": "gala",
@@ -2530,7 +2530,7 @@
         "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
       }
     ],
-    "new_commits": 105
+    "new_commits": 109
   },
   {
     "name": "pantheon-agent-geoclue2",
@@ -3432,7 +3432,7 @@
         "href": "https://github.com/elementary/switchboard-plug-a11y/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 13
+    "new_commits": 19
   },
   {
     "name": "music",
