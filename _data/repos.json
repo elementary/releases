@@ -2226,7 +2226,7 @@
         "href": "https://github.com/elementary/switchboard-plug-power/releases/tag/0.3.1"
       }
     ],
-    "new_commits": 19
+    "new_commits": 20
   },
   {
     "name": "icons",
@@ -2371,7 +2371,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 86
+    "new_commits": 88
   },
   {
     "name": "switchboard",
@@ -3701,7 +3701,7 @@
         "href": "https://github.com/elementary/default-settings/releases/tag/5.0"
       }
     ],
-    "new_commits": 25
+    "new_commits": 26
   },
   {
     "name": "wallpapers",
