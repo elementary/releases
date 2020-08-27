@@ -613,7 +613,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 27
+    "new_commits": 37
   },
   {
     "name": "videos",
@@ -3109,7 +3109,7 @@
         "href": "https://github.com/elementary/terminal/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 81
+    "new_commits": 82
   },
   {
     "name": "wingpanel-indicator-keyboard",
