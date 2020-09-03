@@ -1,5 +1,60 @@
 [
   {
+    "name": "wingpanel-indicator-power",
+    "releases": [
+      {
+        "version": "2.2.0",
+        "release_date": "2020-09-03T17:27:20",
+        "title": "wingpanel-indicator-power 2.2.0 Released",
+        "body": "<p>Support for Controllers and Pens</p>\n<p>Reduce spacing when percentage is shown</p>\n<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/wingpanel-indicator-power/releases/tag/2.2.0"
+      },
+      {
+        "version": "2.1.5",
+        "release_date": "2020-04-03T18:39:31",
+        "title": "wingpanel-indicator-power 2.1.5 Released",
+        "body": "<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/wingpanel-indicator-power/releases/tag/2.1.5"
+      },
+      {
+        "version": "2.1.4",
+        "release_date": "2019-01-29T11:23:47",
+        "title": "Wingpanel Power Indicator 2.1.4 Released",
+        "body": "wingpanel-power-indicator 2.1.4 is out!\r\n\r\nChanges:\r\n* Performance improvements\r\n* Updated translations",
+        "href": "https://github.com/elementary/wingpanel-indicator-power/releases/tag/2.1.4"
+      },
+      {
+        "version": "2.1.3",
+        "release_date": "2018-10-02T11:30:21",
+        "title": "Wingpanel Power Indicator 2.1.3 Released",
+        "body": "wingpanel-power-indicator 2.1.3 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/wingpanel-indicator-power/issues?q=is%3Aclosed+milestone%3A2.1.3).",
+        "href": "https://github.com/elementary/wingpanel-indicator-power/releases/tag/2.1.3"
+      },
+      {
+        "version": "2.1.2",
+        "release_date": "2018-06-19T01:15:42",
+        "title": "Wingpanel Power Indicator 2.1.2 Released",
+        "body": "wingpanel-indicator-power 2.1.2 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/wingpanel-indicator-power/issues?q=is%3Aclosed+milestone%3A2.1.2).",
+        "href": "https://github.com/elementary/wingpanel-indicator-power/releases/tag/2.1.2"
+      },
+      {
+        "version": "2.1.1",
+        "release_date": "2017-05-15T12:37:00",
+        "title": "Wingpanel Power Indicator 2.1.1 Released",
+        "body": "wingpanel-indicator-power 2.1.1 is out!",
+        "href": "https://github.com/elementary/wingpanel-indicator-power/releases/tag/2.1.1"
+      },
+      {
+        "version": "2.1.0",
+        "release_date": "2017-04-29T06:26:02",
+        "title": "Wingpanel Power Indicator 2.1.0 Released",
+        "body": "wingpanel-indicator-power 2.1.0 is out!",
+        "href": "https://github.com/elementary/wingpanel-indicator-power/releases/tag/2.1.0"
+      }
+    ],
+    "new_commits": 2
+  },
+  {
     "name": "os",
     "releases": [
       {
@@ -2937,54 +2992,6 @@
       }
     ],
     "new_commits": 52
-  },
-  {
-    "name": "wingpanel-indicator-power",
-    "releases": [
-      {
-        "version": "2.1.5",
-        "release_date": "2020-04-03T18:39:31",
-        "title": "wingpanel-indicator-power 2.1.5 Released",
-        "body": "<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/wingpanel-indicator-power/releases/tag/2.1.5"
-      },
-      {
-        "version": "2.1.4",
-        "release_date": "2019-01-29T11:23:47",
-        "title": "Wingpanel Power Indicator 2.1.4 Released",
-        "body": "wingpanel-power-indicator 2.1.4 is out!\r\n\r\nChanges:\r\n* Performance improvements\r\n* Updated translations",
-        "href": "https://github.com/elementary/wingpanel-indicator-power/releases/tag/2.1.4"
-      },
-      {
-        "version": "2.1.3",
-        "release_date": "2018-10-02T11:30:21",
-        "title": "Wingpanel Power Indicator 2.1.3 Released",
-        "body": "wingpanel-power-indicator 2.1.3 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/wingpanel-indicator-power/issues?q=is%3Aclosed+milestone%3A2.1.3).",
-        "href": "https://github.com/elementary/wingpanel-indicator-power/releases/tag/2.1.3"
-      },
-      {
-        "version": "2.1.2",
-        "release_date": "2018-06-19T01:15:42",
-        "title": "Wingpanel Power Indicator 2.1.2 Released",
-        "body": "wingpanel-indicator-power 2.1.2 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/wingpanel-indicator-power/issues?q=is%3Aclosed+milestone%3A2.1.2).",
-        "href": "https://github.com/elementary/wingpanel-indicator-power/releases/tag/2.1.2"
-      },
-      {
-        "version": "2.1.1",
-        "release_date": "2017-05-15T12:37:00",
-        "title": "Wingpanel Power Indicator 2.1.1 Released",
-        "body": "wingpanel-indicator-power 2.1.1 is out!",
-        "href": "https://github.com/elementary/wingpanel-indicator-power/releases/tag/2.1.1"
-      },
-      {
-        "version": "2.1.0",
-        "release_date": "2017-04-29T06:26:02",
-        "title": "Wingpanel Power Indicator 2.1.0 Released",
-        "body": "wingpanel-indicator-power 2.1.0 is out!",
-        "href": "https://github.com/elementary/wingpanel-indicator-power/releases/tag/2.1.0"
-      }
-    ],
-    "new_commits": 34
   },
   {
     "name": "terminal",
