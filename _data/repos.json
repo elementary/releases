@@ -875,7 +875,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 23
+    "new_commits": 24
   },
   {
     "name": "granite",
@@ -1593,7 +1593,7 @@
         "href": "https://github.com/elementary/sideload/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 29
+    "new_commits": 32
   },
   {
     "name": "wingpanel-indicator-network",
