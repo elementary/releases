@@ -1648,7 +1648,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 34
+    "new_commits": 35
   },
   {
     "name": "switchboard-plug-bluetooth",
@@ -3844,7 +3844,7 @@
         "href": "https://github.com/elementary/feedback/releases/tag/1.0"
       }
     ],
-    "new_commits": 350
+    "new_commits": 352
   },
   {
     "name": "houston",
