@@ -1559,7 +1559,7 @@
         "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 6
+    "new_commits": 7
   },
   {
     "name": "sideload",
@@ -1648,7 +1648,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 46
+    "new_commits": 48
   },
   {
     "name": "switchboard-plug-bluetooth",
