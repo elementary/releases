@@ -1593,7 +1593,7 @@
         "href": "https://github.com/elementary/sideload/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 34
+    "new_commits": 36
   },
   {
     "name": "wingpanel-indicator-network",
@@ -2316,7 +2316,7 @@
         "href": "https://github.com/elementary/switchboard-plug-security-privacy/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 16
+    "new_commits": 20
   },
   {
     "name": "switchboard-plug-power",
@@ -2682,7 +2682,7 @@
         "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
       }
     ],
-    "new_commits": 114
+    "new_commits": 115
   },
   {
     "name": "pantheon-agent-geoclue2",
@@ -3474,7 +3474,7 @@
         "href": "https://github.com/elementary/switchboard-plug-a11y/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 29
+    "new_commits": 31
   },
   {
     "name": "music",
