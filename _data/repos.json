@@ -170,7 +170,7 @@
         "href": "https://github.com/elementary/calendar/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 11
+    "new_commits": 14
   },
   {
     "name": "switchboard-plug-keyboard",
@@ -1055,7 +1055,7 @@
         "href": "https://github.com/elementary/videos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 12
+    "new_commits": 13
   },
   {
     "name": "wingpanel-indicator-datetime",
@@ -3640,7 +3640,7 @@
         "href": "https://github.com/elementary/stylesheet/releases/tag/5.0.4"
       }
     ],
-    "new_commits": 124
+    "new_commits": 125
   },
   {
     "name": "screenshot",
@@ -3709,7 +3709,7 @@
         "href": "https://github.com/elementary/screenshot/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 94
+    "new_commits": 96
   },
   {
     "name": "default-settings",
