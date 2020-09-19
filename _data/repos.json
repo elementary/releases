@@ -73,7 +73,7 @@
         "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/0.1"
       }
     ],
-    "new_commits": 3
+    "new_commits": 5
   },
   {
     "name": "calendar",
@@ -218,7 +218,7 @@
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 9
+    "new_commits": 11
   },
   {
     "name": "switchboard-plug-network",
@@ -1710,7 +1710,7 @@
         "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 11
+    "new_commits": 13
   },
   {
     "name": "onboarding",
@@ -1861,7 +1861,7 @@
         "href": "https://github.com/elementary/switchboard-plug-printers/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 7
+    "new_commits": 9
   },
   {
     "name": "greeter",
@@ -2102,7 +2102,7 @@
         "href": "https://github.com/elementary/switchboard-plug-parental-controls/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 23
+    "new_commits": 24
   },
   {
     "name": "applications-menu",
@@ -2964,7 +2964,7 @@
         "href": "https://github.com/elementary/switchboard-plug-applications/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 110
+    "new_commits": 112
   },
   {
     "name": "calculator",
