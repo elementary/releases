@@ -979,7 +979,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 62
+    "new_commits": 63
   },
   {
     "name": "videos",
@@ -4226,7 +4226,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 1855
+    "new_commits": 1864
   },
   {
     "name": "fonts",
