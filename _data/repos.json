@@ -404,7 +404,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-power/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 10
+    "new_commits": 13
   },
   {
     "name": "os",
@@ -1242,7 +1242,7 @@
         "href": "https://github.com/elementary/wingpanel/releases/tag/2.0.3"
       }
     ],
-    "new_commits": 11
+    "new_commits": 12
   },
   {
     "name": "pantheon-agent-polkit",
@@ -3543,7 +3543,7 @@
         "href": "https://github.com/elementary/music/releases/tag/0.4.0.3"
       }
     ],
-    "new_commits": 43
+    "new_commits": 44
   },
   {
     "name": "stylesheet",
@@ -4320,7 +4320,7 @@
         "href": "https://github.com/elementary/session-settings/releases/tag/5.0"
       }
     ],
-    "new_commits": 13
+    "new_commits": 14
   },
   {
     "name": "contractor",
