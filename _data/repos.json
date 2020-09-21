@@ -404,7 +404,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-power/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 13
+    "new_commits": 14
   },
   {
     "name": "os",
@@ -1242,7 +1242,7 @@
         "href": "https://github.com/elementary/wingpanel/releases/tag/2.0.3"
       }
     ],
-    "new_commits": 13
+    "new_commits": 14
   },
   {
     "name": "pantheon-agent-polkit",
