@@ -1138,7 +1138,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 22
+    "new_commits": 24
   },
   {
     "name": "wingpanel",
@@ -1710,7 +1710,7 @@
         "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 13
+    "new_commits": 17
   },
   {
     "name": "onboarding",
