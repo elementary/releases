@@ -170,7 +170,7 @@
         "href": "https://github.com/elementary/calendar/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 20
+    "new_commits": 22
   },
   {
     "name": "switchboard-plug-keyboard",
@@ -875,7 +875,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 39
+    "new_commits": 40
   },
   {
     "name": "granite",
