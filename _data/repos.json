@@ -1,5 +1,312 @@
 [
   {
+    "name": "houston",
+    "releases": [
+      {
+        "version": "v6.3.0",
+        "release_date": "2020-09-28T14:58:36",
+        "title": "v6.3.0",
+        "body": "# [6.3.0](https://github.com/elementary/houston/compare/v6.2.0...v6.3.0) (2020-09-28)\n\n\n### Features\n\n* Update to liftoff 20200924 ([#801](https://github.com/elementary/houston/issues/801)) ([1f02255](https://github.com/elementary/houston/commit/1f02255))\n\n\n\n",
+        "href": "https://github.com/elementary/houston/releases/tag/v6.3.0"
+      },
+      {
+        "version": "v6.2.0",
+        "release_date": "2019-05-20T15:00:05",
+        "title": "v6.2.0",
+        "body": "# [6.2.0](https://github.com/elementary/houston/compare/v6.1.0...v6.2.0) (2019-05-20)\n\n\n### Features\n\n* **worker:** Update liftoff to 20190520 ([e01a829](https://github.com/elementary/houston/commit/e01a829))\n\n\n\n",
+        "href": "https://github.com/elementary/houston/releases/tag/v6.2.0"
+      },
+      {
+        "version": "v6.1.0",
+        "release_date": "2019-05-08T18:41:14",
+        "title": "v6.1.0",
+        "body": "# [6.1.0](https://github.com/elementary/houston/compare/v6.0.12...v6.1.0) (2019-05-08)\n\n\n### Features\n\n* **worker:** fix build mirror ([51f65fb](https://github.com/elementary/houston/commit/51f65fb))\n\n\n\n",
+        "href": "https://github.com/elementary/houston/releases/tag/v6.1.0"
+      },
+      {
+        "version": "v6.0.12",
+        "release_date": "2019-03-11T14:58:23",
+        "title": "v6.0.12",
+        "body": "## [6.0.12](https://github.com/elementary/houston/compare/v6.0.11...v6.0.12) (2019-03-11)\n\n\n### Bug Fixes\n\n* **worker:** update appstream screenshot test ([75ec27a](https://github.com/elementary/houston/commit/75ec27a))\n\n\n\n",
+        "href": "https://github.com/elementary/houston/releases/tag/v6.0.12"
+      },
+      {
+        "version": "v6.0.11",
+        "release_date": "2019-02-15T16:08:58",
+        "title": "v6.0.11",
+        "body": "## [6.0.11](https://github.com/elementary/houston/compare/v6.0.10...v6.0.11) (2019-02-15)\n\n\n### Bug Fixes\n\n* **package:** update yargs to version 13.1.0 ([fd27696](https://github.com/elementary/houston/commit/fd27696))\n\n\n\n",
+        "href": "https://github.com/elementary/houston/releases/tag/v6.0.11"
+      },
+      {
+        "version": "v6.0.10",
+        "release_date": "2019-01-29T15:53:41",
+        "title": "v6.0.10",
+        "body": "## [6.0.10](https://github.com/elementary/houston/compare/v6.0.9...v6.0.10) (2019-01-29)\n\n\n### Bug Fixes\n\n* **test:** update ava to 1.2.0 ([49ed5fb](https://github.com/elementary/houston/commit/49ed5fb))\n* **test:** update ava to 1.2.0 ([c9d65db](https://github.com/elementary/houston/commit/c9d65db))\n\n\n\n",
+        "href": "https://github.com/elementary/houston/releases/tag/v6.0.10"
+      },
+      {
+        "version": "v6.0.9",
+        "release_date": "2019-01-16T23:16:21",
+        "title": "v6.0.9",
+        "body": "## [6.0.9](https://github.com/elementary/houston/compare/v6.0.8...v6.0.9) (2019-01-16)\n\n\n### Bug Fixes\n\n* **package:** update nodegit to version 0.24.0 ([dde191f](https://github.com/elementary/houston/commit/dde191f))\n\n\n\n",
+        "href": "https://github.com/elementary/houston/releases/tag/v6.0.9"
+      },
+      {
+        "version": "v6.0.8",
+        "release_date": "2018-12-10T16:33:51",
+        "title": "v6.0.8",
+        "body": "## [6.0.8](https://github.com/elementary/houston/compare/v6.0.7...v6.0.8) (2018-12-10)\n\n\n### Bug Fixes\n\n* **package:** update knex to version 0.16.1 ([79568e2](https://github.com/elementary/houston/commit/79568e2))\n\n\n\n",
+        "href": "https://github.com/elementary/houston/releases/tag/v6.0.8"
+      },
+      {
+        "version": "v6.0.7",
+        "release_date": "2018-11-27T17:49:33",
+        "title": "v6.0.7",
+        "body": "## [6.0.7](https://github.com/elementary/houston/compare/v6.0.6...v6.0.7) (2018-11-27)\n\n\n### Bug Fixes\n\n* **package:** remove unused packages ([3001f26](https://github.com/elementary/houston/commit/3001f26))\n\n\n### Reverts\n\n* **package:** Backdate unreleased version of knex ([6c75dbf](https://github.com/elementary/houston/commit/6c75dbf))\n\n\n\n",
+        "href": "https://github.com/elementary/houston/releases/tag/v6.0.7"
+      },
+      {
+        "version": "v6.0.6",
+        "release_date": "2018-11-27T15:58:28",
+        "title": "v6.0.6",
+        "body": "## [6.0.6](https://github.com/elementary/houston/compare/v6.0.5...v6.0.6) (2018-11-27)\n\n\n### Bug Fixes\n\n* **package:** update knex to version 0.16.0 ([4b5db9b](https://github.com/elementary/houston/commit/4b5db9b))\n\n\n\n",
+        "href": "https://github.com/elementary/houston/releases/tag/v6.0.6"
+      },
+      {
+        "version": "v6.0.5",
+        "release_date": "2018-11-22T04:47:11",
+        "title": "v6.0.5",
+        "body": "## [6.0.5](https://github.com/elementary/houston/compare/v6.0.4...v6.0.5) (2018-11-22)\n\n\n### Bug Fixes\n\n* **cache:** update LRU code for new version ([48d9b73](https://github.com/elementary/houston/commit/48d9b73))\n* **package:** update lru-cache to version 5.0.0 ([2501064](https://github.com/elementary/houston/commit/2501064))\n* **package:** update superagent to version 4.0.0 ([1e262a6](https://github.com/elementary/houston/commit/1e262a6))\n\n\n\n",
+        "href": "https://github.com/elementary/houston/releases/tag/v6.0.5"
+      },
+      {
+        "version": "v6.0.4",
+        "release_date": "2018-10-29T21:51:30",
+        "title": "v6.0.4",
+        "body": "## [6.0.4](https://github.com/elementary/houston/compare/v6.0.3...v6.0.4) (2018-10-29)\n\n\n### Bug Fixes\n\n* **worker:** fix incorrect branches used for packaging ([c2f6a28](https://github.com/elementary/houston/commit/c2f6a28)), closes [#656](https://github.com/elementary/houston/issues/656)\n\n\n\n",
+        "href": "https://github.com/elementary/houston/releases/tag/v6.0.4"
+      },
+      {
+        "version": "v6.0.3",
+        "release_date": "2018-10-29T17:37:22",
+        "title": "v6.0.3",
+        "body": "## [6.0.3](https://github.com/elementary/houston/compare/v6.0.2...v6.0.3) (2018-10-29)\n\n\n### Bug Fixes\n\n* **package:** update [@fortawesome](https://github.com/fortawesome)/vue-fontawesome to version 0.1.2 ([233c1a5](https://github.com/elementary/houston/commit/233c1a5))\n\n\n\n",
+        "href": "https://github.com/elementary/houston/releases/tag/v6.0.3"
+      },
+      {
+        "version": "v6.0.2",
+        "release_date": "2018-10-25T15:44:15",
+        "title": "v6.0.2",
+        "body": "## [6.0.2](https://github.com/elementary/houston/compare/v6.0.1...v6.0.2) (2018-10-25)\n\n\n### Bug Fixes\n\n* **package:** update nodegit to version 0.23.0 ([988e6dc](https://github.com/elementary/houston/commit/988e6dc))\n* **service:** fix git clone with annotated tags ([7f0ed78](https://github.com/elementary/houston/commit/7f0ed78)), closes [#511](https://github.com/elementary/houston/issues/511)\n* **worker:** Pin build docker image to ubuntu bionic ([cf0069b](https://github.com/elementary/houston/commit/cf0069b))\n\n\n\n",
+        "href": "https://github.com/elementary/houston/releases/tag/v6.0.2"
+      },
+      {
+        "version": "v6.0.1",
+        "release_date": "2018-09-19T04:23:01",
+        "title": "v6.0.1",
+        "body": "## [6.0.1](https://github.com/elementary/houston/compare/v6.0.0...v6.0.1) (2018-09-19)\n\n\n### Bug Fixes\n\n* **service:** fix app inject on GitHub class ([a6ea986](https://github.com/elementary/houston/commit/a6ea986))\n* **service:** use lazy evaluate for app inject on github service ([58c871a](https://github.com/elementary/houston/commit/58c871a))\n\n\n\n",
+        "href": "https://github.com/elementary/houston/releases/tag/v6.0.1"
+      },
+      {
+        "version": "v6.0.0",
+        "release_date": "2018-09-19T02:32:50",
+        "title": "v6.0.0",
+        "body": "# [6.0.0](https://github.com/elementary/houston/compare/v5.1.0...v6.0.0) (2018-09-19)\n\n\n### Features\n\n* **service:** add github app installation support for authentication ([aafd2a2](https://github.com/elementary/houston/commit/aafd2a2))\n* **service:** GitHub service generates app tokens for authentication ([5390d1c](https://github.com/elementary/houston/commit/5390d1c))\n\n\n### BREAKING CHANGES\n\n* **service:** services now need to be resolved by the app IOC container\n\n\n\n",
+        "href": "https://github.com/elementary/houston/releases/tag/v6.0.0"
+      },
+      {
+        "version": "v5.1.0",
+        "release_date": "2018-09-08T21:03:18",
+        "title": "v5.1.0",
+        "body": "# [5.1.0](https://github.com/elementary/houston/compare/v5.0.0...v5.1.0) (2018-09-08)\n\n\n### Bug Fixes\n\n* **worker:** read appstream file as utf-8 ([4958344](https://github.com/elementary/houston/commit/4958344))\n\n\n### Features\n\n* **cli:** add package build information to cli output ([68361b7](https://github.com/elementary/houston/commit/68361b7))\n\n\n\n",
+        "href": "https://github.com/elementary/houston/releases/tag/v5.1.0"
+      },
+      {
+        "version": "v5.0.0",
+        "release_date": "2018-09-07T21:07:17",
+        "title": "v5.0.0",
+        "body": "# [5.0.0](https://github.com/elementary/houston/compare/v4.1.5...v5.0.0) (2018-09-07)\n\n\n### Bug Fixes\n\n* **worker:** remove appstream content-rating tests and fall back to appstreamcli tests ([3815f42](https://github.com/elementary/houston/commit/3815f42)), closes [#641](https://github.com/elementary/houston/issues/641)\n* **worker:** use dashes instead of underscores for appstream ([b62461d](https://github.com/elementary/houston/commit/b62461d))\n\n\n### BREAKING CHANGES\n\n* **worker:** appstream file will need to be renamed and id changed from underscore to dashes\n\n\n\n",
+        "href": "https://github.com/elementary/houston/releases/tag/v5.0.0"
+      },
+      {
+        "version": "v4.1.5",
+        "release_date": "2018-08-28T16:10:25",
+        "title": "v4.1.5",
+        "body": "## [4.1.5](https://github.com/elementary/houston/compare/v4.1.4...v4.1.5) (2018-08-28)\n\n\n### Bug Fixes\n\n* **worker:** upgrade liftoff to fix container binding problem ([eb0fd35](https://github.com/elementary/houston/commit/eb0fd35))\n\n\n\n",
+        "href": "https://github.com/elementary/houston/releases/tag/v4.1.5"
+      },
+      {
+        "version": "v4.1.4",
+        "release_date": "2018-08-27T18:57:01",
+        "title": "v4.1.4",
+        "body": "## [4.1.4](https://github.com/elementary/houston/compare/v4.1.3...v4.1.4) (2018-08-27)\n\n\n### Bug Fixes\n\n* **worker:** deb-packaging should always add the latest version ([2ceb0e1](https://github.com/elementary/houston/commit/2ceb0e1))\n\n\n\n",
+        "href": "https://github.com/elementary/houston/releases/tag/v4.1.4"
+      },
+      {
+        "version": "v4.1.3",
+        "release_date": "2018-08-21T15:28:59",
+        "title": "v4.1.3",
+        "body": "## [4.1.3](https://github.com/elementary/houston/compare/v4.1.2...v4.1.3) (2018-08-21)\n\n\n### Bug Fixes\n\n* **worker:** add fs-extra package import ([a82f31b](https://github.com/elementary/houston/commit/a82f31b))\n\n\n\n",
+        "href": "https://github.com/elementary/houston/releases/tag/v4.1.3"
+      },
+      {
+        "version": "v4.1.2",
+        "release_date": "2018-08-09T03:11:41",
+        "title": "v4.1.2",
+        "body": "## [4.1.2](https://github.com/elementary/houston/compare/v4.1.1...v4.1.2) (2018-08-09)\n\n\n### Bug Fixes\n\n* **service:** make aptly file names easier to read ([455f083](https://github.com/elementary/houston/commit/455f083))\n\n\n\n",
+        "href": "https://github.com/elementary/houston/releases/tag/v4.1.2"
+      },
+      {
+        "version": "v4.1.1",
+        "release_date": "2018-08-04T20:38:39",
+        "title": "v4.1.1",
+        "body": "## [4.1.1](https://github.com/elementary/houston/compare/v4.1.0...v4.1.1) (2018-08-04)\n\n\n### Bug Fixes\n\n* **worker:** new release for worker CI fix ([09d2ff1](https://github.com/elementary/houston/commit/09d2ff1))\n\n\n### Reverts\n\n* revert fs-extra to 6.0.1 to fix some CI errors ([be055bd](https://github.com/elementary/houston/commit/be055bd))\n\n\n\n",
+        "href": "https://github.com/elementary/houston/releases/tag/v4.1.1"
+      },
+      {
+        "version": "v4.1.0",
+        "release_date": "2018-08-02T16:29:25",
+        "title": "v4.1.0",
+        "body": "# [4.1.0](https://github.com/elementary/houston/compare/v4.0.1...v4.1.0) (2018-08-02)\n\n\n### Features\n\n* **service:** recursive clone git submodules ([58d3954](https://github.com/elementary/houston/commit/58d3954))\n\n\n\n",
+        "href": "https://github.com/elementary/houston/releases/tag/v4.1.0"
+      },
+      {
+        "version": "v4.0.1",
+        "release_date": "2018-08-02T03:18:41",
+        "title": "v4.0.1",
+        "body": "## [4.0.1](https://github.com/elementary/houston/compare/v4.0.0...v4.0.1) (2018-08-02)\n\n\n### Bug Fixes\n\n* **service:** export createCodeRepository symbol to top level app ([61dad82](https://github.com/elementary/houston/commit/61dad82))\n\n\n\n",
+        "href": "https://github.com/elementary/houston/releases/tag/v4.0.1"
+      },
+      {
+        "version": "v4.0.0",
+        "release_date": "2018-08-02T00:35:10",
+        "title": "v4.0.0",
+        "body": "# [4.0.0](https://github.com/elementary/houston/compare/v3.1.3...v4.0.0) (2018-08-02)\n\n\n### Bug Fixes\n\n* **worker:** update liftoff deb to not include build dir in cache ([b839528](https://github.com/elementary/houston/commit/b839528))\n\n\n### Features\n\n* **service:** move some services to async factory for config access ([ab4aee7](https://github.com/elementary/houston/commit/ab4aee7))\n\n\n### BREAKING CHANGES\n\n* **service:** GitHub service is no longer exported and needs to be resolved with the app\ncontainer\n\n\n\n",
+        "href": "https://github.com/elementary/houston/releases/tag/v4.0.0"
+      },
+      {
+        "version": "v3.1.3",
+        "release_date": "2018-07-25T23:28:48",
+        "title": "v3.1.3",
+        "body": "## [3.1.3](https://github.com/elementary/houston/compare/v3.1.2...v3.1.3) (2018-07-25)\n\n\n### Bug Fixes\n\n* **service:** don't hash the whole package for aptly publishing ([0057010](https://github.com/elementary/houston/commit/0057010)), closes [#633](https://github.com/elementary/houston/issues/633)\n\n\n\n",
+        "href": "https://github.com/elementary/houston/releases/tag/v3.1.3"
+      },
+      {
+        "version": "v3.1.2",
+        "release_date": "2018-07-25T03:14:59",
+        "title": "v3.1.2",
+        "body": "## [3.1.2](https://github.com/elementary/houston/compare/v3.1.1...v3.1.2) (2018-07-25)\n\n\n### Bug Fixes\n\n* **worker:** remove extra check that does nothing ([2296372](https://github.com/elementary/houston/commit/2296372))\n* **worker:** system-apps only build. no tests ([56056cd](https://github.com/elementary/houston/commit/56056cd))\n\n\n\n",
+        "href": "https://github.com/elementary/houston/releases/tag/v3.1.2"
+      },
+      {
+        "version": "v3.1.1",
+        "release_date": "2018-07-24T19:46:42",
+        "title": "v3.1.1",
+        "body": "## [3.1.1](https://github.com/elementary/houston/compare/v3.1.0...v3.1.1) (2018-07-24)\n\n\n### Bug Fixes\n\n* **worker:** Do not check Debian control file for system apps ([a03ab47](https://github.com/elementary/houston/commit/a03ab47))\n\n\n\n",
+        "href": "https://github.com/elementary/houston/releases/tag/v3.1.1"
+      },
+      {
+        "version": "v3.1.0",
+        "release_date": "2018-07-13T02:22:38",
+        "title": "v3.1.0",
+        "body": "# [3.1.0](https://github.com/elementary/houston/compare/v3.0.0...v3.1.0) (2018-07-13)\n\n\n### Features\n\n* **worker:** test some basic fields in the Debian control file ([f9edd78](https://github.com/elementary/houston/commit/f9edd78))\n\n\n\n",
+        "href": "https://github.com/elementary/houston/releases/tag/v3.1.0"
+      },
+      {
+        "version": "v3.0.0",
+        "release_date": "2018-07-11T17:15:07",
+        "title": "v3.0.0",
+        "body": "# [3.0.0](https://github.com/elementary/houston/compare/v2.0.0...v3.0.0) (2018-07-11)\n\n\n### Bug Fixes\n\n* **worker:** appstream file paths should use underscore sanitization ([43709fb](https://github.com/elementary/houston/commit/43709fb)), closes [#566](https://github.com/elementary/houston/issues/566)\n\n\n### BREAKING CHANGES\n\n* **worker:** appstream file paths should use underscores to match the appstream ID\n\n\n\n",
+        "href": "https://github.com/elementary/houston/releases/tag/v3.0.0"
+      },
+      {
+        "version": "v2.0.0",
+        "release_date": "2018-07-11T01:10:25",
+        "title": "v2.0.0",
+        "body": "# [2.0.0](https://github.com/elementary/houston/compare/v1.2.5...v2.0.0) (2018-07-11)\n\n\n### Bug Fixes\n\n* **lib:** allow using different normalizers strings for rdnn-ing strings ([5ccd791](https://github.com/elementary/houston/commit/5ccd791)), closes [#566](https://github.com/elementary/houston/issues/566)\n* **worker:** change rdnn normalizations for tests on an as needed basis ([65e1dd2](https://github.com/elementary/houston/commit/65e1dd2)), closes [#566](https://github.com/elementary/houston/issues/566)\n\n\n### BREAKING CHANGES\n\n* **worker:** Appstream name is no longer configured and is based on RDNN and usage context.\nStrings and file paths may change if you have spaces in your RDNN name.\n\n\n\n",
+        "href": "https://github.com/elementary/houston/releases/tag/v2.0.0"
+      },
+      {
+        "version": "v1.2.5",
+        "release_date": "2018-07-02T14:35:56",
+        "title": "v1.2.5",
+        "body": "## [1.2.5](https://github.com/elementary/houston/compare/v1.2.4...v1.2.5) (2018-07-02)\n\n\n### Bug Fixes\n\n* **worker:** set package architecture and distribution on publish ([7c10114](https://github.com/elementary/houston/commit/7c10114))\n\n\n\n",
+        "href": "https://github.com/elementary/houston/releases/tag/v1.2.5"
+      },
+      {
+        "version": "v1.2.4",
+        "release_date": "2018-07-01T22:42:10",
+        "title": "v1.2.4",
+        "body": "## [1.2.4](https://github.com/elementary/houston/compare/v1.2.3...v1.2.4) (2018-07-01)\n\n\n### Bug Fixes\n\n* **worker:** sort debian changelog changes based on date ([c9352ac](https://github.com/elementary/houston/commit/c9352ac))\n\n\n\n",
+        "href": "https://github.com/elementary/houston/releases/tag/v1.2.4"
+      },
+      {
+        "version": "v1.2.3",
+        "release_date": "2018-07-01T21:18:47",
+        "title": "v1.2.3",
+        "body": "## [1.2.3](https://github.com/elementary/houston/compare/v1.2.2...v1.2.3) (2018-07-01)\n\n\n### Bug Fixes\n\n* **worker:** update debian changelog write path location ([eb43d9e](https://github.com/elementary/houston/commit/eb43d9e))\n\n\n\n",
+        "href": "https://github.com/elementary/houston/releases/tag/v1.2.3"
+      },
+      {
+        "version": "v1.2.2",
+        "release_date": "2018-06-30T22:45:55",
+        "title": "v1.2.2",
+        "body": "## [1.2.2](https://github.com/elementary/houston/compare/v1.2.1...v1.2.2) (2018-06-30)\n\n\n### Bug Fixes\n\n* **worker:** fix workspace setup not finding correct references on build ([94f8756](https://github.com/elementary/houston/commit/94f8756))\n\n\n\n",
+        "href": "https://github.com/elementary/houston/releases/tag/v1.2.2"
+      },
+      {
+        "version": "v1.2.1",
+        "release_date": "2018-06-30T17:15:52",
+        "title": "v1.2.1",
+        "body": "## [1.2.1](https://github.com/elementary/houston/compare/v1.2.0...v1.2.1) (2018-06-30)\n\n\n### Bug Fixes\n\n* **cli:** fix build command not setting version reference ([a454933](https://github.com/elementary/houston/commit/a454933))\n* **worker:** fix trying to upload a null package in post task ([8688fdb](https://github.com/elementary/houston/commit/8688fdb))\n* **worker:** include given context refs during workspace setup clone ([512967a](https://github.com/elementary/houston/commit/512967a))\n\n\n\n",
+        "href": "https://github.com/elementary/houston/releases/tag/v1.2.1"
+      },
+      {
+        "version": "v1.2.0",
+        "release_date": "2018-06-29T03:03:22",
+        "title": "v1.2.0",
+        "body": "# [1.2.0](https://github.com/elementary/houston/compare/v1.1.0...v1.2.0) (2018-06-29)\n\n\n### Bug Fixes\n\n* **service:** don't try to publish GitHub items after already published ([d14874f](https://github.com/elementary/houston/commit/d14874f))\n* fix app export for creating repositories ([61a8480](https://github.com/elementary/houston/commit/61a8480))\n* **service:** update github auth logic with app integration ([976b862](https://github.com/elementary/houston/commit/976b862))\n* **worker:** fix worker fork mechanics ([6db4d1f](https://github.com/elementary/houston/commit/6db4d1f))\n* **worker:** fix worker package publishing ([915753c](https://github.com/elementary/houston/commit/915753c))\n\n\n### Features\n\n* **service:** Add aptly PackageRepository class with tests ([5f370de](https://github.com/elementary/houston/commit/5f370de))\n* **worker:** write architectures, distributions, and refs to logs ([f1f07b8](https://github.com/elementary/houston/commit/f1f07b8))\n\n\n\n",
+        "href": "https://github.com/elementary/houston/releases/tag/v1.2.0"
+      },
+      {
+        "version": "v1.1.0",
+        "release_date": "2018-05-02T03:59:26",
+        "title": "v1.1.0",
+        "body": "<a name=\"1.1.0\"></a>\n# [1.1.0](https://github.com/elementary/houston/compare/v1.0.1...v1.1.0) (2018-05-02)\n\n\n### Features\n\n* **worker:** create provider for app usage ([acd2b1f](https://github.com/elementary/houston/commit/acd2b1f))\n\n\n\n",
+        "href": "https://github.com/elementary/houston/releases/tag/v1.1.0"
+      },
+      {
+        "version": "v1.0.1",
+        "release_date": "2018-05-02T03:19:09",
+        "title": "v1.0.1",
+        "body": "<a name=\"1.0.1\"></a>\n## [1.0.1](https://github.com/elementary/houston/compare/v1.0.0...v1.0.1) (2018-05-02)\n\n\n### Bug Fixes\n\n* **package:** fix package main script ([90bbffd](https://github.com/elementary/houston/commit/90bbffd))\n\n\n\n",
+        "href": "https://github.com/elementary/houston/releases/tag/v1.0.1"
+      },
+      {
+        "version": "v1.0.0",
+        "release_date": "2018-04-29T21:53:05",
+        "title": "v1.0.0",
+        "body": "<a name=\"1.0.0\"></a>\n# 1.0.0 (2018-04-29)\n\n\n### Bug Fixes\n\n* **worker:** fix worker type exporting ([002841a](https://github.com/elementary/houston/commit/002841a))\n\n\n\n",
+        "href": "https://github.com/elementary/houston/releases/tag/v1.0.0"
+      },
+      {
+        "version": "0.3.0",
+        "release_date": "2016-10-12T06:30:41",
+        "title": "Beta 0.3.0",
+        "body": ":tada: This marks the start of beta testing :tada: \n",
+        "href": "https://github.com/elementary/houston/releases/tag/0.3.0"
+      },
+      {
+        "version": "0.2.0",
+        "release_date": "2016-04-05T23:19:49",
+        "title": "a stepping stone",
+        "body": "This marks a stepping stone for Houston. While it is not production ready, it does a minimal feature set with little to no assistance. \n",
+        "href": "https://github.com/elementary/houston/releases/tag/0.2.0"
+      }
+    ],
+    "new_commits": 0
+  },
+  {
     "name": "switchboard-plug-sound",
     "releases": [
       {
@@ -3845,306 +4152,6 @@
       }
     ],
     "new_commits": 357
-  },
-  {
-    "name": "houston",
-    "releases": [
-      {
-        "version": "v6.2.0",
-        "release_date": "2019-05-20T15:00:05",
-        "title": "v6.2.0",
-        "body": "# [6.2.0](https://github.com/elementary/houston/compare/v6.1.0...v6.2.0) (2019-05-20)\n\n\n### Features\n\n* **worker:** Update liftoff to 20190520 ([e01a829](https://github.com/elementary/houston/commit/e01a829))\n\n\n\n",
-        "href": "https://github.com/elementary/houston/releases/tag/v6.2.0"
-      },
-      {
-        "version": "v6.1.0",
-        "release_date": "2019-05-08T18:41:14",
-        "title": "v6.1.0",
-        "body": "# [6.1.0](https://github.com/elementary/houston/compare/v6.0.12...v6.1.0) (2019-05-08)\n\n\n### Features\n\n* **worker:** fix build mirror ([51f65fb](https://github.com/elementary/houston/commit/51f65fb))\n\n\n\n",
-        "href": "https://github.com/elementary/houston/releases/tag/v6.1.0"
-      },
-      {
-        "version": "v6.0.12",
-        "release_date": "2019-03-11T14:58:23",
-        "title": "v6.0.12",
-        "body": "## [6.0.12](https://github.com/elementary/houston/compare/v6.0.11...v6.0.12) (2019-03-11)\n\n\n### Bug Fixes\n\n* **worker:** update appstream screenshot test ([75ec27a](https://github.com/elementary/houston/commit/75ec27a))\n\n\n\n",
-        "href": "https://github.com/elementary/houston/releases/tag/v6.0.12"
-      },
-      {
-        "version": "v6.0.11",
-        "release_date": "2019-02-15T16:08:58",
-        "title": "v6.0.11",
-        "body": "## [6.0.11](https://github.com/elementary/houston/compare/v6.0.10...v6.0.11) (2019-02-15)\n\n\n### Bug Fixes\n\n* **package:** update yargs to version 13.1.0 ([fd27696](https://github.com/elementary/houston/commit/fd27696))\n\n\n\n",
-        "href": "https://github.com/elementary/houston/releases/tag/v6.0.11"
-      },
-      {
-        "version": "v6.0.10",
-        "release_date": "2019-01-29T15:53:41",
-        "title": "v6.0.10",
-        "body": "## [6.0.10](https://github.com/elementary/houston/compare/v6.0.9...v6.0.10) (2019-01-29)\n\n\n### Bug Fixes\n\n* **test:** update ava to 1.2.0 ([49ed5fb](https://github.com/elementary/houston/commit/49ed5fb))\n* **test:** update ava to 1.2.0 ([c9d65db](https://github.com/elementary/houston/commit/c9d65db))\n\n\n\n",
-        "href": "https://github.com/elementary/houston/releases/tag/v6.0.10"
-      },
-      {
-        "version": "v6.0.9",
-        "release_date": "2019-01-16T23:16:21",
-        "title": "v6.0.9",
-        "body": "## [6.0.9](https://github.com/elementary/houston/compare/v6.0.8...v6.0.9) (2019-01-16)\n\n\n### Bug Fixes\n\n* **package:** update nodegit to version 0.24.0 ([dde191f](https://github.com/elementary/houston/commit/dde191f))\n\n\n\n",
-        "href": "https://github.com/elementary/houston/releases/tag/v6.0.9"
-      },
-      {
-        "version": "v6.0.8",
-        "release_date": "2018-12-10T16:33:51",
-        "title": "v6.0.8",
-        "body": "## [6.0.8](https://github.com/elementary/houston/compare/v6.0.7...v6.0.8) (2018-12-10)\n\n\n### Bug Fixes\n\n* **package:** update knex to version 0.16.1 ([79568e2](https://github.com/elementary/houston/commit/79568e2))\n\n\n\n",
-        "href": "https://github.com/elementary/houston/releases/tag/v6.0.8"
-      },
-      {
-        "version": "v6.0.7",
-        "release_date": "2018-11-27T17:49:33",
-        "title": "v6.0.7",
-        "body": "## [6.0.7](https://github.com/elementary/houston/compare/v6.0.6...v6.0.7) (2018-11-27)\n\n\n### Bug Fixes\n\n* **package:** remove unused packages ([3001f26](https://github.com/elementary/houston/commit/3001f26))\n\n\n### Reverts\n\n* **package:** Backdate unreleased version of knex ([6c75dbf](https://github.com/elementary/houston/commit/6c75dbf))\n\n\n\n",
-        "href": "https://github.com/elementary/houston/releases/tag/v6.0.7"
-      },
-      {
-        "version": "v6.0.6",
-        "release_date": "2018-11-27T15:58:28",
-        "title": "v6.0.6",
-        "body": "## [6.0.6](https://github.com/elementary/houston/compare/v6.0.5...v6.0.6) (2018-11-27)\n\n\n### Bug Fixes\n\n* **package:** update knex to version 0.16.0 ([4b5db9b](https://github.com/elementary/houston/commit/4b5db9b))\n\n\n\n",
-        "href": "https://github.com/elementary/houston/releases/tag/v6.0.6"
-      },
-      {
-        "version": "v6.0.5",
-        "release_date": "2018-11-22T04:47:11",
-        "title": "v6.0.5",
-        "body": "## [6.0.5](https://github.com/elementary/houston/compare/v6.0.4...v6.0.5) (2018-11-22)\n\n\n### Bug Fixes\n\n* **cache:** update LRU code for new version ([48d9b73](https://github.com/elementary/houston/commit/48d9b73))\n* **package:** update lru-cache to version 5.0.0 ([2501064](https://github.com/elementary/houston/commit/2501064))\n* **package:** update superagent to version 4.0.0 ([1e262a6](https://github.com/elementary/houston/commit/1e262a6))\n\n\n\n",
-        "href": "https://github.com/elementary/houston/releases/tag/v6.0.5"
-      },
-      {
-        "version": "v6.0.4",
-        "release_date": "2018-10-29T21:51:30",
-        "title": "v6.0.4",
-        "body": "## [6.0.4](https://github.com/elementary/houston/compare/v6.0.3...v6.0.4) (2018-10-29)\n\n\n### Bug Fixes\n\n* **worker:** fix incorrect branches used for packaging ([c2f6a28](https://github.com/elementary/houston/commit/c2f6a28)), closes [#656](https://github.com/elementary/houston/issues/656)\n\n\n\n",
-        "href": "https://github.com/elementary/houston/releases/tag/v6.0.4"
-      },
-      {
-        "version": "v6.0.3",
-        "release_date": "2018-10-29T17:37:22",
-        "title": "v6.0.3",
-        "body": "## [6.0.3](https://github.com/elementary/houston/compare/v6.0.2...v6.0.3) (2018-10-29)\n\n\n### Bug Fixes\n\n* **package:** update [@fortawesome](https://github.com/fortawesome)/vue-fontawesome to version 0.1.2 ([233c1a5](https://github.com/elementary/houston/commit/233c1a5))\n\n\n\n",
-        "href": "https://github.com/elementary/houston/releases/tag/v6.0.3"
-      },
-      {
-        "version": "v6.0.2",
-        "release_date": "2018-10-25T15:44:15",
-        "title": "v6.0.2",
-        "body": "## [6.0.2](https://github.com/elementary/houston/compare/v6.0.1...v6.0.2) (2018-10-25)\n\n\n### Bug Fixes\n\n* **package:** update nodegit to version 0.23.0 ([988e6dc](https://github.com/elementary/houston/commit/988e6dc))\n* **service:** fix git clone with annotated tags ([7f0ed78](https://github.com/elementary/houston/commit/7f0ed78)), closes [#511](https://github.com/elementary/houston/issues/511)\n* **worker:** Pin build docker image to ubuntu bionic ([cf0069b](https://github.com/elementary/houston/commit/cf0069b))\n\n\n\n",
-        "href": "https://github.com/elementary/houston/releases/tag/v6.0.2"
-      },
-      {
-        "version": "v6.0.1",
-        "release_date": "2018-09-19T04:23:01",
-        "title": "v6.0.1",
-        "body": "## [6.0.1](https://github.com/elementary/houston/compare/v6.0.0...v6.0.1) (2018-09-19)\n\n\n### Bug Fixes\n\n* **service:** fix app inject on GitHub class ([a6ea986](https://github.com/elementary/houston/commit/a6ea986))\n* **service:** use lazy evaluate for app inject on github service ([58c871a](https://github.com/elementary/houston/commit/58c871a))\n\n\n\n",
-        "href": "https://github.com/elementary/houston/releases/tag/v6.0.1"
-      },
-      {
-        "version": "v6.0.0",
-        "release_date": "2018-09-19T02:32:50",
-        "title": "v6.0.0",
-        "body": "# [6.0.0](https://github.com/elementary/houston/compare/v5.1.0...v6.0.0) (2018-09-19)\n\n\n### Features\n\n* **service:** add github app installation support for authentication ([aafd2a2](https://github.com/elementary/houston/commit/aafd2a2))\n* **service:** GitHub service generates app tokens for authentication ([5390d1c](https://github.com/elementary/houston/commit/5390d1c))\n\n\n### BREAKING CHANGES\n\n* **service:** services now need to be resolved by the app IOC container\n\n\n\n",
-        "href": "https://github.com/elementary/houston/releases/tag/v6.0.0"
-      },
-      {
-        "version": "v5.1.0",
-        "release_date": "2018-09-08T21:03:18",
-        "title": "v5.1.0",
-        "body": "# [5.1.0](https://github.com/elementary/houston/compare/v5.0.0...v5.1.0) (2018-09-08)\n\n\n### Bug Fixes\n\n* **worker:** read appstream file as utf-8 ([4958344](https://github.com/elementary/houston/commit/4958344))\n\n\n### Features\n\n* **cli:** add package build information to cli output ([68361b7](https://github.com/elementary/houston/commit/68361b7))\n\n\n\n",
-        "href": "https://github.com/elementary/houston/releases/tag/v5.1.0"
-      },
-      {
-        "version": "v5.0.0",
-        "release_date": "2018-09-07T21:07:17",
-        "title": "v5.0.0",
-        "body": "# [5.0.0](https://github.com/elementary/houston/compare/v4.1.5...v5.0.0) (2018-09-07)\n\n\n### Bug Fixes\n\n* **worker:** remove appstream content-rating tests and fall back to appstreamcli tests ([3815f42](https://github.com/elementary/houston/commit/3815f42)), closes [#641](https://github.com/elementary/houston/issues/641)\n* **worker:** use dashes instead of underscores for appstream ([b62461d](https://github.com/elementary/houston/commit/b62461d))\n\n\n### BREAKING CHANGES\n\n* **worker:** appstream file will need to be renamed and id changed from underscore to dashes\n\n\n\n",
-        "href": "https://github.com/elementary/houston/releases/tag/v5.0.0"
-      },
-      {
-        "version": "v4.1.5",
-        "release_date": "2018-08-28T16:10:25",
-        "title": "v4.1.5",
-        "body": "## [4.1.5](https://github.com/elementary/houston/compare/v4.1.4...v4.1.5) (2018-08-28)\n\n\n### Bug Fixes\n\n* **worker:** upgrade liftoff to fix container binding problem ([eb0fd35](https://github.com/elementary/houston/commit/eb0fd35))\n\n\n\n",
-        "href": "https://github.com/elementary/houston/releases/tag/v4.1.5"
-      },
-      {
-        "version": "v4.1.4",
-        "release_date": "2018-08-27T18:57:01",
-        "title": "v4.1.4",
-        "body": "## [4.1.4](https://github.com/elementary/houston/compare/v4.1.3...v4.1.4) (2018-08-27)\n\n\n### Bug Fixes\n\n* **worker:** deb-packaging should always add the latest version ([2ceb0e1](https://github.com/elementary/houston/commit/2ceb0e1))\n\n\n\n",
-        "href": "https://github.com/elementary/houston/releases/tag/v4.1.4"
-      },
-      {
-        "version": "v4.1.3",
-        "release_date": "2018-08-21T15:28:59",
-        "title": "v4.1.3",
-        "body": "## [4.1.3](https://github.com/elementary/houston/compare/v4.1.2...v4.1.3) (2018-08-21)\n\n\n### Bug Fixes\n\n* **worker:** add fs-extra package import ([a82f31b](https://github.com/elementary/houston/commit/a82f31b))\n\n\n\n",
-        "href": "https://github.com/elementary/houston/releases/tag/v4.1.3"
-      },
-      {
-        "version": "v4.1.2",
-        "release_date": "2018-08-09T03:11:41",
-        "title": "v4.1.2",
-        "body": "## [4.1.2](https://github.com/elementary/houston/compare/v4.1.1...v4.1.2) (2018-08-09)\n\n\n### Bug Fixes\n\n* **service:** make aptly file names easier to read ([455f083](https://github.com/elementary/houston/commit/455f083))\n\n\n\n",
-        "href": "https://github.com/elementary/houston/releases/tag/v4.1.2"
-      },
-      {
-        "version": "v4.1.1",
-        "release_date": "2018-08-04T20:38:39",
-        "title": "v4.1.1",
-        "body": "## [4.1.1](https://github.com/elementary/houston/compare/v4.1.0...v4.1.1) (2018-08-04)\n\n\n### Bug Fixes\n\n* **worker:** new release for worker CI fix ([09d2ff1](https://github.com/elementary/houston/commit/09d2ff1))\n\n\n### Reverts\n\n* revert fs-extra to 6.0.1 to fix some CI errors ([be055bd](https://github.com/elementary/houston/commit/be055bd))\n\n\n\n",
-        "href": "https://github.com/elementary/houston/releases/tag/v4.1.1"
-      },
-      {
-        "version": "v4.1.0",
-        "release_date": "2018-08-02T16:29:25",
-        "title": "v4.1.0",
-        "body": "# [4.1.0](https://github.com/elementary/houston/compare/v4.0.1...v4.1.0) (2018-08-02)\n\n\n### Features\n\n* **service:** recursive clone git submodules ([58d3954](https://github.com/elementary/houston/commit/58d3954))\n\n\n\n",
-        "href": "https://github.com/elementary/houston/releases/tag/v4.1.0"
-      },
-      {
-        "version": "v4.0.1",
-        "release_date": "2018-08-02T03:18:41",
-        "title": "v4.0.1",
-        "body": "## [4.0.1](https://github.com/elementary/houston/compare/v4.0.0...v4.0.1) (2018-08-02)\n\n\n### Bug Fixes\n\n* **service:** export createCodeRepository symbol to top level app ([61dad82](https://github.com/elementary/houston/commit/61dad82))\n\n\n\n",
-        "href": "https://github.com/elementary/houston/releases/tag/v4.0.1"
-      },
-      {
-        "version": "v4.0.0",
-        "release_date": "2018-08-02T00:35:10",
-        "title": "v4.0.0",
-        "body": "# [4.0.0](https://github.com/elementary/houston/compare/v3.1.3...v4.0.0) (2018-08-02)\n\n\n### Bug Fixes\n\n* **worker:** update liftoff deb to not include build dir in cache ([b839528](https://github.com/elementary/houston/commit/b839528))\n\n\n### Features\n\n* **service:** move some services to async factory for config access ([ab4aee7](https://github.com/elementary/houston/commit/ab4aee7))\n\n\n### BREAKING CHANGES\n\n* **service:** GitHub service is no longer exported and needs to be resolved with the app\ncontainer\n\n\n\n",
-        "href": "https://github.com/elementary/houston/releases/tag/v4.0.0"
-      },
-      {
-        "version": "v3.1.3",
-        "release_date": "2018-07-25T23:28:48",
-        "title": "v3.1.3",
-        "body": "## [3.1.3](https://github.com/elementary/houston/compare/v3.1.2...v3.1.3) (2018-07-25)\n\n\n### Bug Fixes\n\n* **service:** don't hash the whole package for aptly publishing ([0057010](https://github.com/elementary/houston/commit/0057010)), closes [#633](https://github.com/elementary/houston/issues/633)\n\n\n\n",
-        "href": "https://github.com/elementary/houston/releases/tag/v3.1.3"
-      },
-      {
-        "version": "v3.1.2",
-        "release_date": "2018-07-25T03:14:59",
-        "title": "v3.1.2",
-        "body": "## [3.1.2](https://github.com/elementary/houston/compare/v3.1.1...v3.1.2) (2018-07-25)\n\n\n### Bug Fixes\n\n* **worker:** remove extra check that does nothing ([2296372](https://github.com/elementary/houston/commit/2296372))\n* **worker:** system-apps only build. no tests ([56056cd](https://github.com/elementary/houston/commit/56056cd))\n\n\n\n",
-        "href": "https://github.com/elementary/houston/releases/tag/v3.1.2"
-      },
-      {
-        "version": "v3.1.1",
-        "release_date": "2018-07-24T19:46:42",
-        "title": "v3.1.1",
-        "body": "## [3.1.1](https://github.com/elementary/houston/compare/v3.1.0...v3.1.1) (2018-07-24)\n\n\n### Bug Fixes\n\n* **worker:** Do not check Debian control file for system apps ([a03ab47](https://github.com/elementary/houston/commit/a03ab47))\n\n\n\n",
-        "href": "https://github.com/elementary/houston/releases/tag/v3.1.1"
-      },
-      {
-        "version": "v3.1.0",
-        "release_date": "2018-07-13T02:22:38",
-        "title": "v3.1.0",
-        "body": "# [3.1.0](https://github.com/elementary/houston/compare/v3.0.0...v3.1.0) (2018-07-13)\n\n\n### Features\n\n* **worker:** test some basic fields in the Debian control file ([f9edd78](https://github.com/elementary/houston/commit/f9edd78))\n\n\n\n",
-        "href": "https://github.com/elementary/houston/releases/tag/v3.1.0"
-      },
-      {
-        "version": "v3.0.0",
-        "release_date": "2018-07-11T17:15:07",
-        "title": "v3.0.0",
-        "body": "# [3.0.0](https://github.com/elementary/houston/compare/v2.0.0...v3.0.0) (2018-07-11)\n\n\n### Bug Fixes\n\n* **worker:** appstream file paths should use underscore sanitization ([43709fb](https://github.com/elementary/houston/commit/43709fb)), closes [#566](https://github.com/elementary/houston/issues/566)\n\n\n### BREAKING CHANGES\n\n* **worker:** appstream file paths should use underscores to match the appstream ID\n\n\n\n",
-        "href": "https://github.com/elementary/houston/releases/tag/v3.0.0"
-      },
-      {
-        "version": "v2.0.0",
-        "release_date": "2018-07-11T01:10:25",
-        "title": "v2.0.0",
-        "body": "# [2.0.0](https://github.com/elementary/houston/compare/v1.2.5...v2.0.0) (2018-07-11)\n\n\n### Bug Fixes\n\n* **lib:** allow using different normalizers strings for rdnn-ing strings ([5ccd791](https://github.com/elementary/houston/commit/5ccd791)), closes [#566](https://github.com/elementary/houston/issues/566)\n* **worker:** change rdnn normalizations for tests on an as needed basis ([65e1dd2](https://github.com/elementary/houston/commit/65e1dd2)), closes [#566](https://github.com/elementary/houston/issues/566)\n\n\n### BREAKING CHANGES\n\n* **worker:** Appstream name is no longer configured and is based on RDNN and usage context.\nStrings and file paths may change if you have spaces in your RDNN name.\n\n\n\n",
-        "href": "https://github.com/elementary/houston/releases/tag/v2.0.0"
-      },
-      {
-        "version": "v1.2.5",
-        "release_date": "2018-07-02T14:35:56",
-        "title": "v1.2.5",
-        "body": "## [1.2.5](https://github.com/elementary/houston/compare/v1.2.4...v1.2.5) (2018-07-02)\n\n\n### Bug Fixes\n\n* **worker:** set package architecture and distribution on publish ([7c10114](https://github.com/elementary/houston/commit/7c10114))\n\n\n\n",
-        "href": "https://github.com/elementary/houston/releases/tag/v1.2.5"
-      },
-      {
-        "version": "v1.2.4",
-        "release_date": "2018-07-01T22:42:10",
-        "title": "v1.2.4",
-        "body": "## [1.2.4](https://github.com/elementary/houston/compare/v1.2.3...v1.2.4) (2018-07-01)\n\n\n### Bug Fixes\n\n* **worker:** sort debian changelog changes based on date ([c9352ac](https://github.com/elementary/houston/commit/c9352ac))\n\n\n\n",
-        "href": "https://github.com/elementary/houston/releases/tag/v1.2.4"
-      },
-      {
-        "version": "v1.2.3",
-        "release_date": "2018-07-01T21:18:47",
-        "title": "v1.2.3",
-        "body": "## [1.2.3](https://github.com/elementary/houston/compare/v1.2.2...v1.2.3) (2018-07-01)\n\n\n### Bug Fixes\n\n* **worker:** update debian changelog write path location ([eb43d9e](https://github.com/elementary/houston/commit/eb43d9e))\n\n\n\n",
-        "href": "https://github.com/elementary/houston/releases/tag/v1.2.3"
-      },
-      {
-        "version": "v1.2.2",
-        "release_date": "2018-06-30T22:45:55",
-        "title": "v1.2.2",
-        "body": "## [1.2.2](https://github.com/elementary/houston/compare/v1.2.1...v1.2.2) (2018-06-30)\n\n\n### Bug Fixes\n\n* **worker:** fix workspace setup not finding correct references on build ([94f8756](https://github.com/elementary/houston/commit/94f8756))\n\n\n\n",
-        "href": "https://github.com/elementary/houston/releases/tag/v1.2.2"
-      },
-      {
-        "version": "v1.2.1",
-        "release_date": "2018-06-30T17:15:52",
-        "title": "v1.2.1",
-        "body": "## [1.2.1](https://github.com/elementary/houston/compare/v1.2.0...v1.2.1) (2018-06-30)\n\n\n### Bug Fixes\n\n* **cli:** fix build command not setting version reference ([a454933](https://github.com/elementary/houston/commit/a454933))\n* **worker:** fix trying to upload a null package in post task ([8688fdb](https://github.com/elementary/houston/commit/8688fdb))\n* **worker:** include given context refs during workspace setup clone ([512967a](https://github.com/elementary/houston/commit/512967a))\n\n\n\n",
-        "href": "https://github.com/elementary/houston/releases/tag/v1.2.1"
-      },
-      {
-        "version": "v1.2.0",
-        "release_date": "2018-06-29T03:03:22",
-        "title": "v1.2.0",
-        "body": "# [1.2.0](https://github.com/elementary/houston/compare/v1.1.0...v1.2.0) (2018-06-29)\n\n\n### Bug Fixes\n\n* **service:** don't try to publish GitHub items after already published ([d14874f](https://github.com/elementary/houston/commit/d14874f))\n* fix app export for creating repositories ([61a8480](https://github.com/elementary/houston/commit/61a8480))\n* **service:** update github auth logic with app integration ([976b862](https://github.com/elementary/houston/commit/976b862))\n* **worker:** fix worker fork mechanics ([6db4d1f](https://github.com/elementary/houston/commit/6db4d1f))\n* **worker:** fix worker package publishing ([915753c](https://github.com/elementary/houston/commit/915753c))\n\n\n### Features\n\n* **service:** Add aptly PackageRepository class with tests ([5f370de](https://github.com/elementary/houston/commit/5f370de))\n* **worker:** write architectures, distributions, and refs to logs ([f1f07b8](https://github.com/elementary/houston/commit/f1f07b8))\n\n\n\n",
-        "href": "https://github.com/elementary/houston/releases/tag/v1.2.0"
-      },
-      {
-        "version": "v1.1.0",
-        "release_date": "2018-05-02T03:59:26",
-        "title": "v1.1.0",
-        "body": "<a name=\"1.1.0\"></a>\n# [1.1.0](https://github.com/elementary/houston/compare/v1.0.1...v1.1.0) (2018-05-02)\n\n\n### Features\n\n* **worker:** create provider for app usage ([acd2b1f](https://github.com/elementary/houston/commit/acd2b1f))\n\n\n\n",
-        "href": "https://github.com/elementary/houston/releases/tag/v1.1.0"
-      },
-      {
-        "version": "v1.0.1",
-        "release_date": "2018-05-02T03:19:09",
-        "title": "v1.0.1",
-        "body": "<a name=\"1.0.1\"></a>\n## [1.0.1](https://github.com/elementary/houston/compare/v1.0.0...v1.0.1) (2018-05-02)\n\n\n### Bug Fixes\n\n* **package:** fix package main script ([90bbffd](https://github.com/elementary/houston/commit/90bbffd))\n\n\n\n",
-        "href": "https://github.com/elementary/houston/releases/tag/v1.0.1"
-      },
-      {
-        "version": "v1.0.0",
-        "release_date": "2018-04-29T21:53:05",
-        "title": "v1.0.0",
-        "body": "<a name=\"1.0.0\"></a>\n# 1.0.0 (2018-04-29)\n\n\n### Bug Fixes\n\n* **worker:** fix worker type exporting ([002841a](https://github.com/elementary/houston/commit/002841a))\n\n\n\n",
-        "href": "https://github.com/elementary/houston/releases/tag/v1.0.0"
-      },
-      {
-        "version": "0.3.0",
-        "release_date": "2016-10-12T06:30:41",
-        "title": "Beta 0.3.0",
-        "body": ":tada: This marks the start of beta testing :tada: \n",
-        "href": "https://github.com/elementary/houston/releases/tag/0.3.0"
-      },
-      {
-        "version": "0.2.0",
-        "release_date": "2016-04-05T23:19:49",
-        "title": "a stepping stone",
-        "body": "This marks a stepping stone for Houston. While it is not production ready, it does a minimal feature set with little to no assistance. \n",
-        "href": "https://github.com/elementary/houston/releases/tag/0.2.0"
-      }
-    ],
-    "new_commits": 10
   },
   {
     "name": "switchboard-plug-onlineaccounts",
