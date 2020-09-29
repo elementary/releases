@@ -380,7 +380,7 @@
         "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/0.1"
       }
     ],
-    "new_commits": 9
+    "new_commits": 10
   },
   {
     "name": "calendar",
@@ -1286,7 +1286,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 67
+    "new_commits": 68
   },
   {
     "name": "videos",
@@ -1362,7 +1362,7 @@
         "href": "https://github.com/elementary/videos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 25
+    "new_commits": 27
   },
   {
     "name": "wingpanel-indicator-datetime",
@@ -1445,7 +1445,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 24
+    "new_commits": 25
   },
   {
     "name": "wingpanel",
@@ -1900,7 +1900,7 @@
         "href": "https://github.com/elementary/sideload/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 46
+    "new_commits": 47
   },
   {
     "name": "wingpanel-indicator-network",
@@ -2017,7 +2017,7 @@
         "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 22
+    "new_commits": 23
   },
   {
     "name": "onboarding",
@@ -4233,7 +4233,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 1909
+    "new_commits": 1915
   },
   {
     "name": "fonts",
@@ -4327,7 +4327,7 @@
         "href": "https://github.com/elementary/session-settings/releases/tag/5.0"
       }
     ],
-    "new_commits": 15
+    "new_commits": 16
   },
   {
     "name": "contractor",
