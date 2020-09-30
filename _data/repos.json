@@ -380,7 +380,7 @@
         "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/0.1"
       }
     ],
-    "new_commits": 10
+    "new_commits": 11
   },
   {
     "name": "calendar",
@@ -1790,7 +1790,7 @@
         "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 12
+    "new_commits": 14
   },
   {
     "name": "switchboard-plug-display",
