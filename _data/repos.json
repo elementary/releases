@@ -1735,7 +1735,7 @@
         "href": "https://github.com/elementary/switchboard-plug-notifications/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 7
+    "new_commits": 8
   },
   {
     "name": "switchboard-plug-locale",
@@ -2168,7 +2168,7 @@
         "href": "https://github.com/elementary/switchboard-plug-printers/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 11
+    "new_commits": 12
   },
   {
     "name": "greeter",
