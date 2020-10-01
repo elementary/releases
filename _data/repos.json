@@ -1866,7 +1866,7 @@
         "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 14
+    "new_commits": 49
   },
   {
     "name": "sideload",
@@ -3216,7 +3216,7 @@
         "href": "https://github.com/elementary/photos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 38
+    "new_commits": 43
   },
   {
     "name": "switchboard-plug-applications",
