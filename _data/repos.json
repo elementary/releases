@@ -2017,7 +2017,7 @@
         "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 23
+    "new_commits": 53
   },
   {
     "name": "onboarding",
@@ -2375,7 +2375,7 @@
         "href": "https://github.com/elementary/switchboard-plug-about/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 56
+    "new_commits": 59
   },
   {
     "name": "switchboard-plug-parental-controls",
@@ -2568,7 +2568,7 @@
         "href": "https://github.com/elementary/switchboard-plug-datetime/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 18
+    "new_commits": 19
   },
   {
     "name": "switchboard-plug-security-privacy",
@@ -3271,7 +3271,7 @@
         "href": "https://github.com/elementary/switchboard-plug-applications/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 112
+    "new_commits": 114
   },
   {
     "name": "calculator",
