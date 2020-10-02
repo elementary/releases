@@ -477,7 +477,7 @@
         "href": "https://github.com/elementary/calendar/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 22
+    "new_commits": 23
   },
   {
     "name": "switchboard-plug-keyboard",
@@ -1618,7 +1618,7 @@
         "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 22
+    "new_commits": 23
   },
   {
     "name": "code",
