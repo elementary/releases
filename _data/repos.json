@@ -905,7 +905,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 52
+    "new_commits": 55
   },
   {
     "name": "wingpanel-indicator-nightlight",
@@ -2989,7 +2989,7 @@
         "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
       }
     ],
-    "new_commits": 125
+    "new_commits": 202
   },
   {
     "name": "pantheon-agent-geoclue2",
