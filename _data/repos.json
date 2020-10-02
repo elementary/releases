@@ -1687,7 +1687,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 92
+    "new_commits": 97
   },
   {
     "name": "switchboard-plug-notifications",
@@ -2292,7 +2292,7 @@
         "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 20
+    "new_commits": 63
   },
   {
     "name": "switchboard-plug-about",
@@ -4111,7 +4111,7 @@
         "href": "https://github.com/elementary/actions/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 9
+    "new_commits": 10
   },
   {
     "name": "initial-setup",
@@ -4233,7 +4233,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 1924
+    "new_commits": 1930
   },
   {
     "name": "fonts",
