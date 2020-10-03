@@ -1955,7 +1955,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 58
+    "new_commits": 59
   },
   {
     "name": "switchboard-plug-bluetooth",
@@ -2375,7 +2375,7 @@
         "href": "https://github.com/elementary/switchboard-plug-about/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 59
+    "new_commits": 60
   },
   {
     "name": "switchboard-plug-parental-controls",
