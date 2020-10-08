@@ -3,6 +3,13 @@
     "name": "appcenter",
     "releases": [
       {
+        "version": "3.5.1",
+        "release_date": "2020-10-08T17:26:39",
+        "title": "appcenter 3.5.1 Released",
+        "body": "<p>Fixes</p>\n<ul>\n<li>Correctly display names of Flatpak runtime updates</li>\n</ul>\n<p>Minor updates</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.5.1"
+      },
+      {
         "version": "3.5.0",
         "release_date": "2020-10-07T03:57:49",
         "title": "appcenter 3.5.0 Released",
@@ -171,7 +178,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 15
+    "new_commits": 0
   },
   {
     "name": "houston",
