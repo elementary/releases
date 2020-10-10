@@ -315,7 +315,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.0.4"
       }
     ],
-    "new_commits": 2
+    "new_commits": 6
   },
   {
     "name": "appcenter",
@@ -496,7 +496,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 0
+    "new_commits": 6
   },
   {
     "name": "houston",
@@ -1286,7 +1286,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-nightlight/releases/tag/2.0"
       }
     ],
-    "new_commits": 4
+    "new_commits": 6
   },
   {
     "name": "granite",
@@ -2059,7 +2059,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 61
+    "new_commits": 62
   },
   {
     "name": "onboarding",
@@ -2100,7 +2100,7 @@
         "href": "https://github.com/elementary/onboarding/releases/tag/1.0"
       }
     ],
-    "new_commits": 70
+    "new_commits": 71
   },
   {
     "name": "shortcut-overlay",
@@ -3610,7 +3610,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.0.1"
       }
     ],
-    "new_commits": 49
+    "new_commits": 50
   },
   {
     "name": "wingpanel-indicator-session",
@@ -4180,7 +4180,7 @@
         "href": "https://github.com/elementary/initial-setup/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 70
+    "new_commits": 71
   },
   {
     "name": "feedback",
