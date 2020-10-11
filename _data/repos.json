@@ -1051,7 +1051,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-power/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 17
+    "new_commits": 19
   },
   {
     "name": "os",
@@ -1390,7 +1390,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 79
+    "new_commits": 81
   },
   {
     "name": "videos",
@@ -2059,7 +2059,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 62
+    "new_commits": 63
   },
   {
     "name": "onboarding",
@@ -2548,7 +2548,7 @@
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
       }
     ],
-    "new_commits": 32
+    "new_commits": 33
   },
   {
     "name": "switchboard-plug-datetime",
@@ -3610,7 +3610,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.0.1"
       }
     ],
-    "new_commits": 50
+    "new_commits": 51
   },
   {
     "name": "wingpanel-indicator-session",
@@ -4275,7 +4275,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 1972
+    "new_commits": 1975
   },
   {
     "name": "fonts",
