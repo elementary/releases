@@ -1390,7 +1390,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 93
+    "new_commits": 95
   },
   {
     "name": "videos",
@@ -2417,7 +2417,7 @@
         "href": "https://github.com/elementary/switchboard-plug-about/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 62
+    "new_commits": 63
   },
   {
     "name": "switchboard-plug-parental-controls",
@@ -3313,7 +3313,7 @@
         "href": "https://github.com/elementary/switchboard-plug-applications/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 180
+    "new_commits": 185
   },
   {
     "name": "calculator",
@@ -3789,7 +3789,7 @@
         "href": "https://github.com/elementary/camera/releases/tag/1.0"
       }
     ],
-    "new_commits": 50
+    "new_commits": 56
   },
   {
     "name": "switchboard-plug-a11y",
