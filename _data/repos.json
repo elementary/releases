@@ -496,7 +496,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 11
+    "new_commits": 13
   },
   {
     "name": "houston",
@@ -1245,7 +1245,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 65
+    "new_commits": 66
   },
   {
     "name": "wingpanel-indicator-nightlight",
@@ -3892,7 +3892,7 @@
         "href": "https://github.com/elementary/music/releases/tag/0.4.0.3"
       }
     ],
-    "new_commits": 57
+    "new_commits": 58
   },
   {
     "name": "stylesheet",
