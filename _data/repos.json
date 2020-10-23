@@ -1722,7 +1722,7 @@
         "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 25
+    "new_commits": 26
   },
   {
     "name": "code",
@@ -2141,7 +2141,7 @@
         "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.0"
       }
     ],
-    "new_commits": 24
+    "new_commits": 26
   },
   {
     "name": "switchboard-plug-printers",
@@ -2272,7 +2272,7 @@
         "href": "https://github.com/elementary/greeter/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 34
+    "new_commits": 36
   },
   {
     "name": "switchboard-plug-mouse-touchpad",
@@ -4058,7 +4058,7 @@
         "href": "https://github.com/elementary/screenshot/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 103
+    "new_commits": 107
   },
   {
     "name": "default-settings",
