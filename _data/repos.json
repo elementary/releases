@@ -1390,7 +1390,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 97
+    "new_commits": 98
   },
   {
     "name": "videos",
@@ -3789,7 +3789,7 @@
         "href": "https://github.com/elementary/camera/releases/tag/1.0"
       }
     ],
-    "new_commits": 58
+    "new_commits": 59
   },
   {
     "name": "switchboard-plug-a11y",
@@ -4058,7 +4058,7 @@
         "href": "https://github.com/elementary/screenshot/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 107
+    "new_commits": 112
   },
   {
     "name": "default-settings",
