@@ -1245,7 +1245,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 79
+    "new_commits": 80
   },
   {
     "name": "wingpanel-indicator-nightlight",
@@ -4140,7 +4140,7 @@
         "href": "https://github.com/elementary/wallpapers/releases/tag/5.0"
       }
     ],
-    "new_commits": 14
+    "new_commits": 15
   },
   {
     "name": "actions",
