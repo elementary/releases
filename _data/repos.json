@@ -3182,7 +3182,7 @@
         "href": "https://github.com/elementary/capnet-assist/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 29
+    "new_commits": 30
   },
   {
     "name": "photos",
@@ -3610,7 +3610,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.0.1"
       }
     ],
-    "new_commits": 58
+    "new_commits": 59
   },
   {
     "name": "wingpanel-indicator-session",
