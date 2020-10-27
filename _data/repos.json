@@ -170,7 +170,7 @@
         "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 12
+    "new_commits": 16
   },
   {
     "name": "switchboard-plug-network",
@@ -1245,7 +1245,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 80
+    "new_commits": 83
   },
   {
     "name": "wingpanel-indicator-nightlight",
@@ -3313,7 +3313,7 @@
         "href": "https://github.com/elementary/switchboard-plug-applications/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 204
+    "new_commits": 205
   },
   {
     "name": "calculator",
@@ -3789,7 +3789,7 @@
         "href": "https://github.com/elementary/camera/releases/tag/1.0"
       }
     ],
-    "new_commits": 59
+    "new_commits": 61
   },
   {
     "name": "switchboard-plug-a11y",
@@ -4058,7 +4058,7 @@
         "href": "https://github.com/elementary/screenshot/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 112
+    "new_commits": 115
   },
   {
     "name": "default-settings",
