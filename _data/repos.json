@@ -101,7 +101,7 @@
         "href": "https://github.com/elementary/calendar/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 34
+    "new_commits": 36
   },
   {
     "name": "switchboard-plug-bluetooth",
@@ -2838,7 +2838,7 @@
         "href": "https://github.com/elementary/icons/releases/tag/4.0.1.1"
       }
     ],
-    "new_commits": 35
+    "new_commits": 37
   },
   {
     "name": "gala",
@@ -3610,7 +3610,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.0.1"
       }
     ],
-    "new_commits": 60
+    "new_commits": 63
   },
   {
     "name": "wingpanel-indicator-session",
