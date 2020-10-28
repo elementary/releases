@@ -1466,7 +1466,7 @@
         "href": "https://github.com/elementary/videos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 27
+    "new_commits": 28
   },
   {
     "name": "wingpanel-indicator-datetime",
@@ -2548,7 +2548,7 @@
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
       }
     ],
-    "new_commits": 38
+    "new_commits": 39
   },
   {
     "name": "switchboard-plug-datetime",
@@ -3500,7 +3500,7 @@
         "href": "https://github.com/elementary/terminal/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 100
+    "new_commits": 101
   },
   {
     "name": "wingpanel-indicator-keyboard",
