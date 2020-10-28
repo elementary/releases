@@ -170,7 +170,7 @@
         "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 16
+    "new_commits": 46
   },
   {
     "name": "switchboard-plug-network",
@@ -879,7 +879,7 @@
         "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/0.1"
       }
     ],
-    "new_commits": 13
+    "new_commits": 14
   },
   {
     "name": "switchboard-plug-keyboard",
@@ -927,7 +927,7 @@
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 103
+    "new_commits": 105
   },
   {
     "name": "switchboard-plug-useraccounts",
@@ -1245,7 +1245,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 83
+    "new_commits": 86
   },
   {
     "name": "wingpanel-indicator-nightlight",
