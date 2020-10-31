@@ -927,7 +927,7 @@
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 107
+    "new_commits": 108
   },
   {
     "name": "switchboard-plug-useraccounts",
@@ -1245,7 +1245,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 97
+    "new_commits": 98
   },
   {
     "name": "wingpanel-indicator-nightlight",
@@ -1791,7 +1791,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 124
+    "new_commits": 126
   },
   {
     "name": "switchboard-plug-notifications",
@@ -3258,7 +3258,7 @@
         "href": "https://github.com/elementary/photos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 52
+    "new_commits": 53
   },
   {
     "name": "switchboard-plug-applications",
@@ -3892,7 +3892,7 @@
         "href": "https://github.com/elementary/music/releases/tag/0.4.0.3"
       }
     ],
-    "new_commits": 63
+    "new_commits": 64
   },
   {
     "name": "stylesheet",
