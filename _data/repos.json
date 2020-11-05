@@ -170,7 +170,7 @@
         "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 87
+    "new_commits": 88
   },
   {
     "name": "switchboard-plug-network",
@@ -1106,7 +1106,7 @@
         "href": "https://github.com/elementary/os/releases/tag/5.1.1"
       }
     ],
-    "new_commits": 2
+    "new_commits": 3
   },
   {
     "name": "files",
