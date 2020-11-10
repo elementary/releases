@@ -101,7 +101,7 @@
         "href": "https://github.com/elementary/calendar/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 52
+    "new_commits": 53
   },
   {
     "name": "switchboard-plug-bluetooth",
@@ -1466,7 +1466,7 @@
         "href": "https://github.com/elementary/videos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 30
+    "new_commits": 33
   },
   {
     "name": "wingpanel-indicator-datetime",
@@ -1791,7 +1791,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 128
+    "new_commits": 129
   },
   {
     "name": "switchboard-plug-notifications",
@@ -2100,7 +2100,7 @@
         "href": "https://github.com/elementary/onboarding/releases/tag/1.0"
       }
     ],
-    "new_commits": 77
+    "new_commits": 78
   },
   {
     "name": "shortcut-overlay",
@@ -3258,7 +3258,7 @@
         "href": "https://github.com/elementary/photos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 61
+    "new_commits": 62
   },
   {
     "name": "switchboard-plug-applications",
@@ -4322,7 +4322,7 @@
         "href": "https://github.com/elementary/mail/releases/tag/1.0.6"
       }
     ],
-    "new_commits": 267
+    "new_commits": 268
   },
   {
     "name": "press-kit",
