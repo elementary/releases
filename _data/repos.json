@@ -1106,7 +1106,7 @@
         "href": "https://github.com/elementary/os/releases/tag/5.1.1"
       }
     ],
-    "new_commits": 3
+    "new_commits": 4
   },
   {
     "name": "files",
@@ -4092,7 +4092,7 @@
         "href": "https://github.com/elementary/default-settings/releases/tag/5.0"
       }
     ],
-    "new_commits": 27
+    "new_commits": 28
   },
   {
     "name": "wallpapers",
