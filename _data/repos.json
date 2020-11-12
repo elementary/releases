@@ -1245,7 +1245,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 118
+    "new_commits": 122
   },
   {
     "name": "wingpanel-indicator-nightlight",
@@ -1466,7 +1466,7 @@
         "href": "https://github.com/elementary/videos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 33
+    "new_commits": 38
   },
   {
     "name": "wingpanel-indicator-datetime",
@@ -2417,7 +2417,7 @@
         "href": "https://github.com/elementary/switchboard-plug-about/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 81
+    "new_commits": 82
   },
   {
     "name": "switchboard-plug-parental-controls",
