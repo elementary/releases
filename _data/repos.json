@@ -927,7 +927,7 @@
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 119
+    "new_commits": 120
   },
   {
     "name": "switchboard-plug-useraccounts",
@@ -3892,7 +3892,7 @@
         "href": "https://github.com/elementary/music/releases/tag/0.4.0.3"
       }
     ],
-    "new_commits": 65
+    "new_commits": 66
   },
   {
     "name": "stylesheet",
