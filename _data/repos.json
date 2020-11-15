@@ -2417,7 +2417,7 @@
         "href": "https://github.com/elementary/switchboard-plug-about/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 82
+    "new_commits": 86
   },
   {
     "name": "switchboard-plug-parental-controls",
@@ -4092,7 +4092,7 @@
         "href": "https://github.com/elementary/default-settings/releases/tag/5.0"
       }
     ],
-    "new_commits": 29
+    "new_commits": 30
   },
   {
     "name": "wallpapers",
