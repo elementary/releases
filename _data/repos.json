@@ -496,7 +496,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 41
+    "new_commits": 49
   },
   {
     "name": "houston",
@@ -3134,7 +3134,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 24
+    "new_commits": 31
   },
   {
     "name": "capnet-assist",
