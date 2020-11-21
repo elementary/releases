@@ -101,7 +101,7 @@
         "href": "https://github.com/elementary/calendar/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 59
+    "new_commits": 61
   },
   {
     "name": "switchboard-plug-bluetooth",
@@ -1839,7 +1839,7 @@
         "href": "https://github.com/elementary/switchboard-plug-notifications/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 15
+    "new_commits": 16
   },
   {
     "name": "switchboard-plug-locale",
@@ -2334,7 +2334,7 @@
         "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 67
+    "new_commits": 68
   },
   {
     "name": "switchboard-plug-about",
@@ -2665,7 +2665,7 @@
         "href": "https://github.com/elementary/switchboard-plug-security-privacy/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 43
+    "new_commits": 44
   },
   {
     "name": "switchboard-plug-power",
@@ -3734,7 +3734,7 @@
         "href": "https://github.com/elementary/switchboard-plug-sharing/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 36
+    "new_commits": 37
   },
   {
     "name": "camera",
