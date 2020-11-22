@@ -2417,7 +2417,7 @@
         "href": "https://github.com/elementary/switchboard-plug-about/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 125
+    "new_commits": 127
   },
   {
     "name": "switchboard-plug-parental-controls",
@@ -3031,7 +3031,7 @@
         "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
       }
     ],
-    "new_commits": 235
+    "new_commits": 237
   },
   {
     "name": "pantheon-agent-geoclue2",
@@ -3313,7 +3313,7 @@
         "href": "https://github.com/elementary/switchboard-plug-applications/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 214
+    "new_commits": 215
   },
   {
     "name": "calculator",
