@@ -496,7 +496,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 49
+    "new_commits": 54
   },
   {
     "name": "houston",
@@ -2100,7 +2100,7 @@
         "href": "https://github.com/elementary/onboarding/releases/tag/1.0"
       }
     ],
-    "new_commits": 89
+    "new_commits": 90
   },
   {
     "name": "shortcut-overlay",
@@ -3789,7 +3789,7 @@
         "href": "https://github.com/elementary/camera/releases/tag/1.0"
       }
     ],
-    "new_commits": 85
+    "new_commits": 89
   },
   {
     "name": "switchboard-plug-a11y",
