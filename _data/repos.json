@@ -2059,7 +2059,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 70
+    "new_commits": 71
   },
   {
     "name": "onboarding",
@@ -2610,7 +2610,7 @@
         "href": "https://github.com/elementary/switchboard-plug-datetime/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 25
+    "new_commits": 26
   },
   {
     "name": "switchboard-plug-security-privacy",
@@ -3734,7 +3734,7 @@
         "href": "https://github.com/elementary/switchboard-plug-sharing/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 37
+    "new_commits": 38
   },
   {
     "name": "camera",
@@ -4058,7 +4058,7 @@
         "href": "https://github.com/elementary/screenshot/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 117
+    "new_commits": 118
   },
   {
     "name": "default-settings",
@@ -4275,7 +4275,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 2080
+    "new_commits": 2084
   },
   {
     "name": "fonts",
