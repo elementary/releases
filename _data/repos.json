@@ -2272,7 +2272,7 @@
         "href": "https://github.com/elementary/greeter/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 38
+    "new_commits": 39
   },
   {
     "name": "switchboard-plug-mouse-touchpad",
@@ -3707,7 +3707,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-session/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 42
+    "new_commits": 43
   },
   {
     "name": "switchboard-plug-sharing",
