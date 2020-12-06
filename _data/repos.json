@@ -101,7 +101,7 @@
         "href": "https://github.com/elementary/calendar/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 62
+    "new_commits": 63
   },
   {
     "name": "switchboard-plug-bluetooth",
@@ -496,7 +496,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 54
+    "new_commits": 56
   },
   {
     "name": "houston",
@@ -1466,7 +1466,7 @@
         "href": "https://github.com/elementary/videos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 43
+    "new_commits": 44
   },
   {
     "name": "wingpanel-indicator-datetime",
@@ -2872,7 +2872,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 122
+    "new_commits": 123
   },
   {
     "name": "switchboard",
@@ -4193,7 +4193,7 @@
         "href": "https://github.com/elementary/feedback/releases/tag/1.0"
       }
     ],
-    "new_commits": 373
+    "new_commits": 374
   },
   {
     "name": "switchboard-plug-onlineaccounts",
