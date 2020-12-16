@@ -239,7 +239,7 @@
         "href": "https://github.com/elementary/switchboard-plug-network/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 20
+    "new_commits": 26
   },
   {
     "name": "wingpanel-indicator-sound",
@@ -2210,7 +2210,7 @@
         "href": "https://github.com/elementary/switchboard-plug-printers/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 19
+    "new_commits": 20
   },
   {
     "name": "greeter",
@@ -3500,7 +3500,7 @@
         "href": "https://github.com/elementary/terminal/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 116
+    "new_commits": 117
   },
   {
     "name": "wingpanel-indicator-keyboard",
@@ -3548,7 +3548,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-keyboard/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 41
+    "new_commits": 43
   },
   {
     "name": "wingpanel-indicator-notifications",
