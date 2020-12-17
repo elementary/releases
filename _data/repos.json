@@ -239,7 +239,7 @@
         "href": "https://github.com/elementary/switchboard-plug-network/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 26
+    "new_commits": 29
   },
   {
     "name": "wingpanel-indicator-sound",
@@ -3610,7 +3610,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.0.1"
       }
     ],
-    "new_commits": 85
+    "new_commits": 86
   },
   {
     "name": "wingpanel-indicator-session",
