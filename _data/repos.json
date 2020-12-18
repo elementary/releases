@@ -496,7 +496,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 72
+    "new_commits": 78
   },
   {
     "name": "houston",
@@ -2955,7 +2955,7 @@
         "href": "https://github.com/elementary/switchboard/releases/tag/2.3.0"
       }
     ],
-    "new_commits": 42
+    "new_commits": 44
   },
   {
     "name": "switchboard-plug-pantheon-shell",
