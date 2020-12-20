@@ -1390,7 +1390,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 134
+    "new_commits": 135
   },
   {
     "name": "videos",
@@ -1791,7 +1791,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 161
+    "new_commits": 162
   },
   {
     "name": "switchboard-plug-notifications",
