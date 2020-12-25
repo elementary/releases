@@ -170,7 +170,7 @@
         "href": "https://github.com/elementary/calendar/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 69
+    "new_commits": 70
   },
   {
     "name": "switchboard-plug-bluetooth",
@@ -1314,7 +1314,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 145
+    "new_commits": 146
   },
   {
     "name": "wingpanel-indicator-nightlight",
@@ -2128,7 +2128,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 81
+    "new_commits": 87
   },
   {
     "name": "onboarding",
@@ -3555,7 +3555,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-keyboard/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 46
+    "new_commits": 47
   },
   {
     "name": "wingpanel-indicator-notifications",
