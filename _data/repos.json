@@ -170,7 +170,7 @@
         "href": "https://github.com/elementary/calendar/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 70
+    "new_commits": 73
   },
   {
     "name": "switchboard-plug-bluetooth",
@@ -239,7 +239,7 @@
         "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 94
+    "new_commits": 95
   },
   {
     "name": "switchboard-plug-network",
@@ -384,7 +384,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.0.4"
       }
     ],
-    "new_commits": 21
+    "new_commits": 22
   },
   {
     "name": "appcenter",
@@ -1120,7 +1120,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-power/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 30
+    "new_commits": 31
   },
   {
     "name": "os",
@@ -1355,7 +1355,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-nightlight/releases/tag/2.0"
       }
     ],
-    "new_commits": 12
+    "new_commits": 13
   },
   {
     "name": "granite",
@@ -1459,7 +1459,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 135
+    "new_commits": 136
   },
   {
     "name": "videos",
@@ -1618,7 +1618,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 38
+    "new_commits": 39
   },
   {
     "name": "wingpanel",
@@ -2073,7 +2073,7 @@
         "href": "https://github.com/elementary/sideload/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 72
+    "new_commits": 73
   },
   {
     "name": "wingpanel-indicator-network",
@@ -2128,7 +2128,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 87
+    "new_commits": 89
   },
   {
     "name": "onboarding",
@@ -2169,7 +2169,7 @@
         "href": "https://github.com/elementary/onboarding/releases/tag/1.0"
       }
     ],
-    "new_commits": 92
+    "new_commits": 93
   },
   {
     "name": "shortcut-overlay",
@@ -2403,7 +2403,7 @@
         "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 133
+    "new_commits": 134
   },
   {
     "name": "switchboard-plug-about",
@@ -2617,7 +2617,7 @@
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
       }
     ],
-    "new_commits": 47
+    "new_commits": 48
   },
   {
     "name": "switchboard-plug-datetime",
@@ -3203,7 +3203,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 35
+    "new_commits": 37
   },
   {
     "name": "capnet-assist",
@@ -3382,7 +3382,7 @@
         "href": "https://github.com/elementary/switchboard-plug-applications/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 221
+    "new_commits": 222
   },
   {
     "name": "terminal",
@@ -3555,7 +3555,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-keyboard/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 47
+    "new_commits": 49
   },
   {
     "name": "wingpanel-indicator-notifications",
@@ -3617,7 +3617,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.0.1"
       }
     ],
-    "new_commits": 89
+    "new_commits": 91
   },
   {
     "name": "wingpanel-indicator-session",
@@ -3714,7 +3714,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-session/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 45
+    "new_commits": 46
   },
   {
     "name": "switchboard-plug-sharing",
@@ -4200,7 +4200,7 @@
         "href": "https://github.com/elementary/feedback/releases/tag/1.0"
       }
     ],
-    "new_commits": 377
+    "new_commits": 378
   },
   {
     "name": "switchboard-plug-onlineaccounts",
