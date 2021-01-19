@@ -425,7 +425,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 3
+    "new_commits": 4
   },
   {
     "name": "calculator",
@@ -4324,7 +4324,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 2160
+    "new_commits": 2162
   },
   {
     "name": "fonts",
