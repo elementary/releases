@@ -1998,7 +1998,7 @@
         "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 29
+    "new_commits": 31
   },
   {
     "name": "code",
@@ -3093,7 +3093,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 138
+    "new_commits": 139
   },
   {
     "name": "switchboard",
@@ -3341,7 +3341,7 @@
         "href": "https://github.com/elementary/capnet-assist/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 35
+    "new_commits": 36
   },
   {
     "name": "photos",
