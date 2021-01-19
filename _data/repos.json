@@ -1666,7 +1666,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 140
+    "new_commits": 141
   },
   {
     "name": "videos",
@@ -2225,7 +2225,7 @@
         "href": "https://github.com/elementary/sideload/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 75
+    "new_commits": 76
   },
   {
     "name": "wingpanel-indicator-network",
@@ -2362,7 +2362,7 @@
         "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.0"
       }
     ],
-    "new_commits": 34
+    "new_commits": 35
   },
   {
     "name": "switchboard-plug-printers",
@@ -3293,7 +3293,7 @@
         "href": "https://github.com/elementary/pantheon-agent-geoclue2/releases/tag/1.0"
       }
     ],
-    "new_commits": 25
+    "new_commits": 26
   },
   {
     "name": "capnet-assist",
