@@ -667,7 +667,7 @@
         "href": "https://github.com/elementary/switchboard-plug-network/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 36
+    "new_commits": 37
   },
   {
     "name": "appcenter",
@@ -2067,7 +2067,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 180
+    "new_commits": 181
   },
   {
     "name": "switchboard-plug-notifications",
@@ -2115,7 +2115,7 @@
         "href": "https://github.com/elementary/switchboard-plug-notifications/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 21
+    "new_commits": 22
   },
   {
     "name": "switchboard-plug-display",
@@ -2191,7 +2191,7 @@
         "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 64
+    "new_commits": 65
   },
   {
     "name": "sideload",
@@ -2321,7 +2321,7 @@
         "href": "https://github.com/elementary/onboarding/releases/tag/1.0"
       }
     ],
-    "new_commits": 100
+    "new_commits": 101
   },
   {
     "name": "shortcut-overlay",
@@ -2555,7 +2555,7 @@
         "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 140
+    "new_commits": 141
   },
   {
     "name": "switchboard-plug-about",
@@ -2886,7 +2886,7 @@
         "href": "https://github.com/elementary/switchboard-plug-security-privacy/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 49
+    "new_commits": 50
   },
   {
     "name": "switchboard-plug-power",
@@ -3597,7 +3597,7 @@
         "href": "https://github.com/elementary/terminal/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 124
+    "new_commits": 125
   },
   {
     "name": "wingpanel-indicator-notifications",
@@ -3783,7 +3783,7 @@
         "href": "https://github.com/elementary/switchboard-plug-sharing/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 43
+    "new_commits": 44
   },
   {
     "name": "camera",
