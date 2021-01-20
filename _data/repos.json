@@ -3838,7 +3838,7 @@
         "href": "https://github.com/elementary/camera/releases/tag/1.0"
       }
     ],
-    "new_commits": 104
+    "new_commits": 106
   },
   {
     "name": "switchboard-plug-a11y",
@@ -4324,7 +4324,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 2177
+    "new_commits": 2181
   },
   {
     "name": "fonts",
