@@ -494,7 +494,7 @@
         "href": "https://github.com/elementary/calculator/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 17
+    "new_commits": 18
   },
   {
     "name": "calendar",
@@ -2225,7 +2225,7 @@
         "href": "https://github.com/elementary/sideload/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 77
+    "new_commits": 78
   },
   {
     "name": "wingpanel-indicator-network",
@@ -2362,7 +2362,7 @@
         "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.0"
       }
     ],
-    "new_commits": 35
+    "new_commits": 36
   },
   {
     "name": "switchboard-plug-printers",
@@ -3093,7 +3093,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 143
+    "new_commits": 144
   },
   {
     "name": "switchboard",
@@ -3341,7 +3341,7 @@
         "href": "https://github.com/elementary/capnet-assist/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 38
+    "new_commits": 40
   },
   {
     "name": "photos",
@@ -4242,7 +4242,7 @@
         "href": "https://github.com/elementary/feedback/releases/tag/1.0"
       }
     ],
-    "new_commits": 382
+    "new_commits": 383
   },
   {
     "name": "switchboard-plug-onlineaccounts",
