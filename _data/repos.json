@@ -848,7 +848,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 94
+    "new_commits": 96
   },
   {
     "name": "houston",
@@ -2321,7 +2321,7 @@
         "href": "https://github.com/elementary/onboarding/releases/tag/1.0"
       }
     ],
-    "new_commits": 101
+    "new_commits": 102
   },
   {
     "name": "shortcut-overlay",
@@ -3838,7 +3838,7 @@
         "href": "https://github.com/elementary/camera/releases/tag/1.0"
       }
     ],
-    "new_commits": 107
+    "new_commits": 108
   },
   {
     "name": "switchboard-plug-a11y",
@@ -3941,7 +3941,7 @@
         "href": "https://github.com/elementary/music/releases/tag/0.4.0.3"
       }
     ],
-    "new_commits": 76
+    "new_commits": 78
   },
   {
     "name": "stylesheet",
@@ -4038,7 +4038,7 @@
         "href": "https://github.com/elementary/stylesheet/releases/tag/5.0.4"
       }
     ],
-    "new_commits": 170
+    "new_commits": 171
   },
   {
     "name": "screenshot",
@@ -4371,7 +4371,7 @@
         "href": "https://github.com/elementary/mail/releases/tag/1.0.6"
       }
     ],
-    "new_commits": 301
+    "new_commits": 302
   },
   {
     "name": "press-kit",
