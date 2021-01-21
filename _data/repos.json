@@ -425,7 +425,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 13
+    "new_commits": 14
   },
   {
     "name": "calculator",
@@ -598,7 +598,7 @@
         "href": "https://github.com/elementary/calendar/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 77
+    "new_commits": 78
   },
   {
     "name": "switchboard-plug-network",
@@ -848,7 +848,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 90
+    "new_commits": 94
   },
   {
     "name": "houston",
@@ -2067,7 +2067,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 181
+    "new_commits": 183
   },
   {
     "name": "switchboard-plug-notifications",
@@ -2948,7 +2948,7 @@
         "href": "https://github.com/elementary/switchboard-plug-power/releases/tag/0.3.1"
       }
     ],
-    "new_commits": 45
+    "new_commits": 49
   },
   {
     "name": "icons",
@@ -3093,7 +3093,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 145
+    "new_commits": 146
   },
   {
     "name": "switchboard",
@@ -3417,7 +3417,7 @@
         "href": "https://github.com/elementary/photos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 79
+    "new_commits": 80
   },
   {
     "name": "switchboard-plug-applications",
@@ -3756,7 +3756,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-session/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 52
+    "new_commits": 53
   },
   {
     "name": "switchboard-plug-sharing",
