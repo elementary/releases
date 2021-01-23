@@ -2831,7 +2831,7 @@
         "href": "https://github.com/elementary/switchboard-plug-datetime/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 34
+    "new_commits": 35
   },
   {
     "name": "switchboard-plug-security-privacy",
@@ -2948,7 +2948,7 @@
         "href": "https://github.com/elementary/switchboard-plug-power/releases/tag/0.3.1"
       }
     ],
-    "new_commits": 54
+    "new_commits": 55
   },
   {
     "name": "icons",
@@ -4324,7 +4324,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 2190
+    "new_commits": 2192
   },
   {
     "name": "fonts",
