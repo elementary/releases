@@ -848,7 +848,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 100
+    "new_commits": 101
   },
   {
     "name": "houston",
@@ -1521,7 +1521,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 158
+    "new_commits": 159
   },
   {
     "name": "wingpanel-indicator-nightlight",
@@ -2321,7 +2321,7 @@
         "href": "https://github.com/elementary/onboarding/releases/tag/1.0"
       }
     ],
-    "new_commits": 103
+    "new_commits": 104
   },
   {
     "name": "shortcut-overlay",
@@ -3417,7 +3417,7 @@
         "href": "https://github.com/elementary/photos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 81
+    "new_commits": 82
   },
   {
     "name": "switchboard-plug-applications",
@@ -4371,7 +4371,7 @@
         "href": "https://github.com/elementary/mail/releases/tag/1.0.6"
       }
     ],
-    "new_commits": 302
+    "new_commits": 303
   },
   {
     "name": "press-kit",
