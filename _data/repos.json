@@ -2280,7 +2280,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 96
+    "new_commits": 97
   },
   {
     "name": "onboarding",
@@ -3941,7 +3941,7 @@
         "href": "https://github.com/elementary/music/releases/tag/0.4.0.3"
       }
     ],
-    "new_commits": 81
+    "new_commits": 82
   },
   {
     "name": "stylesheet",
@@ -4324,7 +4324,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 2278
+    "new_commits": 2279
   },
   {
     "name": "fonts",
