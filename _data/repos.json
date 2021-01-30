@@ -848,7 +848,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 104
+    "new_commits": 108
   },
   {
     "name": "houston",
@@ -1666,7 +1666,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 144
+    "new_commits": 145
   },
   {
     "name": "videos",
@@ -3341,7 +3341,7 @@
         "href": "https://github.com/elementary/capnet-assist/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 40
+    "new_commits": 41
   },
   {
     "name": "photos",
