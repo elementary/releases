@@ -1929,7 +1929,7 @@
         "href": "https://github.com/elementary/wingpanel/releases/tag/2.0.3"
       }
     ],
-    "new_commits": 24
+    "new_commits": 25
   },
   {
     "name": "pantheon-agent-polkit",
@@ -3417,7 +3417,7 @@
         "href": "https://github.com/elementary/photos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 89
+    "new_commits": 93
   },
   {
     "name": "switchboard-plug-applications",
