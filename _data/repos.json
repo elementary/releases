@@ -2191,7 +2191,7 @@
         "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 66
+    "new_commits": 67
   },
   {
     "name": "sideload",
@@ -2431,7 +2431,7 @@
         "href": "https://github.com/elementary/switchboard-plug-printers/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 31
+    "new_commits": 32
   },
   {
     "name": "greeter",
@@ -3252,7 +3252,7 @@
         "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
       }
     ],
-    "new_commits": 265
+    "new_commits": 266
   },
   {
     "name": "pantheon-agent-geoclue2",
