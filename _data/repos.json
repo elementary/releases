@@ -52,7 +52,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-keyboard/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 10
+    "new_commits": 11
   },
   {
     "name": "wingpanel-indicator-sound",
@@ -1327,7 +1327,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-power/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 39
+    "new_commits": 40
   },
   {
     "name": "os",
@@ -2280,7 +2280,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 97
+    "new_commits": 98
   },
   {
     "name": "onboarding",
@@ -3659,7 +3659,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.0.1"
       }
     ],
-    "new_commits": 102
+    "new_commits": 103
   },
   {
     "name": "wingpanel-indicator-session",
