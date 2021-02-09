@@ -848,7 +848,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 115
+    "new_commits": 116
   },
   {
     "name": "houston",
@@ -2067,7 +2067,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 199
+    "new_commits": 200
   },
   {
     "name": "switchboard-plug-notifications",
@@ -2638,7 +2638,7 @@
         "href": "https://github.com/elementary/switchboard-plug-about/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 247
+    "new_commits": 248
   },
   {
     "name": "switchboard-plug-parental-controls",
@@ -3941,7 +3941,7 @@
         "href": "https://github.com/elementary/music/releases/tag/0.4.0.3"
       }
     ],
-    "new_commits": 84
+    "new_commits": 85
   },
   {
     "name": "stylesheet",
