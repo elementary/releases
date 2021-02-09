@@ -425,7 +425,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 16
+    "new_commits": 17
   },
   {
     "name": "calculator",
@@ -3941,7 +3941,7 @@
         "href": "https://github.com/elementary/music/releases/tag/0.4.0.3"
       }
     ],
-    "new_commits": 85
+    "new_commits": 86
   },
   {
     "name": "stylesheet",
