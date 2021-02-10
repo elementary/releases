@@ -1327,7 +1327,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-power/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 40
+    "new_commits": 41
   },
   {
     "name": "os",
@@ -2769,7 +2769,7 @@
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
       }
     ],
-    "new_commits": 74
+    "new_commits": 75
   },
   {
     "name": "switchboard-plug-datetime",
@@ -3093,7 +3093,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 154
+    "new_commits": 155
   },
   {
     "name": "switchboard",
