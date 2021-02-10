@@ -1666,7 +1666,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 147
+    "new_commits": 148
   },
   {
     "name": "videos",
@@ -1998,7 +1998,7 @@
         "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 32
+    "new_commits": 33
   },
   {
     "name": "code",
@@ -3417,7 +3417,7 @@
         "href": "https://github.com/elementary/photos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 104
+    "new_commits": 105
   },
   {
     "name": "switchboard-plug-applications",
