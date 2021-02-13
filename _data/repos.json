@@ -211,7 +211,7 @@
         "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 8
+    "new_commits": 9
   },
   {
     "name": "switchboard-plug-sound",
@@ -667,7 +667,7 @@
         "href": "https://github.com/elementary/switchboard-plug-network/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 40
+    "new_commits": 41
   },
   {
     "name": "appcenter",
@@ -1272,7 +1272,7 @@
         "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 31
+    "new_commits": 32
   },
   {
     "name": "wingpanel-indicator-power",
@@ -2638,7 +2638,7 @@
         "href": "https://github.com/elementary/switchboard-plug-about/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 261
+    "new_commits": 262
   },
   {
     "name": "switchboard-plug-parental-controls",
@@ -2672,7 +2672,7 @@
         "href": "https://github.com/elementary/switchboard-plug-parental-controls/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 48
+    "new_commits": 49
   },
   {
     "name": "applications-menu",
@@ -2948,7 +2948,7 @@
         "href": "https://github.com/elementary/switchboard-plug-power/releases/tag/0.3.1"
       }
     ],
-    "new_commits": 60
+    "new_commits": 61
   },
   {
     "name": "icons",
@@ -3872,7 +3872,7 @@
         "href": "https://github.com/elementary/switchboard-plug-a11y/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 49
+    "new_commits": 50
   },
   {
     "name": "music",
@@ -4371,7 +4371,7 @@
         "href": "https://github.com/elementary/mail/releases/tag/1.0.6"
       }
     ],
-    "new_commits": 314
+    "new_commits": 315
   },
   {
     "name": "press-kit",
