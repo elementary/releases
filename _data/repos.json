@@ -494,7 +494,7 @@
         "href": "https://github.com/elementary/calculator/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 30
+    "new_commits": 31
   },
   {
     "name": "calendar",
@@ -2638,7 +2638,7 @@
         "href": "https://github.com/elementary/switchboard-plug-about/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 259
+    "new_commits": 261
   },
   {
     "name": "switchboard-plug-parental-controls",
@@ -3472,7 +3472,7 @@
         "href": "https://github.com/elementary/switchboard-plug-applications/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 227
+    "new_commits": 228
   },
   {
     "name": "terminal",
