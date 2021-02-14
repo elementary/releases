@@ -2067,7 +2067,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 204
+    "new_commits": 206
   },
   {
     "name": "switchboard-plug-notifications",
@@ -3417,7 +3417,7 @@
         "href": "https://github.com/elementary/photos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 105
+    "new_commits": 107
   },
   {
     "name": "switchboard-plug-applications",
