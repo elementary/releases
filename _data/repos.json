@@ -2191,7 +2191,7 @@
         "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 78
+    "new_commits": 79
   },
   {
     "name": "sideload",
@@ -3597,7 +3597,7 @@
         "href": "https://github.com/elementary/terminal/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 133
+    "new_commits": 134
   },
   {
     "name": "wingpanel-indicator-notifications",
