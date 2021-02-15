@@ -2431,7 +2431,7 @@
         "href": "https://github.com/elementary/switchboard-plug-printers/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 32
+    "new_commits": 33
   },
   {
     "name": "greeter",
@@ -3659,7 +3659,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.0.1"
       }
     ],
-    "new_commits": 104
+    "new_commits": 105
   },
   {
     "name": "wingpanel-indicator-session",
@@ -3941,7 +3941,7 @@
         "href": "https://github.com/elementary/music/releases/tag/0.4.0.3"
       }
     ],
-    "new_commits": 89
+    "new_commits": 90
   },
   {
     "name": "stylesheet",
@@ -4324,7 +4324,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 2340
+    "new_commits": 2344
   },
   {
     "name": "fonts",
