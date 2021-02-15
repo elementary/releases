@@ -848,7 +848,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 123
+    "new_commits": 124
   },
   {
     "name": "houston",
@@ -2067,7 +2067,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 206
+    "new_commits": 209
   },
   {
     "name": "switchboard-plug-notifications",
@@ -2886,7 +2886,7 @@
         "href": "https://github.com/elementary/switchboard-plug-security-privacy/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 54
+    "new_commits": 58
   },
   {
     "name": "switchboard-plug-power",
@@ -3417,7 +3417,7 @@
         "href": "https://github.com/elementary/photos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 107
+    "new_commits": 108
   },
   {
     "name": "switchboard-plug-applications",
@@ -4262,7 +4262,7 @@
         "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/2.0"
       }
     ],
-    "new_commits": 415
+    "new_commits": 416
   },
   {
     "name": "website",
@@ -4371,7 +4371,7 @@
         "href": "https://github.com/elementary/mail/releases/tag/1.0.6"
       }
     ],
-    "new_commits": 316
+    "new_commits": 317
   },
   {
     "name": "press-kit",
