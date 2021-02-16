@@ -3417,7 +3417,7 @@
         "href": "https://github.com/elementary/photos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 109
+    "new_commits": 113
   },
   {
     "name": "switchboard-plug-applications",
@@ -3597,7 +3597,7 @@
         "href": "https://github.com/elementary/terminal/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 134
+    "new_commits": 135
   },
   {
     "name": "wingpanel-indicator-notifications",
@@ -4324,7 +4324,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 2346
+    "new_commits": 2348
   },
   {
     "name": "fonts",
