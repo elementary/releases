@@ -848,7 +848,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 125
+    "new_commits": 128
   },
   {
     "name": "houston",
@@ -1521,7 +1521,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 176
+    "new_commits": 179
   },
   {
     "name": "wingpanel-indicator-nightlight",
@@ -1562,7 +1562,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-nightlight/releases/tag/2.0"
       }
     ],
-    "new_commits": 23
+    "new_commits": 26
   },
   {
     "name": "granite",
@@ -1929,7 +1929,7 @@
         "href": "https://github.com/elementary/wingpanel/releases/tag/2.0.3"
       }
     ],
-    "new_commits": 27
+    "new_commits": 30
   },
   {
     "name": "pantheon-agent-polkit",
@@ -2638,7 +2638,7 @@
         "href": "https://github.com/elementary/switchboard-plug-about/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 267
+    "new_commits": 272
   },
   {
     "name": "switchboard-plug-parental-controls",
@@ -3252,7 +3252,7 @@
         "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
       }
     ],
-    "new_commits": 271
+    "new_commits": 274
   },
   {
     "name": "pantheon-agent-geoclue2",
@@ -3659,7 +3659,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.0.1"
       }
     ],
-    "new_commits": 105
+    "new_commits": 108
   },
   {
     "name": "wingpanel-indicator-session",
@@ -4107,7 +4107,7 @@
         "href": "https://github.com/elementary/screenshot/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 128
+    "new_commits": 132
   },
   {
     "name": "default-settings",
