@@ -1666,7 +1666,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 153
+    "new_commits": 154
   },
   {
     "name": "videos",
@@ -2431,7 +2431,7 @@
         "href": "https://github.com/elementary/switchboard-plug-printers/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 35
+    "new_commits": 36
   },
   {
     "name": "greeter",
@@ -3417,7 +3417,7 @@
         "href": "https://github.com/elementary/photos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 116
+    "new_commits": 117
   },
   {
     "name": "switchboard-plug-applications",
