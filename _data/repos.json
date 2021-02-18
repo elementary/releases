@@ -1562,7 +1562,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-nightlight/releases/tag/2.0"
       }
     ],
-    "new_commits": 35
+    "new_commits": 38
   },
   {
     "name": "granite",
@@ -3659,7 +3659,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.0.1"
       }
     ],
-    "new_commits": 118
+    "new_commits": 119
   },
   {
     "name": "wingpanel-indicator-session",
