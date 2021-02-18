@@ -1203,7 +1203,7 @@
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 149
+    "new_commits": 150
   },
   {
     "name": "switchboard-plug-useraccounts",
@@ -1272,7 +1272,7 @@
         "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 33
+    "new_commits": 34
   },
   {
     "name": "wingpanel-indicator-power",
@@ -2948,7 +2948,7 @@
         "href": "https://github.com/elementary/switchboard-plug-power/releases/tag/0.3.1"
       }
     ],
-    "new_commits": 63
+    "new_commits": 64
   },
   {
     "name": "icons",
@@ -3417,7 +3417,7 @@
         "href": "https://github.com/elementary/photos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 117
+    "new_commits": 119
   },
   {
     "name": "switchboard-plug-applications",
@@ -4262,7 +4262,7 @@
         "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/2.0"
       }
     ],
-    "new_commits": 418
+    "new_commits": 419
   },
   {
     "name": "website",
