@@ -1521,7 +1521,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 195
+    "new_commits": 198
   },
   {
     "name": "wingpanel-indicator-nightlight",
@@ -2225,7 +2225,7 @@
         "href": "https://github.com/elementary/sideload/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 89
+    "new_commits": 90
   },
   {
     "name": "wingpanel-indicator-network",
@@ -2493,7 +2493,7 @@
         "href": "https://github.com/elementary/greeter/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 49
+    "new_commits": 50
   },
   {
     "name": "switchboard-plug-mouse-touchpad",
@@ -3093,7 +3093,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 159
+    "new_commits": 160
   },
   {
     "name": "switchboard",
@@ -3293,7 +3293,7 @@
         "href": "https://github.com/elementary/pantheon-agent-geoclue2/releases/tag/1.0"
       }
     ],
-    "new_commits": 28
+    "new_commits": 29
   },
   {
     "name": "capnet-assist",
