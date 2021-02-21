@@ -2638,7 +2638,7 @@
         "href": "https://github.com/elementary/switchboard-plug-about/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 286
+    "new_commits": 289
   },
   {
     "name": "switchboard-plug-parental-controls",
@@ -3176,7 +3176,7 @@
         "href": "https://github.com/elementary/switchboard/releases/tag/2.3.0"
       }
     ],
-    "new_commits": 53
+    "new_commits": 54
   },
   {
     "name": "switchboard-plug-pantheon-shell",
