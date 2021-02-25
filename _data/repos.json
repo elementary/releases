@@ -2831,7 +2831,7 @@
         "href": "https://github.com/elementary/switchboard-plug-datetime/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 63
+    "new_commits": 65
   },
   {
     "name": "switchboard-plug-security-privacy",
@@ -3341,7 +3341,7 @@
         "href": "https://github.com/elementary/capnet-assist/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 42
+    "new_commits": 43
   },
   {
     "name": "photos",
