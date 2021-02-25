@@ -135,7 +135,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.0.4"
       }
     ],
-    "new_commits": 12
+    "new_commits": 16
   },
   {
     "name": "switchboard-plug-bluetooth",
@@ -2067,7 +2067,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 216
+    "new_commits": 220
   },
   {
     "name": "switchboard-plug-notifications",
