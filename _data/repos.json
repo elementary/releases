@@ -1521,7 +1521,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 223
+    "new_commits": 224
   },
   {
     "name": "wingpanel-indicator-nightlight",
@@ -1666,7 +1666,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 156
+    "new_commits": 157
   },
   {
     "name": "videos",
@@ -2493,7 +2493,7 @@
         "href": "https://github.com/elementary/greeter/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 51
+    "new_commits": 52
   },
   {
     "name": "switchboard-plug-mouse-touchpad",
@@ -3093,7 +3093,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 162
+    "new_commits": 163
   },
   {
     "name": "switchboard",
