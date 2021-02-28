@@ -1327,7 +1327,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-power/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 83
+    "new_commits": 84
   },
   {
     "name": "os",
@@ -1521,7 +1521,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 247
+    "new_commits": 252
   },
   {
     "name": "wingpanel-indicator-nightlight",
