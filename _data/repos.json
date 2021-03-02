@@ -1666,7 +1666,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 170
+    "new_commits": 172
   },
   {
     "name": "videos",
@@ -1998,7 +1998,7 @@
         "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 39
+    "new_commits": 41
   },
   {
     "name": "code",
@@ -2225,7 +2225,7 @@
         "href": "https://github.com/elementary/sideload/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 97
+    "new_commits": 99
   },
   {
     "name": "wingpanel-indicator-network",
@@ -2362,7 +2362,7 @@
         "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.0"
       }
     ],
-    "new_commits": 43
+    "new_commits": 45
   },
   {
     "name": "switchboard-plug-printers",
@@ -2493,7 +2493,7 @@
         "href": "https://github.com/elementary/greeter/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 55
+    "new_commits": 56
   },
   {
     "name": "switchboard-plug-mouse-touchpad",
@@ -3093,7 +3093,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 175
+    "new_commits": 176
   },
   {
     "name": "switchboard",
@@ -3252,7 +3252,7 @@
         "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
       }
     ],
-    "new_commits": 291
+    "new_commits": 293
   },
   {
     "name": "pantheon-agent-geoclue2",
@@ -3293,7 +3293,7 @@
         "href": "https://github.com/elementary/pantheon-agent-geoclue2/releases/tag/1.0"
       }
     ],
-    "new_commits": 35
+    "new_commits": 37
   },
   {
     "name": "capnet-assist",
@@ -3341,7 +3341,7 @@
         "href": "https://github.com/elementary/capnet-assist/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 51
+    "new_commits": 53
   },
   {
     "name": "photos",
@@ -4242,7 +4242,7 @@
         "href": "https://github.com/elementary/feedback/releases/tag/1.0"
       }
     ],
-    "new_commits": 396
+    "new_commits": 398
   },
   {
     "name": "switchboard-plug-onlineaccounts",
