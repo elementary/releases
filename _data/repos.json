@@ -1666,7 +1666,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 174
+    "new_commits": 175
   },
   {
     "name": "videos",
@@ -3341,7 +3341,7 @@
         "href": "https://github.com/elementary/capnet-assist/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 54
+    "new_commits": 55
   },
   {
     "name": "photos",
@@ -3597,7 +3597,7 @@
         "href": "https://github.com/elementary/terminal/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 138
+    "new_commits": 142
   },
   {
     "name": "wingpanel-indicator-notifications",
