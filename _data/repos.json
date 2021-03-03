@@ -135,7 +135,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.0.4"
       }
     ],
-    "new_commits": 36
+    "new_commits": 37
   },
   {
     "name": "switchboard-plug-bluetooth",
@@ -494,7 +494,7 @@
         "href": "https://github.com/elementary/calculator/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 37
+    "new_commits": 42
   },
   {
     "name": "calendar",
@@ -1327,7 +1327,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-power/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 92
+    "new_commits": 93
   },
   {
     "name": "os",
@@ -1562,7 +1562,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-nightlight/releases/tag/2.0"
       }
     ],
-    "new_commits": 45
+    "new_commits": 46
   },
   {
     "name": "granite",
@@ -2769,7 +2769,7 @@
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
       }
     ],
-    "new_commits": 81
+    "new_commits": 82
   },
   {
     "name": "switchboard-plug-datetime",
@@ -4324,7 +4324,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 2501
+    "new_commits": 2503
   },
   {
     "name": "fonts",
