@@ -356,7 +356,7 @@
         "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 7
+    "new_commits": 8
   },
   {
     "name": "wingpanel-indicator-bluetooth",
@@ -2886,7 +2886,7 @@
         "href": "https://github.com/elementary/switchboard-plug-security-privacy/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 65
+    "new_commits": 66
   },
   {
     "name": "switchboard-plug-power",
@@ -2948,7 +2948,7 @@
         "href": "https://github.com/elementary/switchboard-plug-power/releases/tag/0.3.1"
       }
     ],
-    "new_commits": 66
+    "new_commits": 68
   },
   {
     "name": "icons",
