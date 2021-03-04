@@ -1562,7 +1562,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-nightlight/releases/tag/2.0"
       }
     ],
-    "new_commits": 46
+    "new_commits": 47
   },
   {
     "name": "granite",
@@ -2769,7 +2769,7 @@
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
       }
     ],
-    "new_commits": 82
+    "new_commits": 83
   },
   {
     "name": "switchboard-plug-datetime",
@@ -3659,7 +3659,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.0.1"
       }
     ],
-    "new_commits": 124
+    "new_commits": 125
   },
   {
     "name": "wingpanel-indicator-session",
