@@ -2831,7 +2831,7 @@
         "href": "https://github.com/elementary/switchboard-plug-datetime/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 73
+    "new_commits": 74
   },
   {
     "name": "switchboard-plug-security-privacy",
@@ -3252,7 +3252,7 @@
         "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
       }
     ],
-    "new_commits": 296
+    "new_commits": 298
   },
   {
     "name": "pantheon-agent-geoclue2",
