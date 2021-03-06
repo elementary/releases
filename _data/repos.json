@@ -3093,7 +3093,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 194
+    "new_commits": 200
   },
   {
     "name": "switchboard",
@@ -3341,7 +3341,7 @@
         "href": "https://github.com/elementary/capnet-assist/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 55
+    "new_commits": 57
   },
   {
     "name": "photos",
