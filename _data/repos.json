@@ -1666,7 +1666,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 184
+    "new_commits": 187
   },
   {
     "name": "videos",
@@ -2225,7 +2225,7 @@
         "href": "https://github.com/elementary/sideload/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 101
+    "new_commits": 102
   },
   {
     "name": "wingpanel-indicator-network",
@@ -4242,7 +4242,7 @@
         "href": "https://github.com/elementary/feedback/releases/tag/1.0"
       }
     ],
-    "new_commits": 404
+    "new_commits": 406
   },
   {
     "name": "switchboard-plug-onlineaccounts",
@@ -4371,7 +4371,7 @@
         "href": "https://github.com/elementary/mail/releases/tag/1.0.6"
       }
     ],
-    "new_commits": 326
+    "new_commits": 327
   },
   {
     "name": "press-kit",
