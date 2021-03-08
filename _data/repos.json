@@ -3093,7 +3093,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 201
+    "new_commits": 202
   },
   {
     "name": "switchboard",
@@ -3293,7 +3293,7 @@
         "href": "https://github.com/elementary/pantheon-agent-geoclue2/releases/tag/1.0"
       }
     ],
-    "new_commits": 38
+    "new_commits": 39
   },
   {
     "name": "capnet-assist",
@@ -3341,7 +3341,7 @@
         "href": "https://github.com/elementary/capnet-assist/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 58
+    "new_commits": 59
   },
   {
     "name": "photos",
@@ -4242,7 +4242,7 @@
         "href": "https://github.com/elementary/feedback/releases/tag/1.0"
       }
     ],
-    "new_commits": 406
+    "new_commits": 407
   },
   {
     "name": "switchboard-plug-onlineaccounts",
