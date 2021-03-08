@@ -356,7 +356,7 @@
         "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 9
+    "new_commits": 10
   },
   {
     "name": "wingpanel-indicator-bluetooth",
@@ -1203,7 +1203,7 @@
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 154
+    "new_commits": 155
   },
   {
     "name": "switchboard-plug-useraccounts",
@@ -1272,7 +1272,7 @@
         "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 38
+    "new_commits": 39
   },
   {
     "name": "wingpanel-indicator-power",
@@ -2431,7 +2431,7 @@
         "href": "https://github.com/elementary/switchboard-plug-printers/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 40
+    "new_commits": 41
   },
   {
     "name": "greeter",
@@ -2886,7 +2886,7 @@
         "href": "https://github.com/elementary/switchboard-plug-security-privacy/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 66
+    "new_commits": 67
   },
   {
     "name": "switchboard-plug-power",
@@ -4262,7 +4262,7 @@
         "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/2.0"
       }
     ],
-    "new_commits": 421
+    "new_commits": 422
   },
   {
     "name": "website",
