@@ -2776,7 +2776,7 @@
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
       }
     ],
-    "new_commits": 91
+    "new_commits": 92
   },
   {
     "name": "switchboard-plug-datetime",
@@ -3666,7 +3666,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.0.1"
       }
     ],
-    "new_commits": 128
+    "new_commits": 129
   },
   {
     "name": "wingpanel-indicator-session",
@@ -3763,7 +3763,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-session/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 65
+    "new_commits": 67
   },
   {
     "name": "switchboard-plug-sharing",
