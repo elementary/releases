@@ -1210,7 +1210,7 @@
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 157
+    "new_commits": 158
   },
   {
     "name": "switchboard-plug-useraccounts",
@@ -3763,7 +3763,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-session/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 64
+    "new_commits": 65
   },
   {
     "name": "switchboard-plug-sharing",
