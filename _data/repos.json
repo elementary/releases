@@ -855,7 +855,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 208
+    "new_commits": 210
   },
   {
     "name": "houston",
@@ -2287,7 +2287,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 110
+    "new_commits": 111
   },
   {
     "name": "onboarding",
