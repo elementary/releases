@@ -135,7 +135,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-keyboard/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 22
+    "new_commits": 23
   },
   {
     "name": "wingpanel-indicator-sound",
@@ -218,7 +218,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.0.4"
       }
     ],
-    "new_commits": 47
+    "new_commits": 49
   },
   {
     "name": "switchboard-plug-sound",
@@ -432,7 +432,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 27
+    "new_commits": 28
   },
   {
     "name": "calculator",
@@ -1334,7 +1334,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-power/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 113
+    "new_commits": 114
   },
   {
     "name": "os",
@@ -1569,7 +1569,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-nightlight/releases/tag/2.0"
       }
     ],
-    "new_commits": 50
+    "new_commits": 51
   },
   {
     "name": "granite",
@@ -1936,7 +1936,7 @@
         "href": "https://github.com/elementary/wingpanel/releases/tag/2.0.3"
       }
     ],
-    "new_commits": 38
+    "new_commits": 39
   },
   {
     "name": "pantheon-agent-polkit",
@@ -2287,7 +2287,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 111
+    "new_commits": 112
   },
   {
     "name": "onboarding",
@@ -2776,7 +2776,7 @@
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
       }
     ],
-    "new_commits": 92
+    "new_commits": 94
   },
   {
     "name": "switchboard-plug-datetime",
@@ -3666,7 +3666,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.0.1"
       }
     ],
-    "new_commits": 129
+    "new_commits": 130
   },
   {
     "name": "wingpanel-indicator-session",
@@ -3763,7 +3763,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-session/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 71
+    "new_commits": 72
   },
   {
     "name": "switchboard-plug-sharing",
