@@ -855,7 +855,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 210
+    "new_commits": 211
   },
   {
     "name": "houston",
@@ -1673,7 +1673,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 199
+    "new_commits": 205
   },
   {
     "name": "videos",
@@ -3604,7 +3604,7 @@
         "href": "https://github.com/elementary/terminal/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 161
+    "new_commits": 162
   },
   {
     "name": "wingpanel-indicator-notifications",
