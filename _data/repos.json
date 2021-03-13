@@ -674,7 +674,7 @@
         "href": "https://github.com/elementary/switchboard-plug-network/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 49
+    "new_commits": 50
   },
   {
     "name": "appcenter",
@@ -2645,7 +2645,7 @@
         "href": "https://github.com/elementary/switchboard-plug-about/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 299
+    "new_commits": 301
   },
   {
     "name": "switchboard-plug-parental-controls",
@@ -2679,7 +2679,7 @@
         "href": "https://github.com/elementary/switchboard-plug-parental-controls/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 53
+    "new_commits": 54
   },
   {
     "name": "applications-menu",
@@ -2838,7 +2838,7 @@
         "href": "https://github.com/elementary/switchboard-plug-datetime/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 77
+    "new_commits": 79
   },
   {
     "name": "switchboard-plug-security-privacy",
@@ -3479,7 +3479,7 @@
         "href": "https://github.com/elementary/switchboard-plug-applications/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 234
+    "new_commits": 236
   },
   {
     "name": "terminal",
