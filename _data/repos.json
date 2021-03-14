@@ -1673,7 +1673,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 212
+    "new_commits": 213
   },
   {
     "name": "videos",
@@ -2232,7 +2232,7 @@
         "href": "https://github.com/elementary/sideload/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 123
+    "new_commits": 125
   },
   {
     "name": "wingpanel-indicator-network",
@@ -2500,7 +2500,7 @@
         "href": "https://github.com/elementary/greeter/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 72
+    "new_commits": 73
   },
   {
     "name": "switchboard-plug-mouse-touchpad",
@@ -4249,7 +4249,7 @@
         "href": "https://github.com/elementary/feedback/releases/tag/1.0"
       }
     ],
-    "new_commits": 409
+    "new_commits": 410
   },
   {
     "name": "switchboard-plug-onlineaccounts",
