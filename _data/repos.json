@@ -855,7 +855,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 213
+    "new_commits": 214
   },
   {
     "name": "houston",
@@ -1334,7 +1334,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-power/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 114
+    "new_commits": 115
   },
   {
     "name": "os",
@@ -1528,7 +1528,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 294
+    "new_commits": 295
   },
   {
     "name": "wingpanel-indicator-nightlight",
@@ -3666,7 +3666,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.0.1"
       }
     ],
-    "new_commits": 130
+    "new_commits": 131
   },
   {
     "name": "wingpanel-indicator-session",
