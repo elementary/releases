@@ -1673,7 +1673,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 213
+    "new_commits": 214
   },
   {
     "name": "videos",
@@ -3604,7 +3604,7 @@
         "href": "https://github.com/elementary/terminal/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 162
+    "new_commits": 163
   },
   {
     "name": "wingpanel-indicator-notifications",
@@ -4114,7 +4114,7 @@
         "href": "https://github.com/elementary/screenshot/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 144
+    "new_commits": 145
   },
   {
     "name": "default-settings",
