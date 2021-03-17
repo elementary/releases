@@ -1673,7 +1673,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 222
+    "new_commits": 223
   },
   {
     "name": "videos",
@@ -2500,7 +2500,7 @@
         "href": "https://github.com/elementary/greeter/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 73
+    "new_commits": 74
   },
   {
     "name": "switchboard-plug-mouse-touchpad",
@@ -4249,7 +4249,7 @@
         "href": "https://github.com/elementary/feedback/releases/tag/1.0"
       }
     ],
-    "new_commits": 410
+    "new_commits": 411
   },
   {
     "name": "switchboard-plug-onlineaccounts",
