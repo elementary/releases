@@ -432,7 +432,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 35
+    "new_commits": 36
   },
   {
     "name": "calculator",
@@ -1334,7 +1334,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-power/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 116
+    "new_commits": 117
   },
   {
     "name": "os",
@@ -3763,7 +3763,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-session/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 78
+    "new_commits": 79
   },
   {
     "name": "switchboard-plug-sharing",
