@@ -135,7 +135,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-keyboard/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 23
+    "new_commits": 24
   },
   {
     "name": "wingpanel-indicator-sound",
@@ -218,7 +218,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.0.4"
       }
     ],
-    "new_commits": 49
+    "new_commits": 50
   },
   {
     "name": "switchboard-plug-sound",
@@ -432,7 +432,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 47
+    "new_commits": 48
   },
   {
     "name": "calculator",
@@ -1210,7 +1210,7 @@
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 163
+    "new_commits": 167
   },
   {
     "name": "switchboard-plug-useraccounts",
@@ -3424,7 +3424,7 @@
         "href": "https://github.com/elementary/photos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 154
+    "new_commits": 155
   },
   {
     "name": "switchboard-plug-applications",
