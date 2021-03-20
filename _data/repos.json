@@ -605,7 +605,7 @@
         "href": "https://github.com/elementary/calendar/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 124
+    "new_commits": 126
   },
   {
     "name": "switchboard-plug-network",
@@ -3604,7 +3604,7 @@
         "href": "https://github.com/elementary/terminal/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 167
+    "new_commits": 168
   },
   {
     "name": "wingpanel-indicator-notifications",
