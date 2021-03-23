@@ -1321,7 +1321,7 @@
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 178
+    "new_commits": 179
   },
   {
     "name": "switchboard-plug-useraccounts",
@@ -3611,7 +3611,7 @@
         "href": "https://github.com/elementary/terminal/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 168
+    "new_commits": 169
   },
   {
     "name": "wingpanel-indicator-notifications",
