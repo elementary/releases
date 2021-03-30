@@ -246,7 +246,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-keyboard/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 45
+    "new_commits": 46
   },
   {
     "name": "wingpanel-indicator-sound",
@@ -543,7 +543,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 54
+    "new_commits": 55
   },
   {
     "name": "calculator",
