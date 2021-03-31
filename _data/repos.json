@@ -1445,7 +1445,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-power/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 118
+    "new_commits": 119
   },
   {
     "name": "os",
@@ -3611,7 +3611,7 @@
         "href": "https://github.com/elementary/terminal/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 169
+    "new_commits": 170
   },
   {
     "name": "wingpanel-indicator-notifications",
