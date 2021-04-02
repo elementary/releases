@@ -1500,7 +1500,7 @@
         "href": "https://github.com/elementary/os/releases/tag/5.1.1"
       }
     ],
-    "new_commits": 13
+    "new_commits": 14
   },
   {
     "name": "files",
@@ -3107,7 +3107,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 220
+    "new_commits": 224
   },
   {
     "name": "switchboard",
