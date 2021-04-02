@@ -246,7 +246,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-keyboard/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 46
+    "new_commits": 54
   },
   {
     "name": "wingpanel-indicator-sound",
@@ -966,7 +966,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 219
+    "new_commits": 220
   },
   {
     "name": "houston",
@@ -1639,7 +1639,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 333
+    "new_commits": 335
   },
   {
     "name": "wingpanel-indicator-nightlight",
@@ -4052,7 +4052,7 @@
         "href": "https://github.com/elementary/stylesheet/releases/tag/5.0.4"
       }
     ],
-    "new_commits": 192
+    "new_commits": 193
   },
   {
     "name": "screenshot",
