@@ -1321,7 +1321,7 @@
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 185
+    "new_commits": 187
   },
   {
     "name": "switchboard-plug-useraccounts",
@@ -2652,7 +2652,7 @@
         "href": "https://github.com/elementary/switchboard-plug-about/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 377
+    "new_commits": 378
   },
   {
     "name": "switchboard-plug-parental-controls",
@@ -3266,7 +3266,7 @@
         "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
       }
     ],
-    "new_commits": 303
+    "new_commits": 304
   },
   {
     "name": "pantheon-agent-geoclue2",
@@ -3486,7 +3486,7 @@
         "href": "https://github.com/elementary/switchboard-plug-applications/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 239
+    "new_commits": 240
   },
   {
     "name": "terminal",
@@ -3611,7 +3611,7 @@
         "href": "https://github.com/elementary/terminal/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 172
+    "new_commits": 173
   },
   {
     "name": "wingpanel-indicator-notifications",
