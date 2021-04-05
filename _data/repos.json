@@ -329,7 +329,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.0.4"
       }
     ],
-    "new_commits": 53
+    "new_commits": 54
   },
   {
     "name": "switchboard-plug-sound",
@@ -1639,7 +1639,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 350
+    "new_commits": 351
   },
   {
     "name": "wingpanel-indicator-nightlight",
@@ -3107,7 +3107,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 225
+    "new_commits": 228
   },
   {
     "name": "switchboard",
@@ -4121,7 +4121,7 @@
         "href": "https://github.com/elementary/screenshot/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 146
+    "new_commits": 147
   },
   {
     "name": "default-settings",
