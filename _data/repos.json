@@ -2081,7 +2081,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 296
+    "new_commits": 297
   },
   {
     "name": "switchboard-plug-notifications",
@@ -2845,7 +2845,7 @@
         "href": "https://github.com/elementary/switchboard-plug-datetime/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 89
+    "new_commits": 92
   },
   {
     "name": "switchboard-plug-security-privacy",
@@ -3486,7 +3486,7 @@
         "href": "https://github.com/elementary/switchboard-plug-applications/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 249
+    "new_commits": 251
   },
   {
     "name": "terminal",
