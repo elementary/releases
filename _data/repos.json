@@ -246,7 +246,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-keyboard/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 66
+    "new_commits": 68
   },
   {
     "name": "wingpanel-indicator-sound",
@@ -1445,7 +1445,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-power/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 122
+    "new_commits": 123
   },
   {
     "name": "os",
@@ -2652,7 +2652,7 @@
         "href": "https://github.com/elementary/switchboard-plug-about/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 379
+    "new_commits": 380
   },
   {
     "name": "switchboard-plug-parental-controls",
@@ -2783,7 +2783,7 @@
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
       }
     ],
-    "new_commits": 100
+    "new_commits": 105
   },
   {
     "name": "switchboard-plug-datetime",
@@ -2845,7 +2845,7 @@
         "href": "https://github.com/elementary/switchboard-plug-datetime/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 92
+    "new_commits": 93
   },
   {
     "name": "switchboard-plug-security-privacy",
@@ -3486,7 +3486,7 @@
         "href": "https://github.com/elementary/switchboard-plug-applications/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 251
+    "new_commits": 252
   },
   {
     "name": "terminal",
