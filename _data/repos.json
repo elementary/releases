@@ -1321,7 +1321,7 @@
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 188
+    "new_commits": 189
   },
   {
     "name": "switchboard-plug-useraccounts",
@@ -2845,7 +2845,7 @@
         "href": "https://github.com/elementary/switchboard-plug-datetime/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 87
+    "new_commits": 88
   },
   {
     "name": "switchboard-plug-security-privacy",
@@ -3486,7 +3486,7 @@
         "href": "https://github.com/elementary/switchboard-plug-applications/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 248
+    "new_commits": 249
   },
   {
     "name": "terminal",
