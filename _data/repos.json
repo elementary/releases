@@ -1445,7 +1445,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-power/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 123
+    "new_commits": 124
   },
   {
     "name": "os",
@@ -2239,7 +2239,7 @@
         "href": "https://github.com/elementary/sideload/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 130
+    "new_commits": 133
   },
   {
     "name": "wingpanel-indicator-network",
@@ -3431,7 +3431,7 @@
         "href": "https://github.com/elementary/photos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 162
+    "new_commits": 165
   },
   {
     "name": "switchboard-plug-applications",
