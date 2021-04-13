@@ -966,7 +966,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 221
+    "new_commits": 222
   },
   {
     "name": "houston",
@@ -3266,7 +3266,7 @@
         "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
       }
     ],
-    "new_commits": 317
+    "new_commits": 319
   },
   {
     "name": "pantheon-agent-geoclue2",
@@ -3852,7 +3852,7 @@
         "href": "https://github.com/elementary/camera/releases/tag/1.0"
       }
     ],
-    "new_commits": 142
+    "new_commits": 143
   },
   {
     "name": "switchboard-plug-a11y",
