@@ -246,7 +246,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-keyboard/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 69
+    "new_commits": 70
   },
   {
     "name": "wingpanel-indicator-sound",
@@ -1639,7 +1639,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 368
+    "new_commits": 370
   },
   {
     "name": "wingpanel-indicator-nightlight",
@@ -2783,7 +2783,7 @@
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
       }
     ],
-    "new_commits": 109
+    "new_commits": 110
   },
   {
     "name": "switchboard-plug-datetime",
