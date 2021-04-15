@@ -2081,7 +2081,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 300
+    "new_commits": 301
   },
   {
     "name": "switchboard-plug-notifications",
@@ -3955,7 +3955,7 @@
         "href": "https://github.com/elementary/music/releases/tag/0.4.0.3"
       }
     ],
-    "new_commits": 116
+    "new_commits": 119
   },
   {
     "name": "stylesheet",
