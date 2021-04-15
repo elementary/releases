@@ -1321,7 +1321,7 @@
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 189
+    "new_commits": 193
   },
   {
     "name": "switchboard-plug-useraccounts",
@@ -1639,7 +1639,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 374
+    "new_commits": 375
   },
   {
     "name": "wingpanel-indicator-nightlight",
