@@ -108,7 +108,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 11
+    "new_commits": 13
   },
   {
     "name": "switchboard-plug-bluetooth",
@@ -2081,7 +2081,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 314
+    "new_commits": 316
   },
   {
     "name": "switchboard-plug-notifications",
