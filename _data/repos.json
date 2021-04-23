@@ -716,7 +716,7 @@
         "href": "https://github.com/elementary/calendar/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 143
+    "new_commits": 144
   },
   {
     "name": "switchboard-plug-network",
@@ -2335,7 +2335,7 @@
         "href": "https://github.com/elementary/onboarding/releases/tag/1.0"
       }
     ],
-    "new_commits": 164
+    "new_commits": 166
   },
   {
     "name": "shortcut-overlay",
@@ -3852,7 +3852,7 @@
         "href": "https://github.com/elementary/camera/releases/tag/1.0"
       }
     ],
-    "new_commits": 144
+    "new_commits": 145
   },
   {
     "name": "switchboard-plug-a11y",
