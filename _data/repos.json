@@ -2239,7 +2239,7 @@
         "href": "https://github.com/elementary/sideload/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 158
+    "new_commits": 161
   },
   {
     "name": "wingpanel-indicator-network",
@@ -2335,7 +2335,7 @@
         "href": "https://github.com/elementary/onboarding/releases/tag/1.0"
       }
     ],
-    "new_commits": 166
+    "new_commits": 167
   },
   {
     "name": "shortcut-overlay",
