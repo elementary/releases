@@ -2239,7 +2239,7 @@
         "href": "https://github.com/elementary/sideload/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 187
+    "new_commits": 190
   },
   {
     "name": "wingpanel-indicator-network",
@@ -2507,7 +2507,7 @@
         "href": "https://github.com/elementary/greeter/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 76
+    "new_commits": 77
   },
   {
     "name": "switchboard-plug-mouse-touchpad",
@@ -3107,7 +3107,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 245
+    "new_commits": 247
   },
   {
     "name": "switchboard",
@@ -3355,7 +3355,7 @@
         "href": "https://github.com/elementary/capnet-assist/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 60
+    "new_commits": 61
   },
   {
     "name": "photos",
@@ -4256,7 +4256,7 @@
         "href": "https://github.com/elementary/feedback/releases/tag/1.0"
       }
     ],
-    "new_commits": 412
+    "new_commits": 413
   },
   {
     "name": "switchboard-plug-onlineaccounts",
