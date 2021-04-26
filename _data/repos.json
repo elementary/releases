@@ -191,7 +191,7 @@
         "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 27
+    "new_commits": 29
   },
   {
     "name": "wingpanel-indicator-keyboard",
@@ -412,7 +412,7 @@
         "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/0.1"
       }
     ],
-    "new_commits": 18
+    "new_commits": 19
   },
   {
     "name": "switchboard-plug-locale",
@@ -474,7 +474,7 @@
         "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 13
+    "new_commits": 14
   },
   {
     "name": "wingpanel-indicator-bluetooth",
@@ -785,7 +785,7 @@
         "href": "https://github.com/elementary/switchboard-plug-network/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 54
+    "new_commits": 56
   },
   {
     "name": "appcenter",
@@ -1390,7 +1390,7 @@
         "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 59
+    "new_commits": 61
   },
   {
     "name": "wingpanel-indicator-power",
@@ -1680,7 +1680,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-nightlight/releases/tag/2.0"
       }
     ],
-    "new_commits": 53
+    "new_commits": 54
   },
   {
     "name": "videos",
@@ -2294,7 +2294,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 113
+    "new_commits": 114
   },
   {
     "name": "onboarding",
@@ -2445,7 +2445,7 @@
         "href": "https://github.com/elementary/switchboard-plug-printers/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 54
+    "new_commits": 57
   },
   {
     "name": "greeter",
@@ -3486,7 +3486,7 @@
         "href": "https://github.com/elementary/switchboard-plug-applications/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 257
+    "new_commits": 258
   },
   {
     "name": "terminal",
@@ -3797,7 +3797,7 @@
         "href": "https://github.com/elementary/switchboard-plug-sharing/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 53
+    "new_commits": 54
   },
   {
     "name": "camera",
@@ -4052,7 +4052,7 @@
         "href": "https://github.com/elementary/stylesheet/releases/tag/5.0.4"
       }
     ],
-    "new_commits": 197
+    "new_commits": 198
   },
   {
     "name": "screenshot",
