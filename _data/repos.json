@@ -966,7 +966,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 222
+    "new_commits": 223
   },
   {
     "name": "houston",
@@ -1500,7 +1500,7 @@
         "href": "https://github.com/elementary/os/releases/tag/5.1.1"
       }
     ],
-    "new_commits": 18
+    "new_commits": 19
   },
   {
     "name": "files",
@@ -2081,7 +2081,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 399
+    "new_commits": 400
   },
   {
     "name": "switchboard-plug-notifications",
@@ -2335,7 +2335,7 @@
         "href": "https://github.com/elementary/onboarding/releases/tag/1.0"
       }
     ],
-    "new_commits": 169
+    "new_commits": 173
   },
   {
     "name": "shortcut-overlay",
@@ -3107,7 +3107,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 247
+    "new_commits": 248
   },
   {
     "name": "switchboard",
@@ -4256,7 +4256,7 @@
         "href": "https://github.com/elementary/feedback/releases/tag/1.0"
       }
     ],
-    "new_commits": 425
+    "new_commits": 426
   },
   {
     "name": "switchboard-plug-onlineaccounts",
