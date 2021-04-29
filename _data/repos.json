@@ -2239,7 +2239,7 @@
         "href": "https://github.com/elementary/sideload/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 192
+    "new_commits": 194
   },
   {
     "name": "wingpanel-indicator-network",
@@ -4256,7 +4256,7 @@
         "href": "https://github.com/elementary/feedback/releases/tag/1.0"
       }
     ],
-    "new_commits": 419
+    "new_commits": 425
   },
   {
     "name": "switchboard-plug-onlineaccounts",
