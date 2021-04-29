@@ -108,7 +108,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 18
+    "new_commits": 20
   },
   {
     "name": "switchboard-plug-bluetooth",
@@ -246,7 +246,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-keyboard/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 70
+    "new_commits": 71
   },
   {
     "name": "wingpanel-indicator-sound",
@@ -2239,7 +2239,7 @@
         "href": "https://github.com/elementary/sideload/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 191
+    "new_commits": 192
   },
   {
     "name": "wingpanel-indicator-network",
@@ -2845,7 +2845,7 @@
         "href": "https://github.com/elementary/switchboard-plug-datetime/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 98
+    "new_commits": 99
   },
   {
     "name": "switchboard-plug-security-privacy",
@@ -3266,7 +3266,7 @@
         "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
       }
     ],
-    "new_commits": 329
+    "new_commits": 330
   },
   {
     "name": "pantheon-agent-geoclue2",
@@ -4256,7 +4256,7 @@
         "href": "https://github.com/elementary/feedback/releases/tag/1.0"
       }
     ],
-    "new_commits": 418
+    "new_commits": 419
   },
   {
     "name": "switchboard-plug-onlineaccounts",
