@@ -2081,7 +2081,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 402
+    "new_commits": 405
   },
   {
     "name": "switchboard-plug-notifications",
@@ -2335,7 +2335,7 @@
         "href": "https://github.com/elementary/onboarding/releases/tag/1.0"
       }
     ],
-    "new_commits": 177
+    "new_commits": 178
   },
   {
     "name": "shortcut-overlay",
