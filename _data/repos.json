@@ -966,7 +966,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 223
+    "new_commits": 225
   },
   {
     "name": "houston",
@@ -2081,7 +2081,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 421
+    "new_commits": 424
   },
   {
     "name": "switchboard-plug-notifications",
@@ -4121,7 +4121,7 @@
         "href": "https://github.com/elementary/screenshot/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 164
+    "new_commits": 166
   },
   {
     "name": "default-settings",
@@ -4338,7 +4338,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 2617
+    "new_commits": 2618
   },
   {
     "name": "fonts",
