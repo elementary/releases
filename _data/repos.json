@@ -1321,7 +1321,7 @@
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 216
+    "new_commits": 217
   },
   {
     "name": "switchboard-plug-useraccounts",
@@ -2845,7 +2845,7 @@
         "href": "https://github.com/elementary/switchboard-plug-datetime/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 100
+    "new_commits": 101
   },
   {
     "name": "switchboard-plug-security-privacy",
@@ -3190,7 +3190,7 @@
         "href": "https://github.com/elementary/switchboard/releases/tag/2.3.0"
       }
     ],
-    "new_commits": 57
+    "new_commits": 58
   },
   {
     "name": "switchboard-plug-pantheon-shell",
