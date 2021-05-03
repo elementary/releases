@@ -1500,7 +1500,7 @@
         "href": "https://github.com/elementary/os/releases/tag/5.1.1"
       }
     ],
-    "new_commits": 19
+    "new_commits": 20
   },
   {
     "name": "files",
@@ -2686,7 +2686,7 @@
         "href": "https://github.com/elementary/switchboard-plug-parental-controls/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 60
+    "new_commits": 61
   },
   {
     "name": "applications-menu",
@@ -3673,7 +3673,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.0.1"
       }
     ],
-    "new_commits": 136
+    "new_commits": 137
   },
   {
     "name": "wingpanel-indicator-session",
@@ -4155,7 +4155,7 @@
         "href": "https://github.com/elementary/default-settings/releases/tag/5.0"
       }
     ],
-    "new_commits": 43
+    "new_commits": 45
   },
   {
     "name": "wallpapers",
@@ -4338,7 +4338,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 2618
+    "new_commits": 2620
   },
   {
     "name": "fonts",
