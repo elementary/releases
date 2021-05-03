@@ -2239,7 +2239,7 @@
         "href": "https://github.com/elementary/sideload/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 194
+    "new_commits": 195
   },
   {
     "name": "wingpanel-indicator-network",
@@ -2376,7 +2376,7 @@
         "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.0"
       }
     ],
-    "new_commits": 50
+    "new_commits": 51
   },
   {
     "name": "switchboard-plug-printers",
