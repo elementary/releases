@@ -1321,7 +1321,7 @@
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 219
+    "new_commits": 220
   },
   {
     "name": "switchboard-plug-useraccounts",
@@ -1390,7 +1390,7 @@
         "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 62
+    "new_commits": 63
   },
   {
     "name": "wingpanel-indicator-power",
@@ -2569,7 +2569,7 @@
         "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 285
+    "new_commits": 286
   },
   {
     "name": "switchboard-plug-about",
@@ -2652,7 +2652,7 @@
         "href": "https://github.com/elementary/switchboard-plug-about/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 381
+    "new_commits": 382
   },
   {
     "name": "switchboard-plug-parental-controls",
@@ -2686,7 +2686,7 @@
         "href": "https://github.com/elementary/switchboard-plug-parental-controls/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 61
+    "new_commits": 62
   },
   {
     "name": "applications-menu",
@@ -2845,7 +2845,7 @@
         "href": "https://github.com/elementary/switchboard-plug-datetime/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 101
+    "new_commits": 102
   },
   {
     "name": "switchboard-plug-security-privacy",
@@ -2962,7 +2962,7 @@
         "href": "https://github.com/elementary/switchboard-plug-power/releases/tag/0.3.1"
       }
     ],
-    "new_commits": 76
+    "new_commits": 77
   },
   {
     "name": "icons",
@@ -3266,7 +3266,7 @@
         "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
       }
     ],
-    "new_commits": 333
+    "new_commits": 334
   },
   {
     "name": "pantheon-agent-geoclue2",
@@ -3486,7 +3486,7 @@
         "href": "https://github.com/elementary/switchboard-plug-applications/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 260
+    "new_commits": 261
   },
   {
     "name": "terminal",
@@ -3955,7 +3955,7 @@
         "href": "https://github.com/elementary/music/releases/tag/0.4.0.3"
       }
     ],
-    "new_commits": 141
+    "new_commits": 142
   },
   {
     "name": "stylesheet",
