@@ -612,7 +612,7 @@
         "href": "https://github.com/elementary/calculator/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 83
+    "new_commits": 84
   },
   {
     "name": "calendar",
@@ -966,7 +966,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 225
+    "new_commits": 226
   },
   {
     "name": "houston",
@@ -2335,7 +2335,7 @@
         "href": "https://github.com/elementary/onboarding/releases/tag/1.0"
       }
     ],
-    "new_commits": 181
+    "new_commits": 182
   },
   {
     "name": "shortcut-overlay",
@@ -3431,7 +3431,7 @@
         "href": "https://github.com/elementary/photos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 177
+    "new_commits": 178
   },
   {
     "name": "switchboard-plug-applications",
