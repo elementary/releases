@@ -2652,7 +2652,7 @@
         "href": "https://github.com/elementary/switchboard-plug-about/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 382
+    "new_commits": 390
   },
   {
     "name": "switchboard-plug-parental-controls",
@@ -3486,7 +3486,7 @@
         "href": "https://github.com/elementary/switchboard-plug-applications/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 261
+    "new_commits": 262
   },
   {
     "name": "terminal",
