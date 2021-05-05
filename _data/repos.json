@@ -108,7 +108,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 28
+    "new_commits": 30
   },
   {
     "name": "switchboard-plug-bluetooth",
@@ -2081,7 +2081,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 475
+    "new_commits": 478
   },
   {
     "name": "switchboard-plug-notifications",
@@ -2239,7 +2239,7 @@
         "href": "https://github.com/elementary/sideload/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 199
+    "new_commits": 202
   },
   {
     "name": "wingpanel-indicator-network",
@@ -2507,7 +2507,7 @@
         "href": "https://github.com/elementary/greeter/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 77
+    "new_commits": 78
   },
   {
     "name": "switchboard-plug-mouse-touchpad",
@@ -3107,7 +3107,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 251
+    "new_commits": 253
   },
   {
     "name": "switchboard",
