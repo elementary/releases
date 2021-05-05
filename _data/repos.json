@@ -191,7 +191,7 @@
         "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 29
+    "new_commits": 32
   },
   {
     "name": "wingpanel-indicator-keyboard",
@@ -785,7 +785,7 @@
         "href": "https://github.com/elementary/switchboard-plug-network/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 57
+    "new_commits": 58
   },
   {
     "name": "appcenter",
@@ -1321,7 +1321,7 @@
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 221
+    "new_commits": 223
   },
   {
     "name": "switchboard-plug-useraccounts",
@@ -2205,7 +2205,7 @@
         "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 93
+    "new_commits": 95
   },
   {
     "name": "sideload",
@@ -2652,7 +2652,7 @@
         "href": "https://github.com/elementary/switchboard-plug-about/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 398
+    "new_commits": 400
   },
   {
     "name": "switchboard-plug-parental-controls",
@@ -2845,7 +2845,7 @@
         "href": "https://github.com/elementary/switchboard-plug-datetime/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 105
+    "new_commits": 106
   },
   {
     "name": "switchboard-plug-security-privacy",
@@ -3266,7 +3266,7 @@
         "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
       }
     ],
-    "new_commits": 343
+    "new_commits": 349
   },
   {
     "name": "pantheon-agent-geoclue2",
@@ -3486,7 +3486,7 @@
         "href": "https://github.com/elementary/switchboard-plug-applications/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 262
+    "new_commits": 264
   },
   {
     "name": "terminal",
@@ -4338,7 +4338,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 2633
+    "new_commits": 2636
   },
   {
     "name": "fonts",
@@ -4385,7 +4385,7 @@
         "href": "https://github.com/elementary/mail/releases/tag/1.0.6"
       }
     ],
-    "new_commits": 353
+    "new_commits": 354
   },
   {
     "name": "press-kit",
