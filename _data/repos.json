@@ -412,7 +412,7 @@
         "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/0.1"
       }
     ],
-    "new_commits": 21
+    "new_commits": 22
   },
   {
     "name": "switchboard-plug-locale",
@@ -2445,7 +2445,7 @@
         "href": "https://github.com/elementary/switchboard-plug-printers/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 60
+    "new_commits": 61
   },
   {
     "name": "greeter",
@@ -2569,7 +2569,7 @@
         "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 304
+    "new_commits": 305
   },
   {
     "name": "switchboard-plug-about",
