@@ -716,7 +716,7 @@
         "href": "https://github.com/elementary/calendar/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 148
+    "new_commits": 149
   },
   {
     "name": "switchboard-plug-network",
@@ -4052,7 +4052,7 @@
         "href": "https://github.com/elementary/stylesheet/releases/tag/5.0.4"
       }
     ],
-    "new_commits": 216
+    "new_commits": 217
   },
   {
     "name": "screenshot",
@@ -4385,7 +4385,7 @@
         "href": "https://github.com/elementary/mail/releases/tag/1.0.6"
       }
     ],
-    "new_commits": 371
+    "new_commits": 373
   },
   {
     "name": "press-kit",
