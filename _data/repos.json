@@ -619,7 +619,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 61
+    "new_commits": 65
   },
   {
     "name": "calendar",
@@ -3438,7 +3438,7 @@
         "href": "https://github.com/elementary/photos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 180
+    "new_commits": 181
   },
   {
     "name": "switchboard-plug-applications",
