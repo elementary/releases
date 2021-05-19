@@ -1507,7 +1507,7 @@
         "href": "https://github.com/elementary/os/releases/tag/5.1.1"
       }
     ],
-    "new_commits": 25
+    "new_commits": 26
   },
   {
     "name": "files",
@@ -1646,7 +1646,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 399
+    "new_commits": 400
   },
   {
     "name": "wingpanel-indicator-nightlight",
@@ -3080,7 +3080,7 @@
         "href": "https://github.com/elementary/icons/releases/tag/4.0.1.1"
       }
     ],
-    "new_commits": 63
+    "new_commits": 64
   },
   {
     "name": "gala",
