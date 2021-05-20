@@ -1507,7 +1507,7 @@
         "href": "https://github.com/elementary/os/releases/tag/5.1.1"
       }
     ],
-    "new_commits": 26
+    "new_commits": 27
   },
   {
     "name": "files",
@@ -2659,7 +2659,7 @@
         "href": "https://github.com/elementary/switchboard-plug-about/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 403
+    "new_commits": 404
   },
   {
     "name": "switchboard-plug-parental-controls",
@@ -4059,7 +4059,7 @@
         "href": "https://github.com/elementary/stylesheet/releases/tag/5.0.4"
       }
     ],
-    "new_commits": 218
+    "new_commits": 219
   },
   {
     "name": "screenshot",
