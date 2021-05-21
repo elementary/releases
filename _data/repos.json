@@ -2088,7 +2088,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 506
+    "new_commits": 507
   },
   {
     "name": "switchboard-plug-notifications",
@@ -3618,7 +3618,7 @@
         "href": "https://github.com/elementary/terminal/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 214
+    "new_commits": 215
   },
   {
     "name": "wingpanel-indicator-notifications",
