@@ -3618,7 +3618,7 @@
         "href": "https://github.com/elementary/terminal/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 217
+    "new_commits": 218
   },
   {
     "name": "wingpanel-indicator-notifications",
@@ -4345,7 +4345,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 2682
+    "new_commits": 2685
   },
   {
     "name": "fonts",
