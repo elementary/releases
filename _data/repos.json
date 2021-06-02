@@ -2342,7 +2342,7 @@
         "href": "https://github.com/elementary/onboarding/releases/tag/1.0"
       }
     ],
-    "new_commits": 192
+    "new_commits": 196
   },
   {
     "name": "shortcut-overlay",
@@ -4128,7 +4128,7 @@
         "href": "https://github.com/elementary/screenshot/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 173
+    "new_commits": 174
   },
   {
     "name": "default-settings",
@@ -4250,7 +4250,7 @@
         "href": "https://github.com/elementary/initial-setup/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 103
+    "new_commits": 107
   },
   {
     "name": "feedback",
