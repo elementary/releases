@@ -3618,7 +3618,7 @@
         "href": "https://github.com/elementary/terminal/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 223
+    "new_commits": 224
   },
   {
     "name": "wingpanel-indicator-notifications",
@@ -3859,7 +3859,7 @@
         "href": "https://github.com/elementary/camera/releases/tag/1.0"
       }
     ],
-    "new_commits": 175
+    "new_commits": 178
   },
   {
     "name": "switchboard-plug-a11y",
