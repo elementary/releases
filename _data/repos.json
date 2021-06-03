@@ -2342,7 +2342,7 @@
         "href": "https://github.com/elementary/onboarding/releases/tag/1.0"
       }
     ],
-    "new_commits": 199
+    "new_commits": 201
   },
   {
     "name": "shortcut-overlay",
@@ -2576,7 +2576,7 @@
         "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 316
+    "new_commits": 317
   },
   {
     "name": "switchboard-plug-about",
@@ -2693,7 +2693,7 @@
         "href": "https://github.com/elementary/switchboard-plug-parental-controls/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 69
+    "new_commits": 70
   },
   {
     "name": "applications-menu",
@@ -2790,7 +2790,7 @@
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
       }
     ],
-    "new_commits": 117
+    "new_commits": 118
   },
   {
     "name": "switchboard-plug-datetime",
@@ -4250,7 +4250,7 @@
         "href": "https://github.com/elementary/initial-setup/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 114
+    "new_commits": 117
   },
   {
     "name": "feedback",
