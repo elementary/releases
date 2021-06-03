@@ -267,7 +267,7 @@
         "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 36
+    "new_commits": 37
   },
   {
     "name": "wingpanel-indicator-keyboard",
@@ -550,7 +550,7 @@
         "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 16
+    "new_commits": 17
   },
   {
     "name": "wingpanel-indicator-bluetooth",
@@ -792,7 +792,7 @@
         "href": "https://github.com/elementary/switchboard-plug-network/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 60
+    "new_commits": 61
   },
   {
     "name": "appcenter",
@@ -1397,7 +1397,7 @@
         "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 65
+    "new_commits": 66
   },
   {
     "name": "wingpanel-indicator-power",
@@ -2342,7 +2342,7 @@
         "href": "https://github.com/elementary/onboarding/releases/tag/1.0"
       }
     ],
-    "new_commits": 201
+    "new_commits": 204
   },
   {
     "name": "shortcut-overlay",
@@ -2907,7 +2907,7 @@
         "href": "https://github.com/elementary/switchboard-plug-security-privacy/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 73
+    "new_commits": 74
   },
   {
     "name": "switchboard-plug-power",
@@ -3273,7 +3273,7 @@
         "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
       }
     ],
-    "new_commits": 355
+    "new_commits": 356
   },
   {
     "name": "pantheon-agent-geoclue2",
@@ -3493,7 +3493,7 @@
         "href": "https://github.com/elementary/switchboard-plug-applications/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 267
+    "new_commits": 268
   },
   {
     "name": "terminal",
@@ -3859,7 +3859,7 @@
         "href": "https://github.com/elementary/camera/releases/tag/1.0"
       }
     ],
-    "new_commits": 178
+    "new_commits": 179
   },
   {
     "name": "switchboard-plug-a11y",
@@ -4250,7 +4250,7 @@
         "href": "https://github.com/elementary/initial-setup/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 117
+    "new_commits": 120
   },
   {
     "name": "feedback",
