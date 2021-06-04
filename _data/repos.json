@@ -792,7 +792,7 @@
         "href": "https://github.com/elementary/switchboard-plug-network/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 61
+    "new_commits": 63
   },
   {
     "name": "appcenter",
@@ -3114,7 +3114,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 262
+    "new_commits": 269
   },
   {
     "name": "switchboard",
@@ -3618,7 +3618,7 @@
         "href": "https://github.com/elementary/terminal/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 234
+    "new_commits": 235
   },
   {
     "name": "wingpanel-indicator-notifications",
@@ -3777,7 +3777,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-session/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 91
+    "new_commits": 95
   },
   {
     "name": "switchboard-plug-sharing",
@@ -4392,7 +4392,7 @@
         "href": "https://github.com/elementary/mail/releases/tag/1.0.6"
       }
     ],
-    "new_commits": 415
+    "new_commits": 416
   },
   {
     "name": "press-kit",
