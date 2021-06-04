@@ -1397,7 +1397,7 @@
         "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 75
+    "new_commits": 76
   },
   {
     "name": "wingpanel-indicator-power",
@@ -2088,7 +2088,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 518
+    "new_commits": 519
   },
   {
     "name": "switchboard-plug-notifications",
@@ -2342,7 +2342,7 @@
         "href": "https://github.com/elementary/onboarding/releases/tag/1.0"
       }
     ],
-    "new_commits": 205
+    "new_commits": 206
   },
   {
     "name": "shortcut-overlay",
@@ -4250,7 +4250,7 @@
         "href": "https://github.com/elementary/initial-setup/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 121
+    "new_commits": 122
   },
   {
     "name": "feedback",
