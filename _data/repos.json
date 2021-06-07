@@ -973,7 +973,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 241
+    "new_commits": 242
   },
   {
     "name": "houston",
@@ -1646,7 +1646,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 432
+    "new_commits": 434
   },
   {
     "name": "wingpanel-indicator-nightlight",
@@ -2342,7 +2342,7 @@
         "href": "https://github.com/elementary/onboarding/releases/tag/1.0"
       }
     ],
-    "new_commits": 209
+    "new_commits": 213
   },
   {
     "name": "shortcut-overlay",
