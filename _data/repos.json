@@ -723,7 +723,7 @@
         "href": "https://github.com/elementary/calendar/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 164
+    "new_commits": 165
   },
   {
     "name": "switchboard-plug-network",
@@ -792,7 +792,7 @@
         "href": "https://github.com/elementary/switchboard-plug-network/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 63
+    "new_commits": 64
   },
   {
     "name": "appcenter",
@@ -1280,7 +1280,7 @@
         "href": "https://github.com/elementary/houston/releases/tag/0.2.0"
       }
     ],
-    "new_commits": 6
+    "new_commits": 11
   },
   {
     "name": "switchboard-plug-keyboard",
@@ -1397,7 +1397,7 @@
         "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 78
+    "new_commits": 79
   },
   {
     "name": "wingpanel-indicator-power",
@@ -2790,7 +2790,7 @@
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
       }
     ],
-    "new_commits": 118
+    "new_commits": 119
   },
   {
     "name": "switchboard-plug-datetime",
