@@ -792,7 +792,7 @@
         "href": "https://github.com/elementary/switchboard-plug-network/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 75
+    "new_commits": 76
   },
   {
     "name": "appcenter",
@@ -1507,7 +1507,7 @@
         "href": "https://github.com/elementary/os/releases/tag/5.1.1"
       }
     ],
-    "new_commits": 31
+    "new_commits": 33
   },
   {
     "name": "files",
@@ -2693,7 +2693,7 @@
         "href": "https://github.com/elementary/switchboard-plug-parental-controls/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 70
+    "new_commits": 71
   },
   {
     "name": "applications-menu",
@@ -3859,7 +3859,7 @@
         "href": "https://github.com/elementary/camera/releases/tag/1.0"
       }
     ],
-    "new_commits": 179
+    "new_commits": 181
   },
   {
     "name": "switchboard-plug-a11y",
@@ -4210,7 +4210,7 @@
         "href": "https://github.com/elementary/wallpapers/releases/tag/5.0"
       }
     ],
-    "new_commits": 20
+    "new_commits": 21
   },
   {
     "name": "actions",
