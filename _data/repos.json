@@ -619,7 +619,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 78
+    "new_commits": 82
   },
   {
     "name": "calendar",
@@ -2693,7 +2693,7 @@
         "href": "https://github.com/elementary/switchboard-plug-parental-controls/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 73
+    "new_commits": 75
   },
   {
     "name": "applications-menu",
@@ -3777,7 +3777,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-session/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 105
+    "new_commits": 106
   },
   {
     "name": "switchboard-plug-sharing",
