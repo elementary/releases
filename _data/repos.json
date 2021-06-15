@@ -973,7 +973,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 243
+    "new_commits": 247
   },
   {
     "name": "houston",
@@ -1646,7 +1646,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 452
+    "new_commits": 453
   },
   {
     "name": "wingpanel-indicator-nightlight",
@@ -2693,7 +2693,7 @@
         "href": "https://github.com/elementary/switchboard-plug-parental-controls/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 71
+    "new_commits": 73
   },
   {
     "name": "applications-menu",
@@ -3438,7 +3438,7 @@
         "href": "https://github.com/elementary/photos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 198
+    "new_commits": 199
   },
   {
     "name": "switchboard-plug-applications",
@@ -4472,7 +4472,7 @@
         "href": "https://github.com/elementary/sound-theme/releases/tag/1.0"
       }
     ],
-    "new_commits": 0
+    "new_commits": 1
   },
   {
     "name": "print",
