@@ -619,7 +619,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 82
+    "new_commits": 85
   },
   {
     "name": "calendar",
@@ -973,7 +973,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 247
+    "new_commits": 249
   },
   {
     "name": "houston",
@@ -2342,7 +2342,7 @@
         "href": "https://github.com/elementary/onboarding/releases/tag/1.0"
       }
     ],
-    "new_commits": 214
+    "new_commits": 215
   },
   {
     "name": "shortcut-overlay",
@@ -3618,7 +3618,7 @@
         "href": "https://github.com/elementary/terminal/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 263
+    "new_commits": 267
   },
   {
     "name": "wingpanel-indicator-notifications",
