@@ -619,7 +619,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 89
+    "new_commits": 91
   },
   {
     "name": "calendar",
@@ -2514,7 +2514,7 @@
         "href": "https://github.com/elementary/greeter/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 81
+    "new_commits": 82
   },
   {
     "name": "switchboard-plug-mouse-touchpad",
@@ -4392,7 +4392,7 @@
         "href": "https://github.com/elementary/mail/releases/tag/1.0.6"
       }
     ],
-    "new_commits": 424
+    "new_commits": 425
   },
   {
     "name": "press-kit",
