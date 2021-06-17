@@ -488,7 +488,7 @@
         "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/0.1"
       }
     ],
-    "new_commits": 23
+    "new_commits": 24
   },
   {
     "name": "switchboard-plug-locale",
@@ -4162,7 +4162,7 @@
         "href": "https://github.com/elementary/default-settings/releases/tag/5.0"
       }
     ],
-    "new_commits": 48
+    "new_commits": 49
   },
   {
     "name": "wallpapers",
@@ -4345,7 +4345,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 2713
+    "new_commits": 2714
   },
   {
     "name": "fonts",
