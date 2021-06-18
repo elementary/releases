@@ -619,7 +619,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 91
+    "new_commits": 92
   },
   {
     "name": "calendar",
@@ -1452,7 +1452,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-power/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 145
+    "new_commits": 146
   },
   {
     "name": "os",
