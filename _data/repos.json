@@ -723,7 +723,7 @@
         "href": "https://github.com/elementary/calendar/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 169
+    "new_commits": 171
   },
   {
     "name": "switchboard-plug-network",
@@ -1646,7 +1646,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 453
+    "new_commits": 454
   },
   {
     "name": "wingpanel-indicator-nightlight",
@@ -4128,7 +4128,7 @@
         "href": "https://github.com/elementary/screenshot/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 174
+    "new_commits": 175
   },
   {
     "name": "default-settings",
