@@ -488,7 +488,7 @@
         "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/0.1"
       }
     ],
-    "new_commits": 24
+    "new_commits": 25
   },
   {
     "name": "switchboard-plug-locale",
@@ -1328,7 +1328,7 @@
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 230
+    "new_commits": 231
   },
   {
     "name": "switchboard-plug-useraccounts",
@@ -2907,7 +2907,7 @@
         "href": "https://github.com/elementary/switchboard-plug-security-privacy/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 74
+    "new_commits": 75
   },
   {
     "name": "switchboard-plug-power",
@@ -2969,7 +2969,7 @@
         "href": "https://github.com/elementary/switchboard-plug-power/releases/tag/0.3.1"
       }
     ],
-    "new_commits": 80
+    "new_commits": 81
   },
   {
     "name": "icons",
@@ -4345,7 +4345,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 2714
+    "new_commits": 2717
   },
   {
     "name": "fonts",
