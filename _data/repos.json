@@ -488,7 +488,7 @@
         "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/0.1"
       }
     ],
-    "new_commits": 25
+    "new_commits": 26
   },
   {
     "name": "switchboard-plug-locale",
@@ -1846,7 +1846,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 61
+    "new_commits": 62
   },
   {
     "name": "wingpanel",
@@ -3273,7 +3273,7 @@
         "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
       }
     ],
-    "new_commits": 371
+    "new_commits": 374
   },
   {
     "name": "pantheon-agent-geoclue2",
