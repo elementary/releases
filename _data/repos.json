@@ -792,7 +792,7 @@
         "href": "https://github.com/elementary/switchboard-plug-network/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 77
+    "new_commits": 78
   },
   {
     "name": "appcenter",
@@ -1397,7 +1397,7 @@
         "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 82
+    "new_commits": 83
   },
   {
     "name": "wingpanel-indicator-power",
@@ -2969,7 +2969,7 @@
         "href": "https://github.com/elementary/switchboard-plug-power/releases/tag/0.3.1"
       }
     ],
-    "new_commits": 82
+    "new_commits": 83
   },
   {
     "name": "icons",
@@ -3273,7 +3273,7 @@
         "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
       }
     ],
-    "new_commits": 374
+    "new_commits": 375
   },
   {
     "name": "pantheon-agent-geoclue2",
