@@ -3114,7 +3114,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 289
+    "new_commits": 293
   },
   {
     "name": "switchboard",
@@ -4128,7 +4128,7 @@
         "href": "https://github.com/elementary/screenshot/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 176
+    "new_commits": 182
   },
   {
     "name": "default-settings",
