@@ -1763,7 +1763,7 @@
         "href": "https://github.com/elementary/videos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 69
+    "new_commits": 71
   },
   {
     "name": "wingpanel-indicator-datetime",
@@ -3859,7 +3859,7 @@
         "href": "https://github.com/elementary/camera/releases/tag/1.0"
       }
     ],
-    "new_commits": 183
+    "new_commits": 184
   },
   {
     "name": "switchboard-plug-a11y",
