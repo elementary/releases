@@ -1646,7 +1646,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 463
+    "new_commits": 464
   },
   {
     "name": "wingpanel-indicator-nightlight",
@@ -2342,7 +2342,7 @@
         "href": "https://github.com/elementary/onboarding/releases/tag/1.0"
       }
     ],
-    "new_commits": 218
+    "new_commits": 220
   },
   {
     "name": "shortcut-overlay",
@@ -3618,7 +3618,7 @@
         "href": "https://github.com/elementary/terminal/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 273
+    "new_commits": 276
   },
   {
     "name": "wingpanel-indicator-notifications",
