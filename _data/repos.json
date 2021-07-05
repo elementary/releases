@@ -792,7 +792,7 @@
         "href": "https://github.com/elementary/switchboard-plug-network/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 96
+    "new_commits": 97
   },
   {
     "name": "appcenter",
@@ -1397,7 +1397,7 @@
         "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 90
+    "new_commits": 91
   },
   {
     "name": "wingpanel-indicator-power",
@@ -2514,7 +2514,7 @@
         "href": "https://github.com/elementary/greeter/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 86
+    "new_commits": 87
   },
   {
     "name": "switchboard-plug-mouse-touchpad",
