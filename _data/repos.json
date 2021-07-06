@@ -184,7 +184,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 82
+    "new_commits": 83
   },
   {
     "name": "switchboard-plug-bluetooth",
@@ -1397,7 +1397,7 @@
         "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 91
+    "new_commits": 92
   },
   {
     "name": "wingpanel-indicator-power",
@@ -2693,7 +2693,7 @@
         "href": "https://github.com/elementary/switchboard-plug-parental-controls/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 99
+    "new_commits": 100
   },
   {
     "name": "applications-menu",
@@ -2907,7 +2907,7 @@
         "href": "https://github.com/elementary/switchboard-plug-security-privacy/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 78
+    "new_commits": 79
   },
   {
     "name": "switchboard-plug-power",
@@ -2969,7 +2969,7 @@
         "href": "https://github.com/elementary/switchboard-plug-power/releases/tag/0.3.1"
       }
     ],
-    "new_commits": 86
+    "new_commits": 87
   },
   {
     "name": "icons",
@@ -4128,7 +4128,7 @@
         "href": "https://github.com/elementary/screenshot/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 183
+    "new_commits": 184
   },
   {
     "name": "default-settings",
