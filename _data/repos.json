@@ -1646,7 +1646,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 479
+    "new_commits": 481
   },
   {
     "name": "wingpanel-indicator-nightlight",
@@ -3859,7 +3859,7 @@
         "href": "https://github.com/elementary/camera/releases/tag/1.0"
       }
     ],
-    "new_commits": 190
+    "new_commits": 195
   },
   {
     "name": "switchboard-plug-a11y",
