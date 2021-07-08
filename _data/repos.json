@@ -2246,7 +2246,7 @@
         "href": "https://github.com/elementary/sideload/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 233
+    "new_commits": 234
   },
   {
     "name": "wingpanel-indicator-network",
@@ -2383,7 +2383,7 @@
         "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.0"
       }
     ],
-    "new_commits": 69
+    "new_commits": 71
   },
   {
     "name": "switchboard-plug-printers",
@@ -3197,7 +3197,7 @@
         "href": "https://github.com/elementary/switchboard/releases/tag/2.3.0"
       }
     ],
-    "new_commits": 65
+    "new_commits": 66
   },
   {
     "name": "switchboard-plug-pantheon-shell",
@@ -3438,7 +3438,7 @@
         "href": "https://github.com/elementary/photos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 207
+    "new_commits": 208
   },
   {
     "name": "switchboard-plug-applications",
