@@ -2452,7 +2452,7 @@
         "href": "https://github.com/elementary/switchboard-plug-printers/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 63
+    "new_commits": 64
   },
   {
     "name": "greeter",
@@ -3493,7 +3493,7 @@
         "href": "https://github.com/elementary/switchboard-plug-applications/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 272
+    "new_commits": 273
   },
   {
     "name": "terminal",
