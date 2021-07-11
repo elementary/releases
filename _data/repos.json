@@ -2136,7 +2136,7 @@
         "href": "https://github.com/elementary/switchboard-plug-notifications/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 34
+    "new_commits": 36
   },
   {
     "name": "switchboard-plug-display",
@@ -2212,7 +2212,7 @@
         "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 99
+    "new_commits": 101
   },
   {
     "name": "sideload",
@@ -2452,7 +2452,7 @@
         "href": "https://github.com/elementary/switchboard-plug-printers/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 64
+    "new_commits": 65
   },
   {
     "name": "greeter",
