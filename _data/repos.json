@@ -723,7 +723,7 @@
         "href": "https://github.com/elementary/calendar/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 181
+    "new_commits": 183
   },
   {
     "name": "switchboard-plug-network",
@@ -3859,7 +3859,7 @@
         "href": "https://github.com/elementary/camera/releases/tag/1.0"
       }
     ],
-    "new_commits": 200
+    "new_commits": 201
   },
   {
     "name": "switchboard-plug-a11y",
@@ -4263,7 +4263,7 @@
         "href": "https://github.com/elementary/feedback/releases/tag/1.0"
       }
     ],
-    "new_commits": 433
+    "new_commits": 434
   },
   {
     "name": "switchboard-plug-onlineaccounts",
@@ -4345,7 +4345,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 2744
+    "new_commits": 2754
   },
   {
     "name": "fonts",
