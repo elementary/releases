@@ -173,6 +173,33 @@
     "new_commits": 0
   },
   {
+    "name": "contractor",
+    "releases": [
+      {
+        "version": "0.3.5",
+        "release_date": "2021-07-13T21:32:11",
+        "title": "Contractor 0.3.5 Released",
+        "body": "Fix install path for DBus service",
+        "href": "https://github.com/elementary/contractor/releases/tag/0.3.5"
+      },
+      {
+        "version": "0.3.4",
+        "release_date": "2018-08-02T14:46:21",
+        "title": "Contractor 0.3.4 Released",
+        "body": "Contractor 0.3.4 is out!\r\n\r\nThis release adds new Meson build system and removes old CMake.",
+        "href": "https://github.com/elementary/contractor/releases/tag/0.3.4"
+      },
+      {
+        "version": "0.3.3",
+        "release_date": "2018-05-18T12:03:40",
+        "title": "Contractor 0.3.3 Released",
+        "body": "Contractor 0.3.3 is out!\r\n\r\nThis release includes documentation improvements and a minor build system fix.",
+        "href": "https://github.com/elementary/contractor/releases/tag/0.3.3"
+      }
+    ],
+    "new_commits": 0
+  },
+  {
     "name": "calculator",
     "releases": [
       {
@@ -4406,7 +4433,7 @@
         "href": "https://github.com/elementary/mail/releases/tag/1.0.6"
       }
     ],
-    "new_commits": 457
+    "new_commits": 459
   },
   {
     "name": "press-kit",
@@ -4454,26 +4481,6 @@
       }
     ],
     "new_commits": 18
-  },
-  {
-    "name": "contractor",
-    "releases": [
-      {
-        "version": "0.3.4",
-        "release_date": "2018-08-02T14:46:21",
-        "title": "Contractor 0.3.4 Released",
-        "body": "Contractor 0.3.4 is out!\r\n\r\nThis release adds new Meson build system and removes old CMake.",
-        "href": "https://github.com/elementary/contractor/releases/tag/0.3.4"
-      },
-      {
-        "version": "0.3.3",
-        "release_date": "2018-05-18T12:03:40",
-        "title": "Contractor 0.3.3 Released",
-        "body": "Contractor 0.3.3 is out!\r\n\r\nThis release includes documentation improvements and a minor build system fix.",
-        "href": "https://github.com/elementary/contractor/releases/tag/0.3.3"
-      }
-    ],
-    "new_commits": 5
   },
   {
     "name": "sound-theme",
