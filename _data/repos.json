@@ -1,5 +1,309 @@
 [
   {
+    "name": "wingpanel",
+    "releases": [
+      {
+        "version": "3.0.0",
+        "release_date": "2021-07-13T23:36:01",
+        "title": "wingpanel 3.0.0 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Fix some issues with indicator sort order</li>\n<li>Adjust special icon colors for dark and light panels to improve contrast</li>\n<li>Fix getting monitor dimensions under Wayland</li>\n<li>Hide tooltips when indicators are open</li>\n<li>Updated translations</li>\n</ul>\n<p>Deprecations:</p>\n<ul>\n<li>Wingpanel.Widgets.Container: Use Gtk.ModelButton instead</li>\n<li>Wingpanel.Widgets.Separator: Use Gtk.Separator instead</li>\n<li>Wingpanel.Widgets.Switch: Use Granite.SwitchModelButton instead</li>\n</ul>\n<p>Removals:</p>\n<ul>\n<li>Wingpanel.Widgets.AutomaticScrollBox: use Gtk.ScrolledWindow.max_content_height instead</li>\n<li>Wingpanel.Widgets.Button: Use Gtk.ModelButton instead</li>\n</ul>\n",
+        "href": "https://github.com/elementary/wingpanel/releases/tag/3.0.0"
+      },
+      {
+        "version": "2.3.2",
+        "release_date": "2020-06-19T19:01:53",
+        "title": "wingpanel 2.3.2 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Fix a potential issue when ending the session</li>\n<li>Use \"allowed\" and \"forbidden\" list names</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/wingpanel/releases/tag/2.3.2"
+      },
+      {
+        "version": "2.3.1",
+        "release_date": "2020-04-06T03:59:58",
+        "title": "wingpanel 2.3.1 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Fix an issue with some 3 monitor layouts</li>\n<li>Reduce spacing between icons</li>\n<li>Add support for mutter 3.36</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/wingpanel/releases/tag/2.3.1"
+      },
+      {
+        "version": "2.3.0",
+        "release_date": "2020-03-02T19:36:38",
+        "title": "wingpanel 2.3.0 Released",
+        "body": "wingpanel 2.3.0 is out! \n\n<p>Improvements:</p>\n<ul>\n<li>Fix an issue where moving windows to a secondary display above the panel wouldn't work</li>\n<li>Register with session manager</li>\n<li>Add support for mutter 3.3x</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/wingpanel/releases/tag/2.3.0"
+      },
+      {
+        "version": "2.2.6",
+        "release_date": "2019-10-31T20:41:42",
+        "title": "wingpanel 2.2.6 Released",
+        "body": "wingpanel 2.2.6 is out! \n\nChanges:\n\n* Fix an issue with the panel being draggable on touch screens\n* Fix focus on dialogs launched from the panel\n* Updated translations\n",
+        "href": "https://github.com/elementary/wingpanel/releases/tag/2.2.6"
+      },
+      {
+        "version": "2.2.5",
+        "release_date": "2019-06-05T09:55:20",
+        "title": "Wingpanel 2.2.5 Released",
+        "body": "Wingpanel 2.2.5 is out!\r\n\r\nChanges:\r\n* More accurately focus launched apps\r\n* Mitigate panel transparency calculation regressions with newer Mutter library\r\n* Deprecate unused indicator properties",
+        "href": "https://github.com/elementary/wingpanel/releases/tag/2.2.5"
+      },
+      {
+        "version": "2.2.4",
+        "release_date": "2019-04-24T12:30:39",
+        "title": "Wingpanel 2.2.4 Released",
+        "body": "Wingpanel 2.2.4 is out!\r\n\r\nChanges:\r\n* Fix moving window to another workspace not updating panel state",
+        "href": "https://github.com/elementary/wingpanel/releases/tag/2.2.4"
+      },
+      {
+        "version": "2.2.3",
+        "release_date": "2019-03-18T16:38:23",
+        "title": "Wingpanel 2.2.3 Released",
+        "body": "Wingpanel 2.2.3 is out!\r\n\r\nChanges:\r\n* Fix potential window overlap",
+        "href": "https://github.com/elementary/wingpanel/releases/tag/2.2.3"
+      },
+      {
+        "version": "2.2.2",
+        "release_date": "2019-01-17T20:03:29",
+        "title": "Wingpanel 2.2.2 Released",
+        "body": "Wingpanel 2.2.2 is out!\r\n\r\nChanges:\r\n* Fix disappearing reactivated indicators\r\n* Updated translations",
+        "href": "https://github.com/elementary/wingpanel/releases/tag/2.2.2"
+      },
+      {
+        "version": "2.2.1",
+        "release_date": "2018-12-20T12:23:56",
+        "title": "Wingpanel 2.2.1 Released",
+        "body": "Wingpanel 2.2.1 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/wingpanel/issues?q=is%3Aclosed+milestone%3A2.2.1).",
+        "href": "https://github.com/elementary/wingpanel/releases/tag/2.2.1"
+      },
+      {
+        "version": "2.2.0",
+        "release_date": "2018-10-04T14:34:15",
+        "title": "Wingpanel 2.2.0 Released",
+        "body": "Wingpanel 2.2.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/wingpanel/issues?q=is%3Aclosed+milestone%3A2.2.0).",
+        "href": "https://github.com/elementary/wingpanel/releases/tag/2.2.0"
+      },
+      {
+        "version": "2.1.1",
+        "release_date": "2018-06-22T07:24:13",
+        "title": "Wingpanel 2.1.1 Released",
+        "body": "Wingpanel 2.1.1 is out!\r\n\r\nThis release includes the following changes:\r\n* Settings path moved to `io.elementary.desktop.wingpanel`\r\n* New translations",
+        "href": "https://github.com/elementary/wingpanel/releases/tag/2.1.1"
+      },
+      {
+        "version": "2.1.0",
+        "release_date": "2018-06-06T11:41:54",
+        "title": "Wingpanel 2.1.0 Released",
+        "body": "Wingpanel 2.1.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/wingpanel/issues?q=is%3Aclosed+milestone%3A2.1.0).",
+        "href": "https://github.com/elementary/wingpanel/releases/tag/2.1.0"
+      },
+      {
+        "version": "2.0.4",
+        "release_date": "2017-09-12T02:01:36",
+        "title": "Wingpanel 2.0.4 Released",
+        "body": "Wingpanel 2.0.4 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/wingpanel/milestone/2?closed=1).",
+        "href": "https://github.com/elementary/wingpanel/releases/tag/2.0.4"
+      },
+      {
+        "version": "2.0.3",
+        "release_date": "2017-05-30T19:07:22",
+        "title": "Wingpanel 2.0.3 Released",
+        "body": "Wingpanel 2.0.3 is out!",
+        "href": "https://github.com/elementary/wingpanel/releases/tag/2.0.3"
+      }
+    ],
+    "new_commits": 0
+  },
+  {
+    "name": "switchboard-plug-sharing",
+    "releases": [
+      {
+        "version": "2.1.5",
+        "release_date": "2021-07-13T23:29:56",
+        "title": "switchboard-plug-sharing 2.1.5 Released",
+        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-sharing/releases/tag/2.1.5"
+      },
+      {
+        "version": "2.1.4",
+        "release_date": "2020-04-01T23:43:41",
+        "title": "switchboard-plug-sharing 2.1.4 Released",
+        "body": "switchboard-plug-sharing 2.1.4 is out! \n\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-sharing/releases/tag/2.1.4"
+      },
+      {
+        "version": "2.1.3",
+        "release_date": "2018-10-16T01:08:01",
+        "title": "Switchboard Sharing Plug 2.1.3 Released",
+        "body": "switchboard-plug-sharing 2.1.3 is out!\r\n\r\nThis release includes updated translations.",
+        "href": "https://github.com/elementary/switchboard-plug-sharing/releases/tag/2.1.3"
+      },
+      {
+        "version": "0.1.2",
+        "release_date": "2018-06-07T11:36:51",
+        "title": "Switchboard Sharing Plug 0.1.2 Released",
+        "body": "switchboard-plug-sharing 0.1.2 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-sharing/issues?q=is%3Aclosed+milestone%3A0.1.2).",
+        "href": "https://github.com/elementary/switchboard-plug-sharing/releases/tag/0.1.2"
+      }
+    ],
+    "new_commits": 0
+  },
+  {
+    "name": "wingpanel-indicator-session",
+    "releases": [
+      {
+        "version": "2.3.0",
+        "release_date": "2021-07-13T23:28:32",
+        "title": "wingpanel-indicator-session 2.3.0 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>New colorful avatar fallback</li>\n<li>Tooltip on hover</li>\n<li>Performance improvements</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/wingpanel-indicator-session/releases/tag/2.3.0"
+      },
+      {
+        "version": "2.2.8",
+        "release_date": "2020-04-01T23:50:50",
+        "title": "wingpanel-indicator-session 2.2.8 Released",
+        "body": "wingpanel-indicator-session 2.2.8 is out! \n\n<p>Minor updates:</p>\n<ul>\n<li>Performance improvements</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/wingpanel-indicator-session/releases/tag/2.2.8"
+      },
+      {
+        "version": "2.2.7",
+        "release_date": "2020-01-17T22:36:39",
+        "title": "wingpanel-indicator-session 2.2.7 Released",
+        "body": "wingpanel-indicator-session 2.2.7 is out! \n\n<p>Minor updates:</p>\n<ul>\n<li>Updated styling for keyboard shortcuts</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/wingpanel-indicator-session/releases/tag/2.2.7"
+      },
+      {
+        "version": "2.2.6",
+        "release_date": "2019-11-25T16:45:48",
+        "title": "wingpanel-indicator-session 2.2.6 Released",
+        "body": "wingpanel-indicator-session 2.2.6 is out! \n\nChanges:\n\n* Updated translations\n",
+        "href": "https://github.com/elementary/wingpanel-indicator-session/releases/tag/2.2.6"
+      },
+      {
+        "version": "2.2.5",
+        "release_date": "2019-07-19T13:47:00",
+        "title": "Wingpanel Session Indicator 2.2.5 Released",
+        "body": "wingpanel-indicator-session 2.2.5 is out!\r\n\r\nChanges:\r\n* Fix scrambled Shut Down dialog layout in some languages\r\n* Esc key can now close Shut Down and Log Out dialogs",
+        "href": "https://github.com/elementary/wingpanel-indicator-session/releases/tag/2.2.5"
+      },
+      {
+        "version": "2.2.4",
+        "release_date": "2019-07-09T21:32:36",
+        "title": "Wingpanel Session Indicator 2.2.4 Released",
+        "body": "wingpanel-indicator-session 2.2.4 is out!\r\n\r\nChanges:\r\n* Workaround unstyled EndSessionDialog titlebar during Greeter session\r\n* Avoid requiring extra click to close indicator in some situations\r\n* Updated translations",
+        "href": "https://github.com/elementary/wingpanel-indicator-session/releases/tag/2.2.4"
+      },
+      {
+        "version": "2.2.3",
+        "release_date": "2019-03-05T00:07:27",
+        "title": "Wingpanel Session Indicator 2.2.3 Released",
+        "body": "wingpanel-indicator-session 2.2.3 is out!\r\n\r\nChanges:\r\n* Add accelerator markup for lock and logout key combos\r\n* Updated translations",
+        "href": "https://github.com/elementary/wingpanel-indicator-session/releases/tag/2.2.3"
+      },
+      {
+        "version": "2.2.2",
+        "release_date": "2018-12-21T12:46:30",
+        "title": "Wingpanel Session Indicator 2.2.2 Released",
+        "body": "wingpanel-indicator-session 2.2.2 is out!\r\n\r\nChanges:\r\n* Allow running without a display manager\r\n* Updated translations",
+        "href": "https://github.com/elementary/wingpanel-indicator-session/releases/tag/2.2.2"
+      },
+      {
+        "version": "2.2.1",
+        "release_date": "2018-10-16T08:13:01",
+        "title": "Wingpanel Session Indicator 2.2.1 Released",
+        "body": "wingpanel-indicator-session 2.2.1 is out!\r\n\r\nThis release includes updated translations.",
+        "href": "https://github.com/elementary/wingpanel-indicator-session/releases/tag/2.2.1"
+      },
+      {
+        "version": "2.2.0",
+        "release_date": "2018-10-02T11:12:19",
+        "title": "Wingpanel Session Indicator 2.2.0 Released",
+        "body": "wingpanel-indicator-session 2.2.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/wingpanel-indicator-session/issues?q=is%3Aclosed+milestone%3A2.2.0).",
+        "href": "https://github.com/elementary/wingpanel-indicator-session/releases/tag/2.2.0"
+      },
+      {
+        "version": "2.1.0",
+        "release_date": "2018-06-07T09:57:13",
+        "title": "Wingpanel Session Indicator 2.1.0 Released",
+        "body": "wingpanel-indicator-session 2.1.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/wingpanel-indicator-session/issues?q=is%3Aclosed+milestone%3A2.1.0).",
+        "href": "https://github.com/elementary/wingpanel-indicator-session/releases/tag/2.1.0"
+      },
+      {
+        "version": "2.0.4",
+        "release_date": "2017-11-28T18:23:54",
+        "title": "Wingpanel Session Indicator 2.0.4 Released",
+        "body": "wingpanel-indicator-session 2.0.4 is out!\r\n\r\nThe list of issues closed in this release can be found [here](https://github.com/elementary/wingpanel-indicator-session/issues?q=is%3Aclosed+milestone%3A2.0.4).",
+        "href": "https://github.com/elementary/wingpanel-indicator-session/releases/tag/2.0.4"
+      },
+      {
+        "version": "2.0.3",
+        "release_date": "2017-08-14T01:12:01",
+        "title": "Wingpanel Session Indicator 2.0.3 Released",
+        "body": "wingpanel-indicator-session 2.0.3 is out!",
+        "href": "https://github.com/elementary/wingpanel-indicator-session/releases/tag/2.0.3"
+      },
+      {
+        "version": "2.0.2",
+        "release_date": "2017-06-28T10:59:57",
+        "title": "Wingpanel Session Indicator 2.0.2 Released",
+        "body": "wingpanel-indicator-session 2.0.2 is out!",
+        "href": "https://github.com/elementary/wingpanel-indicator-session/releases/tag/2.0.2"
+      }
+    ],
+    "new_commits": 5
+  },
+  {
+    "name": "capnet-assist",
+    "releases": [
+      {
+        "version": "2.3.0",
+        "release_date": "2021-07-13T23:27:59",
+        "title": "capnet-assist 2.3.0 Released",
+        "body": "<ul>\n<li>Dark style support</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/capnet-assist/releases/tag/2.3.0"
+      },
+      {
+        "version": "2.2.5",
+        "release_date": "2020-04-08T20:31:34",
+        "title": "capnet-assist 2.2.5 Released",
+        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/capnet-assist/releases/tag/2.2.5"
+      },
+      {
+        "version": "2.2.4",
+        "release_date": "2019-11-20T16:40:39",
+        "title": "capnet-assist 2.2.4 Released",
+        "body": "capnet-assist 2.2.4 is out! \n\nChanges:\n\n* Updated translations\n",
+        "href": "https://github.com/elementary/capnet-assist/releases/tag/2.2.4"
+      },
+      {
+        "version": "2.2.3",
+        "release_date": "2019-02-01T15:07:29",
+        "title": "Captive Portal Assistant 2.2.3 Released",
+        "body": "Captive Portal Assistant 2.2.3 is out!\r\n\r\nChanges:\r\n* Updated translations",
+        "href": "https://github.com/elementary/capnet-assist/releases/tag/2.2.3"
+      },
+      {
+        "version": "2.2.2",
+        "release_date": "2018-10-15T23:19:38",
+        "title": "Captive Portal Assistant 2.2.2 Released",
+        "body": "Captive Portal Assistant 2.2.2 is out!\r\n\r\nThis release includes updated translations.",
+        "href": "https://github.com/elementary/capnet-assist/releases/tag/2.2.2"
+      },
+      {
+        "version": "2.2.1",
+        "release_date": "2018-10-03T11:59:05",
+        "title": "Captive Portal Assistant 2.2.1 Released",
+        "body": "Captive Portal Assistant 2.2.1 is out!\r\n\r\nThis release includes updated translations.",
+        "href": "https://github.com/elementary/capnet-assist/releases/tag/2.2.1"
+      },
+      {
+        "version": "0.2.2",
+        "release_date": "2018-06-05T09:43:41",
+        "title": "Captive Portal Assistant 0.2.2 Released",
+        "body": "Captive Portal Assistant 0.2.2 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/capnet-assist/issues?q=is%3Aclosed+milestone%3A0.2.2).",
+        "href": "https://github.com/elementary/capnet-assist/releases/tag/0.2.2"
+      }
+    ],
+    "new_commits": 3
+  },
+  {
     "name": "wallpapers",
     "releases": [
       {
@@ -1938,110 +2242,6 @@
     "new_commits": 84
   },
   {
-    "name": "wingpanel",
-    "releases": [
-      {
-        "version": "2.3.2",
-        "release_date": "2020-06-19T19:01:53",
-        "title": "wingpanel 2.3.2 Released",
-        "body": "<p>Improvements:</p>\n<ul>\n<li>Fix a potential issue when ending the session</li>\n<li>Use \"allowed\" and \"forbidden\" list names</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/wingpanel/releases/tag/2.3.2"
-      },
-      {
-        "version": "2.3.1",
-        "release_date": "2020-04-06T03:59:58",
-        "title": "wingpanel 2.3.1 Released",
-        "body": "<p>Improvements:</p>\n<ul>\n<li>Fix an issue with some 3 monitor layouts</li>\n<li>Reduce spacing between icons</li>\n<li>Add support for mutter 3.36</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/wingpanel/releases/tag/2.3.1"
-      },
-      {
-        "version": "2.3.0",
-        "release_date": "2020-03-02T19:36:38",
-        "title": "wingpanel 2.3.0 Released",
-        "body": "wingpanel 2.3.0 is out! \n\n<p>Improvements:</p>\n<ul>\n<li>Fix an issue where moving windows to a secondary display above the panel wouldn't work</li>\n<li>Register with session manager</li>\n<li>Add support for mutter 3.3x</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/wingpanel/releases/tag/2.3.0"
-      },
-      {
-        "version": "2.2.6",
-        "release_date": "2019-10-31T20:41:42",
-        "title": "wingpanel 2.2.6 Released",
-        "body": "wingpanel 2.2.6 is out! \n\nChanges:\n\n* Fix an issue with the panel being draggable on touch screens\n* Fix focus on dialogs launched from the panel\n* Updated translations\n",
-        "href": "https://github.com/elementary/wingpanel/releases/tag/2.2.6"
-      },
-      {
-        "version": "2.2.5",
-        "release_date": "2019-06-05T09:55:20",
-        "title": "Wingpanel 2.2.5 Released",
-        "body": "Wingpanel 2.2.5 is out!\r\n\r\nChanges:\r\n* More accurately focus launched apps\r\n* Mitigate panel transparency calculation regressions with newer Mutter library\r\n* Deprecate unused indicator properties",
-        "href": "https://github.com/elementary/wingpanel/releases/tag/2.2.5"
-      },
-      {
-        "version": "2.2.4",
-        "release_date": "2019-04-24T12:30:39",
-        "title": "Wingpanel 2.2.4 Released",
-        "body": "Wingpanel 2.2.4 is out!\r\n\r\nChanges:\r\n* Fix moving window to another workspace not updating panel state",
-        "href": "https://github.com/elementary/wingpanel/releases/tag/2.2.4"
-      },
-      {
-        "version": "2.2.3",
-        "release_date": "2019-03-18T16:38:23",
-        "title": "Wingpanel 2.2.3 Released",
-        "body": "Wingpanel 2.2.3 is out!\r\n\r\nChanges:\r\n* Fix potential window overlap",
-        "href": "https://github.com/elementary/wingpanel/releases/tag/2.2.3"
-      },
-      {
-        "version": "2.2.2",
-        "release_date": "2019-01-17T20:03:29",
-        "title": "Wingpanel 2.2.2 Released",
-        "body": "Wingpanel 2.2.2 is out!\r\n\r\nChanges:\r\n* Fix disappearing reactivated indicators\r\n* Updated translations",
-        "href": "https://github.com/elementary/wingpanel/releases/tag/2.2.2"
-      },
-      {
-        "version": "2.2.1",
-        "release_date": "2018-12-20T12:23:56",
-        "title": "Wingpanel 2.2.1 Released",
-        "body": "Wingpanel 2.2.1 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/wingpanel/issues?q=is%3Aclosed+milestone%3A2.2.1).",
-        "href": "https://github.com/elementary/wingpanel/releases/tag/2.2.1"
-      },
-      {
-        "version": "2.2.0",
-        "release_date": "2018-10-04T14:34:15",
-        "title": "Wingpanel 2.2.0 Released",
-        "body": "Wingpanel 2.2.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/wingpanel/issues?q=is%3Aclosed+milestone%3A2.2.0).",
-        "href": "https://github.com/elementary/wingpanel/releases/tag/2.2.0"
-      },
-      {
-        "version": "2.1.1",
-        "release_date": "2018-06-22T07:24:13",
-        "title": "Wingpanel 2.1.1 Released",
-        "body": "Wingpanel 2.1.1 is out!\r\n\r\nThis release includes the following changes:\r\n* Settings path moved to `io.elementary.desktop.wingpanel`\r\n* New translations",
-        "href": "https://github.com/elementary/wingpanel/releases/tag/2.1.1"
-      },
-      {
-        "version": "2.1.0",
-        "release_date": "2018-06-06T11:41:54",
-        "title": "Wingpanel 2.1.0 Released",
-        "body": "Wingpanel 2.1.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/wingpanel/issues?q=is%3Aclosed+milestone%3A2.1.0).",
-        "href": "https://github.com/elementary/wingpanel/releases/tag/2.1.0"
-      },
-      {
-        "version": "2.0.4",
-        "release_date": "2017-09-12T02:01:36",
-        "title": "Wingpanel 2.0.4 Released",
-        "body": "Wingpanel 2.0.4 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/wingpanel/milestone/2?closed=1).",
-        "href": "https://github.com/elementary/wingpanel/releases/tag/2.0.4"
-      },
-      {
-        "version": "2.0.3",
-        "release_date": "2017-05-30T19:07:22",
-        "title": "Wingpanel 2.0.3 Released",
-        "body": "Wingpanel 2.0.3 is out!",
-        "href": "https://github.com/elementary/wingpanel/releases/tag/2.0.3"
-      }
-    ],
-    "new_commits": 41
-  },
-  {
     "name": "pantheon-agent-polkit",
     "releases": [
       {
@@ -3169,7 +3369,7 @@
         "href": "https://github.com/elementary/icons/releases/tag/4.0.1.1"
       }
     ],
-    "new_commits": 69
+    "new_commits": 70
   },
   {
     "name": "gala",
@@ -3404,54 +3604,6 @@
       }
     ],
     "new_commits": 39
-  },
-  {
-    "name": "capnet-assist",
-    "releases": [
-      {
-        "version": "2.2.5",
-        "release_date": "2020-04-08T20:31:34",
-        "title": "capnet-assist 2.2.5 Released",
-        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/capnet-assist/releases/tag/2.2.5"
-      },
-      {
-        "version": "2.2.4",
-        "release_date": "2019-11-20T16:40:39",
-        "title": "capnet-assist 2.2.4 Released",
-        "body": "capnet-assist 2.2.4 is out! \n\nChanges:\n\n* Updated translations\n",
-        "href": "https://github.com/elementary/capnet-assist/releases/tag/2.2.4"
-      },
-      {
-        "version": "2.2.3",
-        "release_date": "2019-02-01T15:07:29",
-        "title": "Captive Portal Assistant 2.2.3 Released",
-        "body": "Captive Portal Assistant 2.2.3 is out!\r\n\r\nChanges:\r\n* Updated translations",
-        "href": "https://github.com/elementary/capnet-assist/releases/tag/2.2.3"
-      },
-      {
-        "version": "2.2.2",
-        "release_date": "2018-10-15T23:19:38",
-        "title": "Captive Portal Assistant 2.2.2 Released",
-        "body": "Captive Portal Assistant 2.2.2 is out!\r\n\r\nThis release includes updated translations.",
-        "href": "https://github.com/elementary/capnet-assist/releases/tag/2.2.2"
-      },
-      {
-        "version": "2.2.1",
-        "release_date": "2018-10-03T11:59:05",
-        "title": "Captive Portal Assistant 2.2.1 Released",
-        "body": "Captive Portal Assistant 2.2.1 is out!\r\n\r\nThis release includes updated translations.",
-        "href": "https://github.com/elementary/capnet-assist/releases/tag/2.2.1"
-      },
-      {
-        "version": "0.2.2",
-        "release_date": "2018-06-05T09:43:41",
-        "title": "Captive Portal Assistant 0.2.2 Released",
-        "body": "Captive Portal Assistant 0.2.2 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/capnet-assist/issues?q=is%3Aclosed+milestone%3A0.2.2).",
-        "href": "https://github.com/elementary/capnet-assist/releases/tag/0.2.2"
-      }
-    ],
-    "new_commits": 63
   },
   {
     "name": "photos",
@@ -3770,130 +3922,6 @@
       }
     ],
     "new_commits": 150
-  },
-  {
-    "name": "wingpanel-indicator-session",
-    "releases": [
-      {
-        "version": "2.2.8",
-        "release_date": "2020-04-01T23:50:50",
-        "title": "wingpanel-indicator-session 2.2.8 Released",
-        "body": "wingpanel-indicator-session 2.2.8 is out! \n\n<p>Minor updates:</p>\n<ul>\n<li>Performance improvements</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/wingpanel-indicator-session/releases/tag/2.2.8"
-      },
-      {
-        "version": "2.2.7",
-        "release_date": "2020-01-17T22:36:39",
-        "title": "wingpanel-indicator-session 2.2.7 Released",
-        "body": "wingpanel-indicator-session 2.2.7 is out! \n\n<p>Minor updates:</p>\n<ul>\n<li>Updated styling for keyboard shortcuts</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/wingpanel-indicator-session/releases/tag/2.2.7"
-      },
-      {
-        "version": "2.2.6",
-        "release_date": "2019-11-25T16:45:48",
-        "title": "wingpanel-indicator-session 2.2.6 Released",
-        "body": "wingpanel-indicator-session 2.2.6 is out! \n\nChanges:\n\n* Updated translations\n",
-        "href": "https://github.com/elementary/wingpanel-indicator-session/releases/tag/2.2.6"
-      },
-      {
-        "version": "2.2.5",
-        "release_date": "2019-07-19T13:47:00",
-        "title": "Wingpanel Session Indicator 2.2.5 Released",
-        "body": "wingpanel-indicator-session 2.2.5 is out!\r\n\r\nChanges:\r\n* Fix scrambled Shut Down dialog layout in some languages\r\n* Esc key can now close Shut Down and Log Out dialogs",
-        "href": "https://github.com/elementary/wingpanel-indicator-session/releases/tag/2.2.5"
-      },
-      {
-        "version": "2.2.4",
-        "release_date": "2019-07-09T21:32:36",
-        "title": "Wingpanel Session Indicator 2.2.4 Released",
-        "body": "wingpanel-indicator-session 2.2.4 is out!\r\n\r\nChanges:\r\n* Workaround unstyled EndSessionDialog titlebar during Greeter session\r\n* Avoid requiring extra click to close indicator in some situations\r\n* Updated translations",
-        "href": "https://github.com/elementary/wingpanel-indicator-session/releases/tag/2.2.4"
-      },
-      {
-        "version": "2.2.3",
-        "release_date": "2019-03-05T00:07:27",
-        "title": "Wingpanel Session Indicator 2.2.3 Released",
-        "body": "wingpanel-indicator-session 2.2.3 is out!\r\n\r\nChanges:\r\n* Add accelerator markup for lock and logout key combos\r\n* Updated translations",
-        "href": "https://github.com/elementary/wingpanel-indicator-session/releases/tag/2.2.3"
-      },
-      {
-        "version": "2.2.2",
-        "release_date": "2018-12-21T12:46:30",
-        "title": "Wingpanel Session Indicator 2.2.2 Released",
-        "body": "wingpanel-indicator-session 2.2.2 is out!\r\n\r\nChanges:\r\n* Allow running without a display manager\r\n* Updated translations",
-        "href": "https://github.com/elementary/wingpanel-indicator-session/releases/tag/2.2.2"
-      },
-      {
-        "version": "2.2.1",
-        "release_date": "2018-10-16T08:13:01",
-        "title": "Wingpanel Session Indicator 2.2.1 Released",
-        "body": "wingpanel-indicator-session 2.2.1 is out!\r\n\r\nThis release includes updated translations.",
-        "href": "https://github.com/elementary/wingpanel-indicator-session/releases/tag/2.2.1"
-      },
-      {
-        "version": "2.2.0",
-        "release_date": "2018-10-02T11:12:19",
-        "title": "Wingpanel Session Indicator 2.2.0 Released",
-        "body": "wingpanel-indicator-session 2.2.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/wingpanel-indicator-session/issues?q=is%3Aclosed+milestone%3A2.2.0).",
-        "href": "https://github.com/elementary/wingpanel-indicator-session/releases/tag/2.2.0"
-      },
-      {
-        "version": "2.1.0",
-        "release_date": "2018-06-07T09:57:13",
-        "title": "Wingpanel Session Indicator 2.1.0 Released",
-        "body": "wingpanel-indicator-session 2.1.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/wingpanel-indicator-session/issues?q=is%3Aclosed+milestone%3A2.1.0).",
-        "href": "https://github.com/elementary/wingpanel-indicator-session/releases/tag/2.1.0"
-      },
-      {
-        "version": "2.0.4",
-        "release_date": "2017-11-28T18:23:54",
-        "title": "Wingpanel Session Indicator 2.0.4 Released",
-        "body": "wingpanel-indicator-session 2.0.4 is out!\r\n\r\nThe list of issues closed in this release can be found [here](https://github.com/elementary/wingpanel-indicator-session/issues?q=is%3Aclosed+milestone%3A2.0.4).",
-        "href": "https://github.com/elementary/wingpanel-indicator-session/releases/tag/2.0.4"
-      },
-      {
-        "version": "2.0.3",
-        "release_date": "2017-08-14T01:12:01",
-        "title": "Wingpanel Session Indicator 2.0.3 Released",
-        "body": "wingpanel-indicator-session 2.0.3 is out!",
-        "href": "https://github.com/elementary/wingpanel-indicator-session/releases/tag/2.0.3"
-      },
-      {
-        "version": "2.0.2",
-        "release_date": "2017-06-28T10:59:57",
-        "title": "Wingpanel Session Indicator 2.0.2 Released",
-        "body": "wingpanel-indicator-session 2.0.2 is out!",
-        "href": "https://github.com/elementary/wingpanel-indicator-session/releases/tag/2.0.2"
-      }
-    ],
-    "new_commits": 110
-  },
-  {
-    "name": "switchboard-plug-sharing",
-    "releases": [
-      {
-        "version": "2.1.4",
-        "release_date": "2020-04-01T23:43:41",
-        "title": "switchboard-plug-sharing 2.1.4 Released",
-        "body": "switchboard-plug-sharing 2.1.4 is out! \n\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-sharing/releases/tag/2.1.4"
-      },
-      {
-        "version": "2.1.3",
-        "release_date": "2018-10-16T01:08:01",
-        "title": "Switchboard Sharing Plug 2.1.3 Released",
-        "body": "switchboard-plug-sharing 2.1.3 is out!\r\n\r\nThis release includes updated translations.",
-        "href": "https://github.com/elementary/switchboard-plug-sharing/releases/tag/2.1.3"
-      },
-      {
-        "version": "0.1.2",
-        "release_date": "2018-06-07T11:36:51",
-        "title": "Switchboard Sharing Plug 0.1.2 Released",
-        "body": "switchboard-plug-sharing 0.1.2 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-sharing/issues?q=is%3Aclosed+milestone%3A0.1.2).",
-        "href": "https://github.com/elementary/switchboard-plug-sharing/releases/tag/0.1.2"
-      }
-    ],
-    "new_commits": 60
   },
   {
     "name": "camera",
