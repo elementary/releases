@@ -1,5 +1,171 @@
 [
   {
+    "name": "switchboard",
+    "releases": [
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-14T17:10:58",
+        "title": "switchboard 6.0.0 Released",
+        "body": "<ul>\n<li>Add multitouch navigation gestures</li>\n<li>Better support smaller displays</li>\n<li>Remove old GNOME Control Center compatability layer</li>\n<li>Stability and performance improvements</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard/releases/tag/6.0.0"
+      },
+      {
+        "version": "2.4.0",
+        "release_date": "2020-04-30T20:47:16",
+        "title": "switchboard 2.4.0 Released",
+        "body": "<ul>\n<li>Redesign search results view</li>\n<li>Tab key moves focus out of search</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard/releases/tag/2.4.0"
+      },
+      {
+        "version": "2.3.9",
+        "release_date": "2020-03-30T21:01:11",
+        "title": "switchboard 2.3.9 Released",
+        "body": "switchboard 2.3.9 is out! \n\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard/releases/tag/2.3.9"
+      },
+      {
+        "version": "2.3.8",
+        "release_date": "2020-01-14T23:17:14",
+        "title": "switchboard 2.3.8 Released",
+        "body": "switchboard 2.3.8 is out! \n\n<ul>\n<li>Fix an issue that prevented tiling on small displays</li>\n<li>Fix an issue with restoring the correct window size</li>\n<li>Make the category grid fill the available space when maximized</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard/releases/tag/2.3.8"
+      },
+      {
+        "version": "2.3.7",
+        "release_date": "2019-11-04T22:08:38",
+        "title": "switchboard 2.3.7 Released",
+        "body": "switchboard 2.3.7 is out! \n\nChanges:\n\n* Pressing the \"Down\" arrow key from the search box correctly focuses the first row\n* Drop dynamic items from the Dock secondary-click menu\n* Updated translations\n",
+        "href": "https://github.com/elementary/switchboard/releases/tag/2.3.7"
+      },
+      {
+        "version": "2.3.6",
+        "release_date": "2019-01-23T08:18:24",
+        "title": "Switchboard 2.3.6 Released",
+        "body": "Switchboard 2.3.6 is out!\r\n\r\nChanges:\r\n* Add accel tooltip to navigation button\r\n* Updated translations",
+        "href": "https://github.com/elementary/switchboard/releases/tag/2.3.6"
+      },
+      {
+        "version": "2.3.5",
+        "release_date": "2018-11-29T15:44:15",
+        "title": "Switchboard 2.3.5 Released",
+        "body": "Switchboard 2.3.5 is out!\r\n\r\nChanges:\r\n* Improved window state saving code\r\n* Updated translations",
+        "href": "https://github.com/elementary/switchboard/releases/tag/2.3.5"
+      },
+      {
+        "version": "2.3.4",
+        "release_date": "2018-10-08T16:03:13",
+        "title": "Switchboard 2.3.4 Released",
+        "body": "Switchboard 2.3.4 is out!\r\n\r\nChanges:\r\n* Fixed incorrect gettext domain value causing missing translations",
+        "href": "https://github.com/elementary/switchboard/releases/tag/2.3.4"
+      },
+      {
+        "version": "2.3.3",
+        "release_date": "2018-10-04T11:56:54",
+        "title": "Switchboard 2.3.3 Released",
+        "body": "Switchboard 2.3.3 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard/issues?q=is%3Aclosed+milestone%3A2.3.3).",
+        "href": "https://github.com/elementary/switchboard/releases/tag/2.3.3"
+      },
+      {
+        "version": "2.3.2",
+        "release_date": "2018-07-27T07:39:49",
+        "title": "Switchboard 2.3.2 Released",
+        "body": "Switchboard 2.3.2 is out!\r\n\r\nThis release includes new translations.",
+        "href": "https://github.com/elementary/switchboard/releases/tag/2.3.2"
+      },
+      {
+        "version": "2.3.1",
+        "release_date": "2018-06-06T09:21:40",
+        "title": "Switchboard 2.3.1 Released",
+        "body": "Switchboard 2.3.1 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard/issues?q=is%3Aclosed+milestone%3A2.3.1).",
+        "href": "https://github.com/elementary/switchboard/releases/tag/2.3.1"
+      },
+      {
+        "version": "2.3.0",
+        "release_date": "2017-07-28T01:39:04",
+        "title": "Switchboard 2.3.0 Released",
+        "body": "Switchboard 2.3.0 is out!",
+        "href": "https://github.com/elementary/switchboard/releases/tag/2.3.0"
+      }
+    ],
+    "new_commits": 3
+  },
+  {
+    "name": "music",
+    "releases": [
+      {
+        "version": "5.1.0",
+        "release_date": "2021-07-14T17:03:57",
+        "title": "music 5.1.0 Released",
+        "body": "<p>Fix an issue with saving smart playlists</p>\n<p>Drop support for CD-ROM</p>\n<p>Dark style support</p>\n<p>Minor visual improvements</p>\n<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/music/releases/tag/5.1.0"
+      },
+      {
+        "version": "5.0.5",
+        "release_date": "2020-03-04T22:50:04",
+        "title": "music 5.0.5 Released",
+        "body": "music 5.0.5 is out! \n\n<p>Fix removing items from the queue</p>\n<p>Fix equalizer sliders not properly disabled sometimes</p>\n<p>Updated translations</p>\n<p>Performance improvements</p>\n",
+        "href": "https://github.com/elementary/music/releases/tag/5.0.5"
+      },
+      {
+        "version": "5.0.4",
+        "release_date": "2019-04-17T08:46:55",
+        "title": "Music 5.0.4 Released",
+        "body": "Music 5.0.4 is out!\r\n\r\nChanges:\r\n* Removed old gsignond vapi\r\n* LibraryWindow: Use Granite.MessageDialog for showing alerts\r\n* PlaylistsUtils: Use Gtk.FileChooserNative\r\n* Accurately remember window size\r\n* Updated translations",
+        "href": "https://github.com/elementary/music/releases/tag/5.0.4"
+      },
+      {
+        "version": "5.0.3",
+        "release_date": "2019-02-26T19:36:31",
+        "title": "Music 5.0.3 Released",
+        "body": "Music 5.0.3 is out!\r\n\r\nChanges:\r\n* Scale album art properly at high resolutions\r\n* Accurately select Music Folder Location for directories with spaces in name\r\n* New MediaKeyListener path for gnome-settings-daemon\r\n* Updated translations",
+        "href": "https://github.com/elementary/music/releases/tag/5.0.3"
+      },
+      {
+        "version": "5.0.2",
+        "release_date": "2018-12-18T12:07:14",
+        "title": "Music 5.0.2 Released",
+        "body": "Music 5.0.2 is out!\r\n\r\nChanges:\r\n* AlbumView: double-click to play album\r\n* Associate with s3m files\r\n* Queue fixes\r\n* Properly restore playlists\r\n* Always respect custom music folder setting\r\n* Updated translations",
+        "href": "https://github.com/elementary/music/releases/tag/5.0.2"
+      },
+      {
+        "version": "5.0.1",
+        "release_date": "2018-11-30T10:49:32",
+        "title": "Music 5.0.1 Released",
+        "body": "Music 5.0.1 is out!\r\n\r\nChanges:\r\n* Fix list and column view sorting\r\n* Add orange accent color\r\n* Add shortcut accels to tooltips",
+        "href": "https://github.com/elementary/music/releases/tag/5.0.1"
+      },
+      {
+        "version": "5.0",
+        "release_date": "2018-10-16T08:42:10",
+        "title": "Music 5.0 Released",
+        "body": "Music 5.0 is out!\r\n\r\nChanges:\r\n* Various UI changes\r\n* Shuffle fixes\r\n* Initial MPRIS support\r\n* Updated translations",
+        "href": "https://github.com/elementary/music/releases/tag/5.0"
+      },
+      {
+        "version": "0.4.2",
+        "release_date": "2017-11-27T15:51:48",
+        "title": "Noise (Music) 0.4.2 Released",
+        "body": "Noise 0.4.2 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/music/issues?q=is%3Aclosed+milestone%3A0.4.2).",
+        "href": "https://github.com/elementary/music/releases/tag/0.4.2"
+      },
+      {
+        "version": "0.4.1",
+        "release_date": "2017-07-28T03:49:34",
+        "title": "Noise (Music) 0.4.1 Released",
+        "body": "Noise 0.4.1 is out!\r\n\r\nEdit: The list of issues closed by this release can be found [here](https://github.com/elementary/music/milestone/3?closed=1).",
+        "href": "https://github.com/elementary/music/releases/tag/0.4.1"
+      },
+      {
+        "version": "0.4.0.3",
+        "release_date": "2017-04-21T17:49:20",
+        "title": "Noise (Music) 0.4.0.3 Released",
+        "body": "Noise 0.4.0.3 is out!",
+        "href": "https://github.com/elementary/music/releases/tag/0.4.0.3"
+      }
+    ],
+    "new_commits": 3
+  },
+  {
     "name": "wingpanel",
     "releases": [
       {
@@ -301,7 +467,7 @@
         "href": "https://github.com/elementary/capnet-assist/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 7
+    "new_commits": 8
   },
   {
     "name": "wallpapers",
@@ -3403,90 +3569,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 311
-  },
-  {
-    "name": "switchboard",
-    "releases": [
-      {
-        "version": "2.4.0",
-        "release_date": "2020-04-30T20:47:16",
-        "title": "switchboard 2.4.0 Released",
-        "body": "<ul>\n<li>Redesign search results view</li>\n<li>Tab key moves focus out of search</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard/releases/tag/2.4.0"
-      },
-      {
-        "version": "2.3.9",
-        "release_date": "2020-03-30T21:01:11",
-        "title": "switchboard 2.3.9 Released",
-        "body": "switchboard 2.3.9 is out! \n\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard/releases/tag/2.3.9"
-      },
-      {
-        "version": "2.3.8",
-        "release_date": "2020-01-14T23:17:14",
-        "title": "switchboard 2.3.8 Released",
-        "body": "switchboard 2.3.8 is out! \n\n<ul>\n<li>Fix an issue that prevented tiling on small displays</li>\n<li>Fix an issue with restoring the correct window size</li>\n<li>Make the category grid fill the available space when maximized</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard/releases/tag/2.3.8"
-      },
-      {
-        "version": "2.3.7",
-        "release_date": "2019-11-04T22:08:38",
-        "title": "switchboard 2.3.7 Released",
-        "body": "switchboard 2.3.7 is out! \n\nChanges:\n\n* Pressing the \"Down\" arrow key from the search box correctly focuses the first row\n* Drop dynamic items from the Dock secondary-click menu\n* Updated translations\n",
-        "href": "https://github.com/elementary/switchboard/releases/tag/2.3.7"
-      },
-      {
-        "version": "2.3.6",
-        "release_date": "2019-01-23T08:18:24",
-        "title": "Switchboard 2.3.6 Released",
-        "body": "Switchboard 2.3.6 is out!\r\n\r\nChanges:\r\n* Add accel tooltip to navigation button\r\n* Updated translations",
-        "href": "https://github.com/elementary/switchboard/releases/tag/2.3.6"
-      },
-      {
-        "version": "2.3.5",
-        "release_date": "2018-11-29T15:44:15",
-        "title": "Switchboard 2.3.5 Released",
-        "body": "Switchboard 2.3.5 is out!\r\n\r\nChanges:\r\n* Improved window state saving code\r\n* Updated translations",
-        "href": "https://github.com/elementary/switchboard/releases/tag/2.3.5"
-      },
-      {
-        "version": "2.3.4",
-        "release_date": "2018-10-08T16:03:13",
-        "title": "Switchboard 2.3.4 Released",
-        "body": "Switchboard 2.3.4 is out!\r\n\r\nChanges:\r\n* Fixed incorrect gettext domain value causing missing translations",
-        "href": "https://github.com/elementary/switchboard/releases/tag/2.3.4"
-      },
-      {
-        "version": "2.3.3",
-        "release_date": "2018-10-04T11:56:54",
-        "title": "Switchboard 2.3.3 Released",
-        "body": "Switchboard 2.3.3 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard/issues?q=is%3Aclosed+milestone%3A2.3.3).",
-        "href": "https://github.com/elementary/switchboard/releases/tag/2.3.3"
-      },
-      {
-        "version": "2.3.2",
-        "release_date": "2018-07-27T07:39:49",
-        "title": "Switchboard 2.3.2 Released",
-        "body": "Switchboard 2.3.2 is out!\r\n\r\nThis release includes new translations.",
-        "href": "https://github.com/elementary/switchboard/releases/tag/2.3.2"
-      },
-      {
-        "version": "2.3.1",
-        "release_date": "2018-06-06T09:21:40",
-        "title": "Switchboard 2.3.1 Released",
-        "body": "Switchboard 2.3.1 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard/issues?q=is%3Aclosed+milestone%3A2.3.1).",
-        "href": "https://github.com/elementary/switchboard/releases/tag/2.3.1"
-      },
-      {
-        "version": "2.3.0",
-        "release_date": "2017-07-28T01:39:04",
-        "title": "Switchboard 2.3.0 Released",
-        "body": "Switchboard 2.3.0 is out!",
-        "href": "https://github.com/elementary/switchboard/releases/tag/2.3.0"
-      }
-    ],
-    "new_commits": 66
+    "new_commits": 315
   },
   {
     "name": "switchboard-plug-pantheon-shell",
@@ -4011,75 +4094,6 @@
       }
     ],
     "new_commits": 62
-  },
-  {
-    "name": "music",
-    "releases": [
-      {
-        "version": "5.0.5",
-        "release_date": "2020-03-04T22:50:04",
-        "title": "music 5.0.5 Released",
-        "body": "music 5.0.5 is out! \n\n<p>Fix removing items from the queue</p>\n<p>Fix equalizer sliders not properly disabled sometimes</p>\n<p>Updated translations</p>\n<p>Performance improvements</p>\n",
-        "href": "https://github.com/elementary/music/releases/tag/5.0.5"
-      },
-      {
-        "version": "5.0.4",
-        "release_date": "2019-04-17T08:46:55",
-        "title": "Music 5.0.4 Released",
-        "body": "Music 5.0.4 is out!\r\n\r\nChanges:\r\n* Removed old gsignond vapi\r\n* LibraryWindow: Use Granite.MessageDialog for showing alerts\r\n* PlaylistsUtils: Use Gtk.FileChooserNative\r\n* Accurately remember window size\r\n* Updated translations",
-        "href": "https://github.com/elementary/music/releases/tag/5.0.4"
-      },
-      {
-        "version": "5.0.3",
-        "release_date": "2019-02-26T19:36:31",
-        "title": "Music 5.0.3 Released",
-        "body": "Music 5.0.3 is out!\r\n\r\nChanges:\r\n* Scale album art properly at high resolutions\r\n* Accurately select Music Folder Location for directories with spaces in name\r\n* New MediaKeyListener path for gnome-settings-daemon\r\n* Updated translations",
-        "href": "https://github.com/elementary/music/releases/tag/5.0.3"
-      },
-      {
-        "version": "5.0.2",
-        "release_date": "2018-12-18T12:07:14",
-        "title": "Music 5.0.2 Released",
-        "body": "Music 5.0.2 is out!\r\n\r\nChanges:\r\n* AlbumView: double-click to play album\r\n* Associate with s3m files\r\n* Queue fixes\r\n* Properly restore playlists\r\n* Always respect custom music folder setting\r\n* Updated translations",
-        "href": "https://github.com/elementary/music/releases/tag/5.0.2"
-      },
-      {
-        "version": "5.0.1",
-        "release_date": "2018-11-30T10:49:32",
-        "title": "Music 5.0.1 Released",
-        "body": "Music 5.0.1 is out!\r\n\r\nChanges:\r\n* Fix list and column view sorting\r\n* Add orange accent color\r\n* Add shortcut accels to tooltips",
-        "href": "https://github.com/elementary/music/releases/tag/5.0.1"
-      },
-      {
-        "version": "5.0",
-        "release_date": "2018-10-16T08:42:10",
-        "title": "Music 5.0 Released",
-        "body": "Music 5.0 is out!\r\n\r\nChanges:\r\n* Various UI changes\r\n* Shuffle fixes\r\n* Initial MPRIS support\r\n* Updated translations",
-        "href": "https://github.com/elementary/music/releases/tag/5.0"
-      },
-      {
-        "version": "0.4.2",
-        "release_date": "2017-11-27T15:51:48",
-        "title": "Noise (Music) 0.4.2 Released",
-        "body": "Noise 0.4.2 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/music/issues?q=is%3Aclosed+milestone%3A0.4.2).",
-        "href": "https://github.com/elementary/music/releases/tag/0.4.2"
-      },
-      {
-        "version": "0.4.1",
-        "release_date": "2017-07-28T03:49:34",
-        "title": "Noise (Music) 0.4.1 Released",
-        "body": "Noise 0.4.1 is out!\r\n\r\nEdit: The list of issues closed by this release can be found [here](https://github.com/elementary/music/milestone/3?closed=1).",
-        "href": "https://github.com/elementary/music/releases/tag/0.4.1"
-      },
-      {
-        "version": "0.4.0.3",
-        "release_date": "2017-04-21T17:49:20",
-        "title": "Noise (Music) 0.4.0.3 Released",
-        "body": "Noise 0.4.0.3 is out!",
-        "href": "https://github.com/elementary/music/releases/tag/0.4.0.3"
-      }
-    ],
-    "new_commits": 179
   },
   {
     "name": "stylesheet",
