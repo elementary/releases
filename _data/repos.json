@@ -1,5 +1,302 @@
 [
   {
+    "name": "pantheon-agent-polkit",
+    "releases": [
+      {
+        "version": "1.0.4",
+        "release_date": "2021-07-14T18:12:33",
+        "title": "pantheon-agent-polkit 1.0.4 Released",
+        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/1.0.4"
+      },
+      {
+        "version": "1.0.3",
+        "release_date": "2020-06-19T19:01:42",
+        "title": "pantheon-agent-polkit 1.0.3 Released",
+        "body": "<ul>\n<li>Fix a potential issue when ending the session</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/1.0.3"
+      },
+      {
+        "version": "1.0.2",
+        "release_date": "2020-05-28T18:47:09",
+        "title": "pantheon-agent-polkit 1.0.2 Released",
+        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/1.0.2"
+      },
+      {
+        "version": "1.0.1",
+        "release_date": "2020-04-06T17:12:33",
+        "title": "pantheon-agent-polkit 1.0.1 Released",
+        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/1.0.1"
+      },
+      {
+        "version": "1.0.0",
+        "release_date": "2019-11-15T21:54:11",
+        "title": "pantheon-agent-polkit 1.0.0 Released",
+        "body": "pantheon-agent-polkit 1.0.0 is out! \n\nChanges:\n\n* Updated translations\n",
+        "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/1.0.0"
+      },
+      {
+        "version": "0.1.6",
+        "release_date": "2018-12-12T02:17:59",
+        "title": "Pantheon Polkit Agent 0.1.6 Released",
+        "body": "pantheon-agent-polkit 0.1.6 is out!\r\n\r\nChanges:\r\n* Wrap error message label\r\n* Updated translations",
+        "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/0.1.6"
+      },
+      {
+        "version": "0.1.5",
+        "release_date": "2018-06-04T07:12:34",
+        "title": "Pantheon Polkit Agent 0.1.5 Released",
+        "body": "`pantheon-agent-polkit` 0.1.5 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/pantheon-agent-polkit/issues?q=is%3Aclosed+milestone%3A0.1.5).",
+        "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/0.1.5"
+      },
+      {
+        "version": "0.1.4",
+        "release_date": "2017-05-26T21:44:20",
+        "title": "Pantheon Polkit Agent 0.1.4 Released",
+        "body": "pantheon-agent-polkit 0.1.4 is out!",
+        "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/0.1.4"
+      },
+      {
+        "version": "0.1.3",
+        "release_date": "2017-05-02T01:39:24",
+        "title": "Pantheon Polkit Agent 0.1.3 Released",
+        "body": "pantheon-agent-polkit 0.1.3 is out!",
+        "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/0.1.3"
+      },
+      {
+        "version": "0.1.2",
+        "release_date": "2017-02-12T10:03:52",
+        "title": "",
+        "body": "",
+        "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/0.1.2"
+      }
+    ],
+    "new_commits": 3
+  },
+  {
+    "name": "shortcut-overlay",
+    "releases": [
+      {
+        "version": "1.2.0",
+        "release_date": "2021-07-14T18:03:45",
+        "title": "shortcut-overlay 1.2.0 Released",
+        "body": "<ul>\n<li>Add screenshot shortcuts</li>\n<li>Fix issues with multiple windows</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.2.0"
+      },
+      {
+        "version": "1.1.2",
+        "release_date": "2020-05-28T18:52:24",
+        "title": "shortcut-overlay 1.1.2 Released",
+        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.1.2"
+      },
+      {
+        "version": "1.1.1",
+        "release_date": "2020-04-03T18:43:00",
+        "title": "shortcut-overlay 1.1.1 Released",
+        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.1.1"
+      },
+      {
+        "version": "1.1.0",
+        "release_date": "2019-11-15T21:51:50",
+        "title": "shortcut-overlay 1.1.0 Released",
+        "body": "shortcut-overlay 1.1.0 is out! \n\nChanges:\n\n* Add \"Switch Layout\" and \"Close Window\", shortcuts\n* Updated translations\n",
+        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.1.0"
+      },
+      {
+        "version": "1.0.1",
+        "release_date": "2018-09-17T22:43:39",
+        "title": "Shortcut Overlay 1.0.1 Released",
+        "body": "Shortcut Overlay 1.0.1 is out!\r\n\r\nChanges:\r\n* Delay destroying window to avoid triggering a re-open\r\n* New translations",
+        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.0.1"
+      },
+      {
+        "version": "1.0",
+        "release_date": "2018-06-05T08:43:11",
+        "title": "Shortcut Overlay 1.0 Released",
+        "body": "Shortcut Overlay 1.0 is out!\r\n\r\nThis is the initial release.",
+        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.0"
+      }
+    ],
+    "new_commits": 3
+  },
+  {
+    "name": "switchboard-plug-bluetooth",
+    "releases": [
+      {
+        "version": "2.3.6",
+        "release_date": "2021-07-14T18:02:07",
+        "title": "switchboard-plug-bluetooth 2.3.6 Released",
+        "body": "<p>Minor updates</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/2.3.6"
+      },
+      {
+        "version": "2.3.5",
+        "release_date": "2021-03-09T19:40:58",
+        "title": "switchboard-plug-bluetooth 2.3.5 Released",
+        "body": "Security update\r\n\r\n- Fix a vulnerability that would allow a device to be paired without explicit user authorization ([CVE-2021-21367](https://github.com/elementary/switchboard-plug-bluetooth/security/advisories/GHSA-5p3g-j69g-w2mq))\r\n",
+        "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/2.3.5"
+      },
+      {
+        "version": "2.3.4",
+        "release_date": "2021-01-05T22:03:51",
+        "title": "switchboard-plug-bluetooth 2.3.4 Released",
+        "body": "<p>Minor updates</p>\n<ul>\n<li>Fallback to device type when name is not available</li>\n<li>Show \"Discovering\" indicator in an overlay bar</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/2.3.4"
+      },
+      {
+        "version": "2.3.3",
+        "release_date": "2020-10-08T18:36:10",
+        "title": "switchboard-plug-bluetooth 2.3.3 Released",
+        "body": "<p>Fixes</p>\n<ul>\n<li>Fix crash on devices without Bluetooth</li>\n</ul>\n<p>Minor updates</p>\n<ul>\n<li>Move \"forget device\" button to each device row</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/2.3.3"
+      },
+      {
+        "version": "2.3.2",
+        "release_date": "2020-05-28T20:11:49",
+        "title": "switchboard-plug-bluetooth 2.3.2 Released",
+        "body": "<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/2.3.2"
+      },
+      {
+        "version": "2.3.1",
+        "release_date": "2020-02-26T21:19:52",
+        "title": "switchboard-plug-bluetooth 2.3.1 Released",
+        "body": "switchboard-plug-bluetooth 2.3.1 is out! \n\n<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/2.3.1"
+      },
+      {
+        "version": "2.3.0",
+        "release_date": "2019-10-31T17:38:19",
+        "title": "switchboard-plug-bluetooth 2.3.0 Released",
+        "body": "switchboard-plug-bluetooth 2.3.0 is out! \n\nChanges:\n\n* Pair with devices that require a password, key code, or confirmation\n* Updated translations\n",
+        "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/2.3.0"
+      },
+      {
+        "version": "2.2.2",
+        "release_date": "2019-04-09T02:53:50",
+        "title": "Switchboard Bluetooth Plug 2.2.2 Released",
+        "body": "switchboard-plug-bluetooth 2.2.2 is out!\r\n\r\nChanges:\r\n* Auto connect to trusted devices more reliably\r\n* Updated translations",
+        "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/2.2.2"
+      },
+      {
+        "version": "2.2.1",
+        "release_date": "2019-01-25T06:49:14",
+        "title": "Switchboard Bluetooth Plug 2.2.1 Released",
+        "body": "switchboard-plug-bluetooth 2.2.1 is out now!\r\n\r\nChanges:\r\n* Update to new wingpanel-indicator-bluetooth schema",
+        "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/2.2.1"
+      },
+      {
+        "version": "2.2.0",
+        "release_date": "2019-01-24T13:45:42",
+        "title": "Switchboard Bluetooth Plug 2.2.0 Released",
+        "body": "switchboard-plug-bluetooth 2.2.0 is out now!\r\n\r\nChanges:\r\n* Improved stability\r\n* More accurate Remove button\r\n* Don't show badges for unpaired devices\r\n* Rewrite discovering label\r\n* Display disabled Bluetooth icon while disabled\r\n* Fix discoverability issues\r\n* Updated translations",
+        "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/2.2.0"
+      },
+      {
+        "version": "2.1.2",
+        "release_date": "2018-10-15T21:09:06",
+        "title": "Switchboard Bluetooth Plug 2.1.2 Released",
+        "body": "switchboard-plug-bluetooth 2.1.2 is out now!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-bluetooth/issues?q=is%3Aclosed+milestone%3A2.1.2).",
+        "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/2.1.2"
+      },
+      {
+        "version": "0.1.1",
+        "release_date": "2018-06-08T13:49:01",
+        "title": "Switchboard Bluetooth Plug 0.1.1 Released",
+        "body": "switchboard-plug-bluetooth 0.1.1 is out now!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-bluetooth/issues?q=is%3Aclosed+milestone%3A0.1.1).",
+        "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/0.1.1"
+      }
+    ],
+    "new_commits": 3
+  },
+  {
+    "name": "photos",
+    "releases": [
+      {
+        "version": "2.7.1",
+        "release_date": "2021-07-14T18:01:14",
+        "title": "photos 2.7.1 Released",
+        "body": "<ul>\n<li>Fix keyboard activation in tool windows</li>\n<li>Show saved state correctly in the context-menu</li>\n<li>Translation updates</li>\n</ul>\n",
+        "href": "https://github.com/elementary/photos/releases/tag/2.7.1"
+      },
+      {
+        "version": "2.7.0",
+        "release_date": "2020-04-08T20:18:53",
+        "title": "photos 2.7.0 Released",
+        "body": "<ul>\n<li>Add Open In menu to the photo viewer</li>\n<li>Translation updates</li>\n</ul>\n",
+        "href": "https://github.com/elementary/photos/releases/tag/2.7.0"
+      },
+      {
+        "version": "2.6.5",
+        "release_date": "2019-11-15T22:14:37",
+        "title": "photos 2.6.5 Released",
+        "body": "photos 2.6.5 is out! \n\nChanges:\n\n* Add checkerboard behind semi-transparent photos in grid view\n* Fix pasting in comment box\n* Make sure we show the right apps in the Open In menu\n* Redesign a large number of dialogs\n* Translation updates\n",
+        "href": "https://github.com/elementary/photos/releases/tag/2.6.5"
+      },
+      {
+        "version": "2.6.4",
+        "release_date": "2019-05-16T10:50:25",
+        "title": "Photos 2.6.4 Released",
+        "body": "Photos 2.6.4 is out!\r\n\r\nChanges:\r\n* Fix building against latest gexiv2\r\n* Updated translations",
+        "href": "https://github.com/elementary/photos/releases/tag/2.6.4"
+      },
+      {
+        "version": "2.6.3",
+        "release_date": "2019-04-08T17:15:05",
+        "title": "Photos 2.6.3 Released",
+        "body": "Photos 2.6.3 is out!\r\n\r\nChanges:\r\n* Fix building against latest gexiv2\r\n* Use Granite.MessageDialog throughout\r\n* Use Gtk.FileChooserNative throughout\r\n* Updated translations",
+        "href": "https://github.com/elementary/photos/releases/tag/2.6.3"
+      },
+      {
+        "version": "2.6.2",
+        "release_date": "2019-01-28T06:20:27",
+        "title": "Photos 2.6.2 Released",
+        "body": "Photos 2.6.2 is out!\r\n\r\nChanges:\r\n* Updated translations",
+        "href": "https://github.com/elementary/photos/releases/tag/2.6.2"
+      },
+      {
+        "version": "2.6.1",
+        "release_date": "2018-10-29T15:03:00",
+        "title": "Photos 2.6.1 Released",
+        "body": "Photos 2.6.1 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/photos/issues?q=is%3Aclosed+milestone%3A2.6.1).",
+        "href": "https://github.com/elementary/photos/releases/tag/2.6.1"
+      },
+      {
+        "version": "2.6.0",
+        "release_date": "2018-10-16T02:54:25",
+        "title": "Photos 2.6.0 Released",
+        "body": "Photos 2.6.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/photos/issues?q=is%3Aclosed+milestone%3A2.6.0).",
+        "href": "https://github.com/elementary/photos/releases/tag/2.6.0"
+      },
+      {
+        "version": "0.2.5",
+        "release_date": "2018-06-20T07:23:42",
+        "title": "Photos 0.2.5 Released",
+        "body": "Photos 0.2.5 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/photos/issues?q=is%3Aclosed+milestone%3A0.2.5).",
+        "href": "https://github.com/elementary/photos/releases/tag/0.2.5"
+      },
+      {
+        "version": "0.2.4",
+        "release_date": "2017-07-28T02:26:23",
+        "title": "Photos 0.2.4 Released",
+        "body": "pantheon-photos 0.2.4 is out!",
+        "href": "https://github.com/elementary/photos/releases/tag/0.2.4"
+      },
+      {
+        "version": "0.2.3",
+        "release_date": "2017-05-02T20:03:49",
+        "title": "Photos 0.2.3 Released",
+        "body": "pantheon-photos 0.2.3 is out!",
+        "href": "https://github.com/elementary/photos/releases/tag/0.2.3"
+      }
+    ],
+    "new_commits": 3
+  },
+  {
     "name": "switchboard",
     "releases": [
       {
@@ -88,6 +385,47 @@
       }
     ],
     "new_commits": 3
+  },
+  {
+    "name": "gala",
+    "releases": [
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-14T17:07:19",
+        "title": "Gala 6.0.0 Released",
+        "body": "Improvements:\r\n- Add multitouch gestures\r\n- Show window titles in multitasking view\r\n- Close the Alt + Tab switcher by pressing Esc without releasing Alt\r\n- Increase maximum zoom level and provide feedback when unable to zoom\r\n- Show a context menu when secondary clicking the background\r\n- New Dwell Click and Locate Pointer animations\r\n- Add Take Screenshot to window context menu\r\n- Always play shutter sound when taking screenshots\r\n- Minor visual improvements\r\n- HiDPI fixes\r\n- Performance improvements\r\n- Updated translations",
+        "href": "https://github.com/elementary/gala/releases/tag/6.0.0"
+      },
+      {
+        "version": "3.3.2",
+        "release_date": "2020-04-30T22:23:37",
+        "title": "gala 3.3.2 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Fix \u201cAlways on Visible Workspace\u201d windows disappearing when changing workspaces</li>\n<li>Fix windows on non-primary displays disappearing when changing workspaces</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/gala/releases/tag/3.3.2"
+      },
+      {
+        "version": "3.3.1",
+        "release_date": "2020-04-25T17:27:44",
+        "title": "gala 3.3.1 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Fix crash when changing workspaces while a transient window is opening</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/gala/releases/tag/3.3.1"
+      },
+      {
+        "version": "3.3.0",
+        "release_date": "2020-04-03T18:45:09",
+        "title": "gala 3.3.0 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Don't show Gala Background Services in the dock</li>\n<li>Fixes for media key handling</li>\n<li>Show keyboard shortcuts in HeaderBar menus</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/gala/releases/tag/3.3.0"
+      },
+      {
+        "version": "3.2.0",
+        "release_date": "2020-01-07T17:58:30",
+        "title": "gala 3.2.0 Released",
+        "body": "gala 3.2.0 is out! \n\n<p>Improvements:</p>\n<ul>\n<li>Improve window shadows for legacy apps</li>\n<li>Fix potential crash when taking screenshots</li>\n<li>Fix notification position after changing DPI</li>\n<li>Fix animations for moving and maximizing tiled windows</li>\n</ul>\n",
+        "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
+      }
+    ],
+    "new_commits": 4
   },
   {
     "name": "music",
@@ -467,7 +805,7 @@
         "href": "https://github.com/elementary/capnet-assist/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 8
+    "new_commits": 9
   },
   {
     "name": "wallpapers",
@@ -744,89 +1082,6 @@
       }
     ],
     "new_commits": 20
-  },
-  {
-    "name": "switchboard-plug-bluetooth",
-    "releases": [
-      {
-        "version": "2.3.5",
-        "release_date": "2021-03-09T19:40:58",
-        "title": "switchboard-plug-bluetooth 2.3.5 Released",
-        "body": "Security update\r\n\r\n- Fix a vulnerability that would allow a device to be paired without explicit user authorization ([CVE-2021-21367](https://github.com/elementary/switchboard-plug-bluetooth/security/advisories/GHSA-5p3g-j69g-w2mq))\r\n",
-        "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/2.3.5"
-      },
-      {
-        "version": "2.3.4",
-        "release_date": "2021-01-05T22:03:51",
-        "title": "switchboard-plug-bluetooth 2.3.4 Released",
-        "body": "<p>Minor updates</p>\n<ul>\n<li>Fallback to device type when name is not available</li>\n<li>Show \"Discovering\" indicator in an overlay bar</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/2.3.4"
-      },
-      {
-        "version": "2.3.3",
-        "release_date": "2020-10-08T18:36:10",
-        "title": "switchboard-plug-bluetooth 2.3.3 Released",
-        "body": "<p>Fixes</p>\n<ul>\n<li>Fix crash on devices without Bluetooth</li>\n</ul>\n<p>Minor updates</p>\n<ul>\n<li>Move \"forget device\" button to each device row</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/2.3.3"
-      },
-      {
-        "version": "2.3.2",
-        "release_date": "2020-05-28T20:11:49",
-        "title": "switchboard-plug-bluetooth 2.3.2 Released",
-        "body": "<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/2.3.2"
-      },
-      {
-        "version": "2.3.1",
-        "release_date": "2020-02-26T21:19:52",
-        "title": "switchboard-plug-bluetooth 2.3.1 Released",
-        "body": "switchboard-plug-bluetooth 2.3.1 is out! \n\n<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/2.3.1"
-      },
-      {
-        "version": "2.3.0",
-        "release_date": "2019-10-31T17:38:19",
-        "title": "switchboard-plug-bluetooth 2.3.0 Released",
-        "body": "switchboard-plug-bluetooth 2.3.0 is out! \n\nChanges:\n\n* Pair with devices that require a password, key code, or confirmation\n* Updated translations\n",
-        "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/2.3.0"
-      },
-      {
-        "version": "2.2.2",
-        "release_date": "2019-04-09T02:53:50",
-        "title": "Switchboard Bluetooth Plug 2.2.2 Released",
-        "body": "switchboard-plug-bluetooth 2.2.2 is out!\r\n\r\nChanges:\r\n* Auto connect to trusted devices more reliably\r\n* Updated translations",
-        "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/2.2.2"
-      },
-      {
-        "version": "2.2.1",
-        "release_date": "2019-01-25T06:49:14",
-        "title": "Switchboard Bluetooth Plug 2.2.1 Released",
-        "body": "switchboard-plug-bluetooth 2.2.1 is out now!\r\n\r\nChanges:\r\n* Update to new wingpanel-indicator-bluetooth schema",
-        "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/2.2.1"
-      },
-      {
-        "version": "2.2.0",
-        "release_date": "2019-01-24T13:45:42",
-        "title": "Switchboard Bluetooth Plug 2.2.0 Released",
-        "body": "switchboard-plug-bluetooth 2.2.0 is out now!\r\n\r\nChanges:\r\n* Improved stability\r\n* More accurate Remove button\r\n* Don't show badges for unpaired devices\r\n* Rewrite discovering label\r\n* Display disabled Bluetooth icon while disabled\r\n* Fix discoverability issues\r\n* Updated translations",
-        "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/2.2.0"
-      },
-      {
-        "version": "2.1.2",
-        "release_date": "2018-10-15T21:09:06",
-        "title": "Switchboard Bluetooth Plug 2.1.2 Released",
-        "body": "switchboard-plug-bluetooth 2.1.2 is out now!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-bluetooth/issues?q=is%3Aclosed+milestone%3A2.1.2).",
-        "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/2.1.2"
-      },
-      {
-        "version": "0.1.1",
-        "release_date": "2018-06-08T13:49:01",
-        "title": "Switchboard Bluetooth Plug 0.1.1 Released",
-        "body": "switchboard-plug-bluetooth 0.1.1 is out now!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-bluetooth/issues?q=is%3Aclosed+milestone%3A0.1.1).",
-        "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/0.1.1"
-      }
-    ],
-    "new_commits": 43
   },
   {
     "name": "wingpanel-indicator-keyboard",
@@ -2408,75 +2663,6 @@
     "new_commits": 84
   },
   {
-    "name": "pantheon-agent-polkit",
-    "releases": [
-      {
-        "version": "1.0.3",
-        "release_date": "2020-06-19T19:01:42",
-        "title": "pantheon-agent-polkit 1.0.3 Released",
-        "body": "<ul>\n<li>Fix a potential issue when ending the session</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/1.0.3"
-      },
-      {
-        "version": "1.0.2",
-        "release_date": "2020-05-28T18:47:09",
-        "title": "pantheon-agent-polkit 1.0.2 Released",
-        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/1.0.2"
-      },
-      {
-        "version": "1.0.1",
-        "release_date": "2020-04-06T17:12:33",
-        "title": "pantheon-agent-polkit 1.0.1 Released",
-        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/1.0.1"
-      },
-      {
-        "version": "1.0.0",
-        "release_date": "2019-11-15T21:54:11",
-        "title": "pantheon-agent-polkit 1.0.0 Released",
-        "body": "pantheon-agent-polkit 1.0.0 is out! \n\nChanges:\n\n* Updated translations\n",
-        "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/1.0.0"
-      },
-      {
-        "version": "0.1.6",
-        "release_date": "2018-12-12T02:17:59",
-        "title": "Pantheon Polkit Agent 0.1.6 Released",
-        "body": "pantheon-agent-polkit 0.1.6 is out!\r\n\r\nChanges:\r\n* Wrap error message label\r\n* Updated translations",
-        "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/0.1.6"
-      },
-      {
-        "version": "0.1.5",
-        "release_date": "2018-06-04T07:12:34",
-        "title": "Pantheon Polkit Agent 0.1.5 Released",
-        "body": "`pantheon-agent-polkit` 0.1.5 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/pantheon-agent-polkit/issues?q=is%3Aclosed+milestone%3A0.1.5).",
-        "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/0.1.5"
-      },
-      {
-        "version": "0.1.4",
-        "release_date": "2017-05-26T21:44:20",
-        "title": "Pantheon Polkit Agent 0.1.4 Released",
-        "body": "pantheon-agent-polkit 0.1.4 is out!",
-        "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/0.1.4"
-      },
-      {
-        "version": "0.1.3",
-        "release_date": "2017-05-02T01:39:24",
-        "title": "Pantheon Polkit Agent 0.1.3 Released",
-        "body": "pantheon-agent-polkit 0.1.3 is out!",
-        "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/0.1.3"
-      },
-      {
-        "version": "0.1.2",
-        "release_date": "2017-02-12T10:03:52",
-        "title": "",
-        "body": "",
-        "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/0.1.2"
-      }
-    ],
-    "new_commits": 45
-  },
-  {
     "name": "code",
     "releases": [
       {
@@ -2798,47 +2984,6 @@
       }
     ],
     "new_commits": 221
-  },
-  {
-    "name": "shortcut-overlay",
-    "releases": [
-      {
-        "version": "1.1.2",
-        "release_date": "2020-05-28T18:52:24",
-        "title": "shortcut-overlay 1.1.2 Released",
-        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.1.2"
-      },
-      {
-        "version": "1.1.1",
-        "release_date": "2020-04-03T18:43:00",
-        "title": "shortcut-overlay 1.1.1 Released",
-        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.1.1"
-      },
-      {
-        "version": "1.1.0",
-        "release_date": "2019-11-15T21:51:50",
-        "title": "shortcut-overlay 1.1.0 Released",
-        "body": "shortcut-overlay 1.1.0 is out! \n\nChanges:\n\n* Add \"Switch Layout\" and \"Close Window\", shortcuts\n* Updated translations\n",
-        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.1.0"
-      },
-      {
-        "version": "1.0.1",
-        "release_date": "2018-09-17T22:43:39",
-        "title": "Shortcut Overlay 1.0.1 Released",
-        "body": "Shortcut Overlay 1.0.1 is out!\r\n\r\nChanges:\r\n* Delay destroying window to avoid triggering a re-open\r\n* New translations",
-        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.0.1"
-      },
-      {
-        "version": "1.0",
-        "release_date": "2018-06-05T08:43:11",
-        "title": "Shortcut Overlay 1.0 Released",
-        "body": "Shortcut Overlay 1.0 is out!\r\n\r\nThis is the initial release.",
-        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.0"
-      }
-    ],
-    "new_commits": 79
   },
   {
     "name": "switchboard-plug-printers",
@@ -3538,40 +3683,6 @@
     "new_commits": 70
   },
   {
-    "name": "gala",
-    "releases": [
-      {
-        "version": "3.3.2",
-        "release_date": "2020-04-30T22:23:37",
-        "title": "gala 3.3.2 Released",
-        "body": "<p>Improvements:</p>\n<ul>\n<li>Fix \u201cAlways on Visible Workspace\u201d windows disappearing when changing workspaces</li>\n<li>Fix windows on non-primary displays disappearing when changing workspaces</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/gala/releases/tag/3.3.2"
-      },
-      {
-        "version": "3.3.1",
-        "release_date": "2020-04-25T17:27:44",
-        "title": "gala 3.3.1 Released",
-        "body": "<p>Improvements:</p>\n<ul>\n<li>Fix crash when changing workspaces while a transient window is opening</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/gala/releases/tag/3.3.1"
-      },
-      {
-        "version": "3.3.0",
-        "release_date": "2020-04-03T18:45:09",
-        "title": "gala 3.3.0 Released",
-        "body": "<p>Improvements:</p>\n<ul>\n<li>Don't show Gala Background Services in the dock</li>\n<li>Fixes for media key handling</li>\n<li>Show keyboard shortcuts in HeaderBar menus</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/gala/releases/tag/3.3.0"
-      },
-      {
-        "version": "3.2.0",
-        "release_date": "2020-01-07T17:58:30",
-        "title": "gala 3.2.0 Released",
-        "body": "gala 3.2.0 is out! \n\n<p>Improvements:</p>\n<ul>\n<li>Improve window shadows for legacy apps</li>\n<li>Fix potential crash when taking screenshots</li>\n<li>Fix notification position after changing DPI</li>\n<li>Fix animations for moving and maximizing tiled windows</li>\n</ul>\n",
-        "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
-      }
-    ],
-    "new_commits": 315
-  },
-  {
     "name": "switchboard-plug-pantheon-shell",
     "releases": [
       {
@@ -3687,82 +3798,6 @@
       }
     ],
     "new_commits": 39
-  },
-  {
-    "name": "photos",
-    "releases": [
-      {
-        "version": "2.7.0",
-        "release_date": "2020-04-08T20:18:53",
-        "title": "photos 2.7.0 Released",
-        "body": "<ul>\n<li>Add Open In menu to the photo viewer</li>\n<li>Translation updates</li>\n</ul>\n",
-        "href": "https://github.com/elementary/photos/releases/tag/2.7.0"
-      },
-      {
-        "version": "2.6.5",
-        "release_date": "2019-11-15T22:14:37",
-        "title": "photos 2.6.5 Released",
-        "body": "photos 2.6.5 is out! \n\nChanges:\n\n* Add checkerboard behind semi-transparent photos in grid view\n* Fix pasting in comment box\n* Make sure we show the right apps in the Open In menu\n* Redesign a large number of dialogs\n* Translation updates\n",
-        "href": "https://github.com/elementary/photos/releases/tag/2.6.5"
-      },
-      {
-        "version": "2.6.4",
-        "release_date": "2019-05-16T10:50:25",
-        "title": "Photos 2.6.4 Released",
-        "body": "Photos 2.6.4 is out!\r\n\r\nChanges:\r\n* Fix building against latest gexiv2\r\n* Updated translations",
-        "href": "https://github.com/elementary/photos/releases/tag/2.6.4"
-      },
-      {
-        "version": "2.6.3",
-        "release_date": "2019-04-08T17:15:05",
-        "title": "Photos 2.6.3 Released",
-        "body": "Photos 2.6.3 is out!\r\n\r\nChanges:\r\n* Fix building against latest gexiv2\r\n* Use Granite.MessageDialog throughout\r\n* Use Gtk.FileChooserNative throughout\r\n* Updated translations",
-        "href": "https://github.com/elementary/photos/releases/tag/2.6.3"
-      },
-      {
-        "version": "2.6.2",
-        "release_date": "2019-01-28T06:20:27",
-        "title": "Photos 2.6.2 Released",
-        "body": "Photos 2.6.2 is out!\r\n\r\nChanges:\r\n* Updated translations",
-        "href": "https://github.com/elementary/photos/releases/tag/2.6.2"
-      },
-      {
-        "version": "2.6.1",
-        "release_date": "2018-10-29T15:03:00",
-        "title": "Photos 2.6.1 Released",
-        "body": "Photos 2.6.1 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/photos/issues?q=is%3Aclosed+milestone%3A2.6.1).",
-        "href": "https://github.com/elementary/photos/releases/tag/2.6.1"
-      },
-      {
-        "version": "2.6.0",
-        "release_date": "2018-10-16T02:54:25",
-        "title": "Photos 2.6.0 Released",
-        "body": "Photos 2.6.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/photos/issues?q=is%3Aclosed+milestone%3A2.6.0).",
-        "href": "https://github.com/elementary/photos/releases/tag/2.6.0"
-      },
-      {
-        "version": "0.2.5",
-        "release_date": "2018-06-20T07:23:42",
-        "title": "Photos 0.2.5 Released",
-        "body": "Photos 0.2.5 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/photos/issues?q=is%3Aclosed+milestone%3A0.2.5).",
-        "href": "https://github.com/elementary/photos/releases/tag/0.2.5"
-      },
-      {
-        "version": "0.2.4",
-        "release_date": "2017-07-28T02:26:23",
-        "title": "Photos 0.2.4 Released",
-        "body": "pantheon-photos 0.2.4 is out!",
-        "href": "https://github.com/elementary/photos/releases/tag/0.2.4"
-      },
-      {
-        "version": "0.2.3",
-        "release_date": "2017-05-02T20:03:49",
-        "title": "Photos 0.2.3 Released",
-        "body": "pantheon-photos 0.2.3 is out!",
-        "href": "https://github.com/elementary/photos/releases/tag/0.2.3"
-      }
-    ],
-    "new_commits": 213
   },
   {
     "name": "switchboard-plug-applications",
