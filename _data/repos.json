@@ -1,5 +1,419 @@
 [
   {
+    "name": "wingpanel-indicator-nightlight",
+    "releases": [
+      {
+        "version": "2.1.0",
+        "release_date": "2021-07-14T20:10:02",
+        "title": "wingpanel-indicator-nightlight 2.1.0 Released",
+        "body": "<p>Show tooltip on hover</p>\n<p>Performance improvements</p>\n<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/wingpanel-indicator-nightlight/releases/tag/2.1.0"
+      },
+      {
+        "version": "2.0.4",
+        "release_date": "2020-08-07T18:14:11",
+        "title": "wingpanel-indicator-nightlight 2.0.4 Released",
+        "body": "<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/wingpanel-indicator-nightlight/releases/tag/2.0.4"
+      },
+      {
+        "version": "2.0.3",
+        "release_date": "2020-03-02T18:30:27",
+        "title": "wingpanel-indicator-nightlight 2.0.3 Released",
+        "body": "wingpanel-indicator-nightlight 2.0.3 is out! \n\n<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/wingpanel-indicator-nightlight/releases/tag/2.0.3"
+      },
+      {
+        "version": "2.0.2",
+        "release_date": "2019-02-19T15:11:12",
+        "title": "Wingpanel Nightlight Indicator 2.0.2 Released",
+        "body": "wingpanel-indicator-nightlight 2.0.2 is out!\r\n\r\nChanges:\r\n* Updated translations",
+        "href": "https://github.com/elementary/wingpanel-indicator-nightlight/releases/tag/2.0.2"
+      },
+      {
+        "version": "2.0.1",
+        "release_date": "2018-10-02T16:26:13",
+        "title": "Wingpanel Nightlight Indicator 2.0.1 Released",
+        "body": "wingpanel-indicator-nightlight 2.0.1 is out!\r\n\r\nThis release includes updated translations.",
+        "href": "https://github.com/elementary/wingpanel-indicator-nightlight/releases/tag/2.0.1"
+      },
+      {
+        "version": "2.0",
+        "release_date": "2018-06-07T08:43:32",
+        "title": "Wingpanel Nightlight Indicator 2.0 Released",
+        "body": "wingpanel-indicator-nightlight 2.0 is out!\r\n\r\nThis is the initial release.",
+        "href": "https://github.com/elementary/wingpanel-indicator-nightlight/releases/tag/2.0"
+      }
+    ],
+    "new_commits": 0
+  },
+  {
+    "name": "wingpanel-indicator-bluetooth",
+    "releases": [
+      {
+        "version": "2.1.7",
+        "release_date": "2021-07-14T20:09:49",
+        "title": "wingpanel-indicator-bluetooth 2.1.7 Released",
+        "body": "<p>Add tooltip on hover</p>\n<p>Add a fallback device name for headphones</p>\n<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.1.7"
+      },
+      {
+        "version": "2.1.6",
+        "release_date": "2021-01-05T21:59:26",
+        "title": "wingpanel-indicator-bluetooth 2.1.6 Released",
+        "body": "<p>Prevent showing duplicate devices</p>\n<p>Fix animated icon when disabling Bluetooth</p>\n<p>Fallback device names to their device type instead of \"(null)\"</p>\n<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.1.6"
+      },
+      {
+        "version": "2.1.5",
+        "release_date": "2020-04-08T23:06:48",
+        "title": "wingpanel-indicator-bluetooth 2.1.5 Released",
+        "body": "<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.1.5"
+      },
+      {
+        "version": "2.1.4",
+        "release_date": "2019-11-25T16:42:53",
+        "title": "wingpanel-indicator-bluetooth 2.1.4 Released",
+        "body": "wingpanel-indicator-bluetooth 2.1.4 is out! \n\nChanges:\n\n* Updated translations\n",
+        "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.1.4"
+      },
+      {
+        "version": "2.1.3",
+        "release_date": "2019-05-22T17:55:03",
+        "title": "Wingpanel Bluetooth Indicator 2.1.3 Released",
+        "body": "wingpanel-indicator-bluetooth 2.1.3 is out!\r\n\r\nChanges:\r\n* Show status images for devices\r\n* Accurately display space characters in device names\r\n* Updated translations",
+        "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.1.3"
+      },
+      {
+        "version": "2.1.2",
+        "release_date": "2018-12-21T09:59:40",
+        "title": "Wingpanel Bluetooth Indicator 2.1.2 Released",
+        "body": "wingpanel-indicator-bluetooth 2.1.2 is out!\r\n\r\nChanges:\r\n* Bold device names\r\n* Updated translations",
+        "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.1.2"
+      },
+      {
+        "version": "2.1.1",
+        "release_date": "2018-10-03T10:18:32",
+        "title": "Wingpanel Bluetooth Indicator 2.1.1 Released",
+        "body": "wingpanel-indicator-bluetooth 2.1.1 is out!\r\n\r\nThis release includes updated translations.",
+        "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.1.1"
+      },
+      {
+        "version": "2.1.0",
+        "release_date": "2018-06-11T18:41:40",
+        "title": "Wingpanel Bluetooth Indicator 2.1.0 Released",
+        "body": "wingpanel-indicator-bluetooth 2.1.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/wingpanel-indicator-bluetooth/issues?q=is%3Aclosed+milestone%3A2.1.0).",
+        "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.1.0"
+      },
+      {
+        "version": "2.0.3",
+        "release_date": "2017-08-18T22:25:02",
+        "title": "Wingpanel Bluetooth Indicator 2.0.3 Released",
+        "body": "wingpanel-indicator-bluetooth 2.0.3 is out!",
+        "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.0.3"
+      },
+      {
+        "version": "2.0.2",
+        "release_date": "2017-05-22T23:13:37",
+        "title": "Wingpanel Bluetooth Indicator 2.0.2 Released",
+        "body": "wingpanel-indicator-bluetooth 2.0.2 is out!",
+        "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.0.2"
+      }
+    ],
+    "new_commits": 3
+  },
+  {
+    "name": "wingpanel-indicator-sound",
+    "releases": [
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-14T20:02:50",
+        "title": "wingpanel-indicator-sound 6.0.0 Released",
+        "body": "<p>New features</p>\n<li>select specific input and output devices</li>\n<p>Minor updates</p>\n<ul>\n<li>Hide temporary audio players when they stop</li>\n<li>Add a tooltip on hover</li>\n<li>Minor visual improvements</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/6.0.0"
+      },
+      {
+        "version": "2.1.8",
+        "release_date": "2021-01-05T22:06:52",
+        "title": "wingpanel-indicator-sound 2.1.8 Released",
+        "body": "<p>Minor updates</p>\n<ul>\n<li>Fix duplicate default player</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.1.8"
+      },
+      {
+        "version": "2.1.7",
+        "release_date": "2020-10-08T18:18:59",
+        "title": "wingpanel-indicator-sound 2.1.7 Released",
+        "body": "<p>Minor updates</p>\n<ul>\n<li>Fix opacity flash during icon animation</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.1.7"
+      },
+      {
+        "version": "2.1.6",
+        "release_date": "2020-08-07T18:08:45",
+        "title": "wingpanel-indicator-sound 2.1.6 Released",
+        "body": "<p>Update default music player when changed</p>\n<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.1.6"
+      },
+      {
+        "version": "2.1.5",
+        "release_date": "2020-04-03T18:40:26",
+        "title": "wingpanel-indicator-sound 2.1.5 Released",
+        "body": "<p>Correctly show \"Unknown Artist\" when artist info isn't available</p>\n<p>Performance improvements</p>\n<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.1.5"
+      },
+      {
+        "version": "2.1.4",
+        "release_date": "2019-11-25T16:55:25",
+        "title": "wingpanel-indicator-sound 2.1.4 Released",
+        "body": "wingpanel-indicator-sound 2.1.4 is out! \n\nChanges:\n\n* Updated translations\n",
+        "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.1.4"
+      },
+      {
+        "version": "2.1.3",
+        "release_date": "2019-03-07T07:07:56",
+        "title": "Wingpanel Sound Indicator 2.1.3 Released",
+        "body": "wingpanel-indicator-sound 2.1.3 is out!\r\n\r\nChanges:\r\n* Fix touchpad smooth and horizontal scrolling\r\n* Middle click to mute microphone\r\n* Scroll over microphone icon to adjust mic volume\r\n* Smarter MPRIS art update\r\n* Fix music player fallback icon logic\r\n* Animate mute icon\r\n* Updated translations",
+        "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.1.3"
+      },
+      {
+        "version": "2.1.2",
+        "release_date": "2018-12-19T12:00:05",
+        "title": "Wingpanel Sound Indicator 2.1.2 Released",
+        "body": "wingpanel-indicator-sound 2.1.2 is out!\r\n\r\nChanges:\r\n* Don't close an nonexistent notifications\r\n* Updated translations",
+        "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.1.2"
+      },
+      {
+        "version": "2.1.1",
+        "release_date": "2018-10-01T11:41:07",
+        "title": "Wingpanel Sound Indicator 2.1.1 Released",
+        "body": "wingpanel-indicator-sound 2.1.1 is out!\r\n\r\nChanges:\r\n* Remove 'by' before artist text\r\n* Code clean up\r\n* Updated translations",
+        "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.1.1"
+      },
+      {
+        "version": "2.1.0",
+        "release_date": "2018-06-19T00:35:49",
+        "title": "Wingpanel Sound Indicator 2.1.0 Released",
+        "body": "wingpanel-indicator-sound 2.1.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/wingpanel-indicator-sound/issues?q=is%3Aclosed+milestone%3A2.1.0).",
+        "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.1.0"
+      },
+      {
+        "version": "2.0.5",
+        "release_date": "2017-05-03T02:10:51",
+        "title": "Wingpanel Sound Indicator 2.0.5 Released",
+        "body": "wingpanel-indicator-sound 2.0.5 is out!",
+        "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.0.5"
+      },
+      {
+        "version": "2.0.4",
+        "release_date": "2017-04-21T18:42:18",
+        "title": "Wingpanel Sound Indicator 2.0.4 Released",
+        "body": "wingpanel-indicator-sound 2.0.4 is out!",
+        "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.0.4"
+      }
+    ],
+    "new_commits": 3
+  },
+  {
+    "name": "greeter",
+    "releases": [
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-14T19:41:27",
+        "title": "greeter 6.0.0 Released",
+        "body": "<ul>\n<li>Add multitouch finger tracking</li>\n<li>Add keyboard layout support</li>\n<li>New colorful avatar fallbacks</li>\n<li>Fix clock when resuming from sleep</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/greeter/releases/tag/6.0.0"
+      },
+      {
+        "version": "5.0.4",
+        "release_date": "2020-05-28T18:48:15",
+        "title": "greeter 5.0.4 Released",
+        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/greeter/releases/tag/5.0.4"
+      },
+      {
+        "version": "5.0.3",
+        "release_date": "2020-04-05T17:48:45",
+        "title": "greeter 5.0.3 Released",
+        "body": "<ul>\n<li>Fix an issue with media keys</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/greeter/releases/tag/5.0.3"
+      },
+      {
+        "version": "5.0.2",
+        "release_date": "2020-02-26T06:34:51",
+        "title": "greeter 5.0.2 Released",
+        "body": "greeter 5.0.2 is out! \n\n<ul>\n<li>Ensure that manual login is available when users are hidden</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/greeter/releases/tag/5.0.2"
+      },
+      {
+        "version": "5.0.1",
+        "release_date": "2019-10-31T21:10:21",
+        "title": "greeter 5.0.1 Released",
+        "body": "greeter 5.0.1 is out! \n\nChanges:\n\n* Save last user on attempted login\n* Handle all background aspect ratios\n* Give non-focused user cards smaller usernames\n* Better respect NumLock settings\n* Enable sounds in greeter\n* Select password text on error instead of immediately clearing it\n* Code cleanup\n* Updated translations\n",
+        "href": "https://github.com/elementary/greeter/releases/tag/5.0.1"
+      },
+      {
+        "version": "5.0",
+        "release_date": "2019-08-27T02:22:07",
+        "title": "Greeter 5.0 Released",
+        "body": "Greeter 5.0 is out!\r\n\r\nChanges:\r\n* Extensive overhaul\r\n* New card-based appearance\r\n* Improved HiDPI support\r\n* AccountsService functionality\r\n* Various bug fixes\r\n\r\nFor the full list of issues closed by this release, see [here](https://github.com/elementary/greeter/milestone/2).",
+        "href": "https://github.com/elementary/greeter/releases/tag/5.0"
+      },
+      {
+        "version": "3.3.1",
+        "release_date": "2018-11-05T22:05:52",
+        "title": "Greeter 3.3.1 Released",
+        "body": "pantheon-greeter 3.3.1 is out!\r\n\r\nThis release includes build fixes and updated translations.",
+        "href": "https://github.com/elementary/greeter/releases/tag/3.3.1"
+      },
+      {
+        "version": "3.3.0",
+        "release_date": "2018-10-02T11:50:49",
+        "title": "Greeter 3.3.0 Released",
+        "body": "pantheon-greeter 3.3.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/greeter/issues?q=is%3Aclosed+milestone%3A3.3.0).",
+        "href": "https://github.com/elementary/greeter/releases/tag/3.3.0"
+      },
+      {
+        "version": "3.2.0",
+        "release_date": "2017-09-12T05:17:56",
+        "title": "Greeter 3.2.0 Released",
+        "body": "pantheon-greeter 3.2.0 is out!\r\n\r\nThis release is mostly code cleanup.",
+        "href": "https://github.com/elementary/greeter/releases/tag/3.2.0"
+      }
+    ],
+    "new_commits": 0
+  },
+  {
+    "name": "onboarding",
+    "releases": [
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-14T19:19:34",
+        "title": "onboarding 6.0.0 Released",
+        "body": "<ul>\n<li>Add style view</li>\n<li>Add Online Accounts view</li>\n<li>Remove location services view</li>\n<li>Mention Sideload and Flathub</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/onboarding/releases/tag/6.0.0"
+      },
+      {
+        "version": "1.2.1",
+        "release_date": "2020-05-28T18:55:07",
+        "title": "onboarding 1.2.1 Released",
+        "body": "<ul>\n<li>Fix blurry icon in AppCenter</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/onboarding/releases/tag/1.2.1"
+      },
+      {
+        "version": "1.2.0",
+        "release_date": "2020-04-01T23:56:45",
+        "title": "onboarding 1.2.0 Released",
+        "body": "onboarding 1.2.0 is out! \n\n<ul>\n<li>New app icon</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/onboarding/releases/tag/1.2.0"
+      },
+      {
+        "version": "1.1.0",
+        "release_date": "2019-11-15T20:55:45",
+        "title": "onboarding 1.1.0 Released",
+        "body": "onboarding 1.1.0 is out! \n\nChanges:\n\n* Navigate with (multi-)touch gestures\n* Use new blog URL\n* Fix errors when pressing the Skip button\n* Updated translations\n",
+        "href": "https://github.com/elementary/onboarding/releases/tag/1.1.0"
+      },
+      {
+        "version": "1.0.1",
+        "release_date": "2019-08-24T04:40:22",
+        "title": "Onboarding 1.0.1 Released",
+        "body": "Onboarding 1.0.1 is out!\r\n\r\nChanges:\r\n* Avoid crash if missing `io.elementary.desktop.agent-geoclue2` schema\r\n* Updated translations",
+        "href": "https://github.com/elementary/onboarding/releases/tag/1.0.1"
+      },
+      {
+        "version": "1.0",
+        "release_date": "2019-07-10T15:07:37",
+        "title": "Onboarding 1.0 Released",
+        "body": "Onboarding 1.0 is out!\r\n\r\nThis is the initial release.",
+        "href": "https://github.com/elementary/onboarding/releases/tag/1.0"
+      }
+    ],
+    "new_commits": 3
+  },
+  {
+    "name": "videos",
+    "releases": [
+      {
+        "version": "2.7.3",
+        "release_date": "2021-07-14T19:10:48",
+        "title": "videos 2.7.3 Released",
+        "body": "<p>Other updates:</p>\n<ul>\n<li>Fix an issue with accessing library view</li>\n<li>Fix an issue with returning to the welcome page while playing multiple videos</li>\n<li>Prevent sleep while playing a video</li>\n<li>Translation updates</li>\n</ul>\n",
+        "href": "https://github.com/elementary/videos/releases/tag/2.7.3"
+      },
+      {
+        "version": "2.7.2",
+        "release_date": "2020-07-01T16:26:26",
+        "title": "videos 2.7.2 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Start up faster with large libraries</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Fix cases where subtitles refused to load</li>\n<li>Handle if library folder is deleted or moved</li>\n<li>Translation updates</li>\n</ul>\n",
+        "href": "https://github.com/elementary/videos/releases/tag/2.7.2"
+      },
+      {
+        "version": "2.7.1",
+        "release_date": "2020-04-14T22:18:45",
+        "title": "videos 2.7.1 Released",
+        "body": "<p>Other updates:</p>\n<ul>\n<li>Reliably update the replay button description and file</li>\n<li>More consistently remember the last playing video and its play position</li>\n<li>Fix missing icon in episode view</li>\n<li>Translation updates</li>\n</ul>\n",
+        "href": "https://github.com/elementary/videos/releases/tag/2.7.1"
+      },
+      {
+        "version": "2.7.0",
+        "release_date": "2019-11-25T17:17:19",
+        "title": "videos 2.7.0 Released",
+        "body": "videos 2.7.0 is out! \r\n\r\nChanges:\r\n\r\nNew features:\r\n\r\n* Option to automatically play next videos\r\n* Navigate the playlist with the keyboard\r\n* Add a button to clear the playlist\r\n* Show audio track language in settings\r\n* Show playlist item titles in their tooltips\r\n\r\nOther updates:\r\n\r\n* Show an error for unsupported files\r\n* Fix disappearing cursor on headerbar\r\n* Hide seekbar preview when switching windows with Alt + Tab\r\n* Translation updates\r\n",
+        "href": "https://github.com/elementary/videos/releases/tag/2.7.0"
+      },
+      {
+        "version": "2.6.3",
+        "release_date": "2019-01-09T10:19:08",
+        "title": "Videos 2.6.3 Released",
+        "body": "Videos 2.6.3 is out!\r\n\r\nChanges:\r\n* Build fixes\r\n* Updated translations",
+        "href": "https://github.com/elementary/videos/releases/tag/2.6.3"
+      },
+      {
+        "version": "2.6.2",
+        "release_date": "2018-10-01T06:52:12",
+        "title": "Videos 2.6.2 Released",
+        "body": "Videos 2.6.2 is out!\r\n\r\nThis release includes build fixes and updated translations.",
+        "href": "https://github.com/elementary/videos/releases/tag/2.6.2"
+      },
+      {
+        "version": "2.6.1",
+        "release_date": "2018-07-31T09:16:04",
+        "title": "Videos 2.6.1 Released",
+        "body": "Videos 2.6.1 is out!\r\n\r\nThis release includes translation updates.",
+        "href": "https://github.com/elementary/videos/releases/tag/2.6.1"
+      },
+      {
+        "version": "0.2.6",
+        "release_date": "2018-06-20T08:43:37",
+        "title": "Videos 0.2.6 Released",
+        "body": "Videos 0.2.6 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/videos/issues?q=is%3Aclosed+milestone%3A0.2.6).",
+        "href": "https://github.com/elementary/videos/releases/tag/0.2.6"
+      },
+      {
+        "version": "0.2.5",
+        "release_date": "2018-01-08T19:53:24",
+        "title": "Audience 0.2.5 Released",
+        "body": "Audience 0.2.5 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/videos/issues?q=is%3Aclosed+milestone%3A0.2.5).",
+        "href": "https://github.com/elementary/videos/releases/tag/0.2.5"
+      },
+      {
+        "version": "0.2.4",
+        "release_date": "2017-08-12T02:05:24",
+        "title": "Audience 0.2.4 Released",
+        "body": "Audience 0.2.4 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/videos/milestone/3).",
+        "href": "https://github.com/elementary/videos/releases/tag/0.2.4"
+      },
+      {
+        "version": "0.2.3",
+        "release_date": "2017-08-02T11:05:26",
+        "title": "Audience 0.2.3 Released",
+        "body": "Audience 0.2.3 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/videos/milestone/1?closed=1).",
+        "href": "https://github.com/elementary/videos/releases/tag/0.2.3"
+      }
+    ],
+    "new_commits": 3
+  },
+  {
     "name": "pantheon-agent-polkit",
     "releases": [
       {
@@ -1159,89 +1573,6 @@
     "new_commits": 85
   },
   {
-    "name": "wingpanel-indicator-sound",
-    "releases": [
-      {
-        "version": "2.1.8",
-        "release_date": "2021-01-05T22:06:52",
-        "title": "wingpanel-indicator-sound 2.1.8 Released",
-        "body": "<p>Minor updates</p>\n<ul>\n<li>Fix duplicate default player</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.1.8"
-      },
-      {
-        "version": "2.1.7",
-        "release_date": "2020-10-08T18:18:59",
-        "title": "wingpanel-indicator-sound 2.1.7 Released",
-        "body": "<p>Minor updates</p>\n<ul>\n<li>Fix opacity flash during icon animation</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.1.7"
-      },
-      {
-        "version": "2.1.6",
-        "release_date": "2020-08-07T18:08:45",
-        "title": "wingpanel-indicator-sound 2.1.6 Released",
-        "body": "<p>Update default music player when changed</p>\n<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.1.6"
-      },
-      {
-        "version": "2.1.5",
-        "release_date": "2020-04-03T18:40:26",
-        "title": "wingpanel-indicator-sound 2.1.5 Released",
-        "body": "<p>Correctly show \"Unknown Artist\" when artist info isn't available</p>\n<p>Performance improvements</p>\n<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.1.5"
-      },
-      {
-        "version": "2.1.4",
-        "release_date": "2019-11-25T16:55:25",
-        "title": "wingpanel-indicator-sound 2.1.4 Released",
-        "body": "wingpanel-indicator-sound 2.1.4 is out! \n\nChanges:\n\n* Updated translations\n",
-        "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.1.4"
-      },
-      {
-        "version": "2.1.3",
-        "release_date": "2019-03-07T07:07:56",
-        "title": "Wingpanel Sound Indicator 2.1.3 Released",
-        "body": "wingpanel-indicator-sound 2.1.3 is out!\r\n\r\nChanges:\r\n* Fix touchpad smooth and horizontal scrolling\r\n* Middle click to mute microphone\r\n* Scroll over microphone icon to adjust mic volume\r\n* Smarter MPRIS art update\r\n* Fix music player fallback icon logic\r\n* Animate mute icon\r\n* Updated translations",
-        "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.1.3"
-      },
-      {
-        "version": "2.1.2",
-        "release_date": "2018-12-19T12:00:05",
-        "title": "Wingpanel Sound Indicator 2.1.2 Released",
-        "body": "wingpanel-indicator-sound 2.1.2 is out!\r\n\r\nChanges:\r\n* Don't close an nonexistent notifications\r\n* Updated translations",
-        "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.1.2"
-      },
-      {
-        "version": "2.1.1",
-        "release_date": "2018-10-01T11:41:07",
-        "title": "Wingpanel Sound Indicator 2.1.1 Released",
-        "body": "wingpanel-indicator-sound 2.1.1 is out!\r\n\r\nChanges:\r\n* Remove 'by' before artist text\r\n* Code clean up\r\n* Updated translations",
-        "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.1.1"
-      },
-      {
-        "version": "2.1.0",
-        "release_date": "2018-06-19T00:35:49",
-        "title": "Wingpanel Sound Indicator 2.1.0 Released",
-        "body": "wingpanel-indicator-sound 2.1.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/wingpanel-indicator-sound/issues?q=is%3Aclosed+milestone%3A2.1.0).",
-        "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.1.0"
-      },
-      {
-        "version": "2.0.5",
-        "release_date": "2017-05-03T02:10:51",
-        "title": "Wingpanel Sound Indicator 2.0.5 Released",
-        "body": "wingpanel-indicator-sound 2.0.5 is out!",
-        "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.0.5"
-      },
-      {
-        "version": "2.0.4",
-        "release_date": "2017-04-21T18:42:18",
-        "title": "Wingpanel Sound Indicator 2.0.4 Released",
-        "body": "wingpanel-indicator-sound 2.0.4 is out!",
-        "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.0.4"
-      }
-    ],
-    "new_commits": 67
-  },
-  {
     "name": "switchboard-plug-sound",
     "releases": [
       {
@@ -1385,75 +1716,6 @@
       }
     ],
     "new_commits": 19
-  },
-  {
-    "name": "wingpanel-indicator-bluetooth",
-    "releases": [
-      {
-        "version": "2.1.6",
-        "release_date": "2021-01-05T21:59:26",
-        "title": "wingpanel-indicator-bluetooth 2.1.6 Released",
-        "body": "<p>Prevent showing duplicate devices</p>\n<p>Fix animated icon when disabling Bluetooth</p>\n<p>Fallback device names to their device type instead of \"(null)\"</p>\n<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.1.6"
-      },
-      {
-        "version": "2.1.5",
-        "release_date": "2020-04-08T23:06:48",
-        "title": "wingpanel-indicator-bluetooth 2.1.5 Released",
-        "body": "<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.1.5"
-      },
-      {
-        "version": "2.1.4",
-        "release_date": "2019-11-25T16:42:53",
-        "title": "wingpanel-indicator-bluetooth 2.1.4 Released",
-        "body": "wingpanel-indicator-bluetooth 2.1.4 is out! \n\nChanges:\n\n* Updated translations\n",
-        "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.1.4"
-      },
-      {
-        "version": "2.1.3",
-        "release_date": "2019-05-22T17:55:03",
-        "title": "Wingpanel Bluetooth Indicator 2.1.3 Released",
-        "body": "wingpanel-indicator-bluetooth 2.1.3 is out!\r\n\r\nChanges:\r\n* Show status images for devices\r\n* Accurately display space characters in device names\r\n* Updated translations",
-        "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.1.3"
-      },
-      {
-        "version": "2.1.2",
-        "release_date": "2018-12-21T09:59:40",
-        "title": "Wingpanel Bluetooth Indicator 2.1.2 Released",
-        "body": "wingpanel-indicator-bluetooth 2.1.2 is out!\r\n\r\nChanges:\r\n* Bold device names\r\n* Updated translations",
-        "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.1.2"
-      },
-      {
-        "version": "2.1.1",
-        "release_date": "2018-10-03T10:18:32",
-        "title": "Wingpanel Bluetooth Indicator 2.1.1 Released",
-        "body": "wingpanel-indicator-bluetooth 2.1.1 is out!\r\n\r\nThis release includes updated translations.",
-        "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.1.1"
-      },
-      {
-        "version": "2.1.0",
-        "release_date": "2018-06-11T18:41:40",
-        "title": "Wingpanel Bluetooth Indicator 2.1.0 Released",
-        "body": "wingpanel-indicator-bluetooth 2.1.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/wingpanel-indicator-bluetooth/issues?q=is%3Aclosed+milestone%3A2.1.0).",
-        "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.1.0"
-      },
-      {
-        "version": "2.0.3",
-        "release_date": "2017-08-18T22:25:02",
-        "title": "Wingpanel Bluetooth Indicator 2.0.3 Released",
-        "body": "wingpanel-indicator-bluetooth 2.0.3 is out!",
-        "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.0.3"
-      },
-      {
-        "version": "2.0.2",
-        "release_date": "2017-05-22T23:13:37",
-        "title": "Wingpanel Bluetooth Indicator 2.0.2 Released",
-        "body": "wingpanel-indicator-bluetooth 2.0.2 is out!",
-        "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.0.2"
-      }
-    ],
-    "new_commits": 98
   },
   {
     "name": "calendar",
@@ -2286,7 +2548,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-power/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 150
+    "new_commits": 151
   },
   {
     "name": "os",
@@ -2481,123 +2743,6 @@
       }
     ],
     "new_commits": 486
-  },
-  {
-    "name": "wingpanel-indicator-nightlight",
-    "releases": [
-      {
-        "version": "2.0.4",
-        "release_date": "2020-08-07T18:14:11",
-        "title": "wingpanel-indicator-nightlight 2.0.4 Released",
-        "body": "<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/wingpanel-indicator-nightlight/releases/tag/2.0.4"
-      },
-      {
-        "version": "2.0.3",
-        "release_date": "2020-03-02T18:30:27",
-        "title": "wingpanel-indicator-nightlight 2.0.3 Released",
-        "body": "wingpanel-indicator-nightlight 2.0.3 is out! \n\n<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/wingpanel-indicator-nightlight/releases/tag/2.0.3"
-      },
-      {
-        "version": "2.0.2",
-        "release_date": "2019-02-19T15:11:12",
-        "title": "Wingpanel Nightlight Indicator 2.0.2 Released",
-        "body": "wingpanel-indicator-nightlight 2.0.2 is out!\r\n\r\nChanges:\r\n* Updated translations",
-        "href": "https://github.com/elementary/wingpanel-indicator-nightlight/releases/tag/2.0.2"
-      },
-      {
-        "version": "2.0.1",
-        "release_date": "2018-10-02T16:26:13",
-        "title": "Wingpanel Nightlight Indicator 2.0.1 Released",
-        "body": "wingpanel-indicator-nightlight 2.0.1 is out!\r\n\r\nThis release includes updated translations.",
-        "href": "https://github.com/elementary/wingpanel-indicator-nightlight/releases/tag/2.0.1"
-      },
-      {
-        "version": "2.0",
-        "release_date": "2018-06-07T08:43:32",
-        "title": "Wingpanel Nightlight Indicator 2.0 Released",
-        "body": "wingpanel-indicator-nightlight 2.0 is out!\r\n\r\nThis is the initial release.",
-        "href": "https://github.com/elementary/wingpanel-indicator-nightlight/releases/tag/2.0"
-      }
-    ],
-    "new_commits": 59
-  },
-  {
-    "name": "videos",
-    "releases": [
-      {
-        "version": "2.7.2",
-        "release_date": "2020-07-01T16:26:26",
-        "title": "videos 2.7.2 Released",
-        "body": "<p>Improvements:</p>\n<ul>\n<li>Start up faster with large libraries</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Fix cases where subtitles refused to load</li>\n<li>Handle if library folder is deleted or moved</li>\n<li>Translation updates</li>\n</ul>\n",
-        "href": "https://github.com/elementary/videos/releases/tag/2.7.2"
-      },
-      {
-        "version": "2.7.1",
-        "release_date": "2020-04-14T22:18:45",
-        "title": "videos 2.7.1 Released",
-        "body": "<p>Other updates:</p>\n<ul>\n<li>Reliably update the replay button description and file</li>\n<li>More consistently remember the last playing video and its play position</li>\n<li>Fix missing icon in episode view</li>\n<li>Translation updates</li>\n</ul>\n",
-        "href": "https://github.com/elementary/videos/releases/tag/2.7.1"
-      },
-      {
-        "version": "2.7.0",
-        "release_date": "2019-11-25T17:17:19",
-        "title": "videos 2.7.0 Released",
-        "body": "videos 2.7.0 is out! \r\n\r\nChanges:\r\n\r\nNew features:\r\n\r\n* Option to automatically play next videos\r\n* Navigate the playlist with the keyboard\r\n* Add a button to clear the playlist\r\n* Show audio track language in settings\r\n* Show playlist item titles in their tooltips\r\n\r\nOther updates:\r\n\r\n* Show an error for unsupported files\r\n* Fix disappearing cursor on headerbar\r\n* Hide seekbar preview when switching windows with Alt + Tab\r\n* Translation updates\r\n",
-        "href": "https://github.com/elementary/videos/releases/tag/2.7.0"
-      },
-      {
-        "version": "2.6.3",
-        "release_date": "2019-01-09T10:19:08",
-        "title": "Videos 2.6.3 Released",
-        "body": "Videos 2.6.3 is out!\r\n\r\nChanges:\r\n* Build fixes\r\n* Updated translations",
-        "href": "https://github.com/elementary/videos/releases/tag/2.6.3"
-      },
-      {
-        "version": "2.6.2",
-        "release_date": "2018-10-01T06:52:12",
-        "title": "Videos 2.6.2 Released",
-        "body": "Videos 2.6.2 is out!\r\n\r\nThis release includes build fixes and updated translations.",
-        "href": "https://github.com/elementary/videos/releases/tag/2.6.2"
-      },
-      {
-        "version": "2.6.1",
-        "release_date": "2018-07-31T09:16:04",
-        "title": "Videos 2.6.1 Released",
-        "body": "Videos 2.6.1 is out!\r\n\r\nThis release includes translation updates.",
-        "href": "https://github.com/elementary/videos/releases/tag/2.6.1"
-      },
-      {
-        "version": "0.2.6",
-        "release_date": "2018-06-20T08:43:37",
-        "title": "Videos 0.2.6 Released",
-        "body": "Videos 0.2.6 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/videos/issues?q=is%3Aclosed+milestone%3A0.2.6).",
-        "href": "https://github.com/elementary/videos/releases/tag/0.2.6"
-      },
-      {
-        "version": "0.2.5",
-        "release_date": "2018-01-08T19:53:24",
-        "title": "Audience 0.2.5 Released",
-        "body": "Audience 0.2.5 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/videos/issues?q=is%3Aclosed+milestone%3A0.2.5).",
-        "href": "https://github.com/elementary/videos/releases/tag/0.2.5"
-      },
-      {
-        "version": "0.2.4",
-        "release_date": "2017-08-12T02:05:24",
-        "title": "Audience 0.2.4 Released",
-        "body": "Audience 0.2.4 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/videos/milestone/3).",
-        "href": "https://github.com/elementary/videos/releases/tag/0.2.4"
-      },
-      {
-        "version": "0.2.3",
-        "release_date": "2017-08-02T11:05:26",
-        "title": "Audience 0.2.3 Released",
-        "body": "Audience 0.2.3 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/videos/milestone/1?closed=1).",
-        "href": "https://github.com/elementary/videos/releases/tag/0.2.3"
-      }
-    ],
-    "new_commits": 79
   },
   {
     "name": "wingpanel-indicator-datetime",
@@ -2965,47 +3110,6 @@
     "new_commits": 120
   },
   {
-    "name": "onboarding",
-    "releases": [
-      {
-        "version": "1.2.1",
-        "release_date": "2020-05-28T18:55:07",
-        "title": "onboarding 1.2.1 Released",
-        "body": "<ul>\n<li>Fix blurry icon in AppCenter</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/onboarding/releases/tag/1.2.1"
-      },
-      {
-        "version": "1.2.0",
-        "release_date": "2020-04-01T23:56:45",
-        "title": "onboarding 1.2.0 Released",
-        "body": "onboarding 1.2.0 is out! \n\n<ul>\n<li>New app icon</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/onboarding/releases/tag/1.2.0"
-      },
-      {
-        "version": "1.1.0",
-        "release_date": "2019-11-15T20:55:45",
-        "title": "onboarding 1.1.0 Released",
-        "body": "onboarding 1.1.0 is out! \n\nChanges:\n\n* Navigate with (multi-)touch gestures\n* Use new blog URL\n* Fix errors when pressing the Skip button\n* Updated translations\n",
-        "href": "https://github.com/elementary/onboarding/releases/tag/1.1.0"
-      },
-      {
-        "version": "1.0.1",
-        "release_date": "2019-08-24T04:40:22",
-        "title": "Onboarding 1.0.1 Released",
-        "body": "Onboarding 1.0.1 is out!\r\n\r\nChanges:\r\n* Avoid crash if missing `io.elementary.desktop.agent-geoclue2` schema\r\n* Updated translations",
-        "href": "https://github.com/elementary/onboarding/releases/tag/1.0.1"
-      },
-      {
-        "version": "1.0",
-        "release_date": "2019-07-10T15:07:37",
-        "title": "Onboarding 1.0 Released",
-        "body": "Onboarding 1.0 is out!\r\n\r\nThis is the initial release.",
-        "href": "https://github.com/elementary/onboarding/releases/tag/1.0"
-      }
-    ],
-    "new_commits": 221
-  },
-  {
     "name": "switchboard-plug-printers",
     "releases": [
       {
@@ -3073,68 +3177,6 @@
       }
     ],
     "new_commits": 65
-  },
-  {
-    "name": "greeter",
-    "releases": [
-      {
-        "version": "5.0.4",
-        "release_date": "2020-05-28T18:48:15",
-        "title": "greeter 5.0.4 Released",
-        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/greeter/releases/tag/5.0.4"
-      },
-      {
-        "version": "5.0.3",
-        "release_date": "2020-04-05T17:48:45",
-        "title": "greeter 5.0.3 Released",
-        "body": "<ul>\n<li>Fix an issue with media keys</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/greeter/releases/tag/5.0.3"
-      },
-      {
-        "version": "5.0.2",
-        "release_date": "2020-02-26T06:34:51",
-        "title": "greeter 5.0.2 Released",
-        "body": "greeter 5.0.2 is out! \n\n<ul>\n<li>Ensure that manual login is available when users are hidden</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/greeter/releases/tag/5.0.2"
-      },
-      {
-        "version": "5.0.1",
-        "release_date": "2019-10-31T21:10:21",
-        "title": "greeter 5.0.1 Released",
-        "body": "greeter 5.0.1 is out! \n\nChanges:\n\n* Save last user on attempted login\n* Handle all background aspect ratios\n* Give non-focused user cards smaller usernames\n* Better respect NumLock settings\n* Enable sounds in greeter\n* Select password text on error instead of immediately clearing it\n* Code cleanup\n* Updated translations\n",
-        "href": "https://github.com/elementary/greeter/releases/tag/5.0.1"
-      },
-      {
-        "version": "5.0",
-        "release_date": "2019-08-27T02:22:07",
-        "title": "Greeter 5.0 Released",
-        "body": "Greeter 5.0 is out!\r\n\r\nChanges:\r\n* Extensive overhaul\r\n* New card-based appearance\r\n* Improved HiDPI support\r\n* AccountsService functionality\r\n* Various bug fixes\r\n\r\nFor the full list of issues closed by this release, see [here](https://github.com/elementary/greeter/milestone/2).",
-        "href": "https://github.com/elementary/greeter/releases/tag/5.0"
-      },
-      {
-        "version": "3.3.1",
-        "release_date": "2018-11-05T22:05:52",
-        "title": "Greeter 3.3.1 Released",
-        "body": "pantheon-greeter 3.3.1 is out!\r\n\r\nThis release includes build fixes and updated translations.",
-        "href": "https://github.com/elementary/greeter/releases/tag/3.3.1"
-      },
-      {
-        "version": "3.3.0",
-        "release_date": "2018-10-02T11:50:49",
-        "title": "Greeter 3.3.0 Released",
-        "body": "pantheon-greeter 3.3.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/greeter/issues?q=is%3Aclosed+milestone%3A3.3.0).",
-        "href": "https://github.com/elementary/greeter/releases/tag/3.3.0"
-      },
-      {
-        "version": "3.2.0",
-        "release_date": "2017-09-12T05:17:56",
-        "title": "Greeter 3.2.0 Released",
-        "body": "pantheon-greeter 3.2.0 is out!\r\n\r\nThis release is mostly code cleanup.",
-        "href": "https://github.com/elementary/greeter/releases/tag/3.2.0"
-      }
-    ],
-    "new_commits": 87
   },
   {
     "name": "switchboard-plug-mouse-touchpad",
