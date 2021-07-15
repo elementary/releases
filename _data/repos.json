@@ -1405,7 +1405,7 @@
         "href": "https://github.com/elementary/videos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 6
+    "new_commits": 7
   },
   {
     "name": "pantheon-agent-polkit",
@@ -1529,7 +1529,7 @@
         "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.0"
       }
     ],
-    "new_commits": 8
+    "new_commits": 10
   },
   {
     "name": "switchboard-plug-bluetooth",
@@ -1792,7 +1792,7 @@
         "href": "https://github.com/elementary/switchboard/releases/tag/2.3.0"
       }
     ],
-    "new_commits": 6
+    "new_commits": 7
   },
   {
     "name": "gala",
@@ -1833,7 +1833,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 9
+    "new_commits": 11
   },
   {
     "name": "music",
@@ -1909,7 +1909,7 @@
         "href": "https://github.com/elementary/music/releases/tag/0.4.0.3"
       }
     ],
-    "new_commits": 9
+    "new_commits": 11
   },
   {
     "name": "wingpanel",
