@@ -1,5 +1,46 @@
 [
   {
+    "name": "default-settings",
+    "releases": [
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-15T19:59:55",
+        "title": "default-settings 6.0.0 Released",
+        "body": "New upstream release",
+        "href": "https://github.com/elementary/default-settings/releases/tag/6.0.0"
+      },
+      {
+        "version": "5.1.2",
+        "release_date": "2020-01-15T08:18:19",
+        "title": "default-settings 5.1.2 Released",
+        "body": "default-settings 5.1.2 is out!\r\n\r\n<ul>\r\n<li>profile.d: use GTK3_MODULES over GTK_MODULES</li>\r\n<li>Remove switchboard plugs from blacklist</li>\r\n<li>Automatically show & hide the property panel of IBus</li>\r\n<li>Make default search engine DuckDuckGo</li>\r\n<li>Activate g-s-d cursor plugin</li>\r\n<li>Removed deprecated draw-background override</li>\r\n<li>Add AccountsService interfaces for greeter power settings</li>\r\n<li>Accept only first party cookies for enhanced privacy</li>\r\n</ul>",
+        "href": "https://github.com/elementary/default-settings/releases/tag/5.1.2"
+      },
+      {
+        "version": "5.1.1",
+        "release_date": "2019-08-13T01:57:38",
+        "title": "Default Settings 5.1.1 Released",
+        "body": "elementary OS Default Settings 5.1.1 is out!\r\n\r\nChanges:\r\n* Include accountsservice files for [Greeter](https://github.com/elementary/greeter) use",
+        "href": "https://github.com/elementary/default-settings/releases/tag/5.1.1"
+      },
+      {
+        "version": "5.1.0",
+        "release_date": "2019-03-19T20:24:37",
+        "title": "Default Settings 5.1.0 Released",
+        "body": "elementary OS Default Settings 5.1.0 is out!\r\n\r\nMost of these changes were already sent out to elementary OS as snapshots, this release prepares for conditional compilation.\r\n\r\n* Change default IBus hotkey to `Ctrl+Space`\r\n* Set `QT_QPA_PLATFORMTHEME` to `gtk` for `adwaita-qt` and `qt5-gtk-platformtheme`\r\n* Set `clock-show-date` to `true` in `org.gnome.desktop.interface`\r\n* Set `Onboard` theme to `Nightshade`\r\n* Expand AppCenter blacklist entries\r\n* Manually install and compile gschema so it can support conditions\r\n* Delete unused Ayatana blacklist\r\n* Add `.inputrc`",
+        "href": "https://github.com/elementary/default-settings/releases/tag/5.1.0"
+      },
+      {
+        "version": "5.0",
+        "release_date": "2018-05-23T13:45:38",
+        "title": "Default Settings 5.0 Released",
+        "body": "`elementary-default-settings` 5.0 is out!",
+        "href": "https://github.com/elementary/default-settings/releases/tag/5.0"
+      }
+    ],
+    "new_commits": 0
+  },
+  {
     "name": "sideload",
     "releases": [
       {
@@ -2553,6 +2594,47 @@
     "new_commits": 20
   },
   {
+    "name": "session-settings",
+    "releases": [
+      {
+        "version": "6.0.0",
+        "release_date": "2021-02-19T20:24:49",
+        "title": "Session Settings 6.0.0 Released",
+        "body": "A fairly hefty rewrite that should make things more portable to other distros!",
+        "href": "https://github.com/elementary/session-settings/releases/tag/6.0.0"
+      },
+      {
+        "version": "5.0.3",
+        "release_date": "2018-09-14T17:26:37",
+        "title": "Session Settings 5.0.3 Released",
+        "body": "`pantheon-xsession-settings` 5.0.3 is out!\r\n\r\nThis release launches `gala-daemon` as part of the Pantheon session.",
+        "href": "https://github.com/elementary/session-settings/releases/tag/5.0.3"
+      },
+      {
+        "version": "5.0.2",
+        "release_date": "2018-07-27T04:07:14",
+        "title": "Session Settings 5.0.2 Released",
+        "body": "`pantheon-xsession-settings` 5.0.2 is out!\r\n\r\nThis release includes updated mimetype associations and removes the Cerbere autostart entry now shipped by Cerbere 0.2.4 instead.",
+        "href": "https://github.com/elementary/session-settings/releases/tag/5.0.2"
+      },
+      {
+        "version": "5.0.1",
+        "release_date": "2018-05-30T22:14:56",
+        "title": "Session Settings 5.0.1 Released",
+        "body": "`pantheon-xsession-setting` 5.0.1 is out!\r\n\r\nThis release adapts the Cerbere symlink to changes found in Cerbere 0.2.3.",
+        "href": "https://github.com/elementary/session-settings/releases/tag/5.0.1"
+      },
+      {
+        "version": "5.0",
+        "release_date": "2018-05-23T13:13:58",
+        "title": "Session Settings 5.0 Released",
+        "body": "`pantheon-xsession-settings` 5.0 is out!",
+        "href": "https://github.com/elementary/session-settings/releases/tag/5.0"
+      }
+    ],
+    "new_commits": 0
+  },
+  {
     "name": "wingpanel-indicator-keyboard",
     "releases": [
       {
@@ -3460,7 +3542,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 563
+    "new_commits": 564
   },
   {
     "name": "switchboard-plug-printers",
@@ -4464,40 +4546,6 @@
     "new_commits": 185
   },
   {
-    "name": "default-settings",
-    "releases": [
-      {
-        "version": "5.1.2",
-        "release_date": "2020-01-15T08:18:19",
-        "title": "default-settings 5.1.2 Released",
-        "body": "default-settings 5.1.2 is out!\r\n\r\n<ul>\r\n<li>profile.d: use GTK3_MODULES over GTK_MODULES</li>\r\n<li>Remove switchboard plugs from blacklist</li>\r\n<li>Automatically show & hide the property panel of IBus</li>\r\n<li>Make default search engine DuckDuckGo</li>\r\n<li>Activate g-s-d cursor plugin</li>\r\n<li>Removed deprecated draw-background override</li>\r\n<li>Add AccountsService interfaces for greeter power settings</li>\r\n<li>Accept only first party cookies for enhanced privacy</li>\r\n</ul>",
-        "href": "https://github.com/elementary/default-settings/releases/tag/5.1.2"
-      },
-      {
-        "version": "5.1.1",
-        "release_date": "2019-08-13T01:57:38",
-        "title": "Default Settings 5.1.1 Released",
-        "body": "elementary OS Default Settings 5.1.1 is out!\r\n\r\nChanges:\r\n* Include accountsservice files for [Greeter](https://github.com/elementary/greeter) use",
-        "href": "https://github.com/elementary/default-settings/releases/tag/5.1.1"
-      },
-      {
-        "version": "5.1.0",
-        "release_date": "2019-03-19T20:24:37",
-        "title": "Default Settings 5.1.0 Released",
-        "body": "elementary OS Default Settings 5.1.0 is out!\r\n\r\nMost of these changes were already sent out to elementary OS as snapshots, this release prepares for conditional compilation.\r\n\r\n* Change default IBus hotkey to `Ctrl+Space`\r\n* Set `QT_QPA_PLATFORMTHEME` to `gtk` for `adwaita-qt` and `qt5-gtk-platformtheme`\r\n* Set `clock-show-date` to `true` in `org.gnome.desktop.interface`\r\n* Set `Onboard` theme to `Nightshade`\r\n* Expand AppCenter blacklist entries\r\n* Manually install and compile gschema so it can support conditions\r\n* Delete unused Ayatana blacklist\r\n* Add `.inputrc`",
-        "href": "https://github.com/elementary/default-settings/releases/tag/5.1.0"
-      },
-      {
-        "version": "5.0",
-        "release_date": "2018-05-23T13:45:38",
-        "title": "Default Settings 5.0 Released",
-        "body": "`elementary-default-settings` 5.0 is out!",
-        "href": "https://github.com/elementary/default-settings/releases/tag/5.0"
-      }
-    ],
-    "new_commits": 50
-  },
-  {
     "name": "actions",
     "releases": [
       {
@@ -4691,40 +4739,6 @@
       }
     ],
     "new_commits": 0
-  },
-  {
-    "name": "session-settings",
-    "releases": [
-      {
-        "version": "5.0.3",
-        "release_date": "2018-09-14T17:26:37",
-        "title": "Session Settings 5.0.3 Released",
-        "body": "`pantheon-xsession-settings` 5.0.3 is out!\r\n\r\nThis release launches `gala-daemon` as part of the Pantheon session.",
-        "href": "https://github.com/elementary/session-settings/releases/tag/5.0.3"
-      },
-      {
-        "version": "5.0.2",
-        "release_date": "2018-07-27T04:07:14",
-        "title": "Session Settings 5.0.2 Released",
-        "body": "`pantheon-xsession-settings` 5.0.2 is out!\r\n\r\nThis release includes updated mimetype associations and removes the Cerbere autostart entry now shipped by Cerbere 0.2.4 instead.",
-        "href": "https://github.com/elementary/session-settings/releases/tag/5.0.2"
-      },
-      {
-        "version": "5.0.1",
-        "release_date": "2018-05-30T22:14:56",
-        "title": "Session Settings 5.0.1 Released",
-        "body": "`pantheon-xsession-setting` 5.0.1 is out!\r\n\r\nThis release adapts the Cerbere symlink to changes found in Cerbere 0.2.3.",
-        "href": "https://github.com/elementary/session-settings/releases/tag/5.0.1"
-      },
-      {
-        "version": "5.0",
-        "release_date": "2018-05-23T13:13:58",
-        "title": "Session Settings 5.0 Released",
-        "body": "`pantheon-xsession-settings` 5.0 is out!",
-        "href": "https://github.com/elementary/session-settings/releases/tag/5.0"
-      }
-    ],
-    "new_commits": 18
   },
   {
     "name": "print",
