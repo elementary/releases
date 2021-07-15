@@ -287,7 +287,7 @@
         "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 6
+    "new_commits": 7
   },
   {
     "name": "wingpanel-indicator-network",
@@ -1322,7 +1322,7 @@
         "href": "https://github.com/elementary/onboarding/releases/tag/1.0"
       }
     ],
-    "new_commits": 7
+    "new_commits": 10
   },
   {
     "name": "videos",
@@ -1405,7 +1405,7 @@
         "href": "https://github.com/elementary/videos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 7
+    "new_commits": 8
   },
   {
     "name": "pantheon-agent-polkit",
@@ -1833,7 +1833,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 11
+    "new_commits": 12
   },
   {
     "name": "music",
@@ -3350,7 +3350,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 486
+    "new_commits": 487
   },
   {
     "name": "code",
@@ -4137,7 +4137,7 @@
         "href": "https://github.com/elementary/terminal/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 281
+    "new_commits": 282
   },
   {
     "name": "wingpanel-indicator-notifications",
