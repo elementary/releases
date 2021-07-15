@@ -101,7 +101,7 @@
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
       }
     ],
-    "new_commits": 8
+    "new_commits": 9
   },
   {
     "name": "switchboard-plug-security-privacy",
@@ -349,7 +349,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 7
+    "new_commits": 10
   },
   {
     "name": "switchboard-plug-sound",
@@ -929,7 +929,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 7
+    "new_commits": 9
   },
   {
     "name": "wingpanel-indicator-power",
@@ -991,7 +991,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-power/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 7
+    "new_commits": 12
   },
   {
     "name": "wingpanel-indicator-nightlight",
@@ -1039,7 +1039,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-nightlight/releases/tag/2.0"
       }
     ],
-    "new_commits": 2
+    "new_commits": 3
   },
   {
     "name": "wingpanel-indicator-bluetooth",
@@ -1115,7 +1115,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 7
+    "new_commits": 9
   },
   {
     "name": "wingpanel-indicator-sound",
@@ -1205,7 +1205,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.0.4"
       }
     ],
-    "new_commits": 7
+    "new_commits": 10
   },
   {
     "name": "greeter",
@@ -2158,7 +2158,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-session/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 12
+    "new_commits": 14
   },
   {
     "name": "capnet-assist",
@@ -2564,7 +2564,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-keyboard/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 89
+    "new_commits": 90
   },
   {
     "name": "calendar",
@@ -4199,7 +4199,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.0.1"
       }
     ],
-    "new_commits": 152
+    "new_commits": 153
   },
   {
     "name": "camera",
