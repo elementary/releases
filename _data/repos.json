@@ -515,7 +515,7 @@
         "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 12
+    "new_commits": 13
   },
   {
     "name": "switchboard-plug-notifications",
@@ -1205,7 +1205,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.0.4"
       }
     ],
-    "new_commits": 10
+    "new_commits": 14
   },
   {
     "name": "greeter",
@@ -1322,7 +1322,7 @@
         "href": "https://github.com/elementary/onboarding/releases/tag/1.0"
       }
     ],
-    "new_commits": 10
+    "new_commits": 22
   },
   {
     "name": "videos",
@@ -1702,7 +1702,7 @@
         "href": "https://github.com/elementary/photos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 10
+    "new_commits": 11
   },
   {
     "name": "switchboard",
@@ -3350,7 +3350,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 487
+    "new_commits": 488
   },
   {
     "name": "code",
@@ -3419,7 +3419,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 562
+    "new_commits": 563
   },
   {
     "name": "sideload",
