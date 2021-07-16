@@ -1,5 +1,168 @@
 [
   {
+    "name": "feedback",
+    "releases": [
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-16T00:13:14",
+        "title": "feedback 6.0.0 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Show Flatpak Apps</li>\n<li>Support dark style</li>\n<li>Add multitouch navigation gestures</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Ensure links are up-to-date</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/feedback/releases/tag/6.0.0"
+      },
+      {
+        "version": "1.0",
+        "release_date": "2019-07-09T21:03:40",
+        "title": "Feedback 1.0 Released",
+        "body": "Feedback 1.0 is out!\r\n\r\nThis is the initial release.",
+        "href": "https://github.com/elementary/feedback/releases/tag/1.0"
+      }
+    ],
+    "new_commits": 3
+  },
+  {
+    "name": "wingpanel-indicator-notifications",
+    "releases": [
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-16T00:02:35",
+        "title": "wingpanel-indicator-notifications 6.0.0 Released",
+        "body": "<p>Complete redesign:</p>\n<ul>\n<li>Multitouch gestures to dismiss notifications</li>\n<li>Close button on each notification</li>\n<li>Show images and badged icons</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Show tooltip on hover </li>\n<li>Performance improvements</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/6.0.0"
+      },
+      {
+        "version": "2.1.4",
+        "release_date": "2020-04-01T23:52:26",
+        "title": "wingpanel-indicator-notifications 2.1.4 Released",
+        "body": "wingpanel-indicator-notifications 2.1.4 is out! \n\n<p>Fix issues with disappearing notifications</p>\n<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.1.4"
+      },
+      {
+        "version": "2.1.3",
+        "release_date": "2019-11-25T16:55:34",
+        "title": "wingpanel-indicator-notifications 2.1.3 Released",
+        "body": "wingpanel-indicator-notifications 2.1.3 is out! \n\nChanges:\n\n* Fix a minor visual inconsistency\n* Updated translations\n",
+        "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.1.3"
+      },
+      {
+        "version": "2.1.2",
+        "release_date": "2018-10-29T16:38:36",
+        "title": "Wingpanel Notifications Indicator 2.1.2 Released",
+        "body": "wingpanel-indicator-notifications 2.1.2 is out!\r\n\r\nChanges:\r\n* Always update the state of the indicator to prevent phantom notifications\r\n* Updated translations",
+        "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.1.2"
+      },
+      {
+        "version": "2.1.1",
+        "release_date": "2018-10-03T10:34:58",
+        "title": "Wingpanel Notifications Indicator 2.1.1 Released",
+        "body": "wingpanel-indicator-notifications 2.1.1 is out!\r\n\r\nThis release includes updated translations.",
+        "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.1.1"
+      },
+      {
+        "version": "2.1.0",
+        "release_date": "2018-06-07T10:16:48",
+        "title": "Wingpanel Notifications Indicator 2.1.0 Released",
+        "body": "wingpanel-indicator-notifications 2.1.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/wingpanel-indicator-notifications/issues?q=is%3Aclosed+milestone%3A2.1.0).",
+        "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.1.0"
+      },
+      {
+        "version": "2.0.3",
+        "release_date": "2017-10-04T02:28:04",
+        "title": "Wingpanel Notifications Indicator 2.0.3 Released",
+        "body": "wingpanel-indicator-notifications 2.0.3 is out!\r\n\r\nThis release includes support for the new settings:// URL schema.",
+        "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.0.3"
+      },
+      {
+        "version": "2.0.2",
+        "release_date": "2017-08-01T02:41:02",
+        "title": "Wingpanel Notifications Indicator 2.0.2 Released",
+        "body": "wingpanel-indicator-notifications 2.0.2 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/wingpanel-indicator-notifications/milestone/2?closed=1).",
+        "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.0.2"
+      },
+      {
+        "version": "2.0.1",
+        "release_date": "2017-05-21T22:07:11",
+        "title": "Wingpanel Notifications Indicator 2.0.1 Released",
+        "body": "wingpanel-indicator-notifications 2.0.1 is out!",
+        "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.0.1"
+      }
+    ],
+    "new_commits": 4
+  },
+  {
+    "name": "installer",
+    "releases": [
+      {
+        "version": "1.0.0",
+        "release_date": "2021-07-15T23:54:35",
+        "title": "installer 1.0.0 Released",
+        "body": "\n",
+        "href": "https://github.com/elementary/installer/releases/tag/1.0.0"
+      }
+    ],
+    "new_commits": 0
+  },
+  {
+    "name": "settings-daemon",
+    "releases": [
+      {
+        "version": "1.0.0",
+        "release_date": "2021-07-15T23:29:21",
+        "title": "settings-daemon 1.0.0 Released",
+        "body": "\n",
+        "href": "https://github.com/elementary/settings-daemon/releases/tag/1.0.0"
+      }
+    ],
+    "new_commits": 0
+  },
+  {
+    "name": "pantheon-agent-geoclue2",
+    "releases": [
+      {
+        "version": "1.0.5",
+        "release_date": "2021-07-15T23:27:11",
+        "title": "pantheon-agent-geoclue2 1.0.5 Released",
+        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/pantheon-agent-geoclue2/releases/tag/1.0.5"
+      },
+      {
+        "version": "1.0.4",
+        "release_date": "2020-04-15T00:35:38",
+        "title": "pantheon-agent-geoclue2 1.0.4 Released",
+        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/pantheon-agent-geoclue2/releases/tag/1.0.4"
+      },
+      {
+        "version": "1.0.3",
+        "release_date": "2019-11-15T21:56:27",
+        "title": "pantheon-agent-geoclue2 1.0.3 Released",
+        "body": "pantheon-agent-geoclue2 1.0.3 is out! \n\nChanges:\n\n* Updated translations\n",
+        "href": "https://github.com/elementary/pantheon-agent-geoclue2/releases/tag/1.0.3"
+      },
+      {
+        "version": "1.0.2",
+        "release_date": "2019-06-30T16:26:54",
+        "title": "Pantheon Geoclue2 Agent 1.0.2 Released",
+        "body": "Pantheon Geoclue2 Agent 1.0.2 is out!\r\n\r\nChanges:\r\n* Fix regression so daemon always listens for connections instead of timing out after 10 seconds\r\n* Updated translations",
+        "href": "https://github.com/elementary/pantheon-agent-geoclue2/releases/tag/1.0.2"
+      },
+      {
+        "version": "1.0.1",
+        "release_date": "2018-12-19T09:38:08",
+        "title": "Pantheon Geoclue2 Agent 1.0.1 Released",
+        "body": "Pantheon Geoclue2 Agent 1.0.1 is out!\r\n\r\nThis release includes translation updates.",
+        "href": "https://github.com/elementary/pantheon-agent-geoclue2/releases/tag/1.0.1"
+      },
+      {
+        "version": "1.0",
+        "release_date": "2018-05-24T19:30:28",
+        "title": "Pantheon Geoclue2 Agent 1.0 Released",
+        "body": "Pantheon Geoclue2 Agent 1.0 is out!\r\n\r\nThis is its initial release.",
+        "href": "https://github.com/elementary/pantheon-agent-geoclue2/releases/tag/1.0"
+      }
+    ],
+    "new_commits": 0
+  },
+  {
     "name": "initial-setup",
     "releases": [
       {
@@ -177,7 +340,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 4
+    "new_commits": 5
   },
   {
     "name": "wingpanel-indicator-keyboard",
@@ -239,7 +402,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-keyboard/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 3
+    "new_commits": 4
   },
   {
     "name": "switchboard-plug-pantheon-shell",
@@ -599,7 +762,7 @@
         "href": "https://github.com/elementary/icons/releases/tag/4.0.1.1"
       }
     ],
-    "new_commits": 0
+    "new_commits": 1
   },
   {
     "name": "stylesheet",
@@ -1255,7 +1418,7 @@
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
       }
     ],
-    "new_commits": 14
+    "new_commits": 15
   },
   {
     "name": "switchboard-plug-security-privacy",
@@ -1503,7 +1666,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 15
+    "new_commits": 16
   },
   {
     "name": "switchboard-plug-sound",
@@ -2083,7 +2246,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 15
+    "new_commits": 16
   },
   {
     "name": "wingpanel-indicator-power",
@@ -2145,7 +2308,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-power/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 17
+    "new_commits": 18
   },
   {
     "name": "wingpanel-indicator-nightlight",
@@ -2193,7 +2356,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-nightlight/releases/tag/2.0"
       }
     ],
-    "new_commits": 14
+    "new_commits": 15
   },
   {
     "name": "wingpanel-indicator-bluetooth",
@@ -2359,7 +2522,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.0.4"
       }
     ],
-    "new_commits": 16
+    "new_commits": 17
   },
   {
     "name": "greeter",
@@ -3312,7 +3475,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-session/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 19
+    "new_commits": 20
   },
   {
     "name": "capnet-assist",
@@ -4423,109 +4586,6 @@
     "new_commits": 66
   },
   {
-    "name": "pantheon-agent-geoclue2",
-    "releases": [
-      {
-        "version": "1.0.4",
-        "release_date": "2020-04-15T00:35:38",
-        "title": "pantheon-agent-geoclue2 1.0.4 Released",
-        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/pantheon-agent-geoclue2/releases/tag/1.0.4"
-      },
-      {
-        "version": "1.0.3",
-        "release_date": "2019-11-15T21:56:27",
-        "title": "pantheon-agent-geoclue2 1.0.3 Released",
-        "body": "pantheon-agent-geoclue2 1.0.3 is out! \n\nChanges:\n\n* Updated translations\n",
-        "href": "https://github.com/elementary/pantheon-agent-geoclue2/releases/tag/1.0.3"
-      },
-      {
-        "version": "1.0.2",
-        "release_date": "2019-06-30T16:26:54",
-        "title": "Pantheon Geoclue2 Agent 1.0.2 Released",
-        "body": "Pantheon Geoclue2 Agent 1.0.2 is out!\r\n\r\nChanges:\r\n* Fix regression so daemon always listens for connections instead of timing out after 10 seconds\r\n* Updated translations",
-        "href": "https://github.com/elementary/pantheon-agent-geoclue2/releases/tag/1.0.2"
-      },
-      {
-        "version": "1.0.1",
-        "release_date": "2018-12-19T09:38:08",
-        "title": "Pantheon Geoclue2 Agent 1.0.1 Released",
-        "body": "Pantheon Geoclue2 Agent 1.0.1 is out!\r\n\r\nThis release includes translation updates.",
-        "href": "https://github.com/elementary/pantheon-agent-geoclue2/releases/tag/1.0.1"
-      },
-      {
-        "version": "1.0",
-        "release_date": "2018-05-24T19:30:28",
-        "title": "Pantheon Geoclue2 Agent 1.0 Released",
-        "body": "Pantheon Geoclue2 Agent 1.0 is out!\r\n\r\nThis is its initial release.",
-        "href": "https://github.com/elementary/pantheon-agent-geoclue2/releases/tag/1.0"
-      }
-    ],
-    "new_commits": 39
-  },
-  {
-    "name": "wingpanel-indicator-notifications",
-    "releases": [
-      {
-        "version": "2.1.4",
-        "release_date": "2020-04-01T23:52:26",
-        "title": "wingpanel-indicator-notifications 2.1.4 Released",
-        "body": "wingpanel-indicator-notifications 2.1.4 is out! \n\n<p>Fix issues with disappearing notifications</p>\n<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.1.4"
-      },
-      {
-        "version": "2.1.3",
-        "release_date": "2019-11-25T16:55:34",
-        "title": "wingpanel-indicator-notifications 2.1.3 Released",
-        "body": "wingpanel-indicator-notifications 2.1.3 is out! \n\nChanges:\n\n* Fix a minor visual inconsistency\n* Updated translations\n",
-        "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.1.3"
-      },
-      {
-        "version": "2.1.2",
-        "release_date": "2018-10-29T16:38:36",
-        "title": "Wingpanel Notifications Indicator 2.1.2 Released",
-        "body": "wingpanel-indicator-notifications 2.1.2 is out!\r\n\r\nChanges:\r\n* Always update the state of the indicator to prevent phantom notifications\r\n* Updated translations",
-        "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.1.2"
-      },
-      {
-        "version": "2.1.1",
-        "release_date": "2018-10-03T10:34:58",
-        "title": "Wingpanel Notifications Indicator 2.1.1 Released",
-        "body": "wingpanel-indicator-notifications 2.1.1 is out!\r\n\r\nThis release includes updated translations.",
-        "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.1.1"
-      },
-      {
-        "version": "2.1.0",
-        "release_date": "2018-06-07T10:16:48",
-        "title": "Wingpanel Notifications Indicator 2.1.0 Released",
-        "body": "wingpanel-indicator-notifications 2.1.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/wingpanel-indicator-notifications/issues?q=is%3Aclosed+milestone%3A2.1.0).",
-        "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.1.0"
-      },
-      {
-        "version": "2.0.3",
-        "release_date": "2017-10-04T02:28:04",
-        "title": "Wingpanel Notifications Indicator 2.0.3 Released",
-        "body": "wingpanel-indicator-notifications 2.0.3 is out!\r\n\r\nThis release includes support for the new settings:// URL schema.",
-        "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.0.3"
-      },
-      {
-        "version": "2.0.2",
-        "release_date": "2017-08-01T02:41:02",
-        "title": "Wingpanel Notifications Indicator 2.0.2 Released",
-        "body": "wingpanel-indicator-notifications 2.0.2 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/wingpanel-indicator-notifications/milestone/2?closed=1).",
-        "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.0.2"
-      },
-      {
-        "version": "2.0.1",
-        "release_date": "2017-05-21T22:07:11",
-        "title": "Wingpanel Notifications Indicator 2.0.1 Released",
-        "body": "wingpanel-indicator-notifications 2.0.1 is out!",
-        "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.0.1"
-      }
-    ],
-    "new_commits": 156
-  },
-  {
     "name": "camera",
     "releases": [
       {
@@ -4695,19 +4755,6 @@
       }
     ],
     "new_commits": 15
-  },
-  {
-    "name": "feedback",
-    "releases": [
-      {
-        "version": "1.0",
-        "release_date": "2019-07-09T21:03:40",
-        "title": "Feedback 1.0 Released",
-        "body": "Feedback 1.0 is out!\r\n\r\nThis is the initial release.",
-        "href": "https://github.com/elementary/feedback/releases/tag/1.0"
-      }
-    ],
-    "new_commits": 436
   },
   {
     "name": "website",
