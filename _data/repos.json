@@ -86,7 +86,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.0.1"
       }
     ],
-    "new_commits": 4
+    "new_commits": 6
   },
   {
     "name": "installer",
@@ -402,7 +402,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-keyboard/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 4
+    "new_commits": 6
   },
   {
     "name": "switchboard-plug-pantheon-shell",
@@ -1666,7 +1666,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 16
+    "new_commits": 17
   },
   {
     "name": "switchboard-plug-sound",
@@ -2356,7 +2356,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-nightlight/releases/tag/2.0"
       }
     ],
-    "new_commits": 15
+    "new_commits": 17
   },
   {
     "name": "wingpanel-indicator-bluetooth",
@@ -4152,7 +4152,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 277
+    "new_commits": 286
   },
   {
     "name": "houston",
