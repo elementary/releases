@@ -1,5 +1,39 @@
 [
   {
+    "name": "mail",
+    "releases": [
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-16T19:25:32",
+        "title": "mail 6.0.0 Released",
+        "body": "<p>Complete rewrite from scratch</p>\n",
+        "href": "https://github.com/elementary/mail/releases/tag/6.0.0"
+      },
+      {
+        "version": "1.0.8",
+        "release_date": "2018-10-15T22:57:24",
+        "title": "Mail 1.0.8 Released",
+        "body": "pantheon-mail 1.0.8 is out!\r\n\r\nChanges:\r\n* Don't automatically load messages on the first run\r\n* Support libsignon-glib instead of libgsignon-glib\r\n* Build fixes\r\n* Updated translations",
+        "href": "https://github.com/elementary/mail/releases/tag/1.0.8"
+      },
+      {
+        "version": "1.0.7",
+        "release_date": "2018-06-05T08:50:36",
+        "title": "Mail 1.0.7 Released",
+        "body": "pantheon-mail 1.0.7 is out!\r\n\r\nThis release contains minor fixes for deprecations and missing translations.",
+        "href": "https://github.com/elementary/mail/releases/tag/1.0.7"
+      },
+      {
+        "version": "1.0.6",
+        "release_date": "2017-08-24T06:23:03",
+        "title": "Mail 1.0.6 Released",
+        "body": "pantheon-mail 1.0.6 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/mail/milestone/2?closed=1).",
+        "href": "https://github.com/elementary/mail/releases/tag/1.0.6"
+      }
+    ],
+    "new_commits": 6
+  },
+  {
     "name": "music",
     "releases": [
       {
@@ -80,7 +114,7 @@
         "href": "https://github.com/elementary/music/releases/tag/0.4.0.3"
       }
     ],
-    "new_commits": 1
+    "new_commits": 3
   },
   {
     "name": "appcenter",
@@ -411,7 +445,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.0.1"
       }
     ],
-    "new_commits": 6
+    "new_commits": 7
   },
   {
     "name": "installer",
@@ -727,7 +761,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-keyboard/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 6
+    "new_commits": 7
   },
   {
     "name": "switchboard-plug-pantheon-shell",
@@ -1743,7 +1777,7 @@
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
       }
     ],
-    "new_commits": 15
+    "new_commits": 16
   },
   {
     "name": "switchboard-plug-security-privacy",
@@ -4871,33 +4905,6 @@
       }
     ],
     "new_commits": 0
-  },
-  {
-    "name": "mail",
-    "releases": [
-      {
-        "version": "1.0.8",
-        "release_date": "2018-10-15T22:57:24",
-        "title": "Mail 1.0.8 Released",
-        "body": "pantheon-mail 1.0.8 is out!\r\n\r\nChanges:\r\n* Don't automatically load messages on the first run\r\n* Support libsignon-glib instead of libgsignon-glib\r\n* Build fixes\r\n* Updated translations",
-        "href": "https://github.com/elementary/mail/releases/tag/1.0.8"
-      },
-      {
-        "version": "1.0.7",
-        "release_date": "2018-06-05T08:50:36",
-        "title": "Mail 1.0.7 Released",
-        "body": "pantheon-mail 1.0.7 is out!\r\n\r\nThis release contains minor fixes for deprecations and missing translations.",
-        "href": "https://github.com/elementary/mail/releases/tag/1.0.7"
-      },
-      {
-        "version": "1.0.6",
-        "release_date": "2017-08-24T06:23:03",
-        "title": "Mail 1.0.6 Released",
-        "body": "pantheon-mail 1.0.6 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/mail/milestone/2?closed=1).",
-        "href": "https://github.com/elementary/mail/releases/tag/1.0.6"
-      }
-    ],
-    "new_commits": 475
   },
   {
     "name": "press-kit",
