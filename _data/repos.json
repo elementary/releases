@@ -114,7 +114,7 @@
         "href": "https://github.com/elementary/music/releases/tag/0.4.0.3"
       }
     ],
-    "new_commits": 7
+    "new_commits": 8
   },
   {
     "name": "appcenter",
@@ -4740,7 +4740,7 @@
         "href": "https://github.com/elementary/camera/releases/tag/1.0"
       }
     ],
-    "new_commits": 207
+    "new_commits": 208
   },
   {
     "name": "screenshot",
