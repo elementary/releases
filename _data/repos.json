@@ -31,7 +31,7 @@
         "href": "https://github.com/elementary/mail/releases/tag/1.0.6"
       }
     ],
-    "new_commits": 7
+    "new_commits": 8
   },
   {
     "name": "music",
@@ -114,7 +114,7 @@
         "href": "https://github.com/elementary/music/releases/tag/0.4.0.3"
       }
     ],
-    "new_commits": 5
+    "new_commits": 7
   },
   {
     "name": "appcenter",
@@ -302,7 +302,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 1
+    "new_commits": 2
   },
   {
     "name": "wingpanel-indicator-a11y",
@@ -3986,7 +3986,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 0
+    "new_commits": 2
   },
   {
     "name": "contractor",
