@@ -376,7 +376,7 @@
         "href": "https://github.com/elementary/feedback/releases/tag/1.0"
       }
     ],
-    "new_commits": 7
+    "new_commits": 8
   },
   {
     "name": "wingpanel-indicator-notifications",
@@ -1673,7 +1673,7 @@
         "href": "https://github.com/elementary/sideload/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 12
+    "new_commits": 13
   },
   {
     "name": "applications-menu",
