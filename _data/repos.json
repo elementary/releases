@@ -376,7 +376,7 @@
         "href": "https://github.com/elementary/feedback/releases/tag/1.0"
       }
     ],
-    "new_commits": 10
+    "new_commits": 11
   },
   {
     "name": "wingpanel-indicator-notifications",
@@ -3081,7 +3081,7 @@
         "href": "https://github.com/elementary/videos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 14
+    "new_commits": 15
   },
   {
     "name": "pantheon-agent-polkit",
