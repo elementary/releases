@@ -44,7 +44,7 @@
         "href": "https://github.com/elementary/mail/releases/tag/1.0.6"
       }
     ],
-    "new_commits": 18
+    "new_commits": 19
   },
   {
     "name": "music",
@@ -1604,7 +1604,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 24
+    "new_commits": 25
   },
   {
     "name": "default-settings",
@@ -3999,7 +3999,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 10
+    "new_commits": 11
   },
   {
     "name": "contractor",
@@ -4897,7 +4897,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 2812
+    "new_commits": 2819
   },
   {
     "name": "fonts",
