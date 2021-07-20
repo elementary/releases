@@ -1,5 +1,18 @@
 [
   {
+    "name": "flatpak-platform",
+    "releases": [
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-20T20:53:11",
+        "title": "Flatpak Platform 6.0.0 Released",
+        "body": "The first stable version of the elementary Flatpak platform has been released!",
+        "href": "https://github.com/elementary/flatpak-platform/releases/tag/6.0.0"
+      }
+    ],
+    "new_commits": 0
+  },
+  {
     "name": "notifications",
     "releases": [
       {
@@ -315,7 +328,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 16
+    "new_commits": 17
   },
   {
     "name": "wingpanel-indicator-a11y",
