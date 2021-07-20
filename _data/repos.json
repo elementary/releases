@@ -458,7 +458,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.0.1"
       }
     ],
-    "new_commits": 10
+    "new_commits": 11
   },
   {
     "name": "installer",
@@ -774,7 +774,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-keyboard/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 10
+    "new_commits": 11
   },
   {
     "name": "switchboard-plug-pantheon-shell",
@@ -1790,7 +1790,7 @@
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
       }
     ],
-    "new_commits": 18
+    "new_commits": 19
   },
   {
     "name": "switchboard-plug-security-privacy",
@@ -2038,7 +2038,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 19
+    "new_commits": 20
   },
   {
     "name": "switchboard-plug-sound",
@@ -2680,7 +2680,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-power/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 21
+    "new_commits": 22
   },
   {
     "name": "wingpanel-indicator-nightlight",
@@ -2894,7 +2894,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.0.4"
       }
     ],
-    "new_commits": 20
+    "new_commits": 21
   },
   {
     "name": "greeter",
@@ -3771,7 +3771,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-session/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 21
+    "new_commits": 22
   },
   {
     "name": "capnet-assist",
