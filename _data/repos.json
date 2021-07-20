@@ -471,7 +471,7 @@
         "href": "https://github.com/elementary/installer/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 7
+    "new_commits": 8
   },
   {
     "name": "settings-daemon",
@@ -566,7 +566,7 @@
         "href": "https://github.com/elementary/initial-setup/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 12
+    "new_commits": 13
   },
   {
     "name": "files",
@@ -1501,7 +1501,7 @@
         "href": "https://github.com/elementary/terminal/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 16
+    "new_commits": 18
   },
   {
     "name": "switchboard-plug-onlineaccounts",
