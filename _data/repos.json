@@ -10,7 +10,7 @@
         "href": "https://github.com/elementary/notifications/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 7
+    "new_commits": 8
   },
   {
     "name": "mail",
@@ -315,7 +315,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 14
+    "new_commits": 16
   },
   {
     "name": "wingpanel-indicator-a11y",
@@ -3391,7 +3391,7 @@
         "href": "https://github.com/elementary/photos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 12
+    "new_commits": 13
   },
   {
     "name": "switchboard",
@@ -3999,7 +3999,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 11
+    "new_commits": 12
   },
   {
     "name": "contractor",
@@ -4897,7 +4897,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 2819
+    "new_commits": 2828
   },
   {
     "name": "fonts",
