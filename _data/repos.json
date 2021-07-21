@@ -1,5 +1,18 @@
 [
   {
+    "name": "tasks",
+    "releases": [
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-21T18:16:59",
+        "title": "tasks 6.0.0 Released",
+        "body": "<p>First release!</p>\n<ul>\n<li>Support the dark style</li>\n<li>Add and remove task lists with custom colors</li>\n<li>See scheduled tasks from all lists at once</li>\n<li>Set due dates</li>\n</ul>\n",
+        "href": "https://github.com/elementary/tasks/releases/tag/6.0.0"
+      }
+    ],
+    "new_commits": 1
+  },
+  {
     "name": "calendar",
     "releases": [
       {
@@ -598,7 +611,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 19
+    "new_commits": 20
   },
   {
     "name": "wingpanel-indicator-a11y",
@@ -754,7 +767,7 @@
         "href": "https://github.com/elementary/installer/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 9
+    "new_commits": 10
   },
   {
     "name": "settings-daemon",
@@ -849,7 +862,7 @@
         "href": "https://github.com/elementary/initial-setup/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 15
+    "new_commits": 16
   },
   {
     "name": "files",
@@ -3294,7 +3307,7 @@
         "href": "https://github.com/elementary/onboarding/releases/tag/1.0"
       }
     ],
-    "new_commits": 27
+    "new_commits": 28
   },
   {
     "name": "videos",
@@ -4856,7 +4869,7 @@
         "href": "https://github.com/elementary/camera/releases/tag/1.0"
       }
     ],
-    "new_commits": 213
+    "new_commits": 214
   },
   {
     "name": "actions",
