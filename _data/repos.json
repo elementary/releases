@@ -340,7 +340,7 @@
         "href": "https://github.com/elementary/mail/releases/tag/1.0.6"
       }
     ],
-    "new_commits": 22
+    "new_commits": 24
   },
   {
     "name": "music",
@@ -2189,7 +2189,7 @@
         "href": "https://github.com/elementary/switchboard-plug-parental-controls/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 22
+    "new_commits": 23
   },
   {
     "name": "switchboard-plug-display",
@@ -4944,7 +4944,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 2869
+    "new_commits": 2876
   },
   {
     "name": "fonts",
