@@ -598,7 +598,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 17
+    "new_commits": 19
   },
   {
     "name": "wingpanel-indicator-a11y",
@@ -4931,7 +4931,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 2828
+    "new_commits": 2847
   },
   {
     "name": "fonts",
