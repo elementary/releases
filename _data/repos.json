@@ -1887,7 +1887,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 25
+    "new_commits": 31
   },
   {
     "name": "default-settings",
@@ -4931,7 +4931,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 2847
+    "new_commits": 2860
   },
   {
     "name": "fonts",
