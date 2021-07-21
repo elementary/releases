@@ -335,7 +335,7 @@
         "href": "https://github.com/elementary/screenshot/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 9
+    "new_commits": 11
   },
   {
     "name": "calculator",
@@ -918,7 +918,7 @@
         "href": "https://github.com/elementary/settings-daemon/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 10
+    "new_commits": 11
   },
   {
     "name": "pantheon-agent-geoclue2",
