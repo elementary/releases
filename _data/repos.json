@@ -1291,7 +1291,7 @@
         "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
       }
     ],
-    "new_commits": 15
+    "new_commits": 16
   },
   {
     "name": "switchboard-plug-about",
@@ -2038,7 +2038,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 39
+    "new_commits": 41
   },
   {
     "name": "default-settings",
@@ -2748,7 +2748,7 @@
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 23
+    "new_commits": 24
   },
   {
     "name": "switchboard-plug-power",
@@ -3742,7 +3742,7 @@
         "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 7
+    "new_commits": 8
   },
   {
     "name": "photos",
@@ -4958,7 +4958,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 2876
+    "new_commits": 2883
   },
   {
     "name": "fonts",
