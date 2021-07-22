@@ -905,7 +905,7 @@
         "href": "https://github.com/elementary/installer/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 10
+    "new_commits": 11
   },
   {
     "name": "settings-daemon",
@@ -1000,7 +1000,7 @@
         "href": "https://github.com/elementary/initial-setup/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 16
+    "new_commits": 17
   },
   {
     "name": "files",
@@ -3445,7 +3445,7 @@
         "href": "https://github.com/elementary/onboarding/releases/tag/1.0"
       }
     ],
-    "new_commits": 28
+    "new_commits": 29
   },
   {
     "name": "videos",
