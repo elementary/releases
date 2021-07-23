@@ -1146,7 +1146,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 37
+    "new_commits": 38
   },
   {
     "name": "wingpanel-indicator-keyboard",
@@ -4958,7 +4958,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 2899
+    "new_commits": 2916
   },
   {
     "name": "fonts",
