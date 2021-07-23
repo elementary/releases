@@ -444,7 +444,7 @@
         "href": "https://github.com/elementary/notifications/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 14
+    "new_commits": 15
   },
   {
     "name": "mail",
@@ -1935,7 +1935,7 @@
         "href": "https://github.com/elementary/terminal/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 22
+    "new_commits": 24
   },
   {
     "name": "switchboard-plug-onlineaccounts",
@@ -2120,7 +2120,7 @@
         "href": "https://github.com/elementary/sideload/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 23
+    "new_commits": 24
   },
   {
     "name": "applications-menu",
@@ -3114,7 +3114,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-power/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 24
+    "new_commits": 25
   },
   {
     "name": "wingpanel-indicator-nightlight",
@@ -3328,7 +3328,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.0.4"
       }
     ],
-    "new_commits": 22
+    "new_commits": 23
   },
   {
     "name": "greeter",
@@ -3956,7 +3956,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 22
+    "new_commits": 23
   },
   {
     "name": "wingpanel",
@@ -4205,7 +4205,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-session/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 24
+    "new_commits": 25
   },
   {
     "name": "capnet-assist",
@@ -4433,7 +4433,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 15
+    "new_commits": 16
   },
   {
     "name": "contractor",
@@ -4958,7 +4958,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 2898
+    "new_commits": 2899
   },
   {
     "name": "fonts",
