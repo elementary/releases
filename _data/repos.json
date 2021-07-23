@@ -749,7 +749,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 38
+    "new_commits": 41
   },
   {
     "name": "wingpanel-indicator-a11y",
@@ -2224,7 +2224,7 @@
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
       }
     ],
-    "new_commits": 20
+    "new_commits": 21
   },
   {
     "name": "switchboard-plug-security-privacy",
