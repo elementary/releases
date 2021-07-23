@@ -749,7 +749,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 43
+    "new_commits": 45
   },
   {
     "name": "wingpanel-indicator-a11y",
@@ -1146,7 +1146,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 35
+    "new_commits": 37
   },
   {
     "name": "wingpanel-indicator-keyboard",
@@ -1935,7 +1935,7 @@
         "href": "https://github.com/elementary/terminal/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 24
+    "new_commits": 25
   },
   {
     "name": "switchboard-plug-onlineaccounts",
