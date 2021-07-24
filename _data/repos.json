@@ -259,7 +259,7 @@
         "href": "https://github.com/elementary/calendar/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 15
+    "new_commits": 17
   },
   {
     "name": "screenshot",
@@ -561,7 +561,7 @@
         "href": "https://github.com/elementary/music/releases/tag/0.4.0.3"
       }
     ],
-    "new_commits": 45
+    "new_commits": 46
   },
   {
     "name": "appcenter",
@@ -892,7 +892,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.0.1"
       }
     ],
-    "new_commits": 15
+    "new_commits": 16
   },
   {
     "name": "installer",
@@ -1208,7 +1208,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-keyboard/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 14
+    "new_commits": 16
   },
   {
     "name": "switchboard-plug-pantheon-shell",
@@ -2224,7 +2224,7 @@
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
       }
     ],
-    "new_commits": 21
+    "new_commits": 22
   },
   {
     "name": "switchboard-plug-security-privacy",
@@ -2472,7 +2472,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 23
+    "new_commits": 25
   },
   {
     "name": "switchboard-plug-sound",
@@ -3114,7 +3114,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-power/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 25
+    "new_commits": 26
   },
   {
     "name": "wingpanel-indicator-nightlight",
@@ -3162,7 +3162,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-nightlight/releases/tag/2.0"
       }
     ],
-    "new_commits": 22
+    "new_commits": 23
   },
   {
     "name": "wingpanel-indicator-bluetooth",
@@ -3238,7 +3238,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 18
+    "new_commits": 19
   },
   {
     "name": "wingpanel-indicator-sound",
@@ -4067,7 +4067,7 @@
         "href": "https://github.com/elementary/wingpanel/releases/tag/2.0.3"
       }
     ],
-    "new_commits": 5
+    "new_commits": 6
   },
   {
     "name": "switchboard-plug-sharing",
@@ -4205,7 +4205,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-session/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 25
+    "new_commits": 26
   },
   {
     "name": "capnet-assist",
