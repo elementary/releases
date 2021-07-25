@@ -1803,7 +1803,7 @@
         "href": "https://github.com/elementary/switchboard-plug-applications/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 18
+    "new_commits": 19
   },
   {
     "name": "terminal",
@@ -2562,7 +2562,7 @@
         "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/0.1"
       }
     ],
-    "new_commits": 15
+    "new_commits": 16
   },
   {
     "name": "switchboard-plug-useraccounts",
@@ -2817,7 +2817,7 @@
         "href": "https://github.com/elementary/switchboard-plug-power/releases/tag/0.3.1"
       }
     ],
-    "new_commits": 22
+    "new_commits": 23
   },
   {
     "name": "switchboard-plug-network",
@@ -2962,7 +2962,7 @@
         "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 4
+    "new_commits": 5
   },
   {
     "name": "wingpanel-indicator-datetime",
@@ -3915,7 +3915,7 @@
         "href": "https://github.com/elementary/switchboard/releases/tag/2.3.0"
       }
     ],
-    "new_commits": 26
+    "new_commits": 27
   },
   {
     "name": "gala",
