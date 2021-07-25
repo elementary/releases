@@ -1935,7 +1935,7 @@
         "href": "https://github.com/elementary/terminal/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 25
+    "new_commits": 26
   },
   {
     "name": "switchboard-plug-onlineaccounts",
@@ -4958,7 +4958,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 2916
+    "new_commits": 2917
   },
   {
     "name": "fonts",
