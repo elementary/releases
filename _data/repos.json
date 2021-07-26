@@ -1,5 +1,18 @@
 [
   {
+    "name": "action-appcenter-review-parse",
+    "releases": [
+      {
+        "version": "v1.0.1",
+        "release_date": "2021-07-26T00:47:17",
+        "title": "v1.0.1",
+        "body": "## [1.0.1](https://github.com/elementary/action-appcenter-review-parse/compare/v1.0.0...v1.0.1) (2021-07-26)\n\n\n### Bug Fixes\n\n* **ci:** add dist folder to git release ([a757f42](https://github.com/elementary/action-appcenter-review-parse/commit/a757f42c7116aa98f168b6ee383de6cda66018f7))\n\n\n\n",
+        "href": "https://github.com/elementary/action-appcenter-review-parse/releases/tag/v1.0.1"
+      }
+    ],
+    "new_commits": 0
+  },
+  {
     "name": "switchboard-plug-printers",
     "releases": [
       {
@@ -148,7 +161,7 @@
         "href": "https://github.com/elementary/tasks/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 33
+    "new_commits": 36
   },
   {
     "name": "calendar",
