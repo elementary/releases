@@ -272,7 +272,7 @@
         "href": "https://github.com/elementary/calendar/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 18
+    "new_commits": 20
   },
   {
     "name": "screenshot",
@@ -2575,7 +2575,7 @@
         "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/0.1"
       }
     ],
-    "new_commits": 16
+    "new_commits": 17
   },
   {
     "name": "switchboard-plug-useraccounts",
@@ -4971,7 +4971,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 2925
+    "new_commits": 2927
   },
   {
     "name": "fonts",
