@@ -1,5 +1,18 @@
 [
   {
+    "name": "plymouth-theme",
+    "releases": [
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-27T18:03:40",
+        "title": "Plymouth Theme 6.0.0 Released",
+        "body": "* Use ACPI BGRT graphics when available\r\n* Better support LUKS encryption passwords",
+        "href": "https://github.com/elementary/plymouth-theme/releases/tag/6.0.0"
+      }
+    ],
+    "new_commits": 0
+  },
+  {
     "name": "action-appcenter-review-parse",
     "releases": [
       {
@@ -574,7 +587,7 @@
         "href": "https://github.com/elementary/music/releases/tag/0.4.0.3"
       }
     ],
-    "new_commits": 48
+    "new_commits": 49
   },
   {
     "name": "appcenter",
@@ -3838,7 +3851,7 @@
         "href": "https://github.com/elementary/photos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 35
+    "new_commits": 39
   },
   {
     "name": "switchboard",
