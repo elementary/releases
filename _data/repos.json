@@ -762,7 +762,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 52
+    "new_commits": 57
   },
   {
     "name": "wingpanel-indicator-a11y",
@@ -2051,7 +2051,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 66
+    "new_commits": 67
   },
   {
     "name": "default-settings",
@@ -4446,7 +4446,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 19
+    "new_commits": 20
   },
   {
     "name": "contractor",
