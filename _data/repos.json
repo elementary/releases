@@ -788,7 +788,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 64
+    "new_commits": 65
   },
   {
     "name": "wingpanel-indicator-a11y",
@@ -944,7 +944,7 @@
         "href": "https://github.com/elementary/installer/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 22
+    "new_commits": 27
   },
   {
     "name": "settings-daemon",
@@ -1039,7 +1039,7 @@
         "href": "https://github.com/elementary/initial-setup/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 20
+    "new_commits": 21
   },
   {
     "name": "files",
@@ -3484,7 +3484,7 @@
         "href": "https://github.com/elementary/onboarding/releases/tag/1.0"
       }
     ],
-    "new_commits": 35
+    "new_commits": 36
   },
   {
     "name": "videos",
