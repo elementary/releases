@@ -1,5 +1,46 @@
 [
   {
+    "name": "mail",
+    "releases": [
+      {
+        "version": "6.1.0",
+        "release_date": "2021-07-28T18:26:21",
+        "title": "mail 6.1.0 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Preserve conversation subjects when replying or forwarding</li>\n<li>Disable the composer while messages are being sent</li>\n<li>Edit saved draft messages</li>\n<li>Make sure we don't save sent messages twice for some account types</li>\n<li>Stability improvements</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/mail/releases/tag/6.1.0"
+      },
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-16T19:25:32",
+        "title": "mail 6.0.0 Released",
+        "body": "<p>Complete rewrite from scratch</p>\n",
+        "href": "https://github.com/elementary/mail/releases/tag/6.0.0"
+      },
+      {
+        "version": "1.0.8",
+        "release_date": "2018-10-15T22:57:24",
+        "title": "Mail 1.0.8 Released",
+        "body": "pantheon-mail 1.0.8 is out!\r\n\r\nChanges:\r\n* Don't automatically load messages on the first run\r\n* Support libsignon-glib instead of libgsignon-glib\r\n* Build fixes\r\n* Updated translations",
+        "href": "https://github.com/elementary/mail/releases/tag/1.0.8"
+      },
+      {
+        "version": "1.0.7",
+        "release_date": "2018-06-05T08:50:36",
+        "title": "Mail 1.0.7 Released",
+        "body": "pantheon-mail 1.0.7 is out!\r\n\r\nThis release contains minor fixes for deprecations and missing translations.",
+        "href": "https://github.com/elementary/mail/releases/tag/1.0.7"
+      },
+      {
+        "version": "1.0.6",
+        "release_date": "2017-08-24T06:23:03",
+        "title": "Mail 1.0.6 Released",
+        "body": "pantheon-mail 1.0.6 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/mail/milestone/2?closed=1).",
+        "href": "https://github.com/elementary/mail/releases/tag/1.0.6"
+      }
+    ],
+    "new_commits": 4
+  },
+  {
     "name": "feedback",
     "releases": [
       {
@@ -513,40 +554,6 @@
     "new_commits": 15
   },
   {
-    "name": "mail",
-    "releases": [
-      {
-        "version": "6.0.0",
-        "release_date": "2021-07-16T19:25:32",
-        "title": "mail 6.0.0 Released",
-        "body": "<p>Complete rewrite from scratch</p>\n",
-        "href": "https://github.com/elementary/mail/releases/tag/6.0.0"
-      },
-      {
-        "version": "1.0.8",
-        "release_date": "2018-10-15T22:57:24",
-        "title": "Mail 1.0.8 Released",
-        "body": "pantheon-mail 1.0.8 is out!\r\n\r\nChanges:\r\n* Don't automatically load messages on the first run\r\n* Support libsignon-glib instead of libgsignon-glib\r\n* Build fixes\r\n* Updated translations",
-        "href": "https://github.com/elementary/mail/releases/tag/1.0.8"
-      },
-      {
-        "version": "1.0.7",
-        "release_date": "2018-06-05T08:50:36",
-        "title": "Mail 1.0.7 Released",
-        "body": "pantheon-mail 1.0.7 is out!\r\n\r\nThis release contains minor fixes for deprecations and missing translations.",
-        "href": "https://github.com/elementary/mail/releases/tag/1.0.7"
-      },
-      {
-        "version": "1.0.6",
-        "release_date": "2017-08-24T06:23:03",
-        "title": "Mail 1.0.6 Released",
-        "body": "pantheon-mail 1.0.6 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/mail/milestone/2?closed=1).",
-        "href": "https://github.com/elementary/mail/releases/tag/1.0.6"
-      }
-    ],
-    "new_commits": 77
-  },
-  {
     "name": "music",
     "releases": [
       {
@@ -815,7 +822,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 68
+    "new_commits": 69
   },
   {
     "name": "wingpanel-indicator-a11y",
@@ -5051,19 +5058,6 @@
       }
     ],
     "new_commits": 1
-  },
-  {
-    "name": "dpms-helper",
-    "releases": [
-      {
-        "version": "1.0",
-        "release_date": "2018-05-18T12:42:02",
-        "title": "dpms-helper 1.0 Released",
-        "body": "dpms-helper 1.0 is out!\r\n\r\n`io.elementary.dpms-helper` sets DPMS settings found in `io.elementary.dpms`.\r\n\r\nThis program is designed to be called by elementary OS directly when GNOME Settings Daemon is not managing the related settings. It is probably not useful for users.",
-        "href": "https://github.com/elementary/dpms-helper/releases/tag/1.0"
-      }
-    ],
-    "new_commits": 0
   },
   {
     "name": "keyring",
