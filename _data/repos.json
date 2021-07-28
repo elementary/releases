@@ -944,7 +944,7 @@
         "href": "https://github.com/elementary/installer/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 16
+    "new_commits": 18
   },
   {
     "name": "settings-daemon",
@@ -1185,7 +1185,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 49
+    "new_commits": 52
   },
   {
     "name": "wingpanel-indicator-keyboard",
