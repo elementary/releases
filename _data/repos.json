@@ -38,7 +38,7 @@
         "href": "https://github.com/elementary/mail/releases/tag/1.0.6"
       }
     ],
-    "new_commits": 12
+    "new_commits": 16
   },
   {
     "name": "feedback",
@@ -65,7 +65,7 @@
         "href": "https://github.com/elementary/feedback/releases/tag/1.0"
       }
     ],
-    "new_commits": 9
+    "new_commits": 12
   },
   {
     "name": "switchboard-plug-wacom",
@@ -366,7 +366,7 @@
         "href": "https://github.com/elementary/calendar/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 23
+    "new_commits": 24
   },
   {
     "name": "screenshot",
@@ -822,7 +822,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 73
+    "new_commits": 74
   },
   {
     "name": "wingpanel-indicator-a11y",
