@@ -945,7 +945,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.0.1"
       }
     ],
-    "new_commits": 16
+    "new_commits": 17
   },
   {
     "name": "installer",
@@ -1261,7 +1261,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-keyboard/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 16
+    "new_commits": 17
   },
   {
     "name": "switchboard-plug-pantheon-shell",
@@ -1988,7 +1988,7 @@
         "href": "https://github.com/elementary/terminal/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 29
+    "new_commits": 39
   },
   {
     "name": "switchboard-plug-onlineaccounts",
@@ -2525,7 +2525,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 26
+    "new_commits": 27
   },
   {
     "name": "switchboard-plug-sound",
@@ -3167,7 +3167,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-power/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 39
+    "new_commits": 40
   },
   {
     "name": "wingpanel-indicator-nightlight",
@@ -3215,7 +3215,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-nightlight/releases/tag/2.0"
       }
     ],
-    "new_commits": 23
+    "new_commits": 24
   },
   {
     "name": "wingpanel-indicator-bluetooth",
