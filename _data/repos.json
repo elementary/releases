@@ -3174,7 +3174,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-power/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 40
+    "new_commits": 41
   },
   {
     "name": "wingpanel-indicator-nightlight",
@@ -3588,7 +3588,7 @@
         "href": "https://github.com/elementary/videos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 41
+    "new_commits": 42
   },
   {
     "name": "pantheon-agent-polkit",
