@@ -17,7 +17,7 @@
         "href": "https://github.com/elementary/installer/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 2
+    "new_commits": 3
   },
   {
     "name": "mail",
@@ -1060,7 +1060,7 @@
         "href": "https://github.com/elementary/initial-setup/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 22
+    "new_commits": 23
   },
   {
     "name": "files",
