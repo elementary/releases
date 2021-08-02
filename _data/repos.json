@@ -1,5 +1,39 @@
 [
   {
+    "name": "switchboard-plug-onlineaccounts",
+    "releases": [
+      {
+        "version": "6.1.0",
+        "release_date": "2021-07-30T20:57:04",
+        "title": "switchboard-plug-onlineaccounts 6.1.0 Released",
+        "body": "- Verify login credentials when saving IMAP accounts\r\n- Set up Archive, Drafts, Sent, and Templates folders for IMAP\r\n- Close \"Add Account\" popover when an item is selected\r\n- Updated translations",
+        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/6.1.0"
+      },
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-15T21:21:15",
+        "title": "switchboard-plug-onlineaccounts 6.0.0 Released",
+        "body": "Complete redesign based on Evolution Data Server",
+        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/6.0.0"
+      },
+      {
+        "version": "2.0.1",
+        "release_date": "2018-10-24T14:43:36",
+        "title": "Switchboard Online Accounts Plug 2.0.1 Released",
+        "body": "switchboard-plug-onlineaccounts 2.0.1 is out!\r\n\r\nChanges:\r\n* Use Granite.Toast widget\r\n* New translations",
+        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/2.0.1"
+      },
+      {
+        "version": "2.0",
+        "release_date": "2018-10-15T22:35:57",
+        "title": "Switchboard Online Accounts Plug 2.0 Released",
+        "body": "switchboard-plug-onlineaccounts 2.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-onlineaccounts/issues?q=is%3Aclosed+milestone%3A2.0).",
+        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/2.0"
+      }
+    ],
+    "new_commits": 0
+  },
+  {
     "name": "installer",
     "releases": [
       {
@@ -85,7 +119,7 @@
         "href": "https://github.com/elementary/feedback/releases/tag/1.0"
       }
     ],
-    "new_commits": 15
+    "new_commits": 16
   },
   {
     "name": "switchboard-plug-wacom",
@@ -1998,33 +2032,6 @@
     "new_commits": 42
   },
   {
-    "name": "switchboard-plug-onlineaccounts",
-    "releases": [
-      {
-        "version": "6.0.0",
-        "release_date": "2021-07-15T21:21:15",
-        "title": "switchboard-plug-onlineaccounts 6.0.0 Released",
-        "body": "Complete redesign based on Evolution Data Server",
-        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/6.0.0"
-      },
-      {
-        "version": "2.0.1",
-        "release_date": "2018-10-24T14:43:36",
-        "title": "Switchboard Online Accounts Plug 2.0.1 Released",
-        "body": "switchboard-plug-onlineaccounts 2.0.1 is out!\r\n\r\nChanges:\r\n* Use Granite.Toast widget\r\n* New translations",
-        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/2.0.1"
-      },
-      {
-        "version": "2.0",
-        "release_date": "2018-10-15T22:35:57",
-        "title": "Switchboard Online Accounts Plug 2.0 Released",
-        "body": "switchboard-plug-onlineaccounts 2.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-onlineaccounts/issues?q=is%3Aclosed+milestone%3A2.0).",
-        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/2.0"
-      }
-    ],
-    "new_commits": 0
-  },
-  {
     "name": "code",
     "releases": [
       {
@@ -2098,7 +2105,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 77
+    "new_commits": 79
   },
   {
     "name": "default-settings",
@@ -2139,7 +2146,7 @@
         "href": "https://github.com/elementary/default-settings/releases/tag/5.0"
       }
     ],
-    "new_commits": 0
+    "new_commits": 1
   },
   {
     "name": "sideload",
@@ -4943,7 +4950,7 @@
         "href": "https://github.com/elementary/os/releases/tag/5.1.1"
       }
     ],
-    "new_commits": 34
+    "new_commits": 35
   },
   {
     "name": "actions",
@@ -5018,7 +5025,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 2935
+    "new_commits": 2938
   },
   {
     "name": "fonts",
