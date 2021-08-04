@@ -66,7 +66,7 @@
         "href": "https://github.com/elementary/os/releases/tag/5.1.1"
       }
     ],
-    "new_commits": 1
+    "new_commits": 2
   },
   {
     "name": "files",
@@ -5080,7 +5080,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 2944
+    "new_commits": 2945
   },
   {
     "name": "fonts",
