@@ -427,7 +427,7 @@
         "href": "https://github.com/elementary/os/releases/tag/5.1.1"
       }
     ],
-    "new_commits": 2
+    "new_commits": 3
   },
   {
     "name": "switchboard-plug-onlineaccounts",
@@ -2374,7 +2374,7 @@
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
       }
     ],
-    "new_commits": 24
+    "new_commits": 25
   },
   {
     "name": "switchboard-plug-security-privacy",
@@ -3264,7 +3264,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-power/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 50
+    "new_commits": 51
   },
   {
     "name": "wingpanel-indicator-nightlight",
@@ -3478,7 +3478,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.0.4"
       }
     ],
-    "new_commits": 27
+    "new_commits": 28
   },
   {
     "name": "greeter",
