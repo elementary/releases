@@ -495,7 +495,7 @@
         "href": "https://github.com/elementary/installer/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 8
+    "new_commits": 9
   },
   {
     "name": "mail",
@@ -3609,7 +3609,7 @@
         "href": "https://github.com/elementary/onboarding/releases/tag/1.0"
       }
     ],
-    "new_commits": 42
+    "new_commits": 43
   },
   {
     "name": "videos",
