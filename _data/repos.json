@@ -421,7 +421,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 18
+    "new_commits": 20
   },
   {
     "name": "tasks",
@@ -495,7 +495,7 @@
         "href": "https://github.com/elementary/installer/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 10
+    "new_commits": 11
   },
   {
     "name": "mail",
@@ -1572,7 +1572,7 @@
         "href": "https://github.com/elementary/switchboard-plug-about/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 38
+    "new_commits": 40
   },
   {
     "name": "switchboard-plug-datetime",
@@ -2912,7 +2912,7 @@
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 32
+    "new_commits": 35
   },
   {
     "name": "switchboard-plug-power",
@@ -3609,7 +3609,7 @@
         "href": "https://github.com/elementary/onboarding/releases/tag/1.0"
       }
     ],
-    "new_commits": 43
+    "new_commits": 44
   },
   {
     "name": "videos",
@@ -3906,7 +3906,7 @@
         "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 10
+    "new_commits": 19
   },
   {
     "name": "photos",
@@ -4265,7 +4265,7 @@
         "href": "https://github.com/elementary/switchboard-plug-sharing/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 3
+    "new_commits": 4
   },
   {
     "name": "wingpanel-indicator-session",
