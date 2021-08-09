@@ -2388,7 +2388,7 @@
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
       }
     ],
-    "new_commits": 25
+    "new_commits": 26
   },
   {
     "name": "switchboard-plug-security-privacy",
@@ -3278,7 +3278,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-power/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 62
+    "new_commits": 63
   },
   {
     "name": "wingpanel-indicator-nightlight",
