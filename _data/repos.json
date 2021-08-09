@@ -322,6 +322,13 @@
     "name": "os",
     "releases": [
       {
+        "version": "6.0-rc4",
+        "release_date": "2021-08-04T22:26:57",
+        "title": "6.0 Odin RC4",
+        "body": "**If you are installing over a beta or previous RC image** you may encounter an error when using the \"Erase Disk and Install\" option. If the installer fails, you may need to manually delete the created partitions and try again:\r\n\r\n1. Select \"Try Installing Again\" then \"Cancel Installation\"\r\n2. Choose \"Custom Install (Advanced)\"\r\n3. Select \"Modify Partitions\u2026\" then use GParted to deactivate and delete existing partitions\r\n4. Select :heavy_check_mark: (Apply All Operations) to apply changes, then close GParted\r\n5. Select \"Back\" to go back to the \"Try or Install\" view\r\n6. Choose \"Erase Disk and Install\" to install again\r\n\r\nThis issue is being tracked at https://github.com/elementary/installer/issues/584\r\n\r\n### Updates since RC3:\r\n\r\n- Fixed an issue installing proprietary NVIDIA drivers from AppCenter\r\n- Fixed a Tasks crash on proprietary NVIDIA drivers",
+        "href": "https://github.com/elementary/os/releases/tag/6.0-rc4"
+      },
+      {
         "version": "6.0-rc3",
         "release_date": "2021-08-04T22:26:57",
         "title": "6.0 Odin RC3",
