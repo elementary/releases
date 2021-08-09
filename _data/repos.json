@@ -421,7 +421,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 16
+    "new_commits": 18
   },
   {
     "name": "tasks",
@@ -536,7 +536,7 @@
         "href": "https://github.com/elementary/mail/releases/tag/1.0.6"
       }
     ],
-    "new_commits": 38
+    "new_commits": 39
   },
   {
     "name": "feedback",
@@ -851,7 +851,7 @@
         "href": "https://github.com/elementary/calendar/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 25
+    "new_commits": 26
   },
   {
     "name": "screenshot",
@@ -2202,7 +2202,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 102
+    "new_commits": 105
   },
   {
     "name": "default-settings",
