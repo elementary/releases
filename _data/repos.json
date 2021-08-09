@@ -740,7 +740,7 @@
         "href": "https://github.com/elementary/camera/releases/tag/1.0"
       }
     ],
-    "new_commits": 45
+    "new_commits": 46
   },
   {
     "name": "calendar",
@@ -2126,7 +2126,7 @@
         "href": "https://github.com/elementary/terminal/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 43
+    "new_commits": 44
   },
   {
     "name": "code",
@@ -3692,7 +3692,7 @@
         "href": "https://github.com/elementary/videos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 43
+    "new_commits": 44
   },
   {
     "name": "pantheon-agent-polkit",
@@ -3989,7 +3989,7 @@
         "href": "https://github.com/elementary/photos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 43
+    "new_commits": 45
   },
   {
     "name": "switchboard",
