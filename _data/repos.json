@@ -654,7 +654,7 @@
         "href": "https://github.com/elementary/mail/releases/tag/1.0.6"
       }
     ],
-    "new_commits": 40
+    "new_commits": 41
   },
   {
     "name": "feedback",
@@ -681,7 +681,7 @@
         "href": "https://github.com/elementary/feedback/releases/tag/1.0"
       }
     ],
-    "new_commits": 19
+    "new_commits": 21
   },
   {
     "name": "switchboard-plug-wacom",
@@ -2319,7 +2319,7 @@
         "href": "https://github.com/elementary/sideload/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 27
+    "new_commits": 28
   },
   {
     "name": "applications-menu",
@@ -4155,7 +4155,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 27
+    "new_commits": 28
   },
   {
     "name": "wingpanel",
@@ -4459,7 +4459,7 @@
         "href": "https://github.com/elementary/capnet-assist/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 25
+    "new_commits": 26
   },
   {
     "name": "wallpapers",
@@ -4632,7 +4632,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 21
+    "new_commits": 22
   },
   {
     "name": "contractor",
@@ -5122,7 +5122,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 2956
+    "new_commits": 2963
   },
   {
     "name": "fonts",
