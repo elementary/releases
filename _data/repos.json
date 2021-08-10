@@ -2237,7 +2237,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 105
+    "new_commits": 106
   },
   {
     "name": "default-settings",
@@ -3313,7 +3313,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-power/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 64
+    "new_commits": 65
   },
   {
     "name": "wingpanel-indicator-nightlight",
@@ -4024,7 +4024,7 @@
         "href": "https://github.com/elementary/photos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 45
+    "new_commits": 46
   },
   {
     "name": "switchboard",
