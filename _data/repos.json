@@ -1517,7 +1517,7 @@
         "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
       }
     ],
-    "new_commits": 32
+    "new_commits": 33
   },
   {
     "name": "switchboard-plug-about",
@@ -5122,7 +5122,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 2963
+    "new_commits": 3446
   },
   {
     "name": "fonts",
