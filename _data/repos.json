@@ -1607,7 +1607,7 @@
         "href": "https://github.com/elementary/switchboard-plug-about/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 45
+    "new_commits": 46
   },
   {
     "name": "switchboard-plug-datetime",
@@ -3313,7 +3313,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-power/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 63
+    "new_commits": 64
   },
   {
     "name": "wingpanel-indicator-nightlight",
