@@ -114,7 +114,7 @@
         "href": "https://github.com/elementary/tasks/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 6
+    "new_commits": 12
   },
   {
     "name": "appcenter",
@@ -1154,7 +1154,7 @@
         "href": "https://github.com/elementary/music/releases/tag/0.4.0.3"
       }
     ],
-    "new_commits": 56
+    "new_commits": 57
   },
   {
     "name": "wingpanel-indicator-a11y",
