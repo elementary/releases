@@ -1,5 +1,25 @@
 [
   {
+    "name": "action-appcenter-review-find-manifest",
+    "releases": [
+      {
+        "version": "v1.0.2",
+        "release_date": "2021-08-11T19:55:18",
+        "title": "v1.0.2",
+        "body": "## [1.0.2](https://github.com/elementary/action-appcenter-review-find-manifest/compare/v1.0.1...v1.0.2) (2021-08-11)\n\n\n### Bug Fixes\n\n* add dist folder to git release pipeline ([2e0443f](https://github.com/elementary/action-appcenter-review-find-manifest/commit/2e0443f0ae20576d2501a2268c26e0667fc326c4))\n\n\n\n",
+        "href": "https://github.com/elementary/action-appcenter-review-find-manifest/releases/tag/v1.0.2"
+      },
+      {
+        "version": "v1.0.1",
+        "release_date": "2021-08-11T19:53:50",
+        "title": "v1.0.1",
+        "body": "## [1.0.1](https://github.com/elementary/action-appcenter-review-find-manifest/compare/v1.0.0...v1.0.1) (2021-08-11)\n\n\n### Bug Fixes\n\n* update gitignore to not include the built dist folder ([abb0e61](https://github.com/elementary/action-appcenter-review-find-manifest/commit/abb0e6102741254c6bb231125c3b572359a3f1cb))\n\n\n\n",
+        "href": "https://github.com/elementary/action-appcenter-review-find-manifest/releases/tag/v1.0.1"
+      }
+    ],
+    "new_commits": 0
+  },
+  {
     "name": "os",
     "releases": [
       {
