@@ -1243,7 +1243,7 @@
         "href": "https://github.com/elementary/music/releases/tag/0.4.0.3"
       }
     ],
-    "new_commits": 57
+    "new_commits": 58
   },
   {
     "name": "wingpanel-indicator-a11y",
@@ -1366,7 +1366,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.0.1"
       }
     ],
-    "new_commits": 20
+    "new_commits": 21
   },
   {
     "name": "settings-daemon",
