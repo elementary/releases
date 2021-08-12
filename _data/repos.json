@@ -648,7 +648,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 4
+    "new_commits": 5
   },
   {
     "name": "switchboard-plug-onlineaccounts",
@@ -1058,7 +1058,7 @@
         "href": "https://github.com/elementary/calendar/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 28
+    "new_commits": 29
   },
   {
     "name": "screenshot",
@@ -2512,7 +2512,7 @@
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
       }
     ],
-    "new_commits": 26
+    "new_commits": 27
   },
   {
     "name": "switchboard-plug-security-privacy",
@@ -5170,7 +5170,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 3683
+    "new_commits": 3686
   },
   {
     "name": "fonts",
