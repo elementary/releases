@@ -86,7 +86,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 5
+    "new_commits": 7
   },
   {
     "name": "os",
@@ -203,7 +203,7 @@
         "href": "https://github.com/elementary/tasks/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 14
+    "new_commits": 17
   },
   {
     "name": "appcenter",
@@ -405,7 +405,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 14
+    "new_commits": 17
   },
   {
     "name": "calculator",
@@ -1366,7 +1366,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.0.1"
       }
     ],
-    "new_commits": 21
+    "new_commits": 22
   },
   {
     "name": "settings-daemon",
@@ -1696,7 +1696,7 @@
         "href": "https://github.com/elementary/switchboard-plug-about/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 47
+    "new_commits": 48
   },
   {
     "name": "switchboard-plug-datetime",
@@ -2326,7 +2326,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 108
+    "new_commits": 116
   },
   {
     "name": "default-settings",
@@ -3340,7 +3340,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 24
+    "new_commits": 25
   },
   {
     "name": "wingpanel-indicator-power",
@@ -3402,7 +3402,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-power/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 65
+    "new_commits": 67
   },
   {
     "name": "wingpanel-indicator-nightlight",
@@ -5170,7 +5170,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 3664
+    "new_commits": 3682
   },
   {
     "name": "fonts",
