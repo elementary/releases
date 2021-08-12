@@ -702,7 +702,7 @@
         "href": "https://github.com/elementary/installer/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 13
+    "new_commits": 14
   },
   {
     "name": "mail",
@@ -2250,7 +2250,7 @@
         "href": "https://github.com/elementary/terminal/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 45
+    "new_commits": 46
   },
   {
     "name": "code",
@@ -3733,7 +3733,7 @@
         "href": "https://github.com/elementary/onboarding/releases/tag/1.0"
       }
     ],
-    "new_commits": 45
+    "new_commits": 46
   },
   {
     "name": "videos",
@@ -5170,7 +5170,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 3659
+    "new_commits": 3664
   },
   {
     "name": "fonts",
