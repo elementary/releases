@@ -405,7 +405,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 19
+    "new_commits": 28
   },
   {
     "name": "calculator",
@@ -648,7 +648,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 5
+    "new_commits": 14
   },
   {
     "name": "switchboard-plug-onlineaccounts",
@@ -1696,7 +1696,7 @@
         "href": "https://github.com/elementary/switchboard-plug-about/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 56
+    "new_commits": 58
   },
   {
     "name": "switchboard-plug-datetime",
@@ -2118,7 +2118,7 @@
         "href": "https://github.com/elementary/switchboard-plug-applications/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 23
+    "new_commits": 24
   },
   {
     "name": "terminal",
@@ -2250,7 +2250,7 @@
         "href": "https://github.com/elementary/terminal/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 48
+    "new_commits": 49
   },
   {
     "name": "code",
@@ -2698,7 +2698,7 @@
         "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 28
+    "new_commits": 30
   },
   {
     "name": "wingpanel-indicator-network",
@@ -3036,7 +3036,7 @@
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 37
+    "new_commits": 40
   },
   {
     "name": "switchboard-plug-power",
@@ -4203,7 +4203,7 @@
         "href": "https://github.com/elementary/switchboard/releases/tag/2.3.0"
       }
     ],
-    "new_commits": 31
+    "new_commits": 32
   },
   {
     "name": "wingpanel",
@@ -5170,7 +5170,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 3715
+    "new_commits": 3719
   },
   {
     "name": "fonts",
