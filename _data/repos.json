@@ -405,7 +405,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 28
+    "new_commits": 32
   },
   {
     "name": "calculator",
@@ -2250,7 +2250,7 @@
         "href": "https://github.com/elementary/terminal/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 49
+    "new_commits": 52
   },
   {
     "name": "code",
@@ -2926,7 +2926,7 @@
         "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 31
+    "new_commits": 33
   },
   {
     "name": "switchboard-plug-notifications",
@@ -3036,7 +3036,7 @@
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 40
+    "new_commits": 43
   },
   {
     "name": "switchboard-plug-power",
