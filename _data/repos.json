@@ -648,7 +648,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 14
+    "new_commits": 18
   },
   {
     "name": "switchboard-plug-onlineaccounts",
@@ -1606,7 +1606,7 @@
         "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
       }
     ],
-    "new_commits": 33
+    "new_commits": 41
   },
   {
     "name": "switchboard-plug-about",
@@ -1696,7 +1696,7 @@
         "href": "https://github.com/elementary/switchboard-plug-about/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 58
+    "new_commits": 64
   },
   {
     "name": "switchboard-plug-datetime",
@@ -1765,7 +1765,7 @@
         "href": "https://github.com/elementary/switchboard-plug-datetime/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 18
+    "new_commits": 19
   },
   {
     "name": "icons",
@@ -2326,7 +2326,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 137
+    "new_commits": 141
   },
   {
     "name": "default-settings",
@@ -5170,7 +5170,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 3719
+    "new_commits": 3727
   },
   {
     "name": "fonts",
