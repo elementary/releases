@@ -885,7 +885,7 @@
         "href": "https://github.com/elementary/switchboard-plug-printers/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 3
+    "new_commits": 4
   },
   {
     "name": "camera",
@@ -1696,7 +1696,7 @@
         "href": "https://github.com/elementary/switchboard-plug-about/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 67
+    "new_commits": 68
   },
   {
     "name": "switchboard-plug-datetime",
@@ -2056,7 +2056,7 @@
         "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 42
+    "new_commits": 43
   },
   {
     "name": "switchboard-plug-applications",
@@ -2118,7 +2118,7 @@
         "href": "https://github.com/elementary/switchboard-plug-applications/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 24
+    "new_commits": 25
   },
   {
     "name": "terminal",
@@ -2615,7 +2615,7 @@
         "href": "https://github.com/elementary/switchboard-plug-parental-controls/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 41
+    "new_commits": 43
   },
   {
     "name": "switchboard-plug-display",
@@ -3036,7 +3036,7 @@
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 45
+    "new_commits": 46
   },
   {
     "name": "switchboard-plug-power",
@@ -3105,7 +3105,7 @@
         "href": "https://github.com/elementary/switchboard-plug-power/releases/tag/0.3.1"
       }
     ],
-    "new_commits": 28
+    "new_commits": 29
   },
   {
     "name": "switchboard-plug-network",
@@ -4203,7 +4203,7 @@
         "href": "https://github.com/elementary/switchboard/releases/tag/2.3.0"
       }
     ],
-    "new_commits": 36
+    "new_commits": 38
   },
   {
     "name": "wingpanel",
