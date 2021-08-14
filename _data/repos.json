@@ -86,7 +86,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 13
+    "new_commits": 14
   },
   {
     "name": "os",
@@ -648,7 +648,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 58
+    "new_commits": 64
   },
   {
     "name": "switchboard-plug-onlineaccounts",
@@ -3685,7 +3685,7 @@
         "href": "https://github.com/elementary/greeter/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 8
+    "new_commits": 9
   },
   {
     "name": "onboarding",
