@@ -203,7 +203,7 @@
         "href": "https://github.com/elementary/tasks/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 22
+    "new_commits": 27
   },
   {
     "name": "appcenter",
@@ -648,7 +648,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 66
+    "new_commits": 96
   },
   {
     "name": "switchboard-plug-onlineaccounts",
@@ -2326,7 +2326,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 144
+    "new_commits": 145
   },
   {
     "name": "default-settings",
@@ -3181,7 +3181,7 @@
         "href": "https://github.com/elementary/switchboard-plug-network/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 21
+    "new_commits": 22
   },
   {
     "name": "switchboard-plug-locale",
