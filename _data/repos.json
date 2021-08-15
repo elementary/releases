@@ -86,7 +86,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 14
+    "new_commits": 15
   },
   {
     "name": "os",
@@ -770,7 +770,7 @@
         "href": "https://github.com/elementary/feedback/releases/tag/1.0"
       }
     ],
-    "new_commits": 23
+    "new_commits": 24
   },
   {
     "name": "switchboard-plug-wacom",
@@ -3940,7 +3940,7 @@
         "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.0"
       }
     ],
-    "new_commits": 25
+    "new_commits": 26
   },
   {
     "name": "switchboard-plug-bluetooth",
@@ -4507,7 +4507,7 @@
         "href": "https://github.com/elementary/capnet-assist/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 26
+    "new_commits": 27
   },
   {
     "name": "wallpapers",
