@@ -405,7 +405,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 55
+    "new_commits": 61
   },
   {
     "name": "calculator",
@@ -5170,7 +5170,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 3756
+    "new_commits": 3757
   },
   {
     "name": "fonts",
