@@ -405,7 +405,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 64
+    "new_commits": 65
   },
   {
     "name": "calculator",
@@ -2512,7 +2512,7 @@
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
       }
     ],
-    "new_commits": 28
+    "new_commits": 29
   },
   {
     "name": "switchboard-plug-security-privacy",
@@ -3402,7 +3402,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-power/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 68
+    "new_commits": 69
   },
   {
     "name": "wingpanel-indicator-nightlight",
