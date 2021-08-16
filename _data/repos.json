@@ -405,7 +405,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 76
+    "new_commits": 77
   },
   {
     "name": "calculator",
@@ -1243,7 +1243,7 @@
         "href": "https://github.com/elementary/music/releases/tag/0.4.0.3"
       }
     ],
-    "new_commits": 62
+    "new_commits": 63
   },
   {
     "name": "wingpanel-indicator-a11y",
@@ -5170,7 +5170,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 3770
+    "new_commits": 3779
   },
   {
     "name": "fonts",
