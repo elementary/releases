@@ -405,7 +405,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 81
+    "new_commits": 82
   },
   {
     "name": "calculator",
@@ -2512,7 +2512,7 @@
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
       }
     ],
-    "new_commits": 31
+    "new_commits": 33
   },
   {
     "name": "switchboard-plug-security-privacy",
