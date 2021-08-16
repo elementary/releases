@@ -648,7 +648,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 103
+    "new_commits": 104
   },
   {
     "name": "switchboard-plug-onlineaccounts",
@@ -2615,7 +2615,7 @@
         "href": "https://github.com/elementary/switchboard-plug-parental-controls/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 46
+    "new_commits": 47
   },
   {
     "name": "switchboard-plug-display",
