@@ -655,7 +655,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 112
+    "new_commits": 113
   },
   {
     "name": "switchboard-plug-onlineaccounts",
@@ -3112,7 +3112,7 @@
         "href": "https://github.com/elementary/switchboard-plug-power/releases/tag/0.3.1"
       }
     ],
-    "new_commits": 39
+    "new_commits": 41
   },
   {
     "name": "switchboard-plug-network",
@@ -5177,7 +5177,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 3820
+    "new_commits": 3821
   },
   {
     "name": "fonts",
