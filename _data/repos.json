@@ -206,7 +206,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 10
+    "new_commits": 11
   },
   {
     "name": "action-appcenter-review-find-manifest",
@@ -655,7 +655,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 109
+    "new_commits": 112
   },
   {
     "name": "switchboard-plug-onlineaccounts",
