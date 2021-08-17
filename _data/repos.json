@@ -206,7 +206,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 9
+    "new_commits": 10
   },
   {
     "name": "action-appcenter-review-find-manifest",
@@ -5177,7 +5177,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 3795
+    "new_commits": 3806
   },
   {
     "name": "fonts",
