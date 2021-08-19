@@ -2519,7 +2519,7 @@
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
       }
     ],
-    "new_commits": 33
+    "new_commits": 39
   },
   {
     "name": "switchboard-plug-security-privacy",
@@ -3533,7 +3533,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 24
+    "new_commits": 27
   },
   {
     "name": "wingpanel-indicator-sound",
