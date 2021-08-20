@@ -1,5 +1,53 @@
 [
   {
+    "name": "action-appcenter-review-find-manifest",
+    "releases": [
+      {
+        "version": "v1.2.0",
+        "release_date": "2021-08-20T16:47:38",
+        "title": "v1.2.0",
+        "body": "# [1.2.0](https://github.com/elementary/action-appcenter-review-find-manifest/compare/v1.1.1...v1.2.0) (2021-08-20)\n\n\n### Features\n\n* allow flatpak manifest in elementary and flatpak directory ([94dd3e7](https://github.com/elementary/action-appcenter-review-find-manifest/commit/94dd3e79338095dd8c8670252b038d58e02f0003))\n\n\n\n",
+        "href": "https://github.com/elementary/action-appcenter-review-find-manifest/releases/tag/v1.2.0"
+      },
+      {
+        "version": "v1.1.1",
+        "release_date": "2021-08-11T21:24:08",
+        "title": "v1.1.1",
+        "body": "## [1.1.1](https://github.com/elementary/action-appcenter-review-find-manifest/compare/v1.1.0...v1.1.1) (2021-08-11)\n\n\n### Bug Fixes\n\n* **ci:** update CI to publish newly built files ([c1501b4](https://github.com/elementary/action-appcenter-review-find-manifest/commit/c1501b412ed1421666820d380bd9d6afe5b295b1))\n\n\n\n",
+        "href": "https://github.com/elementary/action-appcenter-review-find-manifest/releases/tag/v1.1.1"
+      },
+      {
+        "version": "v1.1.0",
+        "release_date": "2021-08-11T21:23:40",
+        "title": "v1.1.0",
+        "body": "# [1.1.0](https://github.com/elementary/action-appcenter-review-find-manifest/compare/v1.0.3...v1.1.0) (2021-08-11)\n\n\n### Features\n\n* add GPLv3 license ([fe27bed](https://github.com/elementary/action-appcenter-review-find-manifest/commit/fe27bed71d17560e4a455df163e97839af2c3da2))\n\n\n\n",
+        "href": "https://github.com/elementary/action-appcenter-review-find-manifest/releases/tag/v1.1.0"
+      },
+      {
+        "version": "v1.0.3",
+        "release_date": "2021-08-11T21:11:17",
+        "title": "v1.0.3",
+        "body": "## [1.0.3](https://github.com/elementary/action-appcenter-review-find-manifest/compare/v1.0.2...v1.0.3) (2021-08-11)\n\n\n### Bug Fixes\n\n* update for look to of instead of in ([b009894](https://github.com/elementary/action-appcenter-review-find-manifest/commit/b00989420cf1a139ba3c28bf6066d50250478ade))\n\n\n\n",
+        "href": "https://github.com/elementary/action-appcenter-review-find-manifest/releases/tag/v1.0.3"
+      },
+      {
+        "version": "v1.0.2",
+        "release_date": "2021-08-11T19:55:18",
+        "title": "v1.0.2",
+        "body": "## [1.0.2](https://github.com/elementary/action-appcenter-review-find-manifest/compare/v1.0.1...v1.0.2) (2021-08-11)\n\n\n### Bug Fixes\n\n* add dist folder to git release pipeline ([2e0443f](https://github.com/elementary/action-appcenter-review-find-manifest/commit/2e0443f0ae20576d2501a2268c26e0667fc326c4))\n\n\n\n",
+        "href": "https://github.com/elementary/action-appcenter-review-find-manifest/releases/tag/v1.0.2"
+      },
+      {
+        "version": "v1.0.1",
+        "release_date": "2021-08-11T19:53:50",
+        "title": "v1.0.1",
+        "body": "## [1.0.1](https://github.com/elementary/action-appcenter-review-find-manifest/compare/v1.0.0...v1.0.1) (2021-08-11)\n\n\n### Bug Fixes\n\n* update gitignore to not include the built dist folder ([abb0e61](https://github.com/elementary/action-appcenter-review-find-manifest/commit/abb0e6102741254c6bb231125c3b572359a3f1cb))\n\n\n\n",
+        "href": "https://github.com/elementary/action-appcenter-review-find-manifest/releases/tag/v1.0.1"
+      }
+    ],
+    "new_commits": 0
+  },
+  {
     "name": "appcenter",
     "releases": [
       {
@@ -207,47 +255,6 @@
       }
     ],
     "new_commits": 13
-  },
-  {
-    "name": "action-appcenter-review-find-manifest",
-    "releases": [
-      {
-        "version": "v1.1.1",
-        "release_date": "2021-08-11T21:24:08",
-        "title": "v1.1.1",
-        "body": "## [1.1.1](https://github.com/elementary/action-appcenter-review-find-manifest/compare/v1.1.0...v1.1.1) (2021-08-11)\n\n\n### Bug Fixes\n\n* **ci:** update CI to publish newly built files ([c1501b4](https://github.com/elementary/action-appcenter-review-find-manifest/commit/c1501b412ed1421666820d380bd9d6afe5b295b1))\n\n\n\n",
-        "href": "https://github.com/elementary/action-appcenter-review-find-manifest/releases/tag/v1.1.1"
-      },
-      {
-        "version": "v1.1.0",
-        "release_date": "2021-08-11T21:23:40",
-        "title": "v1.1.0",
-        "body": "# [1.1.0](https://github.com/elementary/action-appcenter-review-find-manifest/compare/v1.0.3...v1.1.0) (2021-08-11)\n\n\n### Features\n\n* add GPLv3 license ([fe27bed](https://github.com/elementary/action-appcenter-review-find-manifest/commit/fe27bed71d17560e4a455df163e97839af2c3da2))\n\n\n\n",
-        "href": "https://github.com/elementary/action-appcenter-review-find-manifest/releases/tag/v1.1.0"
-      },
-      {
-        "version": "v1.0.3",
-        "release_date": "2021-08-11T21:11:17",
-        "title": "v1.0.3",
-        "body": "## [1.0.3](https://github.com/elementary/action-appcenter-review-find-manifest/compare/v1.0.2...v1.0.3) (2021-08-11)\n\n\n### Bug Fixes\n\n* update for look to of instead of in ([b009894](https://github.com/elementary/action-appcenter-review-find-manifest/commit/b00989420cf1a139ba3c28bf6066d50250478ade))\n\n\n\n",
-        "href": "https://github.com/elementary/action-appcenter-review-find-manifest/releases/tag/v1.0.3"
-      },
-      {
-        "version": "v1.0.2",
-        "release_date": "2021-08-11T19:55:18",
-        "title": "v1.0.2",
-        "body": "## [1.0.2](https://github.com/elementary/action-appcenter-review-find-manifest/compare/v1.0.1...v1.0.2) (2021-08-11)\n\n\n### Bug Fixes\n\n* add dist folder to git release pipeline ([2e0443f](https://github.com/elementary/action-appcenter-review-find-manifest/commit/2e0443f0ae20576d2501a2268c26e0667fc326c4))\n\n\n\n",
-        "href": "https://github.com/elementary/action-appcenter-review-find-manifest/releases/tag/v1.0.2"
-      },
-      {
-        "version": "v1.0.1",
-        "release_date": "2021-08-11T19:53:50",
-        "title": "v1.0.1",
-        "body": "## [1.0.1](https://github.com/elementary/action-appcenter-review-find-manifest/compare/v1.0.0...v1.0.1) (2021-08-11)\n\n\n### Bug Fixes\n\n* update gitignore to not include the built dist folder ([abb0e61](https://github.com/elementary/action-appcenter-review-find-manifest/commit/abb0e6102741254c6bb231125c3b572359a3f1cb))\n\n\n\n",
-        "href": "https://github.com/elementary/action-appcenter-review-find-manifest/releases/tag/v1.0.1"
-      }
-    ],
-    "new_commits": 0
   },
   {
     "name": "gala",
