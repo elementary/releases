@@ -114,7 +114,7 @@
         "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 7
+    "new_commits": 9
   },
   {
     "name": "action-appcenter-review-parse",
@@ -799,7 +799,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 120
+    "new_commits": 121
   },
   {
     "name": "switchboard-plug-onlineaccounts",
@@ -2174,7 +2174,7 @@
         "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 45
+    "new_commits": 46
   },
   {
     "name": "switchboard-plug-applications",
@@ -3140,7 +3140,7 @@
         "href": "https://github.com/elementary/switchboard-plug-power/releases/tag/0.3.1"
       }
     ],
-    "new_commits": 63
+    "new_commits": 65
   },
   {
     "name": "switchboard-plug-network",
@@ -4148,7 +4148,7 @@
         "href": "https://github.com/elementary/photos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 52
+    "new_commits": 53
   },
   {
     "name": "switchboard",
@@ -5205,7 +5205,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 3872
+    "new_commits": 3874
   },
   {
     "name": "fonts",
