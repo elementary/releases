@@ -2368,7 +2368,7 @@
         "href": "https://github.com/elementary/terminal/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 70
+    "new_commits": 72
   },
   {
     "name": "code",
@@ -5205,7 +5205,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 3974
+    "new_commits": 3977
   },
   {
     "name": "fonts",
