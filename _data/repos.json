@@ -75,7 +75,7 @@
         "version": "6.0-20210823",
         "release_date": "2021-08-21T21:23:39",
         "title": "6.0 Odin",
-        "body": "This ISO re-spin includes the upstream Ubuntu 20.04.3 LTS fix for booting on certain EFI hardware, including many Dell models. Fixes https://github.com/elementary/triage/issues/74.\r\n\r\n**Note:** This release will be marked as pre-release until it is validated and made available for download at [elementary.io](https://elementary.io).\r\n\r\n- Build action: https://github.com/elementary/os/runs/3404077980",
+        "body": "This ISO re-spin includes the upstream Ubuntu 20.04.3 LTS fix for booting on certain EFI hardware, including many Dell models. Fixes https://github.com/elementary/triage/issues/74.\r\n\r\n**Note:** This release will be marked as pre-release until it is validated and made available for download at [elementary.io](https://elementary.io).\r\n\r\n- [x] Build action: https://github.com/elementary/os/runs/3404077980\r\n- [x] Human validated\r\n- [ ] Website updated https://github.com/elementary/website/pull/2814\r\n- [ ] Available for download",
         "href": "https://github.com/elementary/os/releases/tag/6.0-20210823"
       },
       {
@@ -1890,7 +1890,7 @@
         "href": "https://github.com/elementary/switchboard-plug-about/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 72
+    "new_commits": 73
   },
   {
     "name": "switchboard-plug-datetime",
@@ -2602,7 +2602,7 @@
         "href": "https://github.com/elementary/sideload/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 37
+    "new_commits": 43
   },
   {
     "name": "applications-menu",
@@ -3734,7 +3734,7 @@
         "href": "https://github.com/elementary/greeter/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 27
+    "new_commits": 32
   },
   {
     "name": "onboarding",
@@ -5219,7 +5219,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 3978
+    "new_commits": 3986
   },
   {
     "name": "fonts",
