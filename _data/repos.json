@@ -439,7 +439,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 20
+    "new_commits": 27
   },
   {
     "name": "os",
@@ -2368,7 +2368,7 @@
         "href": "https://github.com/elementary/terminal/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 59
+    "new_commits": 70
   },
   {
     "name": "code",
@@ -2526,7 +2526,7 @@
         "href": "https://github.com/elementary/sideload/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 35
+    "new_commits": 36
   },
   {
     "name": "applications-menu",
@@ -3720,7 +3720,7 @@
         "href": "https://github.com/elementary/greeter/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 11
+    "new_commits": 19
   },
   {
     "name": "onboarding",
@@ -3975,7 +3975,7 @@
         "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.0"
       }
     ],
-    "new_commits": 27
+    "new_commits": 28
   },
   {
     "name": "switchboard-plug-bluetooth",
