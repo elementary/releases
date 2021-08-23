@@ -799,7 +799,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 121
+    "new_commits": 125
   },
   {
     "name": "switchboard-plug-onlineaccounts",
@@ -3437,7 +3437,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-power/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 91
+    "new_commits": 92
   },
   {
     "name": "wingpanel-indicator-nightlight",
