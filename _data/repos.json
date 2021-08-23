@@ -799,7 +799,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 125
+    "new_commits": 134
   },
   {
     "name": "switchboard-plug-onlineaccounts",
@@ -914,7 +914,7 @@
         "href": "https://github.com/elementary/switchboard-plug-wacom/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 3
+    "new_commits": 6
   },
   {
     "name": "plymouth-theme",
@@ -1003,7 +1003,7 @@
         "href": "https://github.com/elementary/switchboard-plug-printers/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 10
+    "new_commits": 12
   },
   {
     "name": "camera",
@@ -1724,7 +1724,7 @@
         "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
       }
     ],
-    "new_commits": 46
+    "new_commits": 48
   },
   {
     "name": "switchboard-plug-about",
@@ -1883,7 +1883,7 @@
         "href": "https://github.com/elementary/switchboard-plug-datetime/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 24
+    "new_commits": 25
   },
   {
     "name": "icons",
@@ -2885,7 +2885,7 @@
         "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/0.1"
       }
     ],
-    "new_commits": 22
+    "new_commits": 23
   },
   {
     "name": "switchboard-plug-useraccounts",
@@ -3071,7 +3071,7 @@
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 50
+    "new_commits": 51
   },
   {
     "name": "switchboard-plug-power",
@@ -3216,7 +3216,7 @@
         "href": "https://github.com/elementary/switchboard-plug-network/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 27
+    "new_commits": 28
   },
   {
     "name": "switchboard-plug-locale",
@@ -3851,7 +3851,7 @@
         "href": "https://github.com/elementary/videos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 45
+    "new_commits": 46
   },
   {
     "name": "pantheon-agent-polkit",
@@ -4065,7 +4065,7 @@
         "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 24
+    "new_commits": 26
   },
   {
     "name": "photos",
