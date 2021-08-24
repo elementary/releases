@@ -557,7 +557,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 46
+    "new_commits": 51
   },
   {
     "name": "gala",
@@ -605,7 +605,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 29
+    "new_commits": 34
   },
   {
     "name": "tasks",
@@ -977,7 +977,7 @@
         "href": "https://github.com/elementary/feedback/releases/tag/1.0"
       }
     ],
-    "new_commits": 29
+    "new_commits": 36
   },
   {
     "name": "switchboard-plug-wacom",
@@ -2602,7 +2602,7 @@
         "href": "https://github.com/elementary/sideload/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 49
+    "new_commits": 56
   },
   {
     "name": "applications-menu",
