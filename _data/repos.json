@@ -557,7 +557,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 41
+    "new_commits": 44
   },
   {
     "name": "gala",
@@ -722,7 +722,7 @@
         "href": "https://github.com/elementary/calculator/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 11
+    "new_commits": 12
   },
   {
     "name": "files",
@@ -3734,7 +3734,7 @@
         "href": "https://github.com/elementary/greeter/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 32
+    "new_commits": 35
   },
   {
     "name": "onboarding",
