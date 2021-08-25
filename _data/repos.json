@@ -363,7 +363,7 @@
         "href": "https://github.com/elementary/installer/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 1
+    "new_commits": 2
   },
   {
     "name": "switchboard-plug-display",
@@ -1048,7 +1048,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 180
+    "new_commits": 181
   },
   {
     "name": "switchboard-plug-onlineaccounts",
@@ -1314,7 +1314,7 @@
         "href": "https://github.com/elementary/camera/releases/tag/1.0"
       }
     ],
-    "new_commits": 51
+    "new_commits": 53
   },
   {
     "name": "calendar",
@@ -5233,7 +5233,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 3994
+    "new_commits": 3995
   },
   {
     "name": "fonts",
