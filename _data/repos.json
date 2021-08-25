@@ -1252,7 +1252,7 @@
         "href": "https://github.com/elementary/switchboard-plug-printers/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 16
+    "new_commits": 18
   },
   {
     "name": "camera",
@@ -2851,7 +2851,7 @@
         "href": "https://github.com/elementary/switchboard-plug-security-privacy/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 10
+    "new_commits": 12
   },
   {
     "name": "switchboard-plug-parental-controls",
@@ -3044,7 +3044,7 @@
         "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/0.1"
       }
     ],
-    "new_commits": 27
+    "new_commits": 29
   },
   {
     "name": "switchboard-plug-useraccounts",
@@ -4266,7 +4266,7 @@
         "href": "https://github.com/elementary/switchboard/releases/tag/2.3.0"
       }
     ],
-    "new_commits": 42
+    "new_commits": 43
   },
   {
     "name": "wingpanel",
@@ -4411,7 +4411,7 @@
         "href": "https://github.com/elementary/switchboard-plug-sharing/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 10
+    "new_commits": 12
   },
   {
     "name": "wingpanel-indicator-session",
@@ -5138,7 +5138,7 @@
         "href": "https://github.com/elementary/houston/releases/tag/0.2.0"
       }
     ],
-    "new_commits": 11
+    "new_commits": 12
   },
   {
     "name": "actions",
