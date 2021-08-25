@@ -73,7 +73,7 @@
         "href": "https://github.com/elementary/switchboard-plug-power/releases/tag/0.3.1"
       }
     ],
-    "new_commits": 2
+    "new_commits": 3
   },
   {
     "name": "switchboard-plug-about",
@@ -1048,7 +1048,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 177
+    "new_commits": 179
   },
   {
     "name": "switchboard-plug-onlineaccounts",
