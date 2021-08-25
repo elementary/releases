@@ -1,5 +1,130 @@
 [
   {
+    "name": "granite",
+    "releases": [
+      {
+        "version": "6.1.1",
+        "release_date": "2021-08-25T22:06:34",
+        "title": "granite 6.1.1 Released",
+        "body": "<p>Fixes:</p>\n<ul>\n<li>Ensure accel_to_string works with multiple modifiers</li>\n<li>Fix locale issues in Flatpaks</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/granite/releases/tag/6.1.1"
+      },
+      {
+        "version": "6.1.0",
+        "release_date": "2021-07-13T22:02:51",
+        "title": "granite 6.1.0 Released",
+        "body": "<p>Additions:</p>\n<ul>\n<li>TRANSITION_DURATION_IN_PLACE for consistent in-place widget transformations</li>\n</ul>\n<p>Other Changes:</p>\n<ul>\n<li>accel_to_string handles accel markup without modifiers or that are only modifiers</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/granite/releases/tag/6.1.0"
+      },
+      {
+        "version": "6.0.0",
+        "release_date": "2021-03-22T23:22:21",
+        "title": "granite 6.0.0 Released",
+        "body": "<p>Additions:</p>\n<ul>\n<li>Granite.Dialog replaces Gtk.Dialog for consistent styling</li>\n<li>Granite.SwitchModelButton for use in Gtk.Popover menus</li>\n<li>Granite.ValidatedEntry for client-side verification in forms</li>\n</ul>\n<p>New Constants:</p>\n<ul>\n<li>TOOLTIP_SECONDARY_TEXT_MARKUP for smaller second line text in Gtk.Tooltips</li>\n<li>SMALL_LABEL for smaller Gtk.Labels without Pango</li>\n<li>STYLE_CLASS_WARMTH and STYLE_CLASS_TEMPERATURE for scales</li>\n<li>STYLE_CLASS_DEFAULT_DECORATION for slim headerbars</li>\n<li>TRANSITION_DURATION_OPEN and TRANSITION_DURATION_CLOSE for consistent animations</li>\n</ul>\n<p>Removals:</p>\n<ul>\n<li>Granite.Widgets.AboutDialog. Provide AppStream metadata instead.</li>\n<li>Granite.Widgets.AppMenu. Use Gtk.MenuButton instead.</li>\n</ul>\n<p>Deprecations:</p>\n<ul>\n<li>Granite.Widgets.Avatar. Use Hdy.Avatar instead</li>\n</ul>\n<p>Other Changes:</p>\n<ul>\n<li>Toasts now reset their timeout when sending a new notification and the timeout is stopped while hovering</li>\n<li>Backlash, Right Control, and Left Control are now handled by accel_to_string</li>\n<li>Make tab tooltips of DynamicNotebook settable</li>\n<li>Timepicker corrrectly fires time_changed when AM and PM buttons are selected</li>\n<li>Granite.MessageDialog now uses the messagedialog CSS name</li>\n<li>Visible child name is now properly synced in Granite.SettingsSidebar</li>\n<li>Status can be set in Granite.AbstractSettingsPage on construct</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/granite/releases/tag/6.0.0"
+      },
+      {
+        "version": "5.5.0",
+        "release_date": "2020-07-01T16:27:01",
+        "title": "granite 5.5.0 Released",
+        "body": "<p>New Style Constants:</p>\n<ul>\n<li>STYLE_CLASS_COLOR_BUTTON</li>\n<li>STYLE_CLASS_ROUNDED</li>\n</ul>\n<p>Deprecations:</p>\n<ul>\n<li>Several theming utilities. Use Gtk.CssProvider and Gtk.StyleContext instead</li>\n<li>Granite.Services.SimpleCommand. Use GLib.AppInfo.create_from_commandline instead</li>\n<li>Old unused utilities like get_button_layout_schema, get_default_close_button_position, and Granite.Services.Paths</li>\n<li>Old unused widgets like CollapsiblePaned and CompositedWindow</li>\n</ul>\n<p>Other Changes:</p>\n<ul>\n<li>Granite.SourceList now gets Gtk.STYLE_CLASS_SIDEBAR by default</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/granite/releases/tag/5.5.0"
+      },
+      {
+        "version": "5.4.0",
+        "release_date": "2020-04-29T22:16:12",
+        "title": "granite 5.4.0 Released",
+        "body": "<p>New features:</p>\n<ul>\n<li>New Settings class to share Pantheon desktop settings with apps</li>\n<li>Introduced Settings.prefers_color_scheme to get a user's color scheme preference, i.e. for a dark style</li>\n</ul>\n<p>Deprecations:</p>\n<ul>\n<li>It is now recommended to use GLib.Settings instead of Granite.Services.Settings</li>\n</ul>\n",
+        "href": "https://github.com/elementary/granite/releases/tag/5.4.0"
+      },
+      {
+        "version": "5.3.1",
+        "release_date": "2020-04-02T00:21:23",
+        "title": "granite 5.3.1 Released",
+        "body": "granite 5.3.1 is out! \n\n<p>Improvements:</p>\n<ul>\n<li>Better align labels in settings sidebars</li>\n<li>Make AccelLabel.label settable</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/granite/releases/tag/5.3.1"
+      },
+      {
+        "version": "5.3.0",
+        "release_date": "2019-12-13T19:42:03",
+        "title": "granite 5.3.0 Released",
+        "body": "granite 5.3.0 is out! \r\n\r\n<p>New features:</p>\r\n<ul>\r\n<li>Add tooltips to source list items and their actions</li>\r\n<li>New AccelLabel widget for use in menus and popovers</li>\r\n</ul>\r\n<p>Improvements:</p>\r\n<ul>\r\n<li>Delay tab resizing when closing tabs</li>\r\n<li>Updated translations</li>\r\n</ul>\r\n",
+        "href": "https://github.com/elementary/granite/releases/tag/5.3.0"
+      },
+      {
+        "version": "5.2.5",
+        "release_date": "2019-09-05T23:49:51",
+        "title": "Granite 5.2.5 Released",
+        "body": "Granite 5.2.5 is out!\r\n\r\nChanges:\r\n* meson: fix shared library path\r\n* Utils: Add equal keys to accel_to_string\r\n* Provide Badge and Progress support for an Application using same DBus API as libunity\r\n* DynamicNotebook: support `Close Tabs to the Right`\r\n* DynamicNotebook: don\u2019t re-open closed tabs while rapidly closing tabs\r\n* Updated translations",
+        "href": "https://github.com/elementary/granite/releases/tag/5.2.5"
+      },
+      {
+        "version": "5.2.4",
+        "release_date": "2019-07-06T19:40:55",
+        "title": "Granite 5.2.4 Released",
+        "body": "Granite 5.2.4 is out!\r\n\r\nChanges:\r\n* Deprecate IconFactory\r\n* System: deprecate utilies provided by GLib\r\n* Utils: Add more keys to `accel-to-string` (Left and Right Alt, Left and Right Shift)\r\n* MessageDialog: Add the ability to set icon badges\r\n* Revert from custom Wingpanel DateTime settings schema (`io.elementary.desktop.wingpanel.datetime`) to GNOME (`org.gnome.desktop.interface`)\r\n* SimpleSettingsPage: make title and description selectable\r\n* Updated translations",
+        "href": "https://github.com/elementary/granite/releases/tag/5.2.4"
+      },
+      {
+        "version": "5.2.3",
+        "release_date": "2019-02-14T21:36:29",
+        "title": "Granite 5.2.3 Released",
+        "body": "Granite 5.2.3 is out!\r\n\r\nChanges:\r\n* Switch from CMake to Meson build system\r\n* DateTime: Strip leading spaces from time formats\r\n* Support Gdk.Key.Return for Enter markup\r\n* MessageDialog: Add show_error_expander method\r\n* Add function `history_is_enabled`\r\n* Fix typos in documentation\r\n* TimePicker: Use more compact boolean comparison syntax\r\n* Updated translations",
+        "href": "https://github.com/elementary/granite/releases/tag/5.2.3"
+      },
+      {
+        "version": "5.2.2",
+        "release_date": "2018-12-17T13:02:11",
+        "title": "Granite 5.2.2 Released",
+        "body": "Granite 5.2.2 is out!\r\n\r\nChanges:\r\n* Utils: Ignore empty accel strings\r\n* Updated translations",
+        "href": "https://github.com/elementary/granite/releases/tag/5.2.2"
+      },
+      {
+        "version": "5.2.1",
+        "release_date": "2018-11-07T19:18:54",
+        "title": "Granite 5.2.1 Released",
+        "body": "Granite 5.2.1 is out!\r\n\r\nChanges:\r\n* Utils: Make accels optional\r\n* Updated translations",
+        "href": "https://github.com/elementary/granite/releases/tag/5.2.1"
+      },
+      {
+        "version": "5.2.0",
+        "release_date": "2018-11-01T20:50:16",
+        "title": "Granite 5.2.0 Released",
+        "body": "Granite 5.2.0 is out!\r\n\r\nChanges:\r\n* Added `Granite.STYLE_CLASS_CHECKERBOARD`\r\n* Added Accel utilities:\r\n  * `accel_to_string`, takes something like \"<Super>Right\" and returns \"\u2318 + \u2192\"\r\n  * `markup_accel_tooltip`, takes a description and an accel string array and returns the markup for tooltips\r\n* DateTime: use `io.elementary.desktop.wingpanel.datetime` for settings instead of `org.gnome.desktop.interface`\r\n* Updated translations",
+        "href": "https://github.com/elementary/granite/releases/tag/5.2.0"
+      },
+      {
+        "version": "5.1.0",
+        "release_date": "2018-08-23T23:54:44",
+        "title": "Granite 5.1.0 Released",
+        "body": "Granite 5.1.0 is out!\r\n\r\nChanges:\r\n* Add Granite.ModeSwitch\r\n* Deprecate Granite.Application\r\n* SourceList: Don't propagate right click\r\n* DateTime: Add commas in date format\r\n* Improved translations",
+        "href": "https://github.com/elementary/granite/releases/tag/5.1.0"
+      },
+      {
+        "version": "5.0",
+        "release_date": "2018-06-05T07:59:34",
+        "title": "Granite 5.0 Released",
+        "body": "Granite 5.0 is out!\r\n\r\nThis list of issues closed by this release can be found [here](https://github.com/elementary/granite/issues?q=is%3Aclosed+milestone%3A5.0).",
+        "href": "https://github.com/elementary/granite/releases/tag/5.0"
+      },
+      {
+        "version": "0.5",
+        "release_date": "2017-11-02T03:08:51",
+        "title": "Granite 0.5 Released",
+        "body": "Granite 0.5 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/granite/issues?q=is%3Aclosed+milestone%3A0.5).",
+        "href": "https://github.com/elementary/granite/releases/tag/0.5"
+      },
+      {
+        "version": "0.4.1",
+        "release_date": "2017-05-07T02:08:52",
+        "title": "Granite 0.4.1 Released",
+        "body": "Granite 0.4.1 is out!\r\n\r\nA detailed change log is available [here](https://github.com/elementary/granite/milestone/1?closed=1)",
+        "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
+      }
+    ],
+    "new_commits": 1
+  },
+  {
     "name": "switchboard-plug-power",
     "releases": [
       {
@@ -248,14 +373,14 @@
         "version": "6.0-20210823",
         "release_date": "2021-08-21T21:23:39",
         "title": "6.0 Odin",
-        "body": "This ISO re-spin includes the upstream Ubuntu 20.04.3 LTS fix for booting on certain EFI hardware, including many Dell models. Fixes https://github.com/elementary/triage/issues/74.\r\n\r\n**Note:** This release will be marked as pre-release until it is validated and made available for download at [elementary.io](https://elementary.io).\r\n\r\n- [x] Build action: https://github.com/elementary/os/runs/3404077980\r\n- [x] Human validated\r\n- [ ] Website updated https://github.com/elementary/website/pull/2814\r\n- [ ] Available for download",
+        "body": "This ISO re-spin includes the upstream Ubuntu 20.04.3 LTS fix for booting on certain EFI hardware, including many Dell models. Fixes https://github.com/elementary/triage/issues/74.\r\n\r\n- [x] [Build action](https://github.com/elementary/os/runs/3404077980)\r\n- [x] Human validated\r\n- [x] [Website updated](https://github.com/elementary/website/pull/2814)\r\n- [x] [Available for download](https://elementary.io/)\r\n\r\nThe updated ISO is available at [elementary.io](https://elementary.io). The download file is named `elementaryos-6.0-stable.20210823.iso` with a SHA256 sum of `24e7ac95526d24ebab6e725078448143ae30106d96ab51c44f475c654a3e5d56 `. \r\n\r\nAs always, more info about installing (including verifying the SHA256 sum) can be found at [elementary.io/docs/installation](https://elementary.io/docs/installation). Be sure to read the [release FAQ](https://github.com/elementary/os/wiki/elementary-OS-6-Odin-FAQ).",
         "href": "https://github.com/elementary/os/releases/tag/6.0-20210823"
       },
       {
         "version": "6.0",
         "release_date": "2021-08-10T06:54:06",
         "title": "6.0 Odin",
-        "body": "**elementary OS 6 Odin Available Now.** It\u2019s finally here, and it\u2019s the biggest update to the platform yet. [Read the announcement](https://blog.elementary.io/elementary-os-6-odin-released/).\r\n\r\n---\r\n\r\n**If you are installing over a beta or previous RC image** you may encounter an error when using the \"Erase Disk and Install\" option. If the installer fails, you may need to manually delete the created partitions and try again:\r\n\r\n1. Select \"Try Installing Again\" then \"Cancel Installation\"\r\n2. Choose \"Custom Install (Advanced)\"\r\n3. Select \"Modify Partitions\u2026\" then use GParted to deactivate and delete existing partitions\r\n4. Select :heavy_check_mark: (Apply All Operations) to apply changes, then close GParted\r\n5. Select \"Back\" to go back to the \"Try or Install\" view\r\n6. Choose \"Erase Disk and Install\" to install again\r\n\r\nThis issue is being tracked at https://github.com/elementary/installer/issues/584",
+        "body": "**elementary OS 6 Odin Available Now.** It\u2019s finally here, and it\u2019s the biggest update to the platform yet. [Read the announcement](https://blog.elementary.io/elementary-os-6-odin-released/).\r\n\r\n---\r\n\r\n**If you are installing over a beta or previous RC image** you may encounter an error when using the \"Erase Disk and Install\" option. If the installer fails, you may need to manually delete the created partitions and try again:\r\n\r\n1. Select \"Try Installing Again\" then \"Cancel Installation\"\r\n2. Choose \"Custom Install (Advanced)\"\r\n3. Select \"Modify Partitions\u2026\" then use GParted to deactivate and delete existing partitions\r\n4. Select :heavy_check_mark: (Apply All Operations) to apply changes, then close GParted\r\n5. Select \"Back\" to go back to the \"Try or Install\" view\r\n6. Choose \"Erase Disk and Install\" to install again\r\n\r\nThis issue is being tracked at https://github.com/elementary/installer/issues/584\r\n\r\n---\r\n\r\nBe sure to read the [Release FAQ](https://github.com/elementary/os/wiki/elementary-OS-6-Odin-FAQ)",
         "href": "https://github.com/elementary/os/releases/tag/6.0"
       },
       {
@@ -4628,124 +4753,6 @@
     "new_commits": 2
   },
   {
-    "name": "granite",
-    "releases": [
-      {
-        "version": "6.1.0",
-        "release_date": "2021-07-13T22:02:51",
-        "title": "granite 6.1.0 Released",
-        "body": "<p>Additions:</p>\n<ul>\n<li>TRANSITION_DURATION_IN_PLACE for consistent in-place widget transformations</li>\n</ul>\n<p>Other Changes:</p>\n<ul>\n<li>accel_to_string handles accel markup without modifiers or that are only modifiers</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/granite/releases/tag/6.1.0"
-      },
-      {
-        "version": "6.0.0",
-        "release_date": "2021-03-22T23:22:21",
-        "title": "granite 6.0.0 Released",
-        "body": "<p>Additions:</p>\n<ul>\n<li>Granite.Dialog replaces Gtk.Dialog for consistent styling</li>\n<li>Granite.SwitchModelButton for use in Gtk.Popover menus</li>\n<li>Granite.ValidatedEntry for client-side verification in forms</li>\n</ul>\n<p>New Constants:</p>\n<ul>\n<li>TOOLTIP_SECONDARY_TEXT_MARKUP for smaller second line text in Gtk.Tooltips</li>\n<li>SMALL_LABEL for smaller Gtk.Labels without Pango</li>\n<li>STYLE_CLASS_WARMTH and STYLE_CLASS_TEMPERATURE for scales</li>\n<li>STYLE_CLASS_DEFAULT_DECORATION for slim headerbars</li>\n<li>TRANSITION_DURATION_OPEN and TRANSITION_DURATION_CLOSE for consistent animations</li>\n</ul>\n<p>Removals:</p>\n<ul>\n<li>Granite.Widgets.AboutDialog. Provide AppStream metadata instead.</li>\n<li>Granite.Widgets.AppMenu. Use Gtk.MenuButton instead.</li>\n</ul>\n<p>Deprecations:</p>\n<ul>\n<li>Granite.Widgets.Avatar. Use Hdy.Avatar instead</li>\n</ul>\n<p>Other Changes:</p>\n<ul>\n<li>Toasts now reset their timeout when sending a new notification and the timeout is stopped while hovering</li>\n<li>Backlash, Right Control, and Left Control are now handled by accel_to_string</li>\n<li>Make tab tooltips of DynamicNotebook settable</li>\n<li>Timepicker corrrectly fires time_changed when AM and PM buttons are selected</li>\n<li>Granite.MessageDialog now uses the messagedialog CSS name</li>\n<li>Visible child name is now properly synced in Granite.SettingsSidebar</li>\n<li>Status can be set in Granite.AbstractSettingsPage on construct</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/granite/releases/tag/6.0.0"
-      },
-      {
-        "version": "5.5.0",
-        "release_date": "2020-07-01T16:27:01",
-        "title": "granite 5.5.0 Released",
-        "body": "<p>New Style Constants:</p>\n<ul>\n<li>STYLE_CLASS_COLOR_BUTTON</li>\n<li>STYLE_CLASS_ROUNDED</li>\n</ul>\n<p>Deprecations:</p>\n<ul>\n<li>Several theming utilities. Use Gtk.CssProvider and Gtk.StyleContext instead</li>\n<li>Granite.Services.SimpleCommand. Use GLib.AppInfo.create_from_commandline instead</li>\n<li>Old unused utilities like get_button_layout_schema, get_default_close_button_position, and Granite.Services.Paths</li>\n<li>Old unused widgets like CollapsiblePaned and CompositedWindow</li>\n</ul>\n<p>Other Changes:</p>\n<ul>\n<li>Granite.SourceList now gets Gtk.STYLE_CLASS_SIDEBAR by default</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/granite/releases/tag/5.5.0"
-      },
-      {
-        "version": "5.4.0",
-        "release_date": "2020-04-29T22:16:12",
-        "title": "granite 5.4.0 Released",
-        "body": "<p>New features:</p>\n<ul>\n<li>New Settings class to share Pantheon desktop settings with apps</li>\n<li>Introduced Settings.prefers_color_scheme to get a user's color scheme preference, i.e. for a dark style</li>\n</ul>\n<p>Deprecations:</p>\n<ul>\n<li>It is now recommended to use GLib.Settings instead of Granite.Services.Settings</li>\n</ul>\n",
-        "href": "https://github.com/elementary/granite/releases/tag/5.4.0"
-      },
-      {
-        "version": "5.3.1",
-        "release_date": "2020-04-02T00:21:23",
-        "title": "granite 5.3.1 Released",
-        "body": "granite 5.3.1 is out! \n\n<p>Improvements:</p>\n<ul>\n<li>Better align labels in settings sidebars</li>\n<li>Make AccelLabel.label settable</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/granite/releases/tag/5.3.1"
-      },
-      {
-        "version": "5.3.0",
-        "release_date": "2019-12-13T19:42:03",
-        "title": "granite 5.3.0 Released",
-        "body": "granite 5.3.0 is out! \r\n\r\n<p>New features:</p>\r\n<ul>\r\n<li>Add tooltips to source list items and their actions</li>\r\n<li>New AccelLabel widget for use in menus and popovers</li>\r\n</ul>\r\n<p>Improvements:</p>\r\n<ul>\r\n<li>Delay tab resizing when closing tabs</li>\r\n<li>Updated translations</li>\r\n</ul>\r\n",
-        "href": "https://github.com/elementary/granite/releases/tag/5.3.0"
-      },
-      {
-        "version": "5.2.5",
-        "release_date": "2019-09-05T23:49:51",
-        "title": "Granite 5.2.5 Released",
-        "body": "Granite 5.2.5 is out!\r\n\r\nChanges:\r\n* meson: fix shared library path\r\n* Utils: Add equal keys to accel_to_string\r\n* Provide Badge and Progress support for an Application using same DBus API as libunity\r\n* DynamicNotebook: support `Close Tabs to the Right`\r\n* DynamicNotebook: don\u2019t re-open closed tabs while rapidly closing tabs\r\n* Updated translations",
-        "href": "https://github.com/elementary/granite/releases/tag/5.2.5"
-      },
-      {
-        "version": "5.2.4",
-        "release_date": "2019-07-06T19:40:55",
-        "title": "Granite 5.2.4 Released",
-        "body": "Granite 5.2.4 is out!\r\n\r\nChanges:\r\n* Deprecate IconFactory\r\n* System: deprecate utilies provided by GLib\r\n* Utils: Add more keys to `accel-to-string` (Left and Right Alt, Left and Right Shift)\r\n* MessageDialog: Add the ability to set icon badges\r\n* Revert from custom Wingpanel DateTime settings schema (`io.elementary.desktop.wingpanel.datetime`) to GNOME (`org.gnome.desktop.interface`)\r\n* SimpleSettingsPage: make title and description selectable\r\n* Updated translations",
-        "href": "https://github.com/elementary/granite/releases/tag/5.2.4"
-      },
-      {
-        "version": "5.2.3",
-        "release_date": "2019-02-14T21:36:29",
-        "title": "Granite 5.2.3 Released",
-        "body": "Granite 5.2.3 is out!\r\n\r\nChanges:\r\n* Switch from CMake to Meson build system\r\n* DateTime: Strip leading spaces from time formats\r\n* Support Gdk.Key.Return for Enter markup\r\n* MessageDialog: Add show_error_expander method\r\n* Add function `history_is_enabled`\r\n* Fix typos in documentation\r\n* TimePicker: Use more compact boolean comparison syntax\r\n* Updated translations",
-        "href": "https://github.com/elementary/granite/releases/tag/5.2.3"
-      },
-      {
-        "version": "5.2.2",
-        "release_date": "2018-12-17T13:02:11",
-        "title": "Granite 5.2.2 Released",
-        "body": "Granite 5.2.2 is out!\r\n\r\nChanges:\r\n* Utils: Ignore empty accel strings\r\n* Updated translations",
-        "href": "https://github.com/elementary/granite/releases/tag/5.2.2"
-      },
-      {
-        "version": "5.2.1",
-        "release_date": "2018-11-07T19:18:54",
-        "title": "Granite 5.2.1 Released",
-        "body": "Granite 5.2.1 is out!\r\n\r\nChanges:\r\n* Utils: Make accels optional\r\n* Updated translations",
-        "href": "https://github.com/elementary/granite/releases/tag/5.2.1"
-      },
-      {
-        "version": "5.2.0",
-        "release_date": "2018-11-01T20:50:16",
-        "title": "Granite 5.2.0 Released",
-        "body": "Granite 5.2.0 is out!\r\n\r\nChanges:\r\n* Added `Granite.STYLE_CLASS_CHECKERBOARD`\r\n* Added Accel utilities:\r\n  * `accel_to_string`, takes something like \"<Super>Right\" and returns \"\u2318 + \u2192\"\r\n  * `markup_accel_tooltip`, takes a description and an accel string array and returns the markup for tooltips\r\n* DateTime: use `io.elementary.desktop.wingpanel.datetime` for settings instead of `org.gnome.desktop.interface`\r\n* Updated translations",
-        "href": "https://github.com/elementary/granite/releases/tag/5.2.0"
-      },
-      {
-        "version": "5.1.0",
-        "release_date": "2018-08-23T23:54:44",
-        "title": "Granite 5.1.0 Released",
-        "body": "Granite 5.1.0 is out!\r\n\r\nChanges:\r\n* Add Granite.ModeSwitch\r\n* Deprecate Granite.Application\r\n* SourceList: Don't propagate right click\r\n* DateTime: Add commas in date format\r\n* Improved translations",
-        "href": "https://github.com/elementary/granite/releases/tag/5.1.0"
-      },
-      {
-        "version": "5.0",
-        "release_date": "2018-06-05T07:59:34",
-        "title": "Granite 5.0 Released",
-        "body": "Granite 5.0 is out!\r\n\r\nThis list of issues closed by this release can be found [here](https://github.com/elementary/granite/issues?q=is%3Aclosed+milestone%3A5.0).",
-        "href": "https://github.com/elementary/granite/releases/tag/5.0"
-      },
-      {
-        "version": "0.5",
-        "release_date": "2017-11-02T03:08:51",
-        "title": "Granite 0.5 Released",
-        "body": "Granite 0.5 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/granite/issues?q=is%3Aclosed+milestone%3A0.5).",
-        "href": "https://github.com/elementary/granite/releases/tag/0.5"
-      },
-      {
-        "version": "0.4.1",
-        "release_date": "2017-05-07T02:08:52",
-        "title": "Granite 0.4.1 Released",
-        "body": "Granite 0.4.1 is out!\r\n\r\nA detailed change log is available [here](https://github.com/elementary/granite/milestone/1?closed=1)",
-        "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
-      }
-    ],
-    "new_commits": 31
-  },
-  {
     "name": "contractor",
     "releases": [
       {
@@ -5233,7 +5240,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 3995
+    "new_commits": 3996
   },
   {
     "name": "fonts",
