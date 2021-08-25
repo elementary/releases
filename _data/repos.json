@@ -122,7 +122,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 1
+    "new_commits": 3
   },
   {
     "name": "switchboard-plug-power",
@@ -373,7 +373,7 @@
         "version": "6.0-20210823",
         "release_date": "2021-08-21T21:23:39",
         "title": "6.0 Odin",
-        "body": "This ISO re-spin includes the upstream Ubuntu 20.04.3 LTS fix for booting on certain EFI hardware, including many Dell models. Fixes https://github.com/elementary/triage/issues/74.\r\n\r\n- [x] [Build action](https://github.com/elementary/os/runs/3404077980)\r\n- [x] Human validated\r\n- [x] [Website updated](https://github.com/elementary/website/pull/2814)\r\n- [x] [Available for download](https://elementary.io/)\r\n\r\nThe updated ISO is available at [elementary.io](https://elementary.io). The download file is named `elementaryos-6.0-stable.20210823.iso` with a SHA256 sum of `24e7ac95526d24ebab6e725078448143ae30106d96ab51c44f475c654a3e5d56 `. \r\n\r\nAs always, more info about installing (including verifying the SHA256 sum) can be found at [elementary.io/docs/installation](https://elementary.io/docs/installation). Be sure to read the [release FAQ](https://github.com/elementary/os/wiki/elementary-OS-6-Odin-FAQ).",
+        "body": "This ISO re-spin includes the upstream Ubuntu 20.04.3 LTS fix for booting on certain EFI hardware, including many Dell models. Fixes https://github.com/elementary/triage/issues/74.\r\n\r\n- [x] [Build action](https://github.com/elementary/os/runs/3404077980)\r\n- [x] Human validated\r\n- [x] [Website updated](https://github.com/elementary/website/pull/2814)\r\n- [x] [Available for download](https://elementary.io/)\r\n\r\nThe updated ISO is available at [elementary.io](https://elementary.io). The download file is named `elementaryos-6.0-stable.20210823.iso` with a SHA256 sum of `24e7ac95526d24ebab6e725078448143ae30106d96ab51c44f475c654a3e5d56`. \r\n\r\nAs always, more info about installing (including verifying the SHA256 sum) can be found at [elementary.io/docs/installation](https://elementary.io/docs/installation). Be sure to read the [release FAQ](https://github.com/elementary/os/wiki/elementary-OS-6-Odin-FAQ).",
         "href": "https://github.com/elementary/os/releases/tag/6.0-20210823"
       },
       {
@@ -903,7 +903,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 35
+    "new_commits": 42
   },
   {
     "name": "tasks",
@@ -2914,7 +2914,7 @@
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
       }
     ],
-    "new_commits": 54
+    "new_commits": 57
   },
   {
     "name": "switchboard-plug-security-privacy",
