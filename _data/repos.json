@@ -73,7 +73,7 @@
         "href": "https://github.com/elementary/switchboard-plug-power/releases/tag/0.3.1"
       }
     ],
-    "new_commits": 3
+    "new_commits": 4
   },
   {
     "name": "switchboard-plug-about",
@@ -805,7 +805,7 @@
         "href": "https://github.com/elementary/tasks/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 44
+    "new_commits": 45
   },
   {
     "name": "calculator",
