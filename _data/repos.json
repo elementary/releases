@@ -1,5 +1,269 @@
 [
   {
+    "name": "sideload",
+    "releases": [
+      {
+        "version": "6.0.1",
+        "release_date": "2021-08-26T02:19:48",
+        "title": "sideload 6.0.1 Released",
+        "body": "<ul>\n<li>Use system Flatpak runtimes for locally installed apps</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/sideload/releases/tag/6.0.1"
+      },
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-15T18:20:30",
+        "title": "sideload 6.0.0 Released",
+        "body": "<ul>\n<li>Control notifications in System Settings</li>\n<li>Offer to trash Flatpak files after installing</li>\n<li>Support dark style</li>\n<li>Support Flatpak bundle files</li>\n<li>Fix crashes on installation failure</li>\n<li>Updated translations</li>\n<li>Link to System Settings \u2192 Applications \u2192 Permissions</li>\n</ul>\n",
+        "href": "https://github.com/elementary/sideload/releases/tag/6.0.0"
+      },
+      {
+        "version": "1.1.1",
+        "release_date": "2020-05-28T23:39:24",
+        "title": "sideload 1.1.1 Released",
+        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/sideload/releases/tag/1.1.1"
+      },
+      {
+        "version": "1.1.0",
+        "release_date": "2020-04-01T20:05:38",
+        "title": "sideload 1.1.0 Released",
+        "body": "sideload 1.1.0 is out! \n\n<ul>\n<li>Show app name in the main view once it's loaded</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/sideload/releases/tag/1.1.0"
+      },
+      {
+        "version": "1.0.1",
+        "release_date": "2020-02-26T06:40:15",
+        "title": "sideload 1.0.1 Released",
+        "body": "sideload 1.0.1 is out! \n\n<ul>\n<li>Improve performance of download size calculation</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/sideload/releases/tag/1.0.1"
+      },
+      {
+        "version": "1.0.0",
+        "release_date": "2019-10-29T19:57:23",
+        "title": "sideload 1.0.0 Released",
+        "body": "sideload 1.0.0 is out! \n\nChanges:\n\n* First release. Hello world!\n",
+        "href": "https://github.com/elementary/sideload/releases/tag/1.0.0"
+      }
+    ],
+    "new_commits": 0
+  },
+  {
+    "name": "appcenter",
+    "releases": [
+      {
+        "version": "3.7.0",
+        "release_date": "2021-08-26T02:19:00",
+        "title": "appcenter 3.7.0 Released",
+        "body": "<p>Fixes:</p>\n<ul>\n<li>Install Linux kernel headers for device drivers that use DKMS</li>\n<li>Use system Flatpak runtimes for locally installed apps</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Mention Sideload when search returns no results</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.7.0"
+      },
+      {
+        "version": "3.6.3",
+        "release_date": "2021-08-16T06:39:23",
+        "title": "appcenter 3.6.3 Released",
+        "body": "<p>Fixes:</p>\n<ul>\n<li>Ensure user installation is selected by default when navigating from the homepage</li>\n<li>Fix opening apps from app installed toasts</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.6.3"
+      },
+      {
+        "version": "3.6.2",
+        "release_date": "2021-08-09T18:08:10",
+        "title": "appcenter 3.6.2 Released",
+        "body": "<p>Fixes:</p>\n<ul>\n<li>Install Linux kernel headers with NVIDIA drivers</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.6.2"
+      },
+      {
+        "version": "3.6.1",
+        "release_date": "2021-08-03T00:31:07",
+        "title": "appcenter 3.6.1 Released",
+        "body": "<p>Fixes:</p>\n<ul>\n<li>Show Recently Updated Flatpak apps on home page</li>\n<li>Show brand colors and support payments for Flatpak apps</li>\n<li>Fix missing mail icon in payments dialog</li>\n<li>Fix missing privacy policy in payments dialog</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.6.1"
+      },
+      {
+        "version": "3.6.0",
+        "release_date": "2021-07-16T19:00:21",
+        "title": "appcenter 3.6.0 Released",
+        "body": "<p>New features:</p>\n<ul>\n<li>Show in-app notification when an app is installed</li>\n<li>Add contextual badges to notifications</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Ensure Home button is usable during search</li>\n<li>Ask the user to manually restart if we can't ask the session to prompt</li>\n<li>Improve styling and contrast of buttons</li>\n<li>More concise and consistent language</li>\n<li>Updated translations</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Fully uninstall Flatpaks, including locales</li>\n<li>Still fetch screenshots from remotes that don't include proper headers</li>\n<li>Fix truncated footer buttons</li>\n<li>Only show Mail button when a usable mail app is installed</li>\n<li>Fix some apps incorrectly showing as not installed during search</li>\n<li>Show an error dialog when opening an app fails</li>\n</ul>\n",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.6.0"
+      },
+      {
+        "version": "3.5.1",
+        "release_date": "2020-10-08T17:26:39",
+        "title": "appcenter 3.5.1 Released",
+        "body": "<p>Fixes</p>\n<ul>\n<li>Correctly display names of Flatpak runtime updates</li>\n</ul>\n<p>Minor updates</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.5.1"
+      },
+      {
+        "version": "3.5.0",
+        "release_date": "2020-10-07T03:57:49",
+        "title": "appcenter 3.5.0 Released",
+        "body": "<p>New features</p>\n<ul>\n<li>Support system-wide Flatpak remotes</li>\n</ul>\n<p>Fixes</p>\n<ul>\n<li>Fix Flatpak runtime updates getting stuck</li>\n<li>Fix long origin comboboxes breaking the header layout</li>\n</ul>\n<p>Minor updates</p>\n<ul>\n<li>When apps are available from multiple sources, prefer installed version, then prefer Flatpak</li>\n<li>Improve search performance</li>\n<li>Improve update badge styling and category styling</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.5.0"
+      },
+      {
+        "version": "3.4.2",
+        "release_date": "2020-08-07T17:40:17",
+        "title": "appcenter 3.4.2 Released",
+        "body": "<p>Fixes</p>\n<ul>\n<li>Ensure AppCenter is reopened at the correct position</li>\n<li>Clicking the updates badge in the header navigates to the updates view</li>\n</ul>\n<p>Minor updates</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.4.2"
+      },
+      {
+        "version": "3.4.1",
+        "release_date": "2020-06-30T23:55:36",
+        "title": "appcenter 3.4.1 Released",
+        "body": "<p>Fixes</p>\n<ul>\n<li>Ensure all updatable Flatpak runtimes are listed for update</li>\n</ul>\n<p>Minor updates</p>\n<ul>\n<li>Performance improvments</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.4.1"
+      },
+      {
+        "version": "3.4.0",
+        "release_date": "2020-05-28T18:09:17",
+        "title": "appcenter 3.4.0 Released",
+        "body": "<p>New features</p>\n<ul>\n<li>Perform updates without administrator permissions</li>\n</ul>\n<p>Minor updates</p>\n<ul>\n<li>Ensure apps on the homepage are more reliably displayed</li>\n<li>More reliably set the Dock badge number</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.4.0"
+      },
+      {
+        "version": "3.3.0",
+        "release_date": "2020-04-29T21:46:10",
+        "title": "appcenter 3.3.0 Released",
+        "body": "<p>Performance improvements</p>\n<ul>\n<li>Only check for updates at device startup if it's more than 24 hours since we last checked</li>\n<li>Reduce slowdowns when opening certain apps</li>\n</ul>\n<p>Extension improvements</p>\n<ul>\n<li>To de-clutter the updates view, extensions are now only shown if they require updates</li>\n<li>Clicking an extension on an app's info page now shows details for the extension</li>\n<li>Swap the main and overlay icons for extensions to more clearly associate extensions with their app</li>\n</ul>\n<p>Keyboard improvements</p>\n<ul>\n<li>Pressing down in the search field moves the keyboard focus to the search results list</li>\n<li>Ctrl+F now moves the cursor to the search field</li>\n</ul>\n<p>Fixes</p>\n<ul>\n<li>Use configured network proxy settings for apt operations</li>\n<li>No longer prompt for approval to update non-curated apps</li>\n<li>Ensure the OS updates subheading copy is correct after finishing updates</li>\n<li>Ellipsize long app names in App Info views</li>\n</ul>\n<p>And more</p>\n<ul>\n<li>Show a more informative loading screen when checking for updates</li>\n<li>Don't list fonts alongside apps</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.3.0"
+      },
+      {
+        "version": "3.2.4",
+        "release_date": "2020-04-08T23:32:02",
+        "title": "appcenter 3.2.4 Released",
+        "body": "<p>Fixes</p>\n<ul>\n<li>Prevent crashes when updating Flatpaks and system packages simultaneously</li>\n<li>Prevent suspending when installing, updating, or removing packages</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.2.4"
+      },
+      {
+        "version": "3.2.3",
+        "release_date": "2020-04-02T00:19:54",
+        "title": "appcenter 3.2.3 Released",
+        "body": "appcenter 3.2.3 is out! \n\n<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.2.3"
+      },
+      {
+        "version": "3.2.2",
+        "release_date": "2020-02-28T20:49:46",
+        "title": "appcenter 3.2.2 Released",
+        "body": "appcenter 3.2.2 is out! \n\n<p>Minor fixes</p>\n<ul>\n<li>Update application details when changes happen outside of AppCenter</li>\n<li>Fix for notification not appearing when a restart is required</li>\n<li>Apps in list views now load in the correct order when scrolling</li>\n<li>Prevent unescaped XML entities from appearing in application names</li>\n<li>Load the \"Installed\" view faster</li>\n<li>Ensure flatpak applications show in the category views</li>\n<li>Save some bandwidth by downloading smaller screenshots where appropriate</li>\n<li>System components no longer have an \"Open\" button</li>\n<li>Applications menu can now remove flatpaks that weren't installed by AppCenter</li>\n<li>Make download size estimates more accurate</li>\n</ul>\n",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.2.2"
+      },
+      {
+        "version": "3.2.1",
+        "release_date": "2019-12-02T17:54:05",
+        "title": "appcenter 3.2.1 Released",
+        "body": "appcenter 3.2.1 is out! \n\n<p>Minor fixes</p>\n<ul>\n<li>Prevent AppCenter from opening on log in</li>\n<li>Prevent ghost update notification when there are no updates available</li>\n<li>Show correct installation state for extensions</li>\n</ul>\n",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.2.1"
+      },
+      {
+        "version": "3.2.0",
+        "release_date": "2019-10-31T16:05:57",
+        "title": "appcenter 3.2.0 Released",
+        "body": "appcenter 3.2.0 is out! \n\nChanges:\n\n* Add support for Flatpak apps\n* Warn about non-curated apps\n* Show an error dialog if an installation fails\n* Fix an issue where some apps couldn't be uninstalled from the Applications Menu\n* Allow browsing and uninstalling apps while offline\n* Fix twitter share URLs\n* Drop Google+ from the share menu\n* Animate screenshot background while loading\n* Add navigation arrows for screenshots\n* Don't show uninstall buttons for essential system components\n* Properly display proprietary licenses\n* Fix some layout issues\n* Fix crashes\n* Performance improvements\n* Updated translations\n",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.2.0"
+      },
+      {
+        "version": "3.1.1",
+        "release_date": "2019-02-15T00:56:08",
+        "title": "AppCenter 3.1.1 Released",
+        "body": "AppCenter 3.1.1 is out!\r\n\r\nChanges:\r\n* Meson build system fixes\r\n* Improve window state restoration\r\n* Prevent action buttons from jumping around\r\n* Remove reset paid apps gsettings key\r\n* Memory management refinements\r\n* Add conditional compilation for disabling dynamic remote homepage content\r\n* Updated translations",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.1.1"
+      },
+      {
+        "version": "3.1.0",
+        "release_date": "2019-01-02T07:14:19",
+        "title": "AppCenter 3.1.0 Released",
+        "body": "AppCenter 3.1.0 is out!\r\n\r\nChanges:\r\n* New categories: `Communication`, `Finance`, `Media Production`\r\n* Add `Math` to `Science` category\r\n* Relax email address validator\r\n* Present update availability more accurately\r\n* Category graphics revamped\r\n* Updated translations",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.1.0"
+      },
+      {
+        "version": "3.0.1",
+        "release_date": "2018-10-25T11:44:28",
+        "title": "AppCenter 3.0.1 Released",
+        "body": "AppCenter 3.0.1 is out!\r\n\r\nThis release includes updated translations.",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.0.1"
+      },
+      {
+        "version": "3.0",
+        "release_date": "2018-10-16T10:33:33",
+        "title": "AppCenter 3.0 Released",
+        "body": "AppCenter 3.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/appcenter/issues?q=is%3Aclosed+milestone%3A3.0).",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.0"
+      },
+      {
+        "version": "0.2.9",
+        "release_date": "2018-03-02T12:24:42",
+        "title": "AppCenter 0.2.9 Released",
+        "body": "AppCenter 0.2.9 is out!\r\n\r\nThis release includes several [bug fixes](https://github.com/elementary/appcenter/issues?q=is%3Aclosed+milestone%3A0.2.9).",
+        "href": "https://github.com/elementary/appcenter/releases/tag/0.2.9"
+      },
+      {
+        "version": "0.2.8",
+        "release_date": "2018-01-25T17:00:38",
+        "title": "AppCenter 0.2.8 Released",
+        "body": "AppCenter 0.2.8 is out!\r\n\r\nThis release includes several [bug fixes](https://github.com/elementary/appcenter/issues?q=is%3Aclosed+milestone%3A0.2.8).",
+        "href": "https://github.com/elementary/appcenter/releases/tag/0.2.8"
+      },
+      {
+        "version": "0.2.7",
+        "release_date": "2017-11-07T12:18:38",
+        "title": "AppCenter 0.2.7 Released",
+        "body": "AppCenter 0.2.7 is out!\r\n\r\nThis release includes several [bug fixes](https://github.com/elementary/appcenter/issues?q=is%3Aclosed+milestone%3A0.2.7).",
+        "href": "https://github.com/elementary/appcenter/releases/tag/0.2.7"
+      },
+      {
+        "version": "0.2.6",
+        "release_date": "2017-09-18T12:01:32",
+        "title": "AppCenter 0.2.6 Released",
+        "body": "AppCenter 0.2.6 is out!\r\n\r\nThis release includes several [bug fixes](https://github.com/elementary/appcenter/issues?q=is%3Aclosed+milestone%3A0.2.6).",
+        "href": "https://github.com/elementary/appcenter/releases/tag/0.2.6"
+      },
+      {
+        "version": "0.2.5",
+        "release_date": "2017-08-04T11:08:14",
+        "title": "AppCenter 0.2.5 Released",
+        "body": "AppCenter 0.2.5 is out!\r\n\r\nThis release includes several [bug fixes](https://github.com/elementary/appcenter/milestone/7?closed=1).",
+        "href": "https://github.com/elementary/appcenter/releases/tag/0.2.5"
+      },
+      {
+        "version": "0.2.4",
+        "release_date": "2017-07-04T07:12:53",
+        "title": "AppCenter 0.2.4 Released",
+        "body": "AppCenter 0.2.4 is out!\r\n\r\nThis release includes several [bug fixes](https://github.com/elementary/appcenter/milestone/6?closed=1).",
+        "href": "https://github.com/elementary/appcenter/releases/tag/0.2.4"
+      },
+      {
+        "version": "0.2.3",
+        "release_date": "2017-05-31T22:15:24",
+        "title": "AppCenter 0.2.3 Released",
+        "body": "AppCenter 0.2.3 is out!\r\n\r\nThis release includes several [bug fixes](https://github.com/elementary/appcenter/milestone/5?closed=1).",
+        "href": "https://github.com/elementary/appcenter/releases/tag/0.2.3"
+      },
+      {
+        "version": "0.2.2",
+        "release_date": "2017-05-21T23:17:29",
+        "title": "AppCenter 0.2.2 Released",
+        "body": "AppCenter 0.2.2 is out!",
+        "href": "https://github.com/elementary/appcenter/releases/tag/0.2.2"
+      },
+      {
+        "version": "0.2.1",
+        "release_date": "2017-05-19T19:37:42",
+        "title": "AppCenter 0.2.1 Released",
+        "body": "AppCenter 0.2.1 is out!",
+        "href": "https://github.com/elementary/appcenter/releases/tag/0.2.1"
+      },
+      {
+        "version": "0.2",
+        "release_date": "2017-05-17T11:35:13",
+        "title": "AppCenter 0.2 Released",
+        "body": "AppCenter 0.2 is out!\r\n\r\nThis release includes several [bug fixes](https://github.com/elementary/appcenter/milestone/1?closed=1)",
+        "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
+      }
+    ],
+    "new_commits": 0
+  },
+  {
     "name": "installer",
     "releases": [
       {
@@ -72,7 +336,7 @@
         "href": "https://github.com/elementary/initial-setup/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 0
+    "new_commits": 1
   },
   {
     "name": "wingpanel-indicator-bluetooth",
@@ -778,215 +1042,6 @@
       }
     ],
     "new_commits": 0
-  },
-  {
-    "name": "appcenter",
-    "releases": [
-      {
-        "version": "3.6.3",
-        "release_date": "2021-08-16T06:39:23",
-        "title": "appcenter 3.6.3 Released",
-        "body": "<p>Fixes:</p>\n<ul>\n<li>Ensure user installation is selected by default when navigating from the homepage</li>\n<li>Fix opening apps from app installed toasts</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.6.3"
-      },
-      {
-        "version": "3.6.2",
-        "release_date": "2021-08-09T18:08:10",
-        "title": "appcenter 3.6.2 Released",
-        "body": "<p>Fixes:</p>\n<ul>\n<li>Install Linux kernel headers with NVIDIA drivers</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.6.2"
-      },
-      {
-        "version": "3.6.1",
-        "release_date": "2021-08-03T00:31:07",
-        "title": "appcenter 3.6.1 Released",
-        "body": "<p>Fixes:</p>\n<ul>\n<li>Show Recently Updated Flatpak apps on home page</li>\n<li>Show brand colors and support payments for Flatpak apps</li>\n<li>Fix missing mail icon in payments dialog</li>\n<li>Fix missing privacy policy in payments dialog</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.6.1"
-      },
-      {
-        "version": "3.6.0",
-        "release_date": "2021-07-16T19:00:21",
-        "title": "appcenter 3.6.0 Released",
-        "body": "<p>New features:</p>\n<ul>\n<li>Show in-app notification when an app is installed</li>\n<li>Add contextual badges to notifications</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Ensure Home button is usable during search</li>\n<li>Ask the user to manually restart if we can't ask the session to prompt</li>\n<li>Improve styling and contrast of buttons</li>\n<li>More concise and consistent language</li>\n<li>Updated translations</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Fully uninstall Flatpaks, including locales</li>\n<li>Still fetch screenshots from remotes that don't include proper headers</li>\n<li>Fix truncated footer buttons</li>\n<li>Only show Mail button when a usable mail app is installed</li>\n<li>Fix some apps incorrectly showing as not installed during search</li>\n<li>Show an error dialog when opening an app fails</li>\n</ul>\n",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.6.0"
-      },
-      {
-        "version": "3.5.1",
-        "release_date": "2020-10-08T17:26:39",
-        "title": "appcenter 3.5.1 Released",
-        "body": "<p>Fixes</p>\n<ul>\n<li>Correctly display names of Flatpak runtime updates</li>\n</ul>\n<p>Minor updates</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.5.1"
-      },
-      {
-        "version": "3.5.0",
-        "release_date": "2020-10-07T03:57:49",
-        "title": "appcenter 3.5.0 Released",
-        "body": "<p>New features</p>\n<ul>\n<li>Support system-wide Flatpak remotes</li>\n</ul>\n<p>Fixes</p>\n<ul>\n<li>Fix Flatpak runtime updates getting stuck</li>\n<li>Fix long origin comboboxes breaking the header layout</li>\n</ul>\n<p>Minor updates</p>\n<ul>\n<li>When apps are available from multiple sources, prefer installed version, then prefer Flatpak</li>\n<li>Improve search performance</li>\n<li>Improve update badge styling and category styling</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.5.0"
-      },
-      {
-        "version": "3.4.2",
-        "release_date": "2020-08-07T17:40:17",
-        "title": "appcenter 3.4.2 Released",
-        "body": "<p>Fixes</p>\n<ul>\n<li>Ensure AppCenter is reopened at the correct position</li>\n<li>Clicking the updates badge in the header navigates to the updates view</li>\n</ul>\n<p>Minor updates</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.4.2"
-      },
-      {
-        "version": "3.4.1",
-        "release_date": "2020-06-30T23:55:36",
-        "title": "appcenter 3.4.1 Released",
-        "body": "<p>Fixes</p>\n<ul>\n<li>Ensure all updatable Flatpak runtimes are listed for update</li>\n</ul>\n<p>Minor updates</p>\n<ul>\n<li>Performance improvments</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.4.1"
-      },
-      {
-        "version": "3.4.0",
-        "release_date": "2020-05-28T18:09:17",
-        "title": "appcenter 3.4.0 Released",
-        "body": "<p>New features</p>\n<ul>\n<li>Perform updates without administrator permissions</li>\n</ul>\n<p>Minor updates</p>\n<ul>\n<li>Ensure apps on the homepage are more reliably displayed</li>\n<li>More reliably set the Dock badge number</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.4.0"
-      },
-      {
-        "version": "3.3.0",
-        "release_date": "2020-04-29T21:46:10",
-        "title": "appcenter 3.3.0 Released",
-        "body": "<p>Performance improvements</p>\n<ul>\n<li>Only check for updates at device startup if it's more than 24 hours since we last checked</li>\n<li>Reduce slowdowns when opening certain apps</li>\n</ul>\n<p>Extension improvements</p>\n<ul>\n<li>To de-clutter the updates view, extensions are now only shown if they require updates</li>\n<li>Clicking an extension on an app's info page now shows details for the extension</li>\n<li>Swap the main and overlay icons for extensions to more clearly associate extensions with their app</li>\n</ul>\n<p>Keyboard improvements</p>\n<ul>\n<li>Pressing down in the search field moves the keyboard focus to the search results list</li>\n<li>Ctrl+F now moves the cursor to the search field</li>\n</ul>\n<p>Fixes</p>\n<ul>\n<li>Use configured network proxy settings for apt operations</li>\n<li>No longer prompt for approval to update non-curated apps</li>\n<li>Ensure the OS updates subheading copy is correct after finishing updates</li>\n<li>Ellipsize long app names in App Info views</li>\n</ul>\n<p>And more</p>\n<ul>\n<li>Show a more informative loading screen when checking for updates</li>\n<li>Don't list fonts alongside apps</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.3.0"
-      },
-      {
-        "version": "3.2.4",
-        "release_date": "2020-04-08T23:32:02",
-        "title": "appcenter 3.2.4 Released",
-        "body": "<p>Fixes</p>\n<ul>\n<li>Prevent crashes when updating Flatpaks and system packages simultaneously</li>\n<li>Prevent suspending when installing, updating, or removing packages</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.2.4"
-      },
-      {
-        "version": "3.2.3",
-        "release_date": "2020-04-02T00:19:54",
-        "title": "appcenter 3.2.3 Released",
-        "body": "appcenter 3.2.3 is out! \n\n<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.2.3"
-      },
-      {
-        "version": "3.2.2",
-        "release_date": "2020-02-28T20:49:46",
-        "title": "appcenter 3.2.2 Released",
-        "body": "appcenter 3.2.2 is out! \n\n<p>Minor fixes</p>\n<ul>\n<li>Update application details when changes happen outside of AppCenter</li>\n<li>Fix for notification not appearing when a restart is required</li>\n<li>Apps in list views now load in the correct order when scrolling</li>\n<li>Prevent unescaped XML entities from appearing in application names</li>\n<li>Load the \"Installed\" view faster</li>\n<li>Ensure flatpak applications show in the category views</li>\n<li>Save some bandwidth by downloading smaller screenshots where appropriate</li>\n<li>System components no longer have an \"Open\" button</li>\n<li>Applications menu can now remove flatpaks that weren't installed by AppCenter</li>\n<li>Make download size estimates more accurate</li>\n</ul>\n",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.2.2"
-      },
-      {
-        "version": "3.2.1",
-        "release_date": "2019-12-02T17:54:05",
-        "title": "appcenter 3.2.1 Released",
-        "body": "appcenter 3.2.1 is out! \n\n<p>Minor fixes</p>\n<ul>\n<li>Prevent AppCenter from opening on log in</li>\n<li>Prevent ghost update notification when there are no updates available</li>\n<li>Show correct installation state for extensions</li>\n</ul>\n",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.2.1"
-      },
-      {
-        "version": "3.2.0",
-        "release_date": "2019-10-31T16:05:57",
-        "title": "appcenter 3.2.0 Released",
-        "body": "appcenter 3.2.0 is out! \n\nChanges:\n\n* Add support for Flatpak apps\n* Warn about non-curated apps\n* Show an error dialog if an installation fails\n* Fix an issue where some apps couldn't be uninstalled from the Applications Menu\n* Allow browsing and uninstalling apps while offline\n* Fix twitter share URLs\n* Drop Google+ from the share menu\n* Animate screenshot background while loading\n* Add navigation arrows for screenshots\n* Don't show uninstall buttons for essential system components\n* Properly display proprietary licenses\n* Fix some layout issues\n* Fix crashes\n* Performance improvements\n* Updated translations\n",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.2.0"
-      },
-      {
-        "version": "3.1.1",
-        "release_date": "2019-02-15T00:56:08",
-        "title": "AppCenter 3.1.1 Released",
-        "body": "AppCenter 3.1.1 is out!\r\n\r\nChanges:\r\n* Meson build system fixes\r\n* Improve window state restoration\r\n* Prevent action buttons from jumping around\r\n* Remove reset paid apps gsettings key\r\n* Memory management refinements\r\n* Add conditional compilation for disabling dynamic remote homepage content\r\n* Updated translations",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.1.1"
-      },
-      {
-        "version": "3.1.0",
-        "release_date": "2019-01-02T07:14:19",
-        "title": "AppCenter 3.1.0 Released",
-        "body": "AppCenter 3.1.0 is out!\r\n\r\nChanges:\r\n* New categories: `Communication`, `Finance`, `Media Production`\r\n* Add `Math` to `Science` category\r\n* Relax email address validator\r\n* Present update availability more accurately\r\n* Category graphics revamped\r\n* Updated translations",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.1.0"
-      },
-      {
-        "version": "3.0.1",
-        "release_date": "2018-10-25T11:44:28",
-        "title": "AppCenter 3.0.1 Released",
-        "body": "AppCenter 3.0.1 is out!\r\n\r\nThis release includes updated translations.",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.0.1"
-      },
-      {
-        "version": "3.0",
-        "release_date": "2018-10-16T10:33:33",
-        "title": "AppCenter 3.0 Released",
-        "body": "AppCenter 3.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/appcenter/issues?q=is%3Aclosed+milestone%3A3.0).",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.0"
-      },
-      {
-        "version": "0.2.9",
-        "release_date": "2018-03-02T12:24:42",
-        "title": "AppCenter 0.2.9 Released",
-        "body": "AppCenter 0.2.9 is out!\r\n\r\nThis release includes several [bug fixes](https://github.com/elementary/appcenter/issues?q=is%3Aclosed+milestone%3A0.2.9).",
-        "href": "https://github.com/elementary/appcenter/releases/tag/0.2.9"
-      },
-      {
-        "version": "0.2.8",
-        "release_date": "2018-01-25T17:00:38",
-        "title": "AppCenter 0.2.8 Released",
-        "body": "AppCenter 0.2.8 is out!\r\n\r\nThis release includes several [bug fixes](https://github.com/elementary/appcenter/issues?q=is%3Aclosed+milestone%3A0.2.8).",
-        "href": "https://github.com/elementary/appcenter/releases/tag/0.2.8"
-      },
-      {
-        "version": "0.2.7",
-        "release_date": "2017-11-07T12:18:38",
-        "title": "AppCenter 0.2.7 Released",
-        "body": "AppCenter 0.2.7 is out!\r\n\r\nThis release includes several [bug fixes](https://github.com/elementary/appcenter/issues?q=is%3Aclosed+milestone%3A0.2.7).",
-        "href": "https://github.com/elementary/appcenter/releases/tag/0.2.7"
-      },
-      {
-        "version": "0.2.6",
-        "release_date": "2017-09-18T12:01:32",
-        "title": "AppCenter 0.2.6 Released",
-        "body": "AppCenter 0.2.6 is out!\r\n\r\nThis release includes several [bug fixes](https://github.com/elementary/appcenter/issues?q=is%3Aclosed+milestone%3A0.2.6).",
-        "href": "https://github.com/elementary/appcenter/releases/tag/0.2.6"
-      },
-      {
-        "version": "0.2.5",
-        "release_date": "2017-08-04T11:08:14",
-        "title": "AppCenter 0.2.5 Released",
-        "body": "AppCenter 0.2.5 is out!\r\n\r\nThis release includes several [bug fixes](https://github.com/elementary/appcenter/milestone/7?closed=1).",
-        "href": "https://github.com/elementary/appcenter/releases/tag/0.2.5"
-      },
-      {
-        "version": "0.2.4",
-        "release_date": "2017-07-04T07:12:53",
-        "title": "AppCenter 0.2.4 Released",
-        "body": "AppCenter 0.2.4 is out!\r\n\r\nThis release includes several [bug fixes](https://github.com/elementary/appcenter/milestone/6?closed=1).",
-        "href": "https://github.com/elementary/appcenter/releases/tag/0.2.4"
-      },
-      {
-        "version": "0.2.3",
-        "release_date": "2017-05-31T22:15:24",
-        "title": "AppCenter 0.2.3 Released",
-        "body": "AppCenter 0.2.3 is out!\r\n\r\nThis release includes several [bug fixes](https://github.com/elementary/appcenter/milestone/5?closed=1).",
-        "href": "https://github.com/elementary/appcenter/releases/tag/0.2.3"
-      },
-      {
-        "version": "0.2.2",
-        "release_date": "2017-05-21T23:17:29",
-        "title": "AppCenter 0.2.2 Released",
-        "body": "AppCenter 0.2.2 is out!",
-        "href": "https://github.com/elementary/appcenter/releases/tag/0.2.2"
-      },
-      {
-        "version": "0.2.1",
-        "release_date": "2017-05-19T19:37:42",
-        "title": "AppCenter 0.2.1 Released",
-        "body": "AppCenter 0.2.1 is out!",
-        "href": "https://github.com/elementary/appcenter/releases/tag/0.2.1"
-      },
-      {
-        "version": "0.2",
-        "release_date": "2017-05-17T11:35:13",
-        "title": "AppCenter 0.2 Released",
-        "body": "AppCenter 0.2 is out!\r\n\r\nThis release includes several [bug fixes](https://github.com/elementary/appcenter/milestone/1?closed=1)",
-        "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
-      }
-    ],
-    "new_commits": 52
   },
   {
     "name": "gala",
@@ -2869,47 +2924,6 @@
     "new_commits": 2
   },
   {
-    "name": "sideload",
-    "releases": [
-      {
-        "version": "6.0.0",
-        "release_date": "2021-07-15T18:20:30",
-        "title": "sideload 6.0.0 Released",
-        "body": "<ul>\n<li>Control notifications in System Settings</li>\n<li>Offer to trash Flatpak files after installing</li>\n<li>Support dark style</li>\n<li>Support Flatpak bundle files</li>\n<li>Fix crashes on installation failure</li>\n<li>Updated translations</li>\n<li>Link to System Settings \u2192 Applications \u2192 Permissions</li>\n</ul>\n",
-        "href": "https://github.com/elementary/sideload/releases/tag/6.0.0"
-      },
-      {
-        "version": "1.1.1",
-        "release_date": "2020-05-28T23:39:24",
-        "title": "sideload 1.1.1 Released",
-        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/sideload/releases/tag/1.1.1"
-      },
-      {
-        "version": "1.1.0",
-        "release_date": "2020-04-01T20:05:38",
-        "title": "sideload 1.1.0 Released",
-        "body": "sideload 1.1.0 is out! \n\n<ul>\n<li>Show app name in the main view once it's loaded</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/sideload/releases/tag/1.1.0"
-      },
-      {
-        "version": "1.0.1",
-        "release_date": "2020-02-26T06:40:15",
-        "title": "sideload 1.0.1 Released",
-        "body": "sideload 1.0.1 is out! \n\n<ul>\n<li>Improve performance of download size calculation</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/sideload/releases/tag/1.0.1"
-      },
-      {
-        "version": "1.0.0",
-        "release_date": "2019-10-29T19:57:23",
-        "title": "sideload 1.0.0 Released",
-        "body": "sideload 1.0.0 is out! \n\nChanges:\n\n* First release. Hello world!\n",
-        "href": "https://github.com/elementary/sideload/releases/tag/1.0.0"
-      }
-    ],
-    "new_commits": 60
-  },
-  {
     "name": "applications-menu",
     "releases": [
       {
@@ -3342,7 +3356,7 @@
         "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 42
+    "new_commits": 43
   },
   {
     "name": "switchboard-plug-notifications",
