@@ -544,7 +544,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 11
+    "new_commits": 12
   },
   {
     "name": "switchboard-plug-power",
@@ -1089,7 +1089,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 49
+    "new_commits": 51
   },
   {
     "name": "tasks",
@@ -1116,7 +1116,7 @@
         "href": "https://github.com/elementary/tasks/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 45
+    "new_commits": 49
   },
   {
     "name": "calculator",
@@ -1736,7 +1736,7 @@
         "href": "https://github.com/elementary/calendar/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 42
+    "new_commits": 43
   },
   {
     "name": "screenshot",
