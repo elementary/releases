@@ -419,7 +419,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 3
+    "new_commits": 5
   },
   {
     "name": "granite",
@@ -1089,7 +1089,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 47
+    "new_commits": 48
   },
   {
     "name": "tasks",
@@ -3025,7 +3025,7 @@
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
       }
     ],
-    "new_commits": 59
+    "new_commits": 64
   },
   {
     "name": "switchboard-plug-security-privacy",
