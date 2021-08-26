@@ -295,7 +295,7 @@
         "href": "https://github.com/elementary/installer/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 4
+    "new_commits": 14
   },
   {
     "name": "initial-setup",
@@ -336,7 +336,7 @@
         "href": "https://github.com/elementary/initial-setup/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 4
+    "new_commits": 8
   },
   {
     "name": "wingpanel-indicator-bluetooth",
@@ -1359,7 +1359,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 182
+    "new_commits": 184
   },
   {
     "name": "switchboard-plug-onlineaccounts",
@@ -2319,7 +2319,7 @@
         "href": "https://github.com/elementary/switchboard-plug-datetime/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 30
+    "new_commits": 31
   },
   {
     "name": "icons",
@@ -3956,7 +3956,7 @@
         "href": "https://github.com/elementary/onboarding/releases/tag/1.0"
       }
     ],
-    "new_commits": 83
+    "new_commits": 108
   },
   {
     "name": "videos",
@@ -4336,7 +4336,7 @@
         "href": "https://github.com/elementary/photos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 56
+    "new_commits": 72
   },
   {
     "name": "switchboard",
