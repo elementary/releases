@@ -1248,7 +1248,7 @@
         "href": "https://github.com/elementary/mail/releases/tag/1.0.6"
       }
     ],
-    "new_commits": 48
+    "new_commits": 70
   },
   {
     "name": "feedback",
@@ -2167,7 +2167,7 @@
         "href": "https://github.com/elementary/switchboard-plug-datetime/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 29
+    "new_commits": 30
   },
   {
     "name": "icons",
@@ -2914,7 +2914,7 @@
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
       }
     ],
-    "new_commits": 57
+    "new_commits": 59
   },
   {
     "name": "switchboard-plug-security-privacy",
@@ -2976,7 +2976,7 @@
         "href": "https://github.com/elementary/switchboard-plug-security-privacy/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 25
+    "new_commits": 26
   },
   {
     "name": "switchboard-plug-parental-controls",
@@ -3017,7 +3017,7 @@
         "href": "https://github.com/elementary/switchboard-plug-parental-controls/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 49
+    "new_commits": 50
   },
   {
     "name": "wingpanel-indicator-network",
@@ -4391,7 +4391,7 @@
         "href": "https://github.com/elementary/switchboard/releases/tag/2.3.0"
       }
     ],
-    "new_commits": 44
+    "new_commits": 45
   },
   {
     "name": "wingpanel",
