@@ -1,5 +1,163 @@
 [
   {
+    "name": "installer",
+    "releases": [
+      {
+        "version": "1.0.3",
+        "release_date": "2021-08-26T02:15:09",
+        "title": "installer 1.0.3 Released",
+        "body": "\n",
+        "href": "https://github.com/elementary/installer/releases/tag/1.0.3"
+      },
+      {
+        "version": "1.0.2",
+        "release_date": "2021-08-20T21:33:08",
+        "title": "installer 1.0.2 Released",
+        "body": "\n",
+        "href": "https://github.com/elementary/installer/releases/tag/1.0.2"
+      },
+      {
+        "version": "1.0.1",
+        "release_date": "2021-07-29T19:26:54",
+        "title": "installer 1.0.1 Released",
+        "body": "\n",
+        "href": "https://github.com/elementary/installer/releases/tag/1.0.1"
+      },
+      {
+        "version": "1.0.0",
+        "release_date": "2021-07-15T23:54:35",
+        "title": "installer 1.0.0 Released",
+        "body": "\n",
+        "href": "https://github.com/elementary/installer/releases/tag/1.0.0"
+      }
+    ],
+    "new_commits": 0
+  },
+  {
+    "name": "initial-setup",
+    "releases": [
+      {
+        "version": "6.1.0",
+        "release_date": "2021-08-26T02:07:32",
+        "title": "initial-setup 6.1.0 Released",
+        "body": "<p>New features:</p>\n<ul>\n<li>Confirm and change device name</li>\n<li>Two-finger swipe to navigate back</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Translation updates</li>\n</ul>\n",
+        "href": "https://github.com/elementary/initial-setup/releases/tag/6.1.0"
+      },
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-15T22:55:54",
+        "title": "initial-setup 6.0.0 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Set keyboard layout in accountsservice</li>\n<li>Add multitouch gestures</li>\n<li>Set correct locales</li>\n<li>New colorful avatar fallback</li>\n<li>Translation updates</li>\n</ul>\n",
+        "href": "https://github.com/elementary/initial-setup/releases/tag/6.0.0"
+      },
+      {
+        "version": "1.0.2",
+        "release_date": "2019-10-29T17:04:14",
+        "title": "initial-setup 1.0.2 Released",
+        "body": "initial-setup 1.0.2 is out! \n\nChanges:\n\n* Translation updates\n",
+        "href": "https://github.com/elementary/initial-setup/releases/tag/1.0.2"
+      },
+      {
+        "version": "1.0.1",
+        "release_date": "2019-10-21T19:56:01",
+        "title": "initial-setup 1.0.1 Released",
+        "body": "initial-setup 1.0.1 is out! \n\nChanges:\n\n* Translation updates\n",
+        "href": "https://github.com/elementary/initial-setup/releases/tag/1.0.1"
+      },
+      {
+        "version": "1.0.0",
+        "release_date": "2019-09-27T15:10:44",
+        "title": "Initial Setup 1.0 Released",
+        "body": "elementary Initial Setup 1.0 is out! This is the initial release.",
+        "href": "https://github.com/elementary/initial-setup/releases/tag/1.0.0"
+      }
+    ],
+    "new_commits": 0
+  },
+  {
+    "name": "wingpanel-indicator-bluetooth",
+    "releases": [
+      {
+        "version": "2.1.8",
+        "release_date": "2021-08-26T02:00:44",
+        "title": "wingpanel-indicator-bluetooth 2.1.8 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Improve restoring Bluetooth state on restart and resuming from suspend</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.1.8"
+      },
+      {
+        "version": "2.1.7",
+        "release_date": "2021-07-14T20:09:49",
+        "title": "wingpanel-indicator-bluetooth 2.1.7 Released",
+        "body": "<p>Add tooltip on hover</p>\n<p>Add a fallback device name for headphones</p>\n<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.1.7"
+      },
+      {
+        "version": "2.1.6",
+        "release_date": "2021-01-05T21:59:26",
+        "title": "wingpanel-indicator-bluetooth 2.1.6 Released",
+        "body": "<p>Prevent showing duplicate devices</p>\n<p>Fix animated icon when disabling Bluetooth</p>\n<p>Fallback device names to their device type instead of \"(null)\"</p>\n<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.1.6"
+      },
+      {
+        "version": "2.1.5",
+        "release_date": "2020-04-08T23:06:48",
+        "title": "wingpanel-indicator-bluetooth 2.1.5 Released",
+        "body": "<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.1.5"
+      },
+      {
+        "version": "2.1.4",
+        "release_date": "2019-11-25T16:42:53",
+        "title": "wingpanel-indicator-bluetooth 2.1.4 Released",
+        "body": "wingpanel-indicator-bluetooth 2.1.4 is out! \n\nChanges:\n\n* Updated translations\n",
+        "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.1.4"
+      },
+      {
+        "version": "2.1.3",
+        "release_date": "2019-05-22T17:55:03",
+        "title": "Wingpanel Bluetooth Indicator 2.1.3 Released",
+        "body": "wingpanel-indicator-bluetooth 2.1.3 is out!\r\n\r\nChanges:\r\n* Show status images for devices\r\n* Accurately display space characters in device names\r\n* Updated translations",
+        "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.1.3"
+      },
+      {
+        "version": "2.1.2",
+        "release_date": "2018-12-21T09:59:40",
+        "title": "Wingpanel Bluetooth Indicator 2.1.2 Released",
+        "body": "wingpanel-indicator-bluetooth 2.1.2 is out!\r\n\r\nChanges:\r\n* Bold device names\r\n* Updated translations",
+        "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.1.2"
+      },
+      {
+        "version": "2.1.1",
+        "release_date": "2018-10-03T10:18:32",
+        "title": "Wingpanel Bluetooth Indicator 2.1.1 Released",
+        "body": "wingpanel-indicator-bluetooth 2.1.1 is out!\r\n\r\nThis release includes updated translations.",
+        "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.1.1"
+      },
+      {
+        "version": "2.1.0",
+        "release_date": "2018-06-11T18:41:40",
+        "title": "Wingpanel Bluetooth Indicator 2.1.0 Released",
+        "body": "wingpanel-indicator-bluetooth 2.1.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/wingpanel-indicator-bluetooth/issues?q=is%3Aclosed+milestone%3A2.1.0).",
+        "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.1.0"
+      },
+      {
+        "version": "2.0.3",
+        "release_date": "2017-08-18T22:25:02",
+        "title": "Wingpanel Bluetooth Indicator 2.0.3 Released",
+        "body": "wingpanel-indicator-bluetooth 2.0.3 is out!",
+        "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.0.3"
+      },
+      {
+        "version": "2.0.2",
+        "release_date": "2017-05-22T23:13:37",
+        "title": "Wingpanel Bluetooth Indicator 2.0.2 Released",
+        "body": "wingpanel-indicator-bluetooth 2.0.2 is out!",
+        "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.0.2"
+      }
+    ],
+    "new_commits": 3
+  },
+  {
     "name": "granite",
     "releases": [
       {
@@ -122,7 +280,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 7
+    "new_commits": 8
   },
   {
     "name": "switchboard-plug-power",
@@ -462,33 +620,6 @@
       }
     ],
     "new_commits": 0
-  },
-  {
-    "name": "installer",
-    "releases": [
-      {
-        "version": "1.0.2",
-        "release_date": "2021-08-20T21:33:08",
-        "title": "installer 1.0.2 Released",
-        "body": "\n",
-        "href": "https://github.com/elementary/installer/releases/tag/1.0.2"
-      },
-      {
-        "version": "1.0.1",
-        "release_date": "2021-07-29T19:26:54",
-        "title": "installer 1.0.1 Released",
-        "body": "\n",
-        "href": "https://github.com/elementary/installer/releases/tag/1.0.1"
-      },
-      {
-        "version": "1.0.0",
-        "release_date": "2021-07-15T23:54:35",
-        "title": "installer 1.0.0 Released",
-        "body": "\n",
-        "href": "https://github.com/elementary/installer/releases/tag/1.0.0"
-      }
-    ],
-    "new_commits": 7
   },
   {
     "name": "switchboard-plug-display",
@@ -855,7 +986,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 51
+    "new_commits": 52
   },
   {
     "name": "gala",
@@ -903,7 +1034,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 46
+    "new_commits": 47
   },
   {
     "name": "tasks",
@@ -1735,7 +1866,7 @@
         "href": "https://github.com/elementary/music/releases/tag/0.4.0.3"
       }
     ],
-    "new_commits": 92
+    "new_commits": 94
   },
   {
     "name": "wingpanel-indicator-a11y",
@@ -1920,40 +2051,6 @@
       }
     ],
     "new_commits": 4
-  },
-  {
-    "name": "initial-setup",
-    "releases": [
-      {
-        "version": "6.0.0",
-        "release_date": "2021-07-15T22:55:54",
-        "title": "initial-setup 6.0.0 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Set keyboard layout in accountsservice</li>\n<li>Add multitouch gestures</li>\n<li>Set correct locales</li>\n<li>New colorful avatar fallback</li>\n<li>Translation updates</li>\n</ul>\n",
-        "href": "https://github.com/elementary/initial-setup/releases/tag/6.0.0"
-      },
-      {
-        "version": "1.0.2",
-        "release_date": "2019-10-29T17:04:14",
-        "title": "initial-setup 1.0.2 Released",
-        "body": "initial-setup 1.0.2 is out! \n\nChanges:\n\n* Translation updates\n",
-        "href": "https://github.com/elementary/initial-setup/releases/tag/1.0.2"
-      },
-      {
-        "version": "1.0.1",
-        "release_date": "2019-10-21T19:56:01",
-        "title": "initial-setup 1.0.1 Released",
-        "body": "initial-setup 1.0.1 is out! \n\nChanges:\n\n* Translation updates\n",
-        "href": "https://github.com/elementary/initial-setup/releases/tag/1.0.1"
-      },
-      {
-        "version": "1.0.0",
-        "release_date": "2019-09-27T15:10:44",
-        "title": "Initial Setup 1.0 Released",
-        "body": "elementary Initial Setup 1.0 is out! This is the initial release.",
-        "href": "https://github.com/elementary/initial-setup/releases/tag/1.0.0"
-      }
-    ],
-    "new_commits": 64
   },
   {
     "name": "wingpanel-indicator-keyboard",
@@ -3639,82 +3736,6 @@
       }
     ],
     "new_commits": 33
-  },
-  {
-    "name": "wingpanel-indicator-bluetooth",
-    "releases": [
-      {
-        "version": "2.1.7",
-        "release_date": "2021-07-14T20:09:49",
-        "title": "wingpanel-indicator-bluetooth 2.1.7 Released",
-        "body": "<p>Add tooltip on hover</p>\n<p>Add a fallback device name for headphones</p>\n<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.1.7"
-      },
-      {
-        "version": "2.1.6",
-        "release_date": "2021-01-05T21:59:26",
-        "title": "wingpanel-indicator-bluetooth 2.1.6 Released",
-        "body": "<p>Prevent showing duplicate devices</p>\n<p>Fix animated icon when disabling Bluetooth</p>\n<p>Fallback device names to their device type instead of \"(null)\"</p>\n<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.1.6"
-      },
-      {
-        "version": "2.1.5",
-        "release_date": "2020-04-08T23:06:48",
-        "title": "wingpanel-indicator-bluetooth 2.1.5 Released",
-        "body": "<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.1.5"
-      },
-      {
-        "version": "2.1.4",
-        "release_date": "2019-11-25T16:42:53",
-        "title": "wingpanel-indicator-bluetooth 2.1.4 Released",
-        "body": "wingpanel-indicator-bluetooth 2.1.4 is out! \n\nChanges:\n\n* Updated translations\n",
-        "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.1.4"
-      },
-      {
-        "version": "2.1.3",
-        "release_date": "2019-05-22T17:55:03",
-        "title": "Wingpanel Bluetooth Indicator 2.1.3 Released",
-        "body": "wingpanel-indicator-bluetooth 2.1.3 is out!\r\n\r\nChanges:\r\n* Show status images for devices\r\n* Accurately display space characters in device names\r\n* Updated translations",
-        "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.1.3"
-      },
-      {
-        "version": "2.1.2",
-        "release_date": "2018-12-21T09:59:40",
-        "title": "Wingpanel Bluetooth Indicator 2.1.2 Released",
-        "body": "wingpanel-indicator-bluetooth 2.1.2 is out!\r\n\r\nChanges:\r\n* Bold device names\r\n* Updated translations",
-        "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.1.2"
-      },
-      {
-        "version": "2.1.1",
-        "release_date": "2018-10-03T10:18:32",
-        "title": "Wingpanel Bluetooth Indicator 2.1.1 Released",
-        "body": "wingpanel-indicator-bluetooth 2.1.1 is out!\r\n\r\nThis release includes updated translations.",
-        "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.1.1"
-      },
-      {
-        "version": "2.1.0",
-        "release_date": "2018-06-11T18:41:40",
-        "title": "Wingpanel Bluetooth Indicator 2.1.0 Released",
-        "body": "wingpanel-indicator-bluetooth 2.1.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/wingpanel-indicator-bluetooth/issues?q=is%3Aclosed+milestone%3A2.1.0).",
-        "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.1.0"
-      },
-      {
-        "version": "2.0.3",
-        "release_date": "2017-08-18T22:25:02",
-        "title": "Wingpanel Bluetooth Indicator 2.0.3 Released",
-        "body": "wingpanel-indicator-bluetooth 2.0.3 is out!",
-        "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.0.3"
-      },
-      {
-        "version": "2.0.2",
-        "release_date": "2017-05-22T23:13:37",
-        "title": "Wingpanel Bluetooth Indicator 2.0.2 Released",
-        "body": "wingpanel-indicator-bluetooth 2.0.2 is out!",
-        "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.0.2"
-      }
-    ],
-    "new_commits": 31
   },
   {
     "name": "wingpanel-indicator-sound",
