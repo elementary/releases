@@ -1,5 +1,275 @@
 [
   {
+    "name": "calendar",
+    "releases": [
+      {
+        "version": "6.0.1",
+        "release_date": "2021-08-26T21:11:55",
+        "title": "calendar 6.0.1 Released",
+        "body": "<p>Fixes:</p>\n<ul>\n<li>Fix broken calendar color with some online providers</li>\n<li>Fix an issue with some all-day events</li>\n</ul>\n<p>Minor Updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/calendar/releases/tag/6.0.1"
+      },
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-21T02:56:10",
+        "title": "calendar 6.0.0 Released",
+        "body": "<p>New Features:</p>\n<ul>\n<li>Import ICS files from the gear menu</li>\n<li>Support the dark style</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Properly show events on the last day of the month</li>\n<li>Fix end times for all-day events</li>\n<li>Notify for all alarms on an event</li>\n</ul>\n<p>Minor Updates:</p>\n<ul>\n<li>Improved offline support</li>\n<li>New colorful avatar fallbacks</li>\n<li>Include \"film\" as an event icon keyword</li>\n<li>Add Mint and Bubblegum to calendar color chooser</li>\n<li>Link to Online Accounts settings in the gear menu</li>\n<li>Performance improvements</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/calendar/releases/tag/6.0.0"
+      },
+      {
+        "version": "5.1.1",
+        "release_date": "2020-10-08T20:26:30",
+        "title": "calendar 5.1.1 Released",
+        "body": "<p>Minor Updates:</p>\n<ul>\n<li>Fix an issue where new events could appear twice in Calendar</li>\n<li>\"Mark as default calendar\" box is now correctly checked when editing a calendar</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/calendar/releases/tag/5.1.1"
+      },
+      {
+        "version": "5.1.0",
+        "release_date": "2020-09-03T21:57:16",
+        "title": "calendar 5.1.0 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Allow modification of recurring events</li>\n<li>Improve handling of week start day</li>\n<li>Fix timezone errors with all-day events</li>\n</ul>\n<p>Minor Updates:</p>\n<ul>\n<li>Don't resize the sidebar when resizing the window</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/calendar/releases/tag/5.1.0"
+      },
+      {
+        "version": "5.0.6",
+        "release_date": "2020-06-30T19:03:24",
+        "title": "calendar 5.0.6 Released",
+        "body": "<p>Minor Updates:</p>\n<ul>\n<li>Fix issues with time zones not being recognized</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/calendar/releases/tag/5.0.6"
+      },
+      {
+        "version": "5.0.5",
+        "release_date": "2020-06-02T04:44:14",
+        "title": "calendar 5.0.5 Released",
+        "body": "<p>Minor Updates:</p>\n<ul>\n<li>Fix several issues with adding and removing monthly recurring events</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/calendar/releases/tag/5.0.5"
+      },
+      {
+        "version": "5.0.4",
+        "release_date": "2020-04-03T20:09:04",
+        "title": "calendar 5.0.4 Released",
+        "body": "<p>Minor Updates:</p>\n<ul>\n<li>Correctly save event reminders</li>\n<li>Ellipsize event participant details if necessary</li>\n<li>Fix unwanted rescheduling when editing event title</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/calendar/releases/tag/5.0.4"
+      },
+      {
+        "version": "5.0.3",
+        "release_date": "2019-11-27T19:39:03",
+        "title": "calendar 5.0.3 Released",
+        "body": "calendar 5.0.3 is out! \n\n<p>Fix crash when editing an event with no location</p>\n",
+        "href": "https://github.com/elementary/calendar/releases/tag/5.0.3"
+      },
+      {
+        "version": "5.0.2",
+        "release_date": "2019-11-26T18:12:31",
+        "title": "calendar 5.0.2 Released",
+        "body": "calendar 5.0.2 is out! \n\n<p>Fix potential crash when loading events with no start or end time</p>\n",
+        "href": "https://github.com/elementary/calendar/releases/tag/5.0.2"
+      },
+      {
+        "version": "5.0.1",
+        "release_date": "2019-11-25T22:50:33",
+        "title": "calendar 5.0.1 Released",
+        "body": "calendar 5.0.1 is out! \r\n\r\n- Make agenda pane fill the whole space\r\n- Set the suggested time for new events to the next whole hour\r\n- Fix issues with recurring events\r\n- Performance improvements\r\n- Updated translations\r\n",
+        "href": "https://github.com/elementary/calendar/releases/tag/5.0.1"
+      },
+      {
+        "version": "5.0",
+        "release_date": "2019-03-01T00:38:47",
+        "title": "Calendar 5.0 Released",
+        "body": "Calendar 5.0 is out!\r\n\r\nChanges:\r\n* Present import window when opening ICS files\r\n* Add a search entry for calendars\r\n* Always use calendar icon in notifications\r\n* Agenda view can now be navigated by keyboard\r\n* Right-to-left improvements\r\n* Various UI overhauls including lime accent color\r\n* Overall code cleanup and rewrites\r\n* Updated translations",
+        "href": "https://github.com/elementary/calendar/releases/tag/5.0"
+      },
+      {
+        "version": "4.2.3",
+        "release_date": "2018-10-16T09:26:43",
+        "title": "Calendar 4.2.3 Released",
+        "body": "Changes:\r\n* Styling adjustments\r\n* Fix location panel initialization\r\n* Updated translations",
+        "href": "https://github.com/elementary/calendar/releases/tag/4.2.3"
+      },
+      {
+        "version": "4.2.2",
+        "release_date": "2018-10-03T08:17:05",
+        "title": "Calendar 4.2.2 Released",
+        "body": "Calendar 4.2.2 is out!\r\n\r\nChanges:\r\n* Meson build system\r\n* Date format fixes\r\n* Miscellaneous build fixes\r\n* Updated translations",
+        "href": "https://github.com/elementary/calendar/releases/tag/4.2.2"
+      },
+      {
+        "version": "0.4.2.1",
+        "release_date": "2018-06-22T09:51:25",
+        "title": "Calendar 0.4.2.1 Released",
+        "body": "Calendar 0.4.2.1 is out!\r\n\r\nThis release includes the following changes:\r\n* Update `wingpanel-indicator-datetime` settings path\r\n* New translations",
+        "href": "https://github.com/elementary/calendar/releases/tag/0.4.2.1"
+      },
+      {
+        "version": "0.4.2",
+        "release_date": "2018-06-06T09:04:54",
+        "title": "Calendar 0.4.2 Released",
+        "body": "Calendar 0.4.2 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/calendar/issues?q=is%3Aclosed+milestone%3A0.4.2).",
+        "href": "https://github.com/elementary/calendar/releases/tag/0.4.2"
+      },
+      {
+        "version": "0.4.1",
+        "release_date": "2017-12-01T20:54:43",
+        "title": "Maya (Calendar) 0.4.1 Released",
+        "body": "maya-calendar 0.4.1 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/calendar/issues?q=is%3Aclosed+milestone%3A0.4.1).",
+        "href": "https://github.com/elementary/calendar/releases/tag/0.4.1"
+      }
+    ],
+    "new_commits": 0
+  },
+  {
+    "name": "switchboard-plug-onlineaccounts",
+    "releases": [
+      {
+        "version": "6.2.0",
+        "release_date": "2021-08-26T20:39:35",
+        "title": "switchboard-plug-onlineaccounts 6.2.0 Released",
+        "body": "<ul>\n<li>Edit saved IMAP accounts</li>\n<li>Automatically detect authentication method for IMAP</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/6.2.0"
+      },
+      {
+        "version": "6.1.0",
+        "release_date": "2021-07-30T20:57:04",
+        "title": "switchboard-plug-onlineaccounts 6.1.0 Released",
+        "body": "- Verify login credentials when saving IMAP accounts\r\n- Set up Archive, Drafts, Sent, and Templates folders for IMAP\r\n- Close \"Add Account\" popover when an item is selected\r\n- Updated translations",
+        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/6.1.0"
+      },
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-15T21:21:15",
+        "title": "switchboard-plug-onlineaccounts 6.0.0 Released",
+        "body": "Complete redesign based on Evolution Data Server",
+        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/6.0.0"
+      },
+      {
+        "version": "2.0.1",
+        "release_date": "2018-10-24T14:43:36",
+        "title": "Switchboard Online Accounts Plug 2.0.1 Released",
+        "body": "switchboard-plug-onlineaccounts 2.0.1 is out!\r\n\r\nChanges:\r\n* Use Granite.Toast widget\r\n* New translations",
+        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/2.0.1"
+      },
+      {
+        "version": "2.0",
+        "release_date": "2018-10-15T22:35:57",
+        "title": "Switchboard Online Accounts Plug 2.0 Released",
+        "body": "switchboard-plug-onlineaccounts 2.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-onlineaccounts/issues?q=is%3Aclosed+milestone%3A2.0).",
+        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/2.0"
+      }
+    ],
+    "new_commits": 0
+  },
+  {
+    "name": "applications-menu",
+    "releases": [
+      {
+        "version": "2.8.1",
+        "release_date": "2021-08-26T20:27:26",
+        "title": "applications-menu 2.8.1 Released",
+        "body": "<p>Minor updates</p>\n<ul>\n<li>Fix an issue where Flatpak apps wouldn't show until after a restart</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/applications-menu/releases/tag/2.8.1"
+      },
+      {
+        "version": "2.8.0",
+        "release_date": "2021-07-14T22:55:20",
+        "title": "applications-menu 2.8.0 Released",
+        "body": "<p>Minor updates</p>\n<ul>\n<li>Sort app actions above AppCenter search</li>\n<li>Always hide Terminal-based programs</li>\n<li>Remove document viewer from block list</li>\n<li>Support fractions without leading number in calculator</li>\n<li>Show overlay key in tooltip when set</li>\n<li>Performance improvements</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/applications-menu/releases/tag/2.8.0"
+      },
+      {
+        "version": "2.7.1",
+        "release_date": "2020-05-28T18:38:55",
+        "title": "applications-menu 2.7.1 Released",
+        "body": "<p>Minor updates</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/applications-menu/releases/tag/2.7.1"
+      },
+      {
+        "version": "2.7.0",
+        "release_date": "2020-04-29T21:58:06",
+        "title": "applications-menu 2.7.0 Released",
+        "body": "<p>Minor updates</p>\n<ul>\n<li>Smoother navigation gesture in grid view and touchscreen gesture support</li>\n<li>Focus search when navigating up from the category view</li>\n<li>Don't focus search when pressing modifier keys</li>\n<li>Ensure categories are sorted alphabetically</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/applications-menu/releases/tag/2.7.0"
+      },
+      {
+        "version": "2.6.0",
+        "release_date": "2020-04-09T20:38:38",
+        "title": "applications-menu 2.6.0 Released",
+        "body": "<p>Category view is now a list</p>\n<p>Improved keyboard navigation</p>\n<p>Performance improvements</p>\n<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/applications-menu/releases/tag/2.6.0"
+      },
+      {
+        "version": "2.5.0",
+        "release_date": "2019-11-25T17:07:00",
+        "title": "applications-menu 2.5.0 Released",
+        "body": "applications-menu 2.5.0 is out! \n\nChanges:\n\n* Improved keyboard navigation, including new tooltips and menu key support\n* Highlight action matches in the search view\n* Add a \"View in AppCenter\" menu item\n* Performance improvements\n* Updated translations\n",
+        "href": "https://github.com/elementary/applications-menu/releases/tag/2.5.0"
+      },
+      {
+        "version": "2.4.4",
+        "release_date": "2019-08-20T23:54:30",
+        "title": "Slingshot 2.4.4 Released",
+        "body": "slingshot-launcher 2.4.4 is out!\r\n\r\nChanges:\r\n* Don\u2019t launch apps being dragged from search results\r\n* Prevent AppCenter from possibly freezing panel\r\n* Drop support for Plank `< 0.11`\r\n* Updated translations",
+        "href": "https://github.com/elementary/applications-menu/releases/tag/2.4.4"
+      },
+      {
+        "version": "2.4.3",
+        "release_date": "2019-05-16T10:10:36",
+        "title": "Slingshot 2.4.3 Released",
+        "body": "slingshot-launcher 2.4.3 is out!\r\n\r\nChanges:\r\n* Build system fixes\r\n* Support more system management keywords\r\n* Fix ignored translations in search results\r\n* Keyboard navigation fix\r\n* Updated translations",
+        "href": "https://github.com/elementary/applications-menu/releases/tag/2.4.3"
+      },
+      {
+        "version": "2.4.2",
+        "release_date": "2019-01-22T09:51:45",
+        "title": "Slingshot 2.4.2 Released",
+        "body": "slingshot-launcher 2.4.2 is out!\r\n\r\nChanges:\r\n* Don't highlight query in text search results\r\n* Add Meson build system\r\n* Use Granite for tooltip accels\r\n* Updated translations",
+        "href": "https://github.com/elementary/applications-menu/releases/tag/2.4.2"
+      },
+      {
+        "version": "2.4.1",
+        "release_date": "2018-12-07T18:41:24",
+        "title": "Slingshot 2.4.1 Released",
+        "body": "slingshot-launcher 2.4.1 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/applications-menu/issues?q=is%3Aclosed+milestone%3A2.4.1).",
+        "href": "https://github.com/elementary/applications-menu/releases/tag/2.4.1"
+      },
+      {
+        "version": "2.4.0",
+        "release_date": "2018-09-18T15:41:03",
+        "title": "Slingshot 2.4.0 Released",
+        "body": "slingshot-launcher 2.4.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/applications-menu/issues?q=is%3Aclosed+milestone%3A2.4.0).",
+        "href": "https://github.com/elementary/applications-menu/releases/tag/2.4.0"
+      },
+      {
+        "version": "2.3.0",
+        "release_date": "2018-06-20T05:30:04",
+        "title": "Slingshot 2.3.0 Released",
+        "body": "slingshot-launcher 2.3.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/applications-menu/issues?q=is%3Aclosed+milestone%3A2.3.0).",
+        "href": "https://github.com/elementary/applications-menu/releases/tag/2.3.0"
+      },
+      {
+        "version": "2.2.0",
+        "release_date": "2017-09-26T14:20:28",
+        "title": "Slingshot 2.2.0 Released",
+        "body": "slingshot-launcher 2.2.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/applications-menu/issues?q=is%3Aclosed+milestone%3A2.2.0).",
+        "href": "https://github.com/elementary/applications-menu/releases/tag/2.2.0"
+      },
+      {
+        "version": "2.1.3",
+        "release_date": "2017-05-15T12:00:23",
+        "title": "Slingshot 2.1.3 Released",
+        "body": "slingshot-launcher 2.1.3 is out!",
+        "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.3"
+      },
+      {
+        "version": "2.1.2",
+        "release_date": "2017-05-12T08:49:05",
+        "title": "Slingshot 2.1.2 Released",
+        "body": "slingshot-launcher 2.1.2 is out!",
+        "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
+      }
+    ],
+    "new_commits": 0
+  },
+  {
     "name": "sideload",
     "releases": [
       {
@@ -336,7 +606,7 @@
         "href": "https://github.com/elementary/initial-setup/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 8
+    "new_commits": 9
   },
   {
     "name": "wingpanel-indicator-bluetooth",
@@ -1362,40 +1632,6 @@
     "new_commits": 184
   },
   {
-    "name": "switchboard-plug-onlineaccounts",
-    "releases": [
-      {
-        "version": "6.1.0",
-        "release_date": "2021-07-30T20:57:04",
-        "title": "switchboard-plug-onlineaccounts 6.1.0 Released",
-        "body": "- Verify login credentials when saving IMAP accounts\r\n- Set up Archive, Drafts, Sent, and Templates folders for IMAP\r\n- Close \"Add Account\" popover when an item is selected\r\n- Updated translations",
-        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/6.1.0"
-      },
-      {
-        "version": "6.0.0",
-        "release_date": "2021-07-15T21:21:15",
-        "title": "switchboard-plug-onlineaccounts 6.0.0 Released",
-        "body": "Complete redesign based on Evolution Data Server",
-        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/6.0.0"
-      },
-      {
-        "version": "2.0.1",
-        "release_date": "2018-10-24T14:43:36",
-        "title": "Switchboard Online Accounts Plug 2.0.1 Released",
-        "body": "switchboard-plug-onlineaccounts 2.0.1 is out!\r\n\r\nChanges:\r\n* Use Granite.Toast widget\r\n* New translations",
-        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/2.0.1"
-      },
-      {
-        "version": "2.0",
-        "release_date": "2018-10-15T22:35:57",
-        "title": "Switchboard Online Accounts Plug 2.0 Released",
-        "body": "switchboard-plug-onlineaccounts 2.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-onlineaccounts/issues?q=is%3Aclosed+milestone%3A2.0).",
-        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/2.0"
-      }
-    ],
-    "new_commits": 0
-  },
-  {
     "name": "mail",
     "releases": [
       {
@@ -1626,117 +1862,6 @@
       }
     ],
     "new_commits": 53
-  },
-  {
-    "name": "calendar",
-    "releases": [
-      {
-        "version": "6.0.0",
-        "release_date": "2021-07-21T02:56:10",
-        "title": "calendar 6.0.0 Released",
-        "body": "<p>New Features:</p>\n<ul>\n<li>Import ICS files from the gear menu</li>\n<li>Support the dark style</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Properly show events on the last day of the month</li>\n<li>Fix end times for all-day events</li>\n<li>Notify for all alarms on an event</li>\n</ul>\n<p>Minor Updates:</p>\n<ul>\n<li>Improved offline support</li>\n<li>New colorful avatar fallbacks</li>\n<li>Include \"film\" as an event icon keyword</li>\n<li>Add Mint and Bubblegum to calendar color chooser</li>\n<li>Link to Online Accounts settings in the gear menu</li>\n<li>Performance improvements</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/calendar/releases/tag/6.0.0"
-      },
-      {
-        "version": "5.1.1",
-        "release_date": "2020-10-08T20:26:30",
-        "title": "calendar 5.1.1 Released",
-        "body": "<p>Minor Updates:</p>\n<ul>\n<li>Fix an issue where new events could appear twice in Calendar</li>\n<li>\"Mark as default calendar\" box is now correctly checked when editing a calendar</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/calendar/releases/tag/5.1.1"
-      },
-      {
-        "version": "5.1.0",
-        "release_date": "2020-09-03T21:57:16",
-        "title": "calendar 5.1.0 Released",
-        "body": "<p>Improvements:</p>\n<ul>\n<li>Allow modification of recurring events</li>\n<li>Improve handling of week start day</li>\n<li>Fix timezone errors with all-day events</li>\n</ul>\n<p>Minor Updates:</p>\n<ul>\n<li>Don't resize the sidebar when resizing the window</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/calendar/releases/tag/5.1.0"
-      },
-      {
-        "version": "5.0.6",
-        "release_date": "2020-06-30T19:03:24",
-        "title": "calendar 5.0.6 Released",
-        "body": "<p>Minor Updates:</p>\n<ul>\n<li>Fix issues with time zones not being recognized</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/calendar/releases/tag/5.0.6"
-      },
-      {
-        "version": "5.0.5",
-        "release_date": "2020-06-02T04:44:14",
-        "title": "calendar 5.0.5 Released",
-        "body": "<p>Minor Updates:</p>\n<ul>\n<li>Fix several issues with adding and removing monthly recurring events</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/calendar/releases/tag/5.0.5"
-      },
-      {
-        "version": "5.0.4",
-        "release_date": "2020-04-03T20:09:04",
-        "title": "calendar 5.0.4 Released",
-        "body": "<p>Minor Updates:</p>\n<ul>\n<li>Correctly save event reminders</li>\n<li>Ellipsize event participant details if necessary</li>\n<li>Fix unwanted rescheduling when editing event title</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/calendar/releases/tag/5.0.4"
-      },
-      {
-        "version": "5.0.3",
-        "release_date": "2019-11-27T19:39:03",
-        "title": "calendar 5.0.3 Released",
-        "body": "calendar 5.0.3 is out! \n\n<p>Fix crash when editing an event with no location</p>\n",
-        "href": "https://github.com/elementary/calendar/releases/tag/5.0.3"
-      },
-      {
-        "version": "5.0.2",
-        "release_date": "2019-11-26T18:12:31",
-        "title": "calendar 5.0.2 Released",
-        "body": "calendar 5.0.2 is out! \n\n<p>Fix potential crash when loading events with no start or end time</p>\n",
-        "href": "https://github.com/elementary/calendar/releases/tag/5.0.2"
-      },
-      {
-        "version": "5.0.1",
-        "release_date": "2019-11-25T22:50:33",
-        "title": "calendar 5.0.1 Released",
-        "body": "calendar 5.0.1 is out! \r\n\r\n- Make agenda pane fill the whole space\r\n- Set the suggested time for new events to the next whole hour\r\n- Fix issues with recurring events\r\n- Performance improvements\r\n- Updated translations\r\n",
-        "href": "https://github.com/elementary/calendar/releases/tag/5.0.1"
-      },
-      {
-        "version": "5.0",
-        "release_date": "2019-03-01T00:38:47",
-        "title": "Calendar 5.0 Released",
-        "body": "Calendar 5.0 is out!\r\n\r\nChanges:\r\n* Present import window when opening ICS files\r\n* Add a search entry for calendars\r\n* Always use calendar icon in notifications\r\n* Agenda view can now be navigated by keyboard\r\n* Right-to-left improvements\r\n* Various UI overhauls including lime accent color\r\n* Overall code cleanup and rewrites\r\n* Updated translations",
-        "href": "https://github.com/elementary/calendar/releases/tag/5.0"
-      },
-      {
-        "version": "4.2.3",
-        "release_date": "2018-10-16T09:26:43",
-        "title": "Calendar 4.2.3 Released",
-        "body": "Changes:\r\n* Styling adjustments\r\n* Fix location panel initialization\r\n* Updated translations",
-        "href": "https://github.com/elementary/calendar/releases/tag/4.2.3"
-      },
-      {
-        "version": "4.2.2",
-        "release_date": "2018-10-03T08:17:05",
-        "title": "Calendar 4.2.2 Released",
-        "body": "Calendar 4.2.2 is out!\r\n\r\nChanges:\r\n* Meson build system\r\n* Date format fixes\r\n* Miscellaneous build fixes\r\n* Updated translations",
-        "href": "https://github.com/elementary/calendar/releases/tag/4.2.2"
-      },
-      {
-        "version": "0.4.2.1",
-        "release_date": "2018-06-22T09:51:25",
-        "title": "Calendar 0.4.2.1 Released",
-        "body": "Calendar 0.4.2.1 is out!\r\n\r\nThis release includes the following changes:\r\n* Update `wingpanel-indicator-datetime` settings path\r\n* New translations",
-        "href": "https://github.com/elementary/calendar/releases/tag/0.4.2.1"
-      },
-      {
-        "version": "0.4.2",
-        "release_date": "2018-06-06T09:04:54",
-        "title": "Calendar 0.4.2 Released",
-        "body": "Calendar 0.4.2 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/calendar/issues?q=is%3Aclosed+milestone%3A0.4.2).",
-        "href": "https://github.com/elementary/calendar/releases/tag/0.4.2"
-      },
-      {
-        "version": "0.4.1",
-        "release_date": "2017-12-01T20:54:43",
-        "title": "Maya (Calendar) 0.4.1 Released",
-        "body": "maya-calendar 0.4.1 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/calendar/issues?q=is%3Aclosed+milestone%3A0.4.1).",
-        "href": "https://github.com/elementary/calendar/releases/tag/0.4.1"
-      }
-    ],
-    "new_commits": 43
   },
   {
     "name": "screenshot",
@@ -2250,7 +2375,7 @@
         "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
       }
     ],
-    "new_commits": 52
+    "new_commits": 53
   },
   {
     "name": "switchboard-plug-datetime",
@@ -2924,110 +3049,6 @@
     "new_commits": 2
   },
   {
-    "name": "applications-menu",
-    "releases": [
-      {
-        "version": "2.8.0",
-        "release_date": "2021-07-14T22:55:20",
-        "title": "applications-menu 2.8.0 Released",
-        "body": "<p>Minor updates</p>\n<ul>\n<li>Sort app actions above AppCenter search</li>\n<li>Always hide Terminal-based programs</li>\n<li>Remove document viewer from block list</li>\n<li>Support fractions without leading number in calculator</li>\n<li>Show overlay key in tooltip when set</li>\n<li>Performance improvements</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/applications-menu/releases/tag/2.8.0"
-      },
-      {
-        "version": "2.7.1",
-        "release_date": "2020-05-28T18:38:55",
-        "title": "applications-menu 2.7.1 Released",
-        "body": "<p>Minor updates</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/applications-menu/releases/tag/2.7.1"
-      },
-      {
-        "version": "2.7.0",
-        "release_date": "2020-04-29T21:58:06",
-        "title": "applications-menu 2.7.0 Released",
-        "body": "<p>Minor updates</p>\n<ul>\n<li>Smoother navigation gesture in grid view and touchscreen gesture support</li>\n<li>Focus search when navigating up from the category view</li>\n<li>Don't focus search when pressing modifier keys</li>\n<li>Ensure categories are sorted alphabetically</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/applications-menu/releases/tag/2.7.0"
-      },
-      {
-        "version": "2.6.0",
-        "release_date": "2020-04-09T20:38:38",
-        "title": "applications-menu 2.6.0 Released",
-        "body": "<p>Category view is now a list</p>\n<p>Improved keyboard navigation</p>\n<p>Performance improvements</p>\n<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/applications-menu/releases/tag/2.6.0"
-      },
-      {
-        "version": "2.5.0",
-        "release_date": "2019-11-25T17:07:00",
-        "title": "applications-menu 2.5.0 Released",
-        "body": "applications-menu 2.5.0 is out! \n\nChanges:\n\n* Improved keyboard navigation, including new tooltips and menu key support\n* Highlight action matches in the search view\n* Add a \"View in AppCenter\" menu item\n* Performance improvements\n* Updated translations\n",
-        "href": "https://github.com/elementary/applications-menu/releases/tag/2.5.0"
-      },
-      {
-        "version": "2.4.4",
-        "release_date": "2019-08-20T23:54:30",
-        "title": "Slingshot 2.4.4 Released",
-        "body": "slingshot-launcher 2.4.4 is out!\r\n\r\nChanges:\r\n* Don\u2019t launch apps being dragged from search results\r\n* Prevent AppCenter from possibly freezing panel\r\n* Drop support for Plank `< 0.11`\r\n* Updated translations",
-        "href": "https://github.com/elementary/applications-menu/releases/tag/2.4.4"
-      },
-      {
-        "version": "2.4.3",
-        "release_date": "2019-05-16T10:10:36",
-        "title": "Slingshot 2.4.3 Released",
-        "body": "slingshot-launcher 2.4.3 is out!\r\n\r\nChanges:\r\n* Build system fixes\r\n* Support more system management keywords\r\n* Fix ignored translations in search results\r\n* Keyboard navigation fix\r\n* Updated translations",
-        "href": "https://github.com/elementary/applications-menu/releases/tag/2.4.3"
-      },
-      {
-        "version": "2.4.2",
-        "release_date": "2019-01-22T09:51:45",
-        "title": "Slingshot 2.4.2 Released",
-        "body": "slingshot-launcher 2.4.2 is out!\r\n\r\nChanges:\r\n* Don't highlight query in text search results\r\n* Add Meson build system\r\n* Use Granite for tooltip accels\r\n* Updated translations",
-        "href": "https://github.com/elementary/applications-menu/releases/tag/2.4.2"
-      },
-      {
-        "version": "2.4.1",
-        "release_date": "2018-12-07T18:41:24",
-        "title": "Slingshot 2.4.1 Released",
-        "body": "slingshot-launcher 2.4.1 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/applications-menu/issues?q=is%3Aclosed+milestone%3A2.4.1).",
-        "href": "https://github.com/elementary/applications-menu/releases/tag/2.4.1"
-      },
-      {
-        "version": "2.4.0",
-        "release_date": "2018-09-18T15:41:03",
-        "title": "Slingshot 2.4.0 Released",
-        "body": "slingshot-launcher 2.4.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/applications-menu/issues?q=is%3Aclosed+milestone%3A2.4.0).",
-        "href": "https://github.com/elementary/applications-menu/releases/tag/2.4.0"
-      },
-      {
-        "version": "2.3.0",
-        "release_date": "2018-06-20T05:30:04",
-        "title": "Slingshot 2.3.0 Released",
-        "body": "slingshot-launcher 2.3.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/applications-menu/issues?q=is%3Aclosed+milestone%3A2.3.0).",
-        "href": "https://github.com/elementary/applications-menu/releases/tag/2.3.0"
-      },
-      {
-        "version": "2.2.0",
-        "release_date": "2017-09-26T14:20:28",
-        "title": "Slingshot 2.2.0 Released",
-        "body": "slingshot-launcher 2.2.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/applications-menu/issues?q=is%3Aclosed+milestone%3A2.2.0).",
-        "href": "https://github.com/elementary/applications-menu/releases/tag/2.2.0"
-      },
-      {
-        "version": "2.1.3",
-        "release_date": "2017-05-15T12:00:23",
-        "title": "Slingshot 2.1.3 Released",
-        "body": "slingshot-launcher 2.1.3 is out!",
-        "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.3"
-      },
-      {
-        "version": "2.1.2",
-        "release_date": "2017-05-12T08:49:05",
-        "title": "Slingshot 2.1.2 Released",
-        "body": "slingshot-launcher 2.1.2 is out!",
-        "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
-      }
-    ],
-    "new_commits": 74
-  },
-  {
     "name": "switchboard-plug-security-privacy",
     "releases": [
       {
@@ -3128,7 +3149,7 @@
         "href": "https://github.com/elementary/switchboard-plug-parental-controls/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 54
+    "new_commits": 55
   },
   {
     "name": "wingpanel-indicator-network",
