@@ -620,7 +620,7 @@
         "href": "https://github.com/elementary/switchboard-plug-power/releases/tag/0.3.1"
       }
     ],
-    "new_commits": 5
+    "new_commits": 7
   },
   {
     "name": "switchboard-plug-about",
@@ -1563,7 +1563,7 @@
         "href": "https://github.com/elementary/switchboard-plug-printers/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 18
+    "new_commits": 19
   },
   {
     "name": "camera",
@@ -3128,7 +3128,7 @@
         "href": "https://github.com/elementary/switchboard-plug-parental-controls/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 53
+    "new_commits": 54
   },
   {
     "name": "wingpanel-indicator-network",
@@ -3280,7 +3280,7 @@
         "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/0.1"
       }
     ],
-    "new_commits": 29
+    "new_commits": 30
   },
   {
     "name": "switchboard-plug-useraccounts",
@@ -3356,7 +3356,7 @@
         "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 45
+    "new_commits": 46
   },
   {
     "name": "switchboard-plug-notifications",
