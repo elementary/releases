@@ -773,7 +773,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 3
+    "new_commits": 4
   },
   {
     "name": "installer",
@@ -1650,7 +1650,7 @@
         "href": "https://github.com/elementary/calculator/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 16
+    "new_commits": 18
   },
   {
     "name": "mail",
@@ -2756,7 +2756,7 @@
         "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 51
+    "new_commits": 52
   },
   {
     "name": "switchboard-plug-applications",
@@ -2950,7 +2950,7 @@
         "href": "https://github.com/elementary/terminal/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 73
+    "new_commits": 74
   },
   {
     "name": "code",
@@ -4081,7 +4081,7 @@
         "href": "https://github.com/elementary/videos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 51
+    "new_commits": 52
   },
   {
     "name": "pantheon-agent-polkit",
@@ -4468,7 +4468,7 @@
         "href": "https://github.com/elementary/switchboard/releases/tag/2.3.0"
       }
     ],
-    "new_commits": 45
+    "new_commits": 46
   },
   {
     "name": "wingpanel",
@@ -5317,7 +5317,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 3997
+    "new_commits": 4005
   },
   {
     "name": "fonts",
