@@ -1188,7 +1188,7 @@
         "href": "https://github.com/elementary/switchboard-plug-about/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 5
+    "new_commits": 6
   },
   {
     "name": "wingpanel-indicator-power",
@@ -2396,7 +2396,7 @@
         "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
       }
     ],
-    "new_commits": 57
+    "new_commits": 58
   },
   {
     "name": "switchboard-plug-datetime",
@@ -4295,7 +4295,7 @@
         "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 35
+    "new_commits": 37
   },
   {
     "name": "photos",
@@ -5317,7 +5317,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 4568
+    "new_commits": 4573
   },
   {
     "name": "fonts",
