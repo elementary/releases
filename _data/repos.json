@@ -191,7 +191,7 @@
         "href": "https://github.com/elementary/tasks/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 8
+    "new_commits": 14
   },
   {
     "name": "initial-setup",
@@ -357,7 +357,7 @@
         "href": "https://github.com/elementary/calendar/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 12
+    "new_commits": 13
   },
   {
     "name": "switchboard-plug-onlineaccounts",
