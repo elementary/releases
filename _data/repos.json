@@ -357,7 +357,7 @@
         "href": "https://github.com/elementary/calendar/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 11
+    "new_commits": 12
   },
   {
     "name": "switchboard-plug-onlineaccounts",
@@ -773,7 +773,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 10
+    "new_commits": 16
   },
   {
     "name": "installer",
@@ -2067,7 +2067,7 @@
         "href": "https://github.com/elementary/music/releases/tag/0.4.0.3"
       }
     ],
-    "new_commits": 96
+    "new_commits": 97
   },
   {
     "name": "wingpanel-indicator-a11y",
@@ -4378,7 +4378,7 @@
         "href": "https://github.com/elementary/photos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 76
+    "new_commits": 78
   },
   {
     "name": "switchboard",
