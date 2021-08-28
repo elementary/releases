@@ -191,7 +191,7 @@
         "href": "https://github.com/elementary/tasks/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 18
+    "new_commits": 23
   },
   {
     "name": "initial-setup",
@@ -5317,7 +5317,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 4586
+    "new_commits": 4595
   },
   {
     "name": "fonts",
