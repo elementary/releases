@@ -890,7 +890,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 17
+    "new_commits": 19
   },
   {
     "name": "granite",
@@ -4081,7 +4081,7 @@
         "href": "https://github.com/elementary/videos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 53
+    "new_commits": 54
   },
   {
     "name": "pantheon-agent-polkit",
