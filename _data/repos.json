@@ -239,7 +239,7 @@
         "href": "https://github.com/elementary/initial-setup/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 5
+    "new_commits": 11
   },
   {
     "name": "calendar",
@@ -807,7 +807,7 @@
         "href": "https://github.com/elementary/installer/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 24
+    "new_commits": 26
   },
   {
     "name": "wingpanel-indicator-bluetooth",
@@ -3998,7 +3998,7 @@
         "href": "https://github.com/elementary/onboarding/releases/tag/1.0"
       }
     ],
-    "new_commits": 112
+    "new_commits": 121
   },
   {
     "name": "videos",
@@ -4081,7 +4081,7 @@
         "href": "https://github.com/elementary/videos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 54
+    "new_commits": 55
   },
   {
     "name": "pantheon-agent-polkit",
