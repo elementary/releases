@@ -509,7 +509,7 @@
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
       }
     ],
-    "new_commits": 22
+    "new_commits": 25
   },
   {
     "name": "sideload",
@@ -4378,7 +4378,7 @@
         "href": "https://github.com/elementary/photos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 83
+    "new_commits": 86
   },
   {
     "name": "switchboard",
