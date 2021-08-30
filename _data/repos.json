@@ -509,7 +509,7 @@
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
       }
     ],
-    "new_commits": 28
+    "new_commits": 32
   },
   {
     "name": "sideload",
@@ -890,7 +890,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 20
+    "new_commits": 21
   },
   {
     "name": "granite",
@@ -1560,7 +1560,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 61
+    "new_commits": 62
   },
   {
     "name": "calculator",
