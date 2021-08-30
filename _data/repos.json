@@ -1691,7 +1691,7 @@
         "href": "https://github.com/elementary/mail/releases/tag/1.0.6"
       }
     ],
-    "new_commits": 81
+    "new_commits": 82
   },
   {
     "name": "feedback",
@@ -3508,7 +3508,7 @@
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 67
+    "new_commits": 70
   },
   {
     "name": "switchboard-plug-network",
