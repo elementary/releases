@@ -3508,7 +3508,7 @@
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 63
+    "new_commits": 67
   },
   {
     "name": "switchboard-plug-network",
@@ -5317,7 +5317,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 4607
+    "new_commits": 4611
   },
   {
     "name": "fonts",
