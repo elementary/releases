@@ -1,5 +1,53 @@
 [
   {
+    "name": "mail",
+    "releases": [
+      {
+        "version": "6.1.1",
+        "release_date": "2021-08-31T02:55:23",
+        "title": "mail 6.1.1 Released",
+        "body": "<p>Fixes:</p>\n<ul>\n<li>Fix an issue that prevented some messaging from rendering at all</li>\n<li>Set the correct \"From\" address when replying and multiple accounts are set up</li>\n<li>Fix a crash on startup for some conversations</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Only save drafts when there are new changes</li>\n<li>Move Undo notification to the message view</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/mail/releases/tag/6.1.1"
+      },
+      {
+        "version": "6.1.0",
+        "release_date": "2021-07-28T18:26:21",
+        "title": "mail 6.1.0 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Preserve conversation subjects when replying or forwarding</li>\n<li>Disable the composer while messages are being sent</li>\n<li>Edit saved draft messages</li>\n<li>Make sure we don't save sent messages twice for some account types</li>\n<li>Stability improvements</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/mail/releases/tag/6.1.0"
+      },
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-16T19:25:32",
+        "title": "mail 6.0.0 Released",
+        "body": "<p>Complete rewrite from scratch</p>\n",
+        "href": "https://github.com/elementary/mail/releases/tag/6.0.0"
+      },
+      {
+        "version": "1.0.8",
+        "release_date": "2018-10-15T22:57:24",
+        "title": "Mail 1.0.8 Released",
+        "body": "pantheon-mail 1.0.8 is out!\r\n\r\nChanges:\r\n* Don't automatically load messages on the first run\r\n* Support libsignon-glib instead of libgsignon-glib\r\n* Build fixes\r\n* Updated translations",
+        "href": "https://github.com/elementary/mail/releases/tag/1.0.8"
+      },
+      {
+        "version": "1.0.7",
+        "release_date": "2018-06-05T08:50:36",
+        "title": "Mail 1.0.7 Released",
+        "body": "pantheon-mail 1.0.7 is out!\r\n\r\nThis release contains minor fixes for deprecations and missing translations.",
+        "href": "https://github.com/elementary/mail/releases/tag/1.0.7"
+      },
+      {
+        "version": "1.0.6",
+        "release_date": "2017-08-24T06:23:03",
+        "title": "Mail 1.0.6 Released",
+        "body": "pantheon-mail 1.0.6 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/mail/milestone/2?closed=1).",
+        "href": "https://github.com/elementary/mail/releases/tag/1.0.6"
+      }
+    ],
+    "new_commits": 0
+  },
+  {
     "name": "appcenter",
     "releases": [
       {
@@ -1665,47 +1713,6 @@
       }
     ],
     "new_commits": 21
-  },
-  {
-    "name": "mail",
-    "releases": [
-      {
-        "version": "6.1.0",
-        "release_date": "2021-07-28T18:26:21",
-        "title": "mail 6.1.0 Released",
-        "body": "<p>Improvements:</p>\n<ul>\n<li>Preserve conversation subjects when replying or forwarding</li>\n<li>Disable the composer while messages are being sent</li>\n<li>Edit saved draft messages</li>\n<li>Make sure we don't save sent messages twice for some account types</li>\n<li>Stability improvements</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/mail/releases/tag/6.1.0"
-      },
-      {
-        "version": "6.0.0",
-        "release_date": "2021-07-16T19:25:32",
-        "title": "mail 6.0.0 Released",
-        "body": "<p>Complete rewrite from scratch</p>\n",
-        "href": "https://github.com/elementary/mail/releases/tag/6.0.0"
-      },
-      {
-        "version": "1.0.8",
-        "release_date": "2018-10-15T22:57:24",
-        "title": "Mail 1.0.8 Released",
-        "body": "pantheon-mail 1.0.8 is out!\r\n\r\nChanges:\r\n* Don't automatically load messages on the first run\r\n* Support libsignon-glib instead of libgsignon-glib\r\n* Build fixes\r\n* Updated translations",
-        "href": "https://github.com/elementary/mail/releases/tag/1.0.8"
-      },
-      {
-        "version": "1.0.7",
-        "release_date": "2018-06-05T08:50:36",
-        "title": "Mail 1.0.7 Released",
-        "body": "pantheon-mail 1.0.7 is out!\r\n\r\nThis release contains minor fixes for deprecations and missing translations.",
-        "href": "https://github.com/elementary/mail/releases/tag/1.0.7"
-      },
-      {
-        "version": "1.0.6",
-        "release_date": "2017-08-24T06:23:03",
-        "title": "Mail 1.0.6 Released",
-        "body": "pantheon-mail 1.0.6 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/mail/milestone/2?closed=1).",
-        "href": "https://github.com/elementary/mail/releases/tag/1.0.6"
-      }
-    ],
-    "new_commits": 87
   },
   {
     "name": "feedback",
