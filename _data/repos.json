@@ -1,5 +1,53 @@
 [
   {
+    "name": "default-settings",
+    "releases": [
+      {
+        "version": "6.0.1",
+        "release_date": "2021-08-31T19:15:18",
+        "title": "Default Settings 6.0.1 Released",
+        "body": "Change Tasks launcher path to /usr/share",
+        "href": "https://github.com/elementary/default-settings/releases/tag/6.0.1"
+      },
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-15T19:59:55",
+        "title": "default-settings 6.0.0 Released",
+        "body": "New upstream release",
+        "href": "https://github.com/elementary/default-settings/releases/tag/6.0.0"
+      },
+      {
+        "version": "5.1.2",
+        "release_date": "2020-01-15T08:18:19",
+        "title": "default-settings 5.1.2 Released",
+        "body": "default-settings 5.1.2 is out!\r\n\r\n<ul>\r\n<li>profile.d: use GTK3_MODULES over GTK_MODULES</li>\r\n<li>Remove switchboard plugs from blacklist</li>\r\n<li>Automatically show & hide the property panel of IBus</li>\r\n<li>Make default search engine DuckDuckGo</li>\r\n<li>Activate g-s-d cursor plugin</li>\r\n<li>Removed deprecated draw-background override</li>\r\n<li>Add AccountsService interfaces for greeter power settings</li>\r\n<li>Accept only first party cookies for enhanced privacy</li>\r\n</ul>",
+        "href": "https://github.com/elementary/default-settings/releases/tag/5.1.2"
+      },
+      {
+        "version": "5.1.1",
+        "release_date": "2019-08-13T01:57:38",
+        "title": "Default Settings 5.1.1 Released",
+        "body": "elementary OS Default Settings 5.1.1 is out!\r\n\r\nChanges:\r\n* Include accountsservice files for [Greeter](https://github.com/elementary/greeter) use",
+        "href": "https://github.com/elementary/default-settings/releases/tag/5.1.1"
+      },
+      {
+        "version": "5.1.0",
+        "release_date": "2019-03-19T20:24:37",
+        "title": "Default Settings 5.1.0 Released",
+        "body": "elementary OS Default Settings 5.1.0 is out!\r\n\r\nMost of these changes were already sent out to elementary OS as snapshots, this release prepares for conditional compilation.\r\n\r\n* Change default IBus hotkey to `Ctrl+Space`\r\n* Set `QT_QPA_PLATFORMTHEME` to `gtk` for `adwaita-qt` and `qt5-gtk-platformtheme`\r\n* Set `clock-show-date` to `true` in `org.gnome.desktop.interface`\r\n* Set `Onboard` theme to `Nightshade`\r\n* Expand AppCenter blacklist entries\r\n* Manually install and compile gschema so it can support conditions\r\n* Delete unused Ayatana blacklist\r\n* Add `.inputrc`",
+        "href": "https://github.com/elementary/default-settings/releases/tag/5.1.0"
+      },
+      {
+        "version": "5.0",
+        "release_date": "2018-05-23T13:45:38",
+        "title": "Default Settings 5.0 Released",
+        "body": "`elementary-default-settings` 5.0 is out!",
+        "href": "https://github.com/elementary/default-settings/releases/tag/5.0"
+      }
+    ],
+    "new_commits": 0
+  },
+  {
     "name": "mail",
     "releases": [
       {
@@ -3048,47 +3096,6 @@
       }
     ],
     "new_commits": 184
-  },
-  {
-    "name": "default-settings",
-    "releases": [
-      {
-        "version": "6.0.0",
-        "release_date": "2021-07-15T19:59:55",
-        "title": "default-settings 6.0.0 Released",
-        "body": "New upstream release",
-        "href": "https://github.com/elementary/default-settings/releases/tag/6.0.0"
-      },
-      {
-        "version": "5.1.2",
-        "release_date": "2020-01-15T08:18:19",
-        "title": "default-settings 5.1.2 Released",
-        "body": "default-settings 5.1.2 is out!\r\n\r\n<ul>\r\n<li>profile.d: use GTK3_MODULES over GTK_MODULES</li>\r\n<li>Remove switchboard plugs from blacklist</li>\r\n<li>Automatically show & hide the property panel of IBus</li>\r\n<li>Make default search engine DuckDuckGo</li>\r\n<li>Activate g-s-d cursor plugin</li>\r\n<li>Removed deprecated draw-background override</li>\r\n<li>Add AccountsService interfaces for greeter power settings</li>\r\n<li>Accept only first party cookies for enhanced privacy</li>\r\n</ul>",
-        "href": "https://github.com/elementary/default-settings/releases/tag/5.1.2"
-      },
-      {
-        "version": "5.1.1",
-        "release_date": "2019-08-13T01:57:38",
-        "title": "Default Settings 5.1.1 Released",
-        "body": "elementary OS Default Settings 5.1.1 is out!\r\n\r\nChanges:\r\n* Include accountsservice files for [Greeter](https://github.com/elementary/greeter) use",
-        "href": "https://github.com/elementary/default-settings/releases/tag/5.1.1"
-      },
-      {
-        "version": "5.1.0",
-        "release_date": "2019-03-19T20:24:37",
-        "title": "Default Settings 5.1.0 Released",
-        "body": "elementary OS Default Settings 5.1.0 is out!\r\n\r\nMost of these changes were already sent out to elementary OS as snapshots, this release prepares for conditional compilation.\r\n\r\n* Change default IBus hotkey to `Ctrl+Space`\r\n* Set `QT_QPA_PLATFORMTHEME` to `gtk` for `adwaita-qt` and `qt5-gtk-platformtheme`\r\n* Set `clock-show-date` to `true` in `org.gnome.desktop.interface`\r\n* Set `Onboard` theme to `Nightshade`\r\n* Expand AppCenter blacklist entries\r\n* Manually install and compile gschema so it can support conditions\r\n* Delete unused Ayatana blacklist\r\n* Add `.inputrc`",
-        "href": "https://github.com/elementary/default-settings/releases/tag/5.1.0"
-      },
-      {
-        "version": "5.0",
-        "release_date": "2018-05-23T13:45:38",
-        "title": "Default Settings 5.0 Released",
-        "body": "`elementary-default-settings` 5.0 is out!",
-        "href": "https://github.com/elementary/default-settings/releases/tag/5.0"
-      }
-    ],
-    "new_commits": 3
   },
   {
     "name": "switchboard-plug-security-privacy",
