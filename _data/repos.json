@@ -268,7 +268,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 11
+    "new_commits": 12
   },
   {
     "name": "applications-menu",
@@ -1319,7 +1319,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-power/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 26
+    "new_commits": 27
   },
   {
     "name": "os",
@@ -1622,7 +1622,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 62
+    "new_commits": 63
   },
   {
     "name": "calculator",
@@ -3971,7 +3971,7 @@
         "href": "https://github.com/elementary/greeter/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 45
+    "new_commits": 46
   },
   {
     "name": "onboarding",
