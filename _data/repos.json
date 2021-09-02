@@ -732,7 +732,7 @@
         "href": "https://github.com/elementary/tasks/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 60
+    "new_commits": 64
   },
   {
     "name": "initial-setup",
@@ -4413,7 +4413,7 @@
         "href": "https://github.com/elementary/photos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 99
+    "new_commits": 101
   },
   {
     "name": "switchboard",
@@ -5352,7 +5352,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 4617
+    "new_commits": 4618
   },
   {
     "name": "fonts",
