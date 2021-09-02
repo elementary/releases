@@ -420,7 +420,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 30
+    "new_commits": 34
   },
   {
     "name": "applications-menu",
@@ -4413,7 +4413,7 @@
         "href": "https://github.com/elementary/photos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 101
+    "new_commits": 103
   },
   {
     "name": "switchboard",
