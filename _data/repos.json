@@ -197,7 +197,7 @@
         "href": "https://github.com/elementary/mail/releases/tag/1.0.6"
       }
     ],
-    "new_commits": 11
+    "new_commits": 12
   },
   {
     "name": "appcenter",
@@ -780,7 +780,7 @@
         "href": "https://github.com/elementary/initial-setup/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 14
+    "new_commits": 15
   },
   {
     "name": "calendar",
@@ -1021,7 +1021,7 @@
         "href": "https://github.com/elementary/installer/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 27
+    "new_commits": 28
   },
   {
     "name": "wingpanel-indicator-bluetooth",
@@ -5352,7 +5352,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 4639
+    "new_commits": 4647
   },
   {
     "name": "fonts",
