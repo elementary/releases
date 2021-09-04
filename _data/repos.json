@@ -420,7 +420,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 51
+    "new_commits": 54
   },
   {
     "name": "applications-menu",
@@ -732,7 +732,7 @@
         "href": "https://github.com/elementary/tasks/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 69
+    "new_commits": 70
   },
   {
     "name": "initial-setup",
@@ -987,7 +987,7 @@
         "href": "https://github.com/elementary/sideload/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 10
+    "new_commits": 12
   },
   {
     "name": "installer",
@@ -1229,7 +1229,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 33
+    "new_commits": 34
   },
   {
     "name": "switchboard-plug-power",
@@ -1677,7 +1677,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 70
+    "new_commits": 71
   },
   {
     "name": "calculator",
@@ -2060,7 +2060,7 @@
         "href": "https://github.com/elementary/notifications/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 22
+    "new_commits": 23
   },
   {
     "name": "music",
@@ -2279,7 +2279,7 @@
         "href": "https://github.com/elementary/settings-daemon/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 24
+    "new_commits": 25
   },
   {
     "name": "pantheon-agent-geoclue2",
@@ -3985,7 +3985,7 @@
         "href": "https://github.com/elementary/greeter/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 74
+    "new_commits": 76
   },
   {
     "name": "onboarding",
@@ -4192,7 +4192,7 @@
         "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 18
+    "new_commits": 20
   },
   {
     "name": "shortcut-overlay",
@@ -4240,7 +4240,7 @@
         "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.0"
       }
     ],
-    "new_commits": 40
+    "new_commits": 42
   },
   {
     "name": "switchboard-plug-bluetooth",
@@ -4413,7 +4413,7 @@
         "href": "https://github.com/elementary/photos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 107
+    "new_commits": 108
   },
   {
     "name": "switchboard",
