@@ -2472,7 +2472,7 @@
         "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
       }
     ],
-    "new_commits": 61
+    "new_commits": 62
   },
   {
     "name": "switchboard-plug-datetime",
@@ -3102,7 +3102,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 188
+    "new_commits": 189
   },
   {
     "name": "switchboard-plug-security-privacy",
@@ -3433,7 +3433,7 @@
         "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 53
+    "new_commits": 58
   },
   {
     "name": "switchboard-plug-notifications",
@@ -4752,7 +4752,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-session/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 44
+    "new_commits": 45
   },
   {
     "name": "capnet-assist",
