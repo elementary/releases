@@ -1561,7 +1561,7 @@
         "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 42
+    "new_commits": 43
   },
   {
     "name": "action-appcenter-review-parse",
@@ -2472,7 +2472,7 @@
         "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
       }
     ],
-    "new_commits": 62
+    "new_commits": 63
   },
   {
     "name": "switchboard-plug-datetime",
@@ -3433,7 +3433,7 @@
         "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 58
+    "new_commits": 59
   },
   {
     "name": "switchboard-plug-notifications",
