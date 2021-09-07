@@ -420,7 +420,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 65
+    "new_commits": 70
   },
   {
     "name": "applications-menu",
@@ -2832,7 +2832,7 @@
         "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 60
+    "new_commits": 64
   },
   {
     "name": "switchboard-plug-applications",
@@ -3543,7 +3543,7 @@
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 77
+    "new_commits": 78
   },
   {
     "name": "switchboard-plug-network",
@@ -3619,7 +3619,7 @@
         "href": "https://github.com/elementary/switchboard-plug-network/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 47
+    "new_commits": 48
   },
   {
     "name": "switchboard-plug-locale",
@@ -5352,7 +5352,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 4671
+    "new_commits": 4673
   },
   {
     "name": "fonts",
