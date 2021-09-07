@@ -1104,7 +1104,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 25
+    "new_commits": 26
   },
   {
     "name": "granite",
@@ -1471,7 +1471,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-power/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 33
+    "new_commits": 34
   },
   {
     "name": "switchboard-plug-display",
@@ -2389,7 +2389,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-keyboard/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 39
+    "new_commits": 40
   },
   {
     "name": "switchboard-plug-pantheon-shell",
@@ -3778,7 +3778,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 43
+    "new_commits": 44
   },
   {
     "name": "wingpanel-indicator-nightlight",
@@ -5352,7 +5352,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 4668
+    "new_commits": 4671
   },
   {
     "name": "fonts",
