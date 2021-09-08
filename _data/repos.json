@@ -898,7 +898,7 @@
         "href": "https://github.com/elementary/calendar/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 17
+    "new_commits": 18
   },
   {
     "name": "switchboard-plug-onlineaccounts",
@@ -2143,7 +2143,7 @@
         "href": "https://github.com/elementary/music/releases/tag/0.4.0.3"
       }
     ],
-    "new_commits": 100
+    "new_commits": 102
   },
   {
     "name": "wingpanel-indicator-a11y",
@@ -2266,7 +2266,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.0.1"
       }
     ],
-    "new_commits": 42
+    "new_commits": 43
   },
   {
     "name": "settings-daemon",
@@ -4116,7 +4116,7 @@
         "href": "https://github.com/elementary/videos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 68
+    "new_commits": 69
   },
   {
     "name": "pantheon-agent-polkit",
