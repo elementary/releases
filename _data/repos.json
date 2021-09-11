@@ -621,7 +621,7 @@
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
       }
     ],
-    "new_commits": 15
+    "new_commits": 17
   },
   {
     "name": "files",
@@ -3992,7 +3992,7 @@
         "href": "https://github.com/elementary/greeter/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 83
+    "new_commits": 84
   },
   {
     "name": "onboarding",
