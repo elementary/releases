@@ -503,7 +503,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 90
+    "new_commits": 93
   },
   {
     "name": "applications-menu",
@@ -3992,7 +3992,7 @@
         "href": "https://github.com/elementary/greeter/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 84
+    "new_commits": 86
   },
   {
     "name": "onboarding",
