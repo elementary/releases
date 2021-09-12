@@ -621,7 +621,7 @@
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
       }
     ],
-    "new_commits": 17
+    "new_commits": 23
   },
   {
     "name": "files",
@@ -3923,7 +3923,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.0.4"
       }
     ],
-    "new_commits": 45
+    "new_commits": 46
   },
   {
     "name": "greeter",
