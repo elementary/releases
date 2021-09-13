@@ -80,7 +80,7 @@
         "href": "https://github.com/elementary/switchboard-plug-network/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 7
+    "new_commits": 8
   },
   {
     "name": "default-settings",
@@ -4420,7 +4420,7 @@
         "href": "https://github.com/elementary/photos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 111
+    "new_commits": 112
   },
   {
     "name": "switchboard",
