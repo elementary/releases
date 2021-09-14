@@ -80,7 +80,7 @@
         "href": "https://github.com/elementary/switchboard-plug-network/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 8
+    "new_commits": 11
   },
   {
     "name": "default-settings",
@@ -1644,7 +1644,7 @@
         "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 43
+    "new_commits": 44
   },
   {
     "name": "action-appcenter-review-parse",
@@ -2915,7 +2915,7 @@
         "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 82
+    "new_commits": 84
   },
   {
     "name": "switchboard-plug-applications",
@@ -3288,7 +3288,7 @@
         "href": "https://github.com/elementary/switchboard-plug-parental-controls/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 58
+    "new_commits": 60
   },
   {
     "name": "wingpanel-indicator-network",
@@ -3626,7 +3626,7 @@
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 78
+    "new_commits": 79
   },
   {
     "name": "switchboard-plug-locale",
