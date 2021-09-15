@@ -503,7 +503,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 118
+    "new_commits": 121
   },
   {
     "name": "applications-menu",
@@ -2742,7 +2742,7 @@
         "href": "https://github.com/elementary/icons/releases/tag/4.0.1.1"
       }
     ],
-    "new_commits": 3
+    "new_commits": 4
   },
   {
     "name": "stylesheet",
