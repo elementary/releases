@@ -503,7 +503,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 169
+    "new_commits": 170
   },
   {
     "name": "applications-menu",
@@ -981,7 +981,7 @@
         "href": "https://github.com/elementary/calendar/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 23
+    "new_commits": 27
   },
   {
     "name": "switchboard-plug-onlineaccounts",
