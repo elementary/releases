@@ -510,7 +510,7 @@
         "href": "https://github.com/elementary/mail/releases/tag/1.0.6"
       }
     ],
-    "new_commits": 73
+    "new_commits": 76
   },
   {
     "name": "applications-menu",
@@ -988,7 +988,7 @@
         "href": "https://github.com/elementary/calendar/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 65
+    "new_commits": 69
   },
   {
     "name": "switchboard-plug-onlineaccounts",
@@ -2369,7 +2369,7 @@
         "href": "https://github.com/elementary/settings-daemon/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 27
+    "new_commits": 28
   },
   {
     "name": "pantheon-agent-geoclue2",
