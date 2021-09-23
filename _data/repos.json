@@ -52,7 +52,7 @@
         "href": "https://github.com/elementary/sideload/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 8
+    "new_commits": 9
   },
   {
     "name": "greeter",
@@ -128,7 +128,7 @@
         "href": "https://github.com/elementary/greeter/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 9
+    "new_commits": 10
   },
   {
     "name": "calendar",
@@ -315,7 +315,7 @@
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 9
+    "new_commits": 10
   },
   {
     "name": "switchboard-plug-mouse-touchpad",
@@ -1879,7 +1879,7 @@
         "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 60
+    "new_commits": 61
   },
   {
     "name": "action-appcenter-review-parse",
@@ -1995,7 +1995,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 87
+    "new_commits": 88
   },
   {
     "name": "calculator",
@@ -4462,7 +4462,7 @@
         "href": "https://github.com/elementary/photos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 122
+    "new_commits": 123
   },
   {
     "name": "switchboard",
