@@ -128,7 +128,7 @@
         "href": "https://github.com/elementary/greeter/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 5
+    "new_commits": 6
   },
   {
     "name": "calendar",
@@ -315,7 +315,7 @@
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 6
+    "new_commits": 7
   },
   {
     "name": "switchboard-plug-mouse-touchpad",
@@ -1216,7 +1216,7 @@
         "href": "https://github.com/elementary/tasks/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 79
+    "new_commits": 80
   },
   {
     "name": "initial-setup",
@@ -1995,7 +1995,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 84
+    "new_commits": 85
   },
   {
     "name": "calculator",
