@@ -142,7 +142,7 @@
         "href": "https://github.com/elementary/sideload/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 9
+    "new_commits": 10
   },
   {
     "name": "greeter",
@@ -218,7 +218,7 @@
         "href": "https://github.com/elementary/greeter/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 10
+    "new_commits": 11
   },
   {
     "name": "calendar",
@@ -398,7 +398,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 11
+    "new_commits": 12
   },
   {
     "name": "switchboard-plug-keyboard",
@@ -3240,7 +3240,7 @@
         "href": "https://github.com/elementary/switchboard-plug-applications/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 36
+    "new_commits": 40
   },
   {
     "name": "terminal",
