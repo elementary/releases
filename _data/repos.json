@@ -253,7 +253,7 @@
         "href": "https://github.com/elementary/calendar/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 5
+    "new_commits": 8
   },
   {
     "name": "switchboard-plug-keyboard",
@@ -315,7 +315,7 @@
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 8
+    "new_commits": 9
   },
   {
     "name": "switchboard-plug-mouse-touchpad",
@@ -621,7 +621,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 18
+    "new_commits": 19
   },
   {
     "name": "switchboard-plug-network",
@@ -1022,7 +1022,7 @@
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
       }
     ],
-    "new_commits": 30
+    "new_commits": 32
   },
   {
     "name": "files",
@@ -1422,7 +1422,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 27
+    "new_commits": 28
   },
   {
     "name": "granite",
@@ -1789,7 +1789,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-power/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 35
+    "new_commits": 36
   },
   {
     "name": "switchboard-plug-display",
@@ -1879,7 +1879,7 @@
         "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 59
+    "new_commits": 60
   },
   {
     "name": "action-appcenter-review-parse",
@@ -2584,7 +2584,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.0.1"
       }
     ],
-    "new_commits": 54
+    "new_commits": 56
   },
   {
     "name": "settings-daemon",
