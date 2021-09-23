@@ -1,5 +1,95 @@
 [
   {
+    "name": "photos",
+    "releases": [
+      {
+        "version": "2.7.2",
+        "release_date": "2021-09-23T01:31:05",
+        "title": "Photos 2.7.2 Released",
+        "body": "* Draw selection rectangle when dragging to select\r\n* Show image titles in preview mode\r\n* Translation updates",
+        "href": "https://github.com/elementary/photos/releases/tag/2.7.2"
+      },
+      {
+        "version": "2.7.1",
+        "release_date": "2021-07-14T18:01:14",
+        "title": "photos 2.7.1 Released",
+        "body": "<ul>\n<li>Fix keyboard activation in tool windows</li>\n<li>Show saved state correctly in the context-menu</li>\n<li>Translation updates</li>\n</ul>\n",
+        "href": "https://github.com/elementary/photos/releases/tag/2.7.1"
+      },
+      {
+        "version": "2.7.0",
+        "release_date": "2020-04-08T20:18:53",
+        "title": "photos 2.7.0 Released",
+        "body": "<ul>\n<li>Add Open In menu to the photo viewer</li>\n<li>Translation updates</li>\n</ul>\n",
+        "href": "https://github.com/elementary/photos/releases/tag/2.7.0"
+      },
+      {
+        "version": "2.6.5",
+        "release_date": "2019-11-15T22:14:37",
+        "title": "photos 2.6.5 Released",
+        "body": "photos 2.6.5 is out! \n\nChanges:\n\n* Add checkerboard behind semi-transparent photos in grid view\n* Fix pasting in comment box\n* Make sure we show the right apps in the Open In menu\n* Redesign a large number of dialogs\n* Translation updates\n",
+        "href": "https://github.com/elementary/photos/releases/tag/2.6.5"
+      },
+      {
+        "version": "2.6.4",
+        "release_date": "2019-05-16T10:50:25",
+        "title": "Photos 2.6.4 Released",
+        "body": "Photos 2.6.4 is out!\r\n\r\nChanges:\r\n* Fix building against latest gexiv2\r\n* Updated translations",
+        "href": "https://github.com/elementary/photos/releases/tag/2.6.4"
+      },
+      {
+        "version": "2.6.3",
+        "release_date": "2019-04-08T17:15:05",
+        "title": "Photos 2.6.3 Released",
+        "body": "Photos 2.6.3 is out!\r\n\r\nChanges:\r\n* Fix building against latest gexiv2\r\n* Use Granite.MessageDialog throughout\r\n* Use Gtk.FileChooserNative throughout\r\n* Updated translations",
+        "href": "https://github.com/elementary/photos/releases/tag/2.6.3"
+      },
+      {
+        "version": "2.6.2",
+        "release_date": "2019-01-28T06:20:27",
+        "title": "Photos 2.6.2 Released",
+        "body": "Photos 2.6.2 is out!\r\n\r\nChanges:\r\n* Updated translations",
+        "href": "https://github.com/elementary/photos/releases/tag/2.6.2"
+      },
+      {
+        "version": "2.6.1",
+        "release_date": "2018-10-29T15:03:00",
+        "title": "Photos 2.6.1 Released",
+        "body": "Photos 2.6.1 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/photos/issues?q=is%3Aclosed+milestone%3A2.6.1).",
+        "href": "https://github.com/elementary/photos/releases/tag/2.6.1"
+      },
+      {
+        "version": "2.6.0",
+        "release_date": "2018-10-16T02:54:25",
+        "title": "Photos 2.6.0 Released",
+        "body": "Photos 2.6.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/photos/issues?q=is%3Aclosed+milestone%3A2.6.0).",
+        "href": "https://github.com/elementary/photos/releases/tag/2.6.0"
+      },
+      {
+        "version": "0.2.5",
+        "release_date": "2018-06-20T07:23:42",
+        "title": "Photos 0.2.5 Released",
+        "body": "Photos 0.2.5 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/photos/issues?q=is%3Aclosed+milestone%3A0.2.5).",
+        "href": "https://github.com/elementary/photos/releases/tag/0.2.5"
+      },
+      {
+        "version": "0.2.4",
+        "release_date": "2017-07-28T02:26:23",
+        "title": "Photos 0.2.4 Released",
+        "body": "pantheon-photos 0.2.4 is out!",
+        "href": "https://github.com/elementary/photos/releases/tag/0.2.4"
+      },
+      {
+        "version": "0.2.3",
+        "release_date": "2017-05-02T20:03:49",
+        "title": "Photos 0.2.3 Released",
+        "body": "pantheon-photos 0.2.3 is out!",
+        "href": "https://github.com/elementary/photos/releases/tag/0.2.3"
+      }
+    ],
+    "new_commits": 6
+  },
+  {
     "name": "sideload",
     "releases": [
       {
@@ -904,7 +994,7 @@
         "href": "https://github.com/elementary/mail/releases/tag/1.0.6"
       }
     ],
-    "new_commits": 96
+    "new_commits": 101
   },
   {
     "name": "applications-menu",
@@ -4380,89 +4470,6 @@
       }
     ],
     "new_commits": 37
-  },
-  {
-    "name": "photos",
-    "releases": [
-      {
-        "version": "2.7.1",
-        "release_date": "2021-07-14T18:01:14",
-        "title": "photos 2.7.1 Released",
-        "body": "<ul>\n<li>Fix keyboard activation in tool windows</li>\n<li>Show saved state correctly in the context-menu</li>\n<li>Translation updates</li>\n</ul>\n",
-        "href": "https://github.com/elementary/photos/releases/tag/2.7.1"
-      },
-      {
-        "version": "2.7.0",
-        "release_date": "2020-04-08T20:18:53",
-        "title": "photos 2.7.0 Released",
-        "body": "<ul>\n<li>Add Open In menu to the photo viewer</li>\n<li>Translation updates</li>\n</ul>\n",
-        "href": "https://github.com/elementary/photos/releases/tag/2.7.0"
-      },
-      {
-        "version": "2.6.5",
-        "release_date": "2019-11-15T22:14:37",
-        "title": "photos 2.6.5 Released",
-        "body": "photos 2.6.5 is out! \n\nChanges:\n\n* Add checkerboard behind semi-transparent photos in grid view\n* Fix pasting in comment box\n* Make sure we show the right apps in the Open In menu\n* Redesign a large number of dialogs\n* Translation updates\n",
-        "href": "https://github.com/elementary/photos/releases/tag/2.6.5"
-      },
-      {
-        "version": "2.6.4",
-        "release_date": "2019-05-16T10:50:25",
-        "title": "Photos 2.6.4 Released",
-        "body": "Photos 2.6.4 is out!\r\n\r\nChanges:\r\n* Fix building against latest gexiv2\r\n* Updated translations",
-        "href": "https://github.com/elementary/photos/releases/tag/2.6.4"
-      },
-      {
-        "version": "2.6.3",
-        "release_date": "2019-04-08T17:15:05",
-        "title": "Photos 2.6.3 Released",
-        "body": "Photos 2.6.3 is out!\r\n\r\nChanges:\r\n* Fix building against latest gexiv2\r\n* Use Granite.MessageDialog throughout\r\n* Use Gtk.FileChooserNative throughout\r\n* Updated translations",
-        "href": "https://github.com/elementary/photos/releases/tag/2.6.3"
-      },
-      {
-        "version": "2.6.2",
-        "release_date": "2019-01-28T06:20:27",
-        "title": "Photos 2.6.2 Released",
-        "body": "Photos 2.6.2 is out!\r\n\r\nChanges:\r\n* Updated translations",
-        "href": "https://github.com/elementary/photos/releases/tag/2.6.2"
-      },
-      {
-        "version": "2.6.1",
-        "release_date": "2018-10-29T15:03:00",
-        "title": "Photos 2.6.1 Released",
-        "body": "Photos 2.6.1 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/photos/issues?q=is%3Aclosed+milestone%3A2.6.1).",
-        "href": "https://github.com/elementary/photos/releases/tag/2.6.1"
-      },
-      {
-        "version": "2.6.0",
-        "release_date": "2018-10-16T02:54:25",
-        "title": "Photos 2.6.0 Released",
-        "body": "Photos 2.6.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/photos/issues?q=is%3Aclosed+milestone%3A2.6.0).",
-        "href": "https://github.com/elementary/photos/releases/tag/2.6.0"
-      },
-      {
-        "version": "0.2.5",
-        "release_date": "2018-06-20T07:23:42",
-        "title": "Photos 0.2.5 Released",
-        "body": "Photos 0.2.5 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/photos/issues?q=is%3Aclosed+milestone%3A0.2.5).",
-        "href": "https://github.com/elementary/photos/releases/tag/0.2.5"
-      },
-      {
-        "version": "0.2.4",
-        "release_date": "2017-07-28T02:26:23",
-        "title": "Photos 0.2.4 Released",
-        "body": "pantheon-photos 0.2.4 is out!",
-        "href": "https://github.com/elementary/photos/releases/tag/0.2.4"
-      },
-      {
-        "version": "0.2.3",
-        "release_date": "2017-05-02T20:03:49",
-        "title": "Photos 0.2.3 Released",
-        "body": "pantheon-photos 0.2.3 is out!",
-        "href": "https://github.com/elementary/photos/releases/tag/0.2.3"
-      }
-    ],
-    "new_commits": 123
   },
   {
     "name": "switchboard",
