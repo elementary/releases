@@ -545,7 +545,7 @@
         "version": "3.8.0",
         "release_date": "2021-09-21T21:48:38",
         "title": "AppCenter 3.8.0 Released",
-        "body": "New features:\r\n * Show content warnings on app info pages\r\n\r\nFixes:\r\n* Show other apps by an author for Flatpak sources\r\n*  Populate banner on home locally instead of relying on an external API\r\n\r\nImprovements:\r\n* Greatly increased number of recently-updated apps shown on home page\r\n* Navigate banners on the home page with multitouch gestures\r\n* Updated translations",
+        "body": "New features:\r\n - Show content warnings on app info pages\r\n\r\nFixes:\r\n- Show other apps by an author for Flatpak sources\r\n- Populate banner on home locally instead of relying on an external API\r\n\r\nImprovements:\r\n- Greatly increased number of recently-updated apps shown on home page\r\n- Navigate banners on the home page with multitouch gestures\r\n- Updated translations",
         "href": "https://github.com/elementary/appcenter/releases/tag/3.8.0"
       },
       {
@@ -766,7 +766,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 19
+    "new_commits": 20
   },
   {
     "name": "switchboard-plug-network",
@@ -1327,7 +1327,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 74
+    "new_commits": 75
   },
   {
     "name": "tasks",
