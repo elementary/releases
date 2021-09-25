@@ -2024,7 +2024,7 @@
         "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 63
+    "new_commits": 64
   },
   {
     "name": "action-appcenter-review-parse",
@@ -3240,7 +3240,7 @@
         "href": "https://github.com/elementary/switchboard-plug-applications/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 49
+    "new_commits": 50
   },
   {
     "name": "terminal",
