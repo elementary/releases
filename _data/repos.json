@@ -142,7 +142,7 @@
         "href": "https://github.com/elementary/sideload/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 11
+    "new_commits": 12
   },
   {
     "name": "greeter",
@@ -218,7 +218,7 @@
         "href": "https://github.com/elementary/greeter/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 13
+    "new_commits": 14
   },
   {
     "name": "calendar",
@@ -398,7 +398,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 14
+    "new_commits": 15
   },
   {
     "name": "switchboard-plug-keyboard",
@@ -1361,7 +1361,7 @@
         "href": "https://github.com/elementary/tasks/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 88
+    "new_commits": 91
   },
   {
     "name": "initial-setup",
@@ -1692,7 +1692,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 38
+    "new_commits": 39
   },
   {
     "name": "switchboard-plug-power",
@@ -2209,7 +2209,7 @@
         "href": "https://github.com/elementary/feedback/releases/tag/1.0"
       }
     ],
-    "new_commits": 56
+    "new_commits": 57
   },
   {
     "name": "switchboard-plug-wacom",
@@ -2475,7 +2475,7 @@
         "href": "https://github.com/elementary/notifications/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 28
+    "new_commits": 29
   },
   {
     "name": "music",
@@ -2694,7 +2694,7 @@
         "href": "https://github.com/elementary/settings-daemon/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 28
+    "new_commits": 29
   },
   {
     "name": "pantheon-agent-geoclue2",
@@ -2742,7 +2742,7 @@
         "href": "https://github.com/elementary/pantheon-agent-geoclue2/releases/tag/1.0"
       }
     ],
-    "new_commits": 13
+    "new_commits": 14
   },
   {
     "name": "wingpanel-indicator-keyboard",
@@ -4338,7 +4338,7 @@
         "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 22
+    "new_commits": 23
   },
   {
     "name": "shortcut-overlay",
@@ -4386,7 +4386,7 @@
         "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.0"
       }
     ],
-    "new_commits": 42
+    "new_commits": 43
   },
   {
     "name": "switchboard-plug-bluetooth",
@@ -4870,7 +4870,7 @@
         "href": "https://github.com/elementary/capnet-assist/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 48
+    "new_commits": 49
   },
   {
     "name": "wallpapers",
