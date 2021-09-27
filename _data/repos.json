@@ -2558,7 +2558,7 @@
         "href": "https://github.com/elementary/music/releases/tag/0.4.0.3"
       }
     ],
-    "new_commits": 119
+    "new_commits": 122
   },
   {
     "name": "wingpanel-indicator-a11y",
@@ -4262,7 +4262,7 @@
         "href": "https://github.com/elementary/videos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 74
+    "new_commits": 76
   },
   {
     "name": "pantheon-agent-polkit",
