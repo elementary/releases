@@ -2681,7 +2681,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.0.1"
       }
     ],
-    "new_commits": 59
+    "new_commits": 60
   },
   {
     "name": "settings-daemon",
@@ -3448,7 +3448,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 266
+    "new_commits": 271
   },
   {
     "name": "switchboard-plug-security-privacy",
