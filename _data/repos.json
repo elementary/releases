@@ -2558,7 +2558,7 @@
         "href": "https://github.com/elementary/music/releases/tag/0.4.0.3"
       }
     ],
-    "new_commits": 124
+    "new_commits": 126
   },
   {
     "name": "wingpanel-indicator-a11y",
@@ -3448,7 +3448,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 265
+    "new_commits": 266
   },
   {
     "name": "switchboard-plug-security-privacy",
