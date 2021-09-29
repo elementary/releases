@@ -869,7 +869,7 @@
         "href": "https://github.com/elementary/photos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 18
+    "new_commits": 20
   },
   {
     "name": "sideload",
@@ -1000,7 +1000,7 @@
         "href": "https://github.com/elementary/greeter/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 15
+    "new_commits": 16
   },
   {
     "name": "calendar",
