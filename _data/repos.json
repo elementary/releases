@@ -59,7 +59,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 1
+    "new_commits": 5
   },
   {
     "name": "code",
@@ -142,7 +142,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 4
+    "new_commits": 6
   },
   {
     "name": "switchboard-plug-onlineaccounts",
@@ -1062,7 +1062,7 @@
         "href": "https://github.com/elementary/greeter/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 16
+    "new_commits": 17
   },
   {
     "name": "calendar",
@@ -2080,7 +2080,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 41
+    "new_commits": 42
   },
   {
     "name": "switchboard-plug-power",
@@ -2597,7 +2597,7 @@
         "href": "https://github.com/elementary/feedback/releases/tag/1.0"
       }
     ],
-    "new_commits": 60
+    "new_commits": 61
   },
   {
     "name": "switchboard-plug-wacom",
@@ -3013,7 +3013,7 @@
         "href": "https://github.com/elementary/settings-daemon/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 30
+    "new_commits": 32
   },
   {
     "name": "pantheon-agent-geoclue2",
@@ -4567,7 +4567,7 @@
         "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.0"
       }
     ],
-    "new_commits": 46
+    "new_commits": 47
   },
   {
     "name": "switchboard-plug-bluetooth",
@@ -4940,7 +4940,7 @@
         "href": "https://github.com/elementary/capnet-assist/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 52
+    "new_commits": 53
   },
   {
     "name": "wallpapers",
