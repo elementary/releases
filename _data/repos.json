@@ -1,5 +1,67 @@
 [
   {
+    "name": "gala",
+    "releases": [
+      {
+        "version": "6.2.1",
+        "release_date": "2021-09-29T17:20:47",
+        "title": "Gala 6.2.1 Released",
+        "body": "<p>Improvements:</p>\r\n<ul>\r\n<li>Fix a potential crash when taking screenshots</li>\r\n<li>Updated translations</li>\r\n</ul>",
+        "href": "https://github.com/elementary/gala/releases/tag/6.2.1"
+      },
+      {
+        "version": "6.2.0",
+        "release_date": "2021-09-22T20:42:08",
+        "title": "Gala 6.2.0 Released",
+        "body": "<p>New features:</p>\r\n<ul>\r\n  <li>Stash the picture-in-picture window by pushing it off screen</li>\r\n</ul>\r\n<p>Improvements:</p>\r\n<ul>\r\n  <li>Fix a potential crash while changing wallpapers</li>\r\n  <li>Updated translations</li>\r\n</ul>",
+        "href": "https://github.com/elementary/gala/releases/tag/6.2.0"
+      },
+      {
+        "version": "6.0.1",
+        "release_date": "2021-08-11T20:53:00",
+        "title": "Gala 6.0.1 Released",
+        "body": "<p>Improvements:</p>\r\n<ul>\r\n<li>Include window decorations in screenshots for server-side decorated windows</li>\r\n<li>Updated translations</li>\r\n</ul>",
+        "href": "https://github.com/elementary/gala/releases/tag/6.0.1"
+      },
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-14T17:07:19",
+        "title": "Gala 6.0.0 Released",
+        "body": "Improvements:\r\n- Add multitouch gestures\r\n- Show window titles in multitasking view\r\n- Close the Alt + Tab switcher by pressing Esc without releasing Alt\r\n- Increase maximum zoom level and provide feedback when unable to zoom\r\n- Show a context menu when secondary clicking the background\r\n- New Dwell Click and Locate Pointer animations\r\n- Add Take Screenshot to window context menu\r\n- Always play shutter sound when taking screenshots\r\n- Minor visual improvements\r\n- HiDPI fixes\r\n- Performance improvements\r\n- Updated translations",
+        "href": "https://github.com/elementary/gala/releases/tag/6.0.0"
+      },
+      {
+        "version": "3.3.2",
+        "release_date": "2020-04-30T22:23:37",
+        "title": "gala 3.3.2 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Fix \u201cAlways on Visible Workspace\u201d windows disappearing when changing workspaces</li>\n<li>Fix windows on non-primary displays disappearing when changing workspaces</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/gala/releases/tag/3.3.2"
+      },
+      {
+        "version": "3.3.1",
+        "release_date": "2020-04-25T17:27:44",
+        "title": "gala 3.3.1 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Fix crash when changing workspaces while a transient window is opening</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/gala/releases/tag/3.3.1"
+      },
+      {
+        "version": "3.3.0",
+        "release_date": "2020-04-03T18:45:09",
+        "title": "gala 3.3.0 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Don't show Gala Background Services in the dock</li>\n<li>Fixes for media key handling</li>\n<li>Show keyboard shortcuts in HeaderBar menus</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/gala/releases/tag/3.3.0"
+      },
+      {
+        "version": "3.2.0",
+        "release_date": "2020-01-07T17:58:30",
+        "title": "gala 3.2.0 Released",
+        "body": "gala 3.2.0 is out! \n\n<p>Improvements:</p>\n<ul>\n<li>Improve window shadows for legacy apps</li>\n<li>Fix potential crash when taking screenshots</li>\n<li>Fix notification position after changing DPI</li>\n<li>Fix animations for moving and maximizing tiled windows</li>\n</ul>\n",
+        "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
+      }
+    ],
+    "new_commits": 0
+  },
+  {
     "name": "code",
     "releases": [
       {
@@ -1126,61 +1188,6 @@
       }
     ],
     "new_commits": 12
-  },
-  {
-    "name": "gala",
-    "releases": [
-      {
-        "version": "6.2.0",
-        "release_date": "2021-09-22T20:42:08",
-        "title": "Gala 6.2.0 Released",
-        "body": "<p>New features:</p>\r\n<ul>\r\n  <li>Stash the picture-in-picture window by pushing it off screen</li>\r\n</ul>\r\n<p>Improvements:</p>\r\n<ul>\r\n  <li>Fix a potential crash while changing wallpapers</li>\r\n  <li>Updated translations</li>\r\n</ul>",
-        "href": "https://github.com/elementary/gala/releases/tag/6.2.0"
-      },
-      {
-        "version": "6.0.1",
-        "release_date": "2021-08-11T20:53:00",
-        "title": "Gala 6.0.1 Released",
-        "body": "<p>Improvements:</p>\r\n<ul>\r\n<li>Include window decorations in screenshots for server-side decorated windows</li>\r\n<li>Updated translations</li>\r\n</ul>",
-        "href": "https://github.com/elementary/gala/releases/tag/6.0.1"
-      },
-      {
-        "version": "6.0.0",
-        "release_date": "2021-07-14T17:07:19",
-        "title": "Gala 6.0.0 Released",
-        "body": "Improvements:\r\n- Add multitouch gestures\r\n- Show window titles in multitasking view\r\n- Close the Alt + Tab switcher by pressing Esc without releasing Alt\r\n- Increase maximum zoom level and provide feedback when unable to zoom\r\n- Show a context menu when secondary clicking the background\r\n- New Dwell Click and Locate Pointer animations\r\n- Add Take Screenshot to window context menu\r\n- Always play shutter sound when taking screenshots\r\n- Minor visual improvements\r\n- HiDPI fixes\r\n- Performance improvements\r\n- Updated translations",
-        "href": "https://github.com/elementary/gala/releases/tag/6.0.0"
-      },
-      {
-        "version": "3.3.2",
-        "release_date": "2020-04-30T22:23:37",
-        "title": "gala 3.3.2 Released",
-        "body": "<p>Improvements:</p>\n<ul>\n<li>Fix \u201cAlways on Visible Workspace\u201d windows disappearing when changing workspaces</li>\n<li>Fix windows on non-primary displays disappearing when changing workspaces</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/gala/releases/tag/3.3.2"
-      },
-      {
-        "version": "3.3.1",
-        "release_date": "2020-04-25T17:27:44",
-        "title": "gala 3.3.1 Released",
-        "body": "<p>Improvements:</p>\n<ul>\n<li>Fix crash when changing workspaces while a transient window is opening</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/gala/releases/tag/3.3.1"
-      },
-      {
-        "version": "3.3.0",
-        "release_date": "2020-04-03T18:45:09",
-        "title": "gala 3.3.0 Released",
-        "body": "<p>Improvements:</p>\n<ul>\n<li>Don't show Gala Background Services in the dock</li>\n<li>Fixes for media key handling</li>\n<li>Show keyboard shortcuts in HeaderBar menus</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/gala/releases/tag/3.3.0"
-      },
-      {
-        "version": "3.2.0",
-        "release_date": "2020-01-07T17:58:30",
-        "title": "gala 3.2.0 Released",
-        "body": "gala 3.2.0 is out! \n\n<p>Improvements:</p>\n<ul>\n<li>Improve window shadows for legacy apps</li>\n<li>Fix potential crash when taking screenshots</li>\n<li>Fix notification position after changing DPI</li>\n<li>Fix animations for moving and maximizing tiled windows</li>\n</ul>\n",
-        "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
-      }
-    ],
-    "new_commits": 20
   },
   {
     "name": "switchboard-plug-keyboard",
@@ -4933,7 +4940,7 @@
         "href": "https://github.com/elementary/capnet-assist/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 51
+    "new_commits": 52
   },
   {
     "name": "wallpapers",
