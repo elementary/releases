@@ -467,7 +467,7 @@
         "href": "https://github.com/elementary/tasks/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 4
+    "new_commits": 5
   },
   {
     "name": "wingpanel",
@@ -869,7 +869,7 @@
         "href": "https://github.com/elementary/photos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 20
+    "new_commits": 22
   },
   {
     "name": "sideload",
