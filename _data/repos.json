@@ -1125,7 +1125,7 @@
         "href": "https://github.com/elementary/calendar/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 10
+    "new_commits": 12
   },
   {
     "name": "gala",
@@ -1180,7 +1180,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 18
+    "new_commits": 20
   },
   {
     "name": "switchboard-plug-keyboard",
@@ -5478,7 +5478,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 4756
+    "new_commits": 4757
   },
   {
     "name": "fonts",
