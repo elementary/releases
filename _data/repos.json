@@ -59,7 +59,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 5
+    "new_commits": 6
   },
   {
     "name": "code",
@@ -142,7 +142,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 6
+    "new_commits": 7
   },
   {
     "name": "switchboard-plug-onlineaccounts",
@@ -5485,7 +5485,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 4758
+    "new_commits": 4762
   },
   {
     "name": "fonts",
