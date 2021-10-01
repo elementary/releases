@@ -357,7 +357,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 10
+    "new_commits": 42
   },
   {
     "name": "mail",
@@ -529,7 +529,7 @@
         "href": "https://github.com/elementary/tasks/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 6
+    "new_commits": 9
   },
   {
     "name": "wingpanel",
