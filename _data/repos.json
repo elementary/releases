@@ -529,7 +529,7 @@
         "href": "https://github.com/elementary/tasks/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 5
+    "new_commits": 6
   },
   {
     "name": "wingpanel",
@@ -1555,7 +1555,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 21
+    "new_commits": 29
   },
   {
     "name": "switchboard-plug-network",
@@ -2080,7 +2080,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 44
+    "new_commits": 45
   },
   {
     "name": "switchboard-plug-power",
