@@ -931,7 +931,7 @@
         "href": "https://github.com/elementary/photos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 25
+    "new_commits": 27
   },
   {
     "name": "sideload",
@@ -2080,7 +2080,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 46
+    "new_commits": 47
   },
   {
     "name": "switchboard-plug-power",
@@ -5485,7 +5485,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 4778
+    "new_commits": 4783
   },
   {
     "name": "fonts",
