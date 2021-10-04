@@ -529,7 +529,7 @@
         "href": "https://github.com/elementary/tasks/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 9
+    "new_commits": 13
   },
   {
     "name": "wingpanel",
@@ -5485,7 +5485,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 4785
+    "new_commits": 4805
   },
   {
     "name": "fonts",
