@@ -3960,7 +3960,7 @@
         "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 61
+    "new_commits": 63
   },
   {
     "name": "switchboard-plug-notifications",
@@ -5485,7 +5485,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 4784
+    "new_commits": 4785
   },
   {
     "name": "fonts",
