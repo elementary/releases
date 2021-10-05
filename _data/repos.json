@@ -1555,7 +1555,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 34
+    "new_commits": 35
   },
   {
     "name": "switchboard-plug-network",
@@ -1695,7 +1695,7 @@
         "version": "6.0.2",
         "release_date": "2021-08-31T17:30:17",
         "title": "6.0.2 Odin",
-        "body": "elementary OS 6 Updates for September, 2021.\r\n\r\n- [ ] [CI](https://github.com/elementary/os/runs/3798923422)\r\n- [ ] [Early Access](https://builds.elementary.io/)\r\n- [ ] [Blog post](https://blog.elementary.io/elementary-os-6-odin-updates-september-2021/)\r\n- [ ] [Download](https://elementary.io) (https://github.com/elementary/website/)",
+        "body": "elementary OS 6 Updates for September, 2021.\r\n\r\n- [x] [CI](https://github.com/elementary/os/runs/3798923422)\r\n- [x] [Early Access](https://builds.elementary.io/)\r\n- [x] [Blog post](https://blog.elementary.io/elementary-os-6-odin-updates-september-2021/)\r\n- [ ] [Download](https://elementary.io) (https://github.com/elementary/website/)",
         "href": "https://github.com/elementary/os/releases/tag/6.0.2"
       },
       {
