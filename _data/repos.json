@@ -1845,7 +1845,7 @@
         "href": "https://github.com/elementary/initial-setup/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 23
+    "new_commits": 24
   },
   {
     "name": "installer",
@@ -4367,7 +4367,7 @@
         "href": "https://github.com/elementary/onboarding/releases/tag/1.0"
       }
     ],
-    "new_commits": 128
+    "new_commits": 129
   },
   {
     "name": "videos",
