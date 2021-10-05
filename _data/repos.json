@@ -1555,7 +1555,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 35
+    "new_commits": 39
   },
   {
     "name": "switchboard-plug-network",
@@ -1695,14 +1695,14 @@
         "version": "6.0.2",
         "release_date": "2021-08-31T17:30:17",
         "title": "6.0.2 Odin",
-        "body": "elementary OS 6 Updates for September, 2021.\r\n\r\n- [x] [CI](https://github.com/elementary/os/runs/3798923422)\r\n- [x] [Early Access](https://builds.elementary.io/)\r\n- [x] [Blog post](https://blog.elementary.io/elementary-os-6-odin-updates-september-2021/)\r\n- [ ] [Download](https://elementary.io) (https://github.com/elementary/website/)",
+        "body": "elementary OS 6 Updates for September, 2021. Another roundup of new features, bug fixes, and performance improvements is here! Expect a speed boost out of Mail, improvements to online accounts, fresh creature comforts, and big improevments to AppCenter, including new content and privacy information.\r\n\r\n- [x] [CI](https://github.com/elementary/os/runs/3798923422)\r\n- [x] [Early Access](https://builds.elementary.io/)\r\n- [x] [Blog post](https://blog.elementary.io/elementary-os-6-odin-updates-september-2021/)\r\n- [ ] [Download](https://elementary.io) (https://github.com/elementary/website/pull/2859)\r\n\r\nAs always, more info about installing (including verifying the SHA256 sum) can be found at [elementary.io/docs/installation](https://elementary.io/docs/installation). Be sure to read the [release FAQ](https://github.com/elementary/os/wiki/elementary-OS-6-Odin-FAQ).",
         "href": "https://github.com/elementary/os/releases/tag/6.0.2"
       },
       {
         "version": "6.0.1",
         "release_date": "2021-08-31T17:30:17",
         "title": "6.0.1 Odin",
-        "body": "elementary OS 6 Updates for August, 2021. Just three weeks since the release, and we already have more goodies. \r\n\r\n- [x] [CI](https://github.com/elementary/os/runs/3477448192)\r\n- [x] [Early Access](https://builds.elementary.io/)\r\n- [x] [Blog post](https://blog.elementary.io/elementary-os-6-odin-updates-august-2021/)\r\n- [x] [Download](https://elementary.io) (https://github.com/elementary/website/pull/2820)",
+        "body": "elementary OS 6 Updates for August, 2021. Just three weeks since the release, and we already have more goodies. \r\n\r\n- [x] [CI](https://github.com/elementary/os/runs/3477448192)\r\n- [x] [Early Access](https://builds.elementary.io/)\r\n- [x] [Blog post](https://blog.elementary.io/elementary-os-6-odin-updates-august-2021/)\r\n- [x] [Download](https://elementary.io) (https://github.com/elementary/website/pull/2820)\r\n\r\nAs always, more info about installing (including verifying the SHA256 sum) can be found at [elementary.io/docs/installation](https://elementary.io/docs/installation). Be sure to read the [release FAQ](https://github.com/elementary/os/wiki/elementary-OS-6-Odin-FAQ).",
         "href": "https://github.com/elementary/os/releases/tag/6.0.1"
       },
       {
