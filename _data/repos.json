@@ -986,7 +986,7 @@
         "href": "https://github.com/elementary/sideload/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 36
+    "new_commits": 38
   },
   {
     "name": "greeter",
@@ -1555,7 +1555,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 43
+    "new_commits": 44
   },
   {
     "name": "switchboard-plug-network",
@@ -2087,7 +2087,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 53
+    "new_commits": 55
   },
   {
     "name": "switchboard-plug-power",
@@ -2604,7 +2604,7 @@
         "href": "https://github.com/elementary/feedback/releases/tag/1.0"
       }
     ],
-    "new_commits": 63
+    "new_commits": 64
   },
   {
     "name": "switchboard-plug-wacom",
@@ -4526,7 +4526,7 @@
         "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 24
+    "new_commits": 25
   },
   {
     "name": "shortcut-overlay",
