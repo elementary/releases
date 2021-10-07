@@ -986,7 +986,7 @@
         "href": "https://github.com/elementary/sideload/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 34
+    "new_commits": 36
   },
   {
     "name": "greeter",
@@ -5492,7 +5492,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 4823
+    "new_commits": 4826
   },
   {
     "name": "fonts",
