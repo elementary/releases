@@ -1249,7 +1249,7 @@
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 12
+    "new_commits": 13
   },
   {
     "name": "switchboard-plug-mouse-touchpad",
@@ -1638,7 +1638,7 @@
         "href": "https://github.com/elementary/switchboard-plug-network/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 15
+    "new_commits": 16
   },
   {
     "name": "default-settings",
@@ -2163,7 +2163,7 @@
         "href": "https://github.com/elementary/switchboard-plug-power/releases/tag/0.3.1"
       }
     ],
-    "new_commits": 14
+    "new_commits": 15
   },
   {
     "name": "switchboard-plug-about",
@@ -3967,7 +3967,7 @@
         "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 70
+    "new_commits": 71
   },
   {
     "name": "switchboard-plug-notifications",
