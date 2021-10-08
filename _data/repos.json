@@ -142,7 +142,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 17
+    "new_commits": 18
   },
   {
     "name": "switchboard-plug-onlineaccounts",
@@ -4450,7 +4450,7 @@
         "href": "https://github.com/elementary/videos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 82
+    "new_commits": 86
   },
   {
     "name": "pantheon-agent-polkit",
