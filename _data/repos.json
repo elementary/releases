@@ -488,7 +488,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.0.1"
       }
     ],
-    "new_commits": 2
+    "new_commits": 3
   },
   {
     "name": "tasks",
@@ -841,7 +841,7 @@
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
       }
     ],
-    "new_commits": 1
+    "new_commits": 2
   },
   {
     "name": "photos",
@@ -1555,7 +1555,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 48
+    "new_commits": 50
   },
   {
     "name": "switchboard-plug-network",
@@ -2329,7 +2329,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-power/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 37
+    "new_commits": 38
   },
   {
     "name": "switchboard-plug-display",
@@ -3130,7 +3130,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-keyboard/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 42
+    "new_commits": 43
   },
   {
     "name": "switchboard-plug-pantheon-shell",
@@ -3801,7 +3801,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 47
+    "new_commits": 48
   },
   {
     "name": "switchboard-plug-sound",
@@ -4181,7 +4181,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 45
+    "new_commits": 46
   },
   {
     "name": "wingpanel-indicator-nightlight",
@@ -4229,7 +4229,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-nightlight/releases/tag/2.0"
       }
     ],
-    "new_commits": 42
+    "new_commits": 43
   },
   {
     "name": "wingpanel-indicator-sound",
@@ -4319,7 +4319,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.0.4"
       }
     ],
-    "new_commits": 48
+    "new_commits": 49
   },
   {
     "name": "onboarding",
@@ -4892,7 +4892,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-session/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 45
+    "new_commits": 46
   },
   {
     "name": "capnet-assist",
