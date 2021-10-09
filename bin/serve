@@ -2,6 +2,6 @@
 
 cd $(git rev-parse --show-toplevel) # work from repo dir
 docker run --rm -it \
-       -v $(pwd):/opt/io/elementary/releases/ \
+       -v $(pwd):/srv/jekyll/ \
        -p 4000:4000 \
        io.elementary.releases
