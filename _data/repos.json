@@ -488,7 +488,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.0.1"
       }
     ],
-    "new_commits": 3
+    "new_commits": 5
   },
   {
     "name": "tasks",
@@ -3967,7 +3967,7 @@
         "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 72
+    "new_commits": 73
   },
   {
     "name": "switchboard-plug-notifications",
