@@ -357,7 +357,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 67
+    "new_commits": 69
   },
   {
     "name": "mail",
@@ -841,7 +841,7 @@
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
       }
     ],
-    "new_commits": 2
+    "new_commits": 3
   },
   {
     "name": "photos",
