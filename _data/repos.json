@@ -3967,7 +3967,7 @@
         "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 74
+    "new_commits": 76
   },
   {
     "name": "switchboard-plug-notifications",
@@ -4091,7 +4091,7 @@
         "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 25
+    "new_commits": 28
   },
   {
     "name": "wingpanel-indicator-datetime",
