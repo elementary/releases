@@ -357,7 +357,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 69
+    "new_commits": 70
   },
   {
     "name": "mail",
@@ -3020,7 +3020,7 @@
         "href": "https://github.com/elementary/settings-daemon/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 35
+    "new_commits": 36
   },
   {
     "name": "pantheon-agent-geoclue2",
