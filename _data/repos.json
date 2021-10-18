@@ -3698,7 +3698,7 @@
         "href": "https://github.com/elementary/switchboard-plug-security-privacy/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 33
+    "new_commits": 37
   },
   {
     "name": "switchboard-plug-parental-controls",
@@ -4450,7 +4450,7 @@
         "href": "https://github.com/elementary/videos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 112
+    "new_commits": 116
   },
   {
     "name": "pantheon-agent-polkit",
