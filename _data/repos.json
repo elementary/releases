@@ -357,7 +357,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 70
+    "new_commits": 71
   },
   {
     "name": "mail",
@@ -4181,7 +4181,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 47
+    "new_commits": 48
   },
   {
     "name": "wingpanel-indicator-nightlight",
