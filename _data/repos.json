@@ -59,7 +59,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 17
+    "new_commits": 18
   },
   {
     "name": "code",
@@ -142,7 +142,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 39
+    "new_commits": 41
   },
   {
     "name": "switchboard-plug-onlineaccounts",
@@ -412,7 +412,7 @@
         "href": "https://github.com/elementary/mail/releases/tag/1.0.6"
       }
     ],
-    "new_commits": 41
+    "new_commits": 42
   },
   {
     "name": "wingpanel-indicator-notifications",
@@ -529,7 +529,7 @@
         "href": "https://github.com/elementary/tasks/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 16
+    "new_commits": 17
   },
   {
     "name": "wingpanel",
@@ -841,7 +841,7 @@
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
       }
     ],
-    "new_commits": 5
+    "new_commits": 6
   },
   {
     "name": "photos",
@@ -986,7 +986,7 @@
         "href": "https://github.com/elementary/sideload/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 38
+    "new_commits": 39
   },
   {
     "name": "greeter",
@@ -1062,7 +1062,7 @@
         "href": "https://github.com/elementary/greeter/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 30
+    "new_commits": 31
   },
   {
     "name": "calendar",
@@ -1555,7 +1555,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 54
+    "new_commits": 55
   },
   {
     "name": "switchboard-plug-network",
@@ -2087,7 +2087,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 60
+    "new_commits": 61
   },
   {
     "name": "switchboard-plug-power",
@@ -2577,7 +2577,7 @@
         "href": "https://github.com/elementary/calculator/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 55
+    "new_commits": 59
   },
   {
     "name": "feedback",
@@ -3801,7 +3801,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 59
+    "new_commits": 60
   },
   {
     "name": "switchboard-plug-sound",
