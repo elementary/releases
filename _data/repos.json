@@ -357,7 +357,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 71
+    "new_commits": 73
   },
   {
     "name": "mail",
@@ -529,7 +529,7 @@
         "href": "https://github.com/elementary/tasks/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 17
+    "new_commits": 18
   },
   {
     "name": "wingpanel",
@@ -1187,7 +1187,7 @@
         "href": "https://github.com/elementary/calendar/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 16
+    "new_commits": 18
   },
   {
     "name": "switchboard-plug-keyboard",
@@ -3020,7 +3020,7 @@
         "href": "https://github.com/elementary/settings-daemon/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 36
+    "new_commits": 38
   },
   {
     "name": "pantheon-agent-geoclue2",
