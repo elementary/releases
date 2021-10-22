@@ -468,7 +468,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 74
+    "new_commits": 78
   },
   {
     "name": "mail",
@@ -1298,7 +1298,7 @@
         "href": "https://github.com/elementary/calendar/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 19
+    "new_commits": 21
   },
   {
     "name": "switchboard-plug-keyboard",
