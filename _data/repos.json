@@ -1,5 +1,116 @@
 [
   {
+    "name": "stylesheet",
+    "releases": [
+      {
+        "version": "6.1.0",
+        "release_date": "2021-10-22T18:37:25",
+        "title": "Stylesheet 6.1.0 Released",
+        "body": "  <ul>\r\n    <li>Support for Hdy.Tabbar</li>\r\n    <li>Fix accent class for Gtk.Scale</li>\r\n    <li>Flat titlebars inherit background color for views and sidebars</li>\r\n  </ul>",
+        "href": "https://github.com/elementary/stylesheet/releases/tag/6.1.0"
+      },
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-15T22:08:57",
+        "title": "stylesheet 6.0.0 Released",
+        "body": "\n",
+        "href": "https://github.com/elementary/stylesheet/releases/tag/6.0.0"
+      },
+      {
+        "version": "5.4.2",
+        "release_date": "2020-02-29T20:13:32",
+        "title": "stylesheet 5.4.2 Released",
+        "body": "stylesheet 5.4.2 is out! \n\n\n",
+        "href": "https://github.com/elementary/stylesheet/releases/tag/5.4.2"
+      },
+      {
+        "version": "5.4.1",
+        "release_date": "2020-01-21T18:43:35",
+        "title": "stylesheet 5.4.1 Released",
+        "body": "stylesheet 5.4.1 is out! \n\n\n",
+        "href": "https://github.com/elementary/stylesheet/releases/tag/5.4.1"
+      },
+      {
+        "version": "5.4.0",
+        "release_date": "2019-12-23T21:07:44",
+        "title": "stylesheet 5.4.0 Released",
+        "body": "stylesheet 5.4.0 is out! \n\n<p>New features:</p>\n<ul>\n<li>New `.small-label` class for consistent sizing without using Pango</li>\n</ul>\n<p>Other changes:</p>\n<ul>\n<li>Drop obsolete panel styles</li>\n<li>Fix spacing of labels inside of modelbuttons</li>\n<li>Allow symbolic icons in inline toolbars in sidebars</li>\n</ul>\n",
+        "href": "https://github.com/elementary/stylesheet/releases/tag/5.4.0"
+      },
+      {
+        "version": "5.3.0",
+        "release_date": "2019-11-01T20:06:42",
+        "title": "stylesheet 5.3.0 Released",
+        "body": "stylesheet 5.3.0 is out! \n\nChanges:\n\n* Fix unreadable keycaps text\n* More consistent popover shadows\n* Fix color for insensitive flat buttons in list rows\n* Remove duplicated and obsolete styles\n* Always set dock badge to red, regardless of accent color\n* Support wide separators\n* Improved scrollbars in WebKit web views\n* Improve window shadows for legacy-decorated apps\n* New (hidden) dark style for the dock\n",
+        "href": "https://github.com/elementary/stylesheet/releases/tag/5.3.0"
+      },
+      {
+        "version": "5.2.5",
+        "release_date": "2019-08-03T18:32:37",
+        "title": "elementary Gtk+ Stylesheet 5.2.5 Released",
+        "body": "elementary-theme 5.2.5 is out!\r\n\r\nChanges:\r\n* Various dark theme fixes\r\n* Add undershoot to popovers\r\n* Style keycaps in menus\r\n* Entry and SpinButton progress is now more subtle\r\n* Support Epiphany `floating-bar`",
+        "href": "https://github.com/elementary/stylesheet/releases/tag/5.2.5"
+      },
+      {
+        "version": "5.2.4",
+        "release_date": "2019-06-19T12:26:30",
+        "title": "elementary Gtk+ Stylesheet 5.2.4 Released",
+        "body": "elementary-theme 5.2.4 is out!\r\n\r\nChanges:\r\n* Increase Radio/Checkbutton contrast when using dark style\r\n* Fix popover submenu arrow styles\r\n* Disable transitions on check items\r\n* Fix inline notebook being 1px smaller when only one tab is open\r\n* Fix the color of insensitive buttons\r\n* Fix arrow direction in notebook header",
+        "href": "https://github.com/elementary/stylesheet/releases/tag/5.2.4"
+      },
+      {
+        "version": "5.2.3",
+        "release_date": "2019-04-18T09:04:41",
+        "title": "elementary Gtk+ Stylesheet 5.2.3 Released",
+        "body": "elementary-theme 5.2.3 is out!\r\n\r\nChanges:\r\n* Style destructive-action buttons in action bars\r\n* Use em font sizing in dialog label.primary\r\n* Added  support for progressbar.osd, as seen in GNOME Builder",
+        "href": "https://github.com/elementary/stylesheet/releases/tag/5.2.3"
+      },
+      {
+        "version": "5.2.2",
+        "release_date": "2019-02-28T00:29:54",
+        "title": "elementary Gtk+ Stylesheet 5.2.2 Released",
+        "body": "elementary-theme 5.2.2 is out!\r\n\r\nChanges:\r\n* More visible focus for dark entries\r\n* Update .seek-bar scale slider style\r\n* Shade switches with white overlay\r\n* Fix linked widgets in right-to-left\r\n* Don't set border or shadow on dark infobar close buttons\r\n* Naive raised support for headerbar buttons\r\n* Fix border for sidebar-row in dark style\r\n* Invert sidebar badge colors",
+        "href": "https://github.com/elementary/stylesheet/releases/tag/5.2.2"
+      },
+      {
+        "version": "5.2.1",
+        "release_date": "2018-12-18T09:19:47",
+        "title": "elementary Gtk+ Stylesheet 5.2.1 Released",
+        "body": "elementary-theme 5.2.1 is out!\r\n\r\nChanges:\r\n* Add styles for link psuedo classes\r\n* Fix notebook background\r\n* Add accent support to scales\r\n* Always use light switch sliders",
+        "href": "https://github.com/elementary/stylesheet/releases/tag/5.2.1"
+      },
+      {
+        "version": "5.2.0",
+        "release_date": "2018-10-16T05:25:46",
+        "title": "elementary Gtk+ Stylesheet 5.2.0 Released",
+        "body": "elementary-theme 5.2.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/stylesheet/issues?q=is%3Aclosed+milestone%3A5.2.0).",
+        "href": "https://github.com/elementary/stylesheet/releases/tag/5.2.0"
+      },
+      {
+        "version": "5.1.1",
+        "release_date": "2017-09-25T14:03:55",
+        "title": "elementary Gtk+ Stylesheet 5.1.1 Released",
+        "body": "New version of elementary-theme is out!\r\n\r\nThe issues closed by this release can be found [here](https://github.com/elementary/stylesheet/issues?q=is%3Aclosed+milestone%3A5.1.1).",
+        "href": "https://github.com/elementary/stylesheet/releases/tag/5.1.1"
+      },
+      {
+        "version": "5.1.0",
+        "release_date": "2017-08-10T19:30:52",
+        "title": "elementary Gtk+ Stylesheet 5.1.0 Released",
+        "body": "New version of elementary-theme is out!\r\n\r\nThe issues closed by this release can be found [here](https://github.com/elementary/stylesheet/milestone/3?closed=1).",
+        "href": "https://github.com/elementary/stylesheet/releases/tag/5.1.0"
+      },
+      {
+        "version": "5.0.4",
+        "release_date": "2017-04-03T19:52:39",
+        "title": "elementary Gtk+ Stylesheet 5.0.4 Released",
+        "body": "New version of elementary-theme is out!",
+        "href": "https://github.com/elementary/stylesheet/releases/tag/5.0.4"
+      }
+    ],
+    "new_commits": 0
+  },
+  {
     "name": "gala",
     "releases": [
       {
@@ -59,7 +170,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 18
+    "new_commits": 22
   },
   {
     "name": "code",
@@ -412,7 +523,7 @@
         "href": "https://github.com/elementary/mail/releases/tag/1.0.6"
       }
     ],
-    "new_commits": 42
+    "new_commits": 46
   },
   {
     "name": "wingpanel-indicator-notifications",
@@ -841,7 +952,7 @@
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
       }
     ],
-    "new_commits": 6
+    "new_commits": 10
   },
   {
     "name": "photos",
@@ -986,7 +1097,7 @@
         "href": "https://github.com/elementary/sideload/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 39
+    "new_commits": 40
   },
   {
     "name": "greeter",
@@ -2604,7 +2715,7 @@
         "href": "https://github.com/elementary/feedback/releases/tag/1.0"
       }
     ],
-    "new_commits": 64
+    "new_commits": 65
   },
   {
     "name": "switchboard-plug-wacom",
@@ -3401,110 +3512,6 @@
       }
     ],
     "new_commits": 4
-  },
-  {
-    "name": "stylesheet",
-    "releases": [
-      {
-        "version": "6.0.0",
-        "release_date": "2021-07-15T22:08:57",
-        "title": "stylesheet 6.0.0 Released",
-        "body": "\n",
-        "href": "https://github.com/elementary/stylesheet/releases/tag/6.0.0"
-      },
-      {
-        "version": "5.4.2",
-        "release_date": "2020-02-29T20:13:32",
-        "title": "stylesheet 5.4.2 Released",
-        "body": "stylesheet 5.4.2 is out! \n\n\n",
-        "href": "https://github.com/elementary/stylesheet/releases/tag/5.4.2"
-      },
-      {
-        "version": "5.4.1",
-        "release_date": "2020-01-21T18:43:35",
-        "title": "stylesheet 5.4.1 Released",
-        "body": "stylesheet 5.4.1 is out! \n\n\n",
-        "href": "https://github.com/elementary/stylesheet/releases/tag/5.4.1"
-      },
-      {
-        "version": "5.4.0",
-        "release_date": "2019-12-23T21:07:44",
-        "title": "stylesheet 5.4.0 Released",
-        "body": "stylesheet 5.4.0 is out! \n\n<p>New features:</p>\n<ul>\n<li>New `.small-label` class for consistent sizing without using Pango</li>\n</ul>\n<p>Other changes:</p>\n<ul>\n<li>Drop obsolete panel styles</li>\n<li>Fix spacing of labels inside of modelbuttons</li>\n<li>Allow symbolic icons in inline toolbars in sidebars</li>\n</ul>\n",
-        "href": "https://github.com/elementary/stylesheet/releases/tag/5.4.0"
-      },
-      {
-        "version": "5.3.0",
-        "release_date": "2019-11-01T20:06:42",
-        "title": "stylesheet 5.3.0 Released",
-        "body": "stylesheet 5.3.0 is out! \n\nChanges:\n\n* Fix unreadable keycaps text\n* More consistent popover shadows\n* Fix color for insensitive flat buttons in list rows\n* Remove duplicated and obsolete styles\n* Always set dock badge to red, regardless of accent color\n* Support wide separators\n* Improved scrollbars in WebKit web views\n* Improve window shadows for legacy-decorated apps\n* New (hidden) dark style for the dock\n",
-        "href": "https://github.com/elementary/stylesheet/releases/tag/5.3.0"
-      },
-      {
-        "version": "5.2.5",
-        "release_date": "2019-08-03T18:32:37",
-        "title": "elementary Gtk+ Stylesheet 5.2.5 Released",
-        "body": "elementary-theme 5.2.5 is out!\r\n\r\nChanges:\r\n* Various dark theme fixes\r\n* Add undershoot to popovers\r\n* Style keycaps in menus\r\n* Entry and SpinButton progress is now more subtle\r\n* Support Epiphany `floating-bar`",
-        "href": "https://github.com/elementary/stylesheet/releases/tag/5.2.5"
-      },
-      {
-        "version": "5.2.4",
-        "release_date": "2019-06-19T12:26:30",
-        "title": "elementary Gtk+ Stylesheet 5.2.4 Released",
-        "body": "elementary-theme 5.2.4 is out!\r\n\r\nChanges:\r\n* Increase Radio/Checkbutton contrast when using dark style\r\n* Fix popover submenu arrow styles\r\n* Disable transitions on check items\r\n* Fix inline notebook being 1px smaller when only one tab is open\r\n* Fix the color of insensitive buttons\r\n* Fix arrow direction in notebook header",
-        "href": "https://github.com/elementary/stylesheet/releases/tag/5.2.4"
-      },
-      {
-        "version": "5.2.3",
-        "release_date": "2019-04-18T09:04:41",
-        "title": "elementary Gtk+ Stylesheet 5.2.3 Released",
-        "body": "elementary-theme 5.2.3 is out!\r\n\r\nChanges:\r\n* Style destructive-action buttons in action bars\r\n* Use em font sizing in dialog label.primary\r\n* Added  support for progressbar.osd, as seen in GNOME Builder",
-        "href": "https://github.com/elementary/stylesheet/releases/tag/5.2.3"
-      },
-      {
-        "version": "5.2.2",
-        "release_date": "2019-02-28T00:29:54",
-        "title": "elementary Gtk+ Stylesheet 5.2.2 Released",
-        "body": "elementary-theme 5.2.2 is out!\r\n\r\nChanges:\r\n* More visible focus for dark entries\r\n* Update .seek-bar scale slider style\r\n* Shade switches with white overlay\r\n* Fix linked widgets in right-to-left\r\n* Don't set border or shadow on dark infobar close buttons\r\n* Naive raised support for headerbar buttons\r\n* Fix border for sidebar-row in dark style\r\n* Invert sidebar badge colors",
-        "href": "https://github.com/elementary/stylesheet/releases/tag/5.2.2"
-      },
-      {
-        "version": "5.2.1",
-        "release_date": "2018-12-18T09:19:47",
-        "title": "elementary Gtk+ Stylesheet 5.2.1 Released",
-        "body": "elementary-theme 5.2.1 is out!\r\n\r\nChanges:\r\n* Add styles for link psuedo classes\r\n* Fix notebook background\r\n* Add accent support to scales\r\n* Always use light switch sliders",
-        "href": "https://github.com/elementary/stylesheet/releases/tag/5.2.1"
-      },
-      {
-        "version": "5.2.0",
-        "release_date": "2018-10-16T05:25:46",
-        "title": "elementary Gtk+ Stylesheet 5.2.0 Released",
-        "body": "elementary-theme 5.2.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/stylesheet/issues?q=is%3Aclosed+milestone%3A5.2.0).",
-        "href": "https://github.com/elementary/stylesheet/releases/tag/5.2.0"
-      },
-      {
-        "version": "5.1.1",
-        "release_date": "2017-09-25T14:03:55",
-        "title": "elementary Gtk+ Stylesheet 5.1.1 Released",
-        "body": "New version of elementary-theme is out!\r\n\r\nThe issues closed by this release can be found [here](https://github.com/elementary/stylesheet/issues?q=is%3Aclosed+milestone%3A5.1.1).",
-        "href": "https://github.com/elementary/stylesheet/releases/tag/5.1.1"
-      },
-      {
-        "version": "5.1.0",
-        "release_date": "2017-08-10T19:30:52",
-        "title": "elementary Gtk+ Stylesheet 5.1.0 Released",
-        "body": "New version of elementary-theme is out!\r\n\r\nThe issues closed by this release can be found [here](https://github.com/elementary/stylesheet/milestone/3?closed=1).",
-        "href": "https://github.com/elementary/stylesheet/releases/tag/5.1.0"
-      },
-      {
-        "version": "5.0.4",
-        "release_date": "2017-04-03T19:52:39",
-        "title": "elementary Gtk+ Stylesheet 5.0.4 Released",
-        "body": "New version of elementary-theme is out!",
-        "href": "https://github.com/elementary/stylesheet/releases/tag/5.0.4"
-      }
-    ],
-    "new_commits": 5
   },
   {
     "name": "terminal",
@@ -4526,7 +4533,7 @@
         "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 25
+    "new_commits": 26
   },
   {
     "name": "shortcut-overlay",
