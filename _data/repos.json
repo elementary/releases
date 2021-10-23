@@ -952,7 +952,7 @@
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
       }
     ],
-    "new_commits": 10
+    "new_commits": 13
   },
   {
     "name": "photos",
@@ -5499,7 +5499,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 4870
+    "new_commits": 4877
   },
   {
     "name": "fonts",
