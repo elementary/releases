@@ -1,5 +1,107 @@
 [
   {
+    "name": "portals",
+    "releases": [
+      {
+        "version": "1.0.0",
+        "release_date": "2021-10-25T16:57:13",
+        "title": "Portals 1.0.0 Released!",
+        "body": "<p>First release!</p>\r\n<ul>\r\n<li>Add OpenURI Portal</li>\r\n</ul>",
+        "href": "https://github.com/elementary/portals/releases/tag/1.0.0"
+      }
+    ],
+    "new_commits": 0
+  },
+  {
+    "name": "settings-daemon",
+    "releases": [
+      {
+        "version": "1.1.0",
+        "release_date": "2021-10-24T19:36:25",
+        "title": "Settings Daemon 1.1.0 Released",
+        "body": "<p>New features:</p>\r\n<ul>\r\n<li>Provide the Settings portal</li>\r\n</ul>\r\n<p>Improvements:</p>\r\n<ul>\r\n<li>Remove unused dark style gsettings schema</li>\r\n<li>Updated translations</li>\r\n</ul>",
+        "href": "https://github.com/elementary/settings-daemon/releases/tag/1.1.0"
+      },
+      {
+        "version": "1.0.0",
+        "release_date": "2021-07-15T23:29:21",
+        "title": "settings-daemon 1.0.0 Released",
+        "body": "\n",
+        "href": "https://github.com/elementary/settings-daemon/releases/tag/1.0.0"
+      }
+    ],
+    "new_commits": 0
+  },
+  {
+    "name": "wingpanel-indicator-network",
+    "releases": [
+      {
+        "version": "2.3.1",
+        "release_date": "2021-10-24T19:35:27",
+        "title": "Network Indicator 2.3.1 Released",
+        "body": "<p>Fixes:</p>\r\n<ul>\r\n<li>Don't launch Captive Network Assistent with full connectivity</li>\r\n</ul>\r\n<p>Minor updates:</p>\r\n<ul>\r\n<li>Updated translations</li>\r\n</ul>",
+        "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.3.1"
+      },
+      {
+        "version": "2.3.0",
+        "release_date": "2021-07-14T21:21:58",
+        "title": "wingpanel-indicator-network 2.3.0 Released",
+        "body": "<p>Fixes:</p>\n<ul>\n<li>Fix VPN spinning after connecting</li>\n<li>Improve detecting network encryption type</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Ellipsize long network names</li>\n<li>Show tooltip on hover</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.3.0"
+      },
+      {
+        "version": "2.2.4",
+        "release_date": "2020-05-28T22:52:44",
+        "title": "wingpanel-indicator-network 2.2.4 Released",
+        "body": "<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.2.4"
+      },
+      {
+        "version": "2.2.3",
+        "release_date": "2020-03-27T21:14:48",
+        "title": "wingpanel-indicator-network 2.2.3 Released",
+        "body": "wingpanel-indicator-network 2.2.3 is out! \n\n<p>Prevent panel icon from showing in the dock</p>\n<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.2.3"
+      },
+      {
+        "version": "2.2.2",
+        "release_date": "2019-01-25T13:33:58",
+        "title": "Wingpanel Network Indicator 2.2.2 Released",
+        "body": "wingpanel-indicator-network 2.2.2 is out!\r\n\r\nChanges:\r\n* Set wireless-offline icon for failed wifi connection case\r\n* Update libnm VAPI\r\n* Updated translations",
+        "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.2.2"
+      },
+      {
+        "version": "2.2.1",
+        "release_date": "2018-10-03T08:03:51",
+        "title": "Wingpanel Network Indicator 2.2.1 Released",
+        "body": "wingpanel-indicator-network 2.2.1 is out!\r\n\r\nChanges:\r\n* SSID comparison fix\r\n* Updated translations",
+        "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.2.1"
+      },
+      {
+        "version": "2.2.0",
+        "release_date": "2018-06-07T09:24:46",
+        "title": "Wingpanel Network Indicator 2.2.0 Released",
+        "body": "wingpanel-indicator-network 2.2.0 is out!\r\n\r\nThe list off issues closed by this release can be found [here](https://github.com/elementary/wingpanel-indicator-network/issues?q=is%3Aclosed+milestone%3A2.2.0).",
+        "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.2.0"
+      },
+      {
+        "version": "2.1.1",
+        "release_date": "2017-09-18T17:10:45",
+        "title": "Wingpanel Network Indicator 2.1.1 Released",
+        "body": "wingpanel-indicator-network 2.1.1 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/wingpanel-indicator-network/issues?q=is%3Aclosed+milestone%3A2.1.1).",
+        "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.1.1"
+      },
+      {
+        "version": "2.1.0",
+        "release_date": "2017-09-12T02:25:19",
+        "title": "Wingpanel Network Indicator 2.1.0 Released",
+        "body": "wingpanel-indicator-network 2.1.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/wingpanel-indicator-network/milestone/2?closed=1).",
+        "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.1.0"
+      }
+    ],
+    "new_commits": 0
+  },
+  {
     "name": "stylesheet",
     "releases": [
       {
@@ -523,7 +625,7 @@
         "href": "https://github.com/elementary/mail/releases/tag/1.0.6"
       }
     ],
-    "new_commits": 53
+    "new_commits": 54
   },
   {
     "name": "wingpanel-indicator-notifications",
@@ -3121,19 +3223,6 @@
     "new_commits": 48
   },
   {
-    "name": "settings-daemon",
-    "releases": [
-      {
-        "version": "1.0.0",
-        "release_date": "2021-07-15T23:29:21",
-        "title": "settings-daemon 1.0.0 Released",
-        "body": "\n",
-        "href": "https://github.com/elementary/settings-daemon/releases/tag/1.0.0"
-      }
-    ],
-    "new_commits": 39
-  },
-  {
     "name": "pantheon-agent-geoclue2",
     "releases": [
       {
@@ -3747,68 +3836,6 @@
       }
     ],
     "new_commits": 60
-  },
-  {
-    "name": "wingpanel-indicator-network",
-    "releases": [
-      {
-        "version": "2.3.0",
-        "release_date": "2021-07-14T21:21:58",
-        "title": "wingpanel-indicator-network 2.3.0 Released",
-        "body": "<p>Fixes:</p>\n<ul>\n<li>Fix VPN spinning after connecting</li>\n<li>Improve detecting network encryption type</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Ellipsize long network names</li>\n<li>Show tooltip on hover</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.3.0"
-      },
-      {
-        "version": "2.2.4",
-        "release_date": "2020-05-28T22:52:44",
-        "title": "wingpanel-indicator-network 2.2.4 Released",
-        "body": "<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.2.4"
-      },
-      {
-        "version": "2.2.3",
-        "release_date": "2020-03-27T21:14:48",
-        "title": "wingpanel-indicator-network 2.2.3 Released",
-        "body": "wingpanel-indicator-network 2.2.3 is out! \n\n<p>Prevent panel icon from showing in the dock</p>\n<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.2.3"
-      },
-      {
-        "version": "2.2.2",
-        "release_date": "2019-01-25T13:33:58",
-        "title": "Wingpanel Network Indicator 2.2.2 Released",
-        "body": "wingpanel-indicator-network 2.2.2 is out!\r\n\r\nChanges:\r\n* Set wireless-offline icon for failed wifi connection case\r\n* Update libnm VAPI\r\n* Updated translations",
-        "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.2.2"
-      },
-      {
-        "version": "2.2.1",
-        "release_date": "2018-10-03T08:03:51",
-        "title": "Wingpanel Network Indicator 2.2.1 Released",
-        "body": "wingpanel-indicator-network 2.2.1 is out!\r\n\r\nChanges:\r\n* SSID comparison fix\r\n* Updated translations",
-        "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.2.1"
-      },
-      {
-        "version": "2.2.0",
-        "release_date": "2018-06-07T09:24:46",
-        "title": "Wingpanel Network Indicator 2.2.0 Released",
-        "body": "wingpanel-indicator-network 2.2.0 is out!\r\n\r\nThe list off issues closed by this release can be found [here](https://github.com/elementary/wingpanel-indicator-network/issues?q=is%3Aclosed+milestone%3A2.2.0).",
-        "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.2.0"
-      },
-      {
-        "version": "2.1.1",
-        "release_date": "2017-09-18T17:10:45",
-        "title": "Wingpanel Network Indicator 2.1.1 Released",
-        "body": "wingpanel-indicator-network 2.1.1 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/wingpanel-indicator-network/issues?q=is%3Aclosed+milestone%3A2.1.1).",
-        "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.1.1"
-      },
-      {
-        "version": "2.1.0",
-        "release_date": "2017-09-12T02:25:19",
-        "title": "Wingpanel Network Indicator 2.1.0 Released",
-        "body": "wingpanel-indicator-network 2.1.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/wingpanel-indicator-network/milestone/2?closed=1).",
-        "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.1.0"
-      }
-    ],
-    "new_commits": 61
   },
   {
     "name": "switchboard-plug-sound",
