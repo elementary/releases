@@ -129,7 +129,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 4
+    "new_commits": 8
   },
   {
     "name": "portals",
@@ -757,7 +757,7 @@
         "href": "https://github.com/elementary/mail/releases/tag/1.0.6"
       }
     ],
-    "new_commits": 60
+    "new_commits": 66
   },
   {
     "name": "wingpanel-indicator-notifications",
@@ -1276,7 +1276,7 @@
         "href": "https://github.com/elementary/photos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 40
+    "new_commits": 41
   },
   {
     "name": "sideload",
@@ -1532,7 +1532,7 @@
         "href": "https://github.com/elementary/calendar/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 40
+    "new_commits": 42
   },
   {
     "name": "switchboard-plug-keyboard",
