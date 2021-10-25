@@ -952,7 +952,7 @@
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
       }
     ],
-    "new_commits": 14
+    "new_commits": 16
   },
   {
     "name": "photos",
@@ -1298,7 +1298,7 @@
         "href": "https://github.com/elementary/calendar/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 36
+    "new_commits": 39
   },
   {
     "name": "switchboard-plug-keyboard",
