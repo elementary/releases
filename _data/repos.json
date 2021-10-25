@@ -952,7 +952,7 @@
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
       }
     ],
-    "new_commits": 16
+    "new_commits": 17
   },
   {
     "name": "photos",
@@ -1042,7 +1042,7 @@
         "href": "https://github.com/elementary/photos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 33
+    "new_commits": 34
   },
   {
     "name": "sideload",
@@ -1666,7 +1666,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 62
+    "new_commits": 64
   },
   {
     "name": "switchboard-plug-network",
