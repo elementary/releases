@@ -487,7 +487,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 42
+    "new_commits": 45
   },
   {
     "name": "switchboard-plug-onlineaccounts",
@@ -1186,7 +1186,7 @@
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
       }
     ],
-    "new_commits": 19
+    "new_commits": 20
   },
   {
     "name": "photos",
@@ -1276,7 +1276,7 @@
         "href": "https://github.com/elementary/photos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 41
+    "new_commits": 44
   },
   {
     "name": "sideload",
@@ -2797,7 +2797,7 @@
         "href": "https://github.com/elementary/calculator/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 75
+    "new_commits": 76
   },
   {
     "name": "feedback",
@@ -4222,7 +4222,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 54
+    "new_commits": 56
   },
   {
     "name": "wingpanel-indicator-nightlight",
