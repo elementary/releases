@@ -757,7 +757,7 @@
         "href": "https://github.com/elementary/mail/releases/tag/1.0.6"
       }
     ],
-    "new_commits": 66
+    "new_commits": 68
   },
   {
     "name": "wingpanel-indicator-notifications",
@@ -4615,7 +4615,7 @@
         "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.0"
       }
     ],
-    "new_commits": 52
+    "new_commits": 53
   },
   {
     "name": "switchboard-plug-bluetooth",
