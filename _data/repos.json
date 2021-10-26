@@ -1,5 +1,74 @@
 [
   {
+    "name": "camera",
+    "releases": [
+      {
+        "version": "6.0.1",
+        "release_date": "2021-10-26T20:39:33",
+        "title": "Camera 6.0.1 Released",
+        "body": "<p>Improvements:</p>\r\n<ul>\r\n<li>Take full-resolution pictures</li>\r\n</ul>\r\n<p>Fixes:</p>\r\n<ul>\r\n<li>Fix restoring window size</li>\r\n</ul>\r\n<p>Minor updates:</p>\r\n<ul>\r\n<li>Updated translations</li>\r\n</ul>",
+        "href": "https://github.com/elementary/camera/releases/tag/6.0.1"
+      },
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-21T20:19:02",
+        "title": "camera 6.0.0 Released",
+        "body": "<ul>\n<li>Switch between multiple cameras</li>\n<li>Send a notification when recording is finished</li>\n<li>Add option to mirror the camera</li>\n<li>Add brightness and contrast adjustment</li>\n<li>Support the dark style</li>\n<li>Prevent multiple countdown timers from running at the same time</li>\n<li>Improved support for camera hardware</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/camera/releases/tag/6.0.0"
+      },
+      {
+        "version": "1.0.6",
+        "release_date": "2020-04-01T23:34:23",
+        "title": "camera 1.0.6 Released",
+        "body": "camera 1.0.6 is out! \n\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/camera/releases/tag/1.0.6"
+      },
+      {
+        "version": "1.0.5",
+        "release_date": "2019-09-24T15:10:38",
+        "title": "Camera 1.0.5 Released",
+        "body": "Camera 1.0.5 is out!\r\n\r\nChanges:\r\n* Handle null camera device name for improved hardware compatibility\r\n* Restrict camera view resolution to 640x480, same as Cheese, for improved hardware compatibility\r\n* Refactor start timeout and timerbutton sensitivity\r\n* Remember window state\r\n* Updated translations",
+        "href": "https://github.com/elementary/camera/releases/tag/1.0.5"
+      },
+      {
+        "version": "1.0.4",
+        "release_date": "2019-03-27T08:15:50",
+        "title": "Camera 1.0.4 Released",
+        "body": "Camera 1.0.4 is out!\r\n\r\nChanges:\r\n* Updated translations",
+        "href": "https://github.com/elementary/camera/releases/tag/1.0.4"
+      },
+      {
+        "version": "1.0.3",
+        "release_date": "2019-01-24T06:52:57",
+        "title": "Camera 1.0.3 Released",
+        "body": "Camera 1.0.3 is out!\r\n\r\nChanges:\r\n* Catalan: fixed camera icon name\r\n* Updated translations",
+        "href": "https://github.com/elementary/camera/releases/tag/1.0.3"
+      },
+      {
+        "version": "1.0.2",
+        "release_date": "2018-10-15T20:58:36",
+        "title": "Camera 1.0.2 Released",
+        "body": "Camera 1.0.2 is out!\r\n\r\nThis release includes updated translations.",
+        "href": "https://github.com/elementary/camera/releases/tag/1.0.2"
+      },
+      {
+        "version": "1.0.1",
+        "release_date": "2018-07-20T18:22:34",
+        "title": "Camera 1.0.1 Released",
+        "body": "Camera 1.0.1 is out!\r\n\r\nThis release includes enhanced translations.",
+        "href": "https://github.com/elementary/camera/releases/tag/1.0.1"
+      },
+      {
+        "version": "1.0",
+        "release_date": "2018-06-06T11:56:31",
+        "title": "Camera 1.0 Released",
+        "body": "Camera 1.0 is out!\r\n\r\nThis list of issues closed by this release can be found [here](https://github.com/elementary/camera/issues?q=is%3Aclosed+milestone%3A1.0).",
+        "href": "https://github.com/elementary/camera/releases/tag/1.0"
+      }
+    ],
+    "new_commits": 3
+  },
+  {
     "name": "applications-menu",
     "releases": [
       {
@@ -227,6 +296,26 @@
       }
     ],
     "new_commits": 7
+  },
+  {
+    "name": "flatpak-platform",
+    "releases": [
+      {
+        "version": "6.0.2",
+        "release_date": "2021-10-26T18:18:08",
+        "title": "Flatpak Platform 6.0.2 Released",
+        "body": "<p>Fixes:</p>\r\n<ul>\r\n<li>Fix localization issues with apps that use Granite</li>\r\n</ul>\r\n<p>Platform updates:</p>\r\n<ul>\r\n<li>Use the settings portal for time and date settings</li>\r\n<li>Use the settings portal for color scheme preference instead of requiring an AccountsService hole</li>\r\n<li>Update elementary stylesheet to 6.1.0</li>\r\n<li>Update Granite to 6.1.2</li>\r\n</ul>",
+        "href": "https://github.com/elementary/flatpak-platform/releases/tag/6.0.2"
+      },
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-20T20:53:11",
+        "title": "Flatpak Platform 6.0.0 Released",
+        "body": "The first stable version of the elementary Flatpak platform has been released!",
+        "href": "https://github.com/elementary/flatpak-platform/releases/tag/6.0.0"
+      }
+    ],
+    "new_commits": 0
   },
   {
     "name": "wingpanel-indicator-notifications",
@@ -3130,68 +3219,6 @@
     "new_commits": 28
   },
   {
-    "name": "camera",
-    "releases": [
-      {
-        "version": "6.0.0",
-        "release_date": "2021-07-21T20:19:02",
-        "title": "camera 6.0.0 Released",
-        "body": "<ul>\n<li>Switch between multiple cameras</li>\n<li>Send a notification when recording is finished</li>\n<li>Add option to mirror the camera</li>\n<li>Add brightness and contrast adjustment</li>\n<li>Support the dark style</li>\n<li>Prevent multiple countdown timers from running at the same time</li>\n<li>Improved support for camera hardware</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/camera/releases/tag/6.0.0"
-      },
-      {
-        "version": "1.0.6",
-        "release_date": "2020-04-01T23:34:23",
-        "title": "camera 1.0.6 Released",
-        "body": "camera 1.0.6 is out! \n\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/camera/releases/tag/1.0.6"
-      },
-      {
-        "version": "1.0.5",
-        "release_date": "2019-09-24T15:10:38",
-        "title": "Camera 1.0.5 Released",
-        "body": "Camera 1.0.5 is out!\r\n\r\nChanges:\r\n* Handle null camera device name for improved hardware compatibility\r\n* Restrict camera view resolution to 640x480, same as Cheese, for improved hardware compatibility\r\n* Refactor start timeout and timerbutton sensitivity\r\n* Remember window state\r\n* Updated translations",
-        "href": "https://github.com/elementary/camera/releases/tag/1.0.5"
-      },
-      {
-        "version": "1.0.4",
-        "release_date": "2019-03-27T08:15:50",
-        "title": "Camera 1.0.4 Released",
-        "body": "Camera 1.0.4 is out!\r\n\r\nChanges:\r\n* Updated translations",
-        "href": "https://github.com/elementary/camera/releases/tag/1.0.4"
-      },
-      {
-        "version": "1.0.3",
-        "release_date": "2019-01-24T06:52:57",
-        "title": "Camera 1.0.3 Released",
-        "body": "Camera 1.0.3 is out!\r\n\r\nChanges:\r\n* Catalan: fixed camera icon name\r\n* Updated translations",
-        "href": "https://github.com/elementary/camera/releases/tag/1.0.3"
-      },
-      {
-        "version": "1.0.2",
-        "release_date": "2018-10-15T20:58:36",
-        "title": "Camera 1.0.2 Released",
-        "body": "Camera 1.0.2 is out!\r\n\r\nThis release includes updated translations.",
-        "href": "https://github.com/elementary/camera/releases/tag/1.0.2"
-      },
-      {
-        "version": "1.0.1",
-        "release_date": "2018-07-20T18:22:34",
-        "title": "Camera 1.0.1 Released",
-        "body": "Camera 1.0.1 is out!\r\n\r\nThis release includes enhanced translations.",
-        "href": "https://github.com/elementary/camera/releases/tag/1.0.1"
-      },
-      {
-        "version": "1.0",
-        "release_date": "2018-06-06T11:56:31",
-        "title": "Camera 1.0 Released",
-        "body": "Camera 1.0 is out!\r\n\r\nThis list of issues closed by this release can be found [here](https://github.com/elementary/camera/issues?q=is%3Aclosed+milestone%3A1.0).",
-        "href": "https://github.com/elementary/camera/releases/tag/1.0"
-      }
-    ],
-    "new_commits": 76
-  },
-  {
     "name": "screenshot",
     "releases": [
       {
@@ -3266,19 +3293,6 @@
       }
     ],
     "new_commits": 40
-  },
-  {
-    "name": "flatpak-platform",
-    "releases": [
-      {
-        "version": "6.0.0",
-        "release_date": "2021-07-20T20:53:11",
-        "title": "Flatpak Platform 6.0.0 Released",
-        "body": "The first stable version of the elementary Flatpak platform has been released!",
-        "href": "https://github.com/elementary/flatpak-platform/releases/tag/6.0.0"
-      }
-    ],
-    "new_commits": 0
   },
   {
     "name": "notifications",
