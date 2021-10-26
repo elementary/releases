@@ -295,7 +295,7 @@
         "href": "https://github.com/elementary/photos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 7
+    "new_commits": 11
   },
   {
     "name": "flatpak-platform",
@@ -4292,7 +4292,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 63
+    "new_commits": 68
   },
   {
     "name": "wingpanel-indicator-nightlight",
