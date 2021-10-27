@@ -606,7 +606,7 @@
         "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 6
+    "new_commits": 8
   },
   {
     "name": "switchboard-plug-useraccounts",
@@ -3019,7 +3019,7 @@
         "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 72
+    "new_commits": 73
   },
   {
     "name": "action-appcenter-review-parse",
@@ -4016,7 +4016,7 @@
         "href": "https://github.com/elementary/switchboard-plug-security-privacy/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 48
+    "new_commits": 49
   },
   {
     "name": "switchboard-plug-parental-controls",
