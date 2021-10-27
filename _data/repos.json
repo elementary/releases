@@ -1,5 +1,67 @@
 [
   {
+    "name": "mail",
+    "releases": [
+      {
+        "version": "6.3.0",
+        "release_date": "2021-10-27T20:13:09",
+        "title": "Mail 6.3.0 Released",
+        "body": "<p>New features:</p>\r\n<ul>\r\n<li>Secondary-click menu on the conversations list</li>\r\n</ul>\r\n<p>Fixes:</p>\r\n<ul>\r\n<li>Ensure conversations are re-sorted by date when new messages appear</li>\r\n<li>Fixed sender combobox after opening a mailto link</li>\r\n<li>Mark sent messages as read</li>\r\n<li>Fix a hang when deleting the last message in a mailbox</li>\r\n<li>Fix an issue where some mail fails to be deleted</li>\r\n</ul>\r\n<p>Improvements:</p>\r\n<ul>\r\n<li>Use accent color for unread message titles</li>\r\n<li>Autoselect the next message after archiving</li>\r\n<li>Use local time in message headers</li>\r\n<li>Updated translations</li>\r\n</ul>",
+        "href": "https://github.com/elementary/mail/releases/tag/6.3.0"
+      },
+      {
+        "version": "6.2.0",
+        "release_date": "2021-09-27T20:37:50",
+        "title": "Mail 6.2.0 Released",
+        "body": "<p>New features:</p>\r\n<ul>\r\n<li>Send a notification when new messages arrive</li>\r\n<li>Add a button to manually fetch new messages</li>\r\n<li>Automatically select the next message after deleting</li>\r\n<li>Filter unread or starred conversations</li>\r\n</ul>\r\n<p>Fixes:</p>\r\n<ul>\r\n<li>Make sure we don't save sent messages twice for outlook.com accounts</li>\r\n<li>Fix a potential crash when changing folders</li>\r\n</ul>\r\n<p>Improvements:</p>\r\n<ul>\r\n<li>Improve search performance</li>\r\n<li>Updated translations</li>\r\n</ul>",
+        "href": "https://github.com/elementary/mail/releases/tag/6.2.0"
+      },
+      {
+        "version": "6.1.1",
+        "release_date": "2021-08-31T02:55:23",
+        "title": "mail 6.1.1 Released",
+        "body": "<p>Fixes:</p>\n<ul>\n<li>Fix an issue that prevented some messaging from rendering at all</li>\n<li>Set the correct \"From\" address when replying and multiple accounts are set up</li>\n<li>Fix a crash on startup for some conversations</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Only save drafts when there are new changes</li>\n<li>Move Undo notification to the message view</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/mail/releases/tag/6.1.1"
+      },
+      {
+        "version": "6.1.0",
+        "release_date": "2021-07-28T18:26:21",
+        "title": "mail 6.1.0 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Preserve conversation subjects when replying or forwarding</li>\n<li>Disable the composer while messages are being sent</li>\n<li>Edit saved draft messages</li>\n<li>Make sure we don't save sent messages twice for some account types</li>\n<li>Stability improvements</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/mail/releases/tag/6.1.0"
+      },
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-16T19:25:32",
+        "title": "mail 6.0.0 Released",
+        "body": "<p>Complete rewrite from scratch</p>\n",
+        "href": "https://github.com/elementary/mail/releases/tag/6.0.0"
+      },
+      {
+        "version": "1.0.8",
+        "release_date": "2018-10-15T22:57:24",
+        "title": "Mail 1.0.8 Released",
+        "body": "pantheon-mail 1.0.8 is out!\r\n\r\nChanges:\r\n* Don't automatically load messages on the first run\r\n* Support libsignon-glib instead of libgsignon-glib\r\n* Build fixes\r\n* Updated translations",
+        "href": "https://github.com/elementary/mail/releases/tag/1.0.8"
+      },
+      {
+        "version": "1.0.7",
+        "release_date": "2018-06-05T08:50:36",
+        "title": "Mail 1.0.7 Released",
+        "body": "pantheon-mail 1.0.7 is out!\r\n\r\nThis release contains minor fixes for deprecations and missing translations.",
+        "href": "https://github.com/elementary/mail/releases/tag/1.0.7"
+      },
+      {
+        "version": "1.0.6",
+        "release_date": "2017-08-24T06:23:03",
+        "title": "Mail 1.0.6 Released",
+        "body": "pantheon-mail 1.0.6 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/mail/milestone/2?closed=1).",
+        "href": "https://github.com/elementary/mail/releases/tag/1.0.6"
+      }
+    ],
+    "new_commits": 0
+  },
+  {
     "name": "camera",
     "releases": [
       {
@@ -1826,61 +1888,6 @@
       }
     ],
     "new_commits": 88
-  },
-  {
-    "name": "mail",
-    "releases": [
-      {
-        "version": "6.2.0",
-        "release_date": "2021-09-27T20:37:50",
-        "title": "Mail 6.2.0 Released",
-        "body": "<p>New features:</p>\r\n<ul>\r\n<li>Send a notification when new messages arrive</li>\r\n<li>Add a button to manually fetch new messages</li>\r\n<li>Automatically select the next message after deleting</li>\r\n<li>Filter unread or starred conversations</li>\r\n</ul>\r\n<p>Fixes:</p>\r\n<ul>\r\n<li>Make sure we don't save sent messages twice for outlook.com accounts</li>\r\n<li>Fix a potential crash when changing folders</li>\r\n</ul>\r\n<p>Improvements:</p>\r\n<ul>\r\n<li>Improve search performance</li>\r\n<li>Updated translations</li>\r\n</ul>",
-        "href": "https://github.com/elementary/mail/releases/tag/6.2.0"
-      },
-      {
-        "version": "6.1.1",
-        "release_date": "2021-08-31T02:55:23",
-        "title": "mail 6.1.1 Released",
-        "body": "<p>Fixes:</p>\n<ul>\n<li>Fix an issue that prevented some messaging from rendering at all</li>\n<li>Set the correct \"From\" address when replying and multiple accounts are set up</li>\n<li>Fix a crash on startup for some conversations</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Only save drafts when there are new changes</li>\n<li>Move Undo notification to the message view</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/mail/releases/tag/6.1.1"
-      },
-      {
-        "version": "6.1.0",
-        "release_date": "2021-07-28T18:26:21",
-        "title": "mail 6.1.0 Released",
-        "body": "<p>Improvements:</p>\n<ul>\n<li>Preserve conversation subjects when replying or forwarding</li>\n<li>Disable the composer while messages are being sent</li>\n<li>Edit saved draft messages</li>\n<li>Make sure we don't save sent messages twice for some account types</li>\n<li>Stability improvements</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/mail/releases/tag/6.1.0"
-      },
-      {
-        "version": "6.0.0",
-        "release_date": "2021-07-16T19:25:32",
-        "title": "mail 6.0.0 Released",
-        "body": "<p>Complete rewrite from scratch</p>\n",
-        "href": "https://github.com/elementary/mail/releases/tag/6.0.0"
-      },
-      {
-        "version": "1.0.8",
-        "release_date": "2018-10-15T22:57:24",
-        "title": "Mail 1.0.8 Released",
-        "body": "pantheon-mail 1.0.8 is out!\r\n\r\nChanges:\r\n* Don't automatically load messages on the first run\r\n* Support libsignon-glib instead of libgsignon-glib\r\n* Build fixes\r\n* Updated translations",
-        "href": "https://github.com/elementary/mail/releases/tag/1.0.8"
-      },
-      {
-        "version": "1.0.7",
-        "release_date": "2018-06-05T08:50:36",
-        "title": "Mail 1.0.7 Released",
-        "body": "pantheon-mail 1.0.7 is out!\r\n\r\nThis release contains minor fixes for deprecations and missing translations.",
-        "href": "https://github.com/elementary/mail/releases/tag/1.0.7"
-      },
-      {
-        "version": "1.0.6",
-        "release_date": "2017-08-24T06:23:03",
-        "title": "Mail 1.0.6 Released",
-        "body": "pantheon-mail 1.0.6 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/mail/milestone/2?closed=1).",
-        "href": "https://github.com/elementary/mail/releases/tag/1.0.6"
-      }
-    ],
-    "new_commits": 76
   },
   {
     "name": "tasks",
