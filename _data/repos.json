@@ -1314,7 +1314,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 10
+    "new_commits": 11
   },
   {
     "name": "screenshot",
@@ -4706,7 +4706,7 @@
         "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.0"
       }
     ],
-    "new_commits": 63
+    "new_commits": 64
   },
   {
     "name": "switchboard-plug-bluetooth",
