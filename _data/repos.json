@@ -460,7 +460,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.0.1"
       }
     ],
-    "new_commits": 1
+    "new_commits": 2
   },
   {
     "name": "calendar",
@@ -1317,6 +1317,89 @@
     "new_commits": 10
   },
   {
+    "name": "screenshot",
+    "releases": [
+      {
+        "version": "6.0.1",
+        "release_date": "2021-10-25T18:40:46",
+        "title": "Screenshot 6.0.1 Released",
+        "body": "## What's Changed\r\n* Add aarch64 architecture support to flatpak builds by @davidmhewitt in https://github.com/elementary/screenshot/pull/227",
+        "href": "https://github.com/elementary/screenshot/releases/tag/6.0.1"
+      },
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-21T02:47:04",
+        "title": "screenshot 6.0.0 Released",
+        "body": "<ul>\n<li>Support the dark style</li>\n<li>Drag and Drop the preview image from the save dialog</li>\n<li>Drag to move the window from anywhere</li>\n<li>Show details for errors if they occur</li>\n<li>Translation updates</li>\n</ul>\n",
+        "href": "https://github.com/elementary/screenshot/releases/tag/6.0.0"
+      },
+      {
+        "version": "1.7.1",
+        "release_date": "2020-01-21T19:05:32",
+        "title": "screenshot 1.7.1 Released",
+        "body": "screenshot 1.7.1 is out! \n\n<ul>\n<li>Fix minor visual issues with selection items</li>\n<li>Translation updates</li>\n</ul>\n",
+        "href": "https://github.com/elementary/screenshot/releases/tag/1.7.1"
+      },
+      {
+        "version": "1.7.0",
+        "release_date": "2019-11-15T21:44:44",
+        "title": "screenshot 1.7.0 Released",
+        "body": "screenshot 1.7.0 is out! \n\nChanges:\n\n* Close when pressing the Escape key\n* Translation updates\n",
+        "href": "https://github.com/elementary/screenshot/releases/tag/1.7.0"
+      },
+      {
+        "version": "1.6.2",
+        "release_date": "2019-02-20T21:13:57",
+        "title": "Screenshot 1.6.2 Released",
+        "body": "Screenshot 1.6.2 is out!\r\n\r\nChanges:\r\n* Revert from redacted font as soon as possible to avoid getting stuck in some situations\r\n* Updated translations",
+        "href": "https://github.com/elementary/screenshot/releases/tag/1.6.2"
+      },
+      {
+        "version": "1.6.1",
+        "release_date": "2019-02-01T12:54:10",
+        "title": "Screenshot 1.6.1 Released",
+        "body": "Screenshot 1.6.1 is out!\r\n\r\nChanges:\r\n* Always respect delay setting\r\n* Increase minimum timeout to 300\r\n* Updated translations",
+        "href": "https://github.com/elementary/screenshot/releases/tag/1.6.1"
+      },
+      {
+        "version": "1.6.0",
+        "release_date": "2018-10-16T08:22:41",
+        "title": "Screenshot 1.6.0 Released",
+        "body": "Screenshot 1.6.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/screenshot/issues?q=is%3Aclosed+milestone%3A1.6.0).",
+        "href": "https://github.com/elementary/screenshot/releases/tag/1.6.0"
+      },
+      {
+        "version": "0.1.5",
+        "release_date": "2018-06-06T13:16:27",
+        "title": "Screenshot 0.1.5 Released",
+        "body": "Screenshot 0.1.5 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/screenshot-tool/issues?q=is%3Aclosed+milestone%3A0.1.5).",
+        "href": "https://github.com/elementary/screenshot/releases/tag/0.1.5"
+      },
+      {
+        "version": "0.1.4",
+        "release_date": "2017-07-28T03:08:26",
+        "title": "Screenshot 0.1.4 Released",
+        "body": "screenshot-tool 0.1.4 is out!",
+        "href": "https://github.com/elementary/screenshot/releases/tag/0.1.4"
+      },
+      {
+        "version": "0.1.3.1",
+        "release_date": "2017-04-30T03:00:26",
+        "title": "Screenshot 0.1.3.1 Released",
+        "body": "screenshot-tool 0.1.3.1 is out!",
+        "href": "https://github.com/elementary/screenshot/releases/tag/0.1.3.1"
+      },
+      {
+        "version": "0.1.3",
+        "release_date": "2017-04-21T17:17:47",
+        "title": "Screenshot 0.1.3 Released",
+        "body": "screenshot-tool 0.1.3 is out!",
+        "href": "https://github.com/elementary/screenshot/releases/tag/0.1.3"
+      }
+    ],
+    "new_commits": 3
+  },
+  {
     "name": "portals",
     "releases": [
       {
@@ -1416,7 +1499,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 2
+    "new_commits": 3
   },
   {
     "name": "stylesheet",
@@ -1589,7 +1672,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 33
+    "new_commits": 34
   },
   {
     "name": "code",
@@ -3033,7 +3116,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-power/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 39
+    "new_commits": 40
   },
   {
     "name": "action-appcenter-review-parse",
@@ -3231,82 +3314,6 @@
       }
     ],
     "new_commits": 28
-  },
-  {
-    "name": "screenshot",
-    "releases": [
-      {
-        "version": "6.0.0",
-        "release_date": "2021-07-21T02:47:04",
-        "title": "screenshot 6.0.0 Released",
-        "body": "<ul>\n<li>Support the dark style</li>\n<li>Drag and Drop the preview image from the save dialog</li>\n<li>Drag to move the window from anywhere</li>\n<li>Show details for errors if they occur</li>\n<li>Translation updates</li>\n</ul>\n",
-        "href": "https://github.com/elementary/screenshot/releases/tag/6.0.0"
-      },
-      {
-        "version": "1.7.1",
-        "release_date": "2020-01-21T19:05:32",
-        "title": "screenshot 1.7.1 Released",
-        "body": "screenshot 1.7.1 is out! \n\n<ul>\n<li>Fix minor visual issues with selection items</li>\n<li>Translation updates</li>\n</ul>\n",
-        "href": "https://github.com/elementary/screenshot/releases/tag/1.7.1"
-      },
-      {
-        "version": "1.7.0",
-        "release_date": "2019-11-15T21:44:44",
-        "title": "screenshot 1.7.0 Released",
-        "body": "screenshot 1.7.0 is out! \n\nChanges:\n\n* Close when pressing the Escape key\n* Translation updates\n",
-        "href": "https://github.com/elementary/screenshot/releases/tag/1.7.0"
-      },
-      {
-        "version": "1.6.2",
-        "release_date": "2019-02-20T21:13:57",
-        "title": "Screenshot 1.6.2 Released",
-        "body": "Screenshot 1.6.2 is out!\r\n\r\nChanges:\r\n* Revert from redacted font as soon as possible to avoid getting stuck in some situations\r\n* Updated translations",
-        "href": "https://github.com/elementary/screenshot/releases/tag/1.6.2"
-      },
-      {
-        "version": "1.6.1",
-        "release_date": "2019-02-01T12:54:10",
-        "title": "Screenshot 1.6.1 Released",
-        "body": "Screenshot 1.6.1 is out!\r\n\r\nChanges:\r\n* Always respect delay setting\r\n* Increase minimum timeout to 300\r\n* Updated translations",
-        "href": "https://github.com/elementary/screenshot/releases/tag/1.6.1"
-      },
-      {
-        "version": "1.6.0",
-        "release_date": "2018-10-16T08:22:41",
-        "title": "Screenshot 1.6.0 Released",
-        "body": "Screenshot 1.6.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/screenshot/issues?q=is%3Aclosed+milestone%3A1.6.0).",
-        "href": "https://github.com/elementary/screenshot/releases/tag/1.6.0"
-      },
-      {
-        "version": "0.1.5",
-        "release_date": "2018-06-06T13:16:27",
-        "title": "Screenshot 0.1.5 Released",
-        "body": "Screenshot 0.1.5 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/screenshot-tool/issues?q=is%3Aclosed+milestone%3A0.1.5).",
-        "href": "https://github.com/elementary/screenshot/releases/tag/0.1.5"
-      },
-      {
-        "version": "0.1.4",
-        "release_date": "2017-07-28T03:08:26",
-        "title": "Screenshot 0.1.4 Released",
-        "body": "screenshot-tool 0.1.4 is out!",
-        "href": "https://github.com/elementary/screenshot/releases/tag/0.1.4"
-      },
-      {
-        "version": "0.1.3.1",
-        "release_date": "2017-04-30T03:00:26",
-        "title": "Screenshot 0.1.3.1 Released",
-        "body": "screenshot-tool 0.1.3.1 is out!",
-        "href": "https://github.com/elementary/screenshot/releases/tag/0.1.3.1"
-      },
-      {
-        "version": "0.1.3",
-        "release_date": "2017-04-21T17:17:47",
-        "title": "Screenshot 0.1.3 Released",
-        "body": "screenshot-tool 0.1.3 is out!",
-        "href": "https://github.com/elementary/screenshot/releases/tag/0.1.3"
-      }
-    ],
-    "new_commits": 40
   },
   {
     "name": "notifications",
@@ -3566,7 +3573,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-keyboard/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 44
+    "new_commits": 45
   },
   {
     "name": "switchboard-plug-pantheon-shell",
@@ -4354,7 +4361,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-nightlight/releases/tag/2.0"
       }
     ],
-    "new_commits": 43
+    "new_commits": 44
   },
   {
     "name": "wingpanel-indicator-sound",
