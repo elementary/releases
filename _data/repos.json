@@ -1,5 +1,25 @@
 [
   {
+    "name": "portals",
+    "releases": [
+      {
+        "version": "1.0.1",
+        "release_date": "2021-10-28T08:07:25",
+        "title": "Portals 1.0.1 Released!",
+        "body": "## What's Changed\r\n* Watch for xdg-desktop-portal starting before binding style scheme by @davidmhewitt in https://github.com/elementary/portals/pull/34\r\n\r\n**Full Changelog**: https://github.com/elementary/portals/compare/1.0.0...1.0.1",
+        "href": "https://github.com/elementary/portals/releases/tag/1.0.1"
+      },
+      {
+        "version": "1.0.0",
+        "release_date": "2021-10-25T16:57:13",
+        "title": "Portals 1.0.0 Released!",
+        "body": "<p>First release!</p>\r\n<ul>\r\n<li>Add OpenURI Portal</li>\r\n</ul>",
+        "href": "https://github.com/elementary/portals/releases/tag/1.0.0"
+      }
+    ],
+    "new_commits": 0
+  },
+  {
     "name": "mail",
     "releases": [
       {
@@ -1398,19 +1418,6 @@
       }
     ],
     "new_commits": 3
-  },
-  {
-    "name": "portals",
-    "releases": [
-      {
-        "version": "1.0.0",
-        "release_date": "2021-10-25T16:57:13",
-        "title": "Portals 1.0.0 Released!",
-        "body": "<p>First release!</p>\r\n<ul>\r\n<li>Add OpenURI Portal</li>\r\n</ul>",
-        "href": "https://github.com/elementary/portals/releases/tag/1.0.0"
-      }
-    ],
-    "new_commits": 0
   },
   {
     "name": "settings-daemon",
