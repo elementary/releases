@@ -1341,7 +1341,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 21
+    "new_commits": 22
   },
   {
     "name": "screenshot",
@@ -4327,7 +4327,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 74
+    "new_commits": 75
   },
   {
     "name": "wingpanel-indicator-nightlight",
