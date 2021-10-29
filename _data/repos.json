@@ -1334,7 +1334,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 17
+    "new_commits": 18
   },
   {
     "name": "screenshot",
@@ -4589,7 +4589,7 @@
         "href": "https://github.com/elementary/videos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 125
+    "new_commits": 126
   },
   {
     "name": "pantheon-agent-polkit",
