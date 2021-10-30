@@ -1,5 +1,393 @@
 [
   {
+    "name": "capnet-assist",
+    "releases": [
+      {
+        "version": "2.4.0",
+        "release_date": "2021-10-29T23:38:44",
+        "title": "Captive Network Assistant 2.4.0 Released",
+        "body": "<ul>\r\n<li>New icon</li>\r\n<li>Updated translations</li>\r\n</ul>",
+        "href": "https://github.com/elementary/capnet-assist/releases/tag/2.4.0"
+      },
+      {
+        "version": "2.3.0",
+        "release_date": "2021-07-13T23:27:59",
+        "title": "capnet-assist 2.3.0 Released",
+        "body": "<ul>\n<li>Dark style support</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/capnet-assist/releases/tag/2.3.0"
+      },
+      {
+        "version": "2.2.5",
+        "release_date": "2020-04-08T20:31:34",
+        "title": "capnet-assist 2.2.5 Released",
+        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/capnet-assist/releases/tag/2.2.5"
+      },
+      {
+        "version": "2.2.4",
+        "release_date": "2019-11-20T16:40:39",
+        "title": "capnet-assist 2.2.4 Released",
+        "body": "capnet-assist 2.2.4 is out! \n\nChanges:\n\n* Updated translations\n",
+        "href": "https://github.com/elementary/capnet-assist/releases/tag/2.2.4"
+      },
+      {
+        "version": "2.2.3",
+        "release_date": "2019-02-01T15:07:29",
+        "title": "Captive Portal Assistant 2.2.3 Released",
+        "body": "Captive Portal Assistant 2.2.3 is out!\r\n\r\nChanges:\r\n* Updated translations",
+        "href": "https://github.com/elementary/capnet-assist/releases/tag/2.2.3"
+      },
+      {
+        "version": "2.2.2",
+        "release_date": "2018-10-15T23:19:38",
+        "title": "Captive Portal Assistant 2.2.2 Released",
+        "body": "Captive Portal Assistant 2.2.2 is out!\r\n\r\nThis release includes updated translations.",
+        "href": "https://github.com/elementary/capnet-assist/releases/tag/2.2.2"
+      },
+      {
+        "version": "2.2.1",
+        "release_date": "2018-10-03T11:59:05",
+        "title": "Captive Portal Assistant 2.2.1 Released",
+        "body": "Captive Portal Assistant 2.2.1 is out!\r\n\r\nThis release includes updated translations.",
+        "href": "https://github.com/elementary/capnet-assist/releases/tag/2.2.1"
+      },
+      {
+        "version": "0.2.2",
+        "release_date": "2018-06-05T09:43:41",
+        "title": "Captive Portal Assistant 0.2.2 Released",
+        "body": "Captive Portal Assistant 0.2.2 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/capnet-assist/issues?q=is%3Aclosed+milestone%3A0.2.2).",
+        "href": "https://github.com/elementary/capnet-assist/releases/tag/0.2.2"
+      }
+    ],
+    "new_commits": 0
+  },
+  {
+    "name": "wingpanel-indicator-datetime",
+    "releases": [
+      {
+        "version": "2.3.1",
+        "release_date": "2021-10-29T23:15:33",
+        "title": "Date Time Indicator 2.3.1 Released",
+        "body": "<p>Fixes:</p>\r\n<ul>\r\n<li>Update current day when opening</li>\r\n<li>Fix disappearing dates when changing between dark and light styles</li>\r\n<li>Fix potential memory leak</li>\r\n</ul>\r\n<p>Improvements:</p>\r\n<ul>\r\n<li>Updated translations</li>\r\n</ul>",
+        "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.3.1"
+      },
+      {
+        "version": "2.3.0",
+        "release_date": "2021-07-14T20:35:19",
+        "title": "wingpanel-indicator-datetime 2.3.0 Released",
+        "body": "<p>Add multitouch gestures</p>\n<p>Improve time zone handling</p>\n<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.3.0"
+      },
+      {
+        "version": "2.2.5",
+        "release_date": "2020-06-30T19:54:39",
+        "title": "wingpanel-indicator-datetime 2.2.5 Released",
+        "body": "<p>Fix issues with time zones not being recognized</p>\n<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.2.5"
+      },
+      {
+        "version": "2.2.4",
+        "release_date": "2020-05-28T18:53:35",
+        "title": "wingpanel-indicator-datetime 2.2.4 Released",
+        "body": "<p>Improved performance when switching months</p>\n<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.2.4"
+      },
+      {
+        "version": "2.2.3",
+        "release_date": "2020-05-18T03:11:33",
+        "title": "wingpanel-indicator-datetime 2.2.3 Released",
+        "body": "<p>Fix missing event dots in the calendar view</p>\n<p>Fix event appearance with dark style</p>\n<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.2.3"
+      },
+      {
+        "version": "2.2.2",
+        "release_date": "2020-03-29T19:40:47",
+        "title": "wingpanel-indicator-datetime 2.2.2 Released",
+        "body": "wingpanel-indicator-datetime 2.2.2 is out! \n\n<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.2.2"
+      },
+      {
+        "version": "2.2.1",
+        "release_date": "2019-11-26T18:10:05",
+        "title": "wingpanel-indicator-datetime 2.2.1 Released",
+        "body": "wingpanel-indicator-datetime 2.2.1 is out! \n\n<p>Fix potential crash when loading events with no start or end time</p>\n<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.2.1"
+      },
+      {
+        "version": "2.2.0",
+        "release_date": "2019-10-31T20:37:07",
+        "title": "wingpanel-indicator-datetime 2.2.0 Released",
+        "body": "wingpanel-indicator-datetime 2.2.0 is out! \n\nChanges:\n\n* Redesigned the way upcoming events are displayed\n* Fixed issues with large text size\n* Show dots on days with events\n* Better handling of recurring events\n* Performance improvements\n* Display an error dialog if Calendar fails to open\n* Updated translations\n",
+        "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.2.0"
+      },
+      {
+        "version": "2.1.3",
+        "release_date": "2018-12-12T01:04:37",
+        "title": "Wingpanel Date & Time Indicator 2.1.3 Released",
+        "body": "wingpanel-indicator-datetime 2.1.3 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/wingpanel-indicator-datetime/issues?q=is%3Aclosed+milestone%3A2.1.3).",
+        "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.1.3"
+      },
+      {
+        "version": "2.1.2",
+        "release_date": "2018-10-16T02:35:35",
+        "title": "Wingpanel Date & Time Indicator 2.1.2 Released",
+        "body": "wingpanel-indicator-datetime 2.1.2 is out!\r\n\r\nChanges:\r\n* Accurately select current day each open\r\n* Updated translations",
+        "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.1.2"
+      },
+      {
+        "version": "2.1.1",
+        "release_date": "2018-10-02T11:40:06",
+        "title": "Wingpanel Date & Time Indicator 2.1.1 Released",
+        "body": "wingpanel-indicator-datetime 2.1.1 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/wingpanel-indicator-datetime/issues?q=is%3Aclosed+milestone%3A2.1.1).",
+        "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.1.1"
+      },
+      {
+        "version": "2.1.0",
+        "release_date": "2018-06-19T02:18:57",
+        "title": "Wingpanel Date & Time Indicator 2.1.0 Released",
+        "body": "wingpanel-indicator-datetime 2.1.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/wingpanel-indicator-datetime/issues?q=is%3Aclosed+milestone%3A2.1.0).",
+        "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.1.0"
+      },
+      {
+        "version": "2.0.2",
+        "release_date": "2017-06-30T10:12:22",
+        "title": "Wingpanel Date & Time Indicator 2.0.2 Released",
+        "body": "wingpanel-indicator-datetime 2.0.2 is out!",
+        "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.0.2"
+      }
+    ],
+    "new_commits": 0
+  },
+  {
+    "name": "files",
+    "releases": [
+      {
+        "version": "6.0.4",
+        "release_date": "2021-10-29T23:15:24",
+        "title": "Files 6.0.4 Released",
+        "body": "<p>Fixes:</p>\r\n<ul>\r\n<li>Show translated bookmark names when changing languages</li>\r\n<li>Stop some audio file icons disappearing when scrolling or changing view</li>\r\n<li>Stop brief appearance of status overlay when changing root folder in Column View</li>\r\n</ul>\r\n<p>Other updates:</p>\r\n<ul>\r\n<li>Remove message about reporting issues when running from Terminal</li>\r\n<li>Updated translations</li>\r\n</ul>\r\n",
+        "href": "https://github.com/elementary/files/releases/tag/6.0.4"
+      },
+      {
+        "version": "6.0.3",
+        "release_date": "2021-09-27T20:39:05",
+        "title": "Files 6.0.3 Released",
+        "body": "<p>Fixes:</p>\r\n<ul>\r\n<li>Open bookmarks in a new tab with Ctrl + Click</li>\r\n<li>Fix dropping uris onto storage devices and network locations in sidebar</li>\r\n<li>Fix restoring tabs after a system restart</li>\r\n<li>Don't unselect when secondary clicking blank space around a file or folder</li>\r\n<li>Show the folder context menu when secondary clicking outside of a selection</li>\r\n</ul>\r\n<p>Other updates:</p>\r\n<ul>\r\n<li>Updated translations</li>\r\n</ul>",
+        "href": "https://github.com/elementary/files/releases/tag/6.0.3"
+      },
+      {
+        "version": "6.0.2",
+        "release_date": "2021-08-26T21:37:59",
+        "title": "files 6.0.2 Released",
+        "body": "<p>Fixes:</p>\n<ul>\n<li>Fix small context menus on breadcrumbs</li>\n<li>Fix bookmarking a single selected item with Ctrl + D</li>\n<li>Fix renaming bookmarks in the sidebar</li>\n<li>FIx an issue with showing color tags when thumbnails are hidden</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/files/releases/tag/6.0.2"
+      },
+      {
+        "version": "6.0.1",
+        "release_date": "2021-08-03T15:45:30",
+        "title": "files 6.0.1 Released",
+        "body": "<p>Fixes:</p>\n<ul>\n<li>Fix freeze when comparing copied files</li>\n<li>Fix truncation of final column in Column View under some circumstances</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Show more keyboard accelerators in menus</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/files/releases/tag/6.0.1"
+      },
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-15T22:45:11",
+        "title": "files 6.0.0 Released",
+        "body": "<p>Fixes:</p>\n<ul>\n<li>Fix connecting to AFP servers so that passwords are remembered</li>\n<li>Fix MTP mounts</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Launch files with double click instead of single click</li>\n<li>Provide a File Chooser portal for Flatpak apps</li>\n<li>Brand new animated Sidebar</li>\n<li>Dark style support</li>\n<li>Mint and Bubblegum color tags</li>\n<li>Do not restore locations that have become inaccessible</li>\n<li>Clicking between thumbnail and text now activates/selects in Icon view</li>\n<li>AFC protocol support</li>\n<li>Add a smaller minimum icon size in list view</li>\n<li>Show emblems inline in list views</li>\n<li>Performance improvements</li>\n<li>Stability improvements</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Rename \"Devices\" to \"Storage\"</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/files/releases/tag/6.0.0"
+      },
+      {
+        "version": "4.5.0",
+        "release_date": "2020-08-11T17:27:16",
+        "title": "files 4.5.0 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Bookmark menu option for network mounts in sidebar</li>\n<li>Show folder item count in List View</li>\n<li>Now shows thumbnails on locally mounted MTP and PTP devices as well as on network locations by default</li>\n<li>Properties window: Allow the filename to be copied when it cannot be edited</li>\n<li>Improved tooltip formatting for devices in the sidebar</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Fix crash when pressing Enter and another key at the same time</li>\n<li>Fix pathbar handling of \"~\" and \"..\" in path</li>\n<li>Filechooser pathbar no longer crashes when invoked from a Flatpak</li>\n<li>Do not show git status for repositories on FUSE filesystems to prevent possible blocking</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>\"Personal\" is now \"Bookmarks\"</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/files/releases/tag/4.5.0"
+      },
+      {
+        "version": "4.4.4",
+        "release_date": "2020-07-01T16:42:26",
+        "title": "files 4.4.4 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Add warning and error colored disk usage bars when disk becomes too full</li>\n<li>Prevent window resizing when filename column width exceeds available space</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Fix handling of filenames containing the # character</li>\n<li>Fix regressions regarding pathbar context menus and clicking</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/files/releases/tag/4.4.4"
+      },
+      {
+        "version": "4.4.3",
+        "release_date": "2020-06-01T23:35:32",
+        "title": "files 4.4.3 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Paste images into other apps instead of file paths where possible</li>\n<li>Paste into a selected folder when using Ctrl + V</li>\n<li>Show file info overlay in List View as well</li>\n<li>Traverse search results with Tab key</li>\n<li>Show an error message when attempting to open trashed files</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Fix uneditable area in pathbar which is showing home folder placeholder</li>\n<li>Fix an issue that prevented file modification times from showing</li>\n<li>Fix size of restored tiled window</li>\n<li>Fix color tags disappearing when thumbnails hidden</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/files/releases/tag/4.4.3"
+      },
+      {
+        "version": "4.4.2",
+        "release_date": "2020-04-03T18:30:32",
+        "title": "files 4.4.2 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Fix crash when a device icon is coming from a file</li>\n<li>Fix device icon sometimes missing</li>\n<li>Fix occasional view freeze after renaming</li>\n<li>Improve renaming logic when dealing with leading/trailing whitespace</li>\n<li>Fix breadcrumbs sometimes incorrect at startup</li>\n<li>Do not show file:// prefix in navigation buttons menus</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/files/releases/tag/4.4.2"
+      },
+      {
+        "version": "4.4.1",
+        "release_date": "2020-03-03T09:38:55",
+        "title": "files 4.4.1 Released",
+        "body": "files 4.4.1 is out! \n\n<p>Minor updates:</p>\n<ul>\n<li>Fix \"New Folder\" keyboard shortcut label in menu</li>\n<li>Fix navigation with back/forward button context menu</li>\n<li>Fix path bar sometimes showing wrong path when closing a tab</li>\n<li>Ensure keyboard shortcuts work immediately after creating or renaming a file</li>\n<li>Do not include \"file://\" in pathbar text or when pasting path as text</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/files/releases/tag/4.4.1"
+      },
+      {
+        "version": "4.4.0",
+        "release_date": "2020-02-11T16:23:21",
+        "title": "files 4.4.0 Released",
+        "body": "files 4.4.0 is out! \n\n<ul>\n<li>Show keyboard shortcuts in menu items</li>\n<li>Fix an issue with breadcrumbs in the file chooser</li>\n<li>Show a warning when ejecting a volume that's still in use</li>\n<li>Fix cursor update after horizontal scroll in Column View</li>\n<li>Fix folder-open icon persisting after closing Column View</li>\n<li>Use destructive action styling for some trash dialog buttons</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/files/releases/tag/4.4.0"
+      },
+      {
+        "version": "4.3.0",
+        "release_date": "2020-01-07T18:53:19",
+        "title": "files 4.3.0 Released",
+        "body": "files 4.3.0 is out! \n\n<p>New features:</p>\n<ul>\n<li>Initial git plugin support</li>\n<li>Follow global history setting when restoring and saving tabs</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Ensure tabs showing same folder remain synchronized</li>\n<li>Fix drag with secondary button on empty space</li>\n<li>Show custom media type icons for installed apps</li>\n<li>Fix appearance of inactive diskspace indicator</li>\n<li>Improve pathbar animation</li>\n<li>Update documentation</li>\n<li>Update translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/files/releases/tag/4.3.0"
+      },
+      {
+        "version": "4.2.0",
+        "release_date": "2019-09-10T01:17:50",
+        "title": "Files 4.2.0 Released",
+        "body": "Files 4.2.0 is out!\r\n\r\nChanges:\r\n* Initial cloudproviders plugin support\r\n* Fix selecting pasted files\r\n* Fix color label visibility while using dark theme\r\n* Fix selecting files using `Shift` key\r\n* Draw checkerboard background for image items\r\n* Improved styling for disk space bars\r\n* Updated translations",
+        "href": "https://github.com/elementary/files/releases/tag/4.2.0"
+      },
+      {
+        "version": "4.1.9",
+        "release_date": "2019-07-26T14:54:02",
+        "title": "Files 4.1.9 Released",
+        "body": "Files 4.1.9 is out!\r\n\r\nChanges:\r\n* Show more search results\r\n* Ensure valid tab name generation\r\n* Properly sort folders by date and size\r\n* Launching Files from Terminal now opens new tab instead of new window\r\n* Improve MTP support\r\n* Various tagging feature refinements\r\n* Keyboard navigation improvements\r\n* Symlink copy and paste fixes\r\n* Avoid crash when Templates folder is null\r\n* Reduce memory footprint of FileChooserDialog\r\n* Avoid crash when selecting image file in some situations\r\n* Fix unclosable progress window while copying network files to removable storage\r\n* Fix drag and drop after double clicking a blank area\r\n* Avoid crash while scrolling over view switcher\r\n* Avoid possible crash in some copy and paste situations\r\n* Updated translations",
+        "href": "https://github.com/elementary/files/releases/tag/4.1.9"
+      },
+      {
+        "version": "4.1.8",
+        "release_date": "2019-05-02T20:45:24",
+        "title": "Files 4.1.8 Released",
+        "body": "Files 4.1.8 is out!\r\n\r\nChanges:\r\n* Keyboard navigation fix for cherry picking select files in icon view\r\n* Don't hardcode search placeholder text style, fixes dark theme issue\r\n* Updated translations",
+        "href": "https://github.com/elementary/files/releases/tag/4.1.8"
+      },
+      {
+        "version": "4.1.7",
+        "release_date": "2019-04-08T19:53:01",
+        "title": "Files 4.1.7 Released",
+        "body": "Files 4.1.7 is out!\r\n\r\nChanges:\r\n* Minor spacing adjustments to location bar\r\n* Fix F2 renaming behavior\r\n* Updated translations",
+        "href": "https://github.com/elementary/files/releases/tag/4.1.7"
+      },
+      {
+        "version": "4.1.6",
+        "release_date": "2019-03-26T09:58:49",
+        "title": "Files 4.1.6 Released",
+        "body": "Files 4.1.6 is out!\r\n\r\nChanges:\r\n* Minor spacing adjustments to location breadcrumbs\r\n* Consistently remember color tags\r\n* Reload thumbnails when changing zoom level to avoid showing placeholder unnecessarily\r\n* Fix running scripts with spaces in filename\r\n* Updated translations",
+        "href": "https://github.com/elementary/files/releases/tag/4.1.6"
+      },
+      {
+        "version": "4.1.5",
+        "release_date": "2019-02-13T23:53:57",
+        "title": "Files 4.1.5 Released",
+        "body": "Files 4.1.5 is out!\r\n\r\nChanges:\r\n* Fix high CPU regression in v4.1.4\r\n* File sorting fixes\r\n* Updated translations",
+        "href": "https://github.com/elementary/files/releases/tag/4.1.5"
+      },
+      {
+        "version": "4.1.4",
+        "release_date": "2019-01-31T13:35:34",
+        "title": "Files 4.1.4 Released",
+        "body": "Files 4.1.4 is out!\r\n\r\nChanges:\r\n* Meson: fix soversion names\r\n* Remove CMake build system\r\n* Fix missing File System properties menu\r\n* Drop intltool dependency\r\n* Fix default file type handler logic\r\n* Fix initial search window size too small\r\n* Add option to disable local file thumbnails\r\n* Fix crash when opening multiple video files\r\n* Fix some timing issues around adding and removing files\r\n* Meson: fix missing library headers\r\n* Fix color tag display\r\n* Show reserved space in Properties window\r\n* Updated translations",
+        "href": "https://github.com/elementary/files/releases/tag/4.1.4"
+      },
+      {
+        "version": "4.1.3",
+        "release_date": "2019-01-09T15:15:23",
+        "title": "Files 4.1.3 Released",
+        "body": "Files 4.1.3 is out!\r\n\r\nChanges:\r\n* Add border radius to text background\r\n* Fix file mimetype association regression\r\n* New pathbar tooltips\r\n* Build fixes\r\n* Updated translations",
+        "href": "https://github.com/elementary/files/releases/tag/4.1.3"
+      },
+      {
+        "version": "4.1.2",
+        "release_date": "2019-01-02T10:32:57",
+        "title": "Files 4.1.2 Released",
+        "body": "Files 4.1.2 is out!\r\n\r\nChanges:\r\n* Plugin build fixes\r\n* Updated translations",
+        "href": "https://github.com/elementary/files/releases/tag/4.1.2"
+      },
+      {
+        "version": "4.1.1",
+        "release_date": "2018-12-28T20:34:15",
+        "title": "Files 4.1.1 Released",
+        "body": "Files 4.1.1 is out!\r\n\r\nChanges:\r\n* Fix `Ctrl+Tab` behavior\r\n* Fix building without Unity library",
+        "href": "https://github.com/elementary/files/releases/tag/4.1.1"
+      },
+      {
+        "version": "4.1.0",
+        "release_date": "2018-12-27T18:31:52",
+        "title": "Files 4.1.0 Released",
+        "body": "Files 4.1.0 is out!\r\n\r\nChanges:\r\n* Hide breadcrumbs and show placeholder and search icon in home folder\r\n* Style error dialogs\r\n* Right click fixes\r\n* Reload recent view when privacy setting changes\r\n* `Connect Server` fixes\r\n* Do not activate multiple files with single click\r\n* Use `Tab` to toggle View and Sidebar keyboard focus\r\n* Delete color tag database entries for trashed files\r\n* Throttle tab closing\r\n* `Ctrl` key fixes\r\n* Drag and drop fixes\r\n* Show icons in `Open with` menus\r\n* Tooltip fixes\r\n* Memory leak fixes\r\n* Crash fixes\r\n* Trash: respect sound setting\r\n* Localization fixes\r\n* Updated translations",
+        "href": "https://github.com/elementary/files/releases/tag/4.1.0"
+      },
+      {
+        "version": "4.0",
+        "release_date": "2018-10-16T09:04:13",
+        "title": "Files 4.0 Released",
+        "body": "Files 4.0 is out!\r\n\r\nThis is a massive release!!!\r\n\r\nThe prolific list of issues closed by this release can be found [here](https://github.com/elementary/files/issues?q=is%3Aclosed+milestone%3A4.0).",
+        "href": "https://github.com/elementary/files/releases/tag/4.0"
+      }
+    ],
+    "new_commits": 0
+  },
+  {
+    "name": "shortcut-overlay",
+    "releases": [
+      {
+        "version": "1.2.1",
+        "release_date": "2021-10-29T23:12:16",
+        "title": "Shortcut Overlay 1.2.1 Released",
+        "body": "<ul>\r\n<li>Fix the app not launching if a shortcut key is set to blank</li>\r\n<li>Updated translations</li>\r\n</ul>",
+        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.2.1"
+      },
+      {
+        "version": "1.2.0",
+        "release_date": "2021-07-14T18:03:45",
+        "title": "shortcut-overlay 1.2.0 Released",
+        "body": "<ul>\n<li>Add screenshot shortcuts</li>\n<li>Fix issues with multiple windows</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.2.0"
+      },
+      {
+        "version": "1.1.2",
+        "release_date": "2020-05-28T18:52:24",
+        "title": "shortcut-overlay 1.1.2 Released",
+        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.1.2"
+      },
+      {
+        "version": "1.1.1",
+        "release_date": "2020-04-03T18:43:00",
+        "title": "shortcut-overlay 1.1.1 Released",
+        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.1.1"
+      },
+      {
+        "version": "1.1.0",
+        "release_date": "2019-11-15T21:51:50",
+        "title": "shortcut-overlay 1.1.0 Released",
+        "body": "shortcut-overlay 1.1.0 is out! \n\nChanges:\n\n* Add \"Switch Layout\" and \"Close Window\", shortcuts\n* Updated translations\n",
+        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.1.0"
+      },
+      {
+        "version": "1.0.1",
+        "release_date": "2018-09-17T22:43:39",
+        "title": "Shortcut Overlay 1.0.1 Released",
+        "body": "Shortcut Overlay 1.0.1 is out!\r\n\r\nChanges:\r\n* Delay destroying window to avoid triggering a re-open\r\n* New translations",
+        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.0.1"
+      },
+      {
+        "version": "1.0",
+        "release_date": "2018-06-05T08:43:11",
+        "title": "Shortcut Overlay 1.0 Released",
+        "body": "Shortcut Overlay 1.0 is out!\r\n\r\nThis is the initial release.",
+        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.0"
+      }
+    ],
+    "new_commits": 0
+  },
+  {
     "name": "appcenter",
     "releases": [
       {
@@ -241,7 +629,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 1
+    "new_commits": 2
   },
   {
     "name": "portals",
@@ -323,7 +711,7 @@
         "href": "https://github.com/elementary/mail/releases/tag/1.0.6"
       }
     ],
-    "new_commits": 4
+    "new_commits": 5
   },
   {
     "name": "camera",
@@ -1818,173 +2206,6 @@
       }
     ],
     "new_commits": 0
-  },
-  {
-    "name": "files",
-    "releases": [
-      {
-        "version": "6.0.3",
-        "release_date": "2021-09-27T20:39:05",
-        "title": "Files 6.0.3 Released",
-        "body": "<p>Fixes:</p>\r\n<ul>\r\n<li>Open bookmarks in a new tab with Ctrl + Click</li>\r\n<li>Fix dropping uris onto storage devices and network locations in sidebar</li>\r\n<li>Fix restoring tabs after a system restart</li>\r\n<li>Don't unselect when secondary clicking blank space around a file or folder</li>\r\n<li>Show the folder context menu when secondary clicking outside of a selection</li>\r\n</ul>\r\n<p>Other updates:</p>\r\n<ul>\r\n<li>Updated translations</li>\r\n</ul>",
-        "href": "https://github.com/elementary/files/releases/tag/6.0.3"
-      },
-      {
-        "version": "6.0.2",
-        "release_date": "2021-08-26T21:37:59",
-        "title": "files 6.0.2 Released",
-        "body": "<p>Fixes:</p>\n<ul>\n<li>Fix small context menus on breadcrumbs</li>\n<li>Fix bookmarking a single selected item with Ctrl + D</li>\n<li>Fix renaming bookmarks in the sidebar</li>\n<li>FIx an issue with showing color tags when thumbnails are hidden</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/files/releases/tag/6.0.2"
-      },
-      {
-        "version": "6.0.1",
-        "release_date": "2021-08-03T15:45:30",
-        "title": "files 6.0.1 Released",
-        "body": "<p>Fixes:</p>\n<ul>\n<li>Fix freeze when comparing copied files</li>\n<li>Fix truncation of final column in Column View under some circumstances</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Show more keyboard accelerators in menus</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/files/releases/tag/6.0.1"
-      },
-      {
-        "version": "6.0.0",
-        "release_date": "2021-07-15T22:45:11",
-        "title": "files 6.0.0 Released",
-        "body": "<p>Fixes:</p>\n<ul>\n<li>Fix connecting to AFP servers so that passwords are remembered</li>\n<li>Fix MTP mounts</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Launch files with double click instead of single click</li>\n<li>Provide a File Chooser portal for Flatpak apps</li>\n<li>Brand new animated Sidebar</li>\n<li>Dark style support</li>\n<li>Mint and Bubblegum color tags</li>\n<li>Do not restore locations that have become inaccessible</li>\n<li>Clicking between thumbnail and text now activates/selects in Icon view</li>\n<li>AFC protocol support</li>\n<li>Add a smaller minimum icon size in list view</li>\n<li>Show emblems inline in list views</li>\n<li>Performance improvements</li>\n<li>Stability improvements</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Rename \"Devices\" to \"Storage\"</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/files/releases/tag/6.0.0"
-      },
-      {
-        "version": "4.5.0",
-        "release_date": "2020-08-11T17:27:16",
-        "title": "files 4.5.0 Released",
-        "body": "<p>Improvements:</p>\n<ul>\n<li>Bookmark menu option for network mounts in sidebar</li>\n<li>Show folder item count in List View</li>\n<li>Now shows thumbnails on locally mounted MTP and PTP devices as well as on network locations by default</li>\n<li>Properties window: Allow the filename to be copied when it cannot be edited</li>\n<li>Improved tooltip formatting for devices in the sidebar</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Fix crash when pressing Enter and another key at the same time</li>\n<li>Fix pathbar handling of \"~\" and \"..\" in path</li>\n<li>Filechooser pathbar no longer crashes when invoked from a Flatpak</li>\n<li>Do not show git status for repositories on FUSE filesystems to prevent possible blocking</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>\"Personal\" is now \"Bookmarks\"</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/files/releases/tag/4.5.0"
-      },
-      {
-        "version": "4.4.4",
-        "release_date": "2020-07-01T16:42:26",
-        "title": "files 4.4.4 Released",
-        "body": "<p>Improvements:</p>\n<ul>\n<li>Add warning and error colored disk usage bars when disk becomes too full</li>\n<li>Prevent window resizing when filename column width exceeds available space</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Fix handling of filenames containing the # character</li>\n<li>Fix regressions regarding pathbar context menus and clicking</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/files/releases/tag/4.4.4"
-      },
-      {
-        "version": "4.4.3",
-        "release_date": "2020-06-01T23:35:32",
-        "title": "files 4.4.3 Released",
-        "body": "<p>Improvements:</p>\n<ul>\n<li>Paste images into other apps instead of file paths where possible</li>\n<li>Paste into a selected folder when using Ctrl + V</li>\n<li>Show file info overlay in List View as well</li>\n<li>Traverse search results with Tab key</li>\n<li>Show an error message when attempting to open trashed files</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Fix uneditable area in pathbar which is showing home folder placeholder</li>\n<li>Fix an issue that prevented file modification times from showing</li>\n<li>Fix size of restored tiled window</li>\n<li>Fix color tags disappearing when thumbnails hidden</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/files/releases/tag/4.4.3"
-      },
-      {
-        "version": "4.4.2",
-        "release_date": "2020-04-03T18:30:32",
-        "title": "files 4.4.2 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Fix crash when a device icon is coming from a file</li>\n<li>Fix device icon sometimes missing</li>\n<li>Fix occasional view freeze after renaming</li>\n<li>Improve renaming logic when dealing with leading/trailing whitespace</li>\n<li>Fix breadcrumbs sometimes incorrect at startup</li>\n<li>Do not show file:// prefix in navigation buttons menus</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/files/releases/tag/4.4.2"
-      },
-      {
-        "version": "4.4.1",
-        "release_date": "2020-03-03T09:38:55",
-        "title": "files 4.4.1 Released",
-        "body": "files 4.4.1 is out! \n\n<p>Minor updates:</p>\n<ul>\n<li>Fix \"New Folder\" keyboard shortcut label in menu</li>\n<li>Fix navigation with back/forward button context menu</li>\n<li>Fix path bar sometimes showing wrong path when closing a tab</li>\n<li>Ensure keyboard shortcuts work immediately after creating or renaming a file</li>\n<li>Do not include \"file://\" in pathbar text or when pasting path as text</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/files/releases/tag/4.4.1"
-      },
-      {
-        "version": "4.4.0",
-        "release_date": "2020-02-11T16:23:21",
-        "title": "files 4.4.0 Released",
-        "body": "files 4.4.0 is out! \n\n<ul>\n<li>Show keyboard shortcuts in menu items</li>\n<li>Fix an issue with breadcrumbs in the file chooser</li>\n<li>Show a warning when ejecting a volume that's still in use</li>\n<li>Fix cursor update after horizontal scroll in Column View</li>\n<li>Fix folder-open icon persisting after closing Column View</li>\n<li>Use destructive action styling for some trash dialog buttons</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/files/releases/tag/4.4.0"
-      },
-      {
-        "version": "4.3.0",
-        "release_date": "2020-01-07T18:53:19",
-        "title": "files 4.3.0 Released",
-        "body": "files 4.3.0 is out! \n\n<p>New features:</p>\n<ul>\n<li>Initial git plugin support</li>\n<li>Follow global history setting when restoring and saving tabs</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Ensure tabs showing same folder remain synchronized</li>\n<li>Fix drag with secondary button on empty space</li>\n<li>Show custom media type icons for installed apps</li>\n<li>Fix appearance of inactive diskspace indicator</li>\n<li>Improve pathbar animation</li>\n<li>Update documentation</li>\n<li>Update translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/files/releases/tag/4.3.0"
-      },
-      {
-        "version": "4.2.0",
-        "release_date": "2019-09-10T01:17:50",
-        "title": "Files 4.2.0 Released",
-        "body": "Files 4.2.0 is out!\r\n\r\nChanges:\r\n* Initial cloudproviders plugin support\r\n* Fix selecting pasted files\r\n* Fix color label visibility while using dark theme\r\n* Fix selecting files using `Shift` key\r\n* Draw checkerboard background for image items\r\n* Improved styling for disk space bars\r\n* Updated translations",
-        "href": "https://github.com/elementary/files/releases/tag/4.2.0"
-      },
-      {
-        "version": "4.1.9",
-        "release_date": "2019-07-26T14:54:02",
-        "title": "Files 4.1.9 Released",
-        "body": "Files 4.1.9 is out!\r\n\r\nChanges:\r\n* Show more search results\r\n* Ensure valid tab name generation\r\n* Properly sort folders by date and size\r\n* Launching Files from Terminal now opens new tab instead of new window\r\n* Improve MTP support\r\n* Various tagging feature refinements\r\n* Keyboard navigation improvements\r\n* Symlink copy and paste fixes\r\n* Avoid crash when Templates folder is null\r\n* Reduce memory footprint of FileChooserDialog\r\n* Avoid crash when selecting image file in some situations\r\n* Fix unclosable progress window while copying network files to removable storage\r\n* Fix drag and drop after double clicking a blank area\r\n* Avoid crash while scrolling over view switcher\r\n* Avoid possible crash in some copy and paste situations\r\n* Updated translations",
-        "href": "https://github.com/elementary/files/releases/tag/4.1.9"
-      },
-      {
-        "version": "4.1.8",
-        "release_date": "2019-05-02T20:45:24",
-        "title": "Files 4.1.8 Released",
-        "body": "Files 4.1.8 is out!\r\n\r\nChanges:\r\n* Keyboard navigation fix for cherry picking select files in icon view\r\n* Don't hardcode search placeholder text style, fixes dark theme issue\r\n* Updated translations",
-        "href": "https://github.com/elementary/files/releases/tag/4.1.8"
-      },
-      {
-        "version": "4.1.7",
-        "release_date": "2019-04-08T19:53:01",
-        "title": "Files 4.1.7 Released",
-        "body": "Files 4.1.7 is out!\r\n\r\nChanges:\r\n* Minor spacing adjustments to location bar\r\n* Fix F2 renaming behavior\r\n* Updated translations",
-        "href": "https://github.com/elementary/files/releases/tag/4.1.7"
-      },
-      {
-        "version": "4.1.6",
-        "release_date": "2019-03-26T09:58:49",
-        "title": "Files 4.1.6 Released",
-        "body": "Files 4.1.6 is out!\r\n\r\nChanges:\r\n* Minor spacing adjustments to location breadcrumbs\r\n* Consistently remember color tags\r\n* Reload thumbnails when changing zoom level to avoid showing placeholder unnecessarily\r\n* Fix running scripts with spaces in filename\r\n* Updated translations",
-        "href": "https://github.com/elementary/files/releases/tag/4.1.6"
-      },
-      {
-        "version": "4.1.5",
-        "release_date": "2019-02-13T23:53:57",
-        "title": "Files 4.1.5 Released",
-        "body": "Files 4.1.5 is out!\r\n\r\nChanges:\r\n* Fix high CPU regression in v4.1.4\r\n* File sorting fixes\r\n* Updated translations",
-        "href": "https://github.com/elementary/files/releases/tag/4.1.5"
-      },
-      {
-        "version": "4.1.4",
-        "release_date": "2019-01-31T13:35:34",
-        "title": "Files 4.1.4 Released",
-        "body": "Files 4.1.4 is out!\r\n\r\nChanges:\r\n* Meson: fix soversion names\r\n* Remove CMake build system\r\n* Fix missing File System properties menu\r\n* Drop intltool dependency\r\n* Fix default file type handler logic\r\n* Fix initial search window size too small\r\n* Add option to disable local file thumbnails\r\n* Fix crash when opening multiple video files\r\n* Fix some timing issues around adding and removing files\r\n* Meson: fix missing library headers\r\n* Fix color tag display\r\n* Show reserved space in Properties window\r\n* Updated translations",
-        "href": "https://github.com/elementary/files/releases/tag/4.1.4"
-      },
-      {
-        "version": "4.1.3",
-        "release_date": "2019-01-09T15:15:23",
-        "title": "Files 4.1.3 Released",
-        "body": "Files 4.1.3 is out!\r\n\r\nChanges:\r\n* Add border radius to text background\r\n* Fix file mimetype association regression\r\n* New pathbar tooltips\r\n* Build fixes\r\n* Updated translations",
-        "href": "https://github.com/elementary/files/releases/tag/4.1.3"
-      },
-      {
-        "version": "4.1.2",
-        "release_date": "2019-01-02T10:32:57",
-        "title": "Files 4.1.2 Released",
-        "body": "Files 4.1.2 is out!\r\n\r\nChanges:\r\n* Plugin build fixes\r\n* Updated translations",
-        "href": "https://github.com/elementary/files/releases/tag/4.1.2"
-      },
-      {
-        "version": "4.1.1",
-        "release_date": "2018-12-28T20:34:15",
-        "title": "Files 4.1.1 Released",
-        "body": "Files 4.1.1 is out!\r\n\r\nChanges:\r\n* Fix `Ctrl+Tab` behavior\r\n* Fix building without Unity library",
-        "href": "https://github.com/elementary/files/releases/tag/4.1.1"
-      },
-      {
-        "version": "4.1.0",
-        "release_date": "2018-12-27T18:31:52",
-        "title": "Files 4.1.0 Released",
-        "body": "Files 4.1.0 is out!\r\n\r\nChanges:\r\n* Hide breadcrumbs and show placeholder and search icon in home folder\r\n* Style error dialogs\r\n* Right click fixes\r\n* Reload recent view when privacy setting changes\r\n* `Connect Server` fixes\r\n* Do not activate multiple files with single click\r\n* Use `Tab` to toggle View and Sidebar keyboard focus\r\n* Delete color tag database entries for trashed files\r\n* Throttle tab closing\r\n* `Ctrl` key fixes\r\n* Drag and drop fixes\r\n* Show icons in `Open with` menus\r\n* Tooltip fixes\r\n* Memory leak fixes\r\n* Crash fixes\r\n* Trash: respect sound setting\r\n* Localization fixes\r\n* Updated translations",
-        "href": "https://github.com/elementary/files/releases/tag/4.1.0"
-      },
-      {
-        "version": "4.0",
-        "release_date": "2018-10-16T09:04:13",
-        "title": "Files 4.0 Released",
-        "body": "Files 4.0 is out!\r\n\r\nThis is a massive release!!!\r\n\r\nThe prolific list of issues closed by this release can be found [here](https://github.com/elementary/files/issues?q=is%3Aclosed+milestone%3A4.0).",
-        "href": "https://github.com/elementary/files/releases/tag/4.0"
-      }
-    ],
-    "new_commits": 94
   },
   {
     "name": "tasks",
@@ -4240,96 +4461,6 @@
     "new_commits": 32
   },
   {
-    "name": "wingpanel-indicator-datetime",
-    "releases": [
-      {
-        "version": "2.3.0",
-        "release_date": "2021-07-14T20:35:19",
-        "title": "wingpanel-indicator-datetime 2.3.0 Released",
-        "body": "<p>Add multitouch gestures</p>\n<p>Improve time zone handling</p>\n<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.3.0"
-      },
-      {
-        "version": "2.2.5",
-        "release_date": "2020-06-30T19:54:39",
-        "title": "wingpanel-indicator-datetime 2.2.5 Released",
-        "body": "<p>Fix issues with time zones not being recognized</p>\n<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.2.5"
-      },
-      {
-        "version": "2.2.4",
-        "release_date": "2020-05-28T18:53:35",
-        "title": "wingpanel-indicator-datetime 2.2.4 Released",
-        "body": "<p>Improved performance when switching months</p>\n<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.2.4"
-      },
-      {
-        "version": "2.2.3",
-        "release_date": "2020-05-18T03:11:33",
-        "title": "wingpanel-indicator-datetime 2.2.3 Released",
-        "body": "<p>Fix missing event dots in the calendar view</p>\n<p>Fix event appearance with dark style</p>\n<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.2.3"
-      },
-      {
-        "version": "2.2.2",
-        "release_date": "2020-03-29T19:40:47",
-        "title": "wingpanel-indicator-datetime 2.2.2 Released",
-        "body": "wingpanel-indicator-datetime 2.2.2 is out! \n\n<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.2.2"
-      },
-      {
-        "version": "2.2.1",
-        "release_date": "2019-11-26T18:10:05",
-        "title": "wingpanel-indicator-datetime 2.2.1 Released",
-        "body": "wingpanel-indicator-datetime 2.2.1 is out! \n\n<p>Fix potential crash when loading events with no start or end time</p>\n<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.2.1"
-      },
-      {
-        "version": "2.2.0",
-        "release_date": "2019-10-31T20:37:07",
-        "title": "wingpanel-indicator-datetime 2.2.0 Released",
-        "body": "wingpanel-indicator-datetime 2.2.0 is out! \n\nChanges:\n\n* Redesigned the way upcoming events are displayed\n* Fixed issues with large text size\n* Show dots on days with events\n* Better handling of recurring events\n* Performance improvements\n* Display an error dialog if Calendar fails to open\n* Updated translations\n",
-        "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.2.0"
-      },
-      {
-        "version": "2.1.3",
-        "release_date": "2018-12-12T01:04:37",
-        "title": "Wingpanel Date & Time Indicator 2.1.3 Released",
-        "body": "wingpanel-indicator-datetime 2.1.3 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/wingpanel-indicator-datetime/issues?q=is%3Aclosed+milestone%3A2.1.3).",
-        "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.1.3"
-      },
-      {
-        "version": "2.1.2",
-        "release_date": "2018-10-16T02:35:35",
-        "title": "Wingpanel Date & Time Indicator 2.1.2 Released",
-        "body": "wingpanel-indicator-datetime 2.1.2 is out!\r\n\r\nChanges:\r\n* Accurately select current day each open\r\n* Updated translations",
-        "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.1.2"
-      },
-      {
-        "version": "2.1.1",
-        "release_date": "2018-10-02T11:40:06",
-        "title": "Wingpanel Date & Time Indicator 2.1.1 Released",
-        "body": "wingpanel-indicator-datetime 2.1.1 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/wingpanel-indicator-datetime/issues?q=is%3Aclosed+milestone%3A2.1.1).",
-        "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.1.1"
-      },
-      {
-        "version": "2.1.0",
-        "release_date": "2018-06-19T02:18:57",
-        "title": "Wingpanel Date & Time Indicator 2.1.0 Released",
-        "body": "wingpanel-indicator-datetime 2.1.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/wingpanel-indicator-datetime/issues?q=is%3Aclosed+milestone%3A2.1.0).",
-        "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.1.0"
-      },
-      {
-        "version": "2.0.2",
-        "release_date": "2017-06-30T10:12:22",
-        "title": "Wingpanel Date & Time Indicator 2.0.2 Released",
-        "body": "wingpanel-indicator-datetime 2.0.2 is out!",
-        "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.0.2"
-      }
-    ],
-    "new_commits": 75
-  },
-  {
     "name": "wingpanel-indicator-nightlight",
     "releases": [
       {
@@ -4675,54 +4806,6 @@
     "new_commits": 26
   },
   {
-    "name": "shortcut-overlay",
-    "releases": [
-      {
-        "version": "1.2.0",
-        "release_date": "2021-07-14T18:03:45",
-        "title": "shortcut-overlay 1.2.0 Released",
-        "body": "<ul>\n<li>Add screenshot shortcuts</li>\n<li>Fix issues with multiple windows</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.2.0"
-      },
-      {
-        "version": "1.1.2",
-        "release_date": "2020-05-28T18:52:24",
-        "title": "shortcut-overlay 1.1.2 Released",
-        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.1.2"
-      },
-      {
-        "version": "1.1.1",
-        "release_date": "2020-04-03T18:43:00",
-        "title": "shortcut-overlay 1.1.1 Released",
-        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.1.1"
-      },
-      {
-        "version": "1.1.0",
-        "release_date": "2019-11-15T21:51:50",
-        "title": "shortcut-overlay 1.1.0 Released",
-        "body": "shortcut-overlay 1.1.0 is out! \n\nChanges:\n\n* Add \"Switch Layout\" and \"Close Window\", shortcuts\n* Updated translations\n",
-        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.1.0"
-      },
-      {
-        "version": "1.0.1",
-        "release_date": "2018-09-17T22:43:39",
-        "title": "Shortcut Overlay 1.0.1 Released",
-        "body": "Shortcut Overlay 1.0.1 is out!\r\n\r\nChanges:\r\n* Delay destroying window to avoid triggering a re-open\r\n* New translations",
-        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.0.1"
-      },
-      {
-        "version": "1.0",
-        "release_date": "2018-06-05T08:43:11",
-        "title": "Shortcut Overlay 1.0 Released",
-        "body": "Shortcut Overlay 1.0 is out!\r\n\r\nThis is the initial release.",
-        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.0"
-      }
-    ],
-    "new_commits": 66
-  },
-  {
     "name": "switchboard-plug-bluetooth",
     "releases": [
       {
@@ -5039,61 +5122,6 @@
       }
     ],
     "new_commits": 47
-  },
-  {
-    "name": "capnet-assist",
-    "releases": [
-      {
-        "version": "2.3.0",
-        "release_date": "2021-07-13T23:27:59",
-        "title": "capnet-assist 2.3.0 Released",
-        "body": "<ul>\n<li>Dark style support</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/capnet-assist/releases/tag/2.3.0"
-      },
-      {
-        "version": "2.2.5",
-        "release_date": "2020-04-08T20:31:34",
-        "title": "capnet-assist 2.2.5 Released",
-        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/capnet-assist/releases/tag/2.2.5"
-      },
-      {
-        "version": "2.2.4",
-        "release_date": "2019-11-20T16:40:39",
-        "title": "capnet-assist 2.2.4 Released",
-        "body": "capnet-assist 2.2.4 is out! \n\nChanges:\n\n* Updated translations\n",
-        "href": "https://github.com/elementary/capnet-assist/releases/tag/2.2.4"
-      },
-      {
-        "version": "2.2.3",
-        "release_date": "2019-02-01T15:07:29",
-        "title": "Captive Portal Assistant 2.2.3 Released",
-        "body": "Captive Portal Assistant 2.2.3 is out!\r\n\r\nChanges:\r\n* Updated translations",
-        "href": "https://github.com/elementary/capnet-assist/releases/tag/2.2.3"
-      },
-      {
-        "version": "2.2.2",
-        "release_date": "2018-10-15T23:19:38",
-        "title": "Captive Portal Assistant 2.2.2 Released",
-        "body": "Captive Portal Assistant 2.2.2 is out!\r\n\r\nThis release includes updated translations.",
-        "href": "https://github.com/elementary/capnet-assist/releases/tag/2.2.2"
-      },
-      {
-        "version": "2.2.1",
-        "release_date": "2018-10-03T11:59:05",
-        "title": "Captive Portal Assistant 2.2.1 Released",
-        "body": "Captive Portal Assistant 2.2.1 is out!\r\n\r\nThis release includes updated translations.",
-        "href": "https://github.com/elementary/capnet-assist/releases/tag/2.2.1"
-      },
-      {
-        "version": "0.2.2",
-        "release_date": "2018-06-05T09:43:41",
-        "title": "Captive Portal Assistant 0.2.2 Released",
-        "body": "Captive Portal Assistant 0.2.2 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/capnet-assist/issues?q=is%3Aclosed+milestone%3A0.2.2).",
-        "href": "https://github.com/elementary/capnet-assist/releases/tag/0.2.2"
-      }
-    ],
-    "new_commits": 67
   },
   {
     "name": "wallpapers",
