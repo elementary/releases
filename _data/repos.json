@@ -475,7 +475,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 3
+    "new_commits": 4
   },
   {
     "name": "shortcut-overlay",
@@ -774,7 +774,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 2
+    "new_commits": 3
   },
   {
     "name": "portals",
@@ -856,7 +856,7 @@
         "href": "https://github.com/elementary/mail/releases/tag/1.0.6"
       }
     ],
-    "new_commits": 7
+    "new_commits": 8
   },
   {
     "name": "camera",
@@ -925,7 +925,7 @@
         "href": "https://github.com/elementary/camera/releases/tag/1.0"
       }
     ],
-    "new_commits": 22
+    "new_commits": 23
   },
   {
     "name": "applications-menu",
