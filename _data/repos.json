@@ -204,7 +204,7 @@
         "href": "https://github.com/elementary/capnet-assist/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 1
+    "new_commits": 8
   },
   {
     "name": "wingpanel-indicator-datetime",
@@ -475,7 +475,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 4
+    "new_commits": 5
   },
   {
     "name": "shortcut-overlay",
@@ -925,7 +925,7 @@
         "href": "https://github.com/elementary/camera/releases/tag/1.0"
       }
     ],
-    "new_commits": 23
+    "new_commits": 24
   },
   {
     "name": "applications-menu",
@@ -4307,7 +4307,7 @@
         "href": "https://github.com/elementary/terminal/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 108
+    "new_commits": 110
   },
   {
     "name": "switchboard-plug-security-privacy",
