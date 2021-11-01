@@ -204,7 +204,7 @@
         "href": "https://github.com/elementary/capnet-assist/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 8
+    "new_commits": 9
   },
   {
     "name": "wingpanel-indicator-datetime",
@@ -530,7 +530,7 @@
         "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.0"
       }
     ],
-    "new_commits": 3
+    "new_commits": 4
   },
   {
     "name": "appcenter",
@@ -1874,7 +1874,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 28
+    "new_commits": 29
   },
   {
     "name": "screenshot",
@@ -2633,7 +2633,7 @@
         "href": "https://github.com/elementary/sideload/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 42
+    "new_commits": 43
   },
   {
     "name": "greeter",
@@ -2709,7 +2709,7 @@
         "href": "https://github.com/elementary/greeter/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 35
+    "new_commits": 36
   },
   {
     "name": "switchboard-plug-keyboard",
@@ -3123,7 +3123,7 @@
         "href": "https://github.com/elementary/installer/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 31
+    "new_commits": 32
   },
   {
     "name": "wingpanel-indicator-bluetooth",
@@ -3543,7 +3543,7 @@
         "href": "https://github.com/elementary/feedback/releases/tag/1.0"
       }
     ],
-    "new_commits": 68
+    "new_commits": 69
   },
   {
     "name": "switchboard-plug-wacom",
@@ -4307,7 +4307,7 @@
         "href": "https://github.com/elementary/terminal/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 110
+    "new_commits": 112
   },
   {
     "name": "switchboard-plug-security-privacy",
