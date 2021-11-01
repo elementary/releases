@@ -142,7 +142,7 @@
         "href": "https://github.com/elementary/videos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 11
+    "new_commits": 12
   },
   {
     "name": "capnet-assist",
@@ -1154,7 +1154,7 @@
         "href": "https://github.com/elementary/photos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 25
+    "new_commits": 26
   },
   {
     "name": "flatpak-platform",
