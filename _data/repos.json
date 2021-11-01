@@ -1874,7 +1874,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 27
+    "new_commits": 28
   },
   {
     "name": "screenshot",
@@ -3543,7 +3543,7 @@
         "href": "https://github.com/elementary/feedback/releases/tag/1.0"
       }
     ],
-    "new_commits": 66
+    "new_commits": 67
   },
   {
     "name": "switchboard-plug-wacom",
@@ -4307,7 +4307,7 @@
         "href": "https://github.com/elementary/terminal/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 107
+    "new_commits": 108
   },
   {
     "name": "switchboard-plug-security-privacy",
