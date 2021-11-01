@@ -2391,7 +2391,7 @@
         "href": "https://github.com/elementary/tasks/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 33
+    "new_commits": 43
   },
   {
     "name": "wingpanel",
@@ -2709,7 +2709,7 @@
         "href": "https://github.com/elementary/greeter/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 34
+    "new_commits": 35
   },
   {
     "name": "switchboard-plug-keyboard",
@@ -3658,7 +3658,7 @@
         "href": "https://github.com/elementary/notifications/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 30
+    "new_commits": 31
   },
   {
     "name": "music",
@@ -3741,7 +3741,7 @@
         "href": "https://github.com/elementary/music/releases/tag/0.4.0.3"
       }
     ],
-    "new_commits": 128
+    "new_commits": 129
   },
   {
     "name": "wingpanel-indicator-a11y",
@@ -5680,7 +5680,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 4905
+    "new_commits": 4906
   },
   {
     "name": "fonts",
