@@ -1057,7 +1057,7 @@
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
       }
     ],
-    "new_commits": 13
+    "new_commits": 14
   },
   {
     "name": "photos",
@@ -1257,7 +1257,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.0.1"
       }
     ],
-    "new_commits": 2
+    "new_commits": 3
   },
   {
     "name": "calendar",
@@ -2046,7 +2046,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 3
+    "new_commits": 4
   },
   {
     "name": "stylesheet",
@@ -2509,7 +2509,7 @@
         "href": "https://github.com/elementary/wingpanel/releases/tag/2.0.3"
       }
     ],
-    "new_commits": 0
+    "new_commits": 1
   },
   {
     "name": "switchboard-plug-applications",
@@ -2771,7 +2771,7 @@
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 15
+    "new_commits": 16
   },
   {
     "name": "switchboard-plug-mouse-touchpad",
@@ -3089,7 +3089,7 @@
         "href": "https://github.com/elementary/initial-setup/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 25
+    "new_commits": 30
   },
   {
     "name": "installer",
@@ -3123,7 +3123,7 @@
         "href": "https://github.com/elementary/installer/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 32
+    "new_commits": 35
   },
   {
     "name": "wingpanel-indicator-bluetooth",
@@ -3448,7 +3448,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-power/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 40
+    "new_commits": 41
   },
   {
     "name": "action-appcenter-review-parse",
@@ -3905,7 +3905,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-keyboard/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 45
+    "new_commits": 46
   },
   {
     "name": "switchboard-plug-pantheon-shell",
@@ -4603,7 +4603,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-nightlight/releases/tag/2.0"
       }
     ],
-    "new_commits": 44
+    "new_commits": 45
   },
   {
     "name": "wingpanel-indicator-sound",
@@ -4693,7 +4693,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.0.4"
       }
     ],
-    "new_commits": 49
+    "new_commits": 50
   },
   {
     "name": "onboarding",
@@ -4741,7 +4741,7 @@
         "href": "https://github.com/elementary/onboarding/releases/tag/1.0"
       }
     ],
-    "new_commits": 133
+    "new_commits": 136
   },
   {
     "name": "pantheon-agent-polkit",
@@ -5135,7 +5135,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-session/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 47
+    "new_commits": 48
   },
   {
     "name": "wallpapers",
