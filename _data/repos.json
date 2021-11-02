@@ -475,7 +475,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 5
+    "new_commits": 8
   },
   {
     "name": "shortcut-overlay",
@@ -530,7 +530,7 @@
         "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.0"
       }
     ],
-    "new_commits": 4
+    "new_commits": 5
   },
   {
     "name": "appcenter",
@@ -2633,7 +2633,7 @@
         "href": "https://github.com/elementary/sideload/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 49
+    "new_commits": 51
   },
   {
     "name": "greeter",
@@ -3206,7 +3206,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 32
+    "new_commits": 33
   },
   {
     "name": "switchboard-plug-power",
@@ -3658,7 +3658,7 @@
         "href": "https://github.com/elementary/notifications/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 33
+    "new_commits": 35
   },
   {
     "name": "music",
@@ -4817,7 +4817,7 @@
         "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 27
+    "new_commits": 28
   },
   {
     "name": "switchboard-plug-bluetooth",
