@@ -1154,7 +1154,7 @@
         "href": "https://github.com/elementary/photos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 26
+    "new_commits": 27
   },
   {
     "name": "flatpak-platform",
@@ -2302,7 +2302,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 52
+    "new_commits": 53
   },
   {
     "name": "switchboard-plug-onlineaccounts",
