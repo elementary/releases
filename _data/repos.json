@@ -925,7 +925,7 @@
         "href": "https://github.com/elementary/camera/releases/tag/1.0"
       }
     ],
-    "new_commits": 24
+    "new_commits": 25
   },
   {
     "name": "applications-menu",
@@ -3658,7 +3658,7 @@
         "href": "https://github.com/elementary/notifications/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 31
+    "new_commits": 33
   },
   {
     "name": "music",
@@ -4817,7 +4817,7 @@
         "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 26
+    "new_commits": 27
   },
   {
     "name": "switchboard-plug-bluetooth",
