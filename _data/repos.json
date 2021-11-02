@@ -475,7 +475,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 11
+    "new_commits": 12
   },
   {
     "name": "shortcut-overlay",
@@ -856,7 +856,7 @@
         "href": "https://github.com/elementary/mail/releases/tag/1.0.6"
       }
     ],
-    "new_commits": 9
+    "new_commits": 11
   },
   {
     "name": "camera",
