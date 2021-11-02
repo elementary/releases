@@ -1389,7 +1389,7 @@
         "href": "https://github.com/elementary/calendar/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 1
+    "new_commits": 2
   },
   {
     "name": "switchboard-plug-locale",
@@ -2391,7 +2391,7 @@
         "href": "https://github.com/elementary/tasks/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 43
+    "new_commits": 49
   },
   {
     "name": "wingpanel",
