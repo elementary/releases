@@ -475,7 +475,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 21
+    "new_commits": 22
   },
   {
     "name": "shortcut-overlay",
@@ -857,6 +857,124 @@
       }
     ],
     "new_commits": 12
+  },
+  {
+    "name": "os",
+    "releases": [
+      {
+        "version": "6.0.3",
+        "release_date": "2021-10-26T21:10:37",
+        "title": "6.0.3 Odin",
+        "body": "elementary OS 6 Updates for October, 2021.\r\n\r\n- [ ] CI\r\n- [ ] [Early Access](https://builds.elementary.io/)\r\n- [x] [Blog post](https://blog.elementary.io/elementary-os-6-odin-updates-october-2021/)\r\n- [ ] [Download](https://elementary.io) (https://github.com/elementary/website/)\r\n\r\nAs always, more info about installing (including verifying the SHA256 sum) can be found at [elementary.io/docs/installation](https://elementary.io/docs/installation). Be sure to read the [release FAQ](https://github.com/elementary/os/wiki/elementary-OS-6-Odin-FAQ).",
+        "href": "https://github.com/elementary/os/releases/tag/6.0.3"
+      },
+      {
+        "version": "6.0.2",
+        "release_date": "2021-08-31T17:30:17",
+        "title": "6.0.2 Odin",
+        "body": "elementary OS 6 Updates for September, 2021. Another roundup of new features, bug fixes, and performance improvements is here! Expect a speed boost out of Mail, improvements to online accounts, fresh creature comforts, and big improevments to AppCenter, including new content and privacy information.\r\n\r\n- [x] [CI](https://github.com/elementary/os/runs/3798923422)\r\n- [x] [Early Access](https://builds.elementary.io/)\r\n- [x] [Blog post](https://blog.elementary.io/elementary-os-6-odin-updates-september-2021/)\r\n- [x] [Download](https://elementary.io) (https://github.com/elementary/website/pull/2859)\r\n\r\nAs always, more info about installing (including verifying the SHA256 sum) can be found at [elementary.io/docs/installation](https://elementary.io/docs/installation). Be sure to read the [release FAQ](https://github.com/elementary/os/wiki/elementary-OS-6-Odin-FAQ).",
+        "href": "https://github.com/elementary/os/releases/tag/6.0.2"
+      },
+      {
+        "version": "6.0.1",
+        "release_date": "2021-08-31T17:30:17",
+        "title": "6.0.1 Odin",
+        "body": "elementary OS 6 Updates for August, 2021. Just three weeks since the release, and we already have more goodies. \r\n\r\n- [x] [CI](https://github.com/elementary/os/runs/3477448192)\r\n- [x] [Early Access](https://builds.elementary.io/)\r\n- [x] [Blog post](https://blog.elementary.io/elementary-os-6-odin-updates-august-2021/)\r\n- [x] [Download](https://elementary.io) (https://github.com/elementary/website/pull/2820)\r\n\r\nAs always, more info about installing (including verifying the SHA256 sum) can be found at [elementary.io/docs/installation](https://elementary.io/docs/installation). Be sure to read the [release FAQ](https://github.com/elementary/os/wiki/elementary-OS-6-Odin-FAQ).",
+        "href": "https://github.com/elementary/os/releases/tag/6.0.1"
+      },
+      {
+        "version": "6.0-20210823",
+        "release_date": "2021-08-21T21:23:39",
+        "title": "6.0 Odin",
+        "body": "This ISO re-spin includes the upstream Ubuntu 20.04.3 LTS fix for booting on certain EFI hardware, including many Dell models. Fixes https://github.com/elementary/triage/issues/74.\r\n\r\n- [x] [Build action](https://github.com/elementary/os/runs/3404077980)\r\n- [x] Human validated\r\n- [x] [Website updated](https://github.com/elementary/website/pull/2814)\r\n- [x] [Available for download](https://elementary.io/)\r\n\r\nThe updated ISO is available at [elementary.io](https://elementary.io). The download file is named `elementaryos-6.0-stable.20210823.iso` with a SHA256 sum of `24e7ac95526d24ebab6e725078448143ae30106d96ab51c44f475c654a3e5d56`. \r\n\r\nAs always, more info about installing (including verifying the SHA256 sum) can be found at [elementary.io/docs/installation](https://elementary.io/docs/installation). Be sure to read the [release FAQ](https://github.com/elementary/os/wiki/elementary-OS-6-Odin-FAQ).",
+        "href": "https://github.com/elementary/os/releases/tag/6.0-20210823"
+      },
+      {
+        "version": "6.0",
+        "release_date": "2021-08-10T06:54:06",
+        "title": "6.0 Odin",
+        "body": "**elementary OS 6 Odin Available Now.** It\u2019s finally here, and it\u2019s the biggest update to the platform yet. [Read the announcement](https://blog.elementary.io/elementary-os-6-odin-released/).\r\n\r\n---\r\n\r\n**If you are installing over a beta or previous RC image** you may encounter an error when using the \"Erase Disk and Install\" option. If the installer fails, you may need to manually delete the created partitions and try again:\r\n\r\n1. Select \"Try Installing Again\" then \"Cancel Installation\"\r\n2. Choose \"Custom Install (Advanced)\"\r\n3. Select \"Modify Partitions\u2026\" then use GParted to deactivate and delete existing partitions\r\n4. Select :heavy_check_mark: (Apply All Operations) to apply changes, then close GParted\r\n5. Select \"Back\" to go back to the \"Try or Install\" view\r\n6. Choose \"Erase Disk and Install\" to install again\r\n\r\nThis issue is being tracked at https://github.com/elementary/installer/issues/584\r\n\r\n---\r\n\r\nBe sure to read the [Release FAQ](https://github.com/elementary/os/wiki/elementary-OS-6-Odin-FAQ)",
+        "href": "https://github.com/elementary/os/releases/tag/6.0"
+      },
+      {
+        "version": "6.0-rc4",
+        "release_date": "2021-08-04T22:26:57",
+        "title": "6.0 Odin RC4",
+        "body": "**If you are installing over a beta or previous RC image** you may encounter an error when using the \"Erase Disk and Install\" option. If the installer fails, you may need to manually delete the created partitions and try again:\r\n\r\n1. Select \"Try Installing Again\" then \"Cancel Installation\"\r\n2. Choose \"Custom Install (Advanced)\"\r\n3. Select \"Modify Partitions\u2026\" then use GParted to deactivate and delete existing partitions\r\n4. Select :heavy_check_mark: (Apply All Operations) to apply changes, then close GParted\r\n5. Select \"Back\" to go back to the \"Try or Install\" view\r\n6. Choose \"Erase Disk and Install\" to install again\r\n\r\nThis issue is being tracked at https://github.com/elementary/installer/issues/584\r\n\r\n### Updates since RC3:\r\n\r\n- Fixed an issue installing proprietary NVIDIA drivers from AppCenter\r\n- Fixed a Tasks crash on proprietary NVIDIA drivers",
+        "href": "https://github.com/elementary/os/releases/tag/6.0-rc4"
+      },
+      {
+        "version": "6.0-rc3",
+        "release_date": "2021-08-04T22:26:57",
+        "title": "6.0 Odin RC3",
+        "body": "**If you are installing over a beta or previous RC image** you may encounter an error when using the \"Erase Disk and Install\" option. If the installer fails, you may need to manually delete the created partitions and try again:\r\n\r\n1. Select \"Try Installing Again\" then \"Cancel Installation\"\r\n2. Choose \"Custom Install (Advanced)\"\r\n3. Select \"Modify Partitions\u2026\" then use GParted to deactivate and delete existing partitions\r\n4. Select :heavy_check_mark: (Apply All Operations) to apply changes, then close GParted\r\n5. Select \"Back\" to go back to the \"Try or Install\" view\r\n6. Choose \"Erase Disk and Install\" to install again\r\n\r\nThis issue is being tracked at https://github.com/elementary/installer/issues/584\r\n\r\n### Updates since RC2:\r\n\r\n- Fix an issue installing Flatpaks in the user installation (https://github.com/elementary/default-settings/issues/247)\r\n  \r\n   >**Note:** if you've installed a previous image, you will need to run the following in any existing user accounts to manually create the necessary folders. New users are unaffected:\r\n   >\r\n   >```\r\n   >mkdir -p ~/.local/share/flatpak/repo/extensions ~/.local/share/flatpak/repo/objects ~/.local/share/flatpak/repo/refs/heads ~/.local/share/flatpak/repo/refs/mirrors ~/.local/share/flatpak/repo/refs/remotes ~/.local/share/flatpak/repo/state\r\n   >``` \r\n\r\n\r\n- Include File Roller contract to re-enable compressing and extracting in apps like Files (https://github.com/elementary/file-roller-contract/issues/3)\r\n\r\n   >**Note:** you will need to run `sudo apt install io.elementary.contractor.file-roller` to manually install it on existing RC builds.",
+        "href": "https://github.com/elementary/os/releases/tag/6.0-rc3"
+      },
+      {
+        "version": "6.0-rc2",
+        "release_date": "2021-08-04T15:57:13",
+        "title": "6.0 Odin RC2",
+        "body": "Second attempt at a release candidate ISO. \r\n\r\n- Worked around an upstream packaging change (#514) by allowing live-build to remove protected pkgs in iso bootloader stage (#517)\r\n- Updated Evince to not pull in the whole SDK",
+        "href": "https://github.com/elementary/os/releases/tag/6.0-rc2"
+      },
+      {
+        "version": "6.0-rc1",
+        "release_date": "2021-08-02T18:49:12",
+        "title": "6.0 Odin RC1",
+        "body": "First attempt at a release candidate ISO.",
+        "href": "https://github.com/elementary/os/releases/tag/6.0-rc1"
+      },
+      {
+        "version": "5.1.7",
+        "release_date": "2020-08-12T23:48:29",
+        "title": "5.1.7 Hera",
+        "body": "Point release containing the cumulative July, 2020 updates.\r\n\r\nCheck [the official blog post](https://blog.elementary.io/updates-for-july-2020/) for more information!\r\n",
+        "href": "https://github.com/elementary/os/releases/tag/5.1.7"
+      },
+      {
+        "version": "5.1.6",
+        "release_date": "2020-04-21T18:26:11",
+        "title": "5.1.6 Hera",
+        "body": "Point release containing the cumulative June, 2020 updates.\r\n\r\nCheck [the official blog post](https://blog.elementary.io/updates-for-june-2020/) for more information!\r\n",
+        "href": "https://github.com/elementary/os/releases/tag/5.1.6"
+      },
+      {
+        "version": "5.1.5",
+        "release_date": "2020-04-21T18:26:11",
+        "title": "5.1.5 Hera",
+        "body": "Point release containing the cumulative May, 2020 updates.\r\n\r\nCheck [the official blog post](https://blog.elementary.io/hera-updates-for-may-2020/) for more information!\r\n",
+        "href": "https://github.com/elementary/os/releases/tag/5.1.5"
+      },
+      {
+        "version": "5.1.4",
+        "release_date": "2020-04-21T18:26:11",
+        "title": "5.1.4 Hera",
+        "body": "Point release containing the cumulative April, 2020 updates.\r\n\r\nCheck [the official blog post](https://blog.elementary.io/hera-updates-for-april-2020/) for more information!",
+        "href": "https://github.com/elementary/os/releases/tag/5.1.4"
+      },
+      {
+        "version": "5.1.3",
+        "release_date": "2020-02-25T20:39:26",
+        "title": "5.1.3 Hera",
+        "body": "Point release containing the cumulative March, 2020 updates.\r\n\r\nCheck [the official blog post](https://blog.elementary.io/hera-updates-for-march-2020) for more information!",
+        "href": "https://github.com/elementary/os/releases/tag/5.1.3"
+      },
+      {
+        "version": "5.1.2",
+        "release_date": "2020-01-24T19:39:52",
+        "title": "5.1.2 Hera",
+        "body": "* Update to newest LTS HWE Stack\r\n* All updates listed at blog.elementary.io/hera-updates-for-january-2020\r\n\r\n",
+        "href": "https://github.com/elementary/os/releases/tag/5.1.2"
+      },
+      {
+        "version": "5.1.1",
+        "release_date": "2020-01-24T19:39:52",
+        "title": "5.1.1 Hera",
+        "body": "* Update to newest LTS HWE Stack\r\n* All updates listed at [blog.elementary.io/hera-updates-for-january-2020](https://blog.elementary.io/hera-updates-for-january-2020/)",
+        "href": "https://github.com/elementary/os/releases/tag/5.1.1"
+      }
+    ],
+    "new_commits": 0
   },
   {
     "name": "camera",
@@ -2933,117 +3051,6 @@
     "new_commits": 20
   },
   {
-    "name": "os",
-    "releases": [
-      {
-        "version": "6.0.2",
-        "release_date": "2021-08-31T17:30:17",
-        "title": "6.0.2 Odin",
-        "body": "elementary OS 6 Updates for September, 2021. Another roundup of new features, bug fixes, and performance improvements is here! Expect a speed boost out of Mail, improvements to online accounts, fresh creature comforts, and big improevments to AppCenter, including new content and privacy information.\r\n\r\n- [x] [CI](https://github.com/elementary/os/runs/3798923422)\r\n- [x] [Early Access](https://builds.elementary.io/)\r\n- [x] [Blog post](https://blog.elementary.io/elementary-os-6-odin-updates-september-2021/)\r\n- [x] [Download](https://elementary.io) (https://github.com/elementary/website/pull/2859)\r\n\r\nAs always, more info about installing (including verifying the SHA256 sum) can be found at [elementary.io/docs/installation](https://elementary.io/docs/installation). Be sure to read the [release FAQ](https://github.com/elementary/os/wiki/elementary-OS-6-Odin-FAQ).",
-        "href": "https://github.com/elementary/os/releases/tag/6.0.2"
-      },
-      {
-        "version": "6.0.1",
-        "release_date": "2021-08-31T17:30:17",
-        "title": "6.0.1 Odin",
-        "body": "elementary OS 6 Updates for August, 2021. Just three weeks since the release, and we already have more goodies. \r\n\r\n- [x] [CI](https://github.com/elementary/os/runs/3477448192)\r\n- [x] [Early Access](https://builds.elementary.io/)\r\n- [x] [Blog post](https://blog.elementary.io/elementary-os-6-odin-updates-august-2021/)\r\n- [x] [Download](https://elementary.io) (https://github.com/elementary/website/pull/2820)\r\n\r\nAs always, more info about installing (including verifying the SHA256 sum) can be found at [elementary.io/docs/installation](https://elementary.io/docs/installation). Be sure to read the [release FAQ](https://github.com/elementary/os/wiki/elementary-OS-6-Odin-FAQ).",
-        "href": "https://github.com/elementary/os/releases/tag/6.0.1"
-      },
-      {
-        "version": "6.0-20210823",
-        "release_date": "2021-08-21T21:23:39",
-        "title": "6.0 Odin",
-        "body": "This ISO re-spin includes the upstream Ubuntu 20.04.3 LTS fix for booting on certain EFI hardware, including many Dell models. Fixes https://github.com/elementary/triage/issues/74.\r\n\r\n- [x] [Build action](https://github.com/elementary/os/runs/3404077980)\r\n- [x] Human validated\r\n- [x] [Website updated](https://github.com/elementary/website/pull/2814)\r\n- [x] [Available for download](https://elementary.io/)\r\n\r\nThe updated ISO is available at [elementary.io](https://elementary.io). The download file is named `elementaryos-6.0-stable.20210823.iso` with a SHA256 sum of `24e7ac95526d24ebab6e725078448143ae30106d96ab51c44f475c654a3e5d56`. \r\n\r\nAs always, more info about installing (including verifying the SHA256 sum) can be found at [elementary.io/docs/installation](https://elementary.io/docs/installation). Be sure to read the [release FAQ](https://github.com/elementary/os/wiki/elementary-OS-6-Odin-FAQ).",
-        "href": "https://github.com/elementary/os/releases/tag/6.0-20210823"
-      },
-      {
-        "version": "6.0",
-        "release_date": "2021-08-10T06:54:06",
-        "title": "6.0 Odin",
-        "body": "**elementary OS 6 Odin Available Now.** It\u2019s finally here, and it\u2019s the biggest update to the platform yet. [Read the announcement](https://blog.elementary.io/elementary-os-6-odin-released/).\r\n\r\n---\r\n\r\n**If you are installing over a beta or previous RC image** you may encounter an error when using the \"Erase Disk and Install\" option. If the installer fails, you may need to manually delete the created partitions and try again:\r\n\r\n1. Select \"Try Installing Again\" then \"Cancel Installation\"\r\n2. Choose \"Custom Install (Advanced)\"\r\n3. Select \"Modify Partitions\u2026\" then use GParted to deactivate and delete existing partitions\r\n4. Select :heavy_check_mark: (Apply All Operations) to apply changes, then close GParted\r\n5. Select \"Back\" to go back to the \"Try or Install\" view\r\n6. Choose \"Erase Disk and Install\" to install again\r\n\r\nThis issue is being tracked at https://github.com/elementary/installer/issues/584\r\n\r\n---\r\n\r\nBe sure to read the [Release FAQ](https://github.com/elementary/os/wiki/elementary-OS-6-Odin-FAQ)",
-        "href": "https://github.com/elementary/os/releases/tag/6.0"
-      },
-      {
-        "version": "6.0-rc4",
-        "release_date": "2021-08-04T22:26:57",
-        "title": "6.0 Odin RC4",
-        "body": "**If you are installing over a beta or previous RC image** you may encounter an error when using the \"Erase Disk and Install\" option. If the installer fails, you may need to manually delete the created partitions and try again:\r\n\r\n1. Select \"Try Installing Again\" then \"Cancel Installation\"\r\n2. Choose \"Custom Install (Advanced)\"\r\n3. Select \"Modify Partitions\u2026\" then use GParted to deactivate and delete existing partitions\r\n4. Select :heavy_check_mark: (Apply All Operations) to apply changes, then close GParted\r\n5. Select \"Back\" to go back to the \"Try or Install\" view\r\n6. Choose \"Erase Disk and Install\" to install again\r\n\r\nThis issue is being tracked at https://github.com/elementary/installer/issues/584\r\n\r\n### Updates since RC3:\r\n\r\n- Fixed an issue installing proprietary NVIDIA drivers from AppCenter\r\n- Fixed a Tasks crash on proprietary NVIDIA drivers",
-        "href": "https://github.com/elementary/os/releases/tag/6.0-rc4"
-      },
-      {
-        "version": "6.0-rc3",
-        "release_date": "2021-08-04T22:26:57",
-        "title": "6.0 Odin RC3",
-        "body": "**If you are installing over a beta or previous RC image** you may encounter an error when using the \"Erase Disk and Install\" option. If the installer fails, you may need to manually delete the created partitions and try again:\r\n\r\n1. Select \"Try Installing Again\" then \"Cancel Installation\"\r\n2. Choose \"Custom Install (Advanced)\"\r\n3. Select \"Modify Partitions\u2026\" then use GParted to deactivate and delete existing partitions\r\n4. Select :heavy_check_mark: (Apply All Operations) to apply changes, then close GParted\r\n5. Select \"Back\" to go back to the \"Try or Install\" view\r\n6. Choose \"Erase Disk and Install\" to install again\r\n\r\nThis issue is being tracked at https://github.com/elementary/installer/issues/584\r\n\r\n### Updates since RC2:\r\n\r\n- Fix an issue installing Flatpaks in the user installation (https://github.com/elementary/default-settings/issues/247)\r\n  \r\n   >**Note:** if you've installed a previous image, you will need to run the following in any existing user accounts to manually create the necessary folders. New users are unaffected:\r\n   >\r\n   >```\r\n   >mkdir -p ~/.local/share/flatpak/repo/extensions ~/.local/share/flatpak/repo/objects ~/.local/share/flatpak/repo/refs/heads ~/.local/share/flatpak/repo/refs/mirrors ~/.local/share/flatpak/repo/refs/remotes ~/.local/share/flatpak/repo/state\r\n   >``` \r\n\r\n\r\n- Include File Roller contract to re-enable compressing and extracting in apps like Files (https://github.com/elementary/file-roller-contract/issues/3)\r\n\r\n   >**Note:** you will need to run `sudo apt install io.elementary.contractor.file-roller` to manually install it on existing RC builds.",
-        "href": "https://github.com/elementary/os/releases/tag/6.0-rc3"
-      },
-      {
-        "version": "6.0-rc2",
-        "release_date": "2021-08-04T15:57:13",
-        "title": "6.0 Odin RC2",
-        "body": "Second attempt at a release candidate ISO. \r\n\r\n- Worked around an upstream packaging change (#514) by allowing live-build to remove protected pkgs in iso bootloader stage (#517)\r\n- Updated Evince to not pull in the whole SDK",
-        "href": "https://github.com/elementary/os/releases/tag/6.0-rc2"
-      },
-      {
-        "version": "6.0-rc1",
-        "release_date": "2021-08-02T18:49:12",
-        "title": "6.0 Odin RC1",
-        "body": "First attempt at a release candidate ISO.",
-        "href": "https://github.com/elementary/os/releases/tag/6.0-rc1"
-      },
-      {
-        "version": "5.1.7",
-        "release_date": "2020-08-12T23:48:29",
-        "title": "5.1.7 Hera",
-        "body": "Point release containing the cumulative July, 2020 updates.\r\n\r\nCheck [the official blog post](https://blog.elementary.io/updates-for-july-2020/) for more information!\r\n",
-        "href": "https://github.com/elementary/os/releases/tag/5.1.7"
-      },
-      {
-        "version": "5.1.6",
-        "release_date": "2020-04-21T18:26:11",
-        "title": "5.1.6 Hera",
-        "body": "Point release containing the cumulative June, 2020 updates.\r\n\r\nCheck [the official blog post](https://blog.elementary.io/updates-for-june-2020/) for more information!\r\n",
-        "href": "https://github.com/elementary/os/releases/tag/5.1.6"
-      },
-      {
-        "version": "5.1.5",
-        "release_date": "2020-04-21T18:26:11",
-        "title": "5.1.5 Hera",
-        "body": "Point release containing the cumulative May, 2020 updates.\r\n\r\nCheck [the official blog post](https://blog.elementary.io/hera-updates-for-may-2020/) for more information!\r\n",
-        "href": "https://github.com/elementary/os/releases/tag/5.1.5"
-      },
-      {
-        "version": "5.1.4",
-        "release_date": "2020-04-21T18:26:11",
-        "title": "5.1.4 Hera",
-        "body": "Point release containing the cumulative April, 2020 updates.\r\n\r\nCheck [the official blog post](https://blog.elementary.io/hera-updates-for-april-2020/) for more information!",
-        "href": "https://github.com/elementary/os/releases/tag/5.1.4"
-      },
-      {
-        "version": "5.1.3",
-        "release_date": "2020-02-25T20:39:26",
-        "title": "5.1.3 Hera",
-        "body": "Point release containing the cumulative March, 2020 updates.\r\n\r\nCheck [the official blog post](https://blog.elementary.io/hera-updates-for-march-2020) for more information!",
-        "href": "https://github.com/elementary/os/releases/tag/5.1.3"
-      },
-      {
-        "version": "5.1.2",
-        "release_date": "2020-01-24T19:39:52",
-        "title": "5.1.2 Hera",
-        "body": "* Update to newest LTS HWE Stack\r\n* All updates listed at blog.elementary.io/hera-updates-for-january-2020\r\n\r\n",
-        "href": "https://github.com/elementary/os/releases/tag/5.1.2"
-      },
-      {
-        "version": "5.1.1",
-        "release_date": "2020-01-24T19:39:52",
-        "title": "5.1.1 Hera",
-        "body": "* Update to newest LTS HWE Stack\r\n* All updates listed at [blog.elementary.io/hera-updates-for-january-2020](https://blog.elementary.io/hera-updates-for-january-2020/)",
-        "href": "https://github.com/elementary/os/releases/tag/5.1.1"
-      }
-    ],
-    "new_commits": 1
-  },
-  {
     "name": "initial-setup",
     "releases": [
       {
@@ -4500,7 +4507,7 @@
         "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/0.1"
       }
     ],
-    "new_commits": 41
+    "new_commits": 45
   },
   {
     "name": "switchboard-plug-notifications",
@@ -5680,7 +5687,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 4917
+    "new_commits": 4918
   },
   {
     "name": "fonts",
