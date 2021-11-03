@@ -475,7 +475,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 20
+    "new_commits": 21
   },
   {
     "name": "shortcut-overlay",
@@ -774,7 +774,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 6
+    "new_commits": 7
   },
   {
     "name": "portals",
@@ -4500,7 +4500,7 @@
         "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/0.1"
       }
     ],
-    "new_commits": 38
+    "new_commits": 41
   },
   {
     "name": "switchboard-plug-notifications",
