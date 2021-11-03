@@ -1548,7 +1548,7 @@
         "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 4
+    "new_commits": 5
   },
   {
     "name": "switchboard-plug-display",
@@ -1645,7 +1645,7 @@
         "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 18
+    "new_commits": 19
   },
   {
     "name": "calculator",
@@ -2578,7 +2578,7 @@
         "href": "https://github.com/elementary/switchboard-plug-applications/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 5
+    "new_commits": 6
   },
   {
     "name": "sideload",
@@ -2847,7 +2847,7 @@
         "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 6
+    "new_commits": 7
   },
   {
     "name": "switchboard-plug-network",
@@ -2930,7 +2930,7 @@
         "href": "https://github.com/elementary/switchboard-plug-network/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 19
+    "new_commits": 20
   },
   {
     "name": "os",
@@ -3282,7 +3282,7 @@
         "href": "https://github.com/elementary/switchboard-plug-power/releases/tag/0.3.1"
       }
     ],
-    "new_commits": 21
+    "new_commits": 22
   },
   {
     "name": "switchboard-plug-about",
@@ -3741,7 +3741,7 @@
         "href": "https://github.com/elementary/music/releases/tag/0.4.0.3"
       }
     ],
-    "new_commits": 129
+    "new_commits": 130
   },
   {
     "name": "wingpanel-indicator-a11y",
@@ -3988,7 +3988,7 @@
         "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
       }
     ],
-    "new_commits": 65
+    "new_commits": 66
   },
   {
     "name": "switchboard-plug-datetime",
@@ -5031,7 +5031,7 @@
         "href": "https://github.com/elementary/switchboard-plug-sharing/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 18
+    "new_commits": 19
   },
   {
     "name": "wingpanel-indicator-session",
