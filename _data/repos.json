@@ -1583,7 +1583,7 @@
         "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 16
+    "new_commits": 20
   },
   {
     "name": "switchboard-plug-useraccounts",
@@ -1666,7 +1666,7 @@
         "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 5
+    "new_commits": 9
   },
   {
     "name": "switchboard-plug-display",
