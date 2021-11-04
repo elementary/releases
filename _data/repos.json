@@ -974,7 +974,7 @@
         "href": "https://github.com/elementary/os/releases/tag/5.1.1"
       }
     ],
-    "new_commits": 0
+    "new_commits": 1
   },
   {
     "name": "camera",
@@ -1583,7 +1583,7 @@
         "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 20
+    "new_commits": 21
   },
   {
     "name": "switchboard-plug-useraccounts",
@@ -1666,7 +1666,7 @@
         "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 9
+    "new_commits": 10
   },
   {
     "name": "switchboard-plug-display",
@@ -1992,7 +1992,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 30
+    "new_commits": 31
   },
   {
     "name": "screenshot",
