@@ -856,7 +856,7 @@
         "href": "https://github.com/elementary/mail/releases/tag/1.0.6"
       }
     ],
-    "new_commits": 12
+    "new_commits": 13
   },
   {
     "name": "os",
@@ -2965,7 +2965,7 @@
         "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 7
+    "new_commits": 9
   },
   {
     "name": "switchboard-plug-network",
@@ -3048,7 +3048,7 @@
         "href": "https://github.com/elementary/switchboard-plug-network/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 20
+    "new_commits": 23
   },
   {
     "name": "initial-setup",
@@ -4064,7 +4064,7 @@
         "href": "https://github.com/elementary/switchboard-plug-datetime/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 39
+    "new_commits": 40
   },
   {
     "name": "icons",
@@ -4417,7 +4417,7 @@
         "href": "https://github.com/elementary/switchboard-plug-parental-controls/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 63
+    "new_commits": 64
   },
   {
     "name": "switchboard-plug-sound",
@@ -4914,7 +4914,7 @@
         "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 43
+    "new_commits": 44
   },
   {
     "name": "switchboard",
