@@ -1666,7 +1666,7 @@
         "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 10
+    "new_commits": 11
   },
   {
     "name": "switchboard-plug-display",
@@ -1992,7 +1992,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 31
+    "new_commits": 34
   },
   {
     "name": "screenshot",
@@ -2889,7 +2889,7 @@
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 69
+    "new_commits": 70
   },
   {
     "name": "switchboard-plug-mouse-touchpad",
@@ -4507,7 +4507,7 @@
         "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/0.1"
       }
     ],
-    "new_commits": 53
+    "new_commits": 54
   },
   {
     "name": "switchboard-plug-notifications",
