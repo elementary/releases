@@ -2420,7 +2420,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 64
+    "new_commits": 66
   },
   {
     "name": "switchboard-plug-onlineaccounts",
@@ -2889,7 +2889,7 @@
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 68
+    "new_commits": 69
   },
   {
     "name": "switchboard-plug-mouse-touchpad",
@@ -4507,7 +4507,7 @@
         "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/0.1"
       }
     ],
-    "new_commits": 50
+    "new_commits": 51
   },
   {
     "name": "switchboard-plug-notifications",
