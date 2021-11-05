@@ -530,7 +530,7 @@
         "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.0"
       }
     ],
-    "new_commits": 5
+    "new_commits": 6
   },
   {
     "name": "appcenter",
@@ -1507,7 +1507,7 @@
         "href": "https://github.com/elementary/calendar/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 3
+    "new_commits": 4
   },
   {
     "name": "switchboard-plug-locale",
@@ -1860,7 +1860,7 @@
         "href": "https://github.com/elementary/calculator/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 7
+    "new_commits": 8
   },
   {
     "name": "granite",
@@ -1992,7 +1992,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 37
+    "new_commits": 38
   },
   {
     "name": "screenshot",
@@ -4314,7 +4314,7 @@
         "href": "https://github.com/elementary/terminal/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 124
+    "new_commits": 125
   },
   {
     "name": "switchboard-plug-security-privacy",
@@ -5142,7 +5142,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-session/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 51
+    "new_commits": 52
   },
   {
     "name": "wallpapers",
