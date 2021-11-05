@@ -475,7 +475,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 26
+    "new_commits": 27
   },
   {
     "name": "shortcut-overlay",
@@ -1272,7 +1272,7 @@
         "href": "https://github.com/elementary/photos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 30
+    "new_commits": 31
   },
   {
     "name": "flatpak-platform",
@@ -1992,7 +1992,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 38
+    "new_commits": 40
   },
   {
     "name": "screenshot",
@@ -2337,7 +2337,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 53
+    "new_commits": 54
   },
   {
     "name": "code",
@@ -4182,7 +4182,7 @@
         "href": "https://github.com/elementary/icons/releases/tag/4.0.1.1"
       }
     ],
-    "new_commits": 4
+    "new_commits": 5
   },
   {
     "name": "terminal",
