@@ -1666,7 +1666,7 @@
         "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 20
+    "new_commits": 21
   },
   {
     "name": "switchboard-plug-display",
@@ -2337,7 +2337,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 68
+    "new_commits": 69
   },
   {
     "name": "code",
@@ -2889,7 +2889,7 @@
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 72
+    "new_commits": 73
   },
   {
     "name": "switchboard-plug-mouse-touchpad",
