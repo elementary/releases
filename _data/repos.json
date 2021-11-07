@@ -3652,7 +3652,7 @@
         "href": "https://github.com/elementary/switchboard-plug-printers/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 32
+    "new_commits": 33
   },
   {
     "name": "notifications",
@@ -4417,7 +4417,7 @@
         "href": "https://github.com/elementary/switchboard-plug-parental-controls/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 67
+    "new_commits": 69
   },
   {
     "name": "switchboard-plug-sound",
@@ -5038,7 +5038,7 @@
         "href": "https://github.com/elementary/switchboard-plug-sharing/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 19
+    "new_commits": 20
   },
   {
     "name": "wingpanel-indicator-session",
