@@ -1043,7 +1043,7 @@
         "href": "https://github.com/elementary/camera/releases/tag/1.0"
       }
     ],
-    "new_commits": 26
+    "new_commits": 27
   },
   {
     "name": "applications-menu",
@@ -1507,7 +1507,7 @@
         "href": "https://github.com/elementary/calendar/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 4
+    "new_commits": 5
   },
   {
     "name": "switchboard-plug-locale",
@@ -1666,7 +1666,7 @@
         "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 30
+    "new_commits": 31
   },
   {
     "name": "switchboard-plug-display",
@@ -2420,7 +2420,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 82
+    "new_commits": 83
   },
   {
     "name": "switchboard-plug-onlineaccounts",
@@ -2509,7 +2509,7 @@
         "href": "https://github.com/elementary/tasks/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 63
+    "new_commits": 67
   },
   {
     "name": "wingpanel",
@@ -3995,7 +3995,7 @@
         "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
       }
     ],
-    "new_commits": 94
+    "new_commits": 95
   },
   {
     "name": "switchboard-plug-datetime",
