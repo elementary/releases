@@ -2337,7 +2337,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 83
+    "new_commits": 84
   },
   {
     "name": "code",
@@ -3995,7 +3995,7 @@
         "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
       }
     ],
-    "new_commits": 90
+    "new_commits": 93
   },
   {
     "name": "switchboard-plug-datetime",
