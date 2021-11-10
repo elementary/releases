@@ -1666,7 +1666,7 @@
         "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 33
+    "new_commits": 36
   },
   {
     "name": "switchboard-plug-display",
@@ -2889,7 +2889,7 @@
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 74
+    "new_commits": 75
   },
   {
     "name": "switchboard-plug-mouse-touchpad",
@@ -3386,7 +3386,7 @@
         "href": "https://github.com/elementary/switchboard-plug-about/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 18
+    "new_commits": 19
   },
   {
     "name": "wingpanel-indicator-power",
@@ -3995,7 +3995,7 @@
         "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
       }
     ],
-    "new_commits": 95
+    "new_commits": 97
   },
   {
     "name": "switchboard-plug-datetime",
@@ -4562,7 +4562,7 @@
         "href": "https://github.com/elementary/switchboard-plug-notifications/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 34
+    "new_commits": 35
   },
   {
     "name": "wingpanel-indicator-nightlight",
