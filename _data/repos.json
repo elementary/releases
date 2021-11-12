@@ -301,7 +301,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 10
+    "new_commits": 11
   },
   {
     "name": "files",
@@ -774,7 +774,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 24
+    "new_commits": 25
   },
   {
     "name": "portals",
@@ -2164,7 +2164,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 21
+    "new_commits": 23
   },
   {
     "name": "stylesheet",
@@ -3912,7 +3912,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-keyboard/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 50
+    "new_commits": 51
   },
   {
     "name": "switchboard-plug-pantheon-shell",
@@ -4700,7 +4700,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.0.4"
       }
     ],
-    "new_commits": 65
+    "new_commits": 66
   },
   {
     "name": "onboarding",
