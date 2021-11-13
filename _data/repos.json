@@ -3213,7 +3213,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 35
+    "new_commits": 36
   },
   {
     "name": "switchboard-plug-power",
@@ -3455,7 +3455,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-power/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 47
+    "new_commits": 48
   },
   {
     "name": "action-appcenter-review-parse",
@@ -5142,7 +5142,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-session/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 52
+    "new_commits": 53
   },
   {
     "name": "wallpapers",
