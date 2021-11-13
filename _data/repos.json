@@ -1272,7 +1272,7 @@
         "href": "https://github.com/elementary/photos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 32
+    "new_commits": 33
   },
   {
     "name": "flatpak-platform",
@@ -2337,7 +2337,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 88
+    "new_commits": 89
   },
   {
     "name": "code",
