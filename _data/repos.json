@@ -3289,7 +3289,7 @@
         "href": "https://github.com/elementary/switchboard-plug-power/releases/tag/0.3.1"
       }
     ],
-    "new_commits": 27
+    "new_commits": 28
   },
   {
     "name": "switchboard-plug-about",
@@ -3802,7 +3802,7 @@
         "href": "https://github.com/elementary/switchboard-plug-a11y/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 54
+    "new_commits": 55
   },
   {
     "name": "pantheon-agent-geoclue2",
@@ -5004,7 +5004,7 @@
         "href": "https://github.com/elementary/switchboard/releases/tag/2.3.0"
       }
     ],
-    "new_commits": 49
+    "new_commits": 51
   },
   {
     "name": "switchboard-plug-sharing",
