@@ -774,7 +774,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 48
+    "new_commits": 54
   },
   {
     "name": "portals",
@@ -3048,7 +3048,7 @@
         "href": "https://github.com/elementary/switchboard-plug-network/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 23
+    "new_commits": 24
   },
   {
     "name": "initial-setup",
@@ -3995,7 +3995,7 @@
         "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
       }
     ],
-    "new_commits": 101
+    "new_commits": 106
   },
   {
     "name": "switchboard-plug-datetime",
