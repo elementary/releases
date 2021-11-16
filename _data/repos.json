@@ -774,7 +774,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 38
+    "new_commits": 39
   },
   {
     "name": "portals",
@@ -2164,7 +2164,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 24
+    "new_commits": 25
   },
   {
     "name": "stylesheet",
@@ -5687,7 +5687,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 4957
+    "new_commits": 4961
   },
   {
     "name": "fonts",
