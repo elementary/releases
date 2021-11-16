@@ -2164,7 +2164,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 25
+    "new_commits": 26
   },
   {
     "name": "stylesheet",
@@ -5687,7 +5687,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 4961
+    "new_commits": 4968
   },
   {
     "name": "fonts",
