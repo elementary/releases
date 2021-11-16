@@ -142,7 +142,7 @@
         "href": "https://github.com/elementary/videos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 19
+    "new_commits": 20
   },
   {
     "name": "capnet-assist",
@@ -2420,7 +2420,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 85
+    "new_commits": 87
   },
   {
     "name": "switchboard-plug-onlineaccounts",
@@ -5687,7 +5687,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 4956
+    "new_commits": 4957
   },
   {
     "name": "fonts",
