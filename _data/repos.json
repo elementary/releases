@@ -787,7 +787,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 64
+    "new_commits": 75
   },
   {
     "name": "portals",
@@ -5700,7 +5700,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 4971
+    "new_commits": 4994
   },
   {
     "name": "fonts",
