@@ -1,5 +1,102 @@
 [
   {
+    "name": "wingpanel-indicator-sound",
+    "releases": [
+      {
+        "version": "6.0.1",
+        "release_date": "2021-11-18T18:36:27",
+        "title": "Sound Indicator 6.0.1 Released",
+        "body": "## What's Changed\r\n* appdata: fix HTML syntax (li tag outside ul tag) by @decathorpe in https://github.com/elementary/wingpanel-indicator-sound/pull/212\r\n* Allow Horizontal scroll by @andirsun in https://github.com/elementary/wingpanel-indicator-sound/pull/214\r\n* l10n: Correctly setup the locales by @bobby285271 in https://github.com/elementary/wingpanel-indicator-sound/pull/216\r\n* MediaPlayer: Give type field valid name by @davidmhewitt in https://github.com/elementary/wingpanel-indicator-sound/pull/221\r\n* Remove analog outputs-inputs by @andirsun in https://github.com/elementary/wingpanel-indicator-sound/pull/215\r\n* DeviceItem: get icons from Pulse by @danrabbit in https://github.com/elementary/wingpanel-indicator-sound/pull/226\r\n\r\n## New Contributors\r\n* @andirsun made their first contribution in https://github.com/elementary/wingpanel-indicator-sound/pull/214\r\n* @bobby285271 made their first contribution in https://github.com/elementary/wingpanel-indicator-sound/pull/216\r\n\r\n**Full Changelog**: https://github.com/elementary/wingpanel-indicator-sound/compare/6.0.0...6.0.1",
+        "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/6.0.1"
+      },
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-14T20:02:50",
+        "title": "wingpanel-indicator-sound 6.0.0 Released",
+        "body": "<p>New features</p>\n<li>select specific input and output devices</li>\n<p>Minor updates</p>\n<ul>\n<li>Hide temporary audio players when they stop</li>\n<li>Add a tooltip on hover</li>\n<li>Minor visual improvements</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/6.0.0"
+      },
+      {
+        "version": "2.1.8",
+        "release_date": "2021-01-05T22:06:52",
+        "title": "wingpanel-indicator-sound 2.1.8 Released",
+        "body": "<p>Minor updates</p>\n<ul>\n<li>Fix duplicate default player</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.1.8"
+      },
+      {
+        "version": "2.1.7",
+        "release_date": "2020-10-08T18:18:59",
+        "title": "wingpanel-indicator-sound 2.1.7 Released",
+        "body": "<p>Minor updates</p>\n<ul>\n<li>Fix opacity flash during icon animation</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.1.7"
+      },
+      {
+        "version": "2.1.6",
+        "release_date": "2020-08-07T18:08:45",
+        "title": "wingpanel-indicator-sound 2.1.6 Released",
+        "body": "<p>Update default music player when changed</p>\n<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.1.6"
+      },
+      {
+        "version": "2.1.5",
+        "release_date": "2020-04-03T18:40:26",
+        "title": "wingpanel-indicator-sound 2.1.5 Released",
+        "body": "<p>Correctly show \"Unknown Artist\" when artist info isn't available</p>\n<p>Performance improvements</p>\n<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.1.5"
+      },
+      {
+        "version": "2.1.4",
+        "release_date": "2019-11-25T16:55:25",
+        "title": "wingpanel-indicator-sound 2.1.4 Released",
+        "body": "wingpanel-indicator-sound 2.1.4 is out! \n\nChanges:\n\n* Updated translations\n",
+        "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.1.4"
+      },
+      {
+        "version": "2.1.3",
+        "release_date": "2019-03-07T07:07:56",
+        "title": "Wingpanel Sound Indicator 2.1.3 Released",
+        "body": "wingpanel-indicator-sound 2.1.3 is out!\r\n\r\nChanges:\r\n* Fix touchpad smooth and horizontal scrolling\r\n* Middle click to mute microphone\r\n* Scroll over microphone icon to adjust mic volume\r\n* Smarter MPRIS art update\r\n* Fix music player fallback icon logic\r\n* Animate mute icon\r\n* Updated translations",
+        "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.1.3"
+      },
+      {
+        "version": "2.1.2",
+        "release_date": "2018-12-19T12:00:05",
+        "title": "Wingpanel Sound Indicator 2.1.2 Released",
+        "body": "wingpanel-indicator-sound 2.1.2 is out!\r\n\r\nChanges:\r\n* Don't close an nonexistent notifications\r\n* Updated translations",
+        "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.1.2"
+      },
+      {
+        "version": "2.1.1",
+        "release_date": "2018-10-01T11:41:07",
+        "title": "Wingpanel Sound Indicator 2.1.1 Released",
+        "body": "wingpanel-indicator-sound 2.1.1 is out!\r\n\r\nChanges:\r\n* Remove 'by' before artist text\r\n* Code clean up\r\n* Updated translations",
+        "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.1.1"
+      },
+      {
+        "version": "2.1.0",
+        "release_date": "2018-06-19T00:35:49",
+        "title": "Wingpanel Sound Indicator 2.1.0 Released",
+        "body": "wingpanel-indicator-sound 2.1.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/wingpanel-indicator-sound/issues?q=is%3Aclosed+milestone%3A2.1.0).",
+        "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.1.0"
+      },
+      {
+        "version": "2.0.5",
+        "release_date": "2017-05-03T02:10:51",
+        "title": "Wingpanel Sound Indicator 2.0.5 Released",
+        "body": "wingpanel-indicator-sound 2.0.5 is out!",
+        "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.0.5"
+      },
+      {
+        "version": "2.0.4",
+        "release_date": "2017-04-21T18:42:18",
+        "title": "Wingpanel Sound Indicator 2.0.4 Released",
+        "body": "wingpanel-indicator-sound 2.0.4 is out!",
+        "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.0.4"
+      }
+    ],
+    "new_commits": 0
+  },
+  {
     "name": "action-appcenter-review-checklist",
     "releases": [
       {
@@ -987,7 +1084,7 @@
         "href": "https://github.com/elementary/os/releases/tag/5.1.1"
       }
     ],
-    "new_commits": 1
+    "new_commits": 2
   },
   {
     "name": "camera",
@@ -2902,7 +2999,7 @@
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 77
+    "new_commits": 81
   },
   {
     "name": "switchboard-plug-mouse-touchpad",
@@ -4008,7 +4105,7 @@
         "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
       }
     ],
-    "new_commits": 106
+    "new_commits": 110
   },
   {
     "name": "switchboard-plug-datetime",
@@ -4389,7 +4486,7 @@
         "href": "https://github.com/elementary/switchboard-plug-security-privacy/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 55
+    "new_commits": 59
   },
   {
     "name": "switchboard-plug-parental-controls",
@@ -4520,7 +4617,7 @@
         "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/0.1"
       }
     ],
-    "new_commits": 60
+    "new_commits": 64
   },
   {
     "name": "switchboard-plug-notifications",
@@ -4626,96 +4723,6 @@
     "new_commits": 49
   },
   {
-    "name": "wingpanel-indicator-sound",
-    "releases": [
-      {
-        "version": "6.0.0",
-        "release_date": "2021-07-14T20:02:50",
-        "title": "wingpanel-indicator-sound 6.0.0 Released",
-        "body": "<p>New features</p>\n<li>select specific input and output devices</li>\n<p>Minor updates</p>\n<ul>\n<li>Hide temporary audio players when they stop</li>\n<li>Add a tooltip on hover</li>\n<li>Minor visual improvements</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/6.0.0"
-      },
-      {
-        "version": "2.1.8",
-        "release_date": "2021-01-05T22:06:52",
-        "title": "wingpanel-indicator-sound 2.1.8 Released",
-        "body": "<p>Minor updates</p>\n<ul>\n<li>Fix duplicate default player</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.1.8"
-      },
-      {
-        "version": "2.1.7",
-        "release_date": "2020-10-08T18:18:59",
-        "title": "wingpanel-indicator-sound 2.1.7 Released",
-        "body": "<p>Minor updates</p>\n<ul>\n<li>Fix opacity flash during icon animation</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.1.7"
-      },
-      {
-        "version": "2.1.6",
-        "release_date": "2020-08-07T18:08:45",
-        "title": "wingpanel-indicator-sound 2.1.6 Released",
-        "body": "<p>Update default music player when changed</p>\n<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.1.6"
-      },
-      {
-        "version": "2.1.5",
-        "release_date": "2020-04-03T18:40:26",
-        "title": "wingpanel-indicator-sound 2.1.5 Released",
-        "body": "<p>Correctly show \"Unknown Artist\" when artist info isn't available</p>\n<p>Performance improvements</p>\n<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.1.5"
-      },
-      {
-        "version": "2.1.4",
-        "release_date": "2019-11-25T16:55:25",
-        "title": "wingpanel-indicator-sound 2.1.4 Released",
-        "body": "wingpanel-indicator-sound 2.1.4 is out! \n\nChanges:\n\n* Updated translations\n",
-        "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.1.4"
-      },
-      {
-        "version": "2.1.3",
-        "release_date": "2019-03-07T07:07:56",
-        "title": "Wingpanel Sound Indicator 2.1.3 Released",
-        "body": "wingpanel-indicator-sound 2.1.3 is out!\r\n\r\nChanges:\r\n* Fix touchpad smooth and horizontal scrolling\r\n* Middle click to mute microphone\r\n* Scroll over microphone icon to adjust mic volume\r\n* Smarter MPRIS art update\r\n* Fix music player fallback icon logic\r\n* Animate mute icon\r\n* Updated translations",
-        "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.1.3"
-      },
-      {
-        "version": "2.1.2",
-        "release_date": "2018-12-19T12:00:05",
-        "title": "Wingpanel Sound Indicator 2.1.2 Released",
-        "body": "wingpanel-indicator-sound 2.1.2 is out!\r\n\r\nChanges:\r\n* Don't close an nonexistent notifications\r\n* Updated translations",
-        "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.1.2"
-      },
-      {
-        "version": "2.1.1",
-        "release_date": "2018-10-01T11:41:07",
-        "title": "Wingpanel Sound Indicator 2.1.1 Released",
-        "body": "wingpanel-indicator-sound 2.1.1 is out!\r\n\r\nChanges:\r\n* Remove 'by' before artist text\r\n* Code clean up\r\n* Updated translations",
-        "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.1.1"
-      },
-      {
-        "version": "2.1.0",
-        "release_date": "2018-06-19T00:35:49",
-        "title": "Wingpanel Sound Indicator 2.1.0 Released",
-        "body": "wingpanel-indicator-sound 2.1.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/wingpanel-indicator-sound/issues?q=is%3Aclosed+milestone%3A2.1.0).",
-        "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.1.0"
-      },
-      {
-        "version": "2.0.5",
-        "release_date": "2017-05-03T02:10:51",
-        "title": "Wingpanel Sound Indicator 2.0.5 Released",
-        "body": "wingpanel-indicator-sound 2.0.5 is out!",
-        "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.0.5"
-      },
-      {
-        "version": "2.0.4",
-        "release_date": "2017-04-21T18:42:18",
-        "title": "Wingpanel Sound Indicator 2.0.4 Released",
-        "body": "wingpanel-indicator-sound 2.0.4 is out!",
-        "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.0.4"
-      }
-    ],
-    "new_commits": 67
-  },
-  {
     "name": "onboarding",
     "releases": [
       {
@@ -4761,7 +4768,7 @@
         "href": "https://github.com/elementary/onboarding/releases/tag/1.0"
       }
     ],
-    "new_commits": 156
+    "new_commits": 160
   },
   {
     "name": "pantheon-agent-polkit",
