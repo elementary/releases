@@ -1,5 +1,88 @@
 [
   {
+    "name": "switchboard-plug-locale",
+    "releases": [
+      {
+        "version": "2.5.6",
+        "release_date": "2021-11-18T20:13:42",
+        "title": "Locale Settings 2.5.6 Released",
+        "body": "## What's Changed\r\n* Select correct format after install/remove by @davidmhewitt in https://github.com/elementary/switchboard-plug-locale/pull/148\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/switchboard-plug-locale/compare/2.5.5...2.5.6",
+        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.5.6"
+      },
+      {
+        "version": "2.5.5",
+        "release_date": "2021-10-26T17:51:10",
+        "title": "Locale Settings 2.5.5 Released",
+        "body": "<p>Fixes:</p>\r\n<ul>\r\n<li>Support locales with 3-letter codes</li>\r\n</ul>\r\n<p>Minor updates:</p>\r\n<ul>\r\n<li>Better support for non-Ubuntu based distributions</li>\r\n<li>Updated translations</li>\r\n</ul>",
+        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.5.5"
+      },
+      {
+        "version": "2.5.4",
+        "release_date": "2021-07-14T20:49:44",
+        "title": "switchboard-plug-locale 2.5.4 Released",
+        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.5.4"
+      },
+      {
+        "version": "2.5.3",
+        "release_date": "2021-01-05T21:59:55",
+        "title": "switchboard-plug-locale 2.5.3 Released",
+        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.5.3"
+      },
+      {
+        "version": "2.5.2",
+        "release_date": "2020-05-28T23:42:54",
+        "title": "switchboard-plug-locale 2.5.2 Released",
+        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.5.2"
+      },
+      {
+        "version": "2.5.1",
+        "release_date": "2020-04-01T22:48:03",
+        "title": "switchboard-plug-locale 2.5.1 Released",
+        "body": "switchboard-plug-locale 2.5.1 is out! \n\n<ul>\n<li>Fix an issue with cancelling language installation</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.5.1"
+      },
+      {
+        "version": "2.5.0",
+        "release_date": "2019-11-15T23:09:58",
+        "title": "switchboard-plug-locale 2.5.0 Released",
+        "body": "switchboard-plug-locale 2.5.0 is out! \n\nChanges:\n\n* Redesigned Install Language popover\n* Asks for permission when needed. No more extra InfoBar\n* Installtion progress InfoBar is now a Dialog\n* Language list properly updates when adding or removing languages\n* Updated translations\n",
+        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.5.0"
+      },
+      {
+        "version": "2.4.1",
+        "release_date": "2018-12-19T06:28:04",
+        "title": "Switchboard Locale Plug 2.4.1 Released",
+        "body": "switchboard-plug-locale 2.4.1 is out!\r\n\r\nChanges:\r\n* Better search keywords\r\n* Don't restrict locale length\r\n* Updated translations",
+        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.4.1"
+      },
+      {
+        "version": "2.4.0",
+        "release_date": "2018-10-15T21:26:12",
+        "title": "Switchboard Locale Plug 2.4.0 Released",
+        "body": "switchboard-plug-locale 2.4.0 is out!\r\n\r\nThis list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-locale/issues?q=is%3Aclosed+milestone%3A2.4.0).",
+        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.4.0"
+      },
+      {
+        "version": "0.2.3",
+        "release_date": "2017-05-22T20:19:26",
+        "title": "Switchboard Locale Plug 0.2.3 Released",
+        "body": "switchboard-plug-locale 0.2.3 is out!",
+        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/0.2.3"
+      },
+      {
+        "version": "0.2.2",
+        "release_date": "2017-05-12T08:27:01",
+        "title": "Switchboard Locale Plug 0.2.2 Released",
+        "body": "switchboard-plug-locale 0.2.2 is out!",
+        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/0.2.2"
+      }
+    ],
+    "new_commits": 1
+  },
+  {
     "name": "wingpanel-indicator-sound",
     "releases": [
       {
@@ -1153,7 +1236,7 @@
         "href": "https://github.com/elementary/camera/releases/tag/1.0"
       }
     ],
-    "new_commits": 35
+    "new_commits": 36
   },
   {
     "name": "applications-menu",
@@ -1618,82 +1701,6 @@
       }
     ],
     "new_commits": 7
-  },
-  {
-    "name": "switchboard-plug-locale",
-    "releases": [
-      {
-        "version": "2.5.5",
-        "release_date": "2021-10-26T17:51:10",
-        "title": "Locale Settings 2.5.5 Released",
-        "body": "<p>Fixes:</p>\r\n<ul>\r\n<li>Support locales with 3-letter codes</li>\r\n</ul>\r\n<p>Minor updates:</p>\r\n<ul>\r\n<li>Better support for non-Ubuntu based distributions</li>\r\n<li>Updated translations</li>\r\n</ul>",
-        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.5.5"
-      },
-      {
-        "version": "2.5.4",
-        "release_date": "2021-07-14T20:49:44",
-        "title": "switchboard-plug-locale 2.5.4 Released",
-        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.5.4"
-      },
-      {
-        "version": "2.5.3",
-        "release_date": "2021-01-05T21:59:55",
-        "title": "switchboard-plug-locale 2.5.3 Released",
-        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.5.3"
-      },
-      {
-        "version": "2.5.2",
-        "release_date": "2020-05-28T23:42:54",
-        "title": "switchboard-plug-locale 2.5.2 Released",
-        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.5.2"
-      },
-      {
-        "version": "2.5.1",
-        "release_date": "2020-04-01T22:48:03",
-        "title": "switchboard-plug-locale 2.5.1 Released",
-        "body": "switchboard-plug-locale 2.5.1 is out! \n\n<ul>\n<li>Fix an issue with cancelling language installation</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.5.1"
-      },
-      {
-        "version": "2.5.0",
-        "release_date": "2019-11-15T23:09:58",
-        "title": "switchboard-plug-locale 2.5.0 Released",
-        "body": "switchboard-plug-locale 2.5.0 is out! \n\nChanges:\n\n* Redesigned Install Language popover\n* Asks for permission when needed. No more extra InfoBar\n* Installtion progress InfoBar is now a Dialog\n* Language list properly updates when adding or removing languages\n* Updated translations\n",
-        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.5.0"
-      },
-      {
-        "version": "2.4.1",
-        "release_date": "2018-12-19T06:28:04",
-        "title": "Switchboard Locale Plug 2.4.1 Released",
-        "body": "switchboard-plug-locale 2.4.1 is out!\r\n\r\nChanges:\r\n* Better search keywords\r\n* Don't restrict locale length\r\n* Updated translations",
-        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.4.1"
-      },
-      {
-        "version": "2.4.0",
-        "release_date": "2018-10-15T21:26:12",
-        "title": "Switchboard Locale Plug 2.4.0 Released",
-        "body": "switchboard-plug-locale 2.4.0 is out!\r\n\r\nThis list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-locale/issues?q=is%3Aclosed+milestone%3A2.4.0).",
-        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.4.0"
-      },
-      {
-        "version": "0.2.3",
-        "release_date": "2017-05-22T20:19:26",
-        "title": "Switchboard Locale Plug 0.2.3 Released",
-        "body": "switchboard-plug-locale 0.2.3 is out!",
-        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/0.2.3"
-      },
-      {
-        "version": "0.2.2",
-        "release_date": "2017-05-12T08:27:01",
-        "title": "Switchboard Locale Plug 0.2.2 Released",
-        "body": "switchboard-plug-locale 0.2.2 is out!",
-        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/0.2.2"
-      }
-    ],
-    "new_commits": 34
   },
   {
     "name": "switchboard-plug-useraccounts",
