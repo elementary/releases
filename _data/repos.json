@@ -3006,7 +3006,7 @@
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 87
+    "new_commits": 88
   },
   {
     "name": "switchboard-plug-mouse-touchpad",
@@ -3165,7 +3165,7 @@
         "href": "https://github.com/elementary/switchboard-plug-network/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 30
+    "new_commits": 32
   },
   {
     "name": "initial-setup",
@@ -4112,7 +4112,7 @@
         "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
       }
     ],
-    "new_commits": 114
+    "new_commits": 115
   },
   {
     "name": "switchboard-plug-datetime",
@@ -4493,7 +4493,7 @@
         "href": "https://github.com/elementary/switchboard-plug-security-privacy/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 65
+    "new_commits": 66
   },
   {
     "name": "switchboard-plug-parental-controls",
@@ -4624,7 +4624,7 @@
         "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/0.1"
       }
     ],
-    "new_commits": 69
+    "new_commits": 70
   },
   {
     "name": "switchboard-plug-notifications",
@@ -4775,7 +4775,7 @@
         "href": "https://github.com/elementary/onboarding/releases/tag/1.0"
       }
     ],
-    "new_commits": 160
+    "new_commits": 164
   },
   {
     "name": "pantheon-agent-polkit",
