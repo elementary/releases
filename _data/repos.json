@@ -1236,7 +1236,7 @@
         "href": "https://github.com/elementary/camera/releases/tag/1.0"
       }
     ],
-    "new_commits": 36
+    "new_commits": 39
   },
   {
     "name": "applications-menu",
@@ -1368,7 +1368,7 @@
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
       }
     ],
-    "new_commits": 24
+    "new_commits": 25
   },
   {
     "name": "photos",
@@ -3006,7 +3006,7 @@
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 85
+    "new_commits": 86
   },
   {
     "name": "switchboard-plug-mouse-touchpad",
@@ -3165,7 +3165,7 @@
         "href": "https://github.com/elementary/switchboard-plug-network/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 26
+    "new_commits": 29
   },
   {
     "name": "initial-setup",
@@ -3406,7 +3406,7 @@
         "href": "https://github.com/elementary/switchboard-plug-power/releases/tag/0.3.1"
       }
     ],
-    "new_commits": 31
+    "new_commits": 32
   },
   {
     "name": "switchboard-plug-about",
@@ -4493,7 +4493,7 @@
         "href": "https://github.com/elementary/switchboard-plug-security-privacy/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 62
+    "new_commits": 64
   },
   {
     "name": "switchboard-plug-parental-controls",
@@ -4624,7 +4624,7 @@
         "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/0.1"
       }
     ],
-    "new_commits": 67
+    "new_commits": 68
   },
   {
     "name": "switchboard-plug-notifications",
