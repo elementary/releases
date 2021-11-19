@@ -1368,7 +1368,7 @@
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
       }
     ],
-    "new_commits": 23
+    "new_commits": 24
   },
   {
     "name": "photos",
@@ -3165,7 +3165,7 @@
         "href": "https://github.com/elementary/switchboard-plug-network/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 24
+    "new_commits": 26
   },
   {
     "name": "initial-setup",
