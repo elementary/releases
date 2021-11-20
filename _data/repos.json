@@ -1236,7 +1236,7 @@
         "href": "https://github.com/elementary/camera/releases/tag/1.0"
       }
     ],
-    "new_commits": 41
+    "new_commits": 42
   },
   {
     "name": "applications-menu",
@@ -4775,7 +4775,7 @@
         "href": "https://github.com/elementary/onboarding/releases/tag/1.0"
       }
     ],
-    "new_commits": 171
+    "new_commits": 173
   },
   {
     "name": "pantheon-agent-polkit",
