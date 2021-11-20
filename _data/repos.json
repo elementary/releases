@@ -967,7 +967,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 81
+    "new_commits": 82
   },
   {
     "name": "portals",
@@ -3165,7 +3165,7 @@
         "href": "https://github.com/elementary/switchboard-plug-network/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 32
+    "new_commits": 35
   },
   {
     "name": "initial-setup",
@@ -4493,7 +4493,7 @@
         "href": "https://github.com/elementary/switchboard-plug-security-privacy/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 66
+    "new_commits": 67
   },
   {
     "name": "switchboard-plug-parental-controls",
@@ -4679,7 +4679,7 @@
         "href": "https://github.com/elementary/switchboard-plug-notifications/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 35
+    "new_commits": 36
   },
   {
     "name": "wingpanel-indicator-nightlight",
