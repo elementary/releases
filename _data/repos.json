@@ -3006,7 +3006,7 @@
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 89
+    "new_commits": 90
   },
   {
     "name": "switchboard-plug-mouse-touchpad",
@@ -3165,7 +3165,7 @@
         "href": "https://github.com/elementary/switchboard-plug-network/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 36
+    "new_commits": 37
   },
   {
     "name": "initial-setup",
@@ -4112,7 +4112,7 @@
         "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
       }
     ],
-    "new_commits": 116
+    "new_commits": 117
   },
   {
     "name": "switchboard-plug-datetime",
@@ -4493,7 +4493,7 @@
         "href": "https://github.com/elementary/switchboard-plug-security-privacy/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 67
+    "new_commits": 68
   },
   {
     "name": "switchboard-plug-parental-controls",
@@ -4624,7 +4624,7 @@
         "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/0.1"
       }
     ],
-    "new_commits": 71
+    "new_commits": 72
   },
   {
     "name": "switchboard-plug-notifications",
