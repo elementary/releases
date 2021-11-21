@@ -1368,7 +1368,7 @@
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
       }
     ],
-    "new_commits": 28
+    "new_commits": 29
   },
   {
     "name": "photos",
@@ -1568,7 +1568,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.0.1"
       }
     ],
-    "new_commits": 12
+    "new_commits": 13
   },
   {
     "name": "calendar",
@@ -2281,7 +2281,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 27
+    "new_commits": 28
   },
   {
     "name": "stylesheet",
@@ -3572,7 +3572,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-power/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 48
+    "new_commits": 49
   },
   {
     "name": "action-appcenter-review-parse",
@@ -4029,7 +4029,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-keyboard/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 52
+    "new_commits": 53
   },
   {
     "name": "switchboard-plug-pantheon-shell",
@@ -4727,7 +4727,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-nightlight/releases/tag/2.0"
       }
     ],
-    "new_commits": 49
+    "new_commits": 50
   },
   {
     "name": "onboarding",
