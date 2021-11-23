@@ -1,5 +1,942 @@
 [
   {
+    "name": "icons",
+    "releases": [
+      {
+        "version": "6.1.0",
+        "release_date": "2021-11-23T21:43:34",
+        "title": "icons 6.1.0 Released",
+        "body": "<p>Additions:</p>\n<ul>\n<li>preferences-desktop-font*</li>\n</ul>\n<p>Updated families:</p>\n<ul>\n<li>Additional sizes for playlist-queue</li>\n<li>Redesign PDF file type</li>\n<li>Additional sizes for emblem-downloads</li>\n<li>Remove arrows from Copy and Paste actions</li>\n</ul>\n<p>Removals:</p>\n<ul>\n<li>multimedia-video-player</li>\n</ul>\n",
+        "href": "https://github.com/elementary/icons/releases/tag/6.1.0"
+      },
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-15T22:11:47",
+        "title": "icons 6.0.0 Released",
+        "body": "<p>Updated families:</p>\n<ul>\n<li>Improved consistency between arrow shapes</li>\n<li>Improved appearance of color icons against dark backgrounds</li>\n<li>More gender-nuetral people icons</li>\n<li>Rounded media controls</li>\n<li>Rounded lightening bolt shape</li>\n<li>More colorful battery icons</li>\n</ul>\n<p>Additions:</p>\n<ul>\n<li>align-*</li>\n<li>color-picker</li>\n<li>distribute-*</li>\n<li>draw-calligraphic</li>\n<li>office-database-new</li>\n<li>tools-spray</li>\n<li>application-content-*</li>\n<li>thunderbolt devices</li>\n<li>video-display-tv</li>\n<li>symbolic headphones</li>\n<li>application-certificate</li>\n<li>application-json</li>\n<li>office-task-symbolic</li>\n<li>status emblems</li>\n<li>emblem-git-*</li>\n</ul>\n<p>Removals:</p>\n<ul>\n<li>accessories-camera</li>\n<li>accessories-screenshot</li>\n<li>audio-speaker-testing</li>\n<li>edit-undo-archive</li>\n<li>internet-mail</li>\n<li>internet-news-reader</li>\n<li>multimedia-audio-player</li>\n<li>notification bell animations</li>\n<li>nm-*</li>\n<li>ubiquity</li>\n</ul>\n",
+        "href": "https://github.com/elementary/icons/releases/tag/6.0.0"
+      },
+      {
+        "version": "5.3.1",
+        "release_date": "2020-05-06T18:10:20",
+        "title": "icons 5.3.1 Released",
+        "body": "<p>Minor updates</p>\n<ul>\n<li>Update emoji names for emoji picker in elementary OS 6 and latest GTK</li>\n<li>Replace Inkscape with rsvg for building cursors</li>\n</ul>\n",
+        "href": "https://github.com/elementary/icons/releases/tag/5.3.1"
+      },
+      {
+        "version": "5.3.0",
+        "release_date": "2020-05-01T05:35:02",
+        "title": "icons 5.3.0 Released",
+        "body": "<p>New Palette Colors:</p>\n<ul>\n<li>Add Bubblegum and Mint to official palette</li>\n<li>Updated all eraser icons to use Bubblegum palette</li>\n<li>Updated \"path\" icons to use Mint palette</li>\n<li>Updated all pencil icons to use Banana palette</li>\n</ul>\n<p>New Icons:</p>\n<ul>\n<li>Add \"software-update-urgent\"</li>\n<li>Add \"sync-synchronizing\"</li>\n</ul>\n<p>Scaled Icon Sizes:</p>\n<ul>\n<li>Add 24px \"window-close-symbolic\"</li>\n<li>Add 48px preferences icons</li>\n</ul>\n",
+        "href": "https://github.com/elementary/icons/releases/tag/5.3.0"
+      },
+      {
+        "version": "5.2.0",
+        "release_date": "2020-01-08T21:23:48",
+        "title": "icons 5.2.0 Released",
+        "body": "icons 5.2.0 is out! \n\n<ul>\n<li>Provide large cursors</li>\n<li>Fix alignment of several cursors</li>\n<li>Use palette colors in copy cursors</li>\n<li>Fix direction of the ban symbol cursor and use red</li>\n<li>Add \"All Scroll\", \"No Drop\", \"Vertical Text\", and \"Zoom\" cursors</li>\n</ul>\n",
+        "href": "https://github.com/elementary/icons/releases/tag/5.2.0"
+      },
+      {
+        "version": "5.1.0",
+        "release_date": "2019-10-31T22:54:07",
+        "title": "icons 5.1.0 Released",
+        "body": "icons 5.1.0 is out! \n\nChanges:\n\n* Add 64px prefs locale\n* Make symbol on 32px places home larger\n* New icons for Workspace preferences\n* Add symbolic variant for updates icon\n* Give browser-download its own unique icon\n* Use a more scalable metaphor for system updates\n* New view-reader icon\n* Add 32px wireless signal icons\n* Add 24px user status icons\n",
+        "href": "https://github.com/elementary/icons/releases/tag/5.1.0"
+      },
+      {
+        "version": "5.0.4",
+        "release_date": "2019-07-12T14:19:54",
+        "title": "elementary Icons 5.0.4",
+        "body": "elementary-icon-theme 5.0.4 is out!\r\n\r\nChanges:\r\n* Redesigned wired networking icons\r\n* Simplified `image-missing`\r\n* Re-shaped `system-software-update`\r\n* Scaled `process-completed` to 64px\r\n* Scaled `find-location` to 64px\r\n* Added new icons:\r\n  * `preferences-system-privacy-housekeeping`\r\n  * `media-memory-symbolic`\r\n  * `mail-forwarded-symbolic`\r\n  * `application-x-firmware-symbolic`\r\n  * `computer-laptop-symbolic`\r\n  * `location-active-symbolic`\r\n  * `location-inactive-symbolic`\r\n  * `location-disabled-symbolic`\r\n  * 64px `night-light`\r\n  * 48px `image-crop`\r\n  * 48px `mail-send`",
+        "href": "https://github.com/elementary/icons/releases/tag/5.0.4"
+      },
+      {
+        "version": "5.0.3",
+        "release_date": "2019-02-11T21:38:22",
+        "title": "elementary Icons 5.0.3 Released",
+        "body": "elementary-icon-theme 5.0.3 is out!\r\n\r\nChanges:\r\n\r\n* Redesigned weather icons\r\n* New and redesigned `mail-mark-*`\r\n* Refined align actions\r\n* Adjust contrast of `selection-*-symbolic`\r\n* Added new icons:\r\n  * `drive-harddisk-solidstate`\r\n  * `input-keyboard-numlock-symbolic`\r\n  * 16px `night-light-*`\r\n  * Added and redesigned `path-*`\r\n  * 32px `input-touchpad`\r\n  * `microphone-sensitivity-muted-*` animation\r\n  * `application-x-generic`\r\n  * Added and redesigned `object-group`",
+        "href": "https://github.com/elementary/icons/releases/tag/5.0.3"
+      },
+      {
+        "version": "5.0.2",
+        "release_date": "2018-12-29T03:33:12",
+        "title": "elementary Icons 5.0.2 Released",
+        "body": "elementary-icon-theme 5.0.2 is out!\r\n\r\nChanges:\r\n* New palette colors for `edit-flag`\r\n* Add `user-desktop-open` as symlink to `folder-open`",
+        "href": "https://github.com/elementary/icons/releases/tag/5.0.2"
+      },
+      {
+        "version": "5.0.1",
+        "release_date": "2018-12-06T16:53:16",
+        "title": "elementary Icons 5.0.1 Released",
+        "body": "elementary-icon-theme 5.0.1 is out!\r\n\r\nChanges:\r\n* `phone` icons redesigned\r\n* Appointment icon family are more consistent\r\n* Disabled icons are more consistent\r\n* Symbolic apps/multimedia match color and scale\r\n* Added new icons:\r\n  * `playlist-symbolic`\r\n  * `playlist-queue-symbolic`\r\n  * `internet-chat-symbolic`\r\n  * `input-keyboard-capslock-symbolic`\r\n  * `mail-send-symbolic-rtl`\r\n  * `preferences-system-notifications-rtl`\r\n  * `preferences-system-notifications-rtl`\r\n  * `audio-headphones` and `audio-headset`\r\n  * `computer-convertible`",
+        "href": "https://github.com/elementary/icons/releases/tag/5.0.1"
+      },
+      {
+        "version": "5.0",
+        "release_date": "2018-10-16T05:18:18",
+        "title": "elementary Icons 5.0 Released",
+        "body": "elementary-icon-theme 5.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/icons/issues?q=is%3Aclosed+milestone%3A5.0).",
+        "href": "https://github.com/elementary/icons/releases/tag/5.0"
+      },
+      {
+        "version": "4.3.1",
+        "release_date": "2017-10-23T17:52:41",
+        "title": "elementary Icons 4.3.1 Released",
+        "body": "elementary-icon-theme 4.3.1 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/icons/issues?q=is%3Aclosed+milestone%3A4.3.1).",
+        "href": "https://github.com/elementary/icons/releases/tag/4.3.1"
+      },
+      {
+        "version": "4.3.0",
+        "release_date": "2017-09-26T16:36:28",
+        "title": "elementary Icons 4.3.0 Released",
+        "body": "elementary-icon-theme 4.3.0 is out!\r\n\r\nThe list of issues closed for this release can be found [here](https://github.com/elementary/icons/issues?q=is%3Aclosed+milestone%3A4.3.0).",
+        "href": "https://github.com/elementary/icons/releases/tag/4.3.0"
+      },
+      {
+        "version": "4.2.0",
+        "release_date": "2017-07-19T16:50:09",
+        "title": "elementary Icons 4.2.0 Released",
+        "body": "elementary-icon-theme 4.2.0 is out!\r\n\r\nThe list of issues closed for this release can be found [here](https://github.com/elementary/icons/milestone/3?closed=1).",
+        "href": "https://github.com/elementary/icons/releases/tag/4.2.0"
+      },
+      {
+        "version": "4.1.0",
+        "release_date": "2017-05-15T03:27:34",
+        "title": "elementary Icons 4.1.0 Released",
+        "body": "elementary-icon-theme 4.1.0 is out!",
+        "href": "https://github.com/elementary/icons/releases/tag/4.1.0"
+      },
+      {
+        "version": "4.0.3",
+        "release_date": "2017-03-18T17:07:48",
+        "title": "",
+        "body": "",
+        "href": "https://github.com/elementary/icons/releases/tag/4.0.3"
+      },
+      {
+        "version": "4.0.1.1",
+        "release_date": "2016-10-25T19:46:00",
+        "title": "",
+        "body": "",
+        "href": "https://github.com/elementary/icons/releases/tag/4.0.1.1"
+      }
+    ],
+    "new_commits": 0
+  },
+  {
+    "name": "stylesheet",
+    "releases": [
+      {
+        "version": "6.1.1",
+        "release_date": "2021-11-23T21:39:57",
+        "title": "stylesheet 6.1.1 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Improve contrast of horizontal separators in dark style</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Use the accent color for highlighting in IBus candidate window</li>\n<li>Fix font style for title labels in headerbars</li>\n</ul>\n",
+        "href": "https://github.com/elementary/stylesheet/releases/tag/6.1.1"
+      },
+      {
+        "version": "6.1.0",
+        "release_date": "2021-10-22T18:37:25",
+        "title": "Stylesheet 6.1.0 Released",
+        "body": "  <ul>\r\n    <li>Support for Hdy.Tabbar</li>\r\n    <li>Fix accent class for Gtk.Scale</li>\r\n    <li>Flat titlebars inherit background color for views and sidebars</li>\r\n  </ul>",
+        "href": "https://github.com/elementary/stylesheet/releases/tag/6.1.0"
+      },
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-15T22:08:57",
+        "title": "stylesheet 6.0.0 Released",
+        "body": "\n",
+        "href": "https://github.com/elementary/stylesheet/releases/tag/6.0.0"
+      },
+      {
+        "version": "5.4.2",
+        "release_date": "2020-02-29T20:13:32",
+        "title": "stylesheet 5.4.2 Released",
+        "body": "stylesheet 5.4.2 is out! \n\n\n",
+        "href": "https://github.com/elementary/stylesheet/releases/tag/5.4.2"
+      },
+      {
+        "version": "5.4.1",
+        "release_date": "2020-01-21T18:43:35",
+        "title": "stylesheet 5.4.1 Released",
+        "body": "stylesheet 5.4.1 is out! \n\n\n",
+        "href": "https://github.com/elementary/stylesheet/releases/tag/5.4.1"
+      },
+      {
+        "version": "5.4.0",
+        "release_date": "2019-12-23T21:07:44",
+        "title": "stylesheet 5.4.0 Released",
+        "body": "stylesheet 5.4.0 is out! \n\n<p>New features:</p>\n<ul>\n<li>New `.small-label` class for consistent sizing without using Pango</li>\n</ul>\n<p>Other changes:</p>\n<ul>\n<li>Drop obsolete panel styles</li>\n<li>Fix spacing of labels inside of modelbuttons</li>\n<li>Allow symbolic icons in inline toolbars in sidebars</li>\n</ul>\n",
+        "href": "https://github.com/elementary/stylesheet/releases/tag/5.4.0"
+      },
+      {
+        "version": "5.3.0",
+        "release_date": "2019-11-01T20:06:42",
+        "title": "stylesheet 5.3.0 Released",
+        "body": "stylesheet 5.3.0 is out! \n\nChanges:\n\n* Fix unreadable keycaps text\n* More consistent popover shadows\n* Fix color for insensitive flat buttons in list rows\n* Remove duplicated and obsolete styles\n* Always set dock badge to red, regardless of accent color\n* Support wide separators\n* Improved scrollbars in WebKit web views\n* Improve window shadows for legacy-decorated apps\n* New (hidden) dark style for the dock\n",
+        "href": "https://github.com/elementary/stylesheet/releases/tag/5.3.0"
+      },
+      {
+        "version": "5.2.5",
+        "release_date": "2019-08-03T18:32:37",
+        "title": "elementary Gtk+ Stylesheet 5.2.5 Released",
+        "body": "elementary-theme 5.2.5 is out!\r\n\r\nChanges:\r\n* Various dark theme fixes\r\n* Add undershoot to popovers\r\n* Style keycaps in menus\r\n* Entry and SpinButton progress is now more subtle\r\n* Support Epiphany `floating-bar`",
+        "href": "https://github.com/elementary/stylesheet/releases/tag/5.2.5"
+      },
+      {
+        "version": "5.2.4",
+        "release_date": "2019-06-19T12:26:30",
+        "title": "elementary Gtk+ Stylesheet 5.2.4 Released",
+        "body": "elementary-theme 5.2.4 is out!\r\n\r\nChanges:\r\n* Increase Radio/Checkbutton contrast when using dark style\r\n* Fix popover submenu arrow styles\r\n* Disable transitions on check items\r\n* Fix inline notebook being 1px smaller when only one tab is open\r\n* Fix the color of insensitive buttons\r\n* Fix arrow direction in notebook header",
+        "href": "https://github.com/elementary/stylesheet/releases/tag/5.2.4"
+      },
+      {
+        "version": "5.2.3",
+        "release_date": "2019-04-18T09:04:41",
+        "title": "elementary Gtk+ Stylesheet 5.2.3 Released",
+        "body": "elementary-theme 5.2.3 is out!\r\n\r\nChanges:\r\n* Style destructive-action buttons in action bars\r\n* Use em font sizing in dialog label.primary\r\n* Added  support for progressbar.osd, as seen in GNOME Builder",
+        "href": "https://github.com/elementary/stylesheet/releases/tag/5.2.3"
+      },
+      {
+        "version": "5.2.2",
+        "release_date": "2019-02-28T00:29:54",
+        "title": "elementary Gtk+ Stylesheet 5.2.2 Released",
+        "body": "elementary-theme 5.2.2 is out!\r\n\r\nChanges:\r\n* More visible focus for dark entries\r\n* Update .seek-bar scale slider style\r\n* Shade switches with white overlay\r\n* Fix linked widgets in right-to-left\r\n* Don't set border or shadow on dark infobar close buttons\r\n* Naive raised support for headerbar buttons\r\n* Fix border for sidebar-row in dark style\r\n* Invert sidebar badge colors",
+        "href": "https://github.com/elementary/stylesheet/releases/tag/5.2.2"
+      },
+      {
+        "version": "5.2.1",
+        "release_date": "2018-12-18T09:19:47",
+        "title": "elementary Gtk+ Stylesheet 5.2.1 Released",
+        "body": "elementary-theme 5.2.1 is out!\r\n\r\nChanges:\r\n* Add styles for link psuedo classes\r\n* Fix notebook background\r\n* Add accent support to scales\r\n* Always use light switch sliders",
+        "href": "https://github.com/elementary/stylesheet/releases/tag/5.2.1"
+      },
+      {
+        "version": "5.2.0",
+        "release_date": "2018-10-16T05:25:46",
+        "title": "elementary Gtk+ Stylesheet 5.2.0 Released",
+        "body": "elementary-theme 5.2.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/stylesheet/issues?q=is%3Aclosed+milestone%3A5.2.0).",
+        "href": "https://github.com/elementary/stylesheet/releases/tag/5.2.0"
+      },
+      {
+        "version": "5.1.1",
+        "release_date": "2017-09-25T14:03:55",
+        "title": "elementary Gtk+ Stylesheet 5.1.1 Released",
+        "body": "New version of elementary-theme is out!\r\n\r\nThe issues closed by this release can be found [here](https://github.com/elementary/stylesheet/issues?q=is%3Aclosed+milestone%3A5.1.1).",
+        "href": "https://github.com/elementary/stylesheet/releases/tag/5.1.1"
+      },
+      {
+        "version": "5.1.0",
+        "release_date": "2017-08-10T19:30:52",
+        "title": "elementary Gtk+ Stylesheet 5.1.0 Released",
+        "body": "New version of elementary-theme is out!\r\n\r\nThe issues closed by this release can be found [here](https://github.com/elementary/stylesheet/milestone/3?closed=1).",
+        "href": "https://github.com/elementary/stylesheet/releases/tag/5.1.0"
+      },
+      {
+        "version": "5.0.4",
+        "release_date": "2017-04-03T19:52:39",
+        "title": "elementary Gtk+ Stylesheet 5.0.4 Released",
+        "body": "New version of elementary-theme is out!",
+        "href": "https://github.com/elementary/stylesheet/releases/tag/5.0.4"
+      }
+    ],
+    "new_commits": 0
+  },
+  {
+    "name": "granite",
+    "releases": [
+      {
+        "version": "6.2.0",
+        "release_date": "2021-11-23T21:36:35",
+        "title": "granite 6.2.0 Released",
+        "body": "<p>New Features:</p>\n<ul>\n<li>min_length property for Granite.ValidatedEntry</li>\n<li>Granite.HyperTextView for navigatable URLs in text views</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Prevent crashing on environments without dark style preference support</li>\n</ul>\n",
+        "href": "https://github.com/elementary/granite/releases/tag/6.2.0"
+      },
+      {
+        "version": "6.1.2",
+        "release_date": "2021-10-25T18:46:08",
+        "title": "Granite 6.1.2",
+        "body": "<p>Fixes:</p>\r\n<ul>\r\n<li>Use values from the Settings Portal when possible</li>\r\n<li>Disable horizontal scrolling by default in SettingsPage</li>\r\n<li>Updated translations</li>\r\n</ul>",
+        "href": "https://github.com/elementary/granite/releases/tag/6.1.2"
+      },
+      {
+        "version": "6.1.1",
+        "release_date": "2021-08-25T22:06:34",
+        "title": "granite 6.1.1 Released",
+        "body": "<p>Fixes:</p>\n<ul>\n<li>Ensure accel_to_string works with multiple modifiers</li>\n<li>Fix locale issues in Flatpaks</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/granite/releases/tag/6.1.1"
+      },
+      {
+        "version": "6.1.0",
+        "release_date": "2021-07-13T22:02:51",
+        "title": "granite 6.1.0 Released",
+        "body": "<p>Additions:</p>\n<ul>\n<li>TRANSITION_DURATION_IN_PLACE for consistent in-place widget transformations</li>\n</ul>\n<p>Other Changes:</p>\n<ul>\n<li>accel_to_string handles accel markup without modifiers or that are only modifiers</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/granite/releases/tag/6.1.0"
+      },
+      {
+        "version": "6.0.0",
+        "release_date": "2021-03-22T23:22:21",
+        "title": "granite 6.0.0 Released",
+        "body": "<p>Additions:</p>\n<ul>\n<li>Granite.Dialog replaces Gtk.Dialog for consistent styling</li>\n<li>Granite.SwitchModelButton for use in Gtk.Popover menus</li>\n<li>Granite.ValidatedEntry for client-side verification in forms</li>\n</ul>\n<p>New Constants:</p>\n<ul>\n<li>TOOLTIP_SECONDARY_TEXT_MARKUP for smaller second line text in Gtk.Tooltips</li>\n<li>SMALL_LABEL for smaller Gtk.Labels without Pango</li>\n<li>STYLE_CLASS_WARMTH and STYLE_CLASS_TEMPERATURE for scales</li>\n<li>STYLE_CLASS_DEFAULT_DECORATION for slim headerbars</li>\n<li>TRANSITION_DURATION_OPEN and TRANSITION_DURATION_CLOSE for consistent animations</li>\n</ul>\n<p>Removals:</p>\n<ul>\n<li>Granite.Widgets.AboutDialog. Provide AppStream metadata instead.</li>\n<li>Granite.Widgets.AppMenu. Use Gtk.MenuButton instead.</li>\n</ul>\n<p>Deprecations:</p>\n<ul>\n<li>Granite.Widgets.Avatar. Use Hdy.Avatar instead</li>\n</ul>\n<p>Other Changes:</p>\n<ul>\n<li>Toasts now reset their timeout when sending a new notification and the timeout is stopped while hovering</li>\n<li>Backlash, Right Control, and Left Control are now handled by accel_to_string</li>\n<li>Make tab tooltips of DynamicNotebook settable</li>\n<li>Timepicker corrrectly fires time_changed when AM and PM buttons are selected</li>\n<li>Granite.MessageDialog now uses the messagedialog CSS name</li>\n<li>Visible child name is now properly synced in Granite.SettingsSidebar</li>\n<li>Status can be set in Granite.AbstractSettingsPage on construct</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/granite/releases/tag/6.0.0"
+      },
+      {
+        "version": "5.5.0",
+        "release_date": "2020-07-01T16:27:01",
+        "title": "granite 5.5.0 Released",
+        "body": "<p>New Style Constants:</p>\n<ul>\n<li>STYLE_CLASS_COLOR_BUTTON</li>\n<li>STYLE_CLASS_ROUNDED</li>\n</ul>\n<p>Deprecations:</p>\n<ul>\n<li>Several theming utilities. Use Gtk.CssProvider and Gtk.StyleContext instead</li>\n<li>Granite.Services.SimpleCommand. Use GLib.AppInfo.create_from_commandline instead</li>\n<li>Old unused utilities like get_button_layout_schema, get_default_close_button_position, and Granite.Services.Paths</li>\n<li>Old unused widgets like CollapsiblePaned and CompositedWindow</li>\n</ul>\n<p>Other Changes:</p>\n<ul>\n<li>Granite.SourceList now gets Gtk.STYLE_CLASS_SIDEBAR by default</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/granite/releases/tag/5.5.0"
+      },
+      {
+        "version": "5.4.0",
+        "release_date": "2020-04-29T22:16:12",
+        "title": "granite 5.4.0 Released",
+        "body": "<p>New features:</p>\n<ul>\n<li>New Settings class to share Pantheon desktop settings with apps</li>\n<li>Introduced Settings.prefers_color_scheme to get a user's color scheme preference, i.e. for a dark style</li>\n</ul>\n<p>Deprecations:</p>\n<ul>\n<li>It is now recommended to use GLib.Settings instead of Granite.Services.Settings</li>\n</ul>\n",
+        "href": "https://github.com/elementary/granite/releases/tag/5.4.0"
+      },
+      {
+        "version": "5.3.1",
+        "release_date": "2020-04-02T00:21:23",
+        "title": "granite 5.3.1 Released",
+        "body": "granite 5.3.1 is out! \n\n<p>Improvements:</p>\n<ul>\n<li>Better align labels in settings sidebars</li>\n<li>Make AccelLabel.label settable</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/granite/releases/tag/5.3.1"
+      },
+      {
+        "version": "5.3.0",
+        "release_date": "2019-12-13T19:42:03",
+        "title": "granite 5.3.0 Released",
+        "body": "granite 5.3.0 is out! \r\n\r\n<p>New features:</p>\r\n<ul>\r\n<li>Add tooltips to source list items and their actions</li>\r\n<li>New AccelLabel widget for use in menus and popovers</li>\r\n</ul>\r\n<p>Improvements:</p>\r\n<ul>\r\n<li>Delay tab resizing when closing tabs</li>\r\n<li>Updated translations</li>\r\n</ul>\r\n",
+        "href": "https://github.com/elementary/granite/releases/tag/5.3.0"
+      },
+      {
+        "version": "5.2.5",
+        "release_date": "2019-09-05T23:49:51",
+        "title": "Granite 5.2.5 Released",
+        "body": "Granite 5.2.5 is out!\r\n\r\nChanges:\r\n* meson: fix shared library path\r\n* Utils: Add equal keys to accel_to_string\r\n* Provide Badge and Progress support for an Application using same DBus API as libunity\r\n* DynamicNotebook: support `Close Tabs to the Right`\r\n* DynamicNotebook: don\u2019t re-open closed tabs while rapidly closing tabs\r\n* Updated translations",
+        "href": "https://github.com/elementary/granite/releases/tag/5.2.5"
+      },
+      {
+        "version": "5.2.4",
+        "release_date": "2019-07-06T19:40:55",
+        "title": "Granite 5.2.4 Released",
+        "body": "Granite 5.2.4 is out!\r\n\r\nChanges:\r\n* Deprecate IconFactory\r\n* System: deprecate utilies provided by GLib\r\n* Utils: Add more keys to `accel-to-string` (Left and Right Alt, Left and Right Shift)\r\n* MessageDialog: Add the ability to set icon badges\r\n* Revert from custom Wingpanel DateTime settings schema (`io.elementary.desktop.wingpanel.datetime`) to GNOME (`org.gnome.desktop.interface`)\r\n* SimpleSettingsPage: make title and description selectable\r\n* Updated translations",
+        "href": "https://github.com/elementary/granite/releases/tag/5.2.4"
+      },
+      {
+        "version": "5.2.3",
+        "release_date": "2019-02-14T21:36:29",
+        "title": "Granite 5.2.3 Released",
+        "body": "Granite 5.2.3 is out!\r\n\r\nChanges:\r\n* Switch from CMake to Meson build system\r\n* DateTime: Strip leading spaces from time formats\r\n* Support Gdk.Key.Return for Enter markup\r\n* MessageDialog: Add show_error_expander method\r\n* Add function `history_is_enabled`\r\n* Fix typos in documentation\r\n* TimePicker: Use more compact boolean comparison syntax\r\n* Updated translations",
+        "href": "https://github.com/elementary/granite/releases/tag/5.2.3"
+      },
+      {
+        "version": "5.2.2",
+        "release_date": "2018-12-17T13:02:11",
+        "title": "Granite 5.2.2 Released",
+        "body": "Granite 5.2.2 is out!\r\n\r\nChanges:\r\n* Utils: Ignore empty accel strings\r\n* Updated translations",
+        "href": "https://github.com/elementary/granite/releases/tag/5.2.2"
+      },
+      {
+        "version": "5.2.1",
+        "release_date": "2018-11-07T19:18:54",
+        "title": "Granite 5.2.1 Released",
+        "body": "Granite 5.2.1 is out!\r\n\r\nChanges:\r\n* Utils: Make accels optional\r\n* Updated translations",
+        "href": "https://github.com/elementary/granite/releases/tag/5.2.1"
+      },
+      {
+        "version": "5.2.0",
+        "release_date": "2018-11-01T20:50:16",
+        "title": "Granite 5.2.0 Released",
+        "body": "Granite 5.2.0 is out!\r\n\r\nChanges:\r\n* Added `Granite.STYLE_CLASS_CHECKERBOARD`\r\n* Added Accel utilities:\r\n  * `accel_to_string`, takes something like \"<Super>Right\" and returns \"\u2318 + \u2192\"\r\n  * `markup_accel_tooltip`, takes a description and an accel string array and returns the markup for tooltips\r\n* DateTime: use `io.elementary.desktop.wingpanel.datetime` for settings instead of `org.gnome.desktop.interface`\r\n* Updated translations",
+        "href": "https://github.com/elementary/granite/releases/tag/5.2.0"
+      },
+      {
+        "version": "5.1.0",
+        "release_date": "2018-08-23T23:54:44",
+        "title": "Granite 5.1.0 Released",
+        "body": "Granite 5.1.0 is out!\r\n\r\nChanges:\r\n* Add Granite.ModeSwitch\r\n* Deprecate Granite.Application\r\n* SourceList: Don't propagate right click\r\n* DateTime: Add commas in date format\r\n* Improved translations",
+        "href": "https://github.com/elementary/granite/releases/tag/5.1.0"
+      },
+      {
+        "version": "5.0",
+        "release_date": "2018-06-05T07:59:34",
+        "title": "Granite 5.0 Released",
+        "body": "Granite 5.0 is out!\r\n\r\nThis list of issues closed by this release can be found [here](https://github.com/elementary/granite/issues?q=is%3Aclosed+milestone%3A5.0).",
+        "href": "https://github.com/elementary/granite/releases/tag/5.0"
+      },
+      {
+        "version": "0.5",
+        "release_date": "2017-11-02T03:08:51",
+        "title": "Granite 0.5 Released",
+        "body": "Granite 0.5 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/granite/issues?q=is%3Aclosed+milestone%3A0.5).",
+        "href": "https://github.com/elementary/granite/releases/tag/0.5"
+      },
+      {
+        "version": "0.4.1",
+        "release_date": "2017-05-07T02:08:52",
+        "title": "Granite 0.4.1 Released",
+        "body": "Granite 0.4.1 is out!\r\n\r\nA detailed change log is available [here](https://github.com/elementary/granite/milestone/1?closed=1)",
+        "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
+      }
+    ],
+    "new_commits": 0
+  },
+  {
+    "name": "switchboard-plug-pantheon-shell",
+    "releases": [
+      {
+        "version": "6.1.0",
+        "release_date": "2021-11-23T21:26:47",
+        "title": "switchboard-plug-pantheon-shell 6.1.0 Released",
+        "body": "<p>New features:</p>\n<ul>\n<li>Move Text settings to their own page</li>\n<li>More granular settings for text scale</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/6.1.0"
+      },
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-15T22:29:46",
+        "title": "switchboard-plug-pantheon-shell 6.0.0 Released",
+        "body": "<p>New features:</p>\n<ul>\n<li>Accent color and dark style options</li>\n<li>Dyslexia-friendly text preference to use the OpenDyslexia font system-wide</li>\n<li>Maximize and fullscreen workspace management options</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Fix a freeze after opening Power settings</li>\n<li>Improved filter for image file types when importing</li>\n<li>Visual updates</li>\n<li>Some options now appear in different tabs</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/6.0.0"
+      },
+      {
+        "version": "2.8.4",
+        "release_date": "2020-04-22T21:37:28",
+        "title": "switchboard-plug-pantheon-shell 2.8.4 Released",
+        "body": "<p>Illustrate Dock icon sizes</p>\n<p>Fix system wallpapers being copied</p>\n<p>Update search results</p>\n<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/2.8.4"
+      },
+      {
+        "version": "2.8.3",
+        "release_date": "2020-04-08T20:19:29",
+        "title": "switchboard-plug-pantheon-shell 2.8.3 Released",
+        "body": "<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/2.8.3"
+      },
+      {
+        "version": "2.8.2",
+        "release_date": "2019-11-15T22:18:40",
+        "title": "switchboard-plug-pantheon-shell 2.8.2 Released",
+        "body": "switchboard-plug-pantheon-shell 2.8.2 is out! \n\nChanges:\n\n* Fix issues with setting wallpapers on the Login and Lock screen\n* Updated translations\n",
+        "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/2.8.2"
+      },
+      {
+        "version": "2.8.1",
+        "release_date": "2019-03-27T11:34:07",
+        "title": "Switchboard Desktop Plug 2.8.1 Released",
+        "body": "switchboard-plug-pantheon-shell 2.8.1 is out!\r\n\r\nChanges:\r\n* Updated translations",
+        "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/2.8.1"
+      },
+      {
+        "version": "2.8.0",
+        "release_date": "2018-12-21T11:29:38",
+        "title": "Switchboard Desktop Plug 2.8.0 Released",
+        "body": "switchboard-plug-pantheon-shell 2.8.0 is out!\r\n\r\nChanges:\r\n* Appearance tab\r\n* Ignore all wallpaper symlinks\r\n* Updated translations",
+        "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/2.8.0"
+      },
+      {
+        "version": "2.7.2",
+        "release_date": "2018-11-28T13:34:36",
+        "title": "Switchboard Desktop Plug 2.7.2 Released",
+        "body": "switchboard-plug-pantheon-shell 2.7.2 is out!\r\n\r\nChanges:\r\n* Scan sub-directories for wallpapers\r\n* Updated translations",
+        "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/2.7.2"
+      },
+      {
+        "version": "2.7.1",
+        "release_date": "2018-10-16T00:20:01",
+        "title": "Switchboard Desktop Plug 2.7.1 Released",
+        "body": "switchboard-plug-pantheon-shell 2.7.1 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-pantheon-shell/issues?q=is%3Aclosed+milestone%3A2.7.1).",
+        "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/2.7.1"
+      },
+      {
+        "version": "0.2.7",
+        "release_date": "2018-06-08T16:48:34",
+        "title": "Switchboard Desktop Plug 0.2.7 Released",
+        "body": "switchboard-plug-pantheon-shell 0.2.7 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-pantheon-shell/issues?q=is%3Aclosed+milestone%3A0.2.7).",
+        "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/0.2.7"
+      },
+      {
+        "version": "0.2.6",
+        "release_date": "2017-06-14T23:02:26",
+        "title": "Switchboard Desktop Plug 0.2.6 Released",
+        "body": "switchboard-plug-pantheon-shell 0.2.6 is out!",
+        "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/0.2.6"
+      },
+      {
+        "version": "switchboard-plug-pantheon-shell-0.2.5",
+        "release_date": "2017-04-15T05:25:53",
+        "title": "Switchboard Desktop Plug 0.2.5 Released",
+        "body": "switchboard-plug-pantheon-shell 0.2.5 is out!",
+        "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
+      }
+    ],
+    "new_commits": 0
+  },
+  {
+    "name": "onboarding",
+    "releases": [
+      {
+        "version": "6.1.0",
+        "release_date": "2021-11-23T21:23:04",
+        "title": "onboarding 6.1.0 Released",
+        "body": "<ul>\n<li>Redesign Housekeeping and add Downloads option</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/onboarding/releases/tag/6.1.0"
+      },
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-14T19:19:34",
+        "title": "onboarding 6.0.0 Released",
+        "body": "<ul>\n<li>Add style view</li>\n<li>Add Online Accounts view</li>\n<li>Remove location services view</li>\n<li>Mention Sideload and Flathub</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/onboarding/releases/tag/6.0.0"
+      },
+      {
+        "version": "1.2.1",
+        "release_date": "2020-05-28T18:55:07",
+        "title": "onboarding 1.2.1 Released",
+        "body": "<ul>\n<li>Fix blurry icon in AppCenter</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/onboarding/releases/tag/1.2.1"
+      },
+      {
+        "version": "1.2.0",
+        "release_date": "2020-04-01T23:56:45",
+        "title": "onboarding 1.2.0 Released",
+        "body": "onboarding 1.2.0 is out! \n\n<ul>\n<li>New app icon</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/onboarding/releases/tag/1.2.0"
+      },
+      {
+        "version": "1.1.0",
+        "release_date": "2019-11-15T20:55:45",
+        "title": "onboarding 1.1.0 Released",
+        "body": "onboarding 1.1.0 is out! \n\nChanges:\n\n* Navigate with (multi-)touch gestures\n* Use new blog URL\n* Fix errors when pressing the Skip button\n* Updated translations\n",
+        "href": "https://github.com/elementary/onboarding/releases/tag/1.1.0"
+      },
+      {
+        "version": "1.0.1",
+        "release_date": "2019-08-24T04:40:22",
+        "title": "Onboarding 1.0.1 Released",
+        "body": "Onboarding 1.0.1 is out!\r\n\r\nChanges:\r\n* Avoid crash if missing `io.elementary.desktop.agent-geoclue2` schema\r\n* Updated translations",
+        "href": "https://github.com/elementary/onboarding/releases/tag/1.0.1"
+      },
+      {
+        "version": "1.0",
+        "release_date": "2019-07-10T15:07:37",
+        "title": "Onboarding 1.0 Released",
+        "body": "Onboarding 1.0 is out!\r\n\r\nThis is the initial release.",
+        "href": "https://github.com/elementary/onboarding/releases/tag/1.0"
+      }
+    ],
+    "new_commits": 0
+  },
+  {
+    "name": "appcenter",
+    "releases": [
+      {
+        "version": "3.9.0",
+        "release_date": "2021-11-23T21:22:44",
+        "title": "appcenter 3.9.0 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Amusements appear in the Games category</li>\n<li>Categories show as a grid instead of a list</li>\n<li>Allow window to shrink to much narrower sizes</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.9.0"
+      },
+      {
+        "version": "3.8.2",
+        "release_date": "2021-10-29T17:35:37",
+        "title": "AppCenter 3.8.2 Released!",
+        "body": "## What's Changed\r\n* FlatpakBackend: Handle transaction success state correctly by @davidmhewitt in https://github.com/elementary/appcenter/pull/1730\r\n* FlatpakBackend: Sort stable apps in XML first by @davidmhewitt in https://github.com/elementary/appcenter/pull/1731\r\n* FlatpakBackend: Improve XML parsing efficiency by @davidmhewitt in https://github.com/elementary/appcenter/pull/1733\r\n\r\n**Full Changelog**: https://github.com/elementary/appcenter/compare/3.8.1...3.8.2",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.8.2"
+      },
+      {
+        "version": "3.8.1",
+        "release_date": "2021-10-26T17:02:14",
+        "title": "AppCenter 3.8.1 Released",
+        "body": "<p>Fixes:</p>\r\n<ul>\r\n<li>Don't store $0 app installs as paid</li>\r\n<li>Fix missing illicit substances icon</li>\r\n<li>Don't show plugins on the homepage</li>\r\n<li>Only show \"Multiplayer\" badge for games</li>\r\n</ul>\r\n<p>Improvements:</p>\r\n<ul>\r\n<li>Show installation progress in a more compact way</li>\r\n<li>Updated translations</li>\r\n</ul>",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.8.1"
+      },
+      {
+        "version": "3.8.0",
+        "release_date": "2021-09-21T21:48:38",
+        "title": "AppCenter 3.8.0 Released",
+        "body": "New features:\r\n - Show content warnings on app info pages\r\n\r\nFixes:\r\n- Show other apps by an author for Flatpak sources\r\n- Populate banner on home locally instead of relying on an external API\r\n\r\nImprovements:\r\n- Greatly increased number of recently-updated apps shown on home page\r\n- Navigate banners on the home page with multitouch gestures\r\n- Updated translations",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.8.0"
+      },
+      {
+        "version": "3.7.1",
+        "release_date": "2021-08-30T18:37:19",
+        "title": "appcenter 3.7.1 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Show apps from newly sideloaded remotes without requiring a restart</li>\n<li>Less abrupt transition when changing app sources</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.7.1"
+      },
+      {
+        "version": "3.7.0",
+        "release_date": "2021-08-26T02:19:00",
+        "title": "appcenter 3.7.0 Released",
+        "body": "<p>Fixes:</p>\n<ul>\n<li>Install Linux kernel headers for device drivers that use DKMS</li>\n<li>Use system Flatpak runtimes for locally installed apps</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Mention Sideload when search returns no results</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.7.0"
+      },
+      {
+        "version": "3.6.3",
+        "release_date": "2021-08-16T06:39:23",
+        "title": "appcenter 3.6.3 Released",
+        "body": "<p>Fixes:</p>\n<ul>\n<li>Ensure user installation is selected by default when navigating from the homepage</li>\n<li>Fix opening apps from app installed toasts</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.6.3"
+      },
+      {
+        "version": "3.6.2",
+        "release_date": "2021-08-09T18:08:10",
+        "title": "appcenter 3.6.2 Released",
+        "body": "<p>Fixes:</p>\n<ul>\n<li>Install Linux kernel headers with NVIDIA drivers</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.6.2"
+      },
+      {
+        "version": "3.6.1",
+        "release_date": "2021-08-03T00:31:07",
+        "title": "appcenter 3.6.1 Released",
+        "body": "<p>Fixes:</p>\n<ul>\n<li>Show Recently Updated Flatpak apps on home page</li>\n<li>Show brand colors and support payments for Flatpak apps</li>\n<li>Fix missing mail icon in payments dialog</li>\n<li>Fix missing privacy policy in payments dialog</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.6.1"
+      },
+      {
+        "version": "3.6.0",
+        "release_date": "2021-07-16T19:00:21",
+        "title": "appcenter 3.6.0 Released",
+        "body": "<p>New features:</p>\n<ul>\n<li>Show in-app notification when an app is installed</li>\n<li>Add contextual badges to notifications</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Ensure Home button is usable during search</li>\n<li>Ask the user to manually restart if we can't ask the session to prompt</li>\n<li>Improve styling and contrast of buttons</li>\n<li>More concise and consistent language</li>\n<li>Updated translations</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Fully uninstall Flatpaks, including locales</li>\n<li>Still fetch screenshots from remotes that don't include proper headers</li>\n<li>Fix truncated footer buttons</li>\n<li>Only show Mail button when a usable mail app is installed</li>\n<li>Fix some apps incorrectly showing as not installed during search</li>\n<li>Show an error dialog when opening an app fails</li>\n</ul>\n",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.6.0"
+      },
+      {
+        "version": "3.5.1",
+        "release_date": "2020-10-08T17:26:39",
+        "title": "appcenter 3.5.1 Released",
+        "body": "<p>Fixes</p>\n<ul>\n<li>Correctly display names of Flatpak runtime updates</li>\n</ul>\n<p>Minor updates</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.5.1"
+      },
+      {
+        "version": "3.5.0",
+        "release_date": "2020-10-07T03:57:49",
+        "title": "appcenter 3.5.0 Released",
+        "body": "<p>New features</p>\n<ul>\n<li>Support system-wide Flatpak remotes</li>\n</ul>\n<p>Fixes</p>\n<ul>\n<li>Fix Flatpak runtime updates getting stuck</li>\n<li>Fix long origin comboboxes breaking the header layout</li>\n</ul>\n<p>Minor updates</p>\n<ul>\n<li>When apps are available from multiple sources, prefer installed version, then prefer Flatpak</li>\n<li>Improve search performance</li>\n<li>Improve update badge styling and category styling</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.5.0"
+      },
+      {
+        "version": "3.4.2",
+        "release_date": "2020-08-07T17:40:17",
+        "title": "appcenter 3.4.2 Released",
+        "body": "<p>Fixes</p>\n<ul>\n<li>Ensure AppCenter is reopened at the correct position</li>\n<li>Clicking the updates badge in the header navigates to the updates view</li>\n</ul>\n<p>Minor updates</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.4.2"
+      },
+      {
+        "version": "3.4.1",
+        "release_date": "2020-06-30T23:55:36",
+        "title": "appcenter 3.4.1 Released",
+        "body": "<p>Fixes</p>\n<ul>\n<li>Ensure all updatable Flatpak runtimes are listed for update</li>\n</ul>\n<p>Minor updates</p>\n<ul>\n<li>Performance improvments</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.4.1"
+      },
+      {
+        "version": "3.4.0",
+        "release_date": "2020-05-28T18:09:17",
+        "title": "appcenter 3.4.0 Released",
+        "body": "<p>New features</p>\n<ul>\n<li>Perform updates without administrator permissions</li>\n</ul>\n<p>Minor updates</p>\n<ul>\n<li>Ensure apps on the homepage are more reliably displayed</li>\n<li>More reliably set the Dock badge number</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.4.0"
+      },
+      {
+        "version": "3.3.0",
+        "release_date": "2020-04-29T21:46:10",
+        "title": "appcenter 3.3.0 Released",
+        "body": "<p>Performance improvements</p>\n<ul>\n<li>Only check for updates at device startup if it's more than 24 hours since we last checked</li>\n<li>Reduce slowdowns when opening certain apps</li>\n</ul>\n<p>Extension improvements</p>\n<ul>\n<li>To de-clutter the updates view, extensions are now only shown if they require updates</li>\n<li>Clicking an extension on an app's info page now shows details for the extension</li>\n<li>Swap the main and overlay icons for extensions to more clearly associate extensions with their app</li>\n</ul>\n<p>Keyboard improvements</p>\n<ul>\n<li>Pressing down in the search field moves the keyboard focus to the search results list</li>\n<li>Ctrl+F now moves the cursor to the search field</li>\n</ul>\n<p>Fixes</p>\n<ul>\n<li>Use configured network proxy settings for apt operations</li>\n<li>No longer prompt for approval to update non-curated apps</li>\n<li>Ensure the OS updates subheading copy is correct after finishing updates</li>\n<li>Ellipsize long app names in App Info views</li>\n</ul>\n<p>And more</p>\n<ul>\n<li>Show a more informative loading screen when checking for updates</li>\n<li>Don't list fonts alongside apps</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.3.0"
+      },
+      {
+        "version": "3.2.4",
+        "release_date": "2020-04-08T23:32:02",
+        "title": "appcenter 3.2.4 Released",
+        "body": "<p>Fixes</p>\n<ul>\n<li>Prevent crashes when updating Flatpaks and system packages simultaneously</li>\n<li>Prevent suspending when installing, updating, or removing packages</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.2.4"
+      },
+      {
+        "version": "3.2.3",
+        "release_date": "2020-04-02T00:19:54",
+        "title": "appcenter 3.2.3 Released",
+        "body": "appcenter 3.2.3 is out! \n\n<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.2.3"
+      },
+      {
+        "version": "3.2.2",
+        "release_date": "2020-02-28T20:49:46",
+        "title": "appcenter 3.2.2 Released",
+        "body": "appcenter 3.2.2 is out! \n\n<p>Minor fixes</p>\n<ul>\n<li>Update application details when changes happen outside of AppCenter</li>\n<li>Fix for notification not appearing when a restart is required</li>\n<li>Apps in list views now load in the correct order when scrolling</li>\n<li>Prevent unescaped XML entities from appearing in application names</li>\n<li>Load the \"Installed\" view faster</li>\n<li>Ensure flatpak applications show in the category views</li>\n<li>Save some bandwidth by downloading smaller screenshots where appropriate</li>\n<li>System components no longer have an \"Open\" button</li>\n<li>Applications menu can now remove flatpaks that weren't installed by AppCenter</li>\n<li>Make download size estimates more accurate</li>\n</ul>\n",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.2.2"
+      },
+      {
+        "version": "3.2.1",
+        "release_date": "2019-12-02T17:54:05",
+        "title": "appcenter 3.2.1 Released",
+        "body": "appcenter 3.2.1 is out! \n\n<p>Minor fixes</p>\n<ul>\n<li>Prevent AppCenter from opening on log in</li>\n<li>Prevent ghost update notification when there are no updates available</li>\n<li>Show correct installation state for extensions</li>\n</ul>\n",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.2.1"
+      },
+      {
+        "version": "3.2.0",
+        "release_date": "2019-10-31T16:05:57",
+        "title": "appcenter 3.2.0 Released",
+        "body": "appcenter 3.2.0 is out! \n\nChanges:\n\n* Add support for Flatpak apps\n* Warn about non-curated apps\n* Show an error dialog if an installation fails\n* Fix an issue where some apps couldn't be uninstalled from the Applications Menu\n* Allow browsing and uninstalling apps while offline\n* Fix twitter share URLs\n* Drop Google+ from the share menu\n* Animate screenshot background while loading\n* Add navigation arrows for screenshots\n* Don't show uninstall buttons for essential system components\n* Properly display proprietary licenses\n* Fix some layout issues\n* Fix crashes\n* Performance improvements\n* Updated translations\n",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.2.0"
+      },
+      {
+        "version": "3.1.1",
+        "release_date": "2019-02-15T00:56:08",
+        "title": "AppCenter 3.1.1 Released",
+        "body": "AppCenter 3.1.1 is out!\r\n\r\nChanges:\r\n* Meson build system fixes\r\n* Improve window state restoration\r\n* Prevent action buttons from jumping around\r\n* Remove reset paid apps gsettings key\r\n* Memory management refinements\r\n* Add conditional compilation for disabling dynamic remote homepage content\r\n* Updated translations",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.1.1"
+      },
+      {
+        "version": "3.1.0",
+        "release_date": "2019-01-02T07:14:19",
+        "title": "AppCenter 3.1.0 Released",
+        "body": "AppCenter 3.1.0 is out!\r\n\r\nChanges:\r\n* New categories: `Communication`, `Finance`, `Media Production`\r\n* Add `Math` to `Science` category\r\n* Relax email address validator\r\n* Present update availability more accurately\r\n* Category graphics revamped\r\n* Updated translations",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.1.0"
+      },
+      {
+        "version": "3.0.1",
+        "release_date": "2018-10-25T11:44:28",
+        "title": "AppCenter 3.0.1 Released",
+        "body": "AppCenter 3.0.1 is out!\r\n\r\nThis release includes updated translations.",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.0.1"
+      },
+      {
+        "version": "3.0",
+        "release_date": "2018-10-16T10:33:33",
+        "title": "AppCenter 3.0 Released",
+        "body": "AppCenter 3.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/appcenter/issues?q=is%3Aclosed+milestone%3A3.0).",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.0"
+      },
+      {
+        "version": "0.2.9",
+        "release_date": "2018-03-02T12:24:42",
+        "title": "AppCenter 0.2.9 Released",
+        "body": "AppCenter 0.2.9 is out!\r\n\r\nThis release includes several [bug fixes](https://github.com/elementary/appcenter/issues?q=is%3Aclosed+milestone%3A0.2.9).",
+        "href": "https://github.com/elementary/appcenter/releases/tag/0.2.9"
+      },
+      {
+        "version": "0.2.8",
+        "release_date": "2018-01-25T17:00:38",
+        "title": "AppCenter 0.2.8 Released",
+        "body": "AppCenter 0.2.8 is out!\r\n\r\nThis release includes several [bug fixes](https://github.com/elementary/appcenter/issues?q=is%3Aclosed+milestone%3A0.2.8).",
+        "href": "https://github.com/elementary/appcenter/releases/tag/0.2.8"
+      },
+      {
+        "version": "0.2.7",
+        "release_date": "2017-11-07T12:18:38",
+        "title": "AppCenter 0.2.7 Released",
+        "body": "AppCenter 0.2.7 is out!\r\n\r\nThis release includes several [bug fixes](https://github.com/elementary/appcenter/issues?q=is%3Aclosed+milestone%3A0.2.7).",
+        "href": "https://github.com/elementary/appcenter/releases/tag/0.2.7"
+      },
+      {
+        "version": "0.2.6",
+        "release_date": "2017-09-18T12:01:32",
+        "title": "AppCenter 0.2.6 Released",
+        "body": "AppCenter 0.2.6 is out!\r\n\r\nThis release includes several [bug fixes](https://github.com/elementary/appcenter/issues?q=is%3Aclosed+milestone%3A0.2.6).",
+        "href": "https://github.com/elementary/appcenter/releases/tag/0.2.6"
+      },
+      {
+        "version": "0.2.5",
+        "release_date": "2017-08-04T11:08:14",
+        "title": "AppCenter 0.2.5 Released",
+        "body": "AppCenter 0.2.5 is out!\r\n\r\nThis release includes several [bug fixes](https://github.com/elementary/appcenter/milestone/7?closed=1).",
+        "href": "https://github.com/elementary/appcenter/releases/tag/0.2.5"
+      },
+      {
+        "version": "0.2.4",
+        "release_date": "2017-07-04T07:12:53",
+        "title": "AppCenter 0.2.4 Released",
+        "body": "AppCenter 0.2.4 is out!\r\n\r\nThis release includes several [bug fixes](https://github.com/elementary/appcenter/milestone/6?closed=1).",
+        "href": "https://github.com/elementary/appcenter/releases/tag/0.2.4"
+      },
+      {
+        "version": "0.2.3",
+        "release_date": "2017-05-31T22:15:24",
+        "title": "AppCenter 0.2.3 Released",
+        "body": "AppCenter 0.2.3 is out!\r\n\r\nThis release includes several [bug fixes](https://github.com/elementary/appcenter/milestone/5?closed=1).",
+        "href": "https://github.com/elementary/appcenter/releases/tag/0.2.3"
+      },
+      {
+        "version": "0.2.2",
+        "release_date": "2017-05-21T23:17:29",
+        "title": "AppCenter 0.2.2 Released",
+        "body": "AppCenter 0.2.2 is out!",
+        "href": "https://github.com/elementary/appcenter/releases/tag/0.2.2"
+      },
+      {
+        "version": "0.2.1",
+        "release_date": "2017-05-19T19:37:42",
+        "title": "AppCenter 0.2.1 Released",
+        "body": "AppCenter 0.2.1 is out!",
+        "href": "https://github.com/elementary/appcenter/releases/tag/0.2.1"
+      },
+      {
+        "version": "0.2",
+        "release_date": "2017-05-17T11:35:13",
+        "title": "AppCenter 0.2 Released",
+        "body": "AppCenter 0.2 is out!\r\n\r\nThis release includes several [bug fixes](https://github.com/elementary/appcenter/milestone/1?closed=1)",
+        "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
+      }
+    ],
+    "new_commits": 0
+  },
+  {
+    "name": "switchboard-plug-useraccounts",
+    "releases": [
+      {
+        "version": "2.4.2",
+        "release_date": "2021-11-23T21:19:39",
+        "title": "switchboard-plug-useraccounts 2.4.2 Released",
+        "body": "<p>Fixes:</p>\n<ul>\n<li>Update permissions when enabling and disabling accounts</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/2.4.2"
+      },
+      {
+        "version": "2.4.1",
+        "release_date": "2021-10-26T17:49:42",
+        "title": "User Accounts Settings 2.4.1 Released",
+        "body": "<p>Fixes:</p>\r\n<ul>\r\n<li>Ensure user information in sidebar updates upon changes</li>\r\n</ul>\r\n<p>Improvements:</p>\r\n<ul>\r\n<li>Support locales with 3-letter codes</li>\r\n<li>Performance improvements</li>\r\n<li>Better support for non-Ubuntu based distributions</li>\r\n<li>Updated translations</li>\r\n</ul>",
+        "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/2.4.1"
+      },
+      {
+        "version": "2.4.0",
+        "release_date": "2021-07-14T21:10:17",
+        "title": "switchboard-plug-useraccounts 2.4.0 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>New colorful avatar fallback</li>\n<li>Performance improvements</li>\n<li>Improved tooltips and labels</li>\n<li>Fix possible crash when deleting an account</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/2.4.0"
+      },
+      {
+        "version": "2.3.2",
+        "release_date": "2020-09-03T21:33:48",
+        "title": "switchboard-plug-useraccounts 2.3.2 Released",
+        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/2.3.2"
+      },
+      {
+        "version": "2.3.1",
+        "release_date": "2020-04-08T23:17:54",
+        "title": "switchboard-plug-useraccounts 2.3.1 Released",
+        "body": "<ul>\n<li>Show more accurate reasons for locked settings</li>\n<li>Improve reliability of account creation</li>\n<li>Get permission on demand for enabling or disabling accounts</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/2.3.1"
+      },
+      {
+        "version": "2.3.0",
+        "release_date": "2019-11-15T22:25:40",
+        "title": "switchboard-plug-useraccounts 2.3.0 Released",
+        "body": "switchboard-plug-useraccounts 2.3.0 is out! \n\nChanges:\n\n* Show in sidebar if an account is disabled\n* Ask for permission when adding and removing accounts\n* Animate Infobars\n* Updated translations\n",
+        "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/2.3.0"
+      },
+      {
+        "version": "2.2.1",
+        "release_date": "2019-03-15T16:51:19",
+        "title": "Switchboard User Accounts Plug 2.2.1 Released",
+        "body": "switchboard-plug-useraccounts 2.2.1 is out!\r\n\r\nChanges:\r\n* Fix getting current user on other distros\r\n* Use `Granite.MessageDialog` for avatar dialog\r\n* Updated translations",
+        "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/2.2.1"
+      },
+      {
+        "version": "2.2.0",
+        "release_date": "2018-10-23T09:16:42",
+        "title": "Switchboard User Accounts Plug 2.2.0 Released",
+        "body": "switchboard-plug-useraccounts 2.2.0 is out!\r\n\r\nChanges:\r\n* Fix guest session controls\r\n* New search keywords",
+        "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/2.2.0"
+      },
+      {
+        "version": "2.1.7",
+        "release_date": "2018-10-08T18:20:19",
+        "title": "Switchboard User Accounts Plug 2.1.7 Released",
+        "body": "switchboard-plug-useraccounts 2.1.7 is out!\r\n\r\nThis list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-useraccounts/issues?q=is%3Aclosed+milestone%3A2.1.7).",
+        "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/2.1.7"
+      },
+      {
+        "version": "0.1.6",
+        "release_date": "2017-10-10T18:56:56",
+        "title": "Switchboard User Accounts Plug 0.1.6 Released",
+        "body": "switchboard-plug-useraccounts 0.1.6 is out!\r\n\r\nThis list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-useraccounts/issues?q=is%3Aclosed+milestone%3A0.1.6).",
+        "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/0.1.6"
+      },
+      {
+        "version": "0.1.5",
+        "release_date": "2017-06-28T12:43:30",
+        "title": "Switchboard User Accounts Plug 0.1.5 Released",
+        "body": "switchboard-plug-useraccounts 0.1.5 is out!",
+        "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/0.1.5"
+      },
+      {
+        "version": "0.1.4",
+        "release_date": "2017-05-22T19:38:28",
+        "title": "Switchboard User Accounts Plug 0.1.4 Released",
+        "body": "switchboard-plug-useraccounts 0.1.4 is out!",
+        "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/0.1.4"
+      }
+    ],
+    "new_commits": 0
+  },
+  {
+    "name": "switchboard-plug-security-privacy",
+    "releases": [
+      {
+        "version": "2.3.0",
+        "release_date": "2021-11-23T21:13:06",
+        "title": "switchboard-plug-security-privacy 2.3.0 Released",
+        "body": "<p>New features:</p>\n<ul>\n<li>Add Downloads option to Housekeeping</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Translation updates</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-security-privacy/releases/tag/2.3.0"
+      },
+      {
+        "version": "2.2.5",
+        "release_date": "2021-07-14T22:02:36",
+        "title": "switchboard-plug-security-privacy 2.2.5 Released",
+        "body": "<ul>\n<li>Translation updates</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-security-privacy/releases/tag/2.2.5"
+      },
+      {
+        "version": "2.2.4",
+        "release_date": "2020-05-25T18:11:21",
+        "title": "switchboard-plug-security-privacy 2.2.4 Released",
+        "body": "<ul>\n<li>Translation updates</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-security-privacy/releases/tag/2.2.4"
+      },
+      {
+        "version": "2.2.3",
+        "release_date": "2020-04-08T20:06:40",
+        "title": "switchboard-plug-security-privacy 2.2.3 Released",
+        "body": "<ul>\n<li>Translation updates</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-security-privacy/releases/tag/2.2.3"
+      },
+      {
+        "version": "2.2.2",
+        "release_date": "2019-10-29T22:10:13",
+        "title": "switchboard-plug-security-privacy 2.2.2 Released",
+        "body": "switchboard-plug-security-privacy 2.2.2 is out! \n\nChanges:\n\n* Redesigned \"Housekeeping\" page\n* Translation updates\n",
+        "href": "https://github.com/elementary/switchboard-plug-security-privacy/releases/tag/2.2.2"
+      },
+      {
+        "version": "2.2.1",
+        "release_date": "2019-03-15T19:26:59",
+        "title": "Switchboard Security & Privacy Plug 2.2.1 Released",
+        "body": "switchboard-plug-security-privacy 2.2.1 is out!\r\n\r\nChanges:\r\n* Search keyword improvements\r\n* Updated translations",
+        "href": "https://github.com/elementary/switchboard-plug-security-privacy/releases/tag/2.2.1"
+      },
+      {
+        "version": "2.2.0",
+        "release_date": "2018-10-16T02:10:58",
+        "title": "Switchboard Security & Privacy Plug 2.2.0 Released",
+        "body": "switchboard-plug-security-privacy 2.2.0 is out!\r\n\r\nChanges:\r\n* Housekeeping panel for temporary file management\r\n* Updated translations\r\n",
+        "href": "https://github.com/elementary/switchboard-plug-security-privacy/releases/tag/2.2.0"
+      },
+      {
+        "version": "0.1.3",
+        "release_date": "2018-06-19T07:30:52",
+        "title": "Switchboard Security & Privacy Plug 0.1.3 Released",
+        "body": "switchboard-plug-security-privacy 0.1.3 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-security-privacy/issues?q=is%3Aclosed+milestone%3A0.1.3).",
+        "href": "https://github.com/elementary/switchboard-plug-security-privacy/releases/tag/0.1.3"
+      },
+      {
+        "version": "0.1.2",
+        "release_date": "2017-05-22T19:20:44",
+        "title": "Switchboard Security & Privacy Plug 0.1.2 Released",
+        "body": "switchboard-plug-security-privacy 0.1.2 is out!",
+        "href": "https://github.com/elementary/switchboard-plug-security-privacy/releases/tag/0.1.2"
+      }
+    ],
+    "new_commits": 6
+  },
+  {
     "name": "code",
     "releases": [
       {
@@ -163,7 +1100,7 @@
         "href": "https://github.com/elementary/camera/releases/tag/1.0"
       }
     ],
-    "new_commits": 0
+    "new_commits": 1
   },
   {
     "name": "applications-menu",
@@ -302,7 +1239,7 @@
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
       }
     ],
-    "new_commits": 0
+    "new_commits": 8
   },
   {
     "name": "gala",
@@ -516,7 +1453,7 @@
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 0
+    "new_commits": 1
   },
   {
     "name": "switchboard-plug-sound",
@@ -613,7 +1550,7 @@
         "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/0.1"
       }
     ],
-    "new_commits": 0
+    "new_commits": 1
   },
   {
     "name": "switchboard-plug-locale",
@@ -1284,7 +2221,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 36
+    "new_commits": 45
   },
   {
     "name": "shortcut-overlay",
@@ -1340,250 +2277,6 @@
       }
     ],
     "new_commits": 8
-  },
-  {
-    "name": "appcenter",
-    "releases": [
-      {
-        "version": "3.8.2",
-        "release_date": "2021-10-29T17:35:37",
-        "title": "AppCenter 3.8.2 Released!",
-        "body": "## What's Changed\r\n* FlatpakBackend: Handle transaction success state correctly by @davidmhewitt in https://github.com/elementary/appcenter/pull/1730\r\n* FlatpakBackend: Sort stable apps in XML first by @davidmhewitt in https://github.com/elementary/appcenter/pull/1731\r\n* FlatpakBackend: Improve XML parsing efficiency by @davidmhewitt in https://github.com/elementary/appcenter/pull/1733\r\n\r\n**Full Changelog**: https://github.com/elementary/appcenter/compare/3.8.1...3.8.2",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.8.2"
-      },
-      {
-        "version": "3.8.1",
-        "release_date": "2021-10-26T17:02:14",
-        "title": "AppCenter 3.8.1 Released",
-        "body": "<p>Fixes:</p>\r\n<ul>\r\n<li>Don't store $0 app installs as paid</li>\r\n<li>Fix missing illicit substances icon</li>\r\n<li>Don't show plugins on the homepage</li>\r\n<li>Only show \"Multiplayer\" badge for games</li>\r\n</ul>\r\n<p>Improvements:</p>\r\n<ul>\r\n<li>Show installation progress in a more compact way</li>\r\n<li>Updated translations</li>\r\n</ul>",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.8.1"
-      },
-      {
-        "version": "3.8.0",
-        "release_date": "2021-09-21T21:48:38",
-        "title": "AppCenter 3.8.0 Released",
-        "body": "New features:\r\n - Show content warnings on app info pages\r\n\r\nFixes:\r\n- Show other apps by an author for Flatpak sources\r\n- Populate banner on home locally instead of relying on an external API\r\n\r\nImprovements:\r\n- Greatly increased number of recently-updated apps shown on home page\r\n- Navigate banners on the home page with multitouch gestures\r\n- Updated translations",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.8.0"
-      },
-      {
-        "version": "3.7.1",
-        "release_date": "2021-08-30T18:37:19",
-        "title": "appcenter 3.7.1 Released",
-        "body": "<p>Improvements:</p>\n<ul>\n<li>Show apps from newly sideloaded remotes without requiring a restart</li>\n<li>Less abrupt transition when changing app sources</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.7.1"
-      },
-      {
-        "version": "3.7.0",
-        "release_date": "2021-08-26T02:19:00",
-        "title": "appcenter 3.7.0 Released",
-        "body": "<p>Fixes:</p>\n<ul>\n<li>Install Linux kernel headers for device drivers that use DKMS</li>\n<li>Use system Flatpak runtimes for locally installed apps</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Mention Sideload when search returns no results</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.7.0"
-      },
-      {
-        "version": "3.6.3",
-        "release_date": "2021-08-16T06:39:23",
-        "title": "appcenter 3.6.3 Released",
-        "body": "<p>Fixes:</p>\n<ul>\n<li>Ensure user installation is selected by default when navigating from the homepage</li>\n<li>Fix opening apps from app installed toasts</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.6.3"
-      },
-      {
-        "version": "3.6.2",
-        "release_date": "2021-08-09T18:08:10",
-        "title": "appcenter 3.6.2 Released",
-        "body": "<p>Fixes:</p>\n<ul>\n<li>Install Linux kernel headers with NVIDIA drivers</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.6.2"
-      },
-      {
-        "version": "3.6.1",
-        "release_date": "2021-08-03T00:31:07",
-        "title": "appcenter 3.6.1 Released",
-        "body": "<p>Fixes:</p>\n<ul>\n<li>Show Recently Updated Flatpak apps on home page</li>\n<li>Show brand colors and support payments for Flatpak apps</li>\n<li>Fix missing mail icon in payments dialog</li>\n<li>Fix missing privacy policy in payments dialog</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.6.1"
-      },
-      {
-        "version": "3.6.0",
-        "release_date": "2021-07-16T19:00:21",
-        "title": "appcenter 3.6.0 Released",
-        "body": "<p>New features:</p>\n<ul>\n<li>Show in-app notification when an app is installed</li>\n<li>Add contextual badges to notifications</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Ensure Home button is usable during search</li>\n<li>Ask the user to manually restart if we can't ask the session to prompt</li>\n<li>Improve styling and contrast of buttons</li>\n<li>More concise and consistent language</li>\n<li>Updated translations</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Fully uninstall Flatpaks, including locales</li>\n<li>Still fetch screenshots from remotes that don't include proper headers</li>\n<li>Fix truncated footer buttons</li>\n<li>Only show Mail button when a usable mail app is installed</li>\n<li>Fix some apps incorrectly showing as not installed during search</li>\n<li>Show an error dialog when opening an app fails</li>\n</ul>\n",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.6.0"
-      },
-      {
-        "version": "3.5.1",
-        "release_date": "2020-10-08T17:26:39",
-        "title": "appcenter 3.5.1 Released",
-        "body": "<p>Fixes</p>\n<ul>\n<li>Correctly display names of Flatpak runtime updates</li>\n</ul>\n<p>Minor updates</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.5.1"
-      },
-      {
-        "version": "3.5.0",
-        "release_date": "2020-10-07T03:57:49",
-        "title": "appcenter 3.5.0 Released",
-        "body": "<p>New features</p>\n<ul>\n<li>Support system-wide Flatpak remotes</li>\n</ul>\n<p>Fixes</p>\n<ul>\n<li>Fix Flatpak runtime updates getting stuck</li>\n<li>Fix long origin comboboxes breaking the header layout</li>\n</ul>\n<p>Minor updates</p>\n<ul>\n<li>When apps are available from multiple sources, prefer installed version, then prefer Flatpak</li>\n<li>Improve search performance</li>\n<li>Improve update badge styling and category styling</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.5.0"
-      },
-      {
-        "version": "3.4.2",
-        "release_date": "2020-08-07T17:40:17",
-        "title": "appcenter 3.4.2 Released",
-        "body": "<p>Fixes</p>\n<ul>\n<li>Ensure AppCenter is reopened at the correct position</li>\n<li>Clicking the updates badge in the header navigates to the updates view</li>\n</ul>\n<p>Minor updates</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.4.2"
-      },
-      {
-        "version": "3.4.1",
-        "release_date": "2020-06-30T23:55:36",
-        "title": "appcenter 3.4.1 Released",
-        "body": "<p>Fixes</p>\n<ul>\n<li>Ensure all updatable Flatpak runtimes are listed for update</li>\n</ul>\n<p>Minor updates</p>\n<ul>\n<li>Performance improvments</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.4.1"
-      },
-      {
-        "version": "3.4.0",
-        "release_date": "2020-05-28T18:09:17",
-        "title": "appcenter 3.4.0 Released",
-        "body": "<p>New features</p>\n<ul>\n<li>Perform updates without administrator permissions</li>\n</ul>\n<p>Minor updates</p>\n<ul>\n<li>Ensure apps on the homepage are more reliably displayed</li>\n<li>More reliably set the Dock badge number</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.4.0"
-      },
-      {
-        "version": "3.3.0",
-        "release_date": "2020-04-29T21:46:10",
-        "title": "appcenter 3.3.0 Released",
-        "body": "<p>Performance improvements</p>\n<ul>\n<li>Only check for updates at device startup if it's more than 24 hours since we last checked</li>\n<li>Reduce slowdowns when opening certain apps</li>\n</ul>\n<p>Extension improvements</p>\n<ul>\n<li>To de-clutter the updates view, extensions are now only shown if they require updates</li>\n<li>Clicking an extension on an app's info page now shows details for the extension</li>\n<li>Swap the main and overlay icons for extensions to more clearly associate extensions with their app</li>\n</ul>\n<p>Keyboard improvements</p>\n<ul>\n<li>Pressing down in the search field moves the keyboard focus to the search results list</li>\n<li>Ctrl+F now moves the cursor to the search field</li>\n</ul>\n<p>Fixes</p>\n<ul>\n<li>Use configured network proxy settings for apt operations</li>\n<li>No longer prompt for approval to update non-curated apps</li>\n<li>Ensure the OS updates subheading copy is correct after finishing updates</li>\n<li>Ellipsize long app names in App Info views</li>\n</ul>\n<p>And more</p>\n<ul>\n<li>Show a more informative loading screen when checking for updates</li>\n<li>Don't list fonts alongside apps</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.3.0"
-      },
-      {
-        "version": "3.2.4",
-        "release_date": "2020-04-08T23:32:02",
-        "title": "appcenter 3.2.4 Released",
-        "body": "<p>Fixes</p>\n<ul>\n<li>Prevent crashes when updating Flatpaks and system packages simultaneously</li>\n<li>Prevent suspending when installing, updating, or removing packages</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.2.4"
-      },
-      {
-        "version": "3.2.3",
-        "release_date": "2020-04-02T00:19:54",
-        "title": "appcenter 3.2.3 Released",
-        "body": "appcenter 3.2.3 is out! \n\n<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.2.3"
-      },
-      {
-        "version": "3.2.2",
-        "release_date": "2020-02-28T20:49:46",
-        "title": "appcenter 3.2.2 Released",
-        "body": "appcenter 3.2.2 is out! \n\n<p>Minor fixes</p>\n<ul>\n<li>Update application details when changes happen outside of AppCenter</li>\n<li>Fix for notification not appearing when a restart is required</li>\n<li>Apps in list views now load in the correct order when scrolling</li>\n<li>Prevent unescaped XML entities from appearing in application names</li>\n<li>Load the \"Installed\" view faster</li>\n<li>Ensure flatpak applications show in the category views</li>\n<li>Save some bandwidth by downloading smaller screenshots where appropriate</li>\n<li>System components no longer have an \"Open\" button</li>\n<li>Applications menu can now remove flatpaks that weren't installed by AppCenter</li>\n<li>Make download size estimates more accurate</li>\n</ul>\n",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.2.2"
-      },
-      {
-        "version": "3.2.1",
-        "release_date": "2019-12-02T17:54:05",
-        "title": "appcenter 3.2.1 Released",
-        "body": "appcenter 3.2.1 is out! \n\n<p>Minor fixes</p>\n<ul>\n<li>Prevent AppCenter from opening on log in</li>\n<li>Prevent ghost update notification when there are no updates available</li>\n<li>Show correct installation state for extensions</li>\n</ul>\n",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.2.1"
-      },
-      {
-        "version": "3.2.0",
-        "release_date": "2019-10-31T16:05:57",
-        "title": "appcenter 3.2.0 Released",
-        "body": "appcenter 3.2.0 is out! \n\nChanges:\n\n* Add support for Flatpak apps\n* Warn about non-curated apps\n* Show an error dialog if an installation fails\n* Fix an issue where some apps couldn't be uninstalled from the Applications Menu\n* Allow browsing and uninstalling apps while offline\n* Fix twitter share URLs\n* Drop Google+ from the share menu\n* Animate screenshot background while loading\n* Add navigation arrows for screenshots\n* Don't show uninstall buttons for essential system components\n* Properly display proprietary licenses\n* Fix some layout issues\n* Fix crashes\n* Performance improvements\n* Updated translations\n",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.2.0"
-      },
-      {
-        "version": "3.1.1",
-        "release_date": "2019-02-15T00:56:08",
-        "title": "AppCenter 3.1.1 Released",
-        "body": "AppCenter 3.1.1 is out!\r\n\r\nChanges:\r\n* Meson build system fixes\r\n* Improve window state restoration\r\n* Prevent action buttons from jumping around\r\n* Remove reset paid apps gsettings key\r\n* Memory management refinements\r\n* Add conditional compilation for disabling dynamic remote homepage content\r\n* Updated translations",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.1.1"
-      },
-      {
-        "version": "3.1.0",
-        "release_date": "2019-01-02T07:14:19",
-        "title": "AppCenter 3.1.0 Released",
-        "body": "AppCenter 3.1.0 is out!\r\n\r\nChanges:\r\n* New categories: `Communication`, `Finance`, `Media Production`\r\n* Add `Math` to `Science` category\r\n* Relax email address validator\r\n* Present update availability more accurately\r\n* Category graphics revamped\r\n* Updated translations",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.1.0"
-      },
-      {
-        "version": "3.0.1",
-        "release_date": "2018-10-25T11:44:28",
-        "title": "AppCenter 3.0.1 Released",
-        "body": "AppCenter 3.0.1 is out!\r\n\r\nThis release includes updated translations.",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.0.1"
-      },
-      {
-        "version": "3.0",
-        "release_date": "2018-10-16T10:33:33",
-        "title": "AppCenter 3.0 Released",
-        "body": "AppCenter 3.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/appcenter/issues?q=is%3Aclosed+milestone%3A3.0).",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.0"
-      },
-      {
-        "version": "0.2.9",
-        "release_date": "2018-03-02T12:24:42",
-        "title": "AppCenter 0.2.9 Released",
-        "body": "AppCenter 0.2.9 is out!\r\n\r\nThis release includes several [bug fixes](https://github.com/elementary/appcenter/issues?q=is%3Aclosed+milestone%3A0.2.9).",
-        "href": "https://github.com/elementary/appcenter/releases/tag/0.2.9"
-      },
-      {
-        "version": "0.2.8",
-        "release_date": "2018-01-25T17:00:38",
-        "title": "AppCenter 0.2.8 Released",
-        "body": "AppCenter 0.2.8 is out!\r\n\r\nThis release includes several [bug fixes](https://github.com/elementary/appcenter/issues?q=is%3Aclosed+milestone%3A0.2.8).",
-        "href": "https://github.com/elementary/appcenter/releases/tag/0.2.8"
-      },
-      {
-        "version": "0.2.7",
-        "release_date": "2017-11-07T12:18:38",
-        "title": "AppCenter 0.2.7 Released",
-        "body": "AppCenter 0.2.7 is out!\r\n\r\nThis release includes several [bug fixes](https://github.com/elementary/appcenter/issues?q=is%3Aclosed+milestone%3A0.2.7).",
-        "href": "https://github.com/elementary/appcenter/releases/tag/0.2.7"
-      },
-      {
-        "version": "0.2.6",
-        "release_date": "2017-09-18T12:01:32",
-        "title": "AppCenter 0.2.6 Released",
-        "body": "AppCenter 0.2.6 is out!\r\n\r\nThis release includes several [bug fixes](https://github.com/elementary/appcenter/issues?q=is%3Aclosed+milestone%3A0.2.6).",
-        "href": "https://github.com/elementary/appcenter/releases/tag/0.2.6"
-      },
-      {
-        "version": "0.2.5",
-        "release_date": "2017-08-04T11:08:14",
-        "title": "AppCenter 0.2.5 Released",
-        "body": "AppCenter 0.2.5 is out!\r\n\r\nThis release includes several [bug fixes](https://github.com/elementary/appcenter/milestone/7?closed=1).",
-        "href": "https://github.com/elementary/appcenter/releases/tag/0.2.5"
-      },
-      {
-        "version": "0.2.4",
-        "release_date": "2017-07-04T07:12:53",
-        "title": "AppCenter 0.2.4 Released",
-        "body": "AppCenter 0.2.4 is out!\r\n\r\nThis release includes several [bug fixes](https://github.com/elementary/appcenter/milestone/6?closed=1).",
-        "href": "https://github.com/elementary/appcenter/releases/tag/0.2.4"
-      },
-      {
-        "version": "0.2.3",
-        "release_date": "2017-05-31T22:15:24",
-        "title": "AppCenter 0.2.3 Released",
-        "body": "AppCenter 0.2.3 is out!\r\n\r\nThis release includes several [bug fixes](https://github.com/elementary/appcenter/milestone/5?closed=1).",
-        "href": "https://github.com/elementary/appcenter/releases/tag/0.2.3"
-      },
-      {
-        "version": "0.2.2",
-        "release_date": "2017-05-21T23:17:29",
-        "title": "AppCenter 0.2.2 Released",
-        "body": "AppCenter 0.2.2 is out!",
-        "href": "https://github.com/elementary/appcenter/releases/tag/0.2.2"
-      },
-      {
-        "version": "0.2.1",
-        "release_date": "2017-05-19T19:37:42",
-        "title": "AppCenter 0.2.1 Released",
-        "body": "AppCenter 0.2.1 is out!",
-        "href": "https://github.com/elementary/appcenter/releases/tag/0.2.1"
-      },
-      {
-        "version": "0.2",
-        "release_date": "2017-05-17T11:35:13",
-        "title": "AppCenter 0.2 Released",
-        "body": "AppCenter 0.2 is out!\r\n\r\nThis release includes several [bug fixes](https://github.com/elementary/appcenter/milestone/1?closed=1)",
-        "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
-      }
-    ],
-    "new_commits": 85
   },
   {
     "name": "portals",
@@ -2118,89 +2811,6 @@
     "new_commits": 7
   },
   {
-    "name": "switchboard-plug-useraccounts",
-    "releases": [
-      {
-        "version": "2.4.1",
-        "release_date": "2021-10-26T17:49:42",
-        "title": "User Accounts Settings 2.4.1 Released",
-        "body": "<p>Fixes:</p>\r\n<ul>\r\n<li>Ensure user information in sidebar updates upon changes</li>\r\n</ul>\r\n<p>Improvements:</p>\r\n<ul>\r\n<li>Support locales with 3-letter codes</li>\r\n<li>Performance improvements</li>\r\n<li>Better support for non-Ubuntu based distributions</li>\r\n<li>Updated translations</li>\r\n</ul>",
-        "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/2.4.1"
-      },
-      {
-        "version": "2.4.0",
-        "release_date": "2021-07-14T21:10:17",
-        "title": "switchboard-plug-useraccounts 2.4.0 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>New colorful avatar fallback</li>\n<li>Performance improvements</li>\n<li>Improved tooltips and labels</li>\n<li>Fix possible crash when deleting an account</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/2.4.0"
-      },
-      {
-        "version": "2.3.2",
-        "release_date": "2020-09-03T21:33:48",
-        "title": "switchboard-plug-useraccounts 2.3.2 Released",
-        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/2.3.2"
-      },
-      {
-        "version": "2.3.1",
-        "release_date": "2020-04-08T23:17:54",
-        "title": "switchboard-plug-useraccounts 2.3.1 Released",
-        "body": "<ul>\n<li>Show more accurate reasons for locked settings</li>\n<li>Improve reliability of account creation</li>\n<li>Get permission on demand for enabling or disabling accounts</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/2.3.1"
-      },
-      {
-        "version": "2.3.0",
-        "release_date": "2019-11-15T22:25:40",
-        "title": "switchboard-plug-useraccounts 2.3.0 Released",
-        "body": "switchboard-plug-useraccounts 2.3.0 is out! \n\nChanges:\n\n* Show in sidebar if an account is disabled\n* Ask for permission when adding and removing accounts\n* Animate Infobars\n* Updated translations\n",
-        "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/2.3.0"
-      },
-      {
-        "version": "2.2.1",
-        "release_date": "2019-03-15T16:51:19",
-        "title": "Switchboard User Accounts Plug 2.2.1 Released",
-        "body": "switchboard-plug-useraccounts 2.2.1 is out!\r\n\r\nChanges:\r\n* Fix getting current user on other distros\r\n* Use `Granite.MessageDialog` for avatar dialog\r\n* Updated translations",
-        "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/2.2.1"
-      },
-      {
-        "version": "2.2.0",
-        "release_date": "2018-10-23T09:16:42",
-        "title": "Switchboard User Accounts Plug 2.2.0 Released",
-        "body": "switchboard-plug-useraccounts 2.2.0 is out!\r\n\r\nChanges:\r\n* Fix guest session controls\r\n* New search keywords",
-        "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/2.2.0"
-      },
-      {
-        "version": "2.1.7",
-        "release_date": "2018-10-08T18:20:19",
-        "title": "Switchboard User Accounts Plug 2.1.7 Released",
-        "body": "switchboard-plug-useraccounts 2.1.7 is out!\r\n\r\nThis list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-useraccounts/issues?q=is%3Aclosed+milestone%3A2.1.7).",
-        "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/2.1.7"
-      },
-      {
-        "version": "0.1.6",
-        "release_date": "2017-10-10T18:56:56",
-        "title": "Switchboard User Accounts Plug 0.1.6 Released",
-        "body": "switchboard-plug-useraccounts 0.1.6 is out!\r\n\r\nThis list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-useraccounts/issues?q=is%3Aclosed+milestone%3A0.1.6).",
-        "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/0.1.6"
-      },
-      {
-        "version": "0.1.5",
-        "release_date": "2017-06-28T12:43:30",
-        "title": "Switchboard User Accounts Plug 0.1.5 Released",
-        "body": "switchboard-plug-useraccounts 0.1.5 is out!",
-        "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/0.1.5"
-      },
-      {
-        "version": "0.1.4",
-        "release_date": "2017-05-22T19:38:28",
-        "title": "Switchboard User Accounts Plug 0.1.4 Released",
-        "body": "switchboard-plug-useraccounts 0.1.4 is out!",
-        "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/0.1.4"
-      }
-    ],
-    "new_commits": 45
-  },
-  {
     "name": "switchboard-plug-display",
     "releases": [
       {
@@ -2395,138 +3005,6 @@
     "new_commits": 10
   },
   {
-    "name": "granite",
-    "releases": [
-      {
-        "version": "6.1.2",
-        "release_date": "2021-10-25T18:46:08",
-        "title": "Granite 6.1.2",
-        "body": "<p>Fixes:</p>\r\n<ul>\r\n<li>Use values from the Settings Portal when possible</li>\r\n<li>Disable horizontal scrolling by default in SettingsPage</li>\r\n<li>Updated translations</li>\r\n</ul>",
-        "href": "https://github.com/elementary/granite/releases/tag/6.1.2"
-      },
-      {
-        "version": "6.1.1",
-        "release_date": "2021-08-25T22:06:34",
-        "title": "granite 6.1.1 Released",
-        "body": "<p>Fixes:</p>\n<ul>\n<li>Ensure accel_to_string works with multiple modifiers</li>\n<li>Fix locale issues in Flatpaks</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/granite/releases/tag/6.1.1"
-      },
-      {
-        "version": "6.1.0",
-        "release_date": "2021-07-13T22:02:51",
-        "title": "granite 6.1.0 Released",
-        "body": "<p>Additions:</p>\n<ul>\n<li>TRANSITION_DURATION_IN_PLACE for consistent in-place widget transformations</li>\n</ul>\n<p>Other Changes:</p>\n<ul>\n<li>accel_to_string handles accel markup without modifiers or that are only modifiers</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/granite/releases/tag/6.1.0"
-      },
-      {
-        "version": "6.0.0",
-        "release_date": "2021-03-22T23:22:21",
-        "title": "granite 6.0.0 Released",
-        "body": "<p>Additions:</p>\n<ul>\n<li>Granite.Dialog replaces Gtk.Dialog for consistent styling</li>\n<li>Granite.SwitchModelButton for use in Gtk.Popover menus</li>\n<li>Granite.ValidatedEntry for client-side verification in forms</li>\n</ul>\n<p>New Constants:</p>\n<ul>\n<li>TOOLTIP_SECONDARY_TEXT_MARKUP for smaller second line text in Gtk.Tooltips</li>\n<li>SMALL_LABEL for smaller Gtk.Labels without Pango</li>\n<li>STYLE_CLASS_WARMTH and STYLE_CLASS_TEMPERATURE for scales</li>\n<li>STYLE_CLASS_DEFAULT_DECORATION for slim headerbars</li>\n<li>TRANSITION_DURATION_OPEN and TRANSITION_DURATION_CLOSE for consistent animations</li>\n</ul>\n<p>Removals:</p>\n<ul>\n<li>Granite.Widgets.AboutDialog. Provide AppStream metadata instead.</li>\n<li>Granite.Widgets.AppMenu. Use Gtk.MenuButton instead.</li>\n</ul>\n<p>Deprecations:</p>\n<ul>\n<li>Granite.Widgets.Avatar. Use Hdy.Avatar instead</li>\n</ul>\n<p>Other Changes:</p>\n<ul>\n<li>Toasts now reset their timeout when sending a new notification and the timeout is stopped while hovering</li>\n<li>Backlash, Right Control, and Left Control are now handled by accel_to_string</li>\n<li>Make tab tooltips of DynamicNotebook settable</li>\n<li>Timepicker corrrectly fires time_changed when AM and PM buttons are selected</li>\n<li>Granite.MessageDialog now uses the messagedialog CSS name</li>\n<li>Visible child name is now properly synced in Granite.SettingsSidebar</li>\n<li>Status can be set in Granite.AbstractSettingsPage on construct</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/granite/releases/tag/6.0.0"
-      },
-      {
-        "version": "5.5.0",
-        "release_date": "2020-07-01T16:27:01",
-        "title": "granite 5.5.0 Released",
-        "body": "<p>New Style Constants:</p>\n<ul>\n<li>STYLE_CLASS_COLOR_BUTTON</li>\n<li>STYLE_CLASS_ROUNDED</li>\n</ul>\n<p>Deprecations:</p>\n<ul>\n<li>Several theming utilities. Use Gtk.CssProvider and Gtk.StyleContext instead</li>\n<li>Granite.Services.SimpleCommand. Use GLib.AppInfo.create_from_commandline instead</li>\n<li>Old unused utilities like get_button_layout_schema, get_default_close_button_position, and Granite.Services.Paths</li>\n<li>Old unused widgets like CollapsiblePaned and CompositedWindow</li>\n</ul>\n<p>Other Changes:</p>\n<ul>\n<li>Granite.SourceList now gets Gtk.STYLE_CLASS_SIDEBAR by default</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/granite/releases/tag/5.5.0"
-      },
-      {
-        "version": "5.4.0",
-        "release_date": "2020-04-29T22:16:12",
-        "title": "granite 5.4.0 Released",
-        "body": "<p>New features:</p>\n<ul>\n<li>New Settings class to share Pantheon desktop settings with apps</li>\n<li>Introduced Settings.prefers_color_scheme to get a user's color scheme preference, i.e. for a dark style</li>\n</ul>\n<p>Deprecations:</p>\n<ul>\n<li>It is now recommended to use GLib.Settings instead of Granite.Services.Settings</li>\n</ul>\n",
-        "href": "https://github.com/elementary/granite/releases/tag/5.4.0"
-      },
-      {
-        "version": "5.3.1",
-        "release_date": "2020-04-02T00:21:23",
-        "title": "granite 5.3.1 Released",
-        "body": "granite 5.3.1 is out! \n\n<p>Improvements:</p>\n<ul>\n<li>Better align labels in settings sidebars</li>\n<li>Make AccelLabel.label settable</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/granite/releases/tag/5.3.1"
-      },
-      {
-        "version": "5.3.0",
-        "release_date": "2019-12-13T19:42:03",
-        "title": "granite 5.3.0 Released",
-        "body": "granite 5.3.0 is out! \r\n\r\n<p>New features:</p>\r\n<ul>\r\n<li>Add tooltips to source list items and their actions</li>\r\n<li>New AccelLabel widget for use in menus and popovers</li>\r\n</ul>\r\n<p>Improvements:</p>\r\n<ul>\r\n<li>Delay tab resizing when closing tabs</li>\r\n<li>Updated translations</li>\r\n</ul>\r\n",
-        "href": "https://github.com/elementary/granite/releases/tag/5.3.0"
-      },
-      {
-        "version": "5.2.5",
-        "release_date": "2019-09-05T23:49:51",
-        "title": "Granite 5.2.5 Released",
-        "body": "Granite 5.2.5 is out!\r\n\r\nChanges:\r\n* meson: fix shared library path\r\n* Utils: Add equal keys to accel_to_string\r\n* Provide Badge and Progress support for an Application using same DBus API as libunity\r\n* DynamicNotebook: support `Close Tabs to the Right`\r\n* DynamicNotebook: don\u2019t re-open closed tabs while rapidly closing tabs\r\n* Updated translations",
-        "href": "https://github.com/elementary/granite/releases/tag/5.2.5"
-      },
-      {
-        "version": "5.2.4",
-        "release_date": "2019-07-06T19:40:55",
-        "title": "Granite 5.2.4 Released",
-        "body": "Granite 5.2.4 is out!\r\n\r\nChanges:\r\n* Deprecate IconFactory\r\n* System: deprecate utilies provided by GLib\r\n* Utils: Add more keys to `accel-to-string` (Left and Right Alt, Left and Right Shift)\r\n* MessageDialog: Add the ability to set icon badges\r\n* Revert from custom Wingpanel DateTime settings schema (`io.elementary.desktop.wingpanel.datetime`) to GNOME (`org.gnome.desktop.interface`)\r\n* SimpleSettingsPage: make title and description selectable\r\n* Updated translations",
-        "href": "https://github.com/elementary/granite/releases/tag/5.2.4"
-      },
-      {
-        "version": "5.2.3",
-        "release_date": "2019-02-14T21:36:29",
-        "title": "Granite 5.2.3 Released",
-        "body": "Granite 5.2.3 is out!\r\n\r\nChanges:\r\n* Switch from CMake to Meson build system\r\n* DateTime: Strip leading spaces from time formats\r\n* Support Gdk.Key.Return for Enter markup\r\n* MessageDialog: Add show_error_expander method\r\n* Add function `history_is_enabled`\r\n* Fix typos in documentation\r\n* TimePicker: Use more compact boolean comparison syntax\r\n* Updated translations",
-        "href": "https://github.com/elementary/granite/releases/tag/5.2.3"
-      },
-      {
-        "version": "5.2.2",
-        "release_date": "2018-12-17T13:02:11",
-        "title": "Granite 5.2.2 Released",
-        "body": "Granite 5.2.2 is out!\r\n\r\nChanges:\r\n* Utils: Ignore empty accel strings\r\n* Updated translations",
-        "href": "https://github.com/elementary/granite/releases/tag/5.2.2"
-      },
-      {
-        "version": "5.2.1",
-        "release_date": "2018-11-07T19:18:54",
-        "title": "Granite 5.2.1 Released",
-        "body": "Granite 5.2.1 is out!\r\n\r\nChanges:\r\n* Utils: Make accels optional\r\n* Updated translations",
-        "href": "https://github.com/elementary/granite/releases/tag/5.2.1"
-      },
-      {
-        "version": "5.2.0",
-        "release_date": "2018-11-01T20:50:16",
-        "title": "Granite 5.2.0 Released",
-        "body": "Granite 5.2.0 is out!\r\n\r\nChanges:\r\n* Added `Granite.STYLE_CLASS_CHECKERBOARD`\r\n* Added Accel utilities:\r\n  * `accel_to_string`, takes something like \"<Super>Right\" and returns \"\u2318 + \u2192\"\r\n  * `markup_accel_tooltip`, takes a description and an accel string array and returns the markup for tooltips\r\n* DateTime: use `io.elementary.desktop.wingpanel.datetime` for settings instead of `org.gnome.desktop.interface`\r\n* Updated translations",
-        "href": "https://github.com/elementary/granite/releases/tag/5.2.0"
-      },
-      {
-        "version": "5.1.0",
-        "release_date": "2018-08-23T23:54:44",
-        "title": "Granite 5.1.0 Released",
-        "body": "Granite 5.1.0 is out!\r\n\r\nChanges:\r\n* Add Granite.ModeSwitch\r\n* Deprecate Granite.Application\r\n* SourceList: Don't propagate right click\r\n* DateTime: Add commas in date format\r\n* Improved translations",
-        "href": "https://github.com/elementary/granite/releases/tag/5.1.0"
-      },
-      {
-        "version": "5.0",
-        "release_date": "2018-06-05T07:59:34",
-        "title": "Granite 5.0 Released",
-        "body": "Granite 5.0 is out!\r\n\r\nThis list of issues closed by this release can be found [here](https://github.com/elementary/granite/issues?q=is%3Aclosed+milestone%3A5.0).",
-        "href": "https://github.com/elementary/granite/releases/tag/5.0"
-      },
-      {
-        "version": "0.5",
-        "release_date": "2017-11-02T03:08:51",
-        "title": "Granite 0.5 Released",
-        "body": "Granite 0.5 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/granite/issues?q=is%3Aclosed+milestone%3A0.5).",
-        "href": "https://github.com/elementary/granite/releases/tag/0.5"
-      },
-      {
-        "version": "0.4.1",
-        "release_date": "2017-05-07T02:08:52",
-        "title": "Granite 0.4.1 Released",
-        "body": "Granite 0.4.1 is out!\r\n\r\nA detailed change log is available [here](https://github.com/elementary/granite/milestone/1?closed=1)",
-        "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
-      }
-    ],
-    "new_commits": 52
-  },
-  {
     "name": "screenshot",
     "releases": [
       {
@@ -2628,117 +3106,6 @@
       }
     ],
     "new_commits": 4
-  },
-  {
-    "name": "stylesheet",
-    "releases": [
-      {
-        "version": "6.1.0",
-        "release_date": "2021-10-22T18:37:25",
-        "title": "Stylesheet 6.1.0 Released",
-        "body": "  <ul>\r\n    <li>Support for Hdy.Tabbar</li>\r\n    <li>Fix accent class for Gtk.Scale</li>\r\n    <li>Flat titlebars inherit background color for views and sidebars</li>\r\n  </ul>",
-        "href": "https://github.com/elementary/stylesheet/releases/tag/6.1.0"
-      },
-      {
-        "version": "6.0.0",
-        "release_date": "2021-07-15T22:08:57",
-        "title": "stylesheet 6.0.0 Released",
-        "body": "\n",
-        "href": "https://github.com/elementary/stylesheet/releases/tag/6.0.0"
-      },
-      {
-        "version": "5.4.2",
-        "release_date": "2020-02-29T20:13:32",
-        "title": "stylesheet 5.4.2 Released",
-        "body": "stylesheet 5.4.2 is out! \n\n\n",
-        "href": "https://github.com/elementary/stylesheet/releases/tag/5.4.2"
-      },
-      {
-        "version": "5.4.1",
-        "release_date": "2020-01-21T18:43:35",
-        "title": "stylesheet 5.4.1 Released",
-        "body": "stylesheet 5.4.1 is out! \n\n\n",
-        "href": "https://github.com/elementary/stylesheet/releases/tag/5.4.1"
-      },
-      {
-        "version": "5.4.0",
-        "release_date": "2019-12-23T21:07:44",
-        "title": "stylesheet 5.4.0 Released",
-        "body": "stylesheet 5.4.0 is out! \n\n<p>New features:</p>\n<ul>\n<li>New `.small-label` class for consistent sizing without using Pango</li>\n</ul>\n<p>Other changes:</p>\n<ul>\n<li>Drop obsolete panel styles</li>\n<li>Fix spacing of labels inside of modelbuttons</li>\n<li>Allow symbolic icons in inline toolbars in sidebars</li>\n</ul>\n",
-        "href": "https://github.com/elementary/stylesheet/releases/tag/5.4.0"
-      },
-      {
-        "version": "5.3.0",
-        "release_date": "2019-11-01T20:06:42",
-        "title": "stylesheet 5.3.0 Released",
-        "body": "stylesheet 5.3.0 is out! \n\nChanges:\n\n* Fix unreadable keycaps text\n* More consistent popover shadows\n* Fix color for insensitive flat buttons in list rows\n* Remove duplicated and obsolete styles\n* Always set dock badge to red, regardless of accent color\n* Support wide separators\n* Improved scrollbars in WebKit web views\n* Improve window shadows for legacy-decorated apps\n* New (hidden) dark style for the dock\n",
-        "href": "https://github.com/elementary/stylesheet/releases/tag/5.3.0"
-      },
-      {
-        "version": "5.2.5",
-        "release_date": "2019-08-03T18:32:37",
-        "title": "elementary Gtk+ Stylesheet 5.2.5 Released",
-        "body": "elementary-theme 5.2.5 is out!\r\n\r\nChanges:\r\n* Various dark theme fixes\r\n* Add undershoot to popovers\r\n* Style keycaps in menus\r\n* Entry and SpinButton progress is now more subtle\r\n* Support Epiphany `floating-bar`",
-        "href": "https://github.com/elementary/stylesheet/releases/tag/5.2.5"
-      },
-      {
-        "version": "5.2.4",
-        "release_date": "2019-06-19T12:26:30",
-        "title": "elementary Gtk+ Stylesheet 5.2.4 Released",
-        "body": "elementary-theme 5.2.4 is out!\r\n\r\nChanges:\r\n* Increase Radio/Checkbutton contrast when using dark style\r\n* Fix popover submenu arrow styles\r\n* Disable transitions on check items\r\n* Fix inline notebook being 1px smaller when only one tab is open\r\n* Fix the color of insensitive buttons\r\n* Fix arrow direction in notebook header",
-        "href": "https://github.com/elementary/stylesheet/releases/tag/5.2.4"
-      },
-      {
-        "version": "5.2.3",
-        "release_date": "2019-04-18T09:04:41",
-        "title": "elementary Gtk+ Stylesheet 5.2.3 Released",
-        "body": "elementary-theme 5.2.3 is out!\r\n\r\nChanges:\r\n* Style destructive-action buttons in action bars\r\n* Use em font sizing in dialog label.primary\r\n* Added  support for progressbar.osd, as seen in GNOME Builder",
-        "href": "https://github.com/elementary/stylesheet/releases/tag/5.2.3"
-      },
-      {
-        "version": "5.2.2",
-        "release_date": "2019-02-28T00:29:54",
-        "title": "elementary Gtk+ Stylesheet 5.2.2 Released",
-        "body": "elementary-theme 5.2.2 is out!\r\n\r\nChanges:\r\n* More visible focus for dark entries\r\n* Update .seek-bar scale slider style\r\n* Shade switches with white overlay\r\n* Fix linked widgets in right-to-left\r\n* Don't set border or shadow on dark infobar close buttons\r\n* Naive raised support for headerbar buttons\r\n* Fix border for sidebar-row in dark style\r\n* Invert sidebar badge colors",
-        "href": "https://github.com/elementary/stylesheet/releases/tag/5.2.2"
-      },
-      {
-        "version": "5.2.1",
-        "release_date": "2018-12-18T09:19:47",
-        "title": "elementary Gtk+ Stylesheet 5.2.1 Released",
-        "body": "elementary-theme 5.2.1 is out!\r\n\r\nChanges:\r\n* Add styles for link psuedo classes\r\n* Fix notebook background\r\n* Add accent support to scales\r\n* Always use light switch sliders",
-        "href": "https://github.com/elementary/stylesheet/releases/tag/5.2.1"
-      },
-      {
-        "version": "5.2.0",
-        "release_date": "2018-10-16T05:25:46",
-        "title": "elementary Gtk+ Stylesheet 5.2.0 Released",
-        "body": "elementary-theme 5.2.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/stylesheet/issues?q=is%3Aclosed+milestone%3A5.2.0).",
-        "href": "https://github.com/elementary/stylesheet/releases/tag/5.2.0"
-      },
-      {
-        "version": "5.1.1",
-        "release_date": "2017-09-25T14:03:55",
-        "title": "elementary Gtk+ Stylesheet 5.1.1 Released",
-        "body": "New version of elementary-theme is out!\r\n\r\nThe issues closed by this release can be found [here](https://github.com/elementary/stylesheet/issues?q=is%3Aclosed+milestone%3A5.1.1).",
-        "href": "https://github.com/elementary/stylesheet/releases/tag/5.1.1"
-      },
-      {
-        "version": "5.1.0",
-        "release_date": "2017-08-10T19:30:52",
-        "title": "elementary Gtk+ Stylesheet 5.1.0 Released",
-        "body": "New version of elementary-theme is out!\r\n\r\nThe issues closed by this release can be found [here](https://github.com/elementary/stylesheet/milestone/3?closed=1).",
-        "href": "https://github.com/elementary/stylesheet/releases/tag/5.1.0"
-      },
-      {
-        "version": "5.0.4",
-        "release_date": "2017-04-03T19:52:39",
-        "title": "elementary Gtk+ Stylesheet 5.0.4 Released",
-        "body": "New version of elementary-theme is out!",
-        "href": "https://github.com/elementary/stylesheet/releases/tag/5.0.4"
-      }
-    ],
-    "new_commits": 22
   },
   {
     "name": "switchboard-plug-onlineaccounts",
@@ -3304,7 +3671,7 @@
         "href": "https://github.com/elementary/switchboard-plug-network/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 38
+    "new_commits": 39
   },
   {
     "name": "initial-setup",
@@ -4171,89 +4538,6 @@
     "new_commits": 53
   },
   {
-    "name": "switchboard-plug-pantheon-shell",
-    "releases": [
-      {
-        "version": "6.0.0",
-        "release_date": "2021-07-15T22:29:46",
-        "title": "switchboard-plug-pantheon-shell 6.0.0 Released",
-        "body": "<p>New features:</p>\n<ul>\n<li>Accent color and dark style options</li>\n<li>Dyslexia-friendly text preference to use the OpenDyslexia font system-wide</li>\n<li>Maximize and fullscreen workspace management options</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Fix a freeze after opening Power settings</li>\n<li>Improved filter for image file types when importing</li>\n<li>Visual updates</li>\n<li>Some options now appear in different tabs</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/6.0.0"
-      },
-      {
-        "version": "2.8.4",
-        "release_date": "2020-04-22T21:37:28",
-        "title": "switchboard-plug-pantheon-shell 2.8.4 Released",
-        "body": "<p>Illustrate Dock icon sizes</p>\n<p>Fix system wallpapers being copied</p>\n<p>Update search results</p>\n<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/2.8.4"
-      },
-      {
-        "version": "2.8.3",
-        "release_date": "2020-04-08T20:19:29",
-        "title": "switchboard-plug-pantheon-shell 2.8.3 Released",
-        "body": "<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/2.8.3"
-      },
-      {
-        "version": "2.8.2",
-        "release_date": "2019-11-15T22:18:40",
-        "title": "switchboard-plug-pantheon-shell 2.8.2 Released",
-        "body": "switchboard-plug-pantheon-shell 2.8.2 is out! \n\nChanges:\n\n* Fix issues with setting wallpapers on the Login and Lock screen\n* Updated translations\n",
-        "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/2.8.2"
-      },
-      {
-        "version": "2.8.1",
-        "release_date": "2019-03-27T11:34:07",
-        "title": "Switchboard Desktop Plug 2.8.1 Released",
-        "body": "switchboard-plug-pantheon-shell 2.8.1 is out!\r\n\r\nChanges:\r\n* Updated translations",
-        "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/2.8.1"
-      },
-      {
-        "version": "2.8.0",
-        "release_date": "2018-12-21T11:29:38",
-        "title": "Switchboard Desktop Plug 2.8.0 Released",
-        "body": "switchboard-plug-pantheon-shell 2.8.0 is out!\r\n\r\nChanges:\r\n* Appearance tab\r\n* Ignore all wallpaper symlinks\r\n* Updated translations",
-        "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/2.8.0"
-      },
-      {
-        "version": "2.7.2",
-        "release_date": "2018-11-28T13:34:36",
-        "title": "Switchboard Desktop Plug 2.7.2 Released",
-        "body": "switchboard-plug-pantheon-shell 2.7.2 is out!\r\n\r\nChanges:\r\n* Scan sub-directories for wallpapers\r\n* Updated translations",
-        "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/2.7.2"
-      },
-      {
-        "version": "2.7.1",
-        "release_date": "2018-10-16T00:20:01",
-        "title": "Switchboard Desktop Plug 2.7.1 Released",
-        "body": "switchboard-plug-pantheon-shell 2.7.1 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-pantheon-shell/issues?q=is%3Aclosed+milestone%3A2.7.1).",
-        "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/2.7.1"
-      },
-      {
-        "version": "0.2.7",
-        "release_date": "2018-06-08T16:48:34",
-        "title": "Switchboard Desktop Plug 0.2.7 Released",
-        "body": "switchboard-plug-pantheon-shell 0.2.7 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-pantheon-shell/issues?q=is%3Aclosed+milestone%3A0.2.7).",
-        "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/0.2.7"
-      },
-      {
-        "version": "0.2.6",
-        "release_date": "2017-06-14T23:02:26",
-        "title": "Switchboard Desktop Plug 0.2.6 Released",
-        "body": "switchboard-plug-pantheon-shell 0.2.6 is out!",
-        "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/0.2.6"
-      },
-      {
-        "version": "switchboard-plug-pantheon-shell-0.2.5",
-        "release_date": "2017-04-15T05:25:53",
-        "title": "Switchboard Desktop Plug 0.2.5 Released",
-        "body": "switchboard-plug-pantheon-shell 0.2.5 is out!",
-        "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
-      }
-    ],
-    "new_commits": 120
-  },
-  {
     "name": "switchboard-plug-datetime",
     "releases": [
       {
@@ -4321,124 +4605,6 @@
       }
     ],
     "new_commits": 41
-  },
-  {
-    "name": "icons",
-    "releases": [
-      {
-        "version": "6.0.0",
-        "release_date": "2021-07-15T22:11:47",
-        "title": "icons 6.0.0 Released",
-        "body": "<p>Updated families:</p>\n<ul>\n<li>Improved consistency between arrow shapes</li>\n<li>Improved appearance of color icons against dark backgrounds</li>\n<li>More gender-nuetral people icons</li>\n<li>Rounded media controls</li>\n<li>Rounded lightening bolt shape</li>\n<li>More colorful battery icons</li>\n</ul>\n<p>Additions:</p>\n<ul>\n<li>align-*</li>\n<li>color-picker</li>\n<li>distribute-*</li>\n<li>draw-calligraphic</li>\n<li>office-database-new</li>\n<li>tools-spray</li>\n<li>application-content-*</li>\n<li>thunderbolt devices</li>\n<li>video-display-tv</li>\n<li>symbolic headphones</li>\n<li>application-certificate</li>\n<li>application-json</li>\n<li>office-task-symbolic</li>\n<li>status emblems</li>\n<li>emblem-git-*</li>\n</ul>\n<p>Removals:</p>\n<ul>\n<li>accessories-camera</li>\n<li>accessories-screenshot</li>\n<li>audio-speaker-testing</li>\n<li>edit-undo-archive</li>\n<li>internet-mail</li>\n<li>internet-news-reader</li>\n<li>multimedia-audio-player</li>\n<li>notification bell animations</li>\n<li>nm-*</li>\n<li>ubiquity</li>\n</ul>\n",
-        "href": "https://github.com/elementary/icons/releases/tag/6.0.0"
-      },
-      {
-        "version": "5.3.1",
-        "release_date": "2020-05-06T18:10:20",
-        "title": "icons 5.3.1 Released",
-        "body": "<p>Minor updates</p>\n<ul>\n<li>Update emoji names for emoji picker in elementary OS 6 and latest GTK</li>\n<li>Replace Inkscape with rsvg for building cursors</li>\n</ul>\n",
-        "href": "https://github.com/elementary/icons/releases/tag/5.3.1"
-      },
-      {
-        "version": "5.3.0",
-        "release_date": "2020-05-01T05:35:02",
-        "title": "icons 5.3.0 Released",
-        "body": "<p>New Palette Colors:</p>\n<ul>\n<li>Add Bubblegum and Mint to official palette</li>\n<li>Updated all eraser icons to use Bubblegum palette</li>\n<li>Updated \"path\" icons to use Mint palette</li>\n<li>Updated all pencil icons to use Banana palette</li>\n</ul>\n<p>New Icons:</p>\n<ul>\n<li>Add \"software-update-urgent\"</li>\n<li>Add \"sync-synchronizing\"</li>\n</ul>\n<p>Scaled Icon Sizes:</p>\n<ul>\n<li>Add 24px \"window-close-symbolic\"</li>\n<li>Add 48px preferences icons</li>\n</ul>\n",
-        "href": "https://github.com/elementary/icons/releases/tag/5.3.0"
-      },
-      {
-        "version": "5.2.0",
-        "release_date": "2020-01-08T21:23:48",
-        "title": "icons 5.2.0 Released",
-        "body": "icons 5.2.0 is out! \n\n<ul>\n<li>Provide large cursors</li>\n<li>Fix alignment of several cursors</li>\n<li>Use palette colors in copy cursors</li>\n<li>Fix direction of the ban symbol cursor and use red</li>\n<li>Add \"All Scroll\", \"No Drop\", \"Vertical Text\", and \"Zoom\" cursors</li>\n</ul>\n",
-        "href": "https://github.com/elementary/icons/releases/tag/5.2.0"
-      },
-      {
-        "version": "5.1.0",
-        "release_date": "2019-10-31T22:54:07",
-        "title": "icons 5.1.0 Released",
-        "body": "icons 5.1.0 is out! \n\nChanges:\n\n* Add 64px prefs locale\n* Make symbol on 32px places home larger\n* New icons for Workspace preferences\n* Add symbolic variant for updates icon\n* Give browser-download its own unique icon\n* Use a more scalable metaphor for system updates\n* New view-reader icon\n* Add 32px wireless signal icons\n* Add 24px user status icons\n",
-        "href": "https://github.com/elementary/icons/releases/tag/5.1.0"
-      },
-      {
-        "version": "5.0.4",
-        "release_date": "2019-07-12T14:19:54",
-        "title": "elementary Icons 5.0.4",
-        "body": "elementary-icon-theme 5.0.4 is out!\r\n\r\nChanges:\r\n* Redesigned wired networking icons\r\n* Simplified `image-missing`\r\n* Re-shaped `system-software-update`\r\n* Scaled `process-completed` to 64px\r\n* Scaled `find-location` to 64px\r\n* Added new icons:\r\n  * `preferences-system-privacy-housekeeping`\r\n  * `media-memory-symbolic`\r\n  * `mail-forwarded-symbolic`\r\n  * `application-x-firmware-symbolic`\r\n  * `computer-laptop-symbolic`\r\n  * `location-active-symbolic`\r\n  * `location-inactive-symbolic`\r\n  * `location-disabled-symbolic`\r\n  * 64px `night-light`\r\n  * 48px `image-crop`\r\n  * 48px `mail-send`",
-        "href": "https://github.com/elementary/icons/releases/tag/5.0.4"
-      },
-      {
-        "version": "5.0.3",
-        "release_date": "2019-02-11T21:38:22",
-        "title": "elementary Icons 5.0.3 Released",
-        "body": "elementary-icon-theme 5.0.3 is out!\r\n\r\nChanges:\r\n\r\n* Redesigned weather icons\r\n* New and redesigned `mail-mark-*`\r\n* Refined align actions\r\n* Adjust contrast of `selection-*-symbolic`\r\n* Added new icons:\r\n  * `drive-harddisk-solidstate`\r\n  * `input-keyboard-numlock-symbolic`\r\n  * 16px `night-light-*`\r\n  * Added and redesigned `path-*`\r\n  * 32px `input-touchpad`\r\n  * `microphone-sensitivity-muted-*` animation\r\n  * `application-x-generic`\r\n  * Added and redesigned `object-group`",
-        "href": "https://github.com/elementary/icons/releases/tag/5.0.3"
-      },
-      {
-        "version": "5.0.2",
-        "release_date": "2018-12-29T03:33:12",
-        "title": "elementary Icons 5.0.2 Released",
-        "body": "elementary-icon-theme 5.0.2 is out!\r\n\r\nChanges:\r\n* New palette colors for `edit-flag`\r\n* Add `user-desktop-open` as symlink to `folder-open`",
-        "href": "https://github.com/elementary/icons/releases/tag/5.0.2"
-      },
-      {
-        "version": "5.0.1",
-        "release_date": "2018-12-06T16:53:16",
-        "title": "elementary Icons 5.0.1 Released",
-        "body": "elementary-icon-theme 5.0.1 is out!\r\n\r\nChanges:\r\n* `phone` icons redesigned\r\n* Appointment icon family are more consistent\r\n* Disabled icons are more consistent\r\n* Symbolic apps/multimedia match color and scale\r\n* Added new icons:\r\n  * `playlist-symbolic`\r\n  * `playlist-queue-symbolic`\r\n  * `internet-chat-symbolic`\r\n  * `input-keyboard-capslock-symbolic`\r\n  * `mail-send-symbolic-rtl`\r\n  * `preferences-system-notifications-rtl`\r\n  * `preferences-system-notifications-rtl`\r\n  * `audio-headphones` and `audio-headset`\r\n  * `computer-convertible`",
-        "href": "https://github.com/elementary/icons/releases/tag/5.0.1"
-      },
-      {
-        "version": "5.0",
-        "release_date": "2018-10-16T05:18:18",
-        "title": "elementary Icons 5.0 Released",
-        "body": "elementary-icon-theme 5.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/icons/issues?q=is%3Aclosed+milestone%3A5.0).",
-        "href": "https://github.com/elementary/icons/releases/tag/5.0"
-      },
-      {
-        "version": "4.3.1",
-        "release_date": "2017-10-23T17:52:41",
-        "title": "elementary Icons 4.3.1 Released",
-        "body": "elementary-icon-theme 4.3.1 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/icons/issues?q=is%3Aclosed+milestone%3A4.3.1).",
-        "href": "https://github.com/elementary/icons/releases/tag/4.3.1"
-      },
-      {
-        "version": "4.3.0",
-        "release_date": "2017-09-26T16:36:28",
-        "title": "elementary Icons 4.3.0 Released",
-        "body": "elementary-icon-theme 4.3.0 is out!\r\n\r\nThe list of issues closed for this release can be found [here](https://github.com/elementary/icons/issues?q=is%3Aclosed+milestone%3A4.3.0).",
-        "href": "https://github.com/elementary/icons/releases/tag/4.3.0"
-      },
-      {
-        "version": "4.2.0",
-        "release_date": "2017-07-19T16:50:09",
-        "title": "elementary Icons 4.2.0 Released",
-        "body": "elementary-icon-theme 4.2.0 is out!\r\n\r\nThe list of issues closed for this release can be found [here](https://github.com/elementary/icons/milestone/3?closed=1).",
-        "href": "https://github.com/elementary/icons/releases/tag/4.2.0"
-      },
-      {
-        "version": "4.1.0",
-        "release_date": "2017-05-15T03:27:34",
-        "title": "elementary Icons 4.1.0 Released",
-        "body": "elementary-icon-theme 4.1.0 is out!",
-        "href": "https://github.com/elementary/icons/releases/tag/4.1.0"
-      },
-      {
-        "version": "4.0.3",
-        "release_date": "2017-03-18T17:07:48",
-        "title": "",
-        "body": "",
-        "href": "https://github.com/elementary/icons/releases/tag/4.0.3"
-      },
-      {
-        "version": "4.0.1.1",
-        "release_date": "2016-10-25T19:46:00",
-        "title": "",
-        "body": "",
-        "href": "https://github.com/elementary/icons/releases/tag/4.0.1.1"
-      }
-    ],
-    "new_commits": 140
   },
   {
     "name": "terminal",
@@ -4571,68 +4737,6 @@
       }
     ],
     "new_commits": 126
-  },
-  {
-    "name": "switchboard-plug-security-privacy",
-    "releases": [
-      {
-        "version": "2.2.5",
-        "release_date": "2021-07-14T22:02:36",
-        "title": "switchboard-plug-security-privacy 2.2.5 Released",
-        "body": "<ul>\n<li>Translation updates</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-security-privacy/releases/tag/2.2.5"
-      },
-      {
-        "version": "2.2.4",
-        "release_date": "2020-05-25T18:11:21",
-        "title": "switchboard-plug-security-privacy 2.2.4 Released",
-        "body": "<ul>\n<li>Translation updates</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-security-privacy/releases/tag/2.2.4"
-      },
-      {
-        "version": "2.2.3",
-        "release_date": "2020-04-08T20:06:40",
-        "title": "switchboard-plug-security-privacy 2.2.3 Released",
-        "body": "<ul>\n<li>Translation updates</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-security-privacy/releases/tag/2.2.3"
-      },
-      {
-        "version": "2.2.2",
-        "release_date": "2019-10-29T22:10:13",
-        "title": "switchboard-plug-security-privacy 2.2.2 Released",
-        "body": "switchboard-plug-security-privacy 2.2.2 is out! \n\nChanges:\n\n* Redesigned \"Housekeeping\" page\n* Translation updates\n",
-        "href": "https://github.com/elementary/switchboard-plug-security-privacy/releases/tag/2.2.2"
-      },
-      {
-        "version": "2.2.1",
-        "release_date": "2019-03-15T19:26:59",
-        "title": "Switchboard Security & Privacy Plug 2.2.1 Released",
-        "body": "switchboard-plug-security-privacy 2.2.1 is out!\r\n\r\nChanges:\r\n* Search keyword improvements\r\n* Updated translations",
-        "href": "https://github.com/elementary/switchboard-plug-security-privacy/releases/tag/2.2.1"
-      },
-      {
-        "version": "2.2.0",
-        "release_date": "2018-10-16T02:10:58",
-        "title": "Switchboard Security & Privacy Plug 2.2.0 Released",
-        "body": "switchboard-plug-security-privacy 2.2.0 is out!\r\n\r\nChanges:\r\n* Housekeeping panel for temporary file management\r\n* Updated translations\r\n",
-        "href": "https://github.com/elementary/switchboard-plug-security-privacy/releases/tag/2.2.0"
-      },
-      {
-        "version": "0.1.3",
-        "release_date": "2018-06-19T07:30:52",
-        "title": "Switchboard Security & Privacy Plug 0.1.3 Released",
-        "body": "switchboard-plug-security-privacy 0.1.3 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-security-privacy/issues?q=is%3Aclosed+milestone%3A0.1.3).",
-        "href": "https://github.com/elementary/switchboard-plug-security-privacy/releases/tag/0.1.3"
-      },
-      {
-        "version": "0.1.2",
-        "release_date": "2017-05-22T19:20:44",
-        "title": "Switchboard Security & Privacy Plug 0.1.2 Released",
-        "body": "switchboard-plug-security-privacy 0.1.2 is out!",
-        "href": "https://github.com/elementary/switchboard-plug-security-privacy/releases/tag/0.1.2"
-      }
-    ],
-    "new_commits": 68
   },
   {
     "name": "switchboard-plug-parental-controls",
@@ -4777,54 +4881,6 @@
       }
     ],
     "new_commits": 50
-  },
-  {
-    "name": "onboarding",
-    "releases": [
-      {
-        "version": "6.0.0",
-        "release_date": "2021-07-14T19:19:34",
-        "title": "onboarding 6.0.0 Released",
-        "body": "<ul>\n<li>Add style view</li>\n<li>Add Online Accounts view</li>\n<li>Remove location services view</li>\n<li>Mention Sideload and Flathub</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/onboarding/releases/tag/6.0.0"
-      },
-      {
-        "version": "1.2.1",
-        "release_date": "2020-05-28T18:55:07",
-        "title": "onboarding 1.2.1 Released",
-        "body": "<ul>\n<li>Fix blurry icon in AppCenter</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/onboarding/releases/tag/1.2.1"
-      },
-      {
-        "version": "1.2.0",
-        "release_date": "2020-04-01T23:56:45",
-        "title": "onboarding 1.2.0 Released",
-        "body": "onboarding 1.2.0 is out! \n\n<ul>\n<li>New app icon</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/onboarding/releases/tag/1.2.0"
-      },
-      {
-        "version": "1.1.0",
-        "release_date": "2019-11-15T20:55:45",
-        "title": "onboarding 1.1.0 Released",
-        "body": "onboarding 1.1.0 is out! \n\nChanges:\n\n* Navigate with (multi-)touch gestures\n* Use new blog URL\n* Fix errors when pressing the Skip button\n* Updated translations\n",
-        "href": "https://github.com/elementary/onboarding/releases/tag/1.1.0"
-      },
-      {
-        "version": "1.0.1",
-        "release_date": "2019-08-24T04:40:22",
-        "title": "Onboarding 1.0.1 Released",
-        "body": "Onboarding 1.0.1 is out!\r\n\r\nChanges:\r\n* Avoid crash if missing `io.elementary.desktop.agent-geoclue2` schema\r\n* Updated translations",
-        "href": "https://github.com/elementary/onboarding/releases/tag/1.0.1"
-      },
-      {
-        "version": "1.0",
-        "release_date": "2019-07-10T15:07:37",
-        "title": "Onboarding 1.0 Released",
-        "body": "Onboarding 1.0 is out!\r\n\r\nThis is the initial release.",
-        "href": "https://github.com/elementary/onboarding/releases/tag/1.0"
-      }
-    ],
-    "new_commits": 181
   },
   {
     "name": "pantheon-agent-polkit",
