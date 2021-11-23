@@ -967,7 +967,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 83
+    "new_commits": 84
   },
   {
     "name": "portals",
@@ -2392,7 +2392,7 @@
         "href": "https://github.com/elementary/stylesheet/releases/tag/5.0.4"
       }
     ],
-    "new_commits": 5
+    "new_commits": 10
   },
   {
     "name": "gala",
@@ -4299,7 +4299,7 @@
         "href": "https://github.com/elementary/icons/releases/tag/4.0.1.1"
       }
     ],
-    "new_commits": 14
+    "new_commits": 15
   },
   {
     "name": "terminal",
