@@ -1,12 +1,88 @@
 [
   {
+    "name": "wingpanel-indicator-network",
+    "releases": [
+      {
+        "version": "2.3.2",
+        "release_date": "2021-11-23T17:49:27",
+        "title": "wingpanel-indicator-network 2.3.2 Released",
+        "body": "<p>Fixes:</p>\n<ul>\n<li>Prevent blank lines in VPN list</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.3.2"
+      },
+      {
+        "version": "2.3.1",
+        "release_date": "2021-10-24T19:35:27",
+        "title": "Network Indicator 2.3.1 Released",
+        "body": "<p>Fixes:</p>\r\n<ul>\r\n<li>Don't launch Captive Network Assistent with full connectivity</li>\r\n</ul>\r\n<p>Minor updates:</p>\r\n<ul>\r\n<li>Updated translations</li>\r\n</ul>",
+        "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.3.1"
+      },
+      {
+        "version": "2.3.0",
+        "release_date": "2021-07-14T21:21:58",
+        "title": "wingpanel-indicator-network 2.3.0 Released",
+        "body": "<p>Fixes:</p>\n<ul>\n<li>Fix VPN spinning after connecting</li>\n<li>Improve detecting network encryption type</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Ellipsize long network names</li>\n<li>Show tooltip on hover</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.3.0"
+      },
+      {
+        "version": "2.2.4",
+        "release_date": "2020-05-28T22:52:44",
+        "title": "wingpanel-indicator-network 2.2.4 Released",
+        "body": "<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.2.4"
+      },
+      {
+        "version": "2.2.3",
+        "release_date": "2020-03-27T21:14:48",
+        "title": "wingpanel-indicator-network 2.2.3 Released",
+        "body": "wingpanel-indicator-network 2.2.3 is out! \n\n<p>Prevent panel icon from showing in the dock</p>\n<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.2.3"
+      },
+      {
+        "version": "2.2.2",
+        "release_date": "2019-01-25T13:33:58",
+        "title": "Wingpanel Network Indicator 2.2.2 Released",
+        "body": "wingpanel-indicator-network 2.2.2 is out!\r\n\r\nChanges:\r\n* Set wireless-offline icon for failed wifi connection case\r\n* Update libnm VAPI\r\n* Updated translations",
+        "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.2.2"
+      },
+      {
+        "version": "2.2.1",
+        "release_date": "2018-10-03T08:03:51",
+        "title": "Wingpanel Network Indicator 2.2.1 Released",
+        "body": "wingpanel-indicator-network 2.2.1 is out!\r\n\r\nChanges:\r\n* SSID comparison fix\r\n* Updated translations",
+        "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.2.1"
+      },
+      {
+        "version": "2.2.0",
+        "release_date": "2018-06-07T09:24:46",
+        "title": "Wingpanel Network Indicator 2.2.0 Released",
+        "body": "wingpanel-indicator-network 2.2.0 is out!\r\n\r\nThe list off issues closed by this release can be found [here](https://github.com/elementary/wingpanel-indicator-network/issues?q=is%3Aclosed+milestone%3A2.2.0).",
+        "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.2.0"
+      },
+      {
+        "version": "2.1.1",
+        "release_date": "2017-09-18T17:10:45",
+        "title": "Wingpanel Network Indicator 2.1.1 Released",
+        "body": "wingpanel-indicator-network 2.1.1 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/wingpanel-indicator-network/issues?q=is%3Aclosed+milestone%3A2.1.1).",
+        "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.1.1"
+      },
+      {
+        "version": "2.1.0",
+        "release_date": "2017-09-12T02:25:19",
+        "title": "Wingpanel Network Indicator 2.1.0 Released",
+        "body": "wingpanel-indicator-network 2.1.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/wingpanel-indicator-network/milestone/2?closed=1).",
+        "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.1.0"
+      }
+    ],
+    "new_commits": 0
+  },
+  {
     "name": "switchboard-plug-keyboard",
     "releases": [
       {
         "version": "2.6.0",
         "release_date": "2021-11-23T17:15:11",
         "title": "switchboard-plug-keyboard 2.6.0 Released",
-        "body": "<p>New features:</p>\n<ul>\n<li>Redesigned custom shortcuts view</li>\n<li>On-screen keyboard switch in Layouts tab</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li/>\n<li>Updated translations</li>\n</ul>\n",
+        "body": "<p>New features:</p>\r\n<ul>\r\n<li>Redesigned custom shortcuts view</li>\r\n<li>On-screen keyboard switch in Layouts tab</li>\r\n</ul>\r\n<p>Minor updates:</p>\r\n<ul>\r\n<li>Updated translations</li>\r\n</ul>\r\n",
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.6.0"
       },
       {
@@ -64,6 +140,103 @@
         "title": "Switchboard Keyboard Plug 0.3.3 Released",
         "body": "switchboard-plug-keyboard 0.3.3 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-keyboard/issues?q=is%3Aclosed+milestone%3A0.3.3).",
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
+      }
+    ],
+    "new_commits": 0
+  },
+  {
+    "name": "switchboard-plug-sound",
+    "releases": [
+      {
+        "version": "2.3.0",
+        "release_date": "2021-11-23T17:14:56",
+        "title": "switchboard-plug-sound 2.3.0 Released",
+        "body": "<p>New features:</p>\n<ul>\n<li>Show device icons</li>\n<li>Switch to enable the screen reader</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/2.3.0"
+      },
+      {
+        "version": "2.2.7",
+        "release_date": "2021-07-14T21:21:28",
+        "title": "switchboard-plug-sound 2.2.7 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/2.2.7"
+      },
+      {
+        "version": "2.2.6",
+        "release_date": "2021-01-05T22:03:37",
+        "title": "switchboard-plug-sound 2.2.6 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Smoother transition when navigating away from this view</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/2.2.6"
+      },
+      {
+        "version": "2.2.5",
+        "release_date": "2020-09-03T21:58:44",
+        "title": "switchboard-plug-sound 2.2.5 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Fix crash with PulseAudio's echo cancellation plugin</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/2.2.5"
+      },
+      {
+        "version": "2.2.4",
+        "release_date": "2020-05-28T18:48:59",
+        "title": "switchboard-plug-sound 2.2.4 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/2.2.4"
+      },
+      {
+        "version": "2.2.3",
+        "release_date": "2020-04-03T20:29:30",
+        "title": "switchboard-plug-sound 2.2.3 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/2.2.3"
+      },
+      {
+        "version": "2.2.2",
+        "release_date": "2019-11-15T23:01:23",
+        "title": "switchboard-plug-sound 2.2.2 Released",
+        "body": "switchboard-plug-sound 2.2.2 is out! \n\nChanges:\n\n* Add volume slider event sound\n* Updated translations\n",
+        "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/2.2.2"
+      },
+      {
+        "version": "2.2.1",
+        "release_date": "2019-04-08T18:36:47",
+        "title": "Switchboard Sound Plug 2.2.1",
+        "body": "switchboard-plug-sound 2.2.1 is out!\r\n\r\nChanges:\r\n* Fix crash affecting some devices such as HTC Vive\r\n* Updated translations",
+        "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/2.2.1"
+      },
+      {
+        "version": "2.2.0",
+        "release_date": "2019-03-28T10:11:52",
+        "title": "Switchboard Sound Plug 2.2.0",
+        "body": "switchboard-plug-sound 2.2.0 is out!\r\n\r\nChanges:\r\n* Major overhaul of Output Devices logic, increasing available devices (such as HDMI) and no longer burying devices under \"Ports\"\r\n* Updated translations",
+        "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/2.2.0"
+      },
+      {
+        "version": "2.1.3",
+        "release_date": "2019-01-08T13:44:35",
+        "title": "Switchboard Plug Sound 2.1.3",
+        "body": "switchboard-plug-sound 2.1.3 is out!\r\n\r\nChanges:\r\n* Expand event controls\r\n* Vala build fixes\r\n* Updated translations",
+        "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/2.1.3"
+      },
+      {
+        "version": "2.1.2",
+        "release_date": "2018-10-15T20:46:08",
+        "title": "Switchboard Sound Plug 2.1.2",
+        "body": "switchboard-plug-sound 2.1.2 is out!\r\n\r\nChanges:\r\n* Fix microphone input level is not alignment\r\n* Update translations\r\n* Enable clicking on whole row to select device\r\n* Correct display style of balance slider\r\n* Build fixes",
+        "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/2.1.2"
+      },
+      {
+        "version": "0.1.1",
+        "release_date": "2018-08-27T09:53:59",
+        "title": "Switchboard Sound Plug 0.1.1 Released",
+        "body": "switchboard-plug-sound 0.1.1 is out!\r\n\r\nChanges:\r\n* System sounds enable/disable control\r\n* Improved translations",
+        "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/0.1.1"
+      },
+      {
+        "version": "0.1",
+        "release_date": "2018-06-08T16:09:23",
+        "title": "Switchboard Sound Plug 0.1 Released",
+        "body": "switchboard-plug-sound 0.1 is out!\r\n\r\nThis is the initial release.",
+        "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/0.1"
       }
     ],
     "new_commits": 0
@@ -466,7 +639,7 @@
         "href": "https://github.com/elementary/capnet-assist/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 9
+    "new_commits": 10
   },
   {
     "name": "wingpanel-indicator-datetime",
@@ -792,7 +965,7 @@
         "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.0"
       }
     ],
-    "new_commits": 7
+    "new_commits": 8
   },
   {
     "name": "appcenter",
@@ -2178,7 +2351,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 51
+    "new_commits": 52
   },
   {
     "name": "screenshot",
@@ -2281,76 +2454,7 @@
         "href": "https://github.com/elementary/settings-daemon/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 3
-  },
-  {
-    "name": "wingpanel-indicator-network",
-    "releases": [
-      {
-        "version": "2.3.1",
-        "release_date": "2021-10-24T19:35:27",
-        "title": "Network Indicator 2.3.1 Released",
-        "body": "<p>Fixes:</p>\r\n<ul>\r\n<li>Don't launch Captive Network Assistent with full connectivity</li>\r\n</ul>\r\n<p>Minor updates:</p>\r\n<ul>\r\n<li>Updated translations</li>\r\n</ul>",
-        "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.3.1"
-      },
-      {
-        "version": "2.3.0",
-        "release_date": "2021-07-14T21:21:58",
-        "title": "wingpanel-indicator-network 2.3.0 Released",
-        "body": "<p>Fixes:</p>\n<ul>\n<li>Fix VPN spinning after connecting</li>\n<li>Improve detecting network encryption type</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Ellipsize long network names</li>\n<li>Show tooltip on hover</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.3.0"
-      },
-      {
-        "version": "2.2.4",
-        "release_date": "2020-05-28T22:52:44",
-        "title": "wingpanel-indicator-network 2.2.4 Released",
-        "body": "<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.2.4"
-      },
-      {
-        "version": "2.2.3",
-        "release_date": "2020-03-27T21:14:48",
-        "title": "wingpanel-indicator-network 2.2.3 Released",
-        "body": "wingpanel-indicator-network 2.2.3 is out! \n\n<p>Prevent panel icon from showing in the dock</p>\n<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.2.3"
-      },
-      {
-        "version": "2.2.2",
-        "release_date": "2019-01-25T13:33:58",
-        "title": "Wingpanel Network Indicator 2.2.2 Released",
-        "body": "wingpanel-indicator-network 2.2.2 is out!\r\n\r\nChanges:\r\n* Set wireless-offline icon for failed wifi connection case\r\n* Update libnm VAPI\r\n* Updated translations",
-        "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.2.2"
-      },
-      {
-        "version": "2.2.1",
-        "release_date": "2018-10-03T08:03:51",
-        "title": "Wingpanel Network Indicator 2.2.1 Released",
-        "body": "wingpanel-indicator-network 2.2.1 is out!\r\n\r\nChanges:\r\n* SSID comparison fix\r\n* Updated translations",
-        "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.2.1"
-      },
-      {
-        "version": "2.2.0",
-        "release_date": "2018-06-07T09:24:46",
-        "title": "Wingpanel Network Indicator 2.2.0 Released",
-        "body": "wingpanel-indicator-network 2.2.0 is out!\r\n\r\nThe list off issues closed by this release can be found [here](https://github.com/elementary/wingpanel-indicator-network/issues?q=is%3Aclosed+milestone%3A2.2.0).",
-        "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.2.0"
-      },
-      {
-        "version": "2.1.1",
-        "release_date": "2017-09-18T17:10:45",
-        "title": "Wingpanel Network Indicator 2.1.1 Released",
-        "body": "wingpanel-indicator-network 2.1.1 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/wingpanel-indicator-network/issues?q=is%3Aclosed+milestone%3A2.1.1).",
-        "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.1.1"
-      },
-      {
-        "version": "2.1.0",
-        "release_date": "2017-09-12T02:25:19",
-        "title": "Wingpanel Network Indicator 2.1.0 Released",
-        "body": "wingpanel-indicator-network 2.1.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/wingpanel-indicator-network/milestone/2?closed=1).",
-        "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.1.0"
-      }
-    ],
-    "new_commits": 28
+    "new_commits": 4
   },
   {
     "name": "stylesheet",
@@ -2461,7 +2565,7 @@
         "href": "https://github.com/elementary/stylesheet/releases/tag/5.0.4"
       }
     ],
-    "new_commits": 18
+    "new_commits": 21
   },
   {
     "name": "gala",
@@ -2937,7 +3041,7 @@
         "href": "https://github.com/elementary/sideload/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 52
+    "new_commits": 53
   },
   {
     "name": "greeter",
@@ -3013,7 +3117,7 @@
         "href": "https://github.com/elementary/greeter/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 37
+    "new_commits": 38
   },
   {
     "name": "switchboard-plug-mouse-touchpad",
@@ -3674,7 +3778,7 @@
         "href": "https://github.com/elementary/feedback/releases/tag/1.0"
       }
     ],
-    "new_commits": 69
+    "new_commits": 70
   },
   {
     "name": "switchboard-plug-wacom",
@@ -3789,7 +3893,7 @@
         "href": "https://github.com/elementary/notifications/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 35
+    "new_commits": 36
   },
   {
     "name": "music",
@@ -3974,7 +4078,7 @@
         "href": "https://github.com/elementary/pantheon-agent-geoclue2/releases/tag/1.0"
       }
     ],
-    "new_commits": 16
+    "new_commits": 17
   },
   {
     "name": "wingpanel-indicator-keyboard",
@@ -4306,7 +4410,7 @@
         "href": "https://github.com/elementary/icons/releases/tag/4.0.1.1"
       }
     ],
-    "new_commits": 137
+    "new_commits": 139
   },
   {
     "name": "terminal",
@@ -4544,96 +4648,6 @@
     "new_commits": 70
   },
   {
-    "name": "switchboard-plug-sound",
-    "releases": [
-      {
-        "version": "2.2.7",
-        "release_date": "2021-07-14T21:21:28",
-        "title": "switchboard-plug-sound 2.2.7 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/2.2.7"
-      },
-      {
-        "version": "2.2.6",
-        "release_date": "2021-01-05T22:03:37",
-        "title": "switchboard-plug-sound 2.2.6 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Smoother transition when navigating away from this view</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/2.2.6"
-      },
-      {
-        "version": "2.2.5",
-        "release_date": "2020-09-03T21:58:44",
-        "title": "switchboard-plug-sound 2.2.5 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Fix crash with PulseAudio's echo cancellation plugin</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/2.2.5"
-      },
-      {
-        "version": "2.2.4",
-        "release_date": "2020-05-28T18:48:59",
-        "title": "switchboard-plug-sound 2.2.4 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/2.2.4"
-      },
-      {
-        "version": "2.2.3",
-        "release_date": "2020-04-03T20:29:30",
-        "title": "switchboard-plug-sound 2.2.3 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/2.2.3"
-      },
-      {
-        "version": "2.2.2",
-        "release_date": "2019-11-15T23:01:23",
-        "title": "switchboard-plug-sound 2.2.2 Released",
-        "body": "switchboard-plug-sound 2.2.2 is out! \n\nChanges:\n\n* Add volume slider event sound\n* Updated translations\n",
-        "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/2.2.2"
-      },
-      {
-        "version": "2.2.1",
-        "release_date": "2019-04-08T18:36:47",
-        "title": "Switchboard Sound Plug 2.2.1",
-        "body": "switchboard-plug-sound 2.2.1 is out!\r\n\r\nChanges:\r\n* Fix crash affecting some devices such as HTC Vive\r\n* Updated translations",
-        "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/2.2.1"
-      },
-      {
-        "version": "2.2.0",
-        "release_date": "2019-03-28T10:11:52",
-        "title": "Switchboard Sound Plug 2.2.0",
-        "body": "switchboard-plug-sound 2.2.0 is out!\r\n\r\nChanges:\r\n* Major overhaul of Output Devices logic, increasing available devices (such as HDMI) and no longer burying devices under \"Ports\"\r\n* Updated translations",
-        "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/2.2.0"
-      },
-      {
-        "version": "2.1.3",
-        "release_date": "2019-01-08T13:44:35",
-        "title": "Switchboard Plug Sound 2.1.3",
-        "body": "switchboard-plug-sound 2.1.3 is out!\r\n\r\nChanges:\r\n* Expand event controls\r\n* Vala build fixes\r\n* Updated translations",
-        "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/2.1.3"
-      },
-      {
-        "version": "2.1.2",
-        "release_date": "2018-10-15T20:46:08",
-        "title": "Switchboard Sound Plug 2.1.2",
-        "body": "switchboard-plug-sound 2.1.2 is out!\r\n\r\nChanges:\r\n* Fix microphone input level is not alignment\r\n* Update translations\r\n* Enable clicking on whole row to select device\r\n* Correct display style of balance slider\r\n* Build fixes",
-        "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/2.1.2"
-      },
-      {
-        "version": "0.1.1",
-        "release_date": "2018-08-27T09:53:59",
-        "title": "Switchboard Sound Plug 0.1.1 Released",
-        "body": "switchboard-plug-sound 0.1.1 is out!\r\n\r\nChanges:\r\n* System sounds enable/disable control\r\n* Improved translations",
-        "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/0.1.1"
-      },
-      {
-        "version": "0.1",
-        "release_date": "2018-06-08T16:09:23",
-        "title": "Switchboard Sound Plug 0.1 Released",
-        "body": "switchboard-plug-sound 0.1 is out!\r\n\r\nThis is the initial release.",
-        "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/0.1"
-      }
-    ],
-    "new_commits": 73
-  },
-  {
     "name": "switchboard-plug-notifications",
     "releases": [
       {
@@ -4858,7 +4872,7 @@
         "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 28
+    "new_commits": 29
   },
   {
     "name": "switchboard-plug-bluetooth",
