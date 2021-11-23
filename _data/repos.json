@@ -2565,7 +2565,7 @@
         "href": "https://github.com/elementary/stylesheet/releases/tag/5.0.4"
       }
     ],
-    "new_commits": 21
+    "new_commits": 22
   },
   {
     "name": "gala",
@@ -2710,7 +2710,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 91
+    "new_commits": 96
   },
   {
     "name": "switchboard-plug-onlineaccounts",
@@ -4223,7 +4223,7 @@
         "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
       }
     ],
-    "new_commits": 117
+    "new_commits": 119
   },
   {
     "name": "switchboard-plug-datetime",
