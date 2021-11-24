@@ -934,7 +934,7 @@
         "href": "https://github.com/elementary/switchboard-plug-security-privacy/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 10
+    "new_commits": 11
   },
   {
     "name": "code",
@@ -1024,7 +1024,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 1
+    "new_commits": 2
   },
   {
     "name": "camera",
@@ -1239,7 +1239,7 @@
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
       }
     ],
-    "new_commits": 14
+    "new_commits": 16
   },
   {
     "name": "gala",
@@ -2221,7 +2221,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 50
+    "new_commits": 53
   },
   {
     "name": "shortcut-overlay",
