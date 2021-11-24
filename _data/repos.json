@@ -268,7 +268,7 @@
         "href": "https://github.com/elementary/icons/releases/tag/4.0.1.1"
       }
     ],
-    "new_commits": 5
+    "new_commits": 6
   },
   {
     "name": "stylesheet",
@@ -386,7 +386,7 @@
         "href": "https://github.com/elementary/stylesheet/releases/tag/5.0.4"
       }
     ],
-    "new_commits": 3
+    "new_commits": 4
   },
   {
     "name": "granite",
@@ -1080,7 +1080,7 @@
         "href": "https://github.com/elementary/switchboard-plug-security-privacy/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 11
+    "new_commits": 12
   },
   {
     "name": "code",
