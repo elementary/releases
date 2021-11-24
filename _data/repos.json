@@ -122,7 +122,7 @@
         "href": "https://github.com/elementary/icons/releases/tag/4.0.1.1"
       }
     ],
-    "new_commits": 2
+    "new_commits": 3
   },
   {
     "name": "stylesheet",
@@ -934,7 +934,7 @@
         "href": "https://github.com/elementary/switchboard-plug-security-privacy/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 9
+    "new_commits": 10
   },
   {
     "name": "code",
@@ -2573,7 +2573,7 @@
         "href": "https://github.com/elementary/photos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 42
+    "new_commits": 43
   },
   {
     "name": "flatpak-platform",
