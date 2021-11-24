@@ -775,7 +775,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 0
+    "new_commits": 1
   },
   {
     "name": "switchboard-plug-useraccounts",
@@ -2221,7 +2221,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 47
+    "new_commits": 48
   },
   {
     "name": "shortcut-overlay",
