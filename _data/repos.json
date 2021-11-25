@@ -2283,7 +2283,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 54
+    "new_commits": 55
   },
   {
     "name": "shortcut-overlay",
@@ -2635,7 +2635,7 @@
         "href": "https://github.com/elementary/photos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 43
+    "new_commits": 44
   },
   {
     "name": "flatpak-platform",
