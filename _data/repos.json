@@ -198,7 +198,7 @@
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
       }
     ],
-    "new_commits": 10
+    "new_commits": 11
   },
   {
     "name": "icons",
@@ -323,7 +323,7 @@
         "href": "https://github.com/elementary/icons/releases/tag/4.0.1.1"
       }
     ],
-    "new_commits": 7
+    "new_commits": 8
   },
   {
     "name": "stylesheet",
@@ -441,7 +441,7 @@
         "href": "https://github.com/elementary/stylesheet/releases/tag/5.0.4"
       }
     ],
-    "new_commits": 5
+    "new_commits": 6
   },
   {
     "name": "granite",
@@ -976,7 +976,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 1
+    "new_commits": 2
   },
   {
     "name": "switchboard-plug-useraccounts",
@@ -1370,7 +1370,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 2
+    "new_commits": 3
   },
   {
     "name": "wingpanel-indicator-network",
