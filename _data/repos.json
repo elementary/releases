@@ -670,7 +670,7 @@
         "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
       }
     ],
-    "new_commits": 1
+    "new_commits": 2
   },
   {
     "name": "onboarding",
@@ -1066,7 +1066,7 @@
         "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 1
+    "new_commits": 2
   },
   {
     "name": "switchboard-plug-security-privacy",
