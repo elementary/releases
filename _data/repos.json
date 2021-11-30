@@ -1289,7 +1289,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 4
+    "new_commits": 5
   },
   {
     "name": "switchboard-plug-useraccounts",
@@ -1379,7 +1379,7 @@
         "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 3
+    "new_commits": 5
   },
   {
     "name": "switchboard-plug-security-privacy",
@@ -1448,7 +1448,7 @@
         "href": "https://github.com/elementary/switchboard-plug-security-privacy/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 16
+    "new_commits": 18
   },
   {
     "name": "code",
@@ -1925,7 +1925,7 @@
         "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/0.1"
       }
     ],
-    "new_commits": 6
+    "new_commits": 8
   },
   {
     "name": "switchboard-plug-locale",
@@ -2008,7 +2008,7 @@
         "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 3
+    "new_commits": 4
   },
   {
     "name": "wingpanel-indicator-sound",
@@ -2263,7 +2263,7 @@
         "href": "https://github.com/elementary/videos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 20
+    "new_commits": 21
   },
   {
     "name": "capnet-assist",
@@ -2656,7 +2656,7 @@
         "href": "https://github.com/elementary/photos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 62
+    "new_commits": 63
   },
   {
     "name": "flatpak-platform",
@@ -3706,7 +3706,7 @@
         "href": "https://github.com/elementary/switchboard-plug-network/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 43
+    "new_commits": 44
   },
   {
     "name": "initial-setup",
