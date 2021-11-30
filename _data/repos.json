@@ -511,7 +511,7 @@
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
       }
     ],
-    "new_commits": 12
+    "new_commits": 18
   },
   {
     "name": "icons",
@@ -1759,7 +1759,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 0
+    "new_commits": 1
   },
   {
     "name": "switchboard-plug-keyboard",
@@ -2105,7 +2105,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.0.4"
       }
     ],
-    "new_commits": 0
+    "new_commits": 1
   },
   {
     "name": "action-appcenter-review-checklist",
@@ -2422,7 +2422,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 15
+    "new_commits": 16
   },
   {
     "name": "shortcut-overlay",
@@ -2559,7 +2559,7 @@
         "href": "https://github.com/elementary/mail/releases/tag/1.0.6"
       }
     ],
-    "new_commits": 16
+    "new_commits": 19
   },
   {
     "name": "photos",
@@ -3347,7 +3347,7 @@
         "href": "https://github.com/elementary/wingpanel/releases/tag/2.0.3"
       }
     ],
-    "new_commits": 3
+    "new_commits": 4
   },
   {
     "name": "switchboard-plug-applications",
