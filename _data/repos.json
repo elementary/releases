@@ -622,7 +622,7 @@
         "href": "https://github.com/elementary/stylesheet/releases/tag/5.0.4"
       }
     ],
-    "new_commits": 8
+    "new_commits": 9
   },
   {
     "name": "granite",
@@ -851,7 +851,7 @@
         "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
       }
     ],
-    "new_commits": 2
+    "new_commits": 3
   },
   {
     "name": "onboarding",
@@ -1316,7 +1316,7 @@
         "href": "https://github.com/elementary/switchboard-plug-security-privacy/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 13
+    "new_commits": 14
   },
   {
     "name": "code",
@@ -1406,7 +1406,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 3
+    "new_commits": 4
   },
   {
     "name": "camera",
@@ -1696,7 +1696,7 @@
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 3
+    "new_commits": 4
   },
   {
     "name": "switchboard-plug-sound",
@@ -1793,7 +1793,7 @@
         "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/0.1"
       }
     ],
-    "new_commits": 4
+    "new_commits": 5
   },
   {
     "name": "switchboard-plug-locale",
@@ -3699,7 +3699,7 @@
         "href": "https://github.com/elementary/switchboard-plug-network/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 41
+    "new_commits": 42
   },
   {
     "name": "initial-setup",
