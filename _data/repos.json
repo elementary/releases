@@ -1538,7 +1538,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 4
+    "new_commits": 5
   },
   {
     "name": "camera",
@@ -2656,7 +2656,7 @@
         "href": "https://github.com/elementary/photos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 63
+    "new_commits": 64
   },
   {
     "name": "flatpak-platform",
