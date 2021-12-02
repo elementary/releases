@@ -310,7 +310,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 35
+    "new_commits": 37
   },
   {
     "name": "switchboard-plug-onlineaccounts",
@@ -511,7 +511,7 @@
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
       }
     ],
-    "new_commits": 23
+    "new_commits": 24
   },
   {
     "name": "icons",
@@ -1925,7 +1925,7 @@
         "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/0.1"
       }
     ],
-    "new_commits": 14
+    "new_commits": 16
   },
   {
     "name": "switchboard-plug-locale",
