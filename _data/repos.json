@@ -636,7 +636,7 @@
         "href": "https://github.com/elementary/icons/releases/tag/4.0.1.1"
       }
     ],
-    "new_commits": 10
+    "new_commits": 11
   },
   {
     "name": "stylesheet",
@@ -754,7 +754,7 @@
         "href": "https://github.com/elementary/stylesheet/releases/tag/5.0.4"
       }
     ],
-    "new_commits": 13
+    "new_commits": 14
   },
   {
     "name": "granite",
@@ -5759,7 +5759,7 @@
         "href": "https://github.com/elementary/houston/releases/tag/0.2.0"
       }
     ],
-    "new_commits": 13
+    "new_commits": 14
   },
   {
     "name": "actions",
