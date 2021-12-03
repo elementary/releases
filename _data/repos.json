@@ -636,7 +636,7 @@
         "href": "https://github.com/elementary/icons/releases/tag/4.0.1.1"
       }
     ],
-    "new_commits": 12
+    "new_commits": 13
   },
   {
     "name": "stylesheet",
@@ -1289,7 +1289,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 10
+    "new_commits": 15
   },
   {
     "name": "switchboard-plug-useraccounts",
@@ -2656,7 +2656,7 @@
         "href": "https://github.com/elementary/photos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 71
+    "new_commits": 72
   },
   {
     "name": "flatpak-platform",
