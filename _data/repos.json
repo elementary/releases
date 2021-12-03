@@ -310,7 +310,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 46
+    "new_commits": 48
   },
   {
     "name": "switchboard-plug-onlineaccounts",
@@ -1683,7 +1683,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 18
+    "new_commits": 19
   },
   {
     "name": "wingpanel-indicator-network",
@@ -2422,7 +2422,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 23
+    "new_commits": 24
   },
   {
     "name": "shortcut-overlay",
