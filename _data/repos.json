@@ -1289,7 +1289,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 6
+    "new_commits": 10
   },
   {
     "name": "switchboard-plug-useraccounts",
@@ -2422,7 +2422,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 19
+    "new_commits": 23
   },
   {
     "name": "shortcut-overlay",
