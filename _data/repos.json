@@ -310,7 +310,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 41
+    "new_commits": 42
   },
   {
     "name": "switchboard-plug-onlineaccounts",
@@ -2656,7 +2656,7 @@
         "href": "https://github.com/elementary/photos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 69
+    "new_commits": 71
   },
   {
     "name": "flatpak-platform",
@@ -3229,7 +3229,7 @@
         "href": "https://github.com/elementary/tasks/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 115
+    "new_commits": 116
   },
   {
     "name": "wingpanel",
