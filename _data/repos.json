@@ -1538,7 +1538,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 5
+    "new_commits": 6
   },
   {
     "name": "camera",
@@ -1683,7 +1683,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 19
+    "new_commits": 20
   },
   {
     "name": "wingpanel-indicator-network",
