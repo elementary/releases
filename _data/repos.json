@@ -511,7 +511,7 @@
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
       }
     ],
-    "new_commits": 35
+    "new_commits": 36
   },
   {
     "name": "icons",
@@ -1759,7 +1759,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 1
+    "new_commits": 2
   },
   {
     "name": "switchboard-plug-keyboard",
@@ -2422,7 +2422,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 27
+    "new_commits": 30
   },
   {
     "name": "shortcut-overlay",
