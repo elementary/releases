@@ -983,7 +983,7 @@
         "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
       }
     ],
-    "new_commits": 6
+    "new_commits": 7
   },
   {
     "name": "onboarding",
@@ -1538,7 +1538,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 6
+    "new_commits": 7
   },
   {
     "name": "camera",
@@ -1925,7 +1925,7 @@
         "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/0.1"
       }
     ],
-    "new_commits": 24
+    "new_commits": 25
   },
   {
     "name": "switchboard-plug-locale",
@@ -2008,7 +2008,7 @@
         "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 4
+    "new_commits": 5
   },
   {
     "name": "wingpanel-indicator-sound",
@@ -4771,7 +4771,7 @@
         "href": "https://github.com/elementary/terminal/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 128
+    "new_commits": 129
   },
   {
     "name": "switchboard-plug-parental-controls",
@@ -4812,7 +4812,7 @@
         "href": "https://github.com/elementary/switchboard-plug-parental-controls/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 71
+    "new_commits": 72
   },
   {
     "name": "switchboard-plug-notifications",
