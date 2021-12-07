@@ -1289,7 +1289,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 29
+    "new_commits": 30
   },
   {
     "name": "switchboard-plug-useraccounts",
@@ -2325,7 +2325,7 @@
         "href": "https://github.com/elementary/capnet-assist/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 10
+    "new_commits": 11
   },
   {
     "name": "wingpanel-indicator-datetime",
@@ -5854,7 +5854,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 5036
+    "new_commits": 5037
   },
   {
     "name": "fonts",
