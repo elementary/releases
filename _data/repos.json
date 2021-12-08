@@ -1,5 +1,32 @@
 [
   {
+    "name": "flatpak-platform",
+    "releases": [
+      {
+        "version": "6.1.0",
+        "release_date": "2021-12-07T23:19:10",
+        "title": "Flatpak Platform 6.1.0 Released",
+        "body": "The 6.1 Flatpak platform brings bug fixes as well as stability and security fixes to platform libraries. We strongly recommend updating ASAP, as the `6` series of the runtime should now be considered end-of-life\r\n\r\n* **This update is API-breaking in some cases, so Flatpak manifests will have to be updated from using version `6` of the runtime to version `6.1`.** \r\n* It includes a fix which makes apps use the Blueberry stylesheet from OS 6 when running on OS 5\r\n\r\nThe GNOME 41 runtime this is based on:\r\n* Updated to freedesktop-sdk 21.08, bringing in newer toolchains (such as GCC 11 and LLVM 12) and libraries (such as Mesa 21.2)\r\n* Removed `zenity` and `librest`\r\n* Added `libmanette`, enabling gamepad support in WebKit",
+        "href": "https://github.com/elementary/flatpak-platform/releases/tag/6.1.0"
+      },
+      {
+        "version": "6.0.2",
+        "release_date": "2021-10-26T18:18:08",
+        "title": "Flatpak Platform 6.0.2 Released",
+        "body": "<p>Fixes:</p>\r\n<ul>\r\n<li>Fix localization issues with apps that use Granite</li>\r\n</ul>\r\n<p>Platform updates:</p>\r\n<ul>\r\n<li>Use the settings portal for time and date settings</li>\r\n<li>Use the settings portal for color scheme preference instead of requiring an AccountsService hole</li>\r\n<li>Update elementary stylesheet to 6.1.0</li>\r\n<li>Update Granite to 6.1.2</li>\r\n</ul>",
+        "href": "https://github.com/elementary/flatpak-platform/releases/tag/6.0.2"
+      },
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-20T20:53:11",
+        "title": "Flatpak Platform 6.0.0 Released",
+        "body": "The first stable version of the elementary Flatpak platform has been released!",
+        "href": "https://github.com/elementary/flatpak-platform/releases/tag/6.0.0"
+      }
+    ],
+    "new_commits": 0
+  },
+  {
     "name": "os",
     "releases": [
       {
@@ -2657,26 +2684,6 @@
       }
     ],
     "new_commits": 72
-  },
-  {
-    "name": "flatpak-platform",
-    "releases": [
-      {
-        "version": "6.0.2",
-        "release_date": "2021-10-26T18:18:08",
-        "title": "Flatpak Platform 6.0.2 Released",
-        "body": "<p>Fixes:</p>\r\n<ul>\r\n<li>Fix localization issues with apps that use Granite</li>\r\n</ul>\r\n<p>Platform updates:</p>\r\n<ul>\r\n<li>Use the settings portal for time and date settings</li>\r\n<li>Use the settings portal for color scheme preference instead of requiring an AccountsService hole</li>\r\n<li>Update elementary stylesheet to 6.1.0</li>\r\n<li>Update Granite to 6.1.2</li>\r\n</ul>",
-        "href": "https://github.com/elementary/flatpak-platform/releases/tag/6.0.2"
-      },
-      {
-        "version": "6.0.0",
-        "release_date": "2021-07-20T20:53:11",
-        "title": "Flatpak Platform 6.0.0 Released",
-        "body": "The first stable version of the elementary Flatpak platform has been released!",
-        "href": "https://github.com/elementary/flatpak-platform/releases/tag/6.0.0"
-      }
-    ],
-    "new_commits": 0
   },
   {
     "name": "wingpanel-indicator-notifications",
