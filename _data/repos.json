@@ -337,7 +337,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 60
+    "new_commits": 62
   },
   {
     "name": "switchboard-plug-onlineaccounts",
@@ -3236,7 +3236,7 @@
         "href": "https://github.com/elementary/tasks/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 126
+    "new_commits": 142
   },
   {
     "name": "wingpanel",
