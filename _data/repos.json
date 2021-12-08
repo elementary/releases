@@ -6,7 +6,7 @@
         "version": "6.1.0",
         "release_date": "2021-12-07T23:19:10",
         "title": "Flatpak Platform 6.1.0 Released",
-        "body": "The 6.1 Flatpak platform brings bug fixes as well as stability and security fixes to platform libraries. We strongly recommend updating ASAP, as the `6` series of the runtime should now be considered end-of-life. Be aware that the libraries contained in this runtime are newer than those available from the Ubuntu repositories.\r\n\r\n* **This update is API-breaking in some cases, so Flatpak manifests will have to be updated from using version `6` of the runtime to version `6.1`.** \r\n* It includes a fix which makes apps use the Blueberry stylesheet from OS 6 when running on OS 5\r\n\r\nThe GNOME 41 runtime this is based on:\r\n* Updated to freedesktop-sdk 21.08, bringing in newer toolchains (such as GCC 11 and LLVM 12) and libraries (such as Mesa 21.2)\r\n* Removed `zenity` and `librest`\r\n* Added `libmanette`, enabling gamepad support in WebKit\r\n\r\nThis runtime also includes GTK4, however it does not include a version of the elementary stylesheet with GTK4 support or Granite. We recommend developers use this runtime to start looking at what they need to do to port to GTK4, but we don't recommend trying to ship GTK4 apps with this runtime just yet.",
+        "body": "The 6.1 Flatpak platform brings bug fixes as well as stability and security fixes to platform libraries. We strongly recommend updating ASAP, as the `6` series of the runtime should now be considered end-of-life. Be aware that the libraries contained in this runtime are newer than those available from the Ubuntu repositories.\r\n\r\n* **This update is API-breaking in some cases, so Flatpak manifests will have to be updated from using version `6` of the runtime to version `6.1`.** \r\n* It includes a fix which makes apps use the Blueberry stylesheet from OS 6 when running on OS 5\r\n\r\nThe GNOME 41 runtime this is based on:\r\n* Updated to freedesktop-sdk 21.08, bringing in newer toolchains (such as GCC 11 and LLVM 12) and libraries (such as Mesa 21.2)\r\n* Removed `zenity` and `librest`\r\n* Added `libmanette`, enabling gamepad support in WebKit\r\n\r\nThis runtime also includes GTK4, however it does not include a version of the elementary stylesheet or Granite with GTK4 support. We recommend developers use this runtime to start looking at what they need to do to port to GTK4, but we don't recommend trying to ship GTK4 apps with this runtime just yet.",
         "href": "https://github.com/elementary/flatpak-platform/releases/tag/6.1.0"
       },
       {
@@ -2352,7 +2352,7 @@
         "href": "https://github.com/elementary/capnet-assist/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 12
+    "new_commits": 13
   },
   {
     "name": "wingpanel-indicator-datetime",
@@ -2449,7 +2449,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 34
+    "new_commits": 42
   },
   {
     "name": "shortcut-overlay",
@@ -3092,7 +3092,7 @@
         "href": "https://github.com/elementary/calculator/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 12
+    "new_commits": 16
   },
   {
     "name": "screenshot",
@@ -3175,7 +3175,7 @@
         "href": "https://github.com/elementary/screenshot/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 9
+    "new_commits": 13
   },
   {
     "name": "settings-daemon",
@@ -5861,7 +5861,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 5043
+    "new_commits": 5045
   },
   {
     "name": "fonts",
