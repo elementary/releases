@@ -2449,7 +2449,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 44
+    "new_commits": 46
   },
   {
     "name": "shortcut-overlay",
@@ -2766,7 +2766,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.0.1"
       }
     ],
-    "new_commits": 17
+    "new_commits": 18
   },
   {
     "name": "calendar",
