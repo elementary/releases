@@ -920,7 +920,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 0
+    "new_commits": 1
   },
   {
     "name": "switchboard-plug-pantheon-shell",
@@ -1710,7 +1710,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 21
+    "new_commits": 22
   },
   {
     "name": "wingpanel-indicator-network",
@@ -2449,7 +2449,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 46
+    "new_commits": 48
   },
   {
     "name": "shortcut-overlay",
@@ -2586,7 +2586,7 @@
         "href": "https://github.com/elementary/mail/releases/tag/1.0.6"
       }
     ],
-    "new_commits": 24
+    "new_commits": 27
   },
   {
     "name": "photos",
@@ -2766,7 +2766,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.0.1"
       }
     ],
-    "new_commits": 18
+    "new_commits": 19
   },
   {
     "name": "calendar",
@@ -5371,7 +5371,7 @@
         "href": "https://github.com/elementary/wallpapers/releases/tag/5.0"
       }
     ],
-    "new_commits": 3
+    "new_commits": 4
   },
   {
     "name": "contractor",
