@@ -1641,7 +1641,7 @@
         "href": "https://github.com/elementary/camera/releases/tag/1.0"
       }
     ],
-    "new_commits": 12
+    "new_commits": 13
   },
   {
     "name": "gala",
@@ -2449,7 +2449,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 48
+    "new_commits": 50
   },
   {
     "name": "shortcut-overlay",
@@ -2766,7 +2766,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.0.1"
       }
     ],
-    "new_commits": 19
+    "new_commits": 20
   },
   {
     "name": "calendar",
