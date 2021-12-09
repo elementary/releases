@@ -3795,7 +3795,7 @@
         "href": "https://github.com/elementary/installer/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 46
+    "new_commits": 48
   },
   {
     "name": "wingpanel-indicator-bluetooth",
@@ -4778,7 +4778,7 @@
         "href": "https://github.com/elementary/terminal/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 142
+    "new_commits": 145
   },
   {
     "name": "switchboard-plug-parental-controls",
@@ -5371,7 +5371,7 @@
         "href": "https://github.com/elementary/wallpapers/releases/tag/5.0"
       }
     ],
-    "new_commits": 122
+    "new_commits": 124
   },
   {
     "name": "contractor",
