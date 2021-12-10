@@ -185,7 +185,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 14
+    "new_commits": 21
   },
   {
     "name": "flatpak-platform",
@@ -2456,7 +2456,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 57
+    "new_commits": 58
   },
   {
     "name": "shortcut-overlay",
@@ -3802,7 +3802,7 @@
         "href": "https://github.com/elementary/installer/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 54
+    "new_commits": 55
   },
   {
     "name": "wingpanel-indicator-bluetooth",
