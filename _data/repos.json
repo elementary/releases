@@ -1572,7 +1572,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 12
+    "new_commits": 13
   },
   {
     "name": "camera",
@@ -2690,7 +2690,7 @@
         "href": "https://github.com/elementary/photos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 80
+    "new_commits": 82
   },
   {
     "name": "wingpanel-indicator-notifications",
@@ -5378,7 +5378,7 @@
         "href": "https://github.com/elementary/wallpapers/releases/tag/5.0"
       }
     ],
-    "new_commits": 129
+    "new_commits": 130
   },
   {
     "name": "contractor",
