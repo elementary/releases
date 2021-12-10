@@ -185,7 +185,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 3
+    "new_commits": 9
   },
   {
     "name": "flatpak-platform",
@@ -5378,7 +5378,7 @@
         "href": "https://github.com/elementary/wallpapers/releases/tag/5.0"
       }
     ],
-    "new_commits": 125
+    "new_commits": 126
   },
   {
     "name": "contractor",
