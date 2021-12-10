@@ -185,7 +185,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 10
+    "new_commits": 13
   },
   {
     "name": "flatpak-platform",
@@ -4785,7 +4785,7 @@
         "href": "https://github.com/elementary/terminal/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 147
+    "new_commits": 150
   },
   {
     "name": "switchboard-plug-parental-controls",
