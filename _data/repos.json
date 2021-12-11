@@ -602,7 +602,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 1
+    "new_commits": 2
   },
   {
     "name": "files",
@@ -790,7 +790,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 27
+    "new_commits": 30
   },
   {
     "name": "flatpak-platform",
@@ -2167,7 +2167,7 @@
         "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/0.1"
       }
     ],
-    "new_commits": 25
+    "new_commits": 26
   },
   {
     "name": "switchboard-plug-locale",
@@ -3830,7 +3830,7 @@
         "href": "https://github.com/elementary/installer/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 55
+    "new_commits": 56
   },
   {
     "name": "wingpanel-indicator-bluetooth",
@@ -4813,7 +4813,7 @@
         "href": "https://github.com/elementary/terminal/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 154
+    "new_commits": 155
   },
   {
     "name": "switchboard-plug-parental-controls",
