@@ -1,5 +1,610 @@
 [
   {
+    "name": "applications-menu",
+    "releases": [
+      {
+        "version": "2.10.2",
+        "release_date": "2021-12-11T05:34:42",
+        "title": "applications-menu 2.10.2 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Searching settings always searches the full title</li>\n</ul>\n",
+        "href": "https://github.com/elementary/applications-menu/releases/tag/2.10.2"
+      },
+      {
+        "version": "2.10.1",
+        "release_date": "2021-11-24T22:02:41",
+        "title": "applications-menu 2.10.1 Released",
+        "body": "<p>Fixes:</p>\n<ul>\n<li>Fix a regression with settings search</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/applications-menu/releases/tag/2.10.1"
+      },
+      {
+        "version": "2.10.0",
+        "release_date": "2021-11-23T21:03:30",
+        "title": "applications-menu 2.10.0 Released",
+        "body": "<p>New features:</p>\n<ul>\n<li>Show search results for bookmarked folders</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Prevent a potential crash on startup</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/applications-menu/releases/tag/2.10.0"
+      },
+      {
+        "version": "2.9.1",
+        "release_date": "2021-10-26T18:32:54",
+        "title": "Applications Menu 2.9.1 Released",
+        "body": "<p>Improvements:</p>\r\n<ul>\r\n<li>Show secondary click menu for search results</li>\r\n<li>Updated translations</li>\r\n</ul>",
+        "href": "https://github.com/elementary/applications-menu/releases/tag/2.9.1"
+      },
+      {
+        "version": "2.9.0",
+        "release_date": "2021-09-27T20:30:03",
+        "title": "Applications Menu 2.9.0 Released",
+        "body": "<p>New features</p>\r\n<ul>\r\n<li>Launch apps selectively on integrated or dedicated graphics for systems with hybrid graphics</li>\r\n</ul>\r\n<p>Minor updates</p>\r\n<ul>\r\n<li>Updated translations</li>\r\n</ul>",
+        "href": "https://github.com/elementary/applications-menu/releases/tag/2.9.0"
+      },
+      {
+        "version": "2.8.2",
+        "release_date": "2021-08-30T17:37:01",
+        "title": "applications-menu 2.8.2 Released",
+        "body": "<p>Minor updates</p>\n<ul>\n<li>Show apps with no category under \"Other\"</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/applications-menu/releases/tag/2.8.2"
+      },
+      {
+        "version": "2.8.1",
+        "release_date": "2021-08-26T20:27:26",
+        "title": "applications-menu 2.8.1 Released",
+        "body": "<p>Minor updates</p>\n<ul>\n<li>Fix an issue where Flatpak apps wouldn't show until after a restart</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/applications-menu/releases/tag/2.8.1"
+      },
+      {
+        "version": "2.8.0",
+        "release_date": "2021-07-14T22:55:20",
+        "title": "applications-menu 2.8.0 Released",
+        "body": "<p>Minor updates</p>\n<ul>\n<li>Sort app actions above AppCenter search</li>\n<li>Always hide Terminal-based programs</li>\n<li>Remove document viewer from block list</li>\n<li>Support fractions without leading number in calculator</li>\n<li>Show overlay key in tooltip when set</li>\n<li>Performance improvements</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/applications-menu/releases/tag/2.8.0"
+      },
+      {
+        "version": "2.7.1",
+        "release_date": "2020-05-28T18:38:55",
+        "title": "applications-menu 2.7.1 Released",
+        "body": "<p>Minor updates</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/applications-menu/releases/tag/2.7.1"
+      },
+      {
+        "version": "2.7.0",
+        "release_date": "2020-04-29T21:58:06",
+        "title": "applications-menu 2.7.0 Released",
+        "body": "<p>Minor updates</p>\n<ul>\n<li>Smoother navigation gesture in grid view and touchscreen gesture support</li>\n<li>Focus search when navigating up from the category view</li>\n<li>Don't focus search when pressing modifier keys</li>\n<li>Ensure categories are sorted alphabetically</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/applications-menu/releases/tag/2.7.0"
+      },
+      {
+        "version": "2.6.0",
+        "release_date": "2020-04-09T20:38:38",
+        "title": "applications-menu 2.6.0 Released",
+        "body": "<p>Category view is now a list</p>\n<p>Improved keyboard navigation</p>\n<p>Performance improvements</p>\n<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/applications-menu/releases/tag/2.6.0"
+      },
+      {
+        "version": "2.5.0",
+        "release_date": "2019-11-25T17:07:00",
+        "title": "applications-menu 2.5.0 Released",
+        "body": "applications-menu 2.5.0 is out! \n\nChanges:\n\n* Improved keyboard navigation, including new tooltips and menu key support\n* Highlight action matches in the search view\n* Add a \"View in AppCenter\" menu item\n* Performance improvements\n* Updated translations\n",
+        "href": "https://github.com/elementary/applications-menu/releases/tag/2.5.0"
+      },
+      {
+        "version": "2.4.4",
+        "release_date": "2019-08-20T23:54:30",
+        "title": "Slingshot 2.4.4 Released",
+        "body": "slingshot-launcher 2.4.4 is out!\r\n\r\nChanges:\r\n* Don\u2019t launch apps being dragged from search results\r\n* Prevent AppCenter from possibly freezing panel\r\n* Drop support for Plank `< 0.11`\r\n* Updated translations",
+        "href": "https://github.com/elementary/applications-menu/releases/tag/2.4.4"
+      },
+      {
+        "version": "2.4.3",
+        "release_date": "2019-05-16T10:10:36",
+        "title": "Slingshot 2.4.3 Released",
+        "body": "slingshot-launcher 2.4.3 is out!\r\n\r\nChanges:\r\n* Build system fixes\r\n* Support more system management keywords\r\n* Fix ignored translations in search results\r\n* Keyboard navigation fix\r\n* Updated translations",
+        "href": "https://github.com/elementary/applications-menu/releases/tag/2.4.3"
+      },
+      {
+        "version": "2.4.2",
+        "release_date": "2019-01-22T09:51:45",
+        "title": "Slingshot 2.4.2 Released",
+        "body": "slingshot-launcher 2.4.2 is out!\r\n\r\nChanges:\r\n* Don't highlight query in text search results\r\n* Add Meson build system\r\n* Use Granite for tooltip accels\r\n* Updated translations",
+        "href": "https://github.com/elementary/applications-menu/releases/tag/2.4.2"
+      },
+      {
+        "version": "2.4.1",
+        "release_date": "2018-12-07T18:41:24",
+        "title": "Slingshot 2.4.1 Released",
+        "body": "slingshot-launcher 2.4.1 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/applications-menu/issues?q=is%3Aclosed+milestone%3A2.4.1).",
+        "href": "https://github.com/elementary/applications-menu/releases/tag/2.4.1"
+      },
+      {
+        "version": "2.4.0",
+        "release_date": "2018-09-18T15:41:03",
+        "title": "Slingshot 2.4.0 Released",
+        "body": "slingshot-launcher 2.4.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/applications-menu/issues?q=is%3Aclosed+milestone%3A2.4.0).",
+        "href": "https://github.com/elementary/applications-menu/releases/tag/2.4.0"
+      },
+      {
+        "version": "2.3.0",
+        "release_date": "2018-06-20T05:30:04",
+        "title": "Slingshot 2.3.0 Released",
+        "body": "slingshot-launcher 2.3.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/applications-menu/issues?q=is%3Aclosed+milestone%3A2.3.0).",
+        "href": "https://github.com/elementary/applications-menu/releases/tag/2.3.0"
+      },
+      {
+        "version": "2.2.0",
+        "release_date": "2017-09-26T14:20:28",
+        "title": "Slingshot 2.2.0 Released",
+        "body": "slingshot-launcher 2.2.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/applications-menu/issues?q=is%3Aclosed+milestone%3A2.2.0).",
+        "href": "https://github.com/elementary/applications-menu/releases/tag/2.2.0"
+      },
+      {
+        "version": "2.1.3",
+        "release_date": "2017-05-15T12:00:23",
+        "title": "Slingshot 2.1.3 Released",
+        "body": "slingshot-launcher 2.1.3 is out!",
+        "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.3"
+      },
+      {
+        "version": "2.1.2",
+        "release_date": "2017-05-12T08:49:05",
+        "title": "Slingshot 2.1.2 Released",
+        "body": "slingshot-launcher 2.1.2 is out!",
+        "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
+      }
+    ],
+    "new_commits": 3
+  },
+  {
+    "name": "wingpanel-indicator-datetime",
+    "releases": [
+      {
+        "version": "2.4.0",
+        "release_date": "2021-12-11T05:32:36",
+        "title": "wingpanel-indicator-datetime 2.4.0 Released",
+        "body": "<p>New features:</p>\n<ul>\n<li>Open Calendar on middle-click</li>\n<li>Show due Tasks for the selected day</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Update current day when opening</li>\n<li>Fix potential memory leak</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Performance improvements</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.4.0"
+      },
+      {
+        "version": "2.3.1",
+        "release_date": "2021-10-29T23:15:33",
+        "title": "Date Time Indicator 2.3.1 Released",
+        "body": "<p>Fixes:</p>\r\n<ul>\r\n<li>Update current day when opening</li>\r\n<li>Fix disappearing dates when changing between dark and light styles</li>\r\n<li>Fix potential memory leak</li>\r\n</ul>\r\n<p>Improvements:</p>\r\n<ul>\r\n<li>Updated translations</li>\r\n</ul>",
+        "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.3.1"
+      },
+      {
+        "version": "2.3.0",
+        "release_date": "2021-07-14T20:35:19",
+        "title": "wingpanel-indicator-datetime 2.3.0 Released",
+        "body": "<p>Add multitouch gestures</p>\n<p>Improve time zone handling</p>\n<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.3.0"
+      },
+      {
+        "version": "2.2.5",
+        "release_date": "2020-06-30T19:54:39",
+        "title": "wingpanel-indicator-datetime 2.2.5 Released",
+        "body": "<p>Fix issues with time zones not being recognized</p>\n<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.2.5"
+      },
+      {
+        "version": "2.2.4",
+        "release_date": "2020-05-28T18:53:35",
+        "title": "wingpanel-indicator-datetime 2.2.4 Released",
+        "body": "<p>Improved performance when switching months</p>\n<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.2.4"
+      },
+      {
+        "version": "2.2.3",
+        "release_date": "2020-05-18T03:11:33",
+        "title": "wingpanel-indicator-datetime 2.2.3 Released",
+        "body": "<p>Fix missing event dots in the calendar view</p>\n<p>Fix event appearance with dark style</p>\n<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.2.3"
+      },
+      {
+        "version": "2.2.2",
+        "release_date": "2020-03-29T19:40:47",
+        "title": "wingpanel-indicator-datetime 2.2.2 Released",
+        "body": "wingpanel-indicator-datetime 2.2.2 is out! \n\n<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.2.2"
+      },
+      {
+        "version": "2.2.1",
+        "release_date": "2019-11-26T18:10:05",
+        "title": "wingpanel-indicator-datetime 2.2.1 Released",
+        "body": "wingpanel-indicator-datetime 2.2.1 is out! \n\n<p>Fix potential crash when loading events with no start or end time</p>\n<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.2.1"
+      },
+      {
+        "version": "2.2.0",
+        "release_date": "2019-10-31T20:37:07",
+        "title": "wingpanel-indicator-datetime 2.2.0 Released",
+        "body": "wingpanel-indicator-datetime 2.2.0 is out! \n\nChanges:\n\n* Redesigned the way upcoming events are displayed\n* Fixed issues with large text size\n* Show dots on days with events\n* Better handling of recurring events\n* Performance improvements\n* Display an error dialog if Calendar fails to open\n* Updated translations\n",
+        "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.2.0"
+      },
+      {
+        "version": "2.1.3",
+        "release_date": "2018-12-12T01:04:37",
+        "title": "Wingpanel Date & Time Indicator 2.1.3 Released",
+        "body": "wingpanel-indicator-datetime 2.1.3 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/wingpanel-indicator-datetime/issues?q=is%3Aclosed+milestone%3A2.1.3).",
+        "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.1.3"
+      },
+      {
+        "version": "2.1.2",
+        "release_date": "2018-10-16T02:35:35",
+        "title": "Wingpanel Date & Time Indicator 2.1.2 Released",
+        "body": "wingpanel-indicator-datetime 2.1.2 is out!\r\n\r\nChanges:\r\n* Accurately select current day each open\r\n* Updated translations",
+        "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.1.2"
+      },
+      {
+        "version": "2.1.1",
+        "release_date": "2018-10-02T11:40:06",
+        "title": "Wingpanel Date & Time Indicator 2.1.1 Released",
+        "body": "wingpanel-indicator-datetime 2.1.1 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/wingpanel-indicator-datetime/issues?q=is%3Aclosed+milestone%3A2.1.1).",
+        "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.1.1"
+      },
+      {
+        "version": "2.1.0",
+        "release_date": "2018-06-19T02:18:57",
+        "title": "Wingpanel Date & Time Indicator 2.1.0 Released",
+        "body": "wingpanel-indicator-datetime 2.1.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/wingpanel-indicator-datetime/issues?q=is%3Aclosed+milestone%3A2.1.0).",
+        "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.1.0"
+      },
+      {
+        "version": "2.0.2",
+        "release_date": "2017-06-30T10:12:22",
+        "title": "Wingpanel Date & Time Indicator 2.0.2 Released",
+        "body": "wingpanel-indicator-datetime 2.0.2 is out!",
+        "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.0.2"
+      }
+    ],
+    "new_commits": 3
+  },
+  {
+    "name": "wingpanel-indicator-notifications",
+    "releases": [
+      {
+        "version": "6.0.3",
+        "release_date": "2021-12-11T05:26:01",
+        "title": "wingpanel-indicator-notifications 6.0.3 Released",
+        "body": "<p>Fixes:</p>\n<ul>\n<li>Handle null message body</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/6.0.3"
+      },
+      {
+        "version": "6.0.2",
+        "release_date": "2021-10-26T18:00:25",
+        "title": "Notifications Indicator 6.0.2 Released",
+        "body": "<p>Minor updates:</p>\r\n<ul>\r\n<li>Fix DBus listening on Fedora</li>\r\n<li>Updated translations</li>\r\n</ul>",
+        "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/6.0.2"
+      },
+      {
+        "version": "6.0.1",
+        "release_date": "2021-09-27T20:37:48",
+        "title": "Notifications Indicator 6.0.1 ",
+        "body": "<p>Minor updates:</p>\r\n<ul>\r\n<li>Use app name as fallback title</li>\r\n<li>Updated translations</li>\r\n</ul>",
+        "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/6.0.1"
+      },
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-16T00:02:35",
+        "title": "wingpanel-indicator-notifications 6.0.0 Released",
+        "body": "<p>Complete redesign:</p>\n<ul>\n<li>Multitouch gestures to dismiss notifications</li>\n<li>Close button on each notification</li>\n<li>Show images and badged icons</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Show tooltip on hover </li>\n<li>Performance improvements</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/6.0.0"
+      },
+      {
+        "version": "2.1.4",
+        "release_date": "2020-04-01T23:52:26",
+        "title": "wingpanel-indicator-notifications 2.1.4 Released",
+        "body": "wingpanel-indicator-notifications 2.1.4 is out! \n\n<p>Fix issues with disappearing notifications</p>\n<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.1.4"
+      },
+      {
+        "version": "2.1.3",
+        "release_date": "2019-11-25T16:55:34",
+        "title": "wingpanel-indicator-notifications 2.1.3 Released",
+        "body": "wingpanel-indicator-notifications 2.1.3 is out! \n\nChanges:\n\n* Fix a minor visual inconsistency\n* Updated translations\n",
+        "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.1.3"
+      },
+      {
+        "version": "2.1.2",
+        "release_date": "2018-10-29T16:38:36",
+        "title": "Wingpanel Notifications Indicator 2.1.2 Released",
+        "body": "wingpanel-indicator-notifications 2.1.2 is out!\r\n\r\nChanges:\r\n* Always update the state of the indicator to prevent phantom notifications\r\n* Updated translations",
+        "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.1.2"
+      },
+      {
+        "version": "2.1.1",
+        "release_date": "2018-10-03T10:34:58",
+        "title": "Wingpanel Notifications Indicator 2.1.1 Released",
+        "body": "wingpanel-indicator-notifications 2.1.1 is out!\r\n\r\nThis release includes updated translations.",
+        "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.1.1"
+      },
+      {
+        "version": "2.1.0",
+        "release_date": "2018-06-07T10:16:48",
+        "title": "Wingpanel Notifications Indicator 2.1.0 Released",
+        "body": "wingpanel-indicator-notifications 2.1.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/wingpanel-indicator-notifications/issues?q=is%3Aclosed+milestone%3A2.1.0).",
+        "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.1.0"
+      },
+      {
+        "version": "2.0.3",
+        "release_date": "2017-10-04T02:28:04",
+        "title": "Wingpanel Notifications Indicator 2.0.3 Released",
+        "body": "wingpanel-indicator-notifications 2.0.3 is out!\r\n\r\nThis release includes support for the new settings:// URL schema.",
+        "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.0.3"
+      },
+      {
+        "version": "2.0.2",
+        "release_date": "2017-08-01T02:41:02",
+        "title": "Wingpanel Notifications Indicator 2.0.2 Released",
+        "body": "wingpanel-indicator-notifications 2.0.2 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/wingpanel-indicator-notifications/milestone/2?closed=1).",
+        "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.0.2"
+      },
+      {
+        "version": "2.0.1",
+        "release_date": "2017-05-21T22:07:11",
+        "title": "Wingpanel Notifications Indicator 2.0.1 Released",
+        "body": "wingpanel-indicator-notifications 2.0.1 is out!",
+        "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.0.1"
+      }
+    ],
+    "new_commits": 0
+  },
+  {
+    "name": "appcenter",
+    "releases": [
+      {
+        "version": "3.9.1",
+        "release_date": "2021-12-11T05:20:33",
+        "title": "appcenter 3.9.1 Released",
+        "body": "<p>Fixes:</p>\n<ul>\n<li>Prevent potential crashes when updating</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Link to Flathub's search page when no search results are found</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.9.1"
+      },
+      {
+        "version": "3.9.0",
+        "release_date": "2021-11-23T21:22:44",
+        "title": "appcenter 3.9.0 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Amusements appear in the Games category</li>\n<li>Categories show as a grid instead of a list</li>\n<li>Allow window to shrink to much narrower sizes</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.9.0"
+      },
+      {
+        "version": "3.8.2",
+        "release_date": "2021-10-29T17:35:37",
+        "title": "AppCenter 3.8.2 Released!",
+        "body": "## What's Changed\r\n* FlatpakBackend: Handle transaction success state correctly by @davidmhewitt in https://github.com/elementary/appcenter/pull/1730\r\n* FlatpakBackend: Sort stable apps in XML first by @davidmhewitt in https://github.com/elementary/appcenter/pull/1731\r\n* FlatpakBackend: Improve XML parsing efficiency by @davidmhewitt in https://github.com/elementary/appcenter/pull/1733\r\n\r\n**Full Changelog**: https://github.com/elementary/appcenter/compare/3.8.1...3.8.2",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.8.2"
+      },
+      {
+        "version": "3.8.1",
+        "release_date": "2021-10-26T17:02:14",
+        "title": "AppCenter 3.8.1 Released",
+        "body": "<p>Fixes:</p>\r\n<ul>\r\n<li>Don't store $0 app installs as paid</li>\r\n<li>Fix missing illicit substances icon</li>\r\n<li>Don't show plugins on the homepage</li>\r\n<li>Only show \"Multiplayer\" badge for games</li>\r\n</ul>\r\n<p>Improvements:</p>\r\n<ul>\r\n<li>Show installation progress in a more compact way</li>\r\n<li>Updated translations</li>\r\n</ul>",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.8.1"
+      },
+      {
+        "version": "3.8.0",
+        "release_date": "2021-09-21T21:48:38",
+        "title": "AppCenter 3.8.0 Released",
+        "body": "New features:\r\n - Show content warnings on app info pages\r\n\r\nFixes:\r\n- Show other apps by an author for Flatpak sources\r\n- Populate banner on home locally instead of relying on an external API\r\n\r\nImprovements:\r\n- Greatly increased number of recently-updated apps shown on home page\r\n- Navigate banners on the home page with multitouch gestures\r\n- Updated translations",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.8.0"
+      },
+      {
+        "version": "3.7.1",
+        "release_date": "2021-08-30T18:37:19",
+        "title": "appcenter 3.7.1 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Show apps from newly sideloaded remotes without requiring a restart</li>\n<li>Less abrupt transition when changing app sources</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.7.1"
+      },
+      {
+        "version": "3.7.0",
+        "release_date": "2021-08-26T02:19:00",
+        "title": "appcenter 3.7.0 Released",
+        "body": "<p>Fixes:</p>\n<ul>\n<li>Install Linux kernel headers for device drivers that use DKMS</li>\n<li>Use system Flatpak runtimes for locally installed apps</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Mention Sideload when search returns no results</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.7.0"
+      },
+      {
+        "version": "3.6.3",
+        "release_date": "2021-08-16T06:39:23",
+        "title": "appcenter 3.6.3 Released",
+        "body": "<p>Fixes:</p>\n<ul>\n<li>Ensure user installation is selected by default when navigating from the homepage</li>\n<li>Fix opening apps from app installed toasts</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.6.3"
+      },
+      {
+        "version": "3.6.2",
+        "release_date": "2021-08-09T18:08:10",
+        "title": "appcenter 3.6.2 Released",
+        "body": "<p>Fixes:</p>\n<ul>\n<li>Install Linux kernel headers with NVIDIA drivers</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.6.2"
+      },
+      {
+        "version": "3.6.1",
+        "release_date": "2021-08-03T00:31:07",
+        "title": "appcenter 3.6.1 Released",
+        "body": "<p>Fixes:</p>\n<ul>\n<li>Show Recently Updated Flatpak apps on home page</li>\n<li>Show brand colors and support payments for Flatpak apps</li>\n<li>Fix missing mail icon in payments dialog</li>\n<li>Fix missing privacy policy in payments dialog</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.6.1"
+      },
+      {
+        "version": "3.6.0",
+        "release_date": "2021-07-16T19:00:21",
+        "title": "appcenter 3.6.0 Released",
+        "body": "<p>New features:</p>\n<ul>\n<li>Show in-app notification when an app is installed</li>\n<li>Add contextual badges to notifications</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Ensure Home button is usable during search</li>\n<li>Ask the user to manually restart if we can't ask the session to prompt</li>\n<li>Improve styling and contrast of buttons</li>\n<li>More concise and consistent language</li>\n<li>Updated translations</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Fully uninstall Flatpaks, including locales</li>\n<li>Still fetch screenshots from remotes that don't include proper headers</li>\n<li>Fix truncated footer buttons</li>\n<li>Only show Mail button when a usable mail app is installed</li>\n<li>Fix some apps incorrectly showing as not installed during search</li>\n<li>Show an error dialog when opening an app fails</li>\n</ul>\n",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.6.0"
+      },
+      {
+        "version": "3.5.1",
+        "release_date": "2020-10-08T17:26:39",
+        "title": "appcenter 3.5.1 Released",
+        "body": "<p>Fixes</p>\n<ul>\n<li>Correctly display names of Flatpak runtime updates</li>\n</ul>\n<p>Minor updates</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.5.1"
+      },
+      {
+        "version": "3.5.0",
+        "release_date": "2020-10-07T03:57:49",
+        "title": "appcenter 3.5.0 Released",
+        "body": "<p>New features</p>\n<ul>\n<li>Support system-wide Flatpak remotes</li>\n</ul>\n<p>Fixes</p>\n<ul>\n<li>Fix Flatpak runtime updates getting stuck</li>\n<li>Fix long origin comboboxes breaking the header layout</li>\n</ul>\n<p>Minor updates</p>\n<ul>\n<li>When apps are available from multiple sources, prefer installed version, then prefer Flatpak</li>\n<li>Improve search performance</li>\n<li>Improve update badge styling and category styling</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.5.0"
+      },
+      {
+        "version": "3.4.2",
+        "release_date": "2020-08-07T17:40:17",
+        "title": "appcenter 3.4.2 Released",
+        "body": "<p>Fixes</p>\n<ul>\n<li>Ensure AppCenter is reopened at the correct position</li>\n<li>Clicking the updates badge in the header navigates to the updates view</li>\n</ul>\n<p>Minor updates</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.4.2"
+      },
+      {
+        "version": "3.4.1",
+        "release_date": "2020-06-30T23:55:36",
+        "title": "appcenter 3.4.1 Released",
+        "body": "<p>Fixes</p>\n<ul>\n<li>Ensure all updatable Flatpak runtimes are listed for update</li>\n</ul>\n<p>Minor updates</p>\n<ul>\n<li>Performance improvments</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.4.1"
+      },
+      {
+        "version": "3.4.0",
+        "release_date": "2020-05-28T18:09:17",
+        "title": "appcenter 3.4.0 Released",
+        "body": "<p>New features</p>\n<ul>\n<li>Perform updates without administrator permissions</li>\n</ul>\n<p>Minor updates</p>\n<ul>\n<li>Ensure apps on the homepage are more reliably displayed</li>\n<li>More reliably set the Dock badge number</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.4.0"
+      },
+      {
+        "version": "3.3.0",
+        "release_date": "2020-04-29T21:46:10",
+        "title": "appcenter 3.3.0 Released",
+        "body": "<p>Performance improvements</p>\n<ul>\n<li>Only check for updates at device startup if it's more than 24 hours since we last checked</li>\n<li>Reduce slowdowns when opening certain apps</li>\n</ul>\n<p>Extension improvements</p>\n<ul>\n<li>To de-clutter the updates view, extensions are now only shown if they require updates</li>\n<li>Clicking an extension on an app's info page now shows details for the extension</li>\n<li>Swap the main and overlay icons for extensions to more clearly associate extensions with their app</li>\n</ul>\n<p>Keyboard improvements</p>\n<ul>\n<li>Pressing down in the search field moves the keyboard focus to the search results list</li>\n<li>Ctrl+F now moves the cursor to the search field</li>\n</ul>\n<p>Fixes</p>\n<ul>\n<li>Use configured network proxy settings for apt operations</li>\n<li>No longer prompt for approval to update non-curated apps</li>\n<li>Ensure the OS updates subheading copy is correct after finishing updates</li>\n<li>Ellipsize long app names in App Info views</li>\n</ul>\n<p>And more</p>\n<ul>\n<li>Show a more informative loading screen when checking for updates</li>\n<li>Don't list fonts alongside apps</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.3.0"
+      },
+      {
+        "version": "3.2.4",
+        "release_date": "2020-04-08T23:32:02",
+        "title": "appcenter 3.2.4 Released",
+        "body": "<p>Fixes</p>\n<ul>\n<li>Prevent crashes when updating Flatpaks and system packages simultaneously</li>\n<li>Prevent suspending when installing, updating, or removing packages</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.2.4"
+      },
+      {
+        "version": "3.2.3",
+        "release_date": "2020-04-02T00:19:54",
+        "title": "appcenter 3.2.3 Released",
+        "body": "appcenter 3.2.3 is out! \n\n<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.2.3"
+      },
+      {
+        "version": "3.2.2",
+        "release_date": "2020-02-28T20:49:46",
+        "title": "appcenter 3.2.2 Released",
+        "body": "appcenter 3.2.2 is out! \n\n<p>Minor fixes</p>\n<ul>\n<li>Update application details when changes happen outside of AppCenter</li>\n<li>Fix for notification not appearing when a restart is required</li>\n<li>Apps in list views now load in the correct order when scrolling</li>\n<li>Prevent unescaped XML entities from appearing in application names</li>\n<li>Load the \"Installed\" view faster</li>\n<li>Ensure flatpak applications show in the category views</li>\n<li>Save some bandwidth by downloading smaller screenshots where appropriate</li>\n<li>System components no longer have an \"Open\" button</li>\n<li>Applications menu can now remove flatpaks that weren't installed by AppCenter</li>\n<li>Make download size estimates more accurate</li>\n</ul>\n",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.2.2"
+      },
+      {
+        "version": "3.2.1",
+        "release_date": "2019-12-02T17:54:05",
+        "title": "appcenter 3.2.1 Released",
+        "body": "appcenter 3.2.1 is out! \n\n<p>Minor fixes</p>\n<ul>\n<li>Prevent AppCenter from opening on log in</li>\n<li>Prevent ghost update notification when there are no updates available</li>\n<li>Show correct installation state for extensions</li>\n</ul>\n",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.2.1"
+      },
+      {
+        "version": "3.2.0",
+        "release_date": "2019-10-31T16:05:57",
+        "title": "appcenter 3.2.0 Released",
+        "body": "appcenter 3.2.0 is out! \n\nChanges:\n\n* Add support for Flatpak apps\n* Warn about non-curated apps\n* Show an error dialog if an installation fails\n* Fix an issue where some apps couldn't be uninstalled from the Applications Menu\n* Allow browsing and uninstalling apps while offline\n* Fix twitter share URLs\n* Drop Google+ from the share menu\n* Animate screenshot background while loading\n* Add navigation arrows for screenshots\n* Don't show uninstall buttons for essential system components\n* Properly display proprietary licenses\n* Fix some layout issues\n* Fix crashes\n* Performance improvements\n* Updated translations\n",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.2.0"
+      },
+      {
+        "version": "3.1.1",
+        "release_date": "2019-02-15T00:56:08",
+        "title": "AppCenter 3.1.1 Released",
+        "body": "AppCenter 3.1.1 is out!\r\n\r\nChanges:\r\n* Meson build system fixes\r\n* Improve window state restoration\r\n* Prevent action buttons from jumping around\r\n* Remove reset paid apps gsettings key\r\n* Memory management refinements\r\n* Add conditional compilation for disabling dynamic remote homepage content\r\n* Updated translations",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.1.1"
+      },
+      {
+        "version": "3.1.0",
+        "release_date": "2019-01-02T07:14:19",
+        "title": "AppCenter 3.1.0 Released",
+        "body": "AppCenter 3.1.0 is out!\r\n\r\nChanges:\r\n* New categories: `Communication`, `Finance`, `Media Production`\r\n* Add `Math` to `Science` category\r\n* Relax email address validator\r\n* Present update availability more accurately\r\n* Category graphics revamped\r\n* Updated translations",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.1.0"
+      },
+      {
+        "version": "3.0.1",
+        "release_date": "2018-10-25T11:44:28",
+        "title": "AppCenter 3.0.1 Released",
+        "body": "AppCenter 3.0.1 is out!\r\n\r\nThis release includes updated translations.",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.0.1"
+      },
+      {
+        "version": "3.0",
+        "release_date": "2018-10-16T10:33:33",
+        "title": "AppCenter 3.0 Released",
+        "body": "AppCenter 3.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/appcenter/issues?q=is%3Aclosed+milestone%3A3.0).",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.0"
+      },
+      {
+        "version": "0.2.9",
+        "release_date": "2018-03-02T12:24:42",
+        "title": "AppCenter 0.2.9 Released",
+        "body": "AppCenter 0.2.9 is out!\r\n\r\nThis release includes several [bug fixes](https://github.com/elementary/appcenter/issues?q=is%3Aclosed+milestone%3A0.2.9).",
+        "href": "https://github.com/elementary/appcenter/releases/tag/0.2.9"
+      },
+      {
+        "version": "0.2.8",
+        "release_date": "2018-01-25T17:00:38",
+        "title": "AppCenter 0.2.8 Released",
+        "body": "AppCenter 0.2.8 is out!\r\n\r\nThis release includes several [bug fixes](https://github.com/elementary/appcenter/issues?q=is%3Aclosed+milestone%3A0.2.8).",
+        "href": "https://github.com/elementary/appcenter/releases/tag/0.2.8"
+      },
+      {
+        "version": "0.2.7",
+        "release_date": "2017-11-07T12:18:38",
+        "title": "AppCenter 0.2.7 Released",
+        "body": "AppCenter 0.2.7 is out!\r\n\r\nThis release includes several [bug fixes](https://github.com/elementary/appcenter/issues?q=is%3Aclosed+milestone%3A0.2.7).",
+        "href": "https://github.com/elementary/appcenter/releases/tag/0.2.7"
+      },
+      {
+        "version": "0.2.6",
+        "release_date": "2017-09-18T12:01:32",
+        "title": "AppCenter 0.2.6 Released",
+        "body": "AppCenter 0.2.6 is out!\r\n\r\nThis release includes several [bug fixes](https://github.com/elementary/appcenter/issues?q=is%3Aclosed+milestone%3A0.2.6).",
+        "href": "https://github.com/elementary/appcenter/releases/tag/0.2.6"
+      },
+      {
+        "version": "0.2.5",
+        "release_date": "2017-08-04T11:08:14",
+        "title": "AppCenter 0.2.5 Released",
+        "body": "AppCenter 0.2.5 is out!\r\n\r\nThis release includes several [bug fixes](https://github.com/elementary/appcenter/milestone/7?closed=1).",
+        "href": "https://github.com/elementary/appcenter/releases/tag/0.2.5"
+      },
+      {
+        "version": "0.2.4",
+        "release_date": "2017-07-04T07:12:53",
+        "title": "AppCenter 0.2.4 Released",
+        "body": "AppCenter 0.2.4 is out!\r\n\r\nThis release includes several [bug fixes](https://github.com/elementary/appcenter/milestone/6?closed=1).",
+        "href": "https://github.com/elementary/appcenter/releases/tag/0.2.4"
+      },
+      {
+        "version": "0.2.3",
+        "release_date": "2017-05-31T22:15:24",
+        "title": "AppCenter 0.2.3 Released",
+        "body": "AppCenter 0.2.3 is out!\r\n\r\nThis release includes several [bug fixes](https://github.com/elementary/appcenter/milestone/5?closed=1).",
+        "href": "https://github.com/elementary/appcenter/releases/tag/0.2.3"
+      },
+      {
+        "version": "0.2.2",
+        "release_date": "2017-05-21T23:17:29",
+        "title": "AppCenter 0.2.2 Released",
+        "body": "AppCenter 0.2.2 is out!",
+        "href": "https://github.com/elementary/appcenter/releases/tag/0.2.2"
+      },
+      {
+        "version": "0.2.1",
+        "release_date": "2017-05-19T19:37:42",
+        "title": "AppCenter 0.2.1 Released",
+        "body": "AppCenter 0.2.1 is out!",
+        "href": "https://github.com/elementary/appcenter/releases/tag/0.2.1"
+      },
+      {
+        "version": "0.2",
+        "release_date": "2017-05-17T11:35:13",
+        "title": "AppCenter 0.2 Released",
+        "body": "AppCenter 0.2 is out!\r\n\r\nThis release includes several [bug fixes](https://github.com/elementary/appcenter/milestone/1?closed=1)",
+        "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
+      }
+    ],
+    "new_commits": 0
+  },
+  {
     "name": "files",
     "releases": [
       {
@@ -400,152 +1005,6 @@
       }
     ],
     "new_commits": 0
-  },
-  {
-    "name": "applications-menu",
-    "releases": [
-      {
-        "version": "2.10.1",
-        "release_date": "2021-11-24T22:02:41",
-        "title": "applications-menu 2.10.1 Released",
-        "body": "<p>Fixes:</p>\n<ul>\n<li>Fix a regression with settings search</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/applications-menu/releases/tag/2.10.1"
-      },
-      {
-        "version": "2.10.0",
-        "release_date": "2021-11-23T21:03:30",
-        "title": "applications-menu 2.10.0 Released",
-        "body": "<p>New features:</p>\n<ul>\n<li>Show search results for bookmarked folders</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Prevent a potential crash on startup</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/applications-menu/releases/tag/2.10.0"
-      },
-      {
-        "version": "2.9.1",
-        "release_date": "2021-10-26T18:32:54",
-        "title": "Applications Menu 2.9.1 Released",
-        "body": "<p>Improvements:</p>\r\n<ul>\r\n<li>Show secondary click menu for search results</li>\r\n<li>Updated translations</li>\r\n</ul>",
-        "href": "https://github.com/elementary/applications-menu/releases/tag/2.9.1"
-      },
-      {
-        "version": "2.9.0",
-        "release_date": "2021-09-27T20:30:03",
-        "title": "Applications Menu 2.9.0 Released",
-        "body": "<p>New features</p>\r\n<ul>\r\n<li>Launch apps selectively on integrated or dedicated graphics for systems with hybrid graphics</li>\r\n</ul>\r\n<p>Minor updates</p>\r\n<ul>\r\n<li>Updated translations</li>\r\n</ul>",
-        "href": "https://github.com/elementary/applications-menu/releases/tag/2.9.0"
-      },
-      {
-        "version": "2.8.2",
-        "release_date": "2021-08-30T17:37:01",
-        "title": "applications-menu 2.8.2 Released",
-        "body": "<p>Minor updates</p>\n<ul>\n<li>Show apps with no category under \"Other\"</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/applications-menu/releases/tag/2.8.2"
-      },
-      {
-        "version": "2.8.1",
-        "release_date": "2021-08-26T20:27:26",
-        "title": "applications-menu 2.8.1 Released",
-        "body": "<p>Minor updates</p>\n<ul>\n<li>Fix an issue where Flatpak apps wouldn't show until after a restart</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/applications-menu/releases/tag/2.8.1"
-      },
-      {
-        "version": "2.8.0",
-        "release_date": "2021-07-14T22:55:20",
-        "title": "applications-menu 2.8.0 Released",
-        "body": "<p>Minor updates</p>\n<ul>\n<li>Sort app actions above AppCenter search</li>\n<li>Always hide Terminal-based programs</li>\n<li>Remove document viewer from block list</li>\n<li>Support fractions without leading number in calculator</li>\n<li>Show overlay key in tooltip when set</li>\n<li>Performance improvements</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/applications-menu/releases/tag/2.8.0"
-      },
-      {
-        "version": "2.7.1",
-        "release_date": "2020-05-28T18:38:55",
-        "title": "applications-menu 2.7.1 Released",
-        "body": "<p>Minor updates</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/applications-menu/releases/tag/2.7.1"
-      },
-      {
-        "version": "2.7.0",
-        "release_date": "2020-04-29T21:58:06",
-        "title": "applications-menu 2.7.0 Released",
-        "body": "<p>Minor updates</p>\n<ul>\n<li>Smoother navigation gesture in grid view and touchscreen gesture support</li>\n<li>Focus search when navigating up from the category view</li>\n<li>Don't focus search when pressing modifier keys</li>\n<li>Ensure categories are sorted alphabetically</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/applications-menu/releases/tag/2.7.0"
-      },
-      {
-        "version": "2.6.0",
-        "release_date": "2020-04-09T20:38:38",
-        "title": "applications-menu 2.6.0 Released",
-        "body": "<p>Category view is now a list</p>\n<p>Improved keyboard navigation</p>\n<p>Performance improvements</p>\n<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/applications-menu/releases/tag/2.6.0"
-      },
-      {
-        "version": "2.5.0",
-        "release_date": "2019-11-25T17:07:00",
-        "title": "applications-menu 2.5.0 Released",
-        "body": "applications-menu 2.5.0 is out! \n\nChanges:\n\n* Improved keyboard navigation, including new tooltips and menu key support\n* Highlight action matches in the search view\n* Add a \"View in AppCenter\" menu item\n* Performance improvements\n* Updated translations\n",
-        "href": "https://github.com/elementary/applications-menu/releases/tag/2.5.0"
-      },
-      {
-        "version": "2.4.4",
-        "release_date": "2019-08-20T23:54:30",
-        "title": "Slingshot 2.4.4 Released",
-        "body": "slingshot-launcher 2.4.4 is out!\r\n\r\nChanges:\r\n* Don\u2019t launch apps being dragged from search results\r\n* Prevent AppCenter from possibly freezing panel\r\n* Drop support for Plank `< 0.11`\r\n* Updated translations",
-        "href": "https://github.com/elementary/applications-menu/releases/tag/2.4.4"
-      },
-      {
-        "version": "2.4.3",
-        "release_date": "2019-05-16T10:10:36",
-        "title": "Slingshot 2.4.3 Released",
-        "body": "slingshot-launcher 2.4.3 is out!\r\n\r\nChanges:\r\n* Build system fixes\r\n* Support more system management keywords\r\n* Fix ignored translations in search results\r\n* Keyboard navigation fix\r\n* Updated translations",
-        "href": "https://github.com/elementary/applications-menu/releases/tag/2.4.3"
-      },
-      {
-        "version": "2.4.2",
-        "release_date": "2019-01-22T09:51:45",
-        "title": "Slingshot 2.4.2 Released",
-        "body": "slingshot-launcher 2.4.2 is out!\r\n\r\nChanges:\r\n* Don't highlight query in text search results\r\n* Add Meson build system\r\n* Use Granite for tooltip accels\r\n* Updated translations",
-        "href": "https://github.com/elementary/applications-menu/releases/tag/2.4.2"
-      },
-      {
-        "version": "2.4.1",
-        "release_date": "2018-12-07T18:41:24",
-        "title": "Slingshot 2.4.1 Released",
-        "body": "slingshot-launcher 2.4.1 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/applications-menu/issues?q=is%3Aclosed+milestone%3A2.4.1).",
-        "href": "https://github.com/elementary/applications-menu/releases/tag/2.4.1"
-      },
-      {
-        "version": "2.4.0",
-        "release_date": "2018-09-18T15:41:03",
-        "title": "Slingshot 2.4.0 Released",
-        "body": "slingshot-launcher 2.4.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/applications-menu/issues?q=is%3Aclosed+milestone%3A2.4.0).",
-        "href": "https://github.com/elementary/applications-menu/releases/tag/2.4.0"
-      },
-      {
-        "version": "2.3.0",
-        "release_date": "2018-06-20T05:30:04",
-        "title": "Slingshot 2.3.0 Released",
-        "body": "slingshot-launcher 2.3.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/applications-menu/issues?q=is%3Aclosed+milestone%3A2.3.0).",
-        "href": "https://github.com/elementary/applications-menu/releases/tag/2.3.0"
-      },
-      {
-        "version": "2.2.0",
-        "release_date": "2017-09-26T14:20:28",
-        "title": "Slingshot 2.2.0 Released",
-        "body": "slingshot-launcher 2.2.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/applications-menu/issues?q=is%3Aclosed+milestone%3A2.2.0).",
-        "href": "https://github.com/elementary/applications-menu/releases/tag/2.2.0"
-      },
-      {
-        "version": "2.1.3",
-        "release_date": "2017-05-15T12:00:23",
-        "title": "Slingshot 2.1.3 Released",
-        "body": "slingshot-launcher 2.1.3 is out!",
-        "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.3"
-      },
-      {
-        "version": "2.1.2",
-        "release_date": "2017-05-12T08:49:05",
-        "title": "Slingshot 2.1.2 Released",
-        "body": "slingshot-launcher 2.1.2 is out!",
-        "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
-      }
-    ],
-    "new_commits": 38
   },
   {
     "name": "icons",
@@ -1073,257 +1532,6 @@
       }
     ],
     "new_commits": 10
-  },
-  {
-    "name": "appcenter",
-    "releases": [
-      {
-        "version": "3.9.0",
-        "release_date": "2021-11-23T21:22:44",
-        "title": "appcenter 3.9.0 Released",
-        "body": "<p>Improvements:</p>\n<ul>\n<li>Amusements appear in the Games category</li>\n<li>Categories show as a grid instead of a list</li>\n<li>Allow window to shrink to much narrower sizes</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.9.0"
-      },
-      {
-        "version": "3.8.2",
-        "release_date": "2021-10-29T17:35:37",
-        "title": "AppCenter 3.8.2 Released!",
-        "body": "## What's Changed\r\n* FlatpakBackend: Handle transaction success state correctly by @davidmhewitt in https://github.com/elementary/appcenter/pull/1730\r\n* FlatpakBackend: Sort stable apps in XML first by @davidmhewitt in https://github.com/elementary/appcenter/pull/1731\r\n* FlatpakBackend: Improve XML parsing efficiency by @davidmhewitt in https://github.com/elementary/appcenter/pull/1733\r\n\r\n**Full Changelog**: https://github.com/elementary/appcenter/compare/3.8.1...3.8.2",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.8.2"
-      },
-      {
-        "version": "3.8.1",
-        "release_date": "2021-10-26T17:02:14",
-        "title": "AppCenter 3.8.1 Released",
-        "body": "<p>Fixes:</p>\r\n<ul>\r\n<li>Don't store $0 app installs as paid</li>\r\n<li>Fix missing illicit substances icon</li>\r\n<li>Don't show plugins on the homepage</li>\r\n<li>Only show \"Multiplayer\" badge for games</li>\r\n</ul>\r\n<p>Improvements:</p>\r\n<ul>\r\n<li>Show installation progress in a more compact way</li>\r\n<li>Updated translations</li>\r\n</ul>",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.8.1"
-      },
-      {
-        "version": "3.8.0",
-        "release_date": "2021-09-21T21:48:38",
-        "title": "AppCenter 3.8.0 Released",
-        "body": "New features:\r\n - Show content warnings on app info pages\r\n\r\nFixes:\r\n- Show other apps by an author for Flatpak sources\r\n- Populate banner on home locally instead of relying on an external API\r\n\r\nImprovements:\r\n- Greatly increased number of recently-updated apps shown on home page\r\n- Navigate banners on the home page with multitouch gestures\r\n- Updated translations",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.8.0"
-      },
-      {
-        "version": "3.7.1",
-        "release_date": "2021-08-30T18:37:19",
-        "title": "appcenter 3.7.1 Released",
-        "body": "<p>Improvements:</p>\n<ul>\n<li>Show apps from newly sideloaded remotes without requiring a restart</li>\n<li>Less abrupt transition when changing app sources</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.7.1"
-      },
-      {
-        "version": "3.7.0",
-        "release_date": "2021-08-26T02:19:00",
-        "title": "appcenter 3.7.0 Released",
-        "body": "<p>Fixes:</p>\n<ul>\n<li>Install Linux kernel headers for device drivers that use DKMS</li>\n<li>Use system Flatpak runtimes for locally installed apps</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Mention Sideload when search returns no results</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.7.0"
-      },
-      {
-        "version": "3.6.3",
-        "release_date": "2021-08-16T06:39:23",
-        "title": "appcenter 3.6.3 Released",
-        "body": "<p>Fixes:</p>\n<ul>\n<li>Ensure user installation is selected by default when navigating from the homepage</li>\n<li>Fix opening apps from app installed toasts</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.6.3"
-      },
-      {
-        "version": "3.6.2",
-        "release_date": "2021-08-09T18:08:10",
-        "title": "appcenter 3.6.2 Released",
-        "body": "<p>Fixes:</p>\n<ul>\n<li>Install Linux kernel headers with NVIDIA drivers</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.6.2"
-      },
-      {
-        "version": "3.6.1",
-        "release_date": "2021-08-03T00:31:07",
-        "title": "appcenter 3.6.1 Released",
-        "body": "<p>Fixes:</p>\n<ul>\n<li>Show Recently Updated Flatpak apps on home page</li>\n<li>Show brand colors and support payments for Flatpak apps</li>\n<li>Fix missing mail icon in payments dialog</li>\n<li>Fix missing privacy policy in payments dialog</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.6.1"
-      },
-      {
-        "version": "3.6.0",
-        "release_date": "2021-07-16T19:00:21",
-        "title": "appcenter 3.6.0 Released",
-        "body": "<p>New features:</p>\n<ul>\n<li>Show in-app notification when an app is installed</li>\n<li>Add contextual badges to notifications</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Ensure Home button is usable during search</li>\n<li>Ask the user to manually restart if we can't ask the session to prompt</li>\n<li>Improve styling and contrast of buttons</li>\n<li>More concise and consistent language</li>\n<li>Updated translations</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Fully uninstall Flatpaks, including locales</li>\n<li>Still fetch screenshots from remotes that don't include proper headers</li>\n<li>Fix truncated footer buttons</li>\n<li>Only show Mail button when a usable mail app is installed</li>\n<li>Fix some apps incorrectly showing as not installed during search</li>\n<li>Show an error dialog when opening an app fails</li>\n</ul>\n",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.6.0"
-      },
-      {
-        "version": "3.5.1",
-        "release_date": "2020-10-08T17:26:39",
-        "title": "appcenter 3.5.1 Released",
-        "body": "<p>Fixes</p>\n<ul>\n<li>Correctly display names of Flatpak runtime updates</li>\n</ul>\n<p>Minor updates</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.5.1"
-      },
-      {
-        "version": "3.5.0",
-        "release_date": "2020-10-07T03:57:49",
-        "title": "appcenter 3.5.0 Released",
-        "body": "<p>New features</p>\n<ul>\n<li>Support system-wide Flatpak remotes</li>\n</ul>\n<p>Fixes</p>\n<ul>\n<li>Fix Flatpak runtime updates getting stuck</li>\n<li>Fix long origin comboboxes breaking the header layout</li>\n</ul>\n<p>Minor updates</p>\n<ul>\n<li>When apps are available from multiple sources, prefer installed version, then prefer Flatpak</li>\n<li>Improve search performance</li>\n<li>Improve update badge styling and category styling</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.5.0"
-      },
-      {
-        "version": "3.4.2",
-        "release_date": "2020-08-07T17:40:17",
-        "title": "appcenter 3.4.2 Released",
-        "body": "<p>Fixes</p>\n<ul>\n<li>Ensure AppCenter is reopened at the correct position</li>\n<li>Clicking the updates badge in the header navigates to the updates view</li>\n</ul>\n<p>Minor updates</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.4.2"
-      },
-      {
-        "version": "3.4.1",
-        "release_date": "2020-06-30T23:55:36",
-        "title": "appcenter 3.4.1 Released",
-        "body": "<p>Fixes</p>\n<ul>\n<li>Ensure all updatable Flatpak runtimes are listed for update</li>\n</ul>\n<p>Minor updates</p>\n<ul>\n<li>Performance improvments</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.4.1"
-      },
-      {
-        "version": "3.4.0",
-        "release_date": "2020-05-28T18:09:17",
-        "title": "appcenter 3.4.0 Released",
-        "body": "<p>New features</p>\n<ul>\n<li>Perform updates without administrator permissions</li>\n</ul>\n<p>Minor updates</p>\n<ul>\n<li>Ensure apps on the homepage are more reliably displayed</li>\n<li>More reliably set the Dock badge number</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.4.0"
-      },
-      {
-        "version": "3.3.0",
-        "release_date": "2020-04-29T21:46:10",
-        "title": "appcenter 3.3.0 Released",
-        "body": "<p>Performance improvements</p>\n<ul>\n<li>Only check for updates at device startup if it's more than 24 hours since we last checked</li>\n<li>Reduce slowdowns when opening certain apps</li>\n</ul>\n<p>Extension improvements</p>\n<ul>\n<li>To de-clutter the updates view, extensions are now only shown if they require updates</li>\n<li>Clicking an extension on an app's info page now shows details for the extension</li>\n<li>Swap the main and overlay icons for extensions to more clearly associate extensions with their app</li>\n</ul>\n<p>Keyboard improvements</p>\n<ul>\n<li>Pressing down in the search field moves the keyboard focus to the search results list</li>\n<li>Ctrl+F now moves the cursor to the search field</li>\n</ul>\n<p>Fixes</p>\n<ul>\n<li>Use configured network proxy settings for apt operations</li>\n<li>No longer prompt for approval to update non-curated apps</li>\n<li>Ensure the OS updates subheading copy is correct after finishing updates</li>\n<li>Ellipsize long app names in App Info views</li>\n</ul>\n<p>And more</p>\n<ul>\n<li>Show a more informative loading screen when checking for updates</li>\n<li>Don't list fonts alongside apps</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.3.0"
-      },
-      {
-        "version": "3.2.4",
-        "release_date": "2020-04-08T23:32:02",
-        "title": "appcenter 3.2.4 Released",
-        "body": "<p>Fixes</p>\n<ul>\n<li>Prevent crashes when updating Flatpaks and system packages simultaneously</li>\n<li>Prevent suspending when installing, updating, or removing packages</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.2.4"
-      },
-      {
-        "version": "3.2.3",
-        "release_date": "2020-04-02T00:19:54",
-        "title": "appcenter 3.2.3 Released",
-        "body": "appcenter 3.2.3 is out! \n\n<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.2.3"
-      },
-      {
-        "version": "3.2.2",
-        "release_date": "2020-02-28T20:49:46",
-        "title": "appcenter 3.2.2 Released",
-        "body": "appcenter 3.2.2 is out! \n\n<p>Minor fixes</p>\n<ul>\n<li>Update application details when changes happen outside of AppCenter</li>\n<li>Fix for notification not appearing when a restart is required</li>\n<li>Apps in list views now load in the correct order when scrolling</li>\n<li>Prevent unescaped XML entities from appearing in application names</li>\n<li>Load the \"Installed\" view faster</li>\n<li>Ensure flatpak applications show in the category views</li>\n<li>Save some bandwidth by downloading smaller screenshots where appropriate</li>\n<li>System components no longer have an \"Open\" button</li>\n<li>Applications menu can now remove flatpaks that weren't installed by AppCenter</li>\n<li>Make download size estimates more accurate</li>\n</ul>\n",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.2.2"
-      },
-      {
-        "version": "3.2.1",
-        "release_date": "2019-12-02T17:54:05",
-        "title": "appcenter 3.2.1 Released",
-        "body": "appcenter 3.2.1 is out! \n\n<p>Minor fixes</p>\n<ul>\n<li>Prevent AppCenter from opening on log in</li>\n<li>Prevent ghost update notification when there are no updates available</li>\n<li>Show correct installation state for extensions</li>\n</ul>\n",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.2.1"
-      },
-      {
-        "version": "3.2.0",
-        "release_date": "2019-10-31T16:05:57",
-        "title": "appcenter 3.2.0 Released",
-        "body": "appcenter 3.2.0 is out! \n\nChanges:\n\n* Add support for Flatpak apps\n* Warn about non-curated apps\n* Show an error dialog if an installation fails\n* Fix an issue where some apps couldn't be uninstalled from the Applications Menu\n* Allow browsing and uninstalling apps while offline\n* Fix twitter share URLs\n* Drop Google+ from the share menu\n* Animate screenshot background while loading\n* Add navigation arrows for screenshots\n* Don't show uninstall buttons for essential system components\n* Properly display proprietary licenses\n* Fix some layout issues\n* Fix crashes\n* Performance improvements\n* Updated translations\n",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.2.0"
-      },
-      {
-        "version": "3.1.1",
-        "release_date": "2019-02-15T00:56:08",
-        "title": "AppCenter 3.1.1 Released",
-        "body": "AppCenter 3.1.1 is out!\r\n\r\nChanges:\r\n* Meson build system fixes\r\n* Improve window state restoration\r\n* Prevent action buttons from jumping around\r\n* Remove reset paid apps gsettings key\r\n* Memory management refinements\r\n* Add conditional compilation for disabling dynamic remote homepage content\r\n* Updated translations",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.1.1"
-      },
-      {
-        "version": "3.1.0",
-        "release_date": "2019-01-02T07:14:19",
-        "title": "AppCenter 3.1.0 Released",
-        "body": "AppCenter 3.1.0 is out!\r\n\r\nChanges:\r\n* New categories: `Communication`, `Finance`, `Media Production`\r\n* Add `Math` to `Science` category\r\n* Relax email address validator\r\n* Present update availability more accurately\r\n* Category graphics revamped\r\n* Updated translations",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.1.0"
-      },
-      {
-        "version": "3.0.1",
-        "release_date": "2018-10-25T11:44:28",
-        "title": "AppCenter 3.0.1 Released",
-        "body": "AppCenter 3.0.1 is out!\r\n\r\nThis release includes updated translations.",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.0.1"
-      },
-      {
-        "version": "3.0",
-        "release_date": "2018-10-16T10:33:33",
-        "title": "AppCenter 3.0 Released",
-        "body": "AppCenter 3.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/appcenter/issues?q=is%3Aclosed+milestone%3A3.0).",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.0"
-      },
-      {
-        "version": "0.2.9",
-        "release_date": "2018-03-02T12:24:42",
-        "title": "AppCenter 0.2.9 Released",
-        "body": "AppCenter 0.2.9 is out!\r\n\r\nThis release includes several [bug fixes](https://github.com/elementary/appcenter/issues?q=is%3Aclosed+milestone%3A0.2.9).",
-        "href": "https://github.com/elementary/appcenter/releases/tag/0.2.9"
-      },
-      {
-        "version": "0.2.8",
-        "release_date": "2018-01-25T17:00:38",
-        "title": "AppCenter 0.2.8 Released",
-        "body": "AppCenter 0.2.8 is out!\r\n\r\nThis release includes several [bug fixes](https://github.com/elementary/appcenter/issues?q=is%3Aclosed+milestone%3A0.2.8).",
-        "href": "https://github.com/elementary/appcenter/releases/tag/0.2.8"
-      },
-      {
-        "version": "0.2.7",
-        "release_date": "2017-11-07T12:18:38",
-        "title": "AppCenter 0.2.7 Released",
-        "body": "AppCenter 0.2.7 is out!\r\n\r\nThis release includes several [bug fixes](https://github.com/elementary/appcenter/issues?q=is%3Aclosed+milestone%3A0.2.7).",
-        "href": "https://github.com/elementary/appcenter/releases/tag/0.2.7"
-      },
-      {
-        "version": "0.2.6",
-        "release_date": "2017-09-18T12:01:32",
-        "title": "AppCenter 0.2.6 Released",
-        "body": "AppCenter 0.2.6 is out!\r\n\r\nThis release includes several [bug fixes](https://github.com/elementary/appcenter/issues?q=is%3Aclosed+milestone%3A0.2.6).",
-        "href": "https://github.com/elementary/appcenter/releases/tag/0.2.6"
-      },
-      {
-        "version": "0.2.5",
-        "release_date": "2017-08-04T11:08:14",
-        "title": "AppCenter 0.2.5 Released",
-        "body": "AppCenter 0.2.5 is out!\r\n\r\nThis release includes several [bug fixes](https://github.com/elementary/appcenter/milestone/7?closed=1).",
-        "href": "https://github.com/elementary/appcenter/releases/tag/0.2.5"
-      },
-      {
-        "version": "0.2.4",
-        "release_date": "2017-07-04T07:12:53",
-        "title": "AppCenter 0.2.4 Released",
-        "body": "AppCenter 0.2.4 is out!\r\n\r\nThis release includes several [bug fixes](https://github.com/elementary/appcenter/milestone/6?closed=1).",
-        "href": "https://github.com/elementary/appcenter/releases/tag/0.2.4"
-      },
-      {
-        "version": "0.2.3",
-        "release_date": "2017-05-31T22:15:24",
-        "title": "AppCenter 0.2.3 Released",
-        "body": "AppCenter 0.2.3 is out!\r\n\r\nThis release includes several [bug fixes](https://github.com/elementary/appcenter/milestone/5?closed=1).",
-        "href": "https://github.com/elementary/appcenter/releases/tag/0.2.3"
-      },
-      {
-        "version": "0.2.2",
-        "release_date": "2017-05-21T23:17:29",
-        "title": "AppCenter 0.2.2 Released",
-        "body": "AppCenter 0.2.2 is out!",
-        "href": "https://github.com/elementary/appcenter/releases/tag/0.2.2"
-      },
-      {
-        "version": "0.2.1",
-        "release_date": "2017-05-19T19:37:42",
-        "title": "AppCenter 0.2.1 Released",
-        "body": "AppCenter 0.2.1 is out!",
-        "href": "https://github.com/elementary/appcenter/releases/tag/0.2.1"
-      },
-      {
-        "version": "0.2",
-        "release_date": "2017-05-17T11:35:13",
-        "title": "AppCenter 0.2 Released",
-        "body": "AppCenter 0.2 is out!\r\n\r\nThis release includes several [bug fixes](https://github.com/elementary/appcenter/milestone/1?closed=1)",
-        "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
-      }
-    ],
-    "new_commits": 44
   },
   {
     "name": "switchboard-plug-useraccounts",
@@ -2362,103 +2570,6 @@
     "new_commits": 14
   },
   {
-    "name": "wingpanel-indicator-datetime",
-    "releases": [
-      {
-        "version": "2.3.1",
-        "release_date": "2021-10-29T23:15:33",
-        "title": "Date Time Indicator 2.3.1 Released",
-        "body": "<p>Fixes:</p>\r\n<ul>\r\n<li>Update current day when opening</li>\r\n<li>Fix disappearing dates when changing between dark and light styles</li>\r\n<li>Fix potential memory leak</li>\r\n</ul>\r\n<p>Improvements:</p>\r\n<ul>\r\n<li>Updated translations</li>\r\n</ul>",
-        "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.3.1"
-      },
-      {
-        "version": "2.3.0",
-        "release_date": "2021-07-14T20:35:19",
-        "title": "wingpanel-indicator-datetime 2.3.0 Released",
-        "body": "<p>Add multitouch gestures</p>\n<p>Improve time zone handling</p>\n<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.3.0"
-      },
-      {
-        "version": "2.2.5",
-        "release_date": "2020-06-30T19:54:39",
-        "title": "wingpanel-indicator-datetime 2.2.5 Released",
-        "body": "<p>Fix issues with time zones not being recognized</p>\n<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.2.5"
-      },
-      {
-        "version": "2.2.4",
-        "release_date": "2020-05-28T18:53:35",
-        "title": "wingpanel-indicator-datetime 2.2.4 Released",
-        "body": "<p>Improved performance when switching months</p>\n<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.2.4"
-      },
-      {
-        "version": "2.2.3",
-        "release_date": "2020-05-18T03:11:33",
-        "title": "wingpanel-indicator-datetime 2.2.3 Released",
-        "body": "<p>Fix missing event dots in the calendar view</p>\n<p>Fix event appearance with dark style</p>\n<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.2.3"
-      },
-      {
-        "version": "2.2.2",
-        "release_date": "2020-03-29T19:40:47",
-        "title": "wingpanel-indicator-datetime 2.2.2 Released",
-        "body": "wingpanel-indicator-datetime 2.2.2 is out! \n\n<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.2.2"
-      },
-      {
-        "version": "2.2.1",
-        "release_date": "2019-11-26T18:10:05",
-        "title": "wingpanel-indicator-datetime 2.2.1 Released",
-        "body": "wingpanel-indicator-datetime 2.2.1 is out! \n\n<p>Fix potential crash when loading events with no start or end time</p>\n<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.2.1"
-      },
-      {
-        "version": "2.2.0",
-        "release_date": "2019-10-31T20:37:07",
-        "title": "wingpanel-indicator-datetime 2.2.0 Released",
-        "body": "wingpanel-indicator-datetime 2.2.0 is out! \n\nChanges:\n\n* Redesigned the way upcoming events are displayed\n* Fixed issues with large text size\n* Show dots on days with events\n* Better handling of recurring events\n* Performance improvements\n* Display an error dialog if Calendar fails to open\n* Updated translations\n",
-        "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.2.0"
-      },
-      {
-        "version": "2.1.3",
-        "release_date": "2018-12-12T01:04:37",
-        "title": "Wingpanel Date & Time Indicator 2.1.3 Released",
-        "body": "wingpanel-indicator-datetime 2.1.3 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/wingpanel-indicator-datetime/issues?q=is%3Aclosed+milestone%3A2.1.3).",
-        "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.1.3"
-      },
-      {
-        "version": "2.1.2",
-        "release_date": "2018-10-16T02:35:35",
-        "title": "Wingpanel Date & Time Indicator 2.1.2 Released",
-        "body": "wingpanel-indicator-datetime 2.1.2 is out!\r\n\r\nChanges:\r\n* Accurately select current day each open\r\n* Updated translations",
-        "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.1.2"
-      },
-      {
-        "version": "2.1.1",
-        "release_date": "2018-10-02T11:40:06",
-        "title": "Wingpanel Date & Time Indicator 2.1.1 Released",
-        "body": "wingpanel-indicator-datetime 2.1.1 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/wingpanel-indicator-datetime/issues?q=is%3Aclosed+milestone%3A2.1.1).",
-        "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.1.1"
-      },
-      {
-        "version": "2.1.0",
-        "release_date": "2018-06-19T02:18:57",
-        "title": "Wingpanel Date & Time Indicator 2.1.0 Released",
-        "body": "wingpanel-indicator-datetime 2.1.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/wingpanel-indicator-datetime/issues?q=is%3Aclosed+milestone%3A2.1.0).",
-        "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.1.0"
-      },
-      {
-        "version": "2.0.2",
-        "release_date": "2017-06-30T10:12:22",
-        "title": "Wingpanel Date & Time Indicator 2.0.2 Released",
-        "body": "wingpanel-indicator-datetime 2.0.2 is out!",
-        "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.0.2"
-      }
-    ],
-    "new_commits": 59
-  },
-  {
     "name": "shortcut-overlay",
     "releases": [
       {
@@ -2691,89 +2802,6 @@
       }
     ],
     "new_commits": 84
-  },
-  {
-    "name": "wingpanel-indicator-notifications",
-    "releases": [
-      {
-        "version": "6.0.2",
-        "release_date": "2021-10-26T18:00:25",
-        "title": "Notifications Indicator 6.0.2 Released",
-        "body": "<p>Minor updates:</p>\r\n<ul>\r\n<li>Fix DBus listening on Fedora</li>\r\n<li>Updated translations</li>\r\n</ul>",
-        "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/6.0.2"
-      },
-      {
-        "version": "6.0.1",
-        "release_date": "2021-09-27T20:37:48",
-        "title": "Notifications Indicator 6.0.1 ",
-        "body": "<p>Minor updates:</p>\r\n<ul>\r\n<li>Use app name as fallback title</li>\r\n<li>Updated translations</li>\r\n</ul>",
-        "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/6.0.1"
-      },
-      {
-        "version": "6.0.0",
-        "release_date": "2021-07-16T00:02:35",
-        "title": "wingpanel-indicator-notifications 6.0.0 Released",
-        "body": "<p>Complete redesign:</p>\n<ul>\n<li>Multitouch gestures to dismiss notifications</li>\n<li>Close button on each notification</li>\n<li>Show images and badged icons</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Show tooltip on hover </li>\n<li>Performance improvements</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/6.0.0"
-      },
-      {
-        "version": "2.1.4",
-        "release_date": "2020-04-01T23:52:26",
-        "title": "wingpanel-indicator-notifications 2.1.4 Released",
-        "body": "wingpanel-indicator-notifications 2.1.4 is out! \n\n<p>Fix issues with disappearing notifications</p>\n<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.1.4"
-      },
-      {
-        "version": "2.1.3",
-        "release_date": "2019-11-25T16:55:34",
-        "title": "wingpanel-indicator-notifications 2.1.3 Released",
-        "body": "wingpanel-indicator-notifications 2.1.3 is out! \n\nChanges:\n\n* Fix a minor visual inconsistency\n* Updated translations\n",
-        "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.1.3"
-      },
-      {
-        "version": "2.1.2",
-        "release_date": "2018-10-29T16:38:36",
-        "title": "Wingpanel Notifications Indicator 2.1.2 Released",
-        "body": "wingpanel-indicator-notifications 2.1.2 is out!\r\n\r\nChanges:\r\n* Always update the state of the indicator to prevent phantom notifications\r\n* Updated translations",
-        "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.1.2"
-      },
-      {
-        "version": "2.1.1",
-        "release_date": "2018-10-03T10:34:58",
-        "title": "Wingpanel Notifications Indicator 2.1.1 Released",
-        "body": "wingpanel-indicator-notifications 2.1.1 is out!\r\n\r\nThis release includes updated translations.",
-        "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.1.1"
-      },
-      {
-        "version": "2.1.0",
-        "release_date": "2018-06-07T10:16:48",
-        "title": "Wingpanel Notifications Indicator 2.1.0 Released",
-        "body": "wingpanel-indicator-notifications 2.1.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/wingpanel-indicator-notifications/issues?q=is%3Aclosed+milestone%3A2.1.0).",
-        "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.1.0"
-      },
-      {
-        "version": "2.0.3",
-        "release_date": "2017-10-04T02:28:04",
-        "title": "Wingpanel Notifications Indicator 2.0.3 Released",
-        "body": "wingpanel-indicator-notifications 2.0.3 is out!\r\n\r\nThis release includes support for the new settings:// URL schema.",
-        "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.0.3"
-      },
-      {
-        "version": "2.0.2",
-        "release_date": "2017-08-01T02:41:02",
-        "title": "Wingpanel Notifications Indicator 2.0.2 Released",
-        "body": "wingpanel-indicator-notifications 2.0.2 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/wingpanel-indicator-notifications/milestone/2?closed=1).",
-        "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.0.2"
-      },
-      {
-        "version": "2.0.1",
-        "release_date": "2017-05-21T22:07:11",
-        "title": "Wingpanel Notifications Indicator 2.0.1 Released",
-        "body": "wingpanel-indicator-notifications 2.0.1 is out!",
-        "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.0.1"
-      }
-    ],
-    "new_commits": 25
   },
   {
     "name": "calendar",
