@@ -150,7 +150,7 @@
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
       }
     ],
-    "new_commits": 3
+    "new_commits": 4
   },
   {
     "name": "wingpanel-indicator-datetime",
@@ -254,7 +254,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 6
+    "new_commits": 7
   },
   {
     "name": "wingpanel-indicator-notifications",
@@ -602,7 +602,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 0
+    "new_commits": 1
   },
   {
     "name": "files",
@@ -3271,7 +3271,7 @@
         "href": "https://github.com/elementary/tasks/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 238
+    "new_commits": 239
   },
   {
     "name": "wingpanel",
@@ -4155,7 +4155,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-power/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 50
+    "new_commits": 51
   },
   {
     "name": "action-appcenter-review-parse",
