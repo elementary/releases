@@ -254,7 +254,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 12
+    "new_commits": 14
   },
   {
     "name": "wingpanel-indicator-notifications",
@@ -344,7 +344,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.0.1"
       }
     ],
-    "new_commits": 2
+    "new_commits": 3
   },
   {
     "name": "appcenter",
