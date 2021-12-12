@@ -2933,7 +2933,7 @@
         "href": "https://github.com/elementary/calendar/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 24
+    "new_commits": 25
   },
   {
     "name": "switchboard-plug-display",
@@ -3271,7 +3271,7 @@
         "href": "https://github.com/elementary/tasks/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 239
+    "new_commits": 255
   },
   {
     "name": "wingpanel",
