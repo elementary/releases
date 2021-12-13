@@ -1,5 +1,495 @@
 [
   {
+    "name": "wallpapers",
+    "releases": [
+      {
+        "version": "6.1.0",
+        "release_date": "2021-12-13T22:46:29",
+        "title": "wallpapers 6.1.0 Released",
+        "body": "<ul>\n<li>Make Odin Dark the default</li>\n</ul>\n",
+        "href": "https://github.com/elementary/wallpapers/releases/tag/6.1.0"
+      },
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-13T22:06:01",
+        "title": "wallpapers 6.0.0 Released",
+        "body": "<ul>\n<li>Add day and night custom Odin wallpapers by Freehive</li>\n<li>Add Snow-capped Mountain, Martin Adams, Tj Holowaychuk, and Vikor Forgacs</li>\n<li>Remove Carmine de Fazio, Luca Bravo, Pablo Garcia Saldana, Rob Bye, and Ryan Schroeder</li>\n</ul>\n",
+        "href": "https://github.com/elementary/wallpapers/releases/tag/6.0.0"
+      },
+      {
+        "version": "5.5.0",
+        "release_date": "2019-11-25T23:02:37",
+        "title": "wallpapers 5.5.0 Released",
+        "body": "wallpapers 5.5.0 is out! \n\n<ul>\n<li>Change default to Sunset by the Pier</li>\n</ul>\n",
+        "href": "https://github.com/elementary/wallpapers/releases/tag/5.5.0"
+      },
+      {
+        "version": "5.4",
+        "release_date": "2019-09-27T05:25:33",
+        "title": "elementary Wallpapers 5.4 Released",
+        "body": "elementary Wallpapers 5.4 is out!\r\n\r\nThis release includes the following changes:\r\n\r\n   * Fix white pixel in Ashim DSilva\r\n   * Add Nattu Adnan wallpaper\r\n   * Add Canazei Granite Ridges wallpaper\r\n   * Add Julia Craice wallpaper\r\n",
+        "href": "https://github.com/elementary/wallpapers/releases/tag/5.4"
+      },
+      {
+        "version": "5.3",
+        "release_date": "2018-09-18T17:34:10",
+        "title": "elementary Wallpapers 5.3 Released",
+        "body": "elementary Wallpapers 5.3 is out!\r\n\r\nThis release includes the following changes:\r\n* New wallpaper [Morskie Oko](https://unsplash.com/photos/_1UF_3TlKcQ)\r\n* Removed wallpaper [Jay Ruzesky](https://unsplash.com/photos/h13Y8vyIXNU)",
+        "href": "https://github.com/elementary/wallpapers/releases/tag/5.3"
+      },
+      {
+        "version": "5.2",
+        "release_date": "2018-06-21T07:19:02",
+        "title": "elementary Wallpapers 5.2 Released",
+        "body": "elementary Wallpapers 5.2 is out!\r\n\r\nThis release includes the following changes:\r\n* New wallpaper [Luca Bravo](https://unsplash.com/photos/4yta6mU66dE), modified",
+        "href": "https://github.com/elementary/wallpapers/releases/tag/5.2"
+      },
+      {
+        "version": "5.1",
+        "release_date": "2018-05-21T18:04:53",
+        "title": "elementary Wallpapers 5.1 Released",
+        "body": "elementary Wallpapers 5.1 is out!\r\n\r\nThis release includes the following changes:\r\n* New wallpaper [Sunset by the Pier](https://unsplash.com/photos/ces8_Bo7bhQ)\r\n* File size optimizations\r\n* Higher resolution versions of the following:\r\n  - Carmine De Fazio.jpg\r\n  - Jay Ruzesky.jpg\r\n  - leigh-kendell-581.jpg\r\n  - Mr. Lee.jpg\r\n  - Pablo Garcia Saldana.jpg\r\n  - Ryan Schroeder.jpg",
+        "href": "https://github.com/elementary/wallpapers/releases/tag/5.1"
+      },
+      {
+        "version": "5.0",
+        "release_date": "2018-03-01T15:00:25",
+        "title": "elementary Wallpapers 5.0 Released",
+        "body": "Mostly complete collection of wallpapers for use in elementary OS Juno, few changes are expected to follow.",
+        "href": "https://github.com/elementary/wallpapers/releases/tag/5.0"
+      }
+    ],
+    "new_commits": 0
+  },
+  {
+    "name": "screenshot",
+    "releases": [
+      {
+        "version": "6.0.2",
+        "release_date": "2021-12-13T22:40:26",
+        "title": "screenshot 6.0.2 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Update elementary runtime to 6.1</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/screenshot/releases/tag/6.0.2"
+      },
+      {
+        "version": "6.0.1",
+        "release_date": "2021-10-25T18:40:46",
+        "title": "Screenshot 6.0.1 Released",
+        "body": "## What's Changed\r\n* Add aarch64 architecture support to flatpak builds by @davidmhewitt in https://github.com/elementary/screenshot/pull/227",
+        "href": "https://github.com/elementary/screenshot/releases/tag/6.0.1"
+      },
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-21T02:47:04",
+        "title": "screenshot 6.0.0 Released",
+        "body": "<ul>\n<li>Support the dark style</li>\n<li>Drag and Drop the preview image from the save dialog</li>\n<li>Drag to move the window from anywhere</li>\n<li>Show details for errors if they occur</li>\n<li>Translation updates</li>\n</ul>\n",
+        "href": "https://github.com/elementary/screenshot/releases/tag/6.0.0"
+      },
+      {
+        "version": "1.7.1",
+        "release_date": "2020-01-21T19:05:32",
+        "title": "screenshot 1.7.1 Released",
+        "body": "screenshot 1.7.1 is out! \n\n<ul>\n<li>Fix minor visual issues with selection items</li>\n<li>Translation updates</li>\n</ul>\n",
+        "href": "https://github.com/elementary/screenshot/releases/tag/1.7.1"
+      },
+      {
+        "version": "1.7.0",
+        "release_date": "2019-11-15T21:44:44",
+        "title": "screenshot 1.7.0 Released",
+        "body": "screenshot 1.7.0 is out! \n\nChanges:\n\n* Close when pressing the Escape key\n* Translation updates\n",
+        "href": "https://github.com/elementary/screenshot/releases/tag/1.7.0"
+      },
+      {
+        "version": "1.6.2",
+        "release_date": "2019-02-20T21:13:57",
+        "title": "Screenshot 1.6.2 Released",
+        "body": "Screenshot 1.6.2 is out!\r\n\r\nChanges:\r\n* Revert from redacted font as soon as possible to avoid getting stuck in some situations\r\n* Updated translations",
+        "href": "https://github.com/elementary/screenshot/releases/tag/1.6.2"
+      },
+      {
+        "version": "1.6.1",
+        "release_date": "2019-02-01T12:54:10",
+        "title": "Screenshot 1.6.1 Released",
+        "body": "Screenshot 1.6.1 is out!\r\n\r\nChanges:\r\n* Always respect delay setting\r\n* Increase minimum timeout to 300\r\n* Updated translations",
+        "href": "https://github.com/elementary/screenshot/releases/tag/1.6.1"
+      },
+      {
+        "version": "1.6.0",
+        "release_date": "2018-10-16T08:22:41",
+        "title": "Screenshot 1.6.0 Released",
+        "body": "Screenshot 1.6.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/screenshot/issues?q=is%3Aclosed+milestone%3A1.6.0).",
+        "href": "https://github.com/elementary/screenshot/releases/tag/1.6.0"
+      },
+      {
+        "version": "0.1.5",
+        "release_date": "2018-06-06T13:16:27",
+        "title": "Screenshot 0.1.5 Released",
+        "body": "Screenshot 0.1.5 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/screenshot-tool/issues?q=is%3Aclosed+milestone%3A0.1.5).",
+        "href": "https://github.com/elementary/screenshot/releases/tag/0.1.5"
+      },
+      {
+        "version": "0.1.4",
+        "release_date": "2017-07-28T03:08:26",
+        "title": "Screenshot 0.1.4 Released",
+        "body": "screenshot-tool 0.1.4 is out!",
+        "href": "https://github.com/elementary/screenshot/releases/tag/0.1.4"
+      },
+      {
+        "version": "0.1.3.1",
+        "release_date": "2017-04-30T03:00:26",
+        "title": "Screenshot 0.1.3.1 Released",
+        "body": "screenshot-tool 0.1.3.1 is out!",
+        "href": "https://github.com/elementary/screenshot/releases/tag/0.1.3.1"
+      },
+      {
+        "version": "0.1.3",
+        "release_date": "2017-04-21T17:17:47",
+        "title": "Screenshot 0.1.3 Released",
+        "body": "screenshot-tool 0.1.3 is out!",
+        "href": "https://github.com/elementary/screenshot/releases/tag/0.1.3"
+      }
+    ],
+    "new_commits": 3
+  },
+  {
+    "name": "calculator",
+    "releases": [
+      {
+        "version": "1.7.2",
+        "release_date": "2021-12-13T22:35:36",
+        "title": "calculator 1.7.2 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Update to elementary 6.1 runtime</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/calculator/releases/tag/1.7.2"
+      },
+      {
+        "version": "1.7.1",
+        "release_date": "2021-10-26T16:29:53",
+        "title": "Calculator 1.7.1 Released",
+        "body": "<p>Minor updates:</p>\r\n<ul>\r\n<li>Showing advanced controls only affects the focused window</li>\r\n<li>Focus the main text entry on startup</li>\r\n<li>Show the correct window title in Multitasking View</li>\r\n<li>Updated translations</li>\r\n<li>Added 'New Window' Desktop Action</li>\r\n</ul>",
+        "href": "https://github.com/elementary/calculator/releases/tag/1.7.1"
+      },
+      {
+        "version": "1.7.0",
+        "release_date": "2021-08-09T17:47:45",
+        "title": "calculator 1.7.0 Released",
+        "body": "<p>New features:</p>\n<ul>\n<li>Add a \"Clear History\" button to the history dialog</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/calculator/releases/tag/1.7.0"
+      },
+      {
+        "version": "1.6.2",
+        "release_date": "2021-07-20T23:40:40",
+        "title": "calculator 1.6.2 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/calculator/releases/tag/1.6.2"
+      },
+      {
+        "version": "1.6.1",
+        "release_date": "2021-05-14T22:19:40",
+        "title": "calculator 1.6.1 Released",
+        "body": "<p>Minor updates:</p>\r\n<ul>\r\n  <li>Fixed an issue with multiple windows</li>\r\n  <li>More informative copy in history dialog</li>\r\n  <li>Updated translations</li>\r\n</ul>",
+        "href": "https://github.com/elementary/calculator/releases/tag/1.6.1"
+      },
+      {
+        "version": "1.6.0",
+        "release_date": "2020-12-23T20:16:02",
+        "title": "calculator 1.6.0 Released",
+        "body": "<p>New features:</p>\n<ul>\n<li>Add log and inverse trigonometric functions</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Fix an issue with negative decimals without leading digits</li>\n<li>More efficient state saving</li>\n<li>Use slim titlebar</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/calculator/releases/tag/1.6.0"
+      },
+      {
+        "version": "1.5.5",
+        "release_date": "2020-04-03T20:45:02",
+        "title": "calculator 1.5.5 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Fix inserting multi-byte characters</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/calculator/releases/tag/1.5.5"
+      },
+      {
+        "version": "1.5.4",
+        "release_date": "2019-11-24T19:19:07",
+        "title": "calculator 1.5.4 Released",
+        "body": "calculator 1.5.4 is out! \n\nChanges:\n\n* Fix missing icon for Ukrainian\n* Updated translations\n",
+        "href": "https://github.com/elementary/calculator/releases/tag/1.5.4"
+      },
+      {
+        "version": "1.5.3",
+        "release_date": "2019-11-19T16:36:54",
+        "title": "calculator 1.5.3 Released",
+        "body": "calculator 1.5.3 is out! \n\nChanges:\n\n* Animate Infobar when hiding and showing\n* Fix selection replace\n* Improved decimal separator localization\n* Updated translations\n",
+        "href": "https://github.com/elementary/calculator/releases/tag/1.5.3"
+      },
+      {
+        "version": "1.5.2",
+        "release_date": "2019-03-08T10:38:29",
+        "title": "Calculator 1.5.2 Released",
+        "body": "Calculator 1.5.2 is out!\r\n\r\nChanges:\r\n* Updated translations",
+        "href": "https://github.com/elementary/calculator/releases/tag/1.5.2"
+      },
+      {
+        "version": "1.5.1",
+        "release_date": "2018-10-16T07:22:25",
+        "title": "Calculator 1.5.1 Released",
+        "body": "Calculator 1.5.1 is out!\r\n\r\nThis release includes updated translations.",
+        "href": "https://github.com/elementary/calculator/releases/tag/1.5.1"
+      },
+      {
+        "version": "0.1.5",
+        "release_date": "2018-08-28T12:18:28",
+        "title": "Calculator 0.1.5 Released",
+        "body": "Calculator 0.1.5 is out!\r\n\r\nChanges:\r\n* Stricter treatment of parentheses\r\n* Misc. core code improvements\r\n* Less aggressive error messages\r\n* Improved translations",
+        "href": "https://github.com/elementary/calculator/releases/tag/0.1.5"
+      },
+      {
+        "version": "0.1.4",
+        "release_date": "2018-06-05T09:28:59",
+        "title": "Calculator 0.1.4 Released",
+        "body": "Calculator 0.1.4 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/calculator/issues?q=is%3Aclosed+milestone%3A0.1.4).",
+        "href": "https://github.com/elementary/calculator/releases/tag/0.1.4"
+      },
+      {
+        "version": "0.1.3",
+        "release_date": "2017-08-13T23:06:07",
+        "title": "Calculator 0.1.3 Released",
+        "body": "pantheon-calculator 0.1.3 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/calculator/milestone/2?closed=1).",
+        "href": "https://github.com/elementary/calculator/releases/tag/0.1.3"
+      }
+    ],
+    "new_commits": 0
+  },
+  {
+    "name": "installer",
+    "releases": [
+      {
+        "version": "1.0.4",
+        "release_date": "2021-12-13T22:34:35",
+        "title": "installer 1.0.4 Released",
+        "body": "\n",
+        "href": "https://github.com/elementary/installer/releases/tag/1.0.4"
+      },
+      {
+        "version": "1.0.3",
+        "release_date": "2021-08-26T02:15:09",
+        "title": "installer 1.0.3 Released",
+        "body": "\n",
+        "href": "https://github.com/elementary/installer/releases/tag/1.0.3"
+      },
+      {
+        "version": "1.0.2",
+        "release_date": "2021-08-20T21:33:08",
+        "title": "installer 1.0.2 Released",
+        "body": "\n",
+        "href": "https://github.com/elementary/installer/releases/tag/1.0.2"
+      },
+      {
+        "version": "1.0.1",
+        "release_date": "2021-07-29T19:26:54",
+        "title": "installer 1.0.1 Released",
+        "body": "\n",
+        "href": "https://github.com/elementary/installer/releases/tag/1.0.1"
+      },
+      {
+        "version": "1.0.0",
+        "release_date": "2021-07-15T23:54:35",
+        "title": "installer 1.0.0 Released",
+        "body": "\n",
+        "href": "https://github.com/elementary/installer/releases/tag/1.0.0"
+      }
+    ],
+    "new_commits": 0
+  },
+  {
+    "name": "camera",
+    "releases": [
+      {
+        "version": "6.0.3",
+        "release_date": "2021-12-13T22:23:22",
+        "title": "camera 6.0.3 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Update to elementary runtime 6.1</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/camera/releases/tag/6.0.3"
+      },
+      {
+        "version": "6.0.2",
+        "release_date": "2021-11-23T21:04:30",
+        "title": "camera 6.0.2 Released",
+        "body": "<p>Fixes:</p>\n<ul>\n<li>Resolve issues with cameras being unavailable when multiple cameras are connected</li>\n<li>Default to a working camera if multiple cameras are connected and one is unavailable</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/camera/releases/tag/6.0.2"
+      },
+      {
+        "version": "6.0.1",
+        "release_date": "2021-10-26T20:39:33",
+        "title": "Camera 6.0.1 Released",
+        "body": "<p>Improvements:</p>\r\n<ul>\r\n<li>Take full-resolution pictures</li>\r\n</ul>\r\n<p>Fixes:</p>\r\n<ul>\r\n<li>Fix restoring window size</li>\r\n</ul>\r\n<p>Minor updates:</p>\r\n<ul>\r\n<li>Updated translations</li>\r\n</ul>",
+        "href": "https://github.com/elementary/camera/releases/tag/6.0.1"
+      },
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-21T20:19:02",
+        "title": "camera 6.0.0 Released",
+        "body": "<ul>\n<li>Switch between multiple cameras</li>\n<li>Send a notification when recording is finished</li>\n<li>Add option to mirror the camera</li>\n<li>Add brightness and contrast adjustment</li>\n<li>Support the dark style</li>\n<li>Prevent multiple countdown timers from running at the same time</li>\n<li>Improved support for camera hardware</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/camera/releases/tag/6.0.0"
+      },
+      {
+        "version": "1.0.6",
+        "release_date": "2020-04-01T23:34:23",
+        "title": "camera 1.0.6 Released",
+        "body": "camera 1.0.6 is out! \n\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/camera/releases/tag/1.0.6"
+      },
+      {
+        "version": "1.0.5",
+        "release_date": "2019-09-24T15:10:38",
+        "title": "Camera 1.0.5 Released",
+        "body": "Camera 1.0.5 is out!\r\n\r\nChanges:\r\n* Handle null camera device name for improved hardware compatibility\r\n* Restrict camera view resolution to 640x480, same as Cheese, for improved hardware compatibility\r\n* Refactor start timeout and timerbutton sensitivity\r\n* Remember window state\r\n* Updated translations",
+        "href": "https://github.com/elementary/camera/releases/tag/1.0.5"
+      },
+      {
+        "version": "1.0.4",
+        "release_date": "2019-03-27T08:15:50",
+        "title": "Camera 1.0.4 Released",
+        "body": "Camera 1.0.4 is out!\r\n\r\nChanges:\r\n* Updated translations",
+        "href": "https://github.com/elementary/camera/releases/tag/1.0.4"
+      },
+      {
+        "version": "1.0.3",
+        "release_date": "2019-01-24T06:52:57",
+        "title": "Camera 1.0.3 Released",
+        "body": "Camera 1.0.3 is out!\r\n\r\nChanges:\r\n* Catalan: fixed camera icon name\r\n* Updated translations",
+        "href": "https://github.com/elementary/camera/releases/tag/1.0.3"
+      },
+      {
+        "version": "1.0.2",
+        "release_date": "2018-10-15T20:58:36",
+        "title": "Camera 1.0.2 Released",
+        "body": "Camera 1.0.2 is out!\r\n\r\nThis release includes updated translations.",
+        "href": "https://github.com/elementary/camera/releases/tag/1.0.2"
+      },
+      {
+        "version": "1.0.1",
+        "release_date": "2018-07-20T18:22:34",
+        "title": "Camera 1.0.1 Released",
+        "body": "Camera 1.0.1 is out!\r\n\r\nThis release includes enhanced translations.",
+        "href": "https://github.com/elementary/camera/releases/tag/1.0.1"
+      },
+      {
+        "version": "1.0",
+        "release_date": "2018-06-06T11:56:31",
+        "title": "Camera 1.0 Released",
+        "body": "Camera 1.0 is out!\r\n\r\nThis list of issues closed by this release can be found [here](https://github.com/elementary/camera/issues?q=is%3Aclosed+milestone%3A1.0).",
+        "href": "https://github.com/elementary/camera/releases/tag/1.0"
+      }
+    ],
+    "new_commits": 3
+  },
+  {
+    "name": "switchboard-plug-onlineaccounts",
+    "releases": [
+      {
+        "version": "6.3.0",
+        "release_date": "2021-12-13T22:23:11",
+        "title": "switchboard-plug-onlineaccounts 6.3.0 Released",
+        "body": "<p>New features:</p>\n<ul>\n<li>Edit saved CalDAV accounts</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Dim window when creating a new IMAP account</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/6.3.0"
+      },
+      {
+        "version": "6.2.2",
+        "release_date": "2021-11-24T23:56:37",
+        "title": "switchboard-plug-onlineaccounts 6.2.2 Released",
+        "body": "<p>Fixes:</p>\n<ul>\n<li>Dim window when creating a new IMAP account</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/6.2.2"
+      },
+      {
+        "version": "6.2.1",
+        "release_date": "2021-09-28T19:26:51",
+        "title": "Online Accounts Settings 6.2.1 Released",
+        "body": "<p>Fixes:</p>\r\n<ul>\r\n<li>Make sure the refresh interval for an IMAP account is set</li>\r\n<li>Fix adding, editing, and removing lists in CalDAV apps like Tasks</li>\r\n</ul>\r\n<p>Minor updates:</p>\r\n<ul>\r\n<li>Make sure you can always navigate next by pressing the Enter key</li>\r\n<li>Close dialogs when pressing the Escape key</li>\r\n<li>Use a more complete list of authentication methods for IMAP</li>\r\n<li>Updated translations</li>\r\n</ul>",
+        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/6.2.1"
+      },
+      {
+        "version": "6.2.0",
+        "release_date": "2021-08-26T20:39:35",
+        "title": "switchboard-plug-onlineaccounts 6.2.0 Released",
+        "body": "<ul>\n<li>Edit saved IMAP accounts</li>\n<li>Automatically detect authentication method for IMAP</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/6.2.0"
+      },
+      {
+        "version": "6.1.0",
+        "release_date": "2021-07-30T20:57:04",
+        "title": "switchboard-plug-onlineaccounts 6.1.0 Released",
+        "body": "- Verify login credentials when saving IMAP accounts\r\n- Set up Archive, Drafts, Sent, and Templates folders for IMAP\r\n- Close \"Add Account\" popover when an item is selected\r\n- Updated translations",
+        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/6.1.0"
+      },
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-15T21:21:15",
+        "title": "switchboard-plug-onlineaccounts 6.0.0 Released",
+        "body": "Complete redesign based on Evolution Data Server",
+        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/6.0.0"
+      },
+      {
+        "version": "2.0.1",
+        "release_date": "2018-10-24T14:43:36",
+        "title": "Switchboard Online Accounts Plug 2.0.1 Released",
+        "body": "switchboard-plug-onlineaccounts 2.0.1 is out!\r\n\r\nChanges:\r\n* Use Granite.Toast widget\r\n* New translations",
+        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/2.0.1"
+      },
+      {
+        "version": "2.0",
+        "release_date": "2018-10-15T22:35:57",
+        "title": "Switchboard Online Accounts Plug 2.0 Released",
+        "body": "switchboard-plug-onlineaccounts 2.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-onlineaccounts/issues?q=is%3Aclosed+milestone%3A2.0).",
+        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/2.0"
+      }
+    ],
+    "new_commits": 0
+  },
+  {
+    "name": "tasks",
+    "releases": [
+      {
+        "version": "6.1.0",
+        "release_date": "2021-12-13T22:13:31",
+        "title": "tasks 6.1.0 Released",
+        "body": "<p>Features:</p>\n<ul>\n<li>Drag and drop tasks between lists</li>\n<li>Follow email and web links in the task description with Control + Click</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Improved time zone handling</li>\n<li>Performance improvements</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/tasks/releases/tag/6.1.0"
+      },
+      {
+        "version": "6.0.4",
+        "release_date": "2021-09-27T20:36:23",
+        "title": "Tasks 6.0.4 Released",
+        "body": "<p>Fixes:</p>\r\n <ul>\r\n<li>Prevent account name headers from being displayed multiple times in the sidebar</li>\r\n<li>Long descriptions are truncated at the end instead of the beginning</li>\r\n<li>Removing descriptions is now saved</li>\r\n<li>Placing the cursor in descriptions works consistently</li>\r\n</ul>\r\n<p>Improvements:</p>\r\n<ul>\r\n<li>Replace the Delete shortcut key with Ctrl + Backspace</li>\r\n<li>Add a confirmation dialog when deleting a task list</li>\r\n<li>Improve performance in lists with lots of completed tasks</li>\r\n<li>Updated translations</li>\r\n</ul>",
+        "href": "https://github.com/elementary/tasks/releases/tag/6.0.4"
+      },
+      {
+        "version": "6.0.3",
+        "release_date": "2021-08-26T21:35:56",
+        "title": "tasks 6.0.3 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/tasks/releases/tag/6.0.3"
+      },
+      {
+        "version": "6.0.2",
+        "release_date": "2021-08-09T19:09:24",
+        "title": "tasks 6.0.2 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Fix crash on start with certain hardware</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/tasks/releases/tag/6.0.2"
+      },
+      {
+        "version": "6.0.1",
+        "release_date": "2021-08-02T19:13:21",
+        "title": "tasks 6.0.1 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Fix the order of the scheduled view</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/tasks/releases/tag/6.0.1"
+      },
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-21T18:16:59",
+        "title": "tasks 6.0.0 Released",
+        "body": "<p>First release!</p>\n<ul>\n<li>Support the dark style</li>\n<li>Add and remove task lists with custom colors</li>\n<li>See scheduled tasks from all lists at once</li>\n<li>Set due dates</li>\n</ul>\n",
+        "href": "https://github.com/elementary/tasks/releases/tag/6.0.0"
+      }
+    ],
+    "new_commits": 0
+  },
+  {
     "name": "mail",
     "releases": [
       {
@@ -1160,61 +1650,6 @@
     "new_commits": 2
   },
   {
-    "name": "switchboard-plug-onlineaccounts",
-    "releases": [
-      {
-        "version": "6.2.2",
-        "release_date": "2021-11-24T23:56:37",
-        "title": "switchboard-plug-onlineaccounts 6.2.2 Released",
-        "body": "<p>Fixes:</p>\n<ul>\n<li>Dim window when creating a new IMAP account</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/6.2.2"
-      },
-      {
-        "version": "6.2.1",
-        "release_date": "2021-09-28T19:26:51",
-        "title": "Online Accounts Settings 6.2.1 Released",
-        "body": "<p>Fixes:</p>\r\n<ul>\r\n<li>Make sure the refresh interval for an IMAP account is set</li>\r\n<li>Fix adding, editing, and removing lists in CalDAV apps like Tasks</li>\r\n</ul>\r\n<p>Minor updates:</p>\r\n<ul>\r\n<li>Make sure you can always navigate next by pressing the Enter key</li>\r\n<li>Close dialogs when pressing the Escape key</li>\r\n<li>Use a more complete list of authentication methods for IMAP</li>\r\n<li>Updated translations</li>\r\n</ul>",
-        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/6.2.1"
-      },
-      {
-        "version": "6.2.0",
-        "release_date": "2021-08-26T20:39:35",
-        "title": "switchboard-plug-onlineaccounts 6.2.0 Released",
-        "body": "<ul>\n<li>Edit saved IMAP accounts</li>\n<li>Automatically detect authentication method for IMAP</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/6.2.0"
-      },
-      {
-        "version": "6.1.0",
-        "release_date": "2021-07-30T20:57:04",
-        "title": "switchboard-plug-onlineaccounts 6.1.0 Released",
-        "body": "- Verify login credentials when saving IMAP accounts\r\n- Set up Archive, Drafts, Sent, and Templates folders for IMAP\r\n- Close \"Add Account\" popover when an item is selected\r\n- Updated translations",
-        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/6.1.0"
-      },
-      {
-        "version": "6.0.0",
-        "release_date": "2021-07-15T21:21:15",
-        "title": "switchboard-plug-onlineaccounts 6.0.0 Released",
-        "body": "Complete redesign based on Evolution Data Server",
-        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/6.0.0"
-      },
-      {
-        "version": "2.0.1",
-        "release_date": "2018-10-24T14:43:36",
-        "title": "Switchboard Online Accounts Plug 2.0.1 Released",
-        "body": "switchboard-plug-onlineaccounts 2.0.1 is out!\r\n\r\nChanges:\r\n* Use Granite.Toast widget\r\n* New translations",
-        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/2.0.1"
-      },
-      {
-        "version": "2.0",
-        "release_date": "2018-10-15T22:35:57",
-        "title": "Switchboard Online Accounts Plug 2.0 Released",
-        "body": "switchboard-plug-onlineaccounts 2.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-onlineaccounts/issues?q=is%3Aclosed+milestone%3A2.0).",
-        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/2.0"
-      }
-    ],
-    "new_commits": 0
-  },
-  {
     "name": "icons",
     "releases": [
       {
@@ -1989,82 +2424,6 @@
       }
     ],
     "new_commits": 27
-  },
-  {
-    "name": "camera",
-    "releases": [
-      {
-        "version": "6.0.2",
-        "release_date": "2021-11-23T21:04:30",
-        "title": "camera 6.0.2 Released",
-        "body": "<p>Fixes:</p>\n<ul>\n<li>Resolve issues with cameras being unavailable when multiple cameras are connected</li>\n<li>Default to a working camera if multiple cameras are connected and one is unavailable</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/camera/releases/tag/6.0.2"
-      },
-      {
-        "version": "6.0.1",
-        "release_date": "2021-10-26T20:39:33",
-        "title": "Camera 6.0.1 Released",
-        "body": "<p>Improvements:</p>\r\n<ul>\r\n<li>Take full-resolution pictures</li>\r\n</ul>\r\n<p>Fixes:</p>\r\n<ul>\r\n<li>Fix restoring window size</li>\r\n</ul>\r\n<p>Minor updates:</p>\r\n<ul>\r\n<li>Updated translations</li>\r\n</ul>",
-        "href": "https://github.com/elementary/camera/releases/tag/6.0.1"
-      },
-      {
-        "version": "6.0.0",
-        "release_date": "2021-07-21T20:19:02",
-        "title": "camera 6.0.0 Released",
-        "body": "<ul>\n<li>Switch between multiple cameras</li>\n<li>Send a notification when recording is finished</li>\n<li>Add option to mirror the camera</li>\n<li>Add brightness and contrast adjustment</li>\n<li>Support the dark style</li>\n<li>Prevent multiple countdown timers from running at the same time</li>\n<li>Improved support for camera hardware</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/camera/releases/tag/6.0.0"
-      },
-      {
-        "version": "1.0.6",
-        "release_date": "2020-04-01T23:34:23",
-        "title": "camera 1.0.6 Released",
-        "body": "camera 1.0.6 is out! \n\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/camera/releases/tag/1.0.6"
-      },
-      {
-        "version": "1.0.5",
-        "release_date": "2019-09-24T15:10:38",
-        "title": "Camera 1.0.5 Released",
-        "body": "Camera 1.0.5 is out!\r\n\r\nChanges:\r\n* Handle null camera device name for improved hardware compatibility\r\n* Restrict camera view resolution to 640x480, same as Cheese, for improved hardware compatibility\r\n* Refactor start timeout and timerbutton sensitivity\r\n* Remember window state\r\n* Updated translations",
-        "href": "https://github.com/elementary/camera/releases/tag/1.0.5"
-      },
-      {
-        "version": "1.0.4",
-        "release_date": "2019-03-27T08:15:50",
-        "title": "Camera 1.0.4 Released",
-        "body": "Camera 1.0.4 is out!\r\n\r\nChanges:\r\n* Updated translations",
-        "href": "https://github.com/elementary/camera/releases/tag/1.0.4"
-      },
-      {
-        "version": "1.0.3",
-        "release_date": "2019-01-24T06:52:57",
-        "title": "Camera 1.0.3 Released",
-        "body": "Camera 1.0.3 is out!\r\n\r\nChanges:\r\n* Catalan: fixed camera icon name\r\n* Updated translations",
-        "href": "https://github.com/elementary/camera/releases/tag/1.0.3"
-      },
-      {
-        "version": "1.0.2",
-        "release_date": "2018-10-15T20:58:36",
-        "title": "Camera 1.0.2 Released",
-        "body": "Camera 1.0.2 is out!\r\n\r\nThis release includes updated translations.",
-        "href": "https://github.com/elementary/camera/releases/tag/1.0.2"
-      },
-      {
-        "version": "1.0.1",
-        "release_date": "2018-07-20T18:22:34",
-        "title": "Camera 1.0.1 Released",
-        "body": "Camera 1.0.1 is out!\r\n\r\nThis release includes enhanced translations.",
-        "href": "https://github.com/elementary/camera/releases/tag/1.0.1"
-      },
-      {
-        "version": "1.0",
-        "release_date": "2018-06-06T11:56:31",
-        "title": "Camera 1.0 Released",
-        "body": "Camera 1.0 is out!\r\n\r\nThis list of issues closed by this release can be found [here](https://github.com/elementary/camera/issues?q=is%3Aclosed+milestone%3A1.0).",
-        "href": "https://github.com/elementary/camera/releases/tag/1.0"
-      }
-    ],
-    "new_commits": 18
   },
   {
     "name": "gala",
@@ -3179,186 +3538,6 @@
     "new_commits": 27
   },
   {
-    "name": "calculator",
-    "releases": [
-      {
-        "version": "1.7.1",
-        "release_date": "2021-10-26T16:29:53",
-        "title": "Calculator 1.7.1 Released",
-        "body": "<p>Minor updates:</p>\r\n<ul>\r\n<li>Showing advanced controls only affects the focused window</li>\r\n<li>Focus the main text entry on startup</li>\r\n<li>Show the correct window title in Multitasking View</li>\r\n<li>Updated translations</li>\r\n<li>Added 'New Window' Desktop Action</li>\r\n</ul>",
-        "href": "https://github.com/elementary/calculator/releases/tag/1.7.1"
-      },
-      {
-        "version": "1.7.0",
-        "release_date": "2021-08-09T17:47:45",
-        "title": "calculator 1.7.0 Released",
-        "body": "<p>New features:</p>\n<ul>\n<li>Add a \"Clear History\" button to the history dialog</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/calculator/releases/tag/1.7.0"
-      },
-      {
-        "version": "1.6.2",
-        "release_date": "2021-07-20T23:40:40",
-        "title": "calculator 1.6.2 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/calculator/releases/tag/1.6.2"
-      },
-      {
-        "version": "1.6.1",
-        "release_date": "2021-05-14T22:19:40",
-        "title": "calculator 1.6.1 Released",
-        "body": "<p>Minor updates:</p>\r\n<ul>\r\n  <li>Fixed an issue with multiple windows</li>\r\n  <li>More informative copy in history dialog</li>\r\n  <li>Updated translations</li>\r\n</ul>",
-        "href": "https://github.com/elementary/calculator/releases/tag/1.6.1"
-      },
-      {
-        "version": "1.6.0",
-        "release_date": "2020-12-23T20:16:02",
-        "title": "calculator 1.6.0 Released",
-        "body": "<p>New features:</p>\n<ul>\n<li>Add log and inverse trigonometric functions</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Fix an issue with negative decimals without leading digits</li>\n<li>More efficient state saving</li>\n<li>Use slim titlebar</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/calculator/releases/tag/1.6.0"
-      },
-      {
-        "version": "1.5.5",
-        "release_date": "2020-04-03T20:45:02",
-        "title": "calculator 1.5.5 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Fix inserting multi-byte characters</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/calculator/releases/tag/1.5.5"
-      },
-      {
-        "version": "1.5.4",
-        "release_date": "2019-11-24T19:19:07",
-        "title": "calculator 1.5.4 Released",
-        "body": "calculator 1.5.4 is out! \n\nChanges:\n\n* Fix missing icon for Ukrainian\n* Updated translations\n",
-        "href": "https://github.com/elementary/calculator/releases/tag/1.5.4"
-      },
-      {
-        "version": "1.5.3",
-        "release_date": "2019-11-19T16:36:54",
-        "title": "calculator 1.5.3 Released",
-        "body": "calculator 1.5.3 is out! \n\nChanges:\n\n* Animate Infobar when hiding and showing\n* Fix selection replace\n* Improved decimal separator localization\n* Updated translations\n",
-        "href": "https://github.com/elementary/calculator/releases/tag/1.5.3"
-      },
-      {
-        "version": "1.5.2",
-        "release_date": "2019-03-08T10:38:29",
-        "title": "Calculator 1.5.2 Released",
-        "body": "Calculator 1.5.2 is out!\r\n\r\nChanges:\r\n* Updated translations",
-        "href": "https://github.com/elementary/calculator/releases/tag/1.5.2"
-      },
-      {
-        "version": "1.5.1",
-        "release_date": "2018-10-16T07:22:25",
-        "title": "Calculator 1.5.1 Released",
-        "body": "Calculator 1.5.1 is out!\r\n\r\nThis release includes updated translations.",
-        "href": "https://github.com/elementary/calculator/releases/tag/1.5.1"
-      },
-      {
-        "version": "0.1.5",
-        "release_date": "2018-08-28T12:18:28",
-        "title": "Calculator 0.1.5 Released",
-        "body": "Calculator 0.1.5 is out!\r\n\r\nChanges:\r\n* Stricter treatment of parentheses\r\n* Misc. core code improvements\r\n* Less aggressive error messages\r\n* Improved translations",
-        "href": "https://github.com/elementary/calculator/releases/tag/0.1.5"
-      },
-      {
-        "version": "0.1.4",
-        "release_date": "2018-06-05T09:28:59",
-        "title": "Calculator 0.1.4 Released",
-        "body": "Calculator 0.1.4 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/calculator/issues?q=is%3Aclosed+milestone%3A0.1.4).",
-        "href": "https://github.com/elementary/calculator/releases/tag/0.1.4"
-      },
-      {
-        "version": "0.1.3",
-        "release_date": "2017-08-13T23:06:07",
-        "title": "Calculator 0.1.3 Released",
-        "body": "pantheon-calculator 0.1.3 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/calculator/milestone/2?closed=1).",
-        "href": "https://github.com/elementary/calculator/releases/tag/0.1.3"
-      }
-    ],
-    "new_commits": 25
-  },
-  {
-    "name": "screenshot",
-    "releases": [
-      {
-        "version": "6.0.1",
-        "release_date": "2021-10-25T18:40:46",
-        "title": "Screenshot 6.0.1 Released",
-        "body": "## What's Changed\r\n* Add aarch64 architecture support to flatpak builds by @davidmhewitt in https://github.com/elementary/screenshot/pull/227",
-        "href": "https://github.com/elementary/screenshot/releases/tag/6.0.1"
-      },
-      {
-        "version": "6.0.0",
-        "release_date": "2021-07-21T02:47:04",
-        "title": "screenshot 6.0.0 Released",
-        "body": "<ul>\n<li>Support the dark style</li>\n<li>Drag and Drop the preview image from the save dialog</li>\n<li>Drag to move the window from anywhere</li>\n<li>Show details for errors if they occur</li>\n<li>Translation updates</li>\n</ul>\n",
-        "href": "https://github.com/elementary/screenshot/releases/tag/6.0.0"
-      },
-      {
-        "version": "1.7.1",
-        "release_date": "2020-01-21T19:05:32",
-        "title": "screenshot 1.7.1 Released",
-        "body": "screenshot 1.7.1 is out! \n\n<ul>\n<li>Fix minor visual issues with selection items</li>\n<li>Translation updates</li>\n</ul>\n",
-        "href": "https://github.com/elementary/screenshot/releases/tag/1.7.1"
-      },
-      {
-        "version": "1.7.0",
-        "release_date": "2019-11-15T21:44:44",
-        "title": "screenshot 1.7.0 Released",
-        "body": "screenshot 1.7.0 is out! \n\nChanges:\n\n* Close when pressing the Escape key\n* Translation updates\n",
-        "href": "https://github.com/elementary/screenshot/releases/tag/1.7.0"
-      },
-      {
-        "version": "1.6.2",
-        "release_date": "2019-02-20T21:13:57",
-        "title": "Screenshot 1.6.2 Released",
-        "body": "Screenshot 1.6.2 is out!\r\n\r\nChanges:\r\n* Revert from redacted font as soon as possible to avoid getting stuck in some situations\r\n* Updated translations",
-        "href": "https://github.com/elementary/screenshot/releases/tag/1.6.2"
-      },
-      {
-        "version": "1.6.1",
-        "release_date": "2019-02-01T12:54:10",
-        "title": "Screenshot 1.6.1 Released",
-        "body": "Screenshot 1.6.1 is out!\r\n\r\nChanges:\r\n* Always respect delay setting\r\n* Increase minimum timeout to 300\r\n* Updated translations",
-        "href": "https://github.com/elementary/screenshot/releases/tag/1.6.1"
-      },
-      {
-        "version": "1.6.0",
-        "release_date": "2018-10-16T08:22:41",
-        "title": "Screenshot 1.6.0 Released",
-        "body": "Screenshot 1.6.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/screenshot/issues?q=is%3Aclosed+milestone%3A1.6.0).",
-        "href": "https://github.com/elementary/screenshot/releases/tag/1.6.0"
-      },
-      {
-        "version": "0.1.5",
-        "release_date": "2018-06-06T13:16:27",
-        "title": "Screenshot 0.1.5 Released",
-        "body": "Screenshot 0.1.5 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/screenshot-tool/issues?q=is%3Aclosed+milestone%3A0.1.5).",
-        "href": "https://github.com/elementary/screenshot/releases/tag/0.1.5"
-      },
-      {
-        "version": "0.1.4",
-        "release_date": "2017-07-28T03:08:26",
-        "title": "Screenshot 0.1.4 Released",
-        "body": "screenshot-tool 0.1.4 is out!",
-        "href": "https://github.com/elementary/screenshot/releases/tag/0.1.4"
-      },
-      {
-        "version": "0.1.3.1",
-        "release_date": "2017-04-30T03:00:26",
-        "title": "Screenshot 0.1.3.1 Released",
-        "body": "screenshot-tool 0.1.3.1 is out!",
-        "href": "https://github.com/elementary/screenshot/releases/tag/0.1.3.1"
-      },
-      {
-        "version": "0.1.3",
-        "release_date": "2017-04-21T17:17:47",
-        "title": "Screenshot 0.1.3 Released",
-        "body": "screenshot-tool 0.1.3 is out!",
-        "href": "https://github.com/elementary/screenshot/releases/tag/0.1.3"
-      }
-    ],
-    "new_commits": 22
-  },
-  {
     "name": "settings-daemon",
     "releases": [
       {
@@ -3377,47 +3556,6 @@
       }
     ],
     "new_commits": 4
-  },
-  {
-    "name": "tasks",
-    "releases": [
-      {
-        "version": "6.0.4",
-        "release_date": "2021-09-27T20:36:23",
-        "title": "Tasks 6.0.4 Released",
-        "body": "<p>Fixes:</p>\r\n <ul>\r\n<li>Prevent account name headers from being displayed multiple times in the sidebar</li>\r\n<li>Long descriptions are truncated at the end instead of the beginning</li>\r\n<li>Removing descriptions is now saved</li>\r\n<li>Placing the cursor in descriptions works consistently</li>\r\n</ul>\r\n<p>Improvements:</p>\r\n<ul>\r\n<li>Replace the Delete shortcut key with Ctrl + Backspace</li>\r\n<li>Add a confirmation dialog when deleting a task list</li>\r\n<li>Improve performance in lists with lots of completed tasks</li>\r\n<li>Updated translations</li>\r\n</ul>",
-        "href": "https://github.com/elementary/tasks/releases/tag/6.0.4"
-      },
-      {
-        "version": "6.0.3",
-        "release_date": "2021-08-26T21:35:56",
-        "title": "tasks 6.0.3 Released",
-        "body": "<p>Improvements:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/tasks/releases/tag/6.0.3"
-      },
-      {
-        "version": "6.0.2",
-        "release_date": "2021-08-09T19:09:24",
-        "title": "tasks 6.0.2 Released",
-        "body": "<p>Improvements:</p>\n<ul>\n<li>Fix crash on start with certain hardware</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/tasks/releases/tag/6.0.2"
-      },
-      {
-        "version": "6.0.1",
-        "release_date": "2021-08-02T19:13:21",
-        "title": "tasks 6.0.1 Released",
-        "body": "<p>Improvements:</p>\n<ul>\n<li>Fix the order of the scheduled view</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/tasks/releases/tag/6.0.1"
-      },
-      {
-        "version": "6.0.0",
-        "release_date": "2021-07-21T18:16:59",
-        "title": "tasks 6.0.0 Released",
-        "body": "<p>First release!</p>\n<ul>\n<li>Support the dark style</li>\n<li>Add and remove task lists with custom colors</li>\n<li>See scheduled tasks from all lists at once</li>\n<li>Set due dates</li>\n</ul>\n",
-        "href": "https://github.com/elementary/tasks/releases/tag/6.0.0"
-      }
-    ],
-    "new_commits": 255
   },
   {
     "name": "wingpanel",
@@ -3943,40 +4081,6 @@
       }
     ],
     "new_commits": 40
-  },
-  {
-    "name": "installer",
-    "releases": [
-      {
-        "version": "1.0.3",
-        "release_date": "2021-08-26T02:15:09",
-        "title": "installer 1.0.3 Released",
-        "body": "\n",
-        "href": "https://github.com/elementary/installer/releases/tag/1.0.3"
-      },
-      {
-        "version": "1.0.2",
-        "release_date": "2021-08-20T21:33:08",
-        "title": "installer 1.0.2 Released",
-        "body": "\n",
-        "href": "https://github.com/elementary/installer/releases/tag/1.0.2"
-      },
-      {
-        "version": "1.0.1",
-        "release_date": "2021-07-29T19:26:54",
-        "title": "installer 1.0.1 Released",
-        "body": "\n",
-        "href": "https://github.com/elementary/installer/releases/tag/1.0.1"
-      },
-      {
-        "version": "1.0.0",
-        "release_date": "2021-07-15T23:54:35",
-        "title": "installer 1.0.0 Released",
-        "body": "\n",
-        "href": "https://github.com/elementary/installer/releases/tag/1.0.0"
-      }
-    ],
-    "new_commits": 56
   },
   {
     "name": "wingpanel-indicator-bluetooth",
@@ -5366,61 +5470,6 @@
       }
     ],
     "new_commits": 53
-  },
-  {
-    "name": "wallpapers",
-    "releases": [
-      {
-        "version": "6.0.0",
-        "release_date": "2021-07-13T22:06:01",
-        "title": "wallpapers 6.0.0 Released",
-        "body": "<ul>\n<li>Add day and night custom Odin wallpapers by Freehive</li>\n<li>Add Snow-capped Mountain, Martin Adams, Tj Holowaychuk, and Vikor Forgacs</li>\n<li>Remove Carmine de Fazio, Luca Bravo, Pablo Garcia Saldana, Rob Bye, and Ryan Schroeder</li>\n</ul>\n",
-        "href": "https://github.com/elementary/wallpapers/releases/tag/6.0.0"
-      },
-      {
-        "version": "5.5.0",
-        "release_date": "2019-11-25T23:02:37",
-        "title": "wallpapers 5.5.0 Released",
-        "body": "wallpapers 5.5.0 is out! \n\n<ul>\n<li>Change default to Sunset by the Pier</li>\n</ul>\n",
-        "href": "https://github.com/elementary/wallpapers/releases/tag/5.5.0"
-      },
-      {
-        "version": "5.4",
-        "release_date": "2019-09-27T05:25:33",
-        "title": "elementary Wallpapers 5.4 Released",
-        "body": "elementary Wallpapers 5.4 is out!\r\n\r\nThis release includes the following changes:\r\n\r\n   * Fix white pixel in Ashim DSilva\r\n   * Add Nattu Adnan wallpaper\r\n   * Add Canazei Granite Ridges wallpaper\r\n   * Add Julia Craice wallpaper\r\n",
-        "href": "https://github.com/elementary/wallpapers/releases/tag/5.4"
-      },
-      {
-        "version": "5.3",
-        "release_date": "2018-09-18T17:34:10",
-        "title": "elementary Wallpapers 5.3 Released",
-        "body": "elementary Wallpapers 5.3 is out!\r\n\r\nThis release includes the following changes:\r\n* New wallpaper [Morskie Oko](https://unsplash.com/photos/_1UF_3TlKcQ)\r\n* Removed wallpaper [Jay Ruzesky](https://unsplash.com/photos/h13Y8vyIXNU)",
-        "href": "https://github.com/elementary/wallpapers/releases/tag/5.3"
-      },
-      {
-        "version": "5.2",
-        "release_date": "2018-06-21T07:19:02",
-        "title": "elementary Wallpapers 5.2 Released",
-        "body": "elementary Wallpapers 5.2 is out!\r\n\r\nThis release includes the following changes:\r\n* New wallpaper [Luca Bravo](https://unsplash.com/photos/4yta6mU66dE), modified",
-        "href": "https://github.com/elementary/wallpapers/releases/tag/5.2"
-      },
-      {
-        "version": "5.1",
-        "release_date": "2018-05-21T18:04:53",
-        "title": "elementary Wallpapers 5.1 Released",
-        "body": "elementary Wallpapers 5.1 is out!\r\n\r\nThis release includes the following changes:\r\n* New wallpaper [Sunset by the Pier](https://unsplash.com/photos/ces8_Bo7bhQ)\r\n* File size optimizations\r\n* Higher resolution versions of the following:\r\n  - Carmine De Fazio.jpg\r\n  - Jay Ruzesky.jpg\r\n  - leigh-kendell-581.jpg\r\n  - Mr. Lee.jpg\r\n  - Pablo Garcia Saldana.jpg\r\n  - Ryan Schroeder.jpg",
-        "href": "https://github.com/elementary/wallpapers/releases/tag/5.1"
-      },
-      {
-        "version": "5.0",
-        "release_date": "2018-03-01T15:00:25",
-        "title": "elementary Wallpapers 5.0 Released",
-        "body": "Mostly complete collection of wallpapers for use in elementary OS Juno, few changes are expected to follow.",
-        "href": "https://github.com/elementary/wallpapers/releases/tag/5.0"
-      }
-    ],
-    "new_commits": 131
   },
   {
     "name": "contractor",
