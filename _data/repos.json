@@ -2029,7 +2029,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 1
+    "new_commits": 2
   },
   {
     "name": "switchboard-plug-pantheon-shell",
@@ -2568,7 +2568,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 3
+    "new_commits": 7
   },
   {
     "name": "switchboard-plug-keyboard",
