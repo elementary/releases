@@ -149,7 +149,7 @@
         "href": "https://github.com/elementary/screenshot/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 5
+    "new_commits": 7
   },
   {
     "name": "calculator",
@@ -2568,7 +2568,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 7
+    "new_commits": 10
   },
   {
     "name": "switchboard-plug-keyboard",
