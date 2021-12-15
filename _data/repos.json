@@ -294,7 +294,7 @@
         "href": "https://github.com/elementary/installer/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 0
+    "new_commits": 1
   },
   {
     "name": "camera",
@@ -487,7 +487,7 @@
         "href": "https://github.com/elementary/tasks/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 1
+    "new_commits": 2
   },
   {
     "name": "mail",
