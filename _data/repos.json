@@ -1300,7 +1300,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 4
+    "new_commits": 5
   },
   {
     "name": "files",
@@ -2748,7 +2748,7 @@
         "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/0.1"
       }
     ],
-    "new_commits": 30
+    "new_commits": 32
   },
   {
     "name": "switchboard-plug-locale",
@@ -4986,7 +4986,7 @@
         "href": "https://github.com/elementary/switchboard-plug-parental-controls/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 73
+    "new_commits": 74
   },
   {
     "name": "switchboard-plug-notifications",
