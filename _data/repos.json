@@ -1605,6 +1605,13 @@
     "name": "os",
     "releases": [
       {
+        "version": "6.1.0-rc3",
+        "release_date": "2021-12-09T18:54:30",
+        "title": "6.1.0 RC3",
+        "body": "This is a release candidate image for OS 6.1 for testing and verification purposes",
+        "href": "https://github.com/elementary/os/releases/tag/6.1.0-rc3"
+      },
+      {
         "version": "6.1.0-rc2",
         "release_date": "2021-12-09T18:54:30",
         "title": "6.1.0 RC2",
