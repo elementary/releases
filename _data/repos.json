@@ -1,5 +1,199 @@
 [
   {
+    "name": "videos",
+    "releases": [
+      {
+        "version": "2.8.1",
+        "release_date": "2021-12-17T18:35:28",
+        "title": "videos 2.8.1 Released",
+        "body": "<p>Other updates:</p>\n<ul>\n<li>Fix an issue with removing videos from library</li>\n</ul>\n",
+        "href": "https://github.com/elementary/videos/releases/tag/2.8.1"
+      },
+      {
+        "version": "2.8.0",
+        "release_date": "2021-10-30T02:47:08",
+        "title": "Videos 2.8.0 Released",
+        "body": "<p>New features:</p>\r\n<ul>\r\n<li>Two-finger swipe to go back</li>\r\n</ul>\r\n<p>Other updates:</p>\r\n<ul>\r\n<li>Translation updates</li>\r\n</ul>",
+        "href": "https://github.com/elementary/videos/releases/tag/2.8.0"
+      },
+      {
+        "version": "2.7.3",
+        "release_date": "2021-07-14T19:10:48",
+        "title": "videos 2.7.3 Released",
+        "body": "<p>Other updates:</p>\n<ul>\n<li>Fix an issue with accessing library view</li>\n<li>Fix an issue with returning to the welcome page while playing multiple videos</li>\n<li>Prevent sleep while playing a video</li>\n<li>Translation updates</li>\n</ul>\n",
+        "href": "https://github.com/elementary/videos/releases/tag/2.7.3"
+      },
+      {
+        "version": "2.7.2",
+        "release_date": "2020-07-01T16:26:26",
+        "title": "videos 2.7.2 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Start up faster with large libraries</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Fix cases where subtitles refused to load</li>\n<li>Handle if library folder is deleted or moved</li>\n<li>Translation updates</li>\n</ul>\n",
+        "href": "https://github.com/elementary/videos/releases/tag/2.7.2"
+      },
+      {
+        "version": "2.7.1",
+        "release_date": "2020-04-14T22:18:45",
+        "title": "videos 2.7.1 Released",
+        "body": "<p>Other updates:</p>\n<ul>\n<li>Reliably update the replay button description and file</li>\n<li>More consistently remember the last playing video and its play position</li>\n<li>Fix missing icon in episode view</li>\n<li>Translation updates</li>\n</ul>\n",
+        "href": "https://github.com/elementary/videos/releases/tag/2.7.1"
+      },
+      {
+        "version": "2.7.0",
+        "release_date": "2019-11-25T17:17:19",
+        "title": "videos 2.7.0 Released",
+        "body": "videos 2.7.0 is out! \r\n\r\nChanges:\r\n\r\nNew features:\r\n\r\n* Option to automatically play next videos\r\n* Navigate the playlist with the keyboard\r\n* Add a button to clear the playlist\r\n* Show audio track language in settings\r\n* Show playlist item titles in their tooltips\r\n\r\nOther updates:\r\n\r\n* Show an error for unsupported files\r\n* Fix disappearing cursor on headerbar\r\n* Hide seekbar preview when switching windows with Alt + Tab\r\n* Translation updates\r\n",
+        "href": "https://github.com/elementary/videos/releases/tag/2.7.0"
+      },
+      {
+        "version": "2.6.3",
+        "release_date": "2019-01-09T10:19:08",
+        "title": "Videos 2.6.3 Released",
+        "body": "Videos 2.6.3 is out!\r\n\r\nChanges:\r\n* Build fixes\r\n* Updated translations",
+        "href": "https://github.com/elementary/videos/releases/tag/2.6.3"
+      },
+      {
+        "version": "2.6.2",
+        "release_date": "2018-10-01T06:52:12",
+        "title": "Videos 2.6.2 Released",
+        "body": "Videos 2.6.2 is out!\r\n\r\nThis release includes build fixes and updated translations.",
+        "href": "https://github.com/elementary/videos/releases/tag/2.6.2"
+      },
+      {
+        "version": "2.6.1",
+        "release_date": "2018-07-31T09:16:04",
+        "title": "Videos 2.6.1 Released",
+        "body": "Videos 2.6.1 is out!\r\n\r\nThis release includes translation updates.",
+        "href": "https://github.com/elementary/videos/releases/tag/2.6.1"
+      },
+      {
+        "version": "0.2.6",
+        "release_date": "2018-06-20T08:43:37",
+        "title": "Videos 0.2.6 Released",
+        "body": "Videos 0.2.6 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/videos/issues?q=is%3Aclosed+milestone%3A0.2.6).",
+        "href": "https://github.com/elementary/videos/releases/tag/0.2.6"
+      },
+      {
+        "version": "0.2.5",
+        "release_date": "2018-01-08T19:53:24",
+        "title": "Audience 0.2.5 Released",
+        "body": "Audience 0.2.5 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/videos/issues?q=is%3Aclosed+milestone%3A0.2.5).",
+        "href": "https://github.com/elementary/videos/releases/tag/0.2.5"
+      },
+      {
+        "version": "0.2.4",
+        "release_date": "2017-08-12T02:05:24",
+        "title": "Audience 0.2.4 Released",
+        "body": "Audience 0.2.4 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/videos/milestone/3).",
+        "href": "https://github.com/elementary/videos/releases/tag/0.2.4"
+      },
+      {
+        "version": "0.2.3",
+        "release_date": "2017-08-02T11:05:26",
+        "title": "Audience 0.2.3 Released",
+        "body": "Audience 0.2.3 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/videos/milestone/1?closed=1).",
+        "href": "https://github.com/elementary/videos/releases/tag/0.2.3"
+      }
+    ],
+    "new_commits": 0
+  },
+  {
+    "name": "wingpanel-indicator-notifications",
+    "releases": [
+      {
+        "version": "6.0.4",
+        "release_date": "2021-12-17T18:34:52",
+        "title": "wingpanel-indicator-notifications 6.0.4 Released",
+        "body": "<p>Fixes:</p>\n<ul>\n<li>Fix delayed startup</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/6.0.4"
+      },
+      {
+        "version": "6.0.3",
+        "release_date": "2021-12-11T05:26:01",
+        "title": "wingpanel-indicator-notifications 6.0.3 Released",
+        "body": "<p>Fixes:</p>\n<ul>\n<li>Handle null message body</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/6.0.3"
+      },
+      {
+        "version": "6.0.2",
+        "release_date": "2021-10-26T18:00:25",
+        "title": "Notifications Indicator 6.0.2 Released",
+        "body": "<p>Minor updates:</p>\r\n<ul>\r\n<li>Fix DBus listening on Fedora</li>\r\n<li>Updated translations</li>\r\n</ul>",
+        "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/6.0.2"
+      },
+      {
+        "version": "6.0.1",
+        "release_date": "2021-09-27T20:37:48",
+        "title": "Notifications Indicator 6.0.1 ",
+        "body": "<p>Minor updates:</p>\r\n<ul>\r\n<li>Use app name as fallback title</li>\r\n<li>Updated translations</li>\r\n</ul>",
+        "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/6.0.1"
+      },
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-16T00:02:35",
+        "title": "wingpanel-indicator-notifications 6.0.0 Released",
+        "body": "<p>Complete redesign:</p>\n<ul>\n<li>Multitouch gestures to dismiss notifications</li>\n<li>Close button on each notification</li>\n<li>Show images and badged icons</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Show tooltip on hover </li>\n<li>Performance improvements</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/6.0.0"
+      },
+      {
+        "version": "2.1.4",
+        "release_date": "2020-04-01T23:52:26",
+        "title": "wingpanel-indicator-notifications 2.1.4 Released",
+        "body": "wingpanel-indicator-notifications 2.1.4 is out! \n\n<p>Fix issues with disappearing notifications</p>\n<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.1.4"
+      },
+      {
+        "version": "2.1.3",
+        "release_date": "2019-11-25T16:55:34",
+        "title": "wingpanel-indicator-notifications 2.1.3 Released",
+        "body": "wingpanel-indicator-notifications 2.1.3 is out! \n\nChanges:\n\n* Fix a minor visual inconsistency\n* Updated translations\n",
+        "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.1.3"
+      },
+      {
+        "version": "2.1.2",
+        "release_date": "2018-10-29T16:38:36",
+        "title": "Wingpanel Notifications Indicator 2.1.2 Released",
+        "body": "wingpanel-indicator-notifications 2.1.2 is out!\r\n\r\nChanges:\r\n* Always update the state of the indicator to prevent phantom notifications\r\n* Updated translations",
+        "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.1.2"
+      },
+      {
+        "version": "2.1.1",
+        "release_date": "2018-10-03T10:34:58",
+        "title": "Wingpanel Notifications Indicator 2.1.1 Released",
+        "body": "wingpanel-indicator-notifications 2.1.1 is out!\r\n\r\nThis release includes updated translations.",
+        "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.1.1"
+      },
+      {
+        "version": "2.1.0",
+        "release_date": "2018-06-07T10:16:48",
+        "title": "Wingpanel Notifications Indicator 2.1.0 Released",
+        "body": "wingpanel-indicator-notifications 2.1.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/wingpanel-indicator-notifications/issues?q=is%3Aclosed+milestone%3A2.1.0).",
+        "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.1.0"
+      },
+      {
+        "version": "2.0.3",
+        "release_date": "2017-10-04T02:28:04",
+        "title": "Wingpanel Notifications Indicator 2.0.3 Released",
+        "body": "wingpanel-indicator-notifications 2.0.3 is out!\r\n\r\nThis release includes support for the new settings:// URL schema.",
+        "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.0.3"
+      },
+      {
+        "version": "2.0.2",
+        "release_date": "2017-08-01T02:41:02",
+        "title": "Wingpanel Notifications Indicator 2.0.2 Released",
+        "body": "wingpanel-indicator-notifications 2.0.2 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/wingpanel-indicator-notifications/milestone/2?closed=1).",
+        "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.0.2"
+      },
+      {
+        "version": "2.0.1",
+        "release_date": "2017-05-21T22:07:11",
+        "title": "Wingpanel Notifications Indicator 2.0.1 Released",
+        "body": "wingpanel-indicator-notifications 2.0.1 is out!",
+        "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.0.1"
+      }
+    ],
+    "new_commits": 3
+  },
+  {
     "name": "wallpapers",
     "releases": [
       {
@@ -953,96 +1147,6 @@
       }
     ],
     "new_commits": 17
-  },
-  {
-    "name": "wingpanel-indicator-notifications",
-    "releases": [
-      {
-        "version": "6.0.3",
-        "release_date": "2021-12-11T05:26:01",
-        "title": "wingpanel-indicator-notifications 6.0.3 Released",
-        "body": "<p>Fixes:</p>\n<ul>\n<li>Handle null message body</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/6.0.3"
-      },
-      {
-        "version": "6.0.2",
-        "release_date": "2021-10-26T18:00:25",
-        "title": "Notifications Indicator 6.0.2 Released",
-        "body": "<p>Minor updates:</p>\r\n<ul>\r\n<li>Fix DBus listening on Fedora</li>\r\n<li>Updated translations</li>\r\n</ul>",
-        "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/6.0.2"
-      },
-      {
-        "version": "6.0.1",
-        "release_date": "2021-09-27T20:37:48",
-        "title": "Notifications Indicator 6.0.1 ",
-        "body": "<p>Minor updates:</p>\r\n<ul>\r\n<li>Use app name as fallback title</li>\r\n<li>Updated translations</li>\r\n</ul>",
-        "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/6.0.1"
-      },
-      {
-        "version": "6.0.0",
-        "release_date": "2021-07-16T00:02:35",
-        "title": "wingpanel-indicator-notifications 6.0.0 Released",
-        "body": "<p>Complete redesign:</p>\n<ul>\n<li>Multitouch gestures to dismiss notifications</li>\n<li>Close button on each notification</li>\n<li>Show images and badged icons</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Show tooltip on hover </li>\n<li>Performance improvements</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/6.0.0"
-      },
-      {
-        "version": "2.1.4",
-        "release_date": "2020-04-01T23:52:26",
-        "title": "wingpanel-indicator-notifications 2.1.4 Released",
-        "body": "wingpanel-indicator-notifications 2.1.4 is out! \n\n<p>Fix issues with disappearing notifications</p>\n<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.1.4"
-      },
-      {
-        "version": "2.1.3",
-        "release_date": "2019-11-25T16:55:34",
-        "title": "wingpanel-indicator-notifications 2.1.3 Released",
-        "body": "wingpanel-indicator-notifications 2.1.3 is out! \n\nChanges:\n\n* Fix a minor visual inconsistency\n* Updated translations\n",
-        "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.1.3"
-      },
-      {
-        "version": "2.1.2",
-        "release_date": "2018-10-29T16:38:36",
-        "title": "Wingpanel Notifications Indicator 2.1.2 Released",
-        "body": "wingpanel-indicator-notifications 2.1.2 is out!\r\n\r\nChanges:\r\n* Always update the state of the indicator to prevent phantom notifications\r\n* Updated translations",
-        "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.1.2"
-      },
-      {
-        "version": "2.1.1",
-        "release_date": "2018-10-03T10:34:58",
-        "title": "Wingpanel Notifications Indicator 2.1.1 Released",
-        "body": "wingpanel-indicator-notifications 2.1.1 is out!\r\n\r\nThis release includes updated translations.",
-        "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.1.1"
-      },
-      {
-        "version": "2.1.0",
-        "release_date": "2018-06-07T10:16:48",
-        "title": "Wingpanel Notifications Indicator 2.1.0 Released",
-        "body": "wingpanel-indicator-notifications 2.1.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/wingpanel-indicator-notifications/issues?q=is%3Aclosed+milestone%3A2.1.0).",
-        "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.1.0"
-      },
-      {
-        "version": "2.0.3",
-        "release_date": "2017-10-04T02:28:04",
-        "title": "Wingpanel Notifications Indicator 2.0.3 Released",
-        "body": "wingpanel-indicator-notifications 2.0.3 is out!\r\n\r\nThis release includes support for the new settings:// URL schema.",
-        "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.0.3"
-      },
-      {
-        "version": "2.0.2",
-        "release_date": "2017-08-01T02:41:02",
-        "title": "Wingpanel Notifications Indicator 2.0.2 Released",
-        "body": "wingpanel-indicator-notifications 2.0.2 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/wingpanel-indicator-notifications/milestone/2?closed=1).",
-        "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.0.2"
-      },
-      {
-        "version": "2.0.1",
-        "release_date": "2017-05-21T22:07:11",
-        "title": "Wingpanel Notifications Indicator 2.0.1 Released",
-        "body": "wingpanel-indicator-notifications 2.0.1 is out!",
-        "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.0.1"
-      }
-    ],
-    "new_commits": 5
   },
   {
     "name": "appcenter",
@@ -2997,96 +3101,6 @@
       }
     ],
     "new_commits": 0
-  },
-  {
-    "name": "videos",
-    "releases": [
-      {
-        "version": "2.8.0",
-        "release_date": "2021-10-30T02:47:08",
-        "title": "Videos 2.8.0 Released",
-        "body": "<p>New features:</p>\r\n<ul>\r\n<li>Two-finger swipe to go back</li>\r\n</ul>\r\n<p>Other updates:</p>\r\n<ul>\r\n<li>Translation updates</li>\r\n</ul>",
-        "href": "https://github.com/elementary/videos/releases/tag/2.8.0"
-      },
-      {
-        "version": "2.7.3",
-        "release_date": "2021-07-14T19:10:48",
-        "title": "videos 2.7.3 Released",
-        "body": "<p>Other updates:</p>\n<ul>\n<li>Fix an issue with accessing library view</li>\n<li>Fix an issue with returning to the welcome page while playing multiple videos</li>\n<li>Prevent sleep while playing a video</li>\n<li>Translation updates</li>\n</ul>\n",
-        "href": "https://github.com/elementary/videos/releases/tag/2.7.3"
-      },
-      {
-        "version": "2.7.2",
-        "release_date": "2020-07-01T16:26:26",
-        "title": "videos 2.7.2 Released",
-        "body": "<p>Improvements:</p>\n<ul>\n<li>Start up faster with large libraries</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Fix cases where subtitles refused to load</li>\n<li>Handle if library folder is deleted or moved</li>\n<li>Translation updates</li>\n</ul>\n",
-        "href": "https://github.com/elementary/videos/releases/tag/2.7.2"
-      },
-      {
-        "version": "2.7.1",
-        "release_date": "2020-04-14T22:18:45",
-        "title": "videos 2.7.1 Released",
-        "body": "<p>Other updates:</p>\n<ul>\n<li>Reliably update the replay button description and file</li>\n<li>More consistently remember the last playing video and its play position</li>\n<li>Fix missing icon in episode view</li>\n<li>Translation updates</li>\n</ul>\n",
-        "href": "https://github.com/elementary/videos/releases/tag/2.7.1"
-      },
-      {
-        "version": "2.7.0",
-        "release_date": "2019-11-25T17:17:19",
-        "title": "videos 2.7.0 Released",
-        "body": "videos 2.7.0 is out! \r\n\r\nChanges:\r\n\r\nNew features:\r\n\r\n* Option to automatically play next videos\r\n* Navigate the playlist with the keyboard\r\n* Add a button to clear the playlist\r\n* Show audio track language in settings\r\n* Show playlist item titles in their tooltips\r\n\r\nOther updates:\r\n\r\n* Show an error for unsupported files\r\n* Fix disappearing cursor on headerbar\r\n* Hide seekbar preview when switching windows with Alt + Tab\r\n* Translation updates\r\n",
-        "href": "https://github.com/elementary/videos/releases/tag/2.7.0"
-      },
-      {
-        "version": "2.6.3",
-        "release_date": "2019-01-09T10:19:08",
-        "title": "Videos 2.6.3 Released",
-        "body": "Videos 2.6.3 is out!\r\n\r\nChanges:\r\n* Build fixes\r\n* Updated translations",
-        "href": "https://github.com/elementary/videos/releases/tag/2.6.3"
-      },
-      {
-        "version": "2.6.2",
-        "release_date": "2018-10-01T06:52:12",
-        "title": "Videos 2.6.2 Released",
-        "body": "Videos 2.6.2 is out!\r\n\r\nThis release includes build fixes and updated translations.",
-        "href": "https://github.com/elementary/videos/releases/tag/2.6.2"
-      },
-      {
-        "version": "2.6.1",
-        "release_date": "2018-07-31T09:16:04",
-        "title": "Videos 2.6.1 Released",
-        "body": "Videos 2.6.1 is out!\r\n\r\nThis release includes translation updates.",
-        "href": "https://github.com/elementary/videos/releases/tag/2.6.1"
-      },
-      {
-        "version": "0.2.6",
-        "release_date": "2018-06-20T08:43:37",
-        "title": "Videos 0.2.6 Released",
-        "body": "Videos 0.2.6 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/videos/issues?q=is%3Aclosed+milestone%3A0.2.6).",
-        "href": "https://github.com/elementary/videos/releases/tag/0.2.6"
-      },
-      {
-        "version": "0.2.5",
-        "release_date": "2018-01-08T19:53:24",
-        "title": "Audience 0.2.5 Released",
-        "body": "Audience 0.2.5 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/videos/issues?q=is%3Aclosed+milestone%3A0.2.5).",
-        "href": "https://github.com/elementary/videos/releases/tag/0.2.5"
-      },
-      {
-        "version": "0.2.4",
-        "release_date": "2017-08-12T02:05:24",
-        "title": "Audience 0.2.4 Released",
-        "body": "Audience 0.2.4 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/videos/milestone/3).",
-        "href": "https://github.com/elementary/videos/releases/tag/0.2.4"
-      },
-      {
-        "version": "0.2.3",
-        "release_date": "2017-08-02T11:05:26",
-        "title": "Audience 0.2.3 Released",
-        "body": "Audience 0.2.3 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/videos/milestone/1?closed=1).",
-        "href": "https://github.com/elementary/videos/releases/tag/0.2.3"
-      }
-    ],
-    "new_commits": 25
   },
   {
     "name": "capnet-assist",
