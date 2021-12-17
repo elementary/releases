@@ -1,5 +1,53 @@
 [
   {
+    "name": "installer",
+    "releases": [
+      {
+        "version": "1.0.5",
+        "release_date": "2021-12-17T19:30:23",
+        "title": "installer 1.0.5 Released",
+        "body": "\n",
+        "href": "https://github.com/elementary/installer/releases/tag/1.0.5"
+      },
+      {
+        "version": "1.0.4",
+        "release_date": "2021-12-13T22:34:35",
+        "title": "installer 1.0.4 Released",
+        "body": "\n",
+        "href": "https://github.com/elementary/installer/releases/tag/1.0.4"
+      },
+      {
+        "version": "1.0.3",
+        "release_date": "2021-08-26T02:15:09",
+        "title": "installer 1.0.3 Released",
+        "body": "\n",
+        "href": "https://github.com/elementary/installer/releases/tag/1.0.3"
+      },
+      {
+        "version": "1.0.2",
+        "release_date": "2021-08-20T21:33:08",
+        "title": "installer 1.0.2 Released",
+        "body": "\n",
+        "href": "https://github.com/elementary/installer/releases/tag/1.0.2"
+      },
+      {
+        "version": "1.0.1",
+        "release_date": "2021-07-29T19:26:54",
+        "title": "installer 1.0.1 Released",
+        "body": "\n",
+        "href": "https://github.com/elementary/installer/releases/tag/1.0.1"
+      },
+      {
+        "version": "1.0.0",
+        "release_date": "2021-07-15T23:54:35",
+        "title": "installer 1.0.0 Released",
+        "body": "\n",
+        "href": "https://github.com/elementary/installer/releases/tag/1.0.0"
+      }
+    ],
+    "new_commits": 0
+  },
+  {
     "name": "videos",
     "releases": [
       {
@@ -445,47 +493,6 @@
         "title": "Calculator 0.1.3 Released",
         "body": "pantheon-calculator 0.1.3 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/calculator/milestone/2?closed=1).",
         "href": "https://github.com/elementary/calculator/releases/tag/0.1.3"
-      }
-    ],
-    "new_commits": 1
-  },
-  {
-    "name": "installer",
-    "releases": [
-      {
-        "version": "1.0.4",
-        "release_date": "2021-12-13T22:34:35",
-        "title": "installer 1.0.4 Released",
-        "body": "\n",
-        "href": "https://github.com/elementary/installer/releases/tag/1.0.4"
-      },
-      {
-        "version": "1.0.3",
-        "release_date": "2021-08-26T02:15:09",
-        "title": "installer 1.0.3 Released",
-        "body": "\n",
-        "href": "https://github.com/elementary/installer/releases/tag/1.0.3"
-      },
-      {
-        "version": "1.0.2",
-        "release_date": "2021-08-20T21:33:08",
-        "title": "installer 1.0.2 Released",
-        "body": "\n",
-        "href": "https://github.com/elementary/installer/releases/tag/1.0.2"
-      },
-      {
-        "version": "1.0.1",
-        "release_date": "2021-07-29T19:26:54",
-        "title": "installer 1.0.1 Released",
-        "body": "\n",
-        "href": "https://github.com/elementary/installer/releases/tag/1.0.1"
-      },
-      {
-        "version": "1.0.0",
-        "release_date": "2021-07-15T23:54:35",
-        "title": "installer 1.0.0 Released",
-        "body": "\n",
-        "href": "https://github.com/elementary/installer/releases/tag/1.0.0"
       }
     ],
     "new_commits": 1
