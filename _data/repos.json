@@ -301,7 +301,7 @@
         "href": "https://github.com/elementary/wallpapers/releases/tag/5.0"
       }
     ],
-    "new_commits": 1
+    "new_commits": 2
   },
   {
     "name": "screenshot",
@@ -1904,7 +1904,7 @@
         "href": "https://github.com/elementary/icons/releases/tag/4.0.1.1"
       }
     ],
-    "new_commits": 15
+    "new_commits": 17
   },
   {
     "name": "stylesheet",
@@ -2251,7 +2251,7 @@
         "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
       }
     ],
-    "new_commits": 7
+    "new_commits": 9
   },
   {
     "name": "onboarding",
@@ -2866,7 +2866,7 @@
         "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/0.1"
       }
     ],
-    "new_commits": 39
+    "new_commits": 40
   },
   {
     "name": "switchboard-plug-locale",
@@ -4740,7 +4740,7 @@
         "href": "https://github.com/elementary/music/releases/tag/0.4.0.3"
       }
     ],
-    "new_commits": 136
+    "new_commits": 137
   },
   {
     "name": "wingpanel-indicator-a11y",
@@ -4794,7 +4794,7 @@
         "href": "https://github.com/elementary/switchboard-plug-a11y/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 57
+    "new_commits": 58
   },
   {
     "name": "pantheon-agent-geoclue2",
