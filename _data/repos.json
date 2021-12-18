@@ -239,7 +239,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.0.1"
       }
     ],
-    "new_commits": 5
+    "new_commits": 6
   },
   {
     "name": "wallpapers",
@@ -2866,7 +2866,7 @@
         "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/0.1"
       }
     ],
-    "new_commits": 37
+    "new_commits": 38
   },
   {
     "name": "switchboard-plug-locale",
