@@ -142,7 +142,7 @@
         "href": "https://github.com/elementary/videos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 5
+    "new_commits": 6
   },
   {
     "name": "wingpanel-indicator-notifications",
@@ -391,7 +391,7 @@
         "href": "https://github.com/elementary/screenshot/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 11
+    "new_commits": 12
   },
   {
     "name": "calculator",
@@ -1599,7 +1599,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 34
+    "new_commits": 51
   },
   {
     "name": "os",
@@ -2161,7 +2161,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 3
+    "new_commits": 4
   },
   {
     "name": "switchboard-plug-pantheon-shell",
@@ -2555,7 +2555,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 32
+    "new_commits": 33
   },
   {
     "name": "gala",
