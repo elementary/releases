@@ -122,7 +122,7 @@
         "href": "https://github.com/elementary/wingpanel/releases/tag/2.0.3"
       }
     ],
-    "new_commits": 0
+    "new_commits": 2
   },
   {
     "name": "installer",
@@ -364,7 +364,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.0.1"
       }
     ],
-    "new_commits": 8
+    "new_commits": 9
   },
   {
     "name": "wallpapers",
@@ -5525,7 +5525,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-session/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 53
+    "new_commits": 55
   },
   {
     "name": "contractor",
