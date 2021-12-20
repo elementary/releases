@@ -1724,7 +1724,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 62
+    "new_commits": 64
   },
   {
     "name": "os",
@@ -6015,7 +6015,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 5054
+    "new_commits": 5055
   },
   {
     "name": "fonts",
