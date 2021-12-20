@@ -267,7 +267,7 @@
         "href": "https://github.com/elementary/videos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 7
+    "new_commits": 9
   },
   {
     "name": "wingpanel-indicator-notifications",
@@ -2998,7 +2998,7 @@
         "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/0.1"
       }
     ],
-    "new_commits": 40
+    "new_commits": 41
   },
   {
     "name": "switchboard-plug-locale",
