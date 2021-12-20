@@ -1732,28 +1732,28 @@
       {
         "version": "6.1.0-rc4",
         "release_date": "2021-12-09T18:54:30",
-        "title": "6.1.0 RC4",
-        "body": "This is a release candidate image for OS 6.1 for testing and verification purposes",
+        "title": "6.1 J\u00f3lnir",
+        "body": "**elementary OS 6.1 Available Now:** We come bearing gifts and Yule tidings!\r\n\r\nToday we\u2019re proud to announce that OS 6.1 J\u00f3lnir is [available to download now][elementary.io] for new users, as an easy upgrade for existing users, and shipping on several high-quality computers. With OS 6.1, we\u2019ve focused in on:\r\n\r\n- Addressing **your feedback** with new features and fixes\r\n- Making elementary OS more useful with **office productivity** features\r\n- **Expanding compatibility** with a wide range of hardware\r\n\r\nTo get elementary OS 6.1 now, head to [elementary.io] for the download\u2014or read the [blog post] for the details!\r\n\r\nAs always, more info about installing (including verifying the SHA256 sum) can be found at [elementary.io/docs/installation]. Be sure to read the [release FAQ].\r\n\r\n[elementary.io]: https://elementary.io\r\n[blog post]: https://blog.elementary.io/elementary-os-6-1-available-now/\r\n[elementary.io/docs/installation]: https://elementary.io/docs/installation\r\n[release FAQ]: https://github.com/elementary/os/wiki/elementary-OS-6.1-J\u00f3lnir-FAQ",
         "href": "https://github.com/elementary/os/releases/tag/6.1.0-rc4"
       },
       {
         "version": "6.1.0-rc3",
         "release_date": "2021-12-09T18:54:30",
-        "title": "6.1.0 RC3",
+        "title": "6.1 J\u00f3lnir RC3",
         "body": "This is a release candidate image for OS 6.1 for testing and verification purposes",
         "href": "https://github.com/elementary/os/releases/tag/6.1.0-rc3"
       },
       {
         "version": "6.1.0-rc2",
         "release_date": "2021-12-09T18:54:30",
-        "title": "6.1.0 RC2",
+        "title": "6.1 J\u00f3lnir RC2",
         "body": "This is a release candidate image for OS 6.1 for testing and verification purposes",
         "href": "https://github.com/elementary/os/releases/tag/6.1.0-rc2"
       },
       {
         "version": "6.1.0-rc1",
         "release_date": "2021-12-09T18:54:30",
-        "title": "6.1.0 RC1",
+        "title": "6.1 J\u00f3lnir RC1",
         "body": "This is a release candidate image for OS 6.1 for testing and verification purposes",
         "href": "https://github.com/elementary/os/releases/tag/6.1.0-rc1"
       },
@@ -2036,7 +2036,7 @@
         "href": "https://github.com/elementary/icons/releases/tag/4.0.1.1"
       }
     ],
-    "new_commits": 17
+    "new_commits": 18
   },
   {
     "name": "stylesheet",
