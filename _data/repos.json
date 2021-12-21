@@ -2036,7 +2036,7 @@
         "href": "https://github.com/elementary/icons/releases/tag/4.0.1.1"
       }
     ],
-    "new_commits": 19
+    "new_commits": 20
   },
   {
     "name": "stylesheet",
@@ -2383,7 +2383,7 @@
         "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
       }
     ],
-    "new_commits": 10
+    "new_commits": 11
   },
   {
     "name": "onboarding",
@@ -2998,7 +2998,7 @@
         "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/0.1"
       }
     ],
-    "new_commits": 41
+    "new_commits": 42
   },
   {
     "name": "switchboard-plug-locale",
@@ -3709,7 +3709,7 @@
         "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 27
+    "new_commits": 28
   },
   {
     "name": "settings-daemon",
