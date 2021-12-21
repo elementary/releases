@@ -703,7 +703,7 @@
         "href": "https://github.com/elementary/camera/releases/tag/1.0"
       }
     ],
-    "new_commits": 7
+    "new_commits": 9
   },
   {
     "name": "switchboard-plug-onlineaccounts",
@@ -1021,7 +1021,7 @@
         "href": "https://github.com/elementary/terminal/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 1
+    "new_commits": 2
   },
   {
     "name": "applications-menu",
