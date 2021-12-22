@@ -2383,7 +2383,7 @@
         "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
       }
     ],
-    "new_commits": 11
+    "new_commits": 12
   },
   {
     "name": "onboarding",
@@ -2528,7 +2528,7 @@
         "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 6
+    "new_commits": 8
   },
   {
     "name": "switchboard-plug-security-privacy",
@@ -2901,7 +2901,7 @@
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 9
+    "new_commits": 11
   },
   {
     "name": "switchboard-plug-sound",
@@ -2998,7 +2998,7 @@
         "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/0.1"
       }
     ],
-    "new_commits": 42
+    "new_commits": 43
   },
   {
     "name": "switchboard-plug-locale",
@@ -3081,7 +3081,7 @@
         "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 6
+    "new_commits": 7
   },
   {
     "name": "wingpanel-indicator-sound",
@@ -3709,7 +3709,7 @@
         "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 28
+    "new_commits": 29
   },
   {
     "name": "settings-daemon",
@@ -4088,7 +4088,7 @@
         "href": "https://github.com/elementary/switchboard-plug-network/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 45
+    "new_commits": 46
   },
   {
     "name": "initial-setup",
