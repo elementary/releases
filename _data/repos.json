@@ -882,7 +882,7 @@
         "href": "https://github.com/elementary/mail/releases/tag/1.0.6"
       }
     ],
-    "new_commits": 2
+    "new_commits": 4
   },
   {
     "name": "terminal",
@@ -1724,7 +1724,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 65
+    "new_commits": 69
   },
   {
     "name": "os",
@@ -2687,7 +2687,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 34
+    "new_commits": 36
   },
   {
     "name": "gala",
