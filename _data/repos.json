@@ -2438,7 +2438,7 @@
         "href": "https://github.com/elementary/onboarding/releases/tag/1.0"
       }
     ],
-    "new_commits": 18
+    "new_commits": 19
   },
   {
     "name": "switchboard-plug-useraccounts",
@@ -3729,7 +3729,7 @@
         "href": "https://github.com/elementary/settings-daemon/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 4
+    "new_commits": 6
   },
   {
     "name": "switchboard-plug-applications",
@@ -6015,7 +6015,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 5064
+    "new_commits": 5065
   },
   {
     "name": "fonts",
