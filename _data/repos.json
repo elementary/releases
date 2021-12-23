@@ -2756,7 +2756,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 30
+    "new_commits": 31
   },
   {
     "name": "wingpanel-indicator-network",
@@ -6015,7 +6015,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 5063
+    "new_commits": 5064
   },
   {
     "name": "fonts",
