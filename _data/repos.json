@@ -2383,7 +2383,7 @@
         "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
       }
     ],
-    "new_commits": 13
+    "new_commits": 14
   },
   {
     "name": "onboarding",
@@ -2528,7 +2528,7 @@
         "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 9
+    "new_commits": 10
   },
   {
     "name": "switchboard-plug-security-privacy",
@@ -3081,7 +3081,7 @@
         "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 8
+    "new_commits": 9
   },
   {
     "name": "wingpanel-indicator-sound",
@@ -3709,7 +3709,7 @@
         "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 30
+    "new_commits": 31
   },
   {
     "name": "settings-daemon",
@@ -3798,7 +3798,7 @@
         "href": "https://github.com/elementary/switchboard-plug-applications/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 14
+    "new_commits": 15
   },
   {
     "name": "sideload",
@@ -4088,7 +4088,7 @@
         "href": "https://github.com/elementary/switchboard-plug-network/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 47
+    "new_commits": 48
   },
   {
     "name": "initial-setup",
@@ -4295,7 +4295,7 @@
         "href": "https://github.com/elementary/switchboard-plug-power/releases/tag/0.3.1"
       }
     ],
-    "new_commits": 38
+    "new_commits": 39
   },
   {
     "name": "switchboard-plug-about",
@@ -4392,7 +4392,7 @@
         "href": "https://github.com/elementary/switchboard-plug-about/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 53
+    "new_commits": 54
   },
   {
     "name": "wingpanel-indicator-power",
@@ -4808,7 +4808,7 @@
         "href": "https://github.com/elementary/switchboard-plug-a11y/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 60
+    "new_commits": 61
   },
   {
     "name": "pantheon-agent-geoclue2",
@@ -4987,7 +4987,7 @@
         "href": "https://github.com/elementary/switchboard-plug-datetime/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 42
+    "new_commits": 43
   },
   {
     "name": "switchboard-plug-parental-controls",
@@ -5028,7 +5028,7 @@
         "href": "https://github.com/elementary/switchboard-plug-parental-controls/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 74
+    "new_commits": 75
   },
   {
     "name": "switchboard-plug-notifications",
@@ -5297,7 +5297,7 @@
         "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 45
+    "new_commits": 46
   },
   {
     "name": "switchboard",
