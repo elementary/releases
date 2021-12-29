@@ -1724,7 +1724,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 81
+    "new_commits": 82
   },
   {
     "name": "os",
@@ -4767,7 +4767,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-a11y/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 22
+    "new_commits": 23
   },
   {
     "name": "switchboard-plug-a11y",
