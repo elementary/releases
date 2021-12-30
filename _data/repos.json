@@ -1536,7 +1536,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 10
+    "new_commits": 12
   },
   {
     "name": "files",
@@ -1724,7 +1724,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 91
+    "new_commits": 93
   },
   {
     "name": "os",
