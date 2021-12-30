@@ -170,7 +170,7 @@
         "href": "https://github.com/elementary/installer/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 3
+    "new_commits": 4
   },
   {
     "name": "videos",
@@ -882,7 +882,7 @@
         "href": "https://github.com/elementary/mail/releases/tag/1.0.6"
       }
     ],
-    "new_commits": 4
+    "new_commits": 5
   },
   {
     "name": "terminal",
@@ -1724,7 +1724,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 83
+    "new_commits": 85
   },
   {
     "name": "os",
