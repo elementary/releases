@@ -267,7 +267,7 @@
         "href": "https://github.com/elementary/videos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 14
+    "new_commits": 15
   },
   {
     "name": "wingpanel-indicator-notifications",
@@ -1724,7 +1724,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 85
+    "new_commits": 91
   },
   {
     "name": "os",
@@ -2687,7 +2687,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 37
+    "new_commits": 38
   },
   {
     "name": "gala",
@@ -3612,7 +3612,7 @@
         "href": "https://github.com/elementary/calendar/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 31
+    "new_commits": 32
   },
   {
     "name": "switchboard-plug-display",
