@@ -1724,7 +1724,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 107
+    "new_commits": 109
   },
   {
     "name": "os",
@@ -2154,7 +2154,7 @@
         "href": "https://github.com/elementary/stylesheet/releases/tag/5.0.4"
       }
     ],
-    "new_commits": 44
+    "new_commits": 45
   },
   {
     "name": "granite",
