@@ -703,7 +703,7 @@
         "href": "https://github.com/elementary/camera/releases/tag/1.0"
       }
     ],
-    "new_commits": 10
+    "new_commits": 11
   },
   {
     "name": "switchboard-plug-onlineaccounts",
@@ -882,7 +882,7 @@
         "href": "https://github.com/elementary/mail/releases/tag/1.0.6"
       }
     ],
-    "new_commits": 5
+    "new_commits": 6
   },
   {
     "name": "terminal",
@@ -1021,7 +1021,7 @@
         "href": "https://github.com/elementary/terminal/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 5
+    "new_commits": 6
   },
   {
     "name": "applications-menu",
@@ -2687,7 +2687,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 40
+    "new_commits": 41
   },
   {
     "name": "gala",
@@ -3363,7 +3363,7 @@
         "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.0"
       }
     ],
-    "new_commits": 10
+    "new_commits": 11
   },
   {
     "name": "portals",
@@ -3929,7 +3929,7 @@
         "href": "https://github.com/elementary/greeter/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 41
+    "new_commits": 42
   },
   {
     "name": "switchboard-plug-mouse-touchpad",
@@ -4754,7 +4754,7 @@
         "href": "https://github.com/elementary/music/releases/tag/0.4.0.3"
       }
     ],
-    "new_commits": 139
+    "new_commits": 140
   },
   {
     "name": "wingpanel-indicator-a11y",
@@ -5387,7 +5387,7 @@
         "href": "https://github.com/elementary/switchboard/releases/tag/2.3.0"
       }
     ],
-    "new_commits": 54
+    "new_commits": 55
   },
   {
     "name": "switchboard-plug-sharing",
