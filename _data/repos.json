@@ -1536,7 +1536,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 24
+    "new_commits": 32
   },
   {
     "name": "files",
@@ -2154,7 +2154,7 @@
         "href": "https://github.com/elementary/stylesheet/releases/tag/5.0.4"
       }
     ],
-    "new_commits": 43
+    "new_commits": 44
   },
   {
     "name": "granite",
