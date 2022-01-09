@@ -2036,7 +2036,7 @@
         "href": "https://github.com/elementary/icons/releases/tag/4.0.1.1"
       }
     ],
-    "new_commits": 43
+    "new_commits": 44
   },
   {
     "name": "stylesheet",
@@ -3480,7 +3480,7 @@
         "href": "https://github.com/elementary/photos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 92
+    "new_commits": 94
   },
   {
     "name": "calendar",
@@ -3612,7 +3612,7 @@
         "href": "https://github.com/elementary/calendar/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 36
+    "new_commits": 40
   },
   {
     "name": "switchboard-plug-display",
