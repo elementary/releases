@@ -813,7 +813,7 @@
         "href": "https://github.com/elementary/tasks/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 181
+    "new_commits": 188
   },
   {
     "name": "mail",
@@ -2438,7 +2438,7 @@
         "href": "https://github.com/elementary/onboarding/releases/tag/1.0"
       }
     ],
-    "new_commits": 27
+    "new_commits": 28
   },
   {
     "name": "switchboard-plug-useraccounts",
@@ -3480,7 +3480,7 @@
         "href": "https://github.com/elementary/photos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 94
+    "new_commits": 95
   },
   {
     "name": "calendar",
@@ -3612,7 +3612,7 @@
         "href": "https://github.com/elementary/calendar/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 40
+    "new_commits": 41
   },
   {
     "name": "switchboard-plug-display",
