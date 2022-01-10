@@ -426,7 +426,7 @@
         "href": "https://github.com/elementary/wallpapers/releases/tag/5.0"
       }
     ],
-    "new_commits": 4
+    "new_commits": 5
   },
   {
     "name": "screenshot",
@@ -2036,7 +2036,7 @@
         "href": "https://github.com/elementary/icons/releases/tag/4.0.1.1"
       }
     ],
-    "new_commits": 44
+    "new_commits": 46
   },
   {
     "name": "stylesheet",
@@ -2154,7 +2154,7 @@
         "href": "https://github.com/elementary/stylesheet/releases/tag/5.0.4"
       }
     ],
-    "new_commits": 45
+    "new_commits": 46
   },
   {
     "name": "granite",
@@ -2293,7 +2293,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 4
+    "new_commits": 5
   },
   {
     "name": "switchboard-plug-pantheon-shell",
@@ -3729,7 +3729,7 @@
         "href": "https://github.com/elementary/settings-daemon/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 6
+    "new_commits": 7
   },
   {
     "name": "switchboard-plug-applications",
@@ -3853,7 +3853,7 @@
         "href": "https://github.com/elementary/sideload/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 57
+    "new_commits": 58
   },
   {
     "name": "greeter",
@@ -3929,7 +3929,7 @@
         "href": "https://github.com/elementary/greeter/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 42
+    "new_commits": 43
   },
   {
     "name": "switchboard-plug-mouse-touchpad",
@@ -4556,7 +4556,7 @@
         "href": "https://github.com/elementary/feedback/releases/tag/1.0"
       }
     ],
-    "new_commits": 72
+    "new_commits": 74
   },
   {
     "name": "switchboard-plug-wacom",
