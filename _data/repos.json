@@ -4302,7 +4302,7 @@
         "href": "https://github.com/elementary/switchboard-plug-power/releases/tag/0.3.1"
       }
     ],
-    "new_commits": 57
+    "new_commits": 61
   },
   {
     "name": "switchboard-plug-about",
@@ -6022,7 +6022,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 5315
+    "new_commits": 5318
   },
   {
     "name": "fonts",
