@@ -1028,7 +1028,7 @@
         "href": "https://github.com/elementary/terminal/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 11
+    "new_commits": 12
   },
   {
     "name": "applications-menu",
@@ -1731,7 +1731,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 163
+    "new_commits": 170
   },
   {
     "name": "os",
