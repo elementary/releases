@@ -23,10 +23,10 @@ echo '' >> ~/.bashrc
 source ~/.bashrc
 ```
 
-Install jekyll and bundler:
+Install bundler:
 
 ```sh
-gem install jekyll bundler
+gem install bundler
 ```
 
 Install gems:

@@ -19,7 +19,8 @@ class Repo:
       raise NoReleasesFound
 
     self.last_release_timestamp = self.releases[0].created_at.timestamp()
-    self.commits = self.repo.get_commits(since=self.releases[0].created_at,sha='master')
+    self.default_branch = self.repo.default_branch
+    self.commits = self.repo.get_commits(since=self.releases[0].created_at,sha=self.default_branch)
 
 org = g.get_organization('elementary')
 
@@ -60,7 +61,8 @@ for repo in repos:
   json_out.append ({
     "name": repo.repo.name,
     "releases": releases,
-    "new_commits": new_commits
+    "new_commits": new_commits,
+    "default_branch": repo.default_branch
   })
   
 with open('_data/repos.json', 'w') as outfile:
