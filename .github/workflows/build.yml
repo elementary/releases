@@ -32,7 +32,7 @@ jobs:
         git config --global user.name "actions"
         echo "Git credentials configured."
 
-        git checkout master
+        git checkout main
         git add .
         git commit -m "Automatic update of data" && git push --set-upstream origin master || true
       env:
