@@ -274,7 +274,7 @@
         "href": "https://github.com/elementary/installer/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 14
+    "new_commits": 20
   },
   {
     "name": "wingpanel-indicator-notifications",
@@ -3619,7 +3619,7 @@
         "href": "https://github.com/elementary/calendar/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 42
+    "new_commits": 48
   },
   {
     "name": "switchboard-plug-display",
