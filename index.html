@@ -17,7 +17,7 @@ layout: default
   {% for repo in site.data.repos %}
     {% unless site.data.blacklist contains repo.name %}
     {% assign repo_href = org_href | append: "/" | append: repo.name %}
-    {% assign commits_href = repo_href | append: "/compare/" | append: repo.releases.first.version | append: "...master" %}
+    {% assign commits_href = repo_href | append: "/compare/" | append: repo.releases.first.version | append: "..." | append: repo.default_branch %}
     <tr id="{{ repo.name }}" >
       <td class="release">
         <a href="{{ repo_href }}" class="name">{{ repo.name }}</a>
