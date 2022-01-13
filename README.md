@@ -2,23 +2,6 @@
 
 See all releases and the status of repos at releases.elementary.io
 
-## Updating Data
-
-`_data/repos.json` is automatically rebuilt from a GitHub Action, but you can build it for local development:
-
-First, make sure you have `pip` and `PyGithub`:
-
-```sh
-python -m pip install --upgrade pip
-pip install PyGithub
-```
-
-Then run `release.py`:
-
-```sh
-python release.py
-```
-
 ## Building
 
 You'll need the following dependencies:
@@ -59,3 +42,22 @@ bundle exec jekyll serve --host 0.0.0.0
 ```
 
 The site should now be available at http://0.0.0.0:4000/ on your local machine, and your local machine's IP address on your network—great for testing on mobile OSes.
+
+### Updating Data
+
+`_data/repos.json` is automatically rebuilt from a GitHub Action, but you can build it for local development:
+
+First, create a [GitHub token](https://github.com/settings/tokens) with `repo` permissions and copy it somewhere safe.
+
+Then, make sure you have `pip` and `PyGithub`. On elementary OS:
+
+```sh
+sudo apt install python3-pip
+pip install PyGithub
+```
+
+Lastly, run `release.py` re-using your token as an environment variable, e.g.:
+
+```sh
+GITHUB_TOKEN=ghp_aBcDeFgHiJkLmNoPqRsTuVwXyZ python3 release.py
+```
