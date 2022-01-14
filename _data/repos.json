@@ -927,7 +927,7 @@
         "href": "https://github.com/elementary/mail/releases/tag/1.0.6"
       }
     ],
-    "new_commits": 31,
+    "new_commits": 33,
     "default_branch": "master"
   },
   {
@@ -2348,7 +2348,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 19,
+    "new_commits": 20,
     "default_branch": "main"
   },
   {
