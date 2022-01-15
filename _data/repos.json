@@ -1585,7 +1585,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 106,
+    "new_commits": 107,
     "default_branch": "master"
   },
   {
@@ -2089,7 +2089,7 @@
         "href": "https://github.com/elementary/icons/releases/tag/4.0.1.1"
       }
     ],
-    "new_commits": 52,
+    "new_commits": 53,
     "default_branch": "master"
   },
   {
@@ -3377,7 +3377,7 @@
         "href": "https://github.com/elementary/capnet-assist/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 19,
+    "new_commits": 20,
     "default_branch": "master"
   },
   {
@@ -3433,7 +3433,7 @@
         "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.0"
       }
     ],
-    "new_commits": 16,
+    "new_commits": 18,
     "default_branch": "master"
   },
   {
@@ -3930,7 +3930,7 @@
         "href": "https://github.com/elementary/sideload/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 68,
+    "new_commits": 70,
     "default_branch": "master"
   },
   {
@@ -4644,7 +4644,7 @@
         "href": "https://github.com/elementary/feedback/releases/tag/1.0"
       }
     ],
-    "new_commits": 83,
+    "new_commits": 84,
     "default_branch": "master"
   },
   {
