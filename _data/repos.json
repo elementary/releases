@@ -1774,7 +1774,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 194,
+    "new_commits": 196,
     "default_branch": "master"
   },
   {
@@ -3930,7 +3930,7 @@
         "href": "https://github.com/elementary/sideload/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 64,
+    "new_commits": 68,
     "default_branch": "master"
   },
   {
@@ -4644,7 +4644,7 @@
         "href": "https://github.com/elementary/feedback/releases/tag/1.0"
       }
     ],
-    "new_commits": 80,
+    "new_commits": 83,
     "default_branch": "master"
   },
   {
