@@ -787,7 +787,7 @@
         "href": "https://github.com/elementary/videos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 5,
+    "new_commits": 6,
     "default_branch": "master"
   },
   {
@@ -1494,7 +1494,7 @@
         "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/2.0"
       }
     ],
-    "new_commits": 51,
+    "new_commits": 52,
     "default_branch": "main"
   },
   {
@@ -2817,7 +2817,7 @@
         "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
       }
     ],
-    "new_commits": 21,
+    "new_commits": 22,
     "default_branch": "master"
   },
   {
@@ -3034,7 +3034,7 @@
         "href": "https://github.com/elementary/switchboard-plug-security-privacy/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 27,
+    "new_commits": 28,
     "default_branch": "master"
   },
   {
@@ -3342,7 +3342,7 @@
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 45,
+    "new_commits": 46,
     "default_branch": "master"
   },
   {
@@ -3440,7 +3440,7 @@
         "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/0.1"
       }
     ],
-    "new_commits": 50,
+    "new_commits": 51,
     "default_branch": "master"
   },
   {
@@ -4553,7 +4553,7 @@
         "href": "https://github.com/elementary/switchboard-plug-about/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 68,
+    "new_commits": 69,
     "default_branch": "master"
   },
   {
