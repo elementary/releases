@@ -1599,7 +1599,7 @@
         "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/2.0"
       }
     ],
-    "new_commits": 52,
+    "new_commits": 54,
     "default_branch": "main"
   },
   {
@@ -3545,7 +3545,7 @@
         "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/0.1"
       }
     ],
-    "new_commits": 51,
+    "new_commits": 52,
     "default_branch": "master"
   },
   {
@@ -4462,7 +4462,7 @@
         "href": "https://github.com/elementary/switchboard-plug-power/releases/tag/0.3.1"
       }
     ],
-    "new_commits": 76,
+    "new_commits": 78,
     "default_branch": "master"
   },
   {
@@ -4966,7 +4966,7 @@
         "href": "https://github.com/elementary/switchboard-plug-a11y/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 67,
+    "new_commits": 68,
     "default_branch": "master"
   },
   {
