@@ -1536,7 +1536,7 @@
         "href": "https://github.com/elementary/camera/releases/tag/1.0"
       }
     ],
-    "new_commits": 31,
+    "new_commits": 32,
     "default_branch": "master"
   },
   {
@@ -4560,7 +4560,7 @@
         "href": "https://github.com/elementary/switchboard-plug-about/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 81,
+    "new_commits": 82,
     "default_branch": "master"
   },
   {
@@ -6170,7 +6170,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 5398,
+    "new_commits": 5401,
     "default_branch": "master"
   },
   {
