@@ -6149,11 +6149,11 @@
         "href": "https://github.com/elementary/website/releases/tag/0.4-beta2"
       },
       {
-        "version": "0.3.0",
-        "release_date": "2016-01-06T22:55:57",
-        "title": "elementary OS Freya 0.3 Released",
-        "body": "elementary OS Freya 0.3 Released\n",
-        "href": "https://github.com/elementary/website/releases/tag/0.3.0"
+        "version": "0.3.2",
+        "release_date": "2016-01-06T22:49:04",
+        "title": "elementary OS Freya 0.3.2 Released",
+        "body": "elementary OS Freya 0.3.2 Released\n",
+        "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       },
       {
         "version": "0.3.1",
@@ -6163,11 +6163,11 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.1"
       },
       {
-        "version": "0.3.2",
-        "release_date": "2016-01-06T22:49:04",
-        "title": "elementary OS Freya 0.3.2 Released",
-        "body": "elementary OS Freya 0.3.2 Released\n",
-        "href": "https://github.com/elementary/website/releases/tag/0.3.2"
+        "version": "0.3.0",
+        "release_date": "2016-01-06T22:55:57",
+        "title": "elementary OS Freya 0.3 Released",
+        "body": "elementary OS Freya 0.3 Released\n",
+        "href": "https://github.com/elementary/website/releases/tag/0.3.0"
       }
     ],
     "new_commits": 5411,
@@ -6268,13 +6268,6 @@
         "href": "https://github.com/elementary/debian-test-package/releases/tag/v1.0.4"
       },
       {
-        "version": "v1.0.0",
-        "release_date": "2015-06-13T13:34:10",
-        "title": "jfoarw",
-        "body": "jfslkqjtk\u00f6weljt\nthrqeiojtowje\n",
-        "href": "https://github.com/elementary/debian-test-package/releases/tag/v1.0.0"
-      },
-      {
         "version": "v1.0.3",
         "release_date": "2016-03-03T08:04:38",
         "title": "New Test",
@@ -6294,6 +6287,13 @@
         "title": "Fixes to changelog (autogenerate)",
         "body": "Make the changelog generate on it's own.\n",
         "href": "https://github.com/elementary/debian-test-package/releases/tag/v1.0.1"
+      },
+      {
+        "version": "v1.0.0",
+        "release_date": "2015-06-13T13:34:10",
+        "title": "jfoarw",
+        "body": "jfslkqjtk\u00f6weljt\nthrqeiojtowje\n",
+        "href": "https://github.com/elementary/debian-test-package/releases/tag/v1.0.0"
       },
       {
         "version": "v1.0",
