@@ -80,7 +80,7 @@
         "href": "https://github.com/elementary/greeter/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 9,
+    "new_commits": 10,
     "default_branch": "master"
   },
   {
@@ -2915,7 +2915,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 54,
+    "new_commits": 55,
     "default_branch": "main"
   },
   {
@@ -4567,7 +4567,7 @@
         "href": "https://github.com/elementary/switchboard-plug-about/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 84,
+    "new_commits": 85,
     "default_branch": "master"
   },
   {
