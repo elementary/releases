@@ -3006,7 +3006,7 @@
         "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
       }
     ],
-    "new_commits": 22,
+    "new_commits": 23,
     "default_branch": "master"
   },
   {
@@ -3531,7 +3531,7 @@
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 52,
+    "new_commits": 53,
     "default_branch": "master"
   },
   {
@@ -4259,7 +4259,7 @@
         "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 30,
+    "new_commits": 31,
     "default_branch": "master"
   },
   {
@@ -6177,7 +6177,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.2"
       }
     ],
-    "new_commits": 5419,
+    "new_commits": 5425,
     "default_branch": "master"
   },
   {
