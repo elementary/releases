@@ -1214,13 +1214,6 @@
         "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/6.0.1"
       },
       {
-        "version": "6.0.0",
-        "release_date": "2021-07-16T00:02:35",
-        "title": "wingpanel-indicator-notifications 6.0.0 Released",
-        "body": "<p>Complete redesign:</p>\n<ul>\n<li>Multitouch gestures to dismiss notifications</li>\n<li>Close button on each notification</li>\n<li>Show images and badged icons</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Show tooltip on hover </li>\n<li>Performance improvements</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/6.0.0"
-      },
-      {
         "version": "2.1.4",
         "release_date": "2020-04-01T23:52:26",
         "title": "wingpanel-indicator-notifications 2.1.4 Released",
@@ -1240,13 +1233,6 @@
         "title": "Wingpanel Notifications Indicator 2.1.2 Released",
         "body": "wingpanel-indicator-notifications 2.1.2 is out!\r\n\r\nChanges:\r\n* Always update the state of the indicator to prevent phantom notifications\r\n* Updated translations",
         "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.1.2"
-      },
-      {
-        "version": "2.1.1",
-        "release_date": "2018-10-03T10:34:58",
-        "title": "Wingpanel Notifications Indicator 2.1.1 Released",
-        "body": "wingpanel-indicator-notifications 2.1.1 is out!\r\n\r\nThis release includes updated translations.",
-        "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.1.1"
       },
       {
         "version": "2.1.0",
