@@ -2964,6 +2964,13 @@
         "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/2.8.1"
       },
       {
+        "version": "2.8.0",
+        "release_date": "2018-12-21T11:29:38",
+        "title": "Switchboard Desktop Plug 2.8.0 Released",
+        "body": "switchboard-plug-pantheon-shell 2.8.0 is out!\r\n\r\nChanges:\r\n* Appearance tab\r\n* Ignore all wallpaper symlinks\r\n* Updated translations",
+        "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/2.8.0"
+      },
+      {
         "version": "2.7.2",
         "release_date": "2018-11-28T13:34:36",
         "title": "Switchboard Desktop Plug 2.7.2 Released",
