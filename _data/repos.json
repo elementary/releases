@@ -759,6 +759,13 @@
         "href": "https://github.com/elementary/calendar/releases/tag/6.0.2"
       },
       {
+        "version": "6.0.1",
+        "release_date": "2021-08-26T21:11:55",
+        "title": "calendar 6.0.1 Released",
+        "body": "<p>Fixes:</p>\n<ul>\n<li>Fix broken calendar color with some online providers</li>\n<li>Fix an issue with some all-day events</li>\n</ul>\n<p>Minor Updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/calendar/releases/tag/6.0.1"
+      },
+      {
         "version": "6.0.0",
         "release_date": "2021-07-21T02:56:10",
         "title": "calendar 6.0.0 Released",
