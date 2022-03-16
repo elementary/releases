@@ -3979,6 +3979,13 @@
         "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/2.2.1"
       },
       {
+        "version": "2.2.0",
+        "release_date": "2019-11-15T23:04:19",
+        "title": "switchboard-plug-display 2.2.0 Released",
+        "body": "switchboard-plug-display 2.2.0 is out! \n\nChanges:\n\n* Improved multi-display layouts with better snapping and aligning\n* Fixed the placement of display name tags\n* Updated translations\n",
+        "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/2.2.0"
+      },
+      {
         "version": "2.1.9",
         "release_date": "2019-09-24T15:20:51",
         "title": "Switchboard Display Plug 2.1.9 Released",
@@ -4385,7 +4392,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 51,
+    "new_commits": 0,
     "default_branch": "master"
   },
   {
