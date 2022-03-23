@@ -3398,13 +3398,6 @@
         "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.3.2"
       },
       {
-        "version": "2.3.1",
-        "release_date": "2021-10-24T19:35:27",
-        "title": "Network Indicator 2.3.1 Released",
-        "body": "<p>Fixes:</p>\r\n<ul>\r\n<li>Don't launch Captive Network Assistent with full connectivity</li>\r\n</ul>\r\n<p>Minor updates:</p>\r\n<ul>\r\n<li>Updated translations</li>\r\n</ul>",
-        "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.3.1"
-      },
-      {
         "version": "2.3.0",
         "release_date": "2021-07-14T21:21:58",
         "title": "wingpanel-indicator-network 2.3.0 Released",
