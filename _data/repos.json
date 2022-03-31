@@ -871,7 +871,7 @@
         "href": "https://github.com/elementary/calendar/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 19,
+    "new_commits": 21,
     "default_branch": "master"
   },
   {
@@ -6118,43 +6118,15 @@
     "default_branch": "master"
   },
   {
-    "name": "fonts",
-    "releases": [
-      {
-        "version": "5.1.0",
-        "release_date": "2018-10-16T06:31:50",
-        "title": "elementary Fonts 5.1.0 Released",
-        "body": " elementary Fonts 5.1.0 is out!\r\n\r\nChanges:\r\n* croscore config: less aggressively map Croscore fonts to MS fonts ",
-        "href": "https://github.com/elementary/fonts/releases/tag/5.1.0"
-      },
-      {
-        "version": "5.0",
-        "release_date": "2018-05-22T17:09:09",
-        "title": "elementary Fonts 5.0 Released",
-        "body": "elementary Fonts 5.0 is out!\r\n\r\nThis new version includes the demotion of the croscore config to a recommendation so that it can be safely removed without breaking anything, as well as picking up official `fonts-open-sans` package instead of packaging it ourselves.",
-        "href": "https://github.com/elementary/fonts/releases/tag/5.0"
-      }
-    ],
-    "new_commits": 0,
-    "default_branch": "master"
-  },
-  {
-    "name": "print",
-    "releases": [
-      {
-        "version": "0.1.3",
-        "release_date": "2018-05-21T12:57:17",
-        "title": "Print 0.1.3 Released",
-        "body": "`io.elementary.print` is a simple shim for giving [Contractor](https://github.com/elementary/contractor) printing support.\r\n\r\nThis version's changes include:\r\n* Rename from `pantheon-print` to `io.elementary.print`\r\n* Switch build system from CMake to Meson",
-        "href": "https://github.com/elementary/print/releases/tag/0.1.3"
-      }
-    ],
-    "new_commits": 1,
-    "default_branch": "master"
-  },
-  {
     "name": "website",
     "releases": [
+      {
+        "version": "5.0",
+        "release_date": "2018-10-19T20:41:29",
+        "title": "elementary OS Juno 5.0 Released",
+        "body": "",
+        "href": "https://github.com/elementary/website/releases/tag/5.0"
+      },
       {
         "version": "0.4.1-20180130",
         "release_date": "2018-01-30T23:15:56",
@@ -6205,7 +6177,42 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.0"
       }
     ],
-    "new_commits": 6994,
+    "new_commits": 5478,
+    "default_branch": "master"
+  },
+  {
+    "name": "fonts",
+    "releases": [
+      {
+        "version": "5.1.0",
+        "release_date": "2018-10-16T06:31:50",
+        "title": "elementary Fonts 5.1.0 Released",
+        "body": " elementary Fonts 5.1.0 is out!\r\n\r\nChanges:\r\n* croscore config: less aggressively map Croscore fonts to MS fonts ",
+        "href": "https://github.com/elementary/fonts/releases/tag/5.1.0"
+      },
+      {
+        "version": "5.0",
+        "release_date": "2018-05-22T17:09:09",
+        "title": "elementary Fonts 5.0 Released",
+        "body": "elementary Fonts 5.0 is out!\r\n\r\nThis new version includes the demotion of the croscore config to a recommendation so that it can be safely removed without breaking anything, as well as picking up official `fonts-open-sans` package instead of packaging it ourselves.",
+        "href": "https://github.com/elementary/fonts/releases/tag/5.0"
+      }
+    ],
+    "new_commits": 0,
+    "default_branch": "master"
+  },
+  {
+    "name": "print",
+    "releases": [
+      {
+        "version": "0.1.3",
+        "release_date": "2018-05-21T12:57:17",
+        "title": "Print 0.1.3 Released",
+        "body": "`io.elementary.print` is a simple shim for giving [Contractor](https://github.com/elementary/contractor) printing support.\r\n\r\nThis version's changes include:\r\n* Rename from `pantheon-print` to `io.elementary.print`\r\n* Switch build system from CMake to Meson",
+        "href": "https://github.com/elementary/print/releases/tag/0.1.3"
+      }
+    ],
+    "new_commits": 1,
     "default_branch": "master"
   },
   {
