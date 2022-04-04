@@ -38,25 +38,11 @@
         "href": "https://github.com/elementary/greeter/releases/tag/5.0.3"
       },
       {
-        "version": "5.0.2",
-        "release_date": "2020-02-26T06:34:51",
-        "title": "greeter 5.0.2 Released",
-        "body": "greeter 5.0.2 is out! \n\n<ul>\n<li>Ensure that manual login is available when users are hidden</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/greeter/releases/tag/5.0.2"
-      },
-      {
         "version": "5.0.1",
         "release_date": "2019-10-31T21:10:21",
         "title": "greeter 5.0.1 Released",
         "body": "greeter 5.0.1 is out! \n\nChanges:\n\n* Save last user on attempted login\n* Handle all background aspect ratios\n* Give non-focused user cards smaller usernames\n* Better respect NumLock settings\n* Enable sounds in greeter\n* Select password text on error instead of immediately clearing it\n* Code cleanup\n* Updated translations\n",
         "href": "https://github.com/elementary/greeter/releases/tag/5.0.1"
-      },
-      {
-        "version": "5.0",
-        "release_date": "2019-08-27T02:22:07",
-        "title": "Greeter 5.0 Released",
-        "body": "Greeter 5.0 is out!\r\n\r\nChanges:\r\n* Extensive overhaul\r\n* New card-based appearance\r\n* Improved HiDPI support\r\n* AccountsService functionality\r\n* Various bug fixes\r\n\r\nFor the full list of issues closed by this release, see [here](https://github.com/elementary/greeter/milestone/2).",
-        "href": "https://github.com/elementary/greeter/releases/tag/5.0"
       },
       {
         "version": "3.3.1",
