@@ -2404,13 +2404,6 @@
         "href": "https://github.com/elementary/os/releases/tag/6.0.2"
       },
       {
-        "version": "6.0.1",
-        "release_date": "2021-08-31T17:30:17",
-        "title": "6.0.1 Odin",
-        "body": "elementary OS 6 Updates for August, 2021. Just three weeks since the release, and we already have more goodies. \r\n\r\n- [x] [CI](https://github.com/elementary/os/runs/3477448192)\r\n- [x] [Early Access](https://builds.elementary.io/)\r\n- [x] [Blog post](https://blog.elementary.io/elementary-os-6-odin-updates-august-2021/)\r\n- [x] [Download](https://elementary.io) (https://github.com/elementary/website/pull/2820)\r\n\r\nAs always, more info about installing (including verifying the SHA256 sum) can be found at [elementary.io/docs/installation](https://elementary.io/docs/installation). Be sure to read the [release FAQ](https://github.com/elementary/os/wiki/elementary-OS-6-Odin-FAQ).",
-        "href": "https://github.com/elementary/os/releases/tag/6.0.1"
-      },
-      {
         "version": "6.0-20210823",
         "release_date": "2021-08-21T21:23:39",
         "title": "6.0 Odin",
@@ -2437,13 +2430,6 @@
         "title": "6.0 Odin RC3",
         "body": "**If you are installing over a beta or previous RC image** you may encounter an error when using the \"Erase Disk and Install\" option. If the installer fails, you may need to manually delete the created partitions and try again:\r\n\r\n1. Select \"Try Installing Again\" then \"Cancel Installation\"\r\n2. Choose \"Custom Install (Advanced)\"\r\n3. Select \"Modify Partitions\u2026\" then use GParted to deactivate and delete existing partitions\r\n4. Select :heavy_check_mark: (Apply All Operations) to apply changes, then close GParted\r\n5. Select \"Back\" to go back to the \"Try or Install\" view\r\n6. Choose \"Erase Disk and Install\" to install again\r\n\r\nThis issue is being tracked at https://github.com/elementary/installer/issues/584\r\n\r\n### Updates since RC2:\r\n\r\n- Fix an issue installing Flatpaks in the user installation (https://github.com/elementary/default-settings/issues/247)\r\n  \r\n   >**Note:** if you've installed a previous image, you will need to run the following in any existing user accounts to manually create the necessary folders. New users are unaffected:\r\n   >\r\n   >```\r\n   >mkdir -p ~/.local/share/flatpak/repo/extensions ~/.local/share/flatpak/repo/objects ~/.local/share/flatpak/repo/refs/heads ~/.local/share/flatpak/repo/refs/mirrors ~/.local/share/flatpak/repo/refs/remotes ~/.local/share/flatpak/repo/state\r\n   >``` \r\n\r\n\r\n- Include File Roller contract to re-enable compressing and extracting in apps like Files (https://github.com/elementary/file-roller-contract/issues/3)\r\n\r\n   >**Note:** you will need to run `sudo apt install io.elementary.contractor.file-roller` to manually install it on existing RC builds.",
         "href": "https://github.com/elementary/os/releases/tag/6.0-rc3"
-      },
-      {
-        "version": "6.0-rc2",
-        "release_date": "2021-08-04T15:57:13",
-        "title": "6.0 Odin RC2",
-        "body": "Second attempt at a release candidate ISO. \r\n\r\n- Worked around an upstream packaging change (#514) by allowing live-build to remove protected pkgs in iso bootloader stage (#517)\r\n- Updated Evince to not pull in the whole SDK",
-        "href": "https://github.com/elementary/os/releases/tag/6.0-rc2"
       },
       {
         "version": "6.0-rc1",
