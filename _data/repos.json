@@ -1,5 +1,180 @@
 [
   {
+    "name": "switchboard-plug-keyboard",
+    "releases": [
+      {
+        "version": "2.7.0",
+        "release_date": "2022-04-07T06:57:29",
+        "title": "switchboard-plug-keyboard 2.7.0 Released",
+        "body": "<p>New features:</p>\n<ul>\n<li>Open Multitasking View with Super</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.7.0"
+      },
+      {
+        "version": "2.6.0",
+        "release_date": "2021-11-23T17:15:11",
+        "title": "switchboard-plug-keyboard 2.6.0 Released",
+        "body": "<p>New features:</p>\r\n<ul>\r\n<li>Redesigned custom shortcuts view</li>\r\n<li>On-screen keyboard switch in Layouts tab</li>\r\n</ul>\r\n<p>Minor updates:</p>\r\n<ul>\r\n<li>Updated translations</li>\r\n</ul>\r\n",
+        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.6.0"
+      },
+      {
+        "version": "2.5.1",
+        "release_date": "2021-09-22T20:38:10",
+        "title": "Keyboard Settings 2.5.1 Released",
+        "body": "Minor updates:\r\n* Ensure IBus automatically starts on login when needed\r\n* Updated translations",
+        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.5.1"
+      },
+      {
+        "version": "2.5.0",
+        "release_date": "2021-07-14T21:00:05",
+        "title": "switchboard-plug-keyboard 2.5.0 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Add Layout popover is now a dialog</li>\n<li>Guarantee we always have at least one layout</li>\n<li>Improvements to ibus and xkb layouts</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.5.0"
+      },
+      {
+        "version": "2.4.1",
+        "release_date": "2020-09-03T21:54:43",
+        "title": "switchboard-plug-keyboard 2.4.1 Released",
+        "body": "<p>Shortcut description for \"Play\" is now \"Play/Pause\"</p>\n<p>Fix an issue where some shortcuts would incorrectly show as disabled</p>\n<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.4.1"
+      },
+      {
+        "version": "2.4.0",
+        "release_date": "2020-08-07T18:14:32",
+        "title": "switchboard-plug-keyboard 2.4.0 Released",
+        "body": "<p>Add a view to configure input methods</p>\n<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.4.0"
+      },
+      {
+        "version": "2.3.6",
+        "release_date": "2020-04-01T23:34:57",
+        "title": "switchboard-plug-keyboard 2.3.6 Released",
+        "body": "switchboard-plug-keyboard 2.3.6 is out! \n\n<p>New \"Workspaces\" icon</p>\n<p>Exclude Space from single-key shortcuts</p>\n<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.3.6"
+      },
+      {
+        "version": "2.3.5",
+        "release_date": "2019-03-06T09:03:16",
+        "title": "Switchboard Keyboard Plug 2.3.5 Released",
+        "body": "switchboard-plug-keyboard 2.3.5 is out!\r\n\r\nChanges:\r\n* Search keyword improvements\r\n* Added window `Close` keybinding option\r\n* Keyboard navigation fix\r\n* Build system fix for `gnomekbdui` dependency\r\n* More accurate and consistent labels\r\n* Change appdata id to `io.elementary.switchboard.keyboard`\r\n* Updated translations",
+        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.3.5"
+      },
+      {
+        "version": "2.3.4",
+        "release_date": "2018-10-16T00:27:00",
+        "title": "Switchboard Keyboard Plug 2.3.4 Released",
+        "body": "switchboard-plug-keyboard 2.3.4 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-keyboard/issues?q=is%3Aclosed+milestone%3A2.3.4).",
+        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.3.4"
+      },
+      {
+        "version": "0.3.3",
+        "release_date": "2018-06-08T16:39:32",
+        "title": "Switchboard Keyboard Plug 0.3.3 Released",
+        "body": "switchboard-plug-keyboard 0.3.3 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-keyboard/issues?q=is%3Aclosed+milestone%3A0.3.3).",
+        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
+      }
+    ],
+    "new_commits": 0,
+    "default_branch": "master"
+  },
+  {
+    "name": "gala",
+    "releases": [
+      {
+        "version": "6.3.1",
+        "release_date": "2022-04-07T06:54:49",
+        "title": "gala 6.3.1 Released",
+        "body": "<p>Fixes:</p>\n<ul>\n<li>Properly update accent color in the window switcher</li>\n<li>Fix selecting windows underneath the window switcher</li>\n<li>Prevent potential crashes</li>\n<li>Resize workspaces when displays change</li>\n<li>Handle windows with no title</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Use access portal for display settings confirmation and force quit</li>\n<li>Allow closing multitasking view with Super</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/gala/releases/tag/6.3.1"
+      },
+      {
+        "version": "6.3.0",
+        "release_date": "2021-11-23T20:22:23",
+        "title": "gala 6.3.0 Released",
+        "body": "<p>Fixes:</p>\n<ul>\n<li>Fix shadow clipping on server-side decorated windows</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Support for high-resolution scroll events</li>\n<li>Redesigned Alt + Tab switcher</li>\n<li>Dim the parents of modal dialogs</li>\n<li>Dialogs fall down on parents instead of shooting out</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/gala/releases/tag/6.3.0"
+      },
+      {
+        "version": "6.2.1",
+        "release_date": "2021-09-29T17:20:47",
+        "title": "Gala 6.2.1 Released",
+        "body": "<p>Improvements:</p>\r\n<ul>\r\n<li>Fix a potential crash when taking screenshots</li>\r\n<li>Updated translations</li>\r\n</ul>",
+        "href": "https://github.com/elementary/gala/releases/tag/6.2.1"
+      },
+      {
+        "version": "6.2.0",
+        "release_date": "2021-09-22T20:42:08",
+        "title": "Gala 6.2.0 Released",
+        "body": "<p>New features:</p>\r\n<ul>\r\n  <li>Stash the picture-in-picture window by pushing it off screen</li>\r\n</ul>\r\n<p>Improvements:</p>\r\n<ul>\r\n  <li>Fix a potential crash while changing wallpapers</li>\r\n  <li>Updated translations</li>\r\n</ul>",
+        "href": "https://github.com/elementary/gala/releases/tag/6.2.0"
+      },
+      {
+        "version": "6.0.1",
+        "release_date": "2021-08-11T20:53:00",
+        "title": "Gala 6.0.1 Released",
+        "body": "<p>Improvements:</p>\r\n<ul>\r\n<li>Include window decorations in screenshots for server-side decorated windows</li>\r\n<li>Updated translations</li>\r\n</ul>",
+        "href": "https://github.com/elementary/gala/releases/tag/6.0.1"
+      },
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-14T17:07:19",
+        "title": "Gala 6.0.0 Released",
+        "body": "Improvements:\r\n- Add multitouch gestures\r\n- Show window titles in multitasking view\r\n- Close the Alt + Tab switcher by pressing Esc without releasing Alt\r\n- Increase maximum zoom level and provide feedback when unable to zoom\r\n- Show a context menu when secondary clicking the background\r\n- New Dwell Click and Locate Pointer animations\r\n- Add Take Screenshot to window context menu\r\n- Always play shutter sound when taking screenshots\r\n- Minor visual improvements\r\n- HiDPI fixes\r\n- Performance improvements\r\n- Updated translations",
+        "href": "https://github.com/elementary/gala/releases/tag/6.0.0"
+      },
+      {
+        "version": "3.3.2",
+        "release_date": "2020-04-30T22:23:37",
+        "title": "gala 3.3.2 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Fix \u201cAlways on Visible Workspace\u201d windows disappearing when changing workspaces</li>\n<li>Fix windows on non-primary displays disappearing when changing workspaces</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/gala/releases/tag/3.3.2"
+      },
+      {
+        "version": "3.3.1",
+        "release_date": "2020-04-25T17:27:44",
+        "title": "gala 3.3.1 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Fix crash when changing workspaces while a transient window is opening</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/gala/releases/tag/3.3.1"
+      },
+      {
+        "version": "3.3.0",
+        "release_date": "2020-04-03T18:45:09",
+        "title": "gala 3.3.0 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Don't show Gala Background Services in the dock</li>\n<li>Fixes for media key handling</li>\n<li>Show keyboard shortcuts in HeaderBar menus</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/gala/releases/tag/3.3.0"
+      },
+      {
+        "version": "3.2.0",
+        "release_date": "2020-01-07T17:58:30",
+        "title": "gala 3.2.0 Released",
+        "body": "gala 3.2.0 is out! \n\n<p>Improvements:</p>\n<ul>\n<li>Improve window shadows for legacy apps</li>\n<li>Fix potential crash when taking screenshots</li>\n<li>Fix notification position after changing DPI</li>\n<li>Fix animations for moving and maximizing tiled windows</li>\n</ul>\n",
+        "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
+      }
+    ],
+    "new_commits": 0,
+    "default_branch": "master"
+  },
+  {
+    "name": "notifications",
+    "releases": [
+      {
+        "version": "6.0.1",
+        "release_date": "2022-04-07T06:42:06",
+        "title": "notifications 6.0.1 Released",
+        "body": "<p>Minor Updates:</p>\n<ul>\n<li>Performance improvements</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/notifications/releases/tag/6.0.1"
+      },
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-19T16:46:35",
+        "title": "notifications 6.0.0 Released",
+        "body": "<p>Complete rewrite:</p>\n<ul>\n<li>Support the dark style</li>\n<li>Action buttons</li>\n<li>Optional badge icons</li>\n<li>Automatically badge images with app icons</li>\n<li>Swipe away to dismiss</li>\n</ul>\n",
+        "href": "https://github.com/elementary/notifications/releases/tag/6.0.0"
+      }
+    ],
+    "new_commits": 2,
+    "default_branch": "master"
+  },
+  {
     "name": "switchboard-plug-sound",
     "releases": [
       {
@@ -3542,76 +3717,6 @@
     "default_branch": "master"
   },
   {
-    "name": "gala",
-    "releases": [
-      {
-        "version": "6.3.0",
-        "release_date": "2021-11-23T20:22:23",
-        "title": "gala 6.3.0 Released",
-        "body": "<p>Fixes:</p>\n<ul>\n<li>Fix shadow clipping on server-side decorated windows</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Support for high-resolution scroll events</li>\n<li>Redesigned Alt + Tab switcher</li>\n<li>Dim the parents of modal dialogs</li>\n<li>Dialogs fall down on parents instead of shooting out</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/gala/releases/tag/6.3.0"
-      },
-      {
-        "version": "6.2.1",
-        "release_date": "2021-09-29T17:20:47",
-        "title": "Gala 6.2.1 Released",
-        "body": "<p>Improvements:</p>\r\n<ul>\r\n<li>Fix a potential crash when taking screenshots</li>\r\n<li>Updated translations</li>\r\n</ul>",
-        "href": "https://github.com/elementary/gala/releases/tag/6.2.1"
-      },
-      {
-        "version": "6.2.0",
-        "release_date": "2021-09-22T20:42:08",
-        "title": "Gala 6.2.0 Released",
-        "body": "<p>New features:</p>\r\n<ul>\r\n  <li>Stash the picture-in-picture window by pushing it off screen</li>\r\n</ul>\r\n<p>Improvements:</p>\r\n<ul>\r\n  <li>Fix a potential crash while changing wallpapers</li>\r\n  <li>Updated translations</li>\r\n</ul>",
-        "href": "https://github.com/elementary/gala/releases/tag/6.2.0"
-      },
-      {
-        "version": "6.0.1",
-        "release_date": "2021-08-11T20:53:00",
-        "title": "Gala 6.0.1 Released",
-        "body": "<p>Improvements:</p>\r\n<ul>\r\n<li>Include window decorations in screenshots for server-side decorated windows</li>\r\n<li>Updated translations</li>\r\n</ul>",
-        "href": "https://github.com/elementary/gala/releases/tag/6.0.1"
-      },
-      {
-        "version": "6.0.0",
-        "release_date": "2021-07-14T17:07:19",
-        "title": "Gala 6.0.0 Released",
-        "body": "Improvements:\r\n- Add multitouch gestures\r\n- Show window titles in multitasking view\r\n- Close the Alt + Tab switcher by pressing Esc without releasing Alt\r\n- Increase maximum zoom level and provide feedback when unable to zoom\r\n- Show a context menu when secondary clicking the background\r\n- New Dwell Click and Locate Pointer animations\r\n- Add Take Screenshot to window context menu\r\n- Always play shutter sound when taking screenshots\r\n- Minor visual improvements\r\n- HiDPI fixes\r\n- Performance improvements\r\n- Updated translations",
-        "href": "https://github.com/elementary/gala/releases/tag/6.0.0"
-      },
-      {
-        "version": "3.3.2",
-        "release_date": "2020-04-30T22:23:37",
-        "title": "gala 3.3.2 Released",
-        "body": "<p>Improvements:</p>\n<ul>\n<li>Fix \u201cAlways on Visible Workspace\u201d windows disappearing when changing workspaces</li>\n<li>Fix windows on non-primary displays disappearing when changing workspaces</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/gala/releases/tag/3.3.2"
-      },
-      {
-        "version": "3.3.1",
-        "release_date": "2020-04-25T17:27:44",
-        "title": "gala 3.3.1 Released",
-        "body": "<p>Improvements:</p>\n<ul>\n<li>Fix crash when changing workspaces while a transient window is opening</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/gala/releases/tag/3.3.1"
-      },
-      {
-        "version": "3.3.0",
-        "release_date": "2020-04-03T18:45:09",
-        "title": "gala 3.3.0 Released",
-        "body": "<p>Improvements:</p>\n<ul>\n<li>Don't show Gala Background Services in the dock</li>\n<li>Fixes for media key handling</li>\n<li>Show keyboard shortcuts in HeaderBar menus</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/gala/releases/tag/3.3.0"
-      },
-      {
-        "version": "3.2.0",
-        "release_date": "2020-01-07T17:58:30",
-        "title": "gala 3.2.0 Released",
-        "body": "gala 3.2.0 is out! \n\n<p>Improvements:</p>\n<ul>\n<li>Improve window shadows for legacy apps</li>\n<li>Fix potential crash when taking screenshots</li>\n<li>Fix notification position after changing DPI</li>\n<li>Fix animations for moving and maximizing tiled windows</li>\n</ul>\n",
-        "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
-      }
-    ],
-    "new_commits": 62,
-    "default_branch": "master"
-  },
-  {
     "name": "wingpanel-indicator-network",
     "releases": [
       {
@@ -3686,76 +3791,6 @@
       }
     ],
     "new_commits": 33,
-    "default_branch": "master"
-  },
-  {
-    "name": "switchboard-plug-keyboard",
-    "releases": [
-      {
-        "version": "2.6.0",
-        "release_date": "2021-11-23T17:15:11",
-        "title": "switchboard-plug-keyboard 2.6.0 Released",
-        "body": "<p>New features:</p>\r\n<ul>\r\n<li>Redesigned custom shortcuts view</li>\r\n<li>On-screen keyboard switch in Layouts tab</li>\r\n</ul>\r\n<p>Minor updates:</p>\r\n<ul>\r\n<li>Updated translations</li>\r\n</ul>\r\n",
-        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.6.0"
-      },
-      {
-        "version": "2.5.1",
-        "release_date": "2021-09-22T20:38:10",
-        "title": "Keyboard Settings 2.5.1 Released",
-        "body": "Minor updates:\r\n* Ensure IBus automatically starts on login when needed\r\n* Updated translations",
-        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.5.1"
-      },
-      {
-        "version": "2.5.0",
-        "release_date": "2021-07-14T21:00:05",
-        "title": "switchboard-plug-keyboard 2.5.0 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Add Layout popover is now a dialog</li>\n<li>Guarantee we always have at least one layout</li>\n<li>Improvements to ibus and xkb layouts</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.5.0"
-      },
-      {
-        "version": "2.4.1",
-        "release_date": "2020-09-03T21:54:43",
-        "title": "switchboard-plug-keyboard 2.4.1 Released",
-        "body": "<p>Shortcut description for \"Play\" is now \"Play/Pause\"</p>\n<p>Fix an issue where some shortcuts would incorrectly show as disabled</p>\n<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.4.1"
-      },
-      {
-        "version": "2.4.0",
-        "release_date": "2020-08-07T18:14:32",
-        "title": "switchboard-plug-keyboard 2.4.0 Released",
-        "body": "<p>Add a view to configure input methods</p>\n<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.4.0"
-      },
-      {
-        "version": "2.3.6",
-        "release_date": "2020-04-01T23:34:57",
-        "title": "switchboard-plug-keyboard 2.3.6 Released",
-        "body": "switchboard-plug-keyboard 2.3.6 is out! \n\n<p>New \"Workspaces\" icon</p>\n<p>Exclude Space from single-key shortcuts</p>\n<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.3.6"
-      },
-      {
-        "version": "2.3.5",
-        "release_date": "2019-03-06T09:03:16",
-        "title": "Switchboard Keyboard Plug 2.3.5 Released",
-        "body": "switchboard-plug-keyboard 2.3.5 is out!\r\n\r\nChanges:\r\n* Search keyword improvements\r\n* Added window `Close` keybinding option\r\n* Keyboard navigation fix\r\n* Build system fix for `gnomekbdui` dependency\r\n* More accurate and consistent labels\r\n* Change appdata id to `io.elementary.switchboard.keyboard`\r\n* Updated translations",
-        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.3.5"
-      },
-      {
-        "version": "2.3.4",
-        "release_date": "2018-10-16T00:27:00",
-        "title": "Switchboard Keyboard Plug 2.3.4 Released",
-        "body": "switchboard-plug-keyboard 2.3.4 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-keyboard/issues?q=is%3Aclosed+milestone%3A2.3.4).",
-        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.3.4"
-      },
-      {
-        "version": "0.3.3",
-        "release_date": "2018-06-08T16:39:32",
-        "title": "Switchboard Keyboard Plug 0.3.3 Released",
-        "body": "switchboard-plug-keyboard 0.3.3 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-keyboard/issues?q=is%3Aclosed+milestone%3A0.3.3).",
-        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
-      }
-    ],
-    "new_commits": 59,
     "default_branch": "master"
   },
   {
@@ -4848,20 +4883,6 @@
       }
     ],
     "new_commits": 34,
-    "default_branch": "master"
-  },
-  {
-    "name": "notifications",
-    "releases": [
-      {
-        "version": "6.0.0",
-        "release_date": "2021-07-19T16:46:35",
-        "title": "notifications 6.0.0 Released",
-        "body": "<p>Complete rewrite:</p>\n<ul>\n<li>Support the dark style</li>\n<li>Action buttons</li>\n<li>Optional badge icons</li>\n<li>Automatically badge images with app icons</li>\n<li>Swipe away to dismiss</li>\n</ul>\n",
-        "href": "https://github.com/elementary/notifications/releases/tag/6.0.0"
-      }
-    ],
-    "new_commits": 50,
     "default_branch": "master"
   },
   {
