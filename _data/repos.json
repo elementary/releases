@@ -3342,6 +3342,13 @@
         "href": "https://github.com/elementary/granite/releases/tag/5.2.5"
       },
       {
+        "version": "5.2.4",
+        "release_date": "2019-07-06T19:40:55",
+        "title": "Granite 5.2.4 Released",
+        "body": "Granite 5.2.4 is out!\r\n\r\nChanges:\r\n* Deprecate IconFactory\r\n* System: deprecate utilies provided by GLib\r\n* Utils: Add more keys to `accel-to-string` (Left and Right Alt, Left and Right Shift)\r\n* MessageDialog: Add the ability to set icon badges\r\n* Revert from custom Wingpanel DateTime settings schema (`io.elementary.desktop.wingpanel.datetime`) to GNOME (`org.gnome.desktop.interface`)\r\n* SimpleSettingsPage: make title and description selectable\r\n* Updated translations",
+        "href": "https://github.com/elementary/granite/releases/tag/5.2.4"
+      },
+      {
         "version": "5.2.3",
         "release_date": "2019-02-14T21:36:29",
         "title": "Granite 5.2.3 Released",
