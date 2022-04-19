@@ -5862,13 +5862,6 @@
         "href": "https://github.com/elementary/houston/releases/tag/v6.3.0"
       },
       {
-        "version": "v6.2.0",
-        "release_date": "2019-05-20T15:00:05",
-        "title": "v6.2.0",
-        "body": "# [6.2.0](https://github.com/elementary/houston/compare/v6.1.0...v6.2.0) (2019-05-20)\n\n\n### Features\n\n* **worker:** Update liftoff to 20190520 ([e01a829](https://github.com/elementary/houston/commit/e01a829))\n\n\n\n",
-        "href": "https://github.com/elementary/houston/releases/tag/v6.2.0"
-      },
-      {
         "version": "v6.1.0",
         "release_date": "2019-05-08T18:41:14",
         "title": "v6.1.0",
@@ -6009,13 +6002,6 @@
         "href": "https://github.com/elementary/houston/releases/tag/v4.1.2"
       },
       {
-        "version": "v4.1.1",
-        "release_date": "2018-08-04T20:38:39",
-        "title": "v4.1.1",
-        "body": "## [4.1.1](https://github.com/elementary/houston/compare/v4.1.0...v4.1.1) (2018-08-04)\n\n\n### Bug Fixes\n\n* **worker:** new release for worker CI fix ([09d2ff1](https://github.com/elementary/houston/commit/09d2ff1))\n\n\n### Reverts\n\n* revert fs-extra to 6.0.1 to fix some CI errors ([be055bd](https://github.com/elementary/houston/commit/be055bd))\n\n\n\n",
-        "href": "https://github.com/elementary/houston/releases/tag/v4.1.1"
-      },
-      {
         "version": "v4.1.0",
         "release_date": "2018-08-02T16:29:25",
         "title": "v4.1.0",
@@ -6140,20 +6126,6 @@
         "title": "v1.0.0",
         "body": "<a name=\"1.0.0\"></a>\n# 1.0.0 (2018-04-29)\n\n\n### Bug Fixes\n\n* **worker:** fix worker type exporting ([002841a](https://github.com/elementary/houston/commit/002841a))\n\n\n\n",
         "href": "https://github.com/elementary/houston/releases/tag/v1.0.0"
-      },
-      {
-        "version": "0.3.0",
-        "release_date": "2016-10-12T06:30:41",
-        "title": "Beta 0.3.0",
-        "body": ":tada: This marks the start of beta testing :tada: \n",
-        "href": "https://github.com/elementary/houston/releases/tag/0.3.0"
-      },
-      {
-        "version": "0.2.0",
-        "release_date": "2016-04-05T23:19:49",
-        "title": "a stepping stone",
-        "body": "This marks a stepping stone for Houston. While it is not production ready, it does a minimal feature set with little to no assistance. \n",
-        "href": "https://github.com/elementary/houston/releases/tag/0.2.0"
       }
     ],
     "new_commits": 9,
