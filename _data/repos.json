@@ -276,6 +276,13 @@
         "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.5.6"
       },
       {
+        "version": "2.5.5",
+        "release_date": "2021-10-26T17:51:10",
+        "title": "Locale Settings 2.5.5 Released",
+        "body": "<p>Fixes:</p>\r\n<ul>\r\n<li>Support locales with 3-letter codes</li>\r\n</ul>\r\n<p>Minor updates:</p>\r\n<ul>\r\n<li>Better support for non-Ubuntu based distributions</li>\r\n<li>Updated translations</li>\r\n</ul>",
+        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.5.5"
+      },
+      {
         "version": "2.5.4",
         "release_date": "2021-07-14T20:49:44",
         "title": "switchboard-plug-locale 2.5.4 Released",
@@ -330,6 +337,13 @@
         "title": "Switchboard Locale Plug 0.2.3 Released",
         "body": "switchboard-plug-locale 0.2.3 is out!",
         "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/0.2.3"
+      },
+      {
+        "version": "0.2.2",
+        "release_date": "2017-05-12T08:27:01",
+        "title": "Switchboard Locale Plug 0.2.2 Released",
+        "body": "switchboard-plug-locale 0.2.2 is out!",
+        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/0.2.2"
       }
     ],
     "new_commits": 7,
