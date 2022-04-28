@@ -5075,20 +5075,6 @@
     "default_branch": "main"
   },
   {
-    "name": "wingpanel-indicator-a11y",
-    "releases": [
-      {
-        "version": "1.0.0",
-        "release_date": "2021-07-16T18:06:46",
-        "title": "wingpanel-indicator-a11y 1.0.0 Released",
-        "body": "<p>Initial Release</p>\n",
-        "href": "https://github.com/elementary/wingpanel-indicator-a11y/releases/tag/1.0.0"
-      }
-    ],
-    "new_commits": 36,
-    "default_branch": "master"
-  },
-  {
     "name": "switchboard-plug-a11y",
     "releases": [
       {
