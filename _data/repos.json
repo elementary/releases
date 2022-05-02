@@ -3412,7 +3412,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 185,
+    "new_commits": 187,
     "default_branch": "master"
   },
   {
@@ -5953,13 +5953,6 @@
         "href": "https://github.com/elementary/houston/releases/tag/v6.0.6"
       },
       {
-        "version": "v6.0.5",
-        "release_date": "2018-11-22T04:47:11",
-        "title": "v6.0.5",
-        "body": "## [6.0.5](https://github.com/elementary/houston/compare/v6.0.4...v6.0.5) (2018-11-22)\n\n\n### Bug Fixes\n\n* **cache:** update LRU code for new version ([48d9b73](https://github.com/elementary/houston/commit/48d9b73))\n* **package:** update lru-cache to version 5.0.0 ([2501064](https://github.com/elementary/houston/commit/2501064))\n* **package:** update superagent to version 4.0.0 ([1e262a6](https://github.com/elementary/houston/commit/1e262a6))\n\n\n\n",
-        "href": "https://github.com/elementary/houston/releases/tag/v6.0.5"
-      },
-      {
         "version": "v6.0.4",
         "release_date": "2018-10-29T21:51:30",
         "title": "v6.0.4",
@@ -6147,13 +6140,6 @@
         "title": "v1.2.0",
         "body": "# [1.2.0](https://github.com/elementary/houston/compare/v1.1.0...v1.2.0) (2018-06-29)\n\n\n### Bug Fixes\n\n* **service:** don't try to publish GitHub items after already published ([d14874f](https://github.com/elementary/houston/commit/d14874f))\n* fix app export for creating repositories ([61a8480](https://github.com/elementary/houston/commit/61a8480))\n* **service:** update github auth logic with app integration ([976b862](https://github.com/elementary/houston/commit/976b862))\n* **worker:** fix worker fork mechanics ([6db4d1f](https://github.com/elementary/houston/commit/6db4d1f))\n* **worker:** fix worker package publishing ([915753c](https://github.com/elementary/houston/commit/915753c))\n\n\n### Features\n\n* **service:** Add aptly PackageRepository class with tests ([5f370de](https://github.com/elementary/houston/commit/5f370de))\n* **worker:** write architectures, distributions, and refs to logs ([f1f07b8](https://github.com/elementary/houston/commit/f1f07b8))\n\n\n\n",
         "href": "https://github.com/elementary/houston/releases/tag/v1.2.0"
-      },
-      {
-        "version": "v1.1.0",
-        "release_date": "2018-05-02T03:59:26",
-        "title": "v1.1.0",
-        "body": "<a name=\"1.1.0\"></a>\n# [1.1.0](https://github.com/elementary/houston/compare/v1.0.1...v1.1.0) (2018-05-02)\n\n\n### Features\n\n* **worker:** create provider for app usage ([acd2b1f](https://github.com/elementary/houston/commit/acd2b1f))\n\n\n\n",
-        "href": "https://github.com/elementary/houston/releases/tag/v1.1.0"
       },
       {
         "version": "v1.0.1",
