@@ -2327,13 +2327,6 @@
         "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/6.0.4"
       },
       {
-        "version": "6.0.3",
-        "release_date": "2021-12-11T05:26:01",
-        "title": "wingpanel-indicator-notifications 6.0.3 Released",
-        "body": "<p>Fixes:</p>\n<ul>\n<li>Handle null message body</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/6.0.3"
-      },
-      {
         "version": "6.0.2",
         "release_date": "2021-10-26T18:00:25",
         "title": "Notifications Indicator 6.0.2 Released",
