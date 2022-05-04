@@ -66,4 +66,4 @@ for repo in repos:
   })
   
 with open('_data/repos.json', 'w') as outfile:
-    json.dump(json_out, outfile, indent=2)
+    json.dump(json_out, outfile, indent=2, ensure_ascii=False)
