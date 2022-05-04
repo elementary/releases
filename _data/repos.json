@@ -104,7 +104,7 @@
         "version": "7.0.0",
         "release_date": "2022-04-30T18:14:07",
         "title": "granite 7.0.0 Released",
-        "body": "<p>New Features:</p>\n<ul>\n<li>Ported to GTK4! \ud83c\udf89\ufe0f</li>\n<li>Granite.Placeholder: replaces AlertView and Welcome</li>\n<li>SimpleSettingsPage: Allow markup in description</li>\n</ul>\n<p>Removals:</p>\n<ul>\n<li>Application: use Gtk.Application instead</li>\n<li>Drawing: Use Gtk.CSS</li>\n<li>DynamicNotebook: use Adw.TabBar instead</li>\n<li>Logger: use GLib.log instead</li>\n<li>ModeButton: Use Gtk.ToggleButton with the \"group\" property and \"linked\" style class instead</li>\n<li>Paths: use GLib.Environment instead</li>\n<li>Seekbar</li>\n<li>Services.Settings: use GLib.Settings instead</li>\n<li>SimpleCommand: use GLib.AppInfo.create_from_commandline instead</li>\n<li>SourceList: use Gtk.ListBox with the \"sidebar\" style class instead</li>\n<li>StorageBar</li>\n<li>TextStyle: use style class constants instead</li>\n<li>Several functions in System were replaced by GLib.AppInfo</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li/>\n<li>Updated translations</li>\n</ul>\n",
+        "body": "<p>New Features:</p>\n<ul>\n<li>Ported to GTK4! 🎉️</li>\n<li>Granite.Placeholder: replaces AlertView and Welcome</li>\n<li>SimpleSettingsPage: Allow markup in description</li>\n</ul>\n<p>Removals:</p>\n<ul>\n<li>Application: use Gtk.Application instead</li>\n<li>Drawing: Use Gtk.CSS</li>\n<li>DynamicNotebook: use Adw.TabBar instead</li>\n<li>Logger: use GLib.log instead</li>\n<li>ModeButton: Use Gtk.ToggleButton with the \"group\" property and \"linked\" style class instead</li>\n<li>Paths: use GLib.Environment instead</li>\n<li>Seekbar</li>\n<li>Services.Settings: use GLib.Settings instead</li>\n<li>SimpleCommand: use GLib.AppInfo.create_from_commandline instead</li>\n<li>SourceList: use Gtk.ListBox with the \"sidebar\" style class instead</li>\n<li>StorageBar</li>\n<li>TextStyle: use style class constants instead</li>\n<li>Several functions in System were replaced by GLib.AppInfo</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li/>\n<li>Updated translations</li>\n</ul>\n",
         "href": "https://github.com/elementary/granite/releases/tag/7.0.0"
       },
       {
@@ -174,7 +174,7 @@
         "version": "5.2.5",
         "release_date": "2019-09-05T23:49:51",
         "title": "Granite 5.2.5 Released",
-        "body": "Granite 5.2.5 is out!\r\n\r\nChanges:\r\n* meson: fix shared library path\r\n* Utils: Add equal keys to accel_to_string\r\n* Provide Badge and Progress support for an Application using same DBus API as libunity\r\n* DynamicNotebook: support `Close Tabs to the Right`\r\n* DynamicNotebook: don\u2019t re-open closed tabs while rapidly closing tabs\r\n* Updated translations",
+        "body": "Granite 5.2.5 is out!\r\n\r\nChanges:\r\n* meson: fix shared library path\r\n* Utils: Add equal keys to accel_to_string\r\n* Provide Badge and Progress support for an Application using same DBus API as libunity\r\n* DynamicNotebook: support `Close Tabs to the Right`\r\n* DynamicNotebook: don’t re-open closed tabs while rapidly closing tabs\r\n* Updated translations",
         "href": "https://github.com/elementary/granite/releases/tag/5.2.5"
       },
       {
@@ -209,7 +209,7 @@
         "version": "5.2.0",
         "release_date": "2018-11-01T20:50:16",
         "title": "Granite 5.2.0 Released",
-        "body": "Granite 5.2.0 is out!\r\n\r\nChanges:\r\n* Added `Granite.STYLE_CLASS_CHECKERBOARD`\r\n* Added Accel utilities:\r\n  * `accel_to_string`, takes something like \"<Super>Right\" and returns \"\u2318 + \u2192\"\r\n  * `markup_accel_tooltip`, takes a description and an accel string array and returns the markup for tooltips\r\n* DateTime: use `io.elementary.desktop.wingpanel.datetime` for settings instead of `org.gnome.desktop.interface`\r\n* Updated translations",
+        "body": "Granite 5.2.0 is out!\r\n\r\nChanges:\r\n* Added `Granite.STYLE_CLASS_CHECKERBOARD`\r\n* Added Accel utilities:\r\n  * `accel_to_string`, takes something like \"<Super>Right\" and returns \"⌘ + →\"\r\n  * `markup_accel_tooltip`, takes a description and an accel string array and returns the markup for tooltips\r\n* DateTime: use `io.elementary.desktop.wingpanel.datetime` for settings instead of `org.gnome.desktop.interface`\r\n* Updated translations",
         "href": "https://github.com/elementary/granite/releases/tag/5.2.0"
       },
       {
@@ -804,7 +804,7 @@
         "version": "3.3.2",
         "release_date": "2020-04-30T22:23:37",
         "title": "gala 3.3.2 Released",
-        "body": "<p>Improvements:</p>\n<ul>\n<li>Fix \u201cAlways on Visible Workspace\u201d windows disappearing when changing workspaces</li>\n<li>Fix windows on non-primary displays disappearing when changing workspaces</li>\n<li>Updated translations</li>\n</ul>\n",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Fix “Always on Visible Workspace” windows disappearing when changing workspaces</li>\n<li>Fix windows on non-primary displays disappearing when changing workspaces</li>\n<li>Updated translations</li>\n</ul>\n",
         "href": "https://github.com/elementary/gala/releases/tag/3.3.2"
       },
       {
@@ -1042,7 +1042,7 @@
         "version": "6.0.1",
         "release_date": "2021-08-24T20:34:26",
         "title": "switchboard-plug-about 6.0.1 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Use formatted device name when available</li>\n<li>Display more information for certain GPUs, including Intel\u00ae Xe Graphics</li>\n<li>Updated translations</li>\n</ul>\n",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Use formatted device name when available</li>\n<li>Display more information for certain GPUs, including Intel® Xe Graphics</li>\n<li>Updated translations</li>\n</ul>\n",
         "href": "https://github.com/elementary/switchboard-plug-about/releases/tag/6.0.1"
       },
       {
@@ -1077,7 +1077,7 @@
         "version": "2.6.0",
         "release_date": "2019-09-17T14:40:40",
         "title": "Switchboard About Plug 2.6.0 Released",
-        "body": "switchboard-plug-about 2.6.0 is out!\r\n\r\nChanges:\r\n* Launch new app Feedback for reporting issues\r\n* Hide Check for Updates button when AppCenter is absent\r\n* More specific storage info\r\n* Build system fix for install path\r\n* Don\u2019t show processor architecture\r\n* Updated translations",
+        "body": "switchboard-plug-about 2.6.0 is out!\r\n\r\nChanges:\r\n* Launch new app Feedback for reporting issues\r\n* Hide Check for Updates button when AppCenter is absent\r\n* More specific storage info\r\n* Build system fix for install path\r\n* Don’t show processor architecture\r\n* Updated translations",
         "href": "https://github.com/elementary/switchboard-plug-about/releases/tag/2.6.0"
       },
       {
@@ -2343,7 +2343,7 @@
       {
         "version": "6.1-jolnir",
         "release_date": "2021-12-17T22:32:27",
-        "title": "6.1 J\u00f3lnir",
+        "title": "6.1 Jólnir",
         "body": "",
         "href": "https://github.com/elementary/press-kit/releases/tag/6.1-jolnir"
       },
@@ -2869,7 +2869,7 @@
         "version": "6.0.0",
         "release_date": "2021-07-15T21:30:31",
         "title": "terminal 6.0.0 Released",
-        "body": "<p>New features:</p>\n<ul>\n<li>Move tabs with the shortcut Ctrl + Alt + \u2190/\u2192</li>\n<li>Switch tabs with the shortcuts Ctrl + Tab and Ctrl + Shift + Tab</li>\n<li>Zoom levels are now remembered per-tab</li>\n<li>Also warn about multi-line pastes</li>\n<li>Show text details in unsafe paste dialogs</li>\n<li>Open Link option when secondary clicking</li>\n<li>Reload tabs in the context menu or with the shortcut Ctrl + Shift + R</li>\n<li>Notifications indicate if a process exited with errors or not</li>\n<li>Show keyboard shortcuts in tab context menus</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Fix an issue with keyboard shortcuts not activating the first time they're pressed</li>\n<li>Avoid losing focus when closing background tabs</li>\n<li>Validate custom palette</li>\n<li>Translation updates</li>\n</ul>\n",
+        "body": "<p>New features:</p>\n<ul>\n<li>Move tabs with the shortcut Ctrl + Alt + ←/→</li>\n<li>Switch tabs with the shortcuts Ctrl + Tab and Ctrl + Shift + Tab</li>\n<li>Zoom levels are now remembered per-tab</li>\n<li>Also warn about multi-line pastes</li>\n<li>Show text details in unsafe paste dialogs</li>\n<li>Open Link option when secondary clicking</li>\n<li>Reload tabs in the context menu or with the shortcut Ctrl + Shift + R</li>\n<li>Notifications indicate if a process exited with errors or not</li>\n<li>Show keyboard shortcuts in tab context menus</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Fix an issue with keyboard shortcuts not activating the first time they're pressed</li>\n<li>Avoid losing focus when closing background tabs</li>\n<li>Validate custom palette</li>\n<li>Translation updates</li>\n</ul>\n",
         "href": "https://github.com/elementary/terminal/releases/tag/6.0.0"
       },
       {
@@ -2925,7 +2925,7 @@
         "version": "5.3.3",
         "release_date": "2018-12-06T22:57:14",
         "title": "Terminal 5.3.3 Released",
-        "body": "Terminal 5.3.2 is out!\r\n\r\nChanges:\r\n * Fix erratic search text highlightning behavior\r\n * Support -h flag for help\r\n * Add Alt+\u2191 action to scroll to last command\r\n * Add Alt+c action to copy last output\r\n * Add accels to tooltips\r\n * Update translations",
+        "body": "Terminal 5.3.2 is out!\r\n\r\nChanges:\r\n * Fix erratic search text highlightning behavior\r\n * Support -h flag for help\r\n * Add Alt+↑ action to scroll to last command\r\n * Add Alt+c action to copy last output\r\n * Add accels to tooltips\r\n * Update translations",
         "href": "https://github.com/elementary/terminal/releases/tag/5.3.3"
       },
       {
@@ -3086,7 +3086,7 @@
         "version": "2.4.4",
         "release_date": "2019-08-20T23:54:30",
         "title": "Slingshot 2.4.4 Released",
-        "body": "slingshot-launcher 2.4.4 is out!\r\n\r\nChanges:\r\n* Don\u2019t launch apps being dragged from search results\r\n* Prevent AppCenter from possibly freezing panel\r\n* Drop support for Plank `< 0.11`\r\n* Updated translations",
+        "body": "slingshot-launcher 2.4.4 is out!\r\n\r\nChanges:\r\n* Don’t launch apps being dragged from search results\r\n* Prevent AppCenter from possibly freezing panel\r\n* Drop support for Plank `< 0.11`\r\n* Updated translations",
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.4.4"
       },
       {
@@ -3519,28 +3519,28 @@
       {
         "version": "6.1.0-rc4",
         "release_date": "2021-12-09T18:54:30",
-        "title": "6.1 J\u00f3lnir",
-        "body": "**elementary OS 6.1 Available Now:** We come bearing gifts and Yule tidings!\r\n\r\nToday we\u2019re proud to announce that OS 6.1 J\u00f3lnir is [available to download now][elementary.io] for new users, as an easy upgrade for existing users, and shipping on several high-quality computers. With OS 6.1, we\u2019ve focused in on:\r\n\r\n- Addressing **your feedback** with new features and fixes\r\n- Making elementary OS more useful with **office productivity** features\r\n- **Expanding compatibility** with a wide range of hardware\r\n\r\nTo get elementary OS 6.1 now, head to [elementary.io] for the download\u2014or read the [blog post] for the details!\r\n\r\nAs always, more info about installing (including verifying the SHA256 sum) can be found at [elementary.io/docs/installation]. Be sure to read the [release FAQ].\r\n\r\n[elementary.io]: https://elementary.io\r\n[blog post]: https://blog.elementary.io/elementary-os-6-1-available-now/\r\n[elementary.io/docs/installation]: https://elementary.io/docs/installation\r\n[release FAQ]: https://github.com/elementary/os/wiki/elementary-OS-6.1-J\u00f3lnir-FAQ",
+        "title": "6.1 Jólnir",
+        "body": "**elementary OS 6.1 Available Now:** We come bearing gifts and Yule tidings!\r\n\r\nToday we’re proud to announce that OS 6.1 Jólnir is [available to download now][elementary.io] for new users, as an easy upgrade for existing users, and shipping on several high-quality computers. With OS 6.1, we’ve focused in on:\r\n\r\n- Addressing **your feedback** with new features and fixes\r\n- Making elementary OS more useful with **office productivity** features\r\n- **Expanding compatibility** with a wide range of hardware\r\n\r\nTo get elementary OS 6.1 now, head to [elementary.io] for the download—or read the [blog post] for the details!\r\n\r\nAs always, more info about installing (including verifying the SHA256 sum) can be found at [elementary.io/docs/installation]. Be sure to read the [release FAQ].\r\n\r\n[elementary.io]: https://elementary.io\r\n[blog post]: https://blog.elementary.io/elementary-os-6-1-available-now/\r\n[elementary.io/docs/installation]: https://elementary.io/docs/installation\r\n[release FAQ]: https://github.com/elementary/os/wiki/elementary-OS-6.1-Jólnir-FAQ",
         "href": "https://github.com/elementary/os/releases/tag/6.1.0-rc4"
       },
       {
         "version": "6.1.0-rc3",
         "release_date": "2021-12-09T18:54:30",
-        "title": "6.1 J\u00f3lnir RC3",
+        "title": "6.1 Jólnir RC3",
         "body": "This is a release candidate image for OS 6.1 for testing and verification purposes",
         "href": "https://github.com/elementary/os/releases/tag/6.1.0-rc3"
       },
       {
         "version": "6.1.0-rc2",
         "release_date": "2021-12-09T18:54:30",
-        "title": "6.1 J\u00f3lnir RC2",
+        "title": "6.1 Jólnir RC2",
         "body": "This is a release candidate image for OS 6.1 for testing and verification purposes",
         "href": "https://github.com/elementary/os/releases/tag/6.1.0-rc2"
       },
       {
         "version": "6.1.0-rc1",
         "release_date": "2021-12-09T18:54:30",
-        "title": "6.1 J\u00f3lnir RC1",
+        "title": "6.1 Jólnir RC1",
         "body": "This is a release candidate image for OS 6.1 for testing and verification purposes",
         "href": "https://github.com/elementary/os/releases/tag/6.1.0-rc1"
       },
@@ -3548,14 +3548,14 @@
         "version": "6.0.4-20211130",
         "release_date": "2021-11-30T05:16:54",
         "title": "6.0.4 Odin",
-        "body": "**elementary OS 6 Updates for November, 2021**: New features and improved design to get ready for the holidays.\r\n\r\nThis past week was Thanksgiving in the US, which for my family means decorating for the holidays is in full swing. In a similar vein, we\u2019ve spent some extra time over the past month focusing on both visual and functional polish to make sure elementary OS 6 looks as good and works as well as it can\u2014read the [blog post] for the details!\r\n\r\n- [x] [CI](https://github.com/elementary/os/runs/4370913306?check_suite_focus=true) passed\r\n- [x] Available for [Early Access](https://builds.elementary.io/)\r\n- [x] [Blog post] published\r\n- [ ] [Available for download](https://github.com/elementary/website/pull/2897/) \r\n\r\nAs always, more info about installing (including verifying the SHA256 sum) can be found at [elementary.io/docs/installation](https://elementary.io/docs/installation). Be sure to read the [release FAQ](https://github.com/elementary/os/wiki/elementary-OS-6-Odin-FAQ).\r\n\r\n[blog post]: https://blog.elementary.io/elementary-os-6-odin-updates-november-2021/",
+        "body": "**elementary OS 6 Updates for November, 2021**: New features and improved design to get ready for the holidays.\r\n\r\nThis past week was Thanksgiving in the US, which for my family means decorating for the holidays is in full swing. In a similar vein, we’ve spent some extra time over the past month focusing on both visual and functional polish to make sure elementary OS 6 looks as good and works as well as it can—read the [blog post] for the details!\r\n\r\n- [x] [CI](https://github.com/elementary/os/runs/4370913306?check_suite_focus=true) passed\r\n- [x] Available for [Early Access](https://builds.elementary.io/)\r\n- [x] [Blog post] published\r\n- [ ] [Available for download](https://github.com/elementary/website/pull/2897/) \r\n\r\nAs always, more info about installing (including verifying the SHA256 sum) can be found at [elementary.io/docs/installation](https://elementary.io/docs/installation). Be sure to read the [release FAQ](https://github.com/elementary/os/wiki/elementary-OS-6-Odin-FAQ).\r\n\r\n[blog post]: https://blog.elementary.io/elementary-os-6-odin-updates-november-2021/",
         "href": "https://github.com/elementary/os/releases/tag/6.0.4-20211130"
       },
       {
         "version": "6.0.4",
         "release_date": "2021-11-18T18:31:18",
         "title": "6.0.4 Odin (Incomplete)",
-        "body": "> :warning: **Note:** This pre-release ISO is incomplete; some changes to Gala and AppData were not yet released. A [follow-up release](https://github.com/elementary/os/releases/tag/6.0.4-20211130) has been made.\r\n\r\n**elementary OS 6 Updates for November, 2021**: New features and improved design to get ready for the holidays.\r\n\r\nThis past week was Thanksgiving in the US, which for my family means decorating for the holidays is in full swing. In a similar vein, we\u2019ve spent some extra time over the past month focusing on both visual and functional polish to make sure elementary OS 6 looks as good and works as well as it can\u2014read the [blog post] for the details!\r\n\r\n- [x] [CI](https://github.com/elementary/os/runs/4360897896?check_suite_focus=true) passed\r\n- [x] Available for [Early Access](https://builds.elementary.io/)\r\n- [x] [Blog post] published\r\n- [ ] [Available for download](https://github.com/elementary/website/)\r\n\r\nAs always, more info about installing (including verifying the SHA256 sum) can be found at [elementary.io/docs/installation](https://elementary.io/docs/installation). Be sure to read the [release FAQ](https://github.com/elementary/os/wiki/elementary-OS-6-Odin-FAQ).\r\n\r\n[blog post]: https://blog.elementary.io/elementary-os-6-odin-updates-november-2021/",
+        "body": "> :warning: **Note:** This pre-release ISO is incomplete; some changes to Gala and AppData were not yet released. A [follow-up release](https://github.com/elementary/os/releases/tag/6.0.4-20211130) has been made.\r\n\r\n**elementary OS 6 Updates for November, 2021**: New features and improved design to get ready for the holidays.\r\n\r\nThis past week was Thanksgiving in the US, which for my family means decorating for the holidays is in full swing. In a similar vein, we’ve spent some extra time over the past month focusing on both visual and functional polish to make sure elementary OS 6 looks as good and works as well as it can—read the [blog post] for the details!\r\n\r\n- [x] [CI](https://github.com/elementary/os/runs/4360897896?check_suite_focus=true) passed\r\n- [x] Available for [Early Access](https://builds.elementary.io/)\r\n- [x] [Blog post] published\r\n- [ ] [Available for download](https://github.com/elementary/website/)\r\n\r\nAs always, more info about installing (including verifying the SHA256 sum) can be found at [elementary.io/docs/installation](https://elementary.io/docs/installation). Be sure to read the [release FAQ](https://github.com/elementary/os/wiki/elementary-OS-6-Odin-FAQ).\r\n\r\n[blog post]: https://blog.elementary.io/elementary-os-6-odin-updates-november-2021/",
         "href": "https://github.com/elementary/os/releases/tag/6.0.4"
       },
       {
@@ -3590,21 +3590,21 @@
         "version": "6.0",
         "release_date": "2021-08-10T06:54:06",
         "title": "6.0 Odin",
-        "body": "**elementary OS 6 Odin Available Now.** It\u2019s finally here, and it\u2019s the biggest update to the platform yet. [Read the announcement](https://blog.elementary.io/elementary-os-6-odin-released/).\r\n\r\n---\r\n\r\n**If you are installing over a beta or previous RC image** you may encounter an error when using the \"Erase Disk and Install\" option. If the installer fails, you may need to manually delete the created partitions and try again:\r\n\r\n1. Select \"Try Installing Again\" then \"Cancel Installation\"\r\n2. Choose \"Custom Install (Advanced)\"\r\n3. Select \"Modify Partitions\u2026\" then use GParted to deactivate and delete existing partitions\r\n4. Select :heavy_check_mark: (Apply All Operations) to apply changes, then close GParted\r\n5. Select \"Back\" to go back to the \"Try or Install\" view\r\n6. Choose \"Erase Disk and Install\" to install again\r\n\r\nThis issue is being tracked at https://github.com/elementary/installer/issues/584\r\n\r\n---\r\n\r\nBe sure to read the [Release FAQ](https://github.com/elementary/os/wiki/elementary-OS-6-Odin-FAQ)",
+        "body": "**elementary OS 6 Odin Available Now.** It’s finally here, and it’s the biggest update to the platform yet. [Read the announcement](https://blog.elementary.io/elementary-os-6-odin-released/).\r\n\r\n---\r\n\r\n**If you are installing over a beta or previous RC image** you may encounter an error when using the \"Erase Disk and Install\" option. If the installer fails, you may need to manually delete the created partitions and try again:\r\n\r\n1. Select \"Try Installing Again\" then \"Cancel Installation\"\r\n2. Choose \"Custom Install (Advanced)\"\r\n3. Select \"Modify Partitions…\" then use GParted to deactivate and delete existing partitions\r\n4. Select :heavy_check_mark: (Apply All Operations) to apply changes, then close GParted\r\n5. Select \"Back\" to go back to the \"Try or Install\" view\r\n6. Choose \"Erase Disk and Install\" to install again\r\n\r\nThis issue is being tracked at https://github.com/elementary/installer/issues/584\r\n\r\n---\r\n\r\nBe sure to read the [Release FAQ](https://github.com/elementary/os/wiki/elementary-OS-6-Odin-FAQ)",
         "href": "https://github.com/elementary/os/releases/tag/6.0"
       },
       {
         "version": "6.0-rc4",
         "release_date": "2021-08-04T22:26:57",
         "title": "6.0 Odin RC4",
-        "body": "**If you are installing over a beta or previous RC image** you may encounter an error when using the \"Erase Disk and Install\" option. If the installer fails, you may need to manually delete the created partitions and try again:\r\n\r\n1. Select \"Try Installing Again\" then \"Cancel Installation\"\r\n2. Choose \"Custom Install (Advanced)\"\r\n3. Select \"Modify Partitions\u2026\" then use GParted to deactivate and delete existing partitions\r\n4. Select :heavy_check_mark: (Apply All Operations) to apply changes, then close GParted\r\n5. Select \"Back\" to go back to the \"Try or Install\" view\r\n6. Choose \"Erase Disk and Install\" to install again\r\n\r\nThis issue is being tracked at https://github.com/elementary/installer/issues/584\r\n\r\n### Updates since RC3:\r\n\r\n- Fixed an issue installing proprietary NVIDIA drivers from AppCenter\r\n- Fixed a Tasks crash on proprietary NVIDIA drivers",
+        "body": "**If you are installing over a beta or previous RC image** you may encounter an error when using the \"Erase Disk and Install\" option. If the installer fails, you may need to manually delete the created partitions and try again:\r\n\r\n1. Select \"Try Installing Again\" then \"Cancel Installation\"\r\n2. Choose \"Custom Install (Advanced)\"\r\n3. Select \"Modify Partitions…\" then use GParted to deactivate and delete existing partitions\r\n4. Select :heavy_check_mark: (Apply All Operations) to apply changes, then close GParted\r\n5. Select \"Back\" to go back to the \"Try or Install\" view\r\n6. Choose \"Erase Disk and Install\" to install again\r\n\r\nThis issue is being tracked at https://github.com/elementary/installer/issues/584\r\n\r\n### Updates since RC3:\r\n\r\n- Fixed an issue installing proprietary NVIDIA drivers from AppCenter\r\n- Fixed a Tasks crash on proprietary NVIDIA drivers",
         "href": "https://github.com/elementary/os/releases/tag/6.0-rc4"
       },
       {
         "version": "6.0-rc3",
         "release_date": "2021-08-04T22:26:57",
         "title": "6.0 Odin RC3",
-        "body": "**If you are installing over a beta or previous RC image** you may encounter an error when using the \"Erase Disk and Install\" option. If the installer fails, you may need to manually delete the created partitions and try again:\r\n\r\n1. Select \"Try Installing Again\" then \"Cancel Installation\"\r\n2. Choose \"Custom Install (Advanced)\"\r\n3. Select \"Modify Partitions\u2026\" then use GParted to deactivate and delete existing partitions\r\n4. Select :heavy_check_mark: (Apply All Operations) to apply changes, then close GParted\r\n5. Select \"Back\" to go back to the \"Try or Install\" view\r\n6. Choose \"Erase Disk and Install\" to install again\r\n\r\nThis issue is being tracked at https://github.com/elementary/installer/issues/584\r\n\r\n### Updates since RC2:\r\n\r\n- Fix an issue installing Flatpaks in the user installation (https://github.com/elementary/default-settings/issues/247)\r\n  \r\n   >**Note:** if you've installed a previous image, you will need to run the following in any existing user accounts to manually create the necessary folders. New users are unaffected:\r\n   >\r\n   >```\r\n   >mkdir -p ~/.local/share/flatpak/repo/extensions ~/.local/share/flatpak/repo/objects ~/.local/share/flatpak/repo/refs/heads ~/.local/share/flatpak/repo/refs/mirrors ~/.local/share/flatpak/repo/refs/remotes ~/.local/share/flatpak/repo/state\r\n   >``` \r\n\r\n\r\n- Include File Roller contract to re-enable compressing and extracting in apps like Files (https://github.com/elementary/file-roller-contract/issues/3)\r\n\r\n   >**Note:** you will need to run `sudo apt install io.elementary.contractor.file-roller` to manually install it on existing RC builds.",
+        "body": "**If you are installing over a beta or previous RC image** you may encounter an error when using the \"Erase Disk and Install\" option. If the installer fails, you may need to manually delete the created partitions and try again:\r\n\r\n1. Select \"Try Installing Again\" then \"Cancel Installation\"\r\n2. Choose \"Custom Install (Advanced)\"\r\n3. Select \"Modify Partitions…\" then use GParted to deactivate and delete existing partitions\r\n4. Select :heavy_check_mark: (Apply All Operations) to apply changes, then close GParted\r\n5. Select \"Back\" to go back to the \"Try or Install\" view\r\n6. Choose \"Erase Disk and Install\" to install again\r\n\r\nThis issue is being tracked at https://github.com/elementary/installer/issues/584\r\n\r\n### Updates since RC2:\r\n\r\n- Fix an issue installing Flatpaks in the user installation (https://github.com/elementary/default-settings/issues/247)\r\n  \r\n   >**Note:** if you've installed a previous image, you will need to run the following in any existing user accounts to manually create the necessary folders. New users are unaffected:\r\n   >\r\n   >```\r\n   >mkdir -p ~/.local/share/flatpak/repo/extensions ~/.local/share/flatpak/repo/objects ~/.local/share/flatpak/repo/refs/heads ~/.local/share/flatpak/repo/refs/mirrors ~/.local/share/flatpak/repo/refs/remotes ~/.local/share/flatpak/repo/state\r\n   >``` \r\n\r\n\r\n- Include File Roller contract to re-enable compressing and extracting in apps like Files (https://github.com/elementary/file-roller-contract/issues/3)\r\n\r\n   >**Note:** you will need to run `sudo apt install io.elementary.contractor.file-roller` to manually install it on existing RC builds.",
         "href": "https://github.com/elementary/os/releases/tag/6.0-rc3"
       },
       {
@@ -4332,7 +4332,7 @@
         "version": "2.3.0",
         "release_date": "2021-07-14T21:44:46",
         "title": "switchboard-plug-display 2.3.0 Released",
-        "body": "<p>New features:</p>\n<ul>\n<li>Support 3\u00d7 scaling</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Reliably detect accelerometers</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "body": "<p>New features:</p>\n<ul>\n<li>Support 3× scaling</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Reliably detect accelerometers</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
         "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/2.3.0"
       },
       {
@@ -4521,7 +4521,7 @@
         "version": "6.0.0",
         "release_date": "2021-07-15T18:20:30",
         "title": "sideload 6.0.0 Released",
-        "body": "<ul>\n<li>Control notifications in System Settings</li>\n<li>Offer to trash Flatpak files after installing</li>\n<li>Support dark style</li>\n<li>Support Flatpak bundle files</li>\n<li>Fix crashes on installation failure</li>\n<li>Updated translations</li>\n<li>Link to System Settings \u2192 Applications \u2192 Permissions</li>\n</ul>\n",
+        "body": "<ul>\n<li>Control notifications in System Settings</li>\n<li>Offer to trash Flatpak files after installing</li>\n<li>Support dark style</li>\n<li>Support Flatpak bundle files</li>\n<li>Fix crashes on installation failure</li>\n<li>Updated translations</li>\n<li>Link to System Settings → Applications → Permissions</li>\n</ul>\n",
         "href": "https://github.com/elementary/sideload/releases/tag/6.0.0"
       },
       {
@@ -4563,7 +4563,7 @@
         "version": "6.1.0",
         "release_date": "2021-09-22T20:37:25",
         "title": "Mouse & Touchpad Settings 6.1.0 Released",
-        "body": "New features:\r\n* New toggle for \u201cDouble-tap and move to drag\u201d\r\n\r\nMinor updates:\r\n* Updated translations",
+        "body": "New features:\r\n* New toggle for “Double-tap and move to drag”\r\n\r\nMinor updates:\r\n* Updated translations",
         "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/6.1.0"
       },
       {
@@ -6390,7 +6390,7 @@
         "version": "v1.0.0",
         "release_date": "2015-06-13T13:34:10",
         "title": "jfoarw",
-        "body": "jfslkqjtk\u00f6weljt\nthrqeiojtowje\n",
+        "body": "jfslkqjtköweljt\nthrqeiojtowje\n",
         "href": "https://github.com/elementary/debian-test-package/releases/tag/v1.0.0"
       },
       {
