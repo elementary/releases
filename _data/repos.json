@@ -675,7 +675,7 @@
         "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 15,
+    "new_commits": 19,
     "default_branch": "master"
   },
   {
@@ -5176,7 +5176,7 @@
         "href": "https://github.com/elementary/music/releases/tag/0.4.0.3"
       }
     ],
-    "new_commits": 66,
+    "new_commits": 68,
     "default_branch": "main"
   },
   {
