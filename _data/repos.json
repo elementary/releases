@@ -3510,7 +3510,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 196,
+    "new_commits": 197,
     "default_branch": "master"
   },
   {
@@ -4376,13 +4376,6 @@
         "title": "Switchboard Display Plug 2.1.7 Released",
         "body": "switchboard-plug-display 2.1.7 is out!\r\n\r\nChanges:\r\n* Use Mutter API to apply DPI changes\r\n* Tweak display colors CSS\r\n* DisplayWidget: Use Gtk.MenuButton instead of Gtk.ToggleButton\r\n* Updated translations",
         "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/2.1.7"
-      },
-      {
-        "version": "2.1.6",
-        "release_date": "2018-12-21T14:18:01",
-        "title": "Switchboard Display Plug 2.1.6 Released",
-        "body": "switchboard-plug-display 2.1.6 is out!\r\n\r\nChanges:\r\n* Search keyword improvements\r\n* Refresh Rate controls\r\n* Nightlight settings are insensitive while disabled\r\n* Change \"Rotation\" label to \"Screen rotation\"\r\n* Updated translations",
-        "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/2.1.6"
       },
       {
         "version": "2.1.5",
