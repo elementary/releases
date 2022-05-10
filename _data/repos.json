@@ -1312,7 +1312,7 @@
         "href": "https://github.com/elementary/greeter/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 28,
+    "new_commits": 30,
     "default_branch": "master"
   },
   {
@@ -1606,7 +1606,7 @@
         "href": "https://github.com/elementary/capnet-assist/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 24,
+    "new_commits": 26,
     "default_branch": "master"
   },
   {
@@ -3510,7 +3510,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 209,
+    "new_commits": 210,
     "default_branch": "master"
   },
   {
@@ -4308,7 +4308,7 @@
         "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.0"
       }
     ],
-    "new_commits": 57,
+    "new_commits": 59,
     "default_branch": "master"
   },
   {
