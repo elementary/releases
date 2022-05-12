@@ -1,5 +1,397 @@
 [
   {
+    "name": "switchboard-plug-mouse-touchpad",
+    "releases": [
+      {
+        "version": "7.0.0",
+        "release_date": "2022-05-12T16:51:49",
+        "title": "switchboard-plug-mouse-touchpad 7.0.0 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Update for OS 7</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/7.0.0"
+      },
+      {
+        "version": "6.1.0",
+        "release_date": "2021-09-22T20:37:25",
+        "title": "Mouse & Touchpad Settings 6.1.0 Released",
+        "body": "New features:\r\n* New toggle for “Double-tap and move to drag”\r\n\r\nMinor updates:\r\n* Updated translations",
+        "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/6.1.0"
+      },
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-15T22:05:21",
+        "title": "switchboard-plug-mouse-touchpad 6.0.0 Released",
+        "body": "<p>New features:</p>\n<ul>\n<li>Multitouch gesture options</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Add more snap points to pointer speed sliders</li>\n<li>Multitouch gesture options</li>\n<li>Redesigned touchpad settings</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/6.0.0"
+      },
+      {
+        "version": "2.4.2",
+        "release_date": "2020-05-28T18:41:27",
+        "title": "switchboard-plug-mouse-touchpad 2.4.2 Released",
+        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/2.4.2"
+      },
+      {
+        "version": "2.4.1",
+        "release_date": "2020-04-08T20:16:18",
+        "title": "switchboard-plug-mouse-touchpad 2.4.1 Released",
+        "body": "<ul>\n<li>Fix stretched switches when using large text</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/2.4.1"
+      },
+      {
+        "version": "2.4.0",
+        "release_date": "2020-01-21T19:59:40",
+        "title": "switchboard-plug-mouse-touchpad 2.4.0 Released",
+        "body": "switchboard-plug-mouse-touchpad 2.4.0 is out! \n\n<p>New features:</p>\n<ul>\n<li>Add Dwell Click and Pointer size settings</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Also listen to secondary button clicks when selecting Primary Button</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/2.4.0"
+      },
+      {
+        "version": "2.3.1",
+        "release_date": "2019-12-01T21:54:25",
+        "title": "switchboard-plug-mouse-touchpad 2.3.1 Released",
+        "body": "switchboard-plug-mouse-touchpad 2.3.1 is out! \n\n<ul>\n<li>Fix an issue where primary button selection doesn't apply in left-to-right languages</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/2.3.1"
+      },
+      {
+        "version": "2.3.0",
+        "release_date": "2019-11-15T22:40:24",
+        "title": "switchboard-plug-mouse-touchpad 2.3.0 Released",
+        "body": "switchboard-plug-mouse-touchpad 2.3.0 is out! \n\nChanges:\n\n* New Sidebar navigation\n* Fix middle click not appearing\n* Add Double-Click speed\n* Updated translations\n",
+        "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/2.3.0"
+      },
+      {
+        "version": "2.2.0",
+        "release_date": "2019-04-11T03:47:58",
+        "title": "Switchboard Mouse & Touchpad Plug 2.2.0 Released",
+        "body": "switchboard-plug-mouse-touchpad 2.2.0 is out!\r\n\r\nChanges:\r\n* Added settings for\r\n  * Keypad pointer control\r\n  * Ignoring touchpad when external mouse is connected\r\n  * Long-press secondary click\r\n* Use org.gnome.settings-daemon.plugins.xsettings for middle click paste\r\n* Refactored layout and added icons\r\n* Improved search terms\r\n* Updated translations",
+        "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/2.2.0"
+      },
+      {
+        "version": "2.1.4",
+        "release_date": "2018-10-15T21:15:34",
+        "title": "Switchboard Mouse & Touchpad Plug 2.1.4 Released",
+        "body": "switchboard-plug-mouse-touchpad 2.1.4 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-mouse-touchpad/issues?q=is%3Aclosed+milestone%3A2.1.4).",
+        "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/2.1.4"
+      },
+      {
+        "version": "0.1.3",
+        "release_date": "2018-06-07T14:02:00",
+        "title": "Switchboard Mouse & Touchpad Plug 0.1.3 Released",
+        "body": "switchboard-plug-mouse-touchpad 0.1.3 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-mouse-touchpad/issues?q=is%3Aclosed+milestone%3A0.1.3).",
+        "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/0.1.3"
+      }
+    ],
+    "new_commits": 0,
+    "default_branch": "master"
+  },
+  {
+    "name": "initial-setup",
+    "releases": [
+      {
+        "version": "6.2.0",
+        "release_date": "2022-05-12T16:37:06",
+        "title": "initial-setup 6.2.0 Released",
+        "body": "\n",
+        "href": "https://github.com/elementary/initial-setup/releases/tag/6.2.0"
+      },
+      {
+        "version": "6.1.1",
+        "release_date": "2021-08-26T21:15:57",
+        "title": "initial-setup 6.1.1 Released",
+        "body": "\n",
+        "href": "https://github.com/elementary/initial-setup/releases/tag/6.1.1"
+      },
+      {
+        "version": "6.1.0",
+        "release_date": "2021-08-26T02:07:32",
+        "title": "initial-setup 6.1.0 Released",
+        "body": "<p>New features:</p>\n<ul>\n<li>Confirm and change device name</li>\n<li>Two-finger swipe to navigate back</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Translation updates</li>\n</ul>\n",
+        "href": "https://github.com/elementary/initial-setup/releases/tag/6.1.0"
+      },
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-15T22:55:54",
+        "title": "initial-setup 6.0.0 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Set keyboard layout in accountsservice</li>\n<li>Add multitouch gestures</li>\n<li>Set correct locales</li>\n<li>New colorful avatar fallback</li>\n<li>Translation updates</li>\n</ul>\n",
+        "href": "https://github.com/elementary/initial-setup/releases/tag/6.0.0"
+      },
+      {
+        "version": "1.0.2",
+        "release_date": "2019-10-29T17:04:14",
+        "title": "initial-setup 1.0.2 Released",
+        "body": "initial-setup 1.0.2 is out! \n\nChanges:\n\n* Translation updates\n",
+        "href": "https://github.com/elementary/initial-setup/releases/tag/1.0.2"
+      },
+      {
+        "version": "1.0.1",
+        "release_date": "2019-10-21T19:56:01",
+        "title": "initial-setup 1.0.1 Released",
+        "body": "initial-setup 1.0.1 is out! \n\nChanges:\n\n* Translation updates\n",
+        "href": "https://github.com/elementary/initial-setup/releases/tag/1.0.1"
+      },
+      {
+        "version": "1.0.0",
+        "release_date": "2019-09-27T15:10:44",
+        "title": "Initial Setup 1.0 Released",
+        "body": "elementary Initial Setup 1.0 is out! This is the initial release.",
+        "href": "https://github.com/elementary/initial-setup/releases/tag/1.0.0"
+      }
+    ],
+    "new_commits": 0,
+    "default_branch": "master"
+  },
+  {
+    "name": "switchboard-plug-locale",
+    "releases": [
+      {
+        "version": "2.5.8",
+        "release_date": "2022-05-12T16:36:41",
+        "title": "switchboard-plug-locale 2.5.8 Released",
+        "body": "<p>Fixes:</p>\n<ul>\n<li>Translate authentication dialog description text</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.5.8"
+      },
+      {
+        "version": "2.5.7",
+        "release_date": "2022-04-13T12:51:23",
+        "title": "switchboard-plug-locale 2.5.7 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Central Kurdish is now available as an installable language</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Support installation and removal of languages with 3-letter codes</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.5.7"
+      },
+      {
+        "version": "2.5.6",
+        "release_date": "2021-11-18T20:13:42",
+        "title": "Locale Settings 2.5.6 Released",
+        "body": "## What's Changed\r\n* Select correct format after install/remove by @davidmhewitt in https://github.com/elementary/switchboard-plug-locale/pull/148\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/switchboard-plug-locale/compare/2.5.5...2.5.6",
+        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.5.6"
+      },
+      {
+        "version": "2.5.5",
+        "release_date": "2021-10-26T17:51:10",
+        "title": "Locale Settings 2.5.5 Released",
+        "body": "<p>Fixes:</p>\r\n<ul>\r\n<li>Support locales with 3-letter codes</li>\r\n</ul>\r\n<p>Minor updates:</p>\r\n<ul>\r\n<li>Better support for non-Ubuntu based distributions</li>\r\n<li>Updated translations</li>\r\n</ul>",
+        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.5.5"
+      },
+      {
+        "version": "2.5.4",
+        "release_date": "2021-07-14T20:49:44",
+        "title": "switchboard-plug-locale 2.5.4 Released",
+        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.5.4"
+      },
+      {
+        "version": "2.5.3",
+        "release_date": "2021-01-05T21:59:55",
+        "title": "switchboard-plug-locale 2.5.3 Released",
+        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.5.3"
+      },
+      {
+        "version": "2.5.2",
+        "release_date": "2020-05-28T23:42:54",
+        "title": "switchboard-plug-locale 2.5.2 Released",
+        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.5.2"
+      },
+      {
+        "version": "2.5.1",
+        "release_date": "2020-04-01T22:48:03",
+        "title": "switchboard-plug-locale 2.5.1 Released",
+        "body": "switchboard-plug-locale 2.5.1 is out! \n\n<ul>\n<li>Fix an issue with cancelling language installation</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.5.1"
+      },
+      {
+        "version": "2.5.0",
+        "release_date": "2019-11-15T23:09:58",
+        "title": "switchboard-plug-locale 2.5.0 Released",
+        "body": "switchboard-plug-locale 2.5.0 is out! \n\nChanges:\n\n* Redesigned Install Language popover\n* Asks for permission when needed. No more extra InfoBar\n* Installtion progress InfoBar is now a Dialog\n* Language list properly updates when adding or removing languages\n* Updated translations\n",
+        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.5.0"
+      },
+      {
+        "version": "2.4.1",
+        "release_date": "2018-12-19T06:28:04",
+        "title": "Switchboard Locale Plug 2.4.1 Released",
+        "body": "switchboard-plug-locale 2.4.1 is out!\r\n\r\nChanges:\r\n* Better search keywords\r\n* Don't restrict locale length\r\n* Updated translations",
+        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.4.1"
+      },
+      {
+        "version": "2.4.0",
+        "release_date": "2018-10-15T21:26:12",
+        "title": "Switchboard Locale Plug 2.4.0 Released",
+        "body": "switchboard-plug-locale 2.4.0 is out!\r\n\r\nThis list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-locale/issues?q=is%3Aclosed+milestone%3A2.4.0).",
+        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.4.0"
+      },
+      {
+        "version": "0.2.3",
+        "release_date": "2017-05-22T20:19:26",
+        "title": "Switchboard Locale Plug 0.2.3 Released",
+        "body": "switchboard-plug-locale 0.2.3 is out!",
+        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/0.2.3"
+      },
+      {
+        "version": "0.2.2",
+        "release_date": "2017-05-12T08:27:01",
+        "title": "Switchboard Locale Plug 0.2.2 Released",
+        "body": "switchboard-plug-locale 0.2.2 is out!",
+        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/0.2.2"
+      }
+    ],
+    "new_commits": 0,
+    "default_branch": "master"
+  },
+  {
+    "name": "shortcut-overlay",
+    "releases": [
+      {
+        "version": "2.0.0",
+        "release_date": "2022-05-12T16:35:54",
+        "title": "shortcut-overlay 2.0.0 Released",
+        "body": "<ul>\n<li>Update for OS 7 and Gtk 4</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/2.0.0"
+      },
+      {
+        "version": "1.2.1",
+        "release_date": "2021-10-29T23:12:16",
+        "title": "Shortcut Overlay 1.2.1 Released",
+        "body": "<ul>\r\n<li>Fix the app not launching if a shortcut key is set to blank</li>\r\n<li>Updated translations</li>\r\n</ul>",
+        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.2.1"
+      },
+      {
+        "version": "1.2.0",
+        "release_date": "2021-07-14T18:03:45",
+        "title": "shortcut-overlay 1.2.0 Released",
+        "body": "<ul>\n<li>Add screenshot shortcuts</li>\n<li>Fix issues with multiple windows</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.2.0"
+      },
+      {
+        "version": "1.1.2",
+        "release_date": "2020-05-28T18:52:24",
+        "title": "shortcut-overlay 1.1.2 Released",
+        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.1.2"
+      },
+      {
+        "version": "1.1.1",
+        "release_date": "2020-04-03T18:43:00",
+        "title": "shortcut-overlay 1.1.1 Released",
+        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.1.1"
+      },
+      {
+        "version": "1.1.0",
+        "release_date": "2019-11-15T21:51:50",
+        "title": "shortcut-overlay 1.1.0 Released",
+        "body": "shortcut-overlay 1.1.0 is out! \n\nChanges:\n\n* Add \"Switch Layout\" and \"Close Window\", shortcuts\n* Updated translations\n",
+        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.1.0"
+      },
+      {
+        "version": "1.0.1",
+        "release_date": "2018-09-17T22:43:39",
+        "title": "Shortcut Overlay 1.0.1 Released",
+        "body": "Shortcut Overlay 1.0.1 is out!\r\n\r\nChanges:\r\n* Delay destroying window to avoid triggering a re-open\r\n* New translations",
+        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.0.1"
+      },
+      {
+        "version": "1.0",
+        "release_date": "2018-06-05T08:43:11",
+        "title": "Shortcut Overlay 1.0 Released",
+        "body": "Shortcut Overlay 1.0 is out!\r\n\r\nThis is the initial release.",
+        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.0"
+      }
+    ],
+    "new_commits": 0,
+    "default_branch": "master"
+  },
+  {
+    "name": "music",
+    "releases": [
+      {
+        "version": "7.0.0",
+        "release_date": "2022-05-12T16:35:36",
+        "title": "music 7.0.0 Released",
+        "body": "<p>Complete rewrite</p>\n",
+        "href": "https://github.com/elementary/music/releases/tag/7.0.0"
+      },
+      {
+        "version": "5.1.1",
+        "release_date": "2021-07-16T19:01:31",
+        "title": "music 5.1.1 Released",
+        "body": "<p>Drop support for Last.FM</p>\n<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/music/releases/tag/5.1.1"
+      },
+      {
+        "version": "5.1.0",
+        "release_date": "2021-07-14T17:03:57",
+        "title": "music 5.1.0 Released",
+        "body": "<p>Fix an issue with saving smart playlists</p>\n<p>Drop support for CD-ROM</p>\n<p>Dark style support</p>\n<p>Minor visual improvements</p>\n<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/music/releases/tag/5.1.0"
+      },
+      {
+        "version": "5.0.5",
+        "release_date": "2020-03-04T22:50:04",
+        "title": "music 5.0.5 Released",
+        "body": "music 5.0.5 is out! \n\n<p>Fix removing items from the queue</p>\n<p>Fix equalizer sliders not properly disabled sometimes</p>\n<p>Updated translations</p>\n<p>Performance improvements</p>\n",
+        "href": "https://github.com/elementary/music/releases/tag/5.0.5"
+      },
+      {
+        "version": "5.0.4",
+        "release_date": "2019-04-17T08:46:55",
+        "title": "Music 5.0.4 Released",
+        "body": "Music 5.0.4 is out!\r\n\r\nChanges:\r\n* Removed old gsignond vapi\r\n* LibraryWindow: Use Granite.MessageDialog for showing alerts\r\n* PlaylistsUtils: Use Gtk.FileChooserNative\r\n* Accurately remember window size\r\n* Updated translations",
+        "href": "https://github.com/elementary/music/releases/tag/5.0.4"
+      },
+      {
+        "version": "5.0.3",
+        "release_date": "2019-02-26T19:36:31",
+        "title": "Music 5.0.3 Released",
+        "body": "Music 5.0.3 is out!\r\n\r\nChanges:\r\n* Scale album art properly at high resolutions\r\n* Accurately select Music Folder Location for directories with spaces in name\r\n* New MediaKeyListener path for gnome-settings-daemon\r\n* Updated translations",
+        "href": "https://github.com/elementary/music/releases/tag/5.0.3"
+      },
+      {
+        "version": "5.0.2",
+        "release_date": "2018-12-18T12:07:14",
+        "title": "Music 5.0.2 Released",
+        "body": "Music 5.0.2 is out!\r\n\r\nChanges:\r\n* AlbumView: double-click to play album\r\n* Associate with s3m files\r\n* Queue fixes\r\n* Properly restore playlists\r\n* Always respect custom music folder setting\r\n* Updated translations",
+        "href": "https://github.com/elementary/music/releases/tag/5.0.2"
+      },
+      {
+        "version": "5.0.1",
+        "release_date": "2018-11-30T10:49:32",
+        "title": "Music 5.0.1 Released",
+        "body": "Music 5.0.1 is out!\r\n\r\nChanges:\r\n* Fix list and column view sorting\r\n* Add orange accent color\r\n* Add shortcut accels to tooltips",
+        "href": "https://github.com/elementary/music/releases/tag/5.0.1"
+      },
+      {
+        "version": "5.0",
+        "release_date": "2018-10-16T08:42:10",
+        "title": "Music 5.0 Released",
+        "body": "Music 5.0 is out!\r\n\r\nChanges:\r\n* Various UI changes\r\n* Shuffle fixes\r\n* Initial MPRIS support\r\n* Updated translations",
+        "href": "https://github.com/elementary/music/releases/tag/5.0"
+      },
+      {
+        "version": "0.4.2",
+        "release_date": "2017-11-27T15:51:48",
+        "title": "Noise (Music) 0.4.2 Released",
+        "body": "Noise 0.4.2 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/music/issues?q=is%3Aclosed+milestone%3A0.4.2).",
+        "href": "https://github.com/elementary/music/releases/tag/0.4.2"
+      },
+      {
+        "version": "0.4.1",
+        "release_date": "2017-07-28T03:49:34",
+        "title": "Noise (Music) 0.4.1 Released",
+        "body": "Noise 0.4.1 is out!\r\n\r\nEdit: The list of issues closed by this release can be found [here](https://github.com/elementary/music/milestone/3?closed=1).",
+        "href": "https://github.com/elementary/music/releases/tag/0.4.1"
+      },
+      {
+        "version": "0.4.0.3",
+        "release_date": "2017-04-21T17:49:20",
+        "title": "Noise (Music) 0.4.0.3 Released",
+        "body": "Noise 0.4.0.3 is out!",
+        "href": "https://github.com/elementary/music/releases/tag/0.4.0.3"
+      }
+    ],
+    "new_commits": 0,
+    "default_branch": "main"
+  },
+  {
     "name": "calculator",
     "releases": [
       {
@@ -872,97 +1264,6 @@
       }
     ],
     "new_commits": 1,
-    "default_branch": "master"
-  },
-  {
-    "name": "switchboard-plug-locale",
-    "releases": [
-      {
-        "version": "2.5.7",
-        "release_date": "2022-04-13T12:51:23",
-        "title": "switchboard-plug-locale 2.5.7 Released",
-        "body": "<p>Improvements:</p>\n<ul>\n<li>Central Kurdish is now available as an installable language</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Support installation and removal of languages with 3-letter codes</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.5.7"
-      },
-      {
-        "version": "2.5.6",
-        "release_date": "2021-11-18T20:13:42",
-        "title": "Locale Settings 2.5.6 Released",
-        "body": "## What's Changed\r\n* Select correct format after install/remove by @davidmhewitt in https://github.com/elementary/switchboard-plug-locale/pull/148\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/switchboard-plug-locale/compare/2.5.5...2.5.6",
-        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.5.6"
-      },
-      {
-        "version": "2.5.5",
-        "release_date": "2021-10-26T17:51:10",
-        "title": "Locale Settings 2.5.5 Released",
-        "body": "<p>Fixes:</p>\r\n<ul>\r\n<li>Support locales with 3-letter codes</li>\r\n</ul>\r\n<p>Minor updates:</p>\r\n<ul>\r\n<li>Better support for non-Ubuntu based distributions</li>\r\n<li>Updated translations</li>\r\n</ul>",
-        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.5.5"
-      },
-      {
-        "version": "2.5.4",
-        "release_date": "2021-07-14T20:49:44",
-        "title": "switchboard-plug-locale 2.5.4 Released",
-        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.5.4"
-      },
-      {
-        "version": "2.5.3",
-        "release_date": "2021-01-05T21:59:55",
-        "title": "switchboard-plug-locale 2.5.3 Released",
-        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.5.3"
-      },
-      {
-        "version": "2.5.2",
-        "release_date": "2020-05-28T23:42:54",
-        "title": "switchboard-plug-locale 2.5.2 Released",
-        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.5.2"
-      },
-      {
-        "version": "2.5.1",
-        "release_date": "2020-04-01T22:48:03",
-        "title": "switchboard-plug-locale 2.5.1 Released",
-        "body": "switchboard-plug-locale 2.5.1 is out! \n\n<ul>\n<li>Fix an issue with cancelling language installation</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.5.1"
-      },
-      {
-        "version": "2.5.0",
-        "release_date": "2019-11-15T23:09:58",
-        "title": "switchboard-plug-locale 2.5.0 Released",
-        "body": "switchboard-plug-locale 2.5.0 is out! \n\nChanges:\n\n* Redesigned Install Language popover\n* Asks for permission when needed. No more extra InfoBar\n* Installtion progress InfoBar is now a Dialog\n* Language list properly updates when adding or removing languages\n* Updated translations\n",
-        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.5.0"
-      },
-      {
-        "version": "2.4.1",
-        "release_date": "2018-12-19T06:28:04",
-        "title": "Switchboard Locale Plug 2.4.1 Released",
-        "body": "switchboard-plug-locale 2.4.1 is out!\r\n\r\nChanges:\r\n* Better search keywords\r\n* Don't restrict locale length\r\n* Updated translations",
-        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.4.1"
-      },
-      {
-        "version": "2.4.0",
-        "release_date": "2018-10-15T21:26:12",
-        "title": "Switchboard Locale Plug 2.4.0 Released",
-        "body": "switchboard-plug-locale 2.4.0 is out!\r\n\r\nThis list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-locale/issues?q=is%3Aclosed+milestone%3A2.4.0).",
-        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.4.0"
-      },
-      {
-        "version": "0.2.3",
-        "release_date": "2017-05-22T20:19:26",
-        "title": "Switchboard Locale Plug 0.2.3 Released",
-        "body": "switchboard-plug-locale 0.2.3 is out!",
-        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/0.2.3"
-      },
-      {
-        "version": "0.2.2",
-        "release_date": "2017-05-12T08:27:01",
-        "title": "Switchboard Locale Plug 0.2.2 Released",
-        "body": "switchboard-plug-locale 0.2.2 is out!",
-        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/0.2.2"
-      }
-    ],
-    "new_commits": 20,
     "default_branch": "master"
   },
   {
@@ -4277,62 +4578,6 @@
     "default_branch": "master"
   },
   {
-    "name": "shortcut-overlay",
-    "releases": [
-      {
-        "version": "1.2.1",
-        "release_date": "2021-10-29T23:12:16",
-        "title": "Shortcut Overlay 1.2.1 Released",
-        "body": "<ul>\r\n<li>Fix the app not launching if a shortcut key is set to blank</li>\r\n<li>Updated translations</li>\r\n</ul>",
-        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.2.1"
-      },
-      {
-        "version": "1.2.0",
-        "release_date": "2021-07-14T18:03:45",
-        "title": "shortcut-overlay 1.2.0 Released",
-        "body": "<ul>\n<li>Add screenshot shortcuts</li>\n<li>Fix issues with multiple windows</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.2.0"
-      },
-      {
-        "version": "1.1.2",
-        "release_date": "2020-05-28T18:52:24",
-        "title": "shortcut-overlay 1.1.2 Released",
-        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.1.2"
-      },
-      {
-        "version": "1.1.1",
-        "release_date": "2020-04-03T18:43:00",
-        "title": "shortcut-overlay 1.1.1 Released",
-        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.1.1"
-      },
-      {
-        "version": "1.1.0",
-        "release_date": "2019-11-15T21:51:50",
-        "title": "shortcut-overlay 1.1.0 Released",
-        "body": "shortcut-overlay 1.1.0 is out! \n\nChanges:\n\n* Add \"Switch Layout\" and \"Close Window\", shortcuts\n* Updated translations\n",
-        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.1.0"
-      },
-      {
-        "version": "1.0.1",
-        "release_date": "2018-09-17T22:43:39",
-        "title": "Shortcut Overlay 1.0.1 Released",
-        "body": "Shortcut Overlay 1.0.1 is out!\r\n\r\nChanges:\r\n* Delay destroying window to avoid triggering a re-open\r\n* New translations",
-        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.0.1"
-      },
-      {
-        "version": "1.0",
-        "release_date": "2018-06-05T08:43:11",
-        "title": "Shortcut Overlay 1.0 Released",
-        "body": "Shortcut Overlay 1.0 is out!\r\n\r\nThis is the initial release.",
-        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.0"
-      }
-    ],
-    "new_commits": 60,
-    "default_branch": "master"
-  },
-  {
     "name": "switchboard-plug-display",
     "releases": [
       {
@@ -4575,132 +4820,6 @@
       }
     ],
     "new_commits": 89,
-    "default_branch": "master"
-  },
-  {
-    "name": "switchboard-plug-mouse-touchpad",
-    "releases": [
-      {
-        "version": "6.1.0",
-        "release_date": "2021-09-22T20:37:25",
-        "title": "Mouse & Touchpad Settings 6.1.0 Released",
-        "body": "New features:\r\n* New toggle for “Double-tap and move to drag”\r\n\r\nMinor updates:\r\n* Updated translations",
-        "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/6.1.0"
-      },
-      {
-        "version": "6.0.0",
-        "release_date": "2021-07-15T22:05:21",
-        "title": "switchboard-plug-mouse-touchpad 6.0.0 Released",
-        "body": "<p>New features:</p>\n<ul>\n<li>Multitouch gesture options</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Add more snap points to pointer speed sliders</li>\n<li>Multitouch gesture options</li>\n<li>Redesigned touchpad settings</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/6.0.0"
-      },
-      {
-        "version": "2.4.2",
-        "release_date": "2020-05-28T18:41:27",
-        "title": "switchboard-plug-mouse-touchpad 2.4.2 Released",
-        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/2.4.2"
-      },
-      {
-        "version": "2.4.1",
-        "release_date": "2020-04-08T20:16:18",
-        "title": "switchboard-plug-mouse-touchpad 2.4.1 Released",
-        "body": "<ul>\n<li>Fix stretched switches when using large text</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/2.4.1"
-      },
-      {
-        "version": "2.4.0",
-        "release_date": "2020-01-21T19:59:40",
-        "title": "switchboard-plug-mouse-touchpad 2.4.0 Released",
-        "body": "switchboard-plug-mouse-touchpad 2.4.0 is out! \n\n<p>New features:</p>\n<ul>\n<li>Add Dwell Click and Pointer size settings</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Also listen to secondary button clicks when selecting Primary Button</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/2.4.0"
-      },
-      {
-        "version": "2.3.1",
-        "release_date": "2019-12-01T21:54:25",
-        "title": "switchboard-plug-mouse-touchpad 2.3.1 Released",
-        "body": "switchboard-plug-mouse-touchpad 2.3.1 is out! \n\n<ul>\n<li>Fix an issue where primary button selection doesn't apply in left-to-right languages</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/2.3.1"
-      },
-      {
-        "version": "2.3.0",
-        "release_date": "2019-11-15T22:40:24",
-        "title": "switchboard-plug-mouse-touchpad 2.3.0 Released",
-        "body": "switchboard-plug-mouse-touchpad 2.3.0 is out! \n\nChanges:\n\n* New Sidebar navigation\n* Fix middle click not appearing\n* Add Double-Click speed\n* Updated translations\n",
-        "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/2.3.0"
-      },
-      {
-        "version": "2.2.0",
-        "release_date": "2019-04-11T03:47:58",
-        "title": "Switchboard Mouse & Touchpad Plug 2.2.0 Released",
-        "body": "switchboard-plug-mouse-touchpad 2.2.0 is out!\r\n\r\nChanges:\r\n* Added settings for\r\n  * Keypad pointer control\r\n  * Ignoring touchpad when external mouse is connected\r\n  * Long-press secondary click\r\n* Use org.gnome.settings-daemon.plugins.xsettings for middle click paste\r\n* Refactored layout and added icons\r\n* Improved search terms\r\n* Updated translations",
-        "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/2.2.0"
-      },
-      {
-        "version": "2.1.4",
-        "release_date": "2018-10-15T21:15:34",
-        "title": "Switchboard Mouse & Touchpad Plug 2.1.4 Released",
-        "body": "switchboard-plug-mouse-touchpad 2.1.4 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-mouse-touchpad/issues?q=is%3Aclosed+milestone%3A2.1.4).",
-        "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/2.1.4"
-      },
-      {
-        "version": "0.1.3",
-        "release_date": "2018-06-07T14:02:00",
-        "title": "Switchboard Mouse & Touchpad Plug 0.1.3 Released",
-        "body": "switchboard-plug-mouse-touchpad 0.1.3 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-mouse-touchpad/issues?q=is%3Aclosed+milestone%3A0.1.3).",
-        "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/0.1.3"
-      }
-    ],
-    "new_commits": 42,
-    "default_branch": "master"
-  },
-  {
-    "name": "initial-setup",
-    "releases": [
-      {
-        "version": "6.1.1",
-        "release_date": "2021-08-26T21:15:57",
-        "title": "initial-setup 6.1.1 Released",
-        "body": "\n",
-        "href": "https://github.com/elementary/initial-setup/releases/tag/6.1.1"
-      },
-      {
-        "version": "6.1.0",
-        "release_date": "2021-08-26T02:07:32",
-        "title": "initial-setup 6.1.0 Released",
-        "body": "<p>New features:</p>\n<ul>\n<li>Confirm and change device name</li>\n<li>Two-finger swipe to navigate back</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Translation updates</li>\n</ul>\n",
-        "href": "https://github.com/elementary/initial-setup/releases/tag/6.1.0"
-      },
-      {
-        "version": "6.0.0",
-        "release_date": "2021-07-15T22:55:54",
-        "title": "initial-setup 6.0.0 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Set keyboard layout in accountsservice</li>\n<li>Add multitouch gestures</li>\n<li>Set correct locales</li>\n<li>New colorful avatar fallback</li>\n<li>Translation updates</li>\n</ul>\n",
-        "href": "https://github.com/elementary/initial-setup/releases/tag/6.0.0"
-      },
-      {
-        "version": "1.0.2",
-        "release_date": "2019-10-29T17:04:14",
-        "title": "initial-setup 1.0.2 Released",
-        "body": "initial-setup 1.0.2 is out! \n\nChanges:\n\n* Translation updates\n",
-        "href": "https://github.com/elementary/initial-setup/releases/tag/1.0.2"
-      },
-      {
-        "version": "1.0.1",
-        "release_date": "2019-10-21T19:56:01",
-        "title": "initial-setup 1.0.1 Released",
-        "body": "initial-setup 1.0.1 is out! \n\nChanges:\n\n* Translation updates\n",
-        "href": "https://github.com/elementary/initial-setup/releases/tag/1.0.1"
-      },
-      {
-        "version": "1.0.0",
-        "release_date": "2019-09-27T15:10:44",
-        "title": "Initial Setup 1.0 Released",
-        "body": "elementary Initial Setup 1.0 is out! This is the initial release.",
-        "href": "https://github.com/elementary/initial-setup/releases/tag/1.0.0"
-      }
-    ],
-    "new_commits": 109,
     "default_branch": "master"
   },
   {
@@ -5115,90 +5234,6 @@
     ],
     "new_commits": 35,
     "default_branch": "master"
-  },
-  {
-    "name": "music",
-    "releases": [
-      {
-        "version": "5.1.1",
-        "release_date": "2021-07-16T19:01:31",
-        "title": "music 5.1.1 Released",
-        "body": "<p>Drop support for Last.FM</p>\n<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/music/releases/tag/5.1.1"
-      },
-      {
-        "version": "5.1.0",
-        "release_date": "2021-07-14T17:03:57",
-        "title": "music 5.1.0 Released",
-        "body": "<p>Fix an issue with saving smart playlists</p>\n<p>Drop support for CD-ROM</p>\n<p>Dark style support</p>\n<p>Minor visual improvements</p>\n<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/music/releases/tag/5.1.0"
-      },
-      {
-        "version": "5.0.5",
-        "release_date": "2020-03-04T22:50:04",
-        "title": "music 5.0.5 Released",
-        "body": "music 5.0.5 is out! \n\n<p>Fix removing items from the queue</p>\n<p>Fix equalizer sliders not properly disabled sometimes</p>\n<p>Updated translations</p>\n<p>Performance improvements</p>\n",
-        "href": "https://github.com/elementary/music/releases/tag/5.0.5"
-      },
-      {
-        "version": "5.0.4",
-        "release_date": "2019-04-17T08:46:55",
-        "title": "Music 5.0.4 Released",
-        "body": "Music 5.0.4 is out!\r\n\r\nChanges:\r\n* Removed old gsignond vapi\r\n* LibraryWindow: Use Granite.MessageDialog for showing alerts\r\n* PlaylistsUtils: Use Gtk.FileChooserNative\r\n* Accurately remember window size\r\n* Updated translations",
-        "href": "https://github.com/elementary/music/releases/tag/5.0.4"
-      },
-      {
-        "version": "5.0.3",
-        "release_date": "2019-02-26T19:36:31",
-        "title": "Music 5.0.3 Released",
-        "body": "Music 5.0.3 is out!\r\n\r\nChanges:\r\n* Scale album art properly at high resolutions\r\n* Accurately select Music Folder Location for directories with spaces in name\r\n* New MediaKeyListener path for gnome-settings-daemon\r\n* Updated translations",
-        "href": "https://github.com/elementary/music/releases/tag/5.0.3"
-      },
-      {
-        "version": "5.0.2",
-        "release_date": "2018-12-18T12:07:14",
-        "title": "Music 5.0.2 Released",
-        "body": "Music 5.0.2 is out!\r\n\r\nChanges:\r\n* AlbumView: double-click to play album\r\n* Associate with s3m files\r\n* Queue fixes\r\n* Properly restore playlists\r\n* Always respect custom music folder setting\r\n* Updated translations",
-        "href": "https://github.com/elementary/music/releases/tag/5.0.2"
-      },
-      {
-        "version": "5.0.1",
-        "release_date": "2018-11-30T10:49:32",
-        "title": "Music 5.0.1 Released",
-        "body": "Music 5.0.1 is out!\r\n\r\nChanges:\r\n* Fix list and column view sorting\r\n* Add orange accent color\r\n* Add shortcut accels to tooltips",
-        "href": "https://github.com/elementary/music/releases/tag/5.0.1"
-      },
-      {
-        "version": "5.0",
-        "release_date": "2018-10-16T08:42:10",
-        "title": "Music 5.0 Released",
-        "body": "Music 5.0 is out!\r\n\r\nChanges:\r\n* Various UI changes\r\n* Shuffle fixes\r\n* Initial MPRIS support\r\n* Updated translations",
-        "href": "https://github.com/elementary/music/releases/tag/5.0"
-      },
-      {
-        "version": "0.4.2",
-        "release_date": "2017-11-27T15:51:48",
-        "title": "Noise (Music) 0.4.2 Released",
-        "body": "Noise 0.4.2 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/music/issues?q=is%3Aclosed+milestone%3A0.4.2).",
-        "href": "https://github.com/elementary/music/releases/tag/0.4.2"
-      },
-      {
-        "version": "0.4.1",
-        "release_date": "2017-07-28T03:49:34",
-        "title": "Noise (Music) 0.4.1 Released",
-        "body": "Noise 0.4.1 is out!\r\n\r\nEdit: The list of issues closed by this release can be found [here](https://github.com/elementary/music/milestone/3?closed=1).",
-        "href": "https://github.com/elementary/music/releases/tag/0.4.1"
-      },
-      {
-        "version": "0.4.0.3",
-        "release_date": "2017-04-21T17:49:20",
-        "title": "Noise (Music) 0.4.0.3 Released",
-        "body": "Noise 0.4.0.3 is out!",
-        "href": "https://github.com/elementary/music/releases/tag/0.4.0.3"
-      }
-    ],
-    "new_commits": 78,
-    "default_branch": "main"
   },
   {
     "name": "wingpanel-indicator-a11y",
