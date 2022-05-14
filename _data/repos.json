@@ -3090,7 +3090,7 @@
         "href": "https://github.com/elementary/screenshot/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 22,
+    "new_commits": 23,
     "default_branch": "master"
   },
   {
@@ -3284,6 +3284,13 @@
         "title": "Terminal 0.5.1 Released",
         "body": "Terminal 0.5.1 is out!\r\n\r\nThis release contains translations update and a minor API fix.",
         "href": "https://github.com/elementary/terminal/releases/tag/0.5.1"
+      },
+      {
+        "version": "0.5",
+        "release_date": "2018-06-20T03:08:39",
+        "title": "Terminal 0.5 Released",
+        "body": "Terminal 0.5 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/terminal/issues?q=is%3Aclosed+milestone%3A0.5).",
+        "href": "https://github.com/elementary/terminal/releases/tag/0.5"
       },
       {
         "version": "0.4.3",
@@ -3825,7 +3832,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 218,
+    "new_commits": 220,
     "default_branch": "master"
   },
   {
