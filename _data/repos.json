@@ -1,5 +1,82 @@
 [
   {
+    "name": "switchboard-plug-onlineaccounts",
+    "releases": [
+      {
+        "version": "6.5.0",
+        "release_date": "2022-05-16T19:21:17",
+        "title": "switchboard-plug-onlineaccounts 6.5.0 Released",
+        "body": "<p>New features:</p>\n<ul>\n<li>Added offline support for CalDAV accounts</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/6.5.0"
+      },
+      {
+        "version": "6.4.0",
+        "release_date": "2022-04-06T18:36:45",
+        "title": "switchboard-plug-onlineaccounts 6.4.0 Released",
+        "body": "<p>New features:</p>\n<ul>\n<li>Choose refresh rate for IMAP</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/6.4.0"
+      },
+      {
+        "version": "6.3.0",
+        "release_date": "2021-12-13T22:23:11",
+        "title": "switchboard-plug-onlineaccounts 6.3.0 Released",
+        "body": "<p>New features:</p>\n<ul>\n<li>Edit saved CalDAV accounts</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Dim window when creating a new IMAP account</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/6.3.0"
+      },
+      {
+        "version": "6.2.2",
+        "release_date": "2021-11-24T23:56:37",
+        "title": "switchboard-plug-onlineaccounts 6.2.2 Released",
+        "body": "<p>Fixes:</p>\n<ul>\n<li>Dim window when creating a new IMAP account</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/6.2.2"
+      },
+      {
+        "version": "6.2.1",
+        "release_date": "2021-09-28T19:26:51",
+        "title": "Online Accounts Settings 6.2.1 Released",
+        "body": "<p>Fixes:</p>\r\n<ul>\r\n<li>Make sure the refresh interval for an IMAP account is set</li>\r\n<li>Fix adding, editing, and removing lists in CalDAV apps like Tasks</li>\r\n</ul>\r\n<p>Minor updates:</p>\r\n<ul>\r\n<li>Make sure you can always navigate next by pressing the Enter key</li>\r\n<li>Close dialogs when pressing the Escape key</li>\r\n<li>Use a more complete list of authentication methods for IMAP</li>\r\n<li>Updated translations</li>\r\n</ul>",
+        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/6.2.1"
+      },
+      {
+        "version": "6.2.0",
+        "release_date": "2021-08-26T20:39:35",
+        "title": "switchboard-plug-onlineaccounts 6.2.0 Released",
+        "body": "<ul>\n<li>Edit saved IMAP accounts</li>\n<li>Automatically detect authentication method for IMAP</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/6.2.0"
+      },
+      {
+        "version": "6.1.0",
+        "release_date": "2021-07-30T20:57:04",
+        "title": "switchboard-plug-onlineaccounts 6.1.0 Released",
+        "body": "- Verify login credentials when saving IMAP accounts\r\n- Set up Archive, Drafts, Sent, and Templates folders for IMAP\r\n- Close \"Add Account\" popover when an item is selected\r\n- Updated translations",
+        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/6.1.0"
+      },
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-15T21:21:15",
+        "title": "switchboard-plug-onlineaccounts 6.0.0 Released",
+        "body": "Complete redesign based on Evolution Data Server",
+        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/6.0.0"
+      },
+      {
+        "version": "2.0.1",
+        "release_date": "2018-10-24T14:43:36",
+        "title": "Switchboard Online Accounts Plug 2.0.1 Released",
+        "body": "switchboard-plug-onlineaccounts 2.0.1 is out!\r\n\r\nChanges:\r\n* Use Granite.Toast widget\r\n* New translations",
+        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/2.0.1"
+      },
+      {
+        "version": "2.0",
+        "release_date": "2018-10-15T22:35:57",
+        "title": "Switchboard Online Accounts Plug 2.0 Released",
+        "body": "switchboard-plug-onlineaccounts 2.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-onlineaccounts/issues?q=is%3Aclosed+milestone%3A2.0).",
+        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/2.0"
+      }
+    ],
+    "new_commits": 2,
+    "default_branch": "main"
+  },
+  {
     "name": "switchboard-plug-mouse-touchpad",
     "releases": [
       {
@@ -501,90 +578,6 @@
       }
     ],
     "new_commits": 0,
-    "default_branch": "master"
-  },
-  {
-    "name": "switchboard-plug-keyboard",
-    "releases": [
-      {
-        "version": "3.0.0",
-        "release_date": "2022-05-10T16:57:19",
-        "title": "switchboard-plug-keyboard 3.0.0 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Update for OS 7</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/3.0.0"
-      },
-      {
-        "version": "2.7.0",
-        "release_date": "2022-04-07T06:57:29",
-        "title": "switchboard-plug-keyboard 2.7.0 Released",
-        "body": "<p>New features:</p>\n<ul>\n<li>Open Multitasking View with Super</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.7.0"
-      },
-      {
-        "version": "2.6.0",
-        "release_date": "2021-11-23T17:15:11",
-        "title": "switchboard-plug-keyboard 2.6.0 Released",
-        "body": "<p>New features:</p>\r\n<ul>\r\n<li>Redesigned custom shortcuts view</li>\r\n<li>On-screen keyboard switch in Layouts tab</li>\r\n</ul>\r\n<p>Minor updates:</p>\r\n<ul>\r\n<li>Updated translations</li>\r\n</ul>\r\n",
-        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.6.0"
-      },
-      {
-        "version": "2.5.1",
-        "release_date": "2021-09-22T20:38:10",
-        "title": "Keyboard Settings 2.5.1 Released",
-        "body": "Minor updates:\r\n* Ensure IBus automatically starts on login when needed\r\n* Updated translations",
-        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.5.1"
-      },
-      {
-        "version": "2.5.0",
-        "release_date": "2021-07-14T21:00:05",
-        "title": "switchboard-plug-keyboard 2.5.0 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Add Layout popover is now a dialog</li>\n<li>Guarantee we always have at least one layout</li>\n<li>Improvements to ibus and xkb layouts</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.5.0"
-      },
-      {
-        "version": "2.4.1",
-        "release_date": "2020-09-03T21:54:43",
-        "title": "switchboard-plug-keyboard 2.4.1 Released",
-        "body": "<p>Shortcut description for \"Play\" is now \"Play/Pause\"</p>\n<p>Fix an issue where some shortcuts would incorrectly show as disabled</p>\n<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.4.1"
-      },
-      {
-        "version": "2.4.0",
-        "release_date": "2020-08-07T18:14:32",
-        "title": "switchboard-plug-keyboard 2.4.0 Released",
-        "body": "<p>Add a view to configure input methods</p>\n<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.4.0"
-      },
-      {
-        "version": "2.3.6",
-        "release_date": "2020-04-01T23:34:57",
-        "title": "switchboard-plug-keyboard 2.3.6 Released",
-        "body": "switchboard-plug-keyboard 2.3.6 is out! \n\n<p>New \"Workspaces\" icon</p>\n<p>Exclude Space from single-key shortcuts</p>\n<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.3.6"
-      },
-      {
-        "version": "2.3.5",
-        "release_date": "2019-03-06T09:03:16",
-        "title": "Switchboard Keyboard Plug 2.3.5 Released",
-        "body": "switchboard-plug-keyboard 2.3.5 is out!\r\n\r\nChanges:\r\n* Search keyword improvements\r\n* Added window `Close` keybinding option\r\n* Keyboard navigation fix\r\n* Build system fix for `gnomekbdui` dependency\r\n* More accurate and consistent labels\r\n* Change appdata id to `io.elementary.switchboard.keyboard`\r\n* Updated translations",
-        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.3.5"
-      },
-      {
-        "version": "2.3.4",
-        "release_date": "2018-10-16T00:27:00",
-        "title": "Switchboard Keyboard Plug 2.3.4 Released",
-        "body": "switchboard-plug-keyboard 2.3.4 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-keyboard/issues?q=is%3Aclosed+milestone%3A2.3.4).",
-        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.3.4"
-      },
-      {
-        "version": "0.3.3",
-        "release_date": "2018-06-08T16:39:32",
-        "title": "Switchboard Keyboard Plug 0.3.3 Released",
-        "body": "switchboard-plug-keyboard 0.3.3 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-keyboard/issues?q=is%3Aclosed+milestone%3A0.3.3).",
-        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
-      }
-    ],
-    "new_commits": 4,
     "default_branch": "master"
   },
   {
@@ -1267,6 +1260,83 @@
     "default_branch": "master"
   },
   {
+    "name": "switchboard-plug-keyboard",
+    "releases": [
+      {
+        "version": "2.7.0",
+        "release_date": "2022-04-07T06:57:29",
+        "title": "switchboard-plug-keyboard 2.7.0 Released",
+        "body": "<p>New features:</p>\n<ul>\n<li>Open Multitasking View with Super</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.7.0"
+      },
+      {
+        "version": "2.6.0",
+        "release_date": "2021-11-23T17:15:11",
+        "title": "switchboard-plug-keyboard 2.6.0 Released",
+        "body": "<p>New features:</p>\r\n<ul>\r\n<li>Redesigned custom shortcuts view</li>\r\n<li>On-screen keyboard switch in Layouts tab</li>\r\n</ul>\r\n<p>Minor updates:</p>\r\n<ul>\r\n<li>Updated translations</li>\r\n</ul>\r\n",
+        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.6.0"
+      },
+      {
+        "version": "2.5.1",
+        "release_date": "2021-09-22T20:38:10",
+        "title": "Keyboard Settings 2.5.1 Released",
+        "body": "Minor updates:\r\n* Ensure IBus automatically starts on login when needed\r\n* Updated translations",
+        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.5.1"
+      },
+      {
+        "version": "2.5.0",
+        "release_date": "2021-07-14T21:00:05",
+        "title": "switchboard-plug-keyboard 2.5.0 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Add Layout popover is now a dialog</li>\n<li>Guarantee we always have at least one layout</li>\n<li>Improvements to ibus and xkb layouts</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.5.0"
+      },
+      {
+        "version": "2.4.1",
+        "release_date": "2020-09-03T21:54:43",
+        "title": "switchboard-plug-keyboard 2.4.1 Released",
+        "body": "<p>Shortcut description for \"Play\" is now \"Play/Pause\"</p>\n<p>Fix an issue where some shortcuts would incorrectly show as disabled</p>\n<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.4.1"
+      },
+      {
+        "version": "2.4.0",
+        "release_date": "2020-08-07T18:14:32",
+        "title": "switchboard-plug-keyboard 2.4.0 Released",
+        "body": "<p>Add a view to configure input methods</p>\n<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.4.0"
+      },
+      {
+        "version": "2.3.6",
+        "release_date": "2020-04-01T23:34:57",
+        "title": "switchboard-plug-keyboard 2.3.6 Released",
+        "body": "switchboard-plug-keyboard 2.3.6 is out! \n\n<p>New \"Workspaces\" icon</p>\n<p>Exclude Space from single-key shortcuts</p>\n<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.3.6"
+      },
+      {
+        "version": "2.3.5",
+        "release_date": "2019-03-06T09:03:16",
+        "title": "Switchboard Keyboard Plug 2.3.5 Released",
+        "body": "switchboard-plug-keyboard 2.3.5 is out!\r\n\r\nChanges:\r\n* Search keyword improvements\r\n* Added window `Close` keybinding option\r\n* Keyboard navigation fix\r\n* Build system fix for `gnomekbdui` dependency\r\n* More accurate and consistent labels\r\n* Change appdata id to `io.elementary.switchboard.keyboard`\r\n* Updated translations",
+        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.3.5"
+      },
+      {
+        "version": "2.3.4",
+        "release_date": "2018-10-16T00:27:00",
+        "title": "Switchboard Keyboard Plug 2.3.4 Released",
+        "body": "switchboard-plug-keyboard 2.3.4 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-keyboard/issues?q=is%3Aclosed+milestone%3A2.3.4).",
+        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.3.4"
+      },
+      {
+        "version": "0.3.3",
+        "release_date": "2018-06-08T16:39:32",
+        "title": "Switchboard Keyboard Plug 0.3.3 Released",
+        "body": "switchboard-plug-keyboard 0.3.3 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-keyboard/issues?q=is%3Aclosed+milestone%3A0.3.3).",
+        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
+      }
+    ],
+    "new_commits": 26,
+    "default_branch": "master"
+  },
+  {
     "name": "gala",
     "releases": [
       {
@@ -1468,76 +1538,6 @@
     ],
     "new_commits": 9,
     "default_branch": "master"
-  },
-  {
-    "name": "switchboard-plug-onlineaccounts",
-    "releases": [
-      {
-        "version": "6.4.0",
-        "release_date": "2022-04-06T18:36:45",
-        "title": "switchboard-plug-onlineaccounts 6.4.0 Released",
-        "body": "<p>New features:</p>\n<ul>\n<li>Choose refresh rate for IMAP</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/6.4.0"
-      },
-      {
-        "version": "6.3.0",
-        "release_date": "2021-12-13T22:23:11",
-        "title": "switchboard-plug-onlineaccounts 6.3.0 Released",
-        "body": "<p>New features:</p>\n<ul>\n<li>Edit saved CalDAV accounts</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Dim window when creating a new IMAP account</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/6.3.0"
-      },
-      {
-        "version": "6.2.2",
-        "release_date": "2021-11-24T23:56:37",
-        "title": "switchboard-plug-onlineaccounts 6.2.2 Released",
-        "body": "<p>Fixes:</p>\n<ul>\n<li>Dim window when creating a new IMAP account</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/6.2.2"
-      },
-      {
-        "version": "6.2.1",
-        "release_date": "2021-09-28T19:26:51",
-        "title": "Online Accounts Settings 6.2.1 Released",
-        "body": "<p>Fixes:</p>\r\n<ul>\r\n<li>Make sure the refresh interval for an IMAP account is set</li>\r\n<li>Fix adding, editing, and removing lists in CalDAV apps like Tasks</li>\r\n</ul>\r\n<p>Minor updates:</p>\r\n<ul>\r\n<li>Make sure you can always navigate next by pressing the Enter key</li>\r\n<li>Close dialogs when pressing the Escape key</li>\r\n<li>Use a more complete list of authentication methods for IMAP</li>\r\n<li>Updated translations</li>\r\n</ul>",
-        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/6.2.1"
-      },
-      {
-        "version": "6.2.0",
-        "release_date": "2021-08-26T20:39:35",
-        "title": "switchboard-plug-onlineaccounts 6.2.0 Released",
-        "body": "<ul>\n<li>Edit saved IMAP accounts</li>\n<li>Automatically detect authentication method for IMAP</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/6.2.0"
-      },
-      {
-        "version": "6.1.0",
-        "release_date": "2021-07-30T20:57:04",
-        "title": "switchboard-plug-onlineaccounts 6.1.0 Released",
-        "body": "- Verify login credentials when saving IMAP accounts\r\n- Set up Archive, Drafts, Sent, and Templates folders for IMAP\r\n- Close \"Add Account\" popover when an item is selected\r\n- Updated translations",
-        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/6.1.0"
-      },
-      {
-        "version": "6.0.0",
-        "release_date": "2021-07-15T21:21:15",
-        "title": "switchboard-plug-onlineaccounts 6.0.0 Released",
-        "body": "Complete redesign based on Evolution Data Server",
-        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/6.0.0"
-      },
-      {
-        "version": "2.0.1",
-        "release_date": "2018-10-24T14:43:36",
-        "title": "Switchboard Online Accounts Plug 2.0.1 Released",
-        "body": "switchboard-plug-onlineaccounts 2.0.1 is out!\r\n\r\nChanges:\r\n* Use Granite.Toast widget\r\n* New translations",
-        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/2.0.1"
-      },
-      {
-        "version": "2.0",
-        "release_date": "2018-10-15T22:35:57",
-        "title": "Switchboard Online Accounts Plug 2.0 Released",
-        "body": "switchboard-plug-onlineaccounts 2.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-onlineaccounts/issues?q=is%3Aclosed+milestone%3A2.0).",
-        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/2.0"
-      }
-    ],
-    "new_commits": 1,
-    "default_branch": "main"
   },
   {
     "name": "switchboard-plug-about",
@@ -1844,7 +1844,7 @@
         "href": "https://github.com/elementary/photos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 6,
+    "new_commits": 7,
     "default_branch": "master"
   },
   {
@@ -2362,7 +2362,7 @@
         "href": "https://github.com/elementary/mail/releases/tag/1.0.6"
       }
     ],
-    "new_commits": 21,
+    "new_commits": 30,
     "default_branch": "master"
   },
   {
@@ -4693,7 +4693,7 @@
         "href": "https://github.com/elementary/settings-daemon/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 16,
+    "new_commits": 17,
     "default_branch": "master"
   },
   {
