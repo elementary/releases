@@ -1,5 +1,68 @@
 [
   {
+    "name": "onboarding",
+    "releases": [
+      {
+        "version": "7.0.0",
+        "release_date": "2022-05-19T20:26:15",
+        "title": "onboarding 7.0.0 Released",
+        "body": "<ul>\n<li>Add Automatic Updates view</li>\n<li>Add Sunset to Sunrise to Style View</li>\n<li>Update for OS 7 and Gtk 4</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/onboarding/releases/tag/7.0.0"
+      },
+      {
+        "version": "6.1.0",
+        "release_date": "2021-11-23T21:23:04",
+        "title": "onboarding 6.1.0 Released",
+        "body": "<ul>\n<li>Redesign Housekeeping and add Downloads option</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/onboarding/releases/tag/6.1.0"
+      },
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-14T19:19:34",
+        "title": "onboarding 6.0.0 Released",
+        "body": "<ul>\n<li>Add style view</li>\n<li>Add Online Accounts view</li>\n<li>Remove location services view</li>\n<li>Mention Sideload and Flathub</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/onboarding/releases/tag/6.0.0"
+      },
+      {
+        "version": "1.2.1",
+        "release_date": "2020-05-28T18:55:07",
+        "title": "onboarding 1.2.1 Released",
+        "body": "<ul>\n<li>Fix blurry icon in AppCenter</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/onboarding/releases/tag/1.2.1"
+      },
+      {
+        "version": "1.2.0",
+        "release_date": "2020-04-01T23:56:45",
+        "title": "onboarding 1.2.0 Released",
+        "body": "onboarding 1.2.0 is out! \n\n<ul>\n<li>New app icon</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/onboarding/releases/tag/1.2.0"
+      },
+      {
+        "version": "1.1.0",
+        "release_date": "2019-11-15T20:55:45",
+        "title": "onboarding 1.1.0 Released",
+        "body": "onboarding 1.1.0 is out! \n\nChanges:\n\n* Navigate with (multi-)touch gestures\n* Use new blog URL\n* Fix errors when pressing the Skip button\n* Updated translations\n",
+        "href": "https://github.com/elementary/onboarding/releases/tag/1.1.0"
+      },
+      {
+        "version": "1.0.1",
+        "release_date": "2019-08-24T04:40:22",
+        "title": "Onboarding 1.0.1 Released",
+        "body": "Onboarding 1.0.1 is out!\r\n\r\nChanges:\r\n* Avoid crash if missing `io.elementary.desktop.agent-geoclue2` schema\r\n* Updated translations",
+        "href": "https://github.com/elementary/onboarding/releases/tag/1.0.1"
+      },
+      {
+        "version": "1.0",
+        "release_date": "2019-07-10T15:07:37",
+        "title": "Onboarding 1.0 Released",
+        "body": "Onboarding 1.0 is out!\r\n\r\nThis is the initial release.",
+        "href": "https://github.com/elementary/onboarding/releases/tag/1.0"
+      }
+    ],
+    "new_commits": 0,
+    "default_branch": "master"
+  },
+  {
     "name": "switchboard-plug-security-privacy",
     "releases": [
       {
@@ -2870,34 +2933,6 @@
     "default_branch": "master"
   },
   {
-    "name": "action-appcenter-review-parse",
-    "releases": [
-      {
-        "version": "v1.1.0",
-        "release_date": "2022-01-24T19:52:16",
-        "title": "v1.1.0",
-        "body": "# [1.1.0](https://github.com/elementary/action-appcenter-review-parse/compare/v1.0.2...v1.1.0) (2022-01-24)\n\n\n### Features\n\n* add end-of-life support ([58905fe](https://github.com/elementary/action-appcenter-review-parse/commit/58905fe92049968876a9384af6617b3a44990831))\n\n\n\n",
-        "href": "https://github.com/elementary/action-appcenter-review-parse/releases/tag/v1.1.0"
-      },
-      {
-        "version": "v1.0.2",
-        "release_date": "2021-08-20T20:42:29",
-        "title": "v1.0.2",
-        "body": "## [1.0.2](https://github.com/elementary/action-appcenter-review-parse/compare/v1.0.1...v1.0.2) (2021-08-20)\n\n\n### Bug Fixes\n\n* handle no matching path gracefully ([5946055](https://github.com/elementary/action-appcenter-review-parse/commit/59460559c25aa84244881a52218c086b967d9420))\n\n\n\n",
-        "href": "https://github.com/elementary/action-appcenter-review-parse/releases/tag/v1.0.2"
-      },
-      {
-        "version": "v1.0.1",
-        "release_date": "2021-07-26T00:47:17",
-        "title": "v1.0.1",
-        "body": "## [1.0.1](https://github.com/elementary/action-appcenter-review-parse/compare/v1.0.0...v1.0.1) (2021-07-26)\n\n\n### Bug Fixes\n\n* **ci:** add dist folder to git release ([a757f42](https://github.com/elementary/action-appcenter-review-parse/commit/a757f42c7116aa98f168b6ee383de6cda66018f7))\n\n\n\n",
-        "href": "https://github.com/elementary/action-appcenter-review-parse/releases/tag/v1.0.1"
-      }
-    ],
-    "new_commits": 0,
-    "default_branch": "main"
-  },
-  {
     "name": "videos",
     "releases": [
       {
@@ -4340,62 +4375,6 @@
     "default_branch": "master"
   },
   {
-    "name": "onboarding",
-    "releases": [
-      {
-        "version": "6.1.0",
-        "release_date": "2021-11-23T21:23:04",
-        "title": "onboarding 6.1.0 Released",
-        "body": "<ul>\n<li>Redesign Housekeeping and add Downloads option</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/onboarding/releases/tag/6.1.0"
-      },
-      {
-        "version": "6.0.0",
-        "release_date": "2021-07-14T19:19:34",
-        "title": "onboarding 6.0.0 Released",
-        "body": "<ul>\n<li>Add style view</li>\n<li>Add Online Accounts view</li>\n<li>Remove location services view</li>\n<li>Mention Sideload and Flathub</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/onboarding/releases/tag/6.0.0"
-      },
-      {
-        "version": "1.2.1",
-        "release_date": "2020-05-28T18:55:07",
-        "title": "onboarding 1.2.1 Released",
-        "body": "<ul>\n<li>Fix blurry icon in AppCenter</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/onboarding/releases/tag/1.2.1"
-      },
-      {
-        "version": "1.2.0",
-        "release_date": "2020-04-01T23:56:45",
-        "title": "onboarding 1.2.0 Released",
-        "body": "onboarding 1.2.0 is out! \n\n<ul>\n<li>New app icon</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/onboarding/releases/tag/1.2.0"
-      },
-      {
-        "version": "1.1.0",
-        "release_date": "2019-11-15T20:55:45",
-        "title": "onboarding 1.1.0 Released",
-        "body": "onboarding 1.1.0 is out! \n\nChanges:\n\n* Navigate with (multi-)touch gestures\n* Use new blog URL\n* Fix errors when pressing the Skip button\n* Updated translations\n",
-        "href": "https://github.com/elementary/onboarding/releases/tag/1.1.0"
-      },
-      {
-        "version": "1.0.1",
-        "release_date": "2019-08-24T04:40:22",
-        "title": "Onboarding 1.0.1 Released",
-        "body": "Onboarding 1.0.1 is out!\r\n\r\nChanges:\r\n* Avoid crash if missing `io.elementary.desktop.agent-geoclue2` schema\r\n* Updated translations",
-        "href": "https://github.com/elementary/onboarding/releases/tag/1.0.1"
-      },
-      {
-        "version": "1.0",
-        "release_date": "2019-07-10T15:07:37",
-        "title": "Onboarding 1.0 Released",
-        "body": "Onboarding 1.0 is out!\r\n\r\nThis is the initial release.",
-        "href": "https://github.com/elementary/onboarding/releases/tag/1.0"
-      }
-    ],
-    "new_commits": 74,
-    "default_branch": "master"
-  },
-  {
     "name": "switchboard-plug-useraccounts",
     "releases": [
       {
@@ -5108,6 +5087,27 @@
     ],
     "new_commits": 70,
     "default_branch": "master"
+  },
+  {
+    "name": "action-appcenter-review-parse",
+    "releases": [
+      {
+        "version": "v1.0.2",
+        "release_date": "2021-08-20T20:42:29",
+        "title": "v1.0.2",
+        "body": "## [1.0.2](https://github.com/elementary/action-appcenter-review-parse/compare/v1.0.1...v1.0.2) (2021-08-20)\n\n\n### Bug Fixes\n\n* handle no matching path gracefully ([5946055](https://github.com/elementary/action-appcenter-review-parse/commit/59460559c25aa84244881a52218c086b967d9420))\n\n\n\n",
+        "href": "https://github.com/elementary/action-appcenter-review-parse/releases/tag/v1.0.2"
+      },
+      {
+        "version": "v1.0.1",
+        "release_date": "2021-07-26T00:47:17",
+        "title": "v1.0.1",
+        "body": "## [1.0.1](https://github.com/elementary/action-appcenter-review-parse/compare/v1.0.0...v1.0.1) (2021-07-26)\n\n\n### Bug Fixes\n\n* **ci:** add dist folder to git release ([a757f42](https://github.com/elementary/action-appcenter-review-parse/commit/a757f42c7116aa98f168b6ee383de6cda66018f7))\n\n\n\n",
+        "href": "https://github.com/elementary/action-appcenter-review-parse/releases/tag/v1.0.1"
+      }
+    ],
+    "new_commits": 2,
+    "default_branch": "main"
   },
   {
     "name": "action-appcenter-review-find-manifest",
