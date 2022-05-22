@@ -1200,7 +1200,7 @@
         "href": "https://github.com/elementary/music/releases/tag/0.4.0.3"
       }
     ],
-    "new_commits": 3,
+    "new_commits": 5,
     "default_branch": "main"
   },
   {
@@ -3410,13 +3410,6 @@
         "title": "elementary Wallpapers 5.2 Released",
         "body": "elementary Wallpapers 5.2 is out!\r\n\r\nThis release includes the following changes:\r\n* New wallpaper [Luca Bravo](https://unsplash.com/photos/4yta6mU66dE), modified",
         "href": "https://github.com/elementary/wallpapers/releases/tag/5.2"
-      },
-      {
-        "version": "5.1",
-        "release_date": "2018-05-21T18:04:53",
-        "title": "elementary Wallpapers 5.1 Released",
-        "body": "elementary Wallpapers 5.1 is out!\r\n\r\nThis release includes the following changes:\r\n* New wallpaper [Sunset by the Pier](https://unsplash.com/photos/ces8_Bo7bhQ)\r\n* File size optimizations\r\n* Higher resolution versions of the following:\r\n  - Carmine De Fazio.jpg\r\n  - Jay Ruzesky.jpg\r\n  - leigh-kendell-581.jpg\r\n  - Mr. Lee.jpg\r\n  - Pablo Garcia Saldana.jpg\r\n  - Ryan Schroeder.jpg",
-        "href": "https://github.com/elementary/wallpapers/releases/tag/5.1"
       },
       {
         "version": "5.0",
