@@ -1053,6 +1053,13 @@
         "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.5.7"
       },
       {
+        "version": "2.5.6",
+        "release_date": "2021-11-18T20:13:42",
+        "title": "Locale Settings 2.5.6 Released",
+        "body": "## What's Changed\r\n* Select correct format after install/remove by @davidmhewitt in https://github.com/elementary/switchboard-plug-locale/pull/148\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/switchboard-plug-locale/compare/2.5.5...2.5.6",
+        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.5.6"
+      },
+      {
         "version": "2.5.5",
         "release_date": "2021-10-26T17:51:10",
         "title": "Locale Settings 2.5.5 Released",
@@ -4119,7 +4126,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 233,
+    "new_commits": 235,
     "default_branch": "master"
   },
   {
