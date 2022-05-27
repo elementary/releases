@@ -2376,13 +2376,6 @@
         "href": "https://github.com/elementary/stylesheet/releases/tag/5.4.2"
       },
       {
-        "version": "5.4.1",
-        "release_date": "2020-01-21T18:43:35",
-        "title": "stylesheet 5.4.1 Released",
-        "body": "stylesheet 5.4.1 is out! \n\n\n",
-        "href": "https://github.com/elementary/stylesheet/releases/tag/5.4.1"
-      },
-      {
         "version": "5.4.0",
         "release_date": "2019-12-23T21:07:44",
         "title": "stylesheet 5.4.0 Released",
@@ -5188,13 +5181,6 @@
         "title": "v1.1.0",
         "body": "# [1.1.0](https://github.com/elementary/action-appcenter-review-find-manifest/compare/v1.0.3...v1.1.0) (2021-08-11)\n\n\n### Features\n\n* add GPLv3 license ([fe27bed](https://github.com/elementary/action-appcenter-review-find-manifest/commit/fe27bed71d17560e4a455df163e97839af2c3da2))\n\n\n\n",
         "href": "https://github.com/elementary/action-appcenter-review-find-manifest/releases/tag/v1.1.0"
-      },
-      {
-        "version": "v1.0.3",
-        "release_date": "2021-08-11T21:11:17",
-        "title": "v1.0.3",
-        "body": "## [1.0.3](https://github.com/elementary/action-appcenter-review-find-manifest/compare/v1.0.2...v1.0.3) (2021-08-11)\n\n\n### Bug Fixes\n\n* update for look to of instead of in ([b009894](https://github.com/elementary/action-appcenter-review-find-manifest/commit/b00989420cf1a139ba3c28bf6066d50250478ade))\n\n\n\n",
-        "href": "https://github.com/elementary/action-appcenter-review-find-manifest/releases/tag/v1.0.3"
       },
       {
         "version": "v1.0.2",
