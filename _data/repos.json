@@ -3153,6 +3153,20 @@
         "href": "https://github.com/elementary/files/releases/tag/4.1.3"
       },
       {
+        "version": "4.1.2",
+        "release_date": "2019-01-02T10:32:57",
+        "title": "Files 4.1.2 Released",
+        "body": "Files 4.1.2 is out!\r\n\r\nChanges:\r\n* Plugin build fixes\r\n* Updated translations",
+        "href": "https://github.com/elementary/files/releases/tag/4.1.2"
+      },
+      {
+        "version": "4.1.1",
+        "release_date": "2018-12-28T20:34:15",
+        "title": "Files 4.1.1 Released",
+        "body": "Files 4.1.1 is out!\r\n\r\nChanges:\r\n* Fix `Ctrl+Tab` behavior\r\n* Fix building without Unity library",
+        "href": "https://github.com/elementary/files/releases/tag/4.1.1"
+      },
+      {
         "version": "4.1.0",
         "release_date": "2018-12-27T18:31:52",
         "title": "Files 4.1.0 Released",
