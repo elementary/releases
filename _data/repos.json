@@ -5985,6 +5985,48 @@
     "default_branch": "master"
   },
   {
+    "name": "session-settings",
+    "releases": [
+      {
+        "version": "6.0.0",
+        "release_date": "2021-02-19T20:24:49",
+        "title": "Session Settings 6.0.0 Released",
+        "body": "A fairly hefty rewrite that should make things more portable to other distros!",
+        "href": "https://github.com/elementary/session-settings/releases/tag/6.0.0"
+      },
+      {
+        "version": "5.0.3",
+        "release_date": "2018-09-14T17:26:37",
+        "title": "Session Settings 5.0.3 Released",
+        "body": "`pantheon-xsession-settings` 5.0.3 is out!\r\n\r\nThis release launches `gala-daemon` as part of the Pantheon session.",
+        "href": "https://github.com/elementary/session-settings/releases/tag/5.0.3"
+      },
+      {
+        "version": "5.0.2",
+        "release_date": "2018-07-27T04:07:14",
+        "title": "Session Settings 5.0.2 Released",
+        "body": "`pantheon-xsession-settings` 5.0.2 is out!\r\n\r\nThis release includes updated mimetype associations and removes the Cerbere autostart entry now shipped by Cerbere 0.2.4 instead.",
+        "href": "https://github.com/elementary/session-settings/releases/tag/5.0.2"
+      },
+      {
+        "version": "5.0.1",
+        "release_date": "2018-05-30T22:14:56",
+        "title": "Session Settings 5.0.1 Released",
+        "body": "`pantheon-xsession-setting` 5.0.1 is out!\r\n\r\nThis release adapts the Cerbere symlink to changes found in Cerbere 0.2.3.",
+        "href": "https://github.com/elementary/session-settings/releases/tag/5.0.1"
+      },
+      {
+        "version": "5.0",
+        "release_date": "2018-05-23T13:13:58",
+        "title": "Session Settings 5.0 Released",
+        "body": "`pantheon-xsession-settings` 5.0 is out!",
+        "href": "https://github.com/elementary/session-settings/releases/tag/5.0"
+      }
+    ],
+    "new_commits": 1,
+    "default_branch": "master"
+  },
+  {
     "name": "houston",
     "releases": [
       {
@@ -6388,34 +6430,6 @@
       }
     ],
     "new_commits": 0,
-    "default_branch": "master"
-  },
-  {
-    "name": "session-settings",
-    "releases": [
-      {
-        "version": "5.0.3",
-        "release_date": "2018-09-14T17:26:37",
-        "title": "Session Settings 5.0.3 Released",
-        "body": "`pantheon-xsession-settings` 5.0.3 is out!\r\n\r\nThis release launches `gala-daemon` as part of the Pantheon session.",
-        "href": "https://github.com/elementary/session-settings/releases/tag/5.0.3"
-      },
-      {
-        "version": "5.0.2",
-        "release_date": "2018-07-27T04:07:14",
-        "title": "Session Settings 5.0.2 Released",
-        "body": "`pantheon-xsession-settings` 5.0.2 is out!\r\n\r\nThis release includes updated mimetype associations and removes the Cerbere autostart entry now shipped by Cerbere 0.2.4 instead.",
-        "href": "https://github.com/elementary/session-settings/releases/tag/5.0.2"
-      },
-      {
-        "version": "5.0",
-        "release_date": "2018-05-23T13:13:58",
-        "title": "Session Settings 5.0 Released",
-        "body": "`pantheon-xsession-settings` 5.0 is out!",
-        "href": "https://github.com/elementary/session-settings/releases/tag/5.0"
-      }
-    ],
-    "new_commits": 19,
     "default_branch": "master"
   },
   {
