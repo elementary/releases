@@ -1648,6 +1648,13 @@
         "href": "https://github.com/elementary/music/releases/tag/5.0.1"
       },
       {
+        "version": "5.0",
+        "release_date": "2018-10-16T08:42:10",
+        "title": "Music 5.0 Released",
+        "body": "Music 5.0 is out!\r\n\r\nChanges:\r\n* Various UI changes\r\n* Shuffle fixes\r\n* Initial MPRIS support\r\n* Updated translations",
+        "href": "https://github.com/elementary/music/releases/tag/5.0"
+      },
+      {
         "version": "0.4.2",
         "release_date": "2017-11-27T15:51:48",
         "title": "Noise (Music) 0.4.2 Released",
