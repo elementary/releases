@@ -17,13 +17,6 @@
         "href": "https://github.com/elementary/camera/releases/tag/6.0.3"
       },
       {
-        "version": "6.0.2",
-        "release_date": "2021-11-23T21:04:30",
-        "title": "camera 6.0.2 Released",
-        "body": "<p>Fixes:</p>\n<ul>\n<li>Resolve issues with cameras being unavailable when multiple cameras are connected</li>\n<li>Default to a working camera if multiple cameras are connected and one is unavailable</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/camera/releases/tag/6.0.2"
-      },
-      {
         "version": "6.0.1",
         "release_date": "2021-10-26T20:39:33",
         "title": "Camera 6.0.1 Released",
