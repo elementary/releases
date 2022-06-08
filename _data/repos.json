@@ -5764,6 +5764,13 @@
         "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/2.3.0"
       },
       {
+        "version": "2.2.2",
+        "release_date": "2019-04-09T02:53:50",
+        "title": "Switchboard Bluetooth Plug 2.2.2 Released",
+        "body": "switchboard-plug-bluetooth 2.2.2 is out!\r\n\r\nChanges:\r\n* Auto connect to trusted devices more reliably\r\n* Updated translations",
+        "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/2.2.2"
+      },
+      {
         "version": "2.2.1",
         "release_date": "2019-01-25T06:49:14",
         "title": "Switchboard Bluetooth Plug 2.2.1 Released",
