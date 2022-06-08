@@ -388,7 +388,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 22,
+    "new_commits": 24,
     "default_branch": "master"
   },
   {
@@ -3762,7 +3762,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.0.1"
       }
     ],
-    "new_commits": 34,
+    "new_commits": 35,
     "default_branch": "master"
   },
   {
