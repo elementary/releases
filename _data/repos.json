@@ -24,7 +24,7 @@
         "href": "https://github.com/elementary/notifications/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 1,
+    "new_commits": 4,
     "default_branch": "master"
   },
   {
@@ -2201,7 +2201,7 @@
         "href": "https://github.com/elementary/switchboard/releases/tag/2.3.0"
       }
     ],
-    "new_commits": 20,
+    "new_commits": 21,
     "default_branch": "master"
   },
   {
@@ -3447,7 +3447,7 @@
         "href": "https://github.com/elementary/tasks/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 57,
+    "new_commits": 60,
     "default_branch": "master"
   },
   {
