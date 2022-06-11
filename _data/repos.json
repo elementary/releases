@@ -4518,13 +4518,6 @@
         "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/2.3.0"
       },
       {
-        "version": "2.2.1",
-        "release_date": "2019-03-15T16:51:19",
-        "title": "Switchboard User Accounts Plug 2.2.1 Released",
-        "body": "switchboard-plug-useraccounts 2.2.1 is out!\r\n\r\nChanges:\r\n* Fix getting current user on other distros\r\n* Use `Granite.MessageDialog` for avatar dialog\r\n* Updated translations",
-        "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/2.2.1"
-      },
-      {
         "version": "2.2.0",
         "release_date": "2018-10-23T09:16:42",
         "title": "Switchboard User Accounts Plug 2.2.0 Released",
