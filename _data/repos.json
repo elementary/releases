@@ -752,7 +752,7 @@
         "href": "https://github.com/elementary/switchboard-plug-security-privacy/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 7,
+    "new_commits": 8,
     "default_branch": "master"
   },
   {
@@ -4469,7 +4469,7 @@
         "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
       }
     ],
-    "new_commits": 77,
+    "new_commits": 78,
     "default_branch": "master"
   },
   {
