@@ -3230,13 +3230,6 @@
         "href": "https://github.com/elementary/files/releases/tag/6.0.4"
       },
       {
-        "version": "6.0.3",
-        "release_date": "2021-09-27T20:39:05",
-        "title": "Files 6.0.3 Released",
-        "body": "<p>Fixes:</p>\r\n<ul>\r\n<li>Open bookmarks in a new tab with Ctrl + Click</li>\r\n<li>Fix dropping uris onto storage devices and network locations in sidebar</li>\r\n<li>Fix restoring tabs after a system restart</li>\r\n<li>Don't unselect when secondary clicking blank space around a file or folder</li>\r\n<li>Show the folder context menu when secondary clicking outside of a selection</li>\r\n</ul>\r\n<p>Other updates:</p>\r\n<ul>\r\n<li>Updated translations</li>\r\n</ul>",
-        "href": "https://github.com/elementary/files/releases/tag/6.0.3"
-      },
-      {
         "version": "6.0.2",
         "release_date": "2021-08-26T21:37:59",
         "title": "files 6.0.2 Released",
@@ -3249,20 +3242,6 @@
         "title": "files 6.0.1 Released",
         "body": "<p>Fixes:</p>\n<ul>\n<li>Fix freeze when comparing copied files</li>\n<li>Fix truncation of final column in Column View under some circumstances</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Show more keyboard accelerators in menus</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
         "href": "https://github.com/elementary/files/releases/tag/6.0.1"
-      },
-      {
-        "version": "6.0.0",
-        "release_date": "2021-07-15T22:45:11",
-        "title": "files 6.0.0 Released",
-        "body": "<p>Fixes:</p>\n<ul>\n<li>Fix connecting to AFP servers so that passwords are remembered</li>\n<li>Fix MTP mounts</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Launch files with double click instead of single click</li>\n<li>Provide a File Chooser portal for Flatpak apps</li>\n<li>Brand new animated Sidebar</li>\n<li>Dark style support</li>\n<li>Mint and Bubblegum color tags</li>\n<li>Do not restore locations that have become inaccessible</li>\n<li>Clicking between thumbnail and text now activates/selects in Icon view</li>\n<li>AFC protocol support</li>\n<li>Add a smaller minimum icon size in list view</li>\n<li>Show emblems inline in list views</li>\n<li>Performance improvements</li>\n<li>Stability improvements</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Rename \"Devices\" to \"Storage\"</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/files/releases/tag/6.0.0"
-      },
-      {
-        "version": "4.5.0",
-        "release_date": "2020-08-11T17:27:16",
-        "title": "files 4.5.0 Released",
-        "body": "<p>Improvements:</p>\n<ul>\n<li>Bookmark menu option for network mounts in sidebar</li>\n<li>Show folder item count in List View</li>\n<li>Now shows thumbnails on locally mounted MTP and PTP devices as well as on network locations by default</li>\n<li>Properties window: Allow the filename to be copied when it cannot be edited</li>\n<li>Improved tooltip formatting for devices in the sidebar</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Fix crash when pressing Enter and another key at the same time</li>\n<li>Fix pathbar handling of \"~\" and \"..\" in path</li>\n<li>Filechooser pathbar no longer crashes when invoked from a Flatpak</li>\n<li>Do not show git status for repositories on FUSE filesystems to prevent possible blocking</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>\"Personal\" is now \"Bookmarks\"</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/files/releases/tag/4.5.0"
       },
       {
         "version": "4.4.4",
@@ -3326,20 +3305,6 @@
         "title": "Files 4.1.8 Released",
         "body": "Files 4.1.8 is out!\r\n\r\nChanges:\r\n* Keyboard navigation fix for cherry picking select files in icon view\r\n* Don't hardcode search placeholder text style, fixes dark theme issue\r\n* Updated translations",
         "href": "https://github.com/elementary/files/releases/tag/4.1.8"
-      },
-      {
-        "version": "4.1.7",
-        "release_date": "2019-04-08T19:53:01",
-        "title": "Files 4.1.7 Released",
-        "body": "Files 4.1.7 is out!\r\n\r\nChanges:\r\n* Minor spacing adjustments to location bar\r\n* Fix F2 renaming behavior\r\n* Updated translations",
-        "href": "https://github.com/elementary/files/releases/tag/4.1.7"
-      },
-      {
-        "version": "4.1.6",
-        "release_date": "2019-03-26T09:58:49",
-        "title": "Files 4.1.6 Released",
-        "body": "Files 4.1.6 is out!\r\n\r\nChanges:\r\n* Minor spacing adjustments to location breadcrumbs\r\n* Consistently remember color tags\r\n* Reload thumbnails when changing zoom level to avoid showing placeholder unnecessarily\r\n* Fix running scripts with spaces in filename\r\n* Updated translations",
-        "href": "https://github.com/elementary/files/releases/tag/4.1.6"
       },
       {
         "version": "4.1.5",
