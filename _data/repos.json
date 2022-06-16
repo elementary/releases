@@ -451,13 +451,6 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/3.9.1"
       },
       {
-        "version": "3.9.0",
-        "release_date": "2021-11-23T21:22:44",
-        "title": "appcenter 3.9.0 Released",
-        "body": "<p>Improvements:</p>\n<ul>\n<li>Amusements appear in the Games category</li>\n<li>Categories show as a grid instead of a list</li>\n<li>Allow window to shrink to much narrower sizes</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.9.0"
-      },
-      {
         "version": "3.8.2",
         "release_date": "2021-10-29T17:35:37",
         "title": "AppCenter 3.8.2 Released!",
@@ -526,13 +519,6 @@
         "title": "appcenter 3.5.1 Released",
         "body": "<p>Fixes</p>\n<ul>\n<li>Correctly display names of Flatpak runtime updates</li>\n</ul>\n<p>Minor updates</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
         "href": "https://github.com/elementary/appcenter/releases/tag/3.5.1"
-      },
-      {
-        "version": "3.5.0",
-        "release_date": "2020-10-07T03:57:49",
-        "title": "appcenter 3.5.0 Released",
-        "body": "<p>New features</p>\n<ul>\n<li>Support system-wide Flatpak remotes</li>\n</ul>\n<p>Fixes</p>\n<ul>\n<li>Fix Flatpak runtime updates getting stuck</li>\n<li>Fix long origin comboboxes breaking the header layout</li>\n</ul>\n<p>Minor updates</p>\n<ul>\n<li>When apps are available from multiple sources, prefer installed version, then prefer Flatpak</li>\n<li>Improve search performance</li>\n<li>Improve update badge styling and category styling</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.5.0"
       },
       {
         "version": "3.4.2",
@@ -2761,7 +2747,7 @@
         "href": "https://github.com/elementary/stylesheet/releases/tag/5.0.4"
       }
     ],
-    "new_commits": 16,
+    "new_commits": 17,
     "default_branch": "master"
   },
   {
