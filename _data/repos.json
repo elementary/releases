@@ -3272,6 +3272,13 @@
         "href": "https://github.com/elementary/code/releases/tag/6.1.0"
       },
       {
+        "version": "6.0.1",
+        "release_date": "2021-09-28T22:06:14",
+        "title": "Code 6.0.1 Released",
+        "body": "<p>Fixes:</p>\r\n<ul>\r\n<li>Fix crash when creating new window from tab drop</li>\r\n<li>Ensure files created from the sidebar are automatically opened</li>\r\n</ul>\r\n<p>Improvements:</p>\r\n<ul>\r\n<li>Hide project chooser button when hiding sidebar</li>\r\n</ul>\r\n<p>Minor updates:</p>\r\n<ul>\r\n<li>Ensure all copy is translatable</li>\r\n<li>Updated translations</li>\r\n</ul>",
+        "href": "https://github.com/elementary/code/releases/tag/6.0.1"
+      },
+      {
         "version": "6.0.0",
         "release_date": "2021-07-15T21:14:07",
         "title": "code 6.0.0 Released",
