@@ -1774,6 +1774,13 @@
         "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/6.1.0"
       },
       {
+        "version": "6.0.0",
+        "release_date": "2021-07-15T21:21:15",
+        "title": "switchboard-plug-onlineaccounts 6.0.0 Released",
+        "body": "Complete redesign based on Evolution Data Server",
+        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/6.0.0"
+      },
+      {
         "version": "2.0.1",
         "release_date": "2018-10-24T14:43:36",
         "title": "Switchboard Online Accounts Plug 2.0.1 Released",
