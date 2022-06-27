@@ -2621,7 +2621,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 10,
+    "new_commits": 11,
     "default_branch": "main"
   },
   {
@@ -3349,7 +3349,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 30,
+    "new_commits": 31,
     "default_branch": "master"
   },
   {
