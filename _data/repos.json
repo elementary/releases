@@ -3340,13 +3340,6 @@
         "title": "Code 3.0.1 Released",
         "body": "Code 3.0.1 is out!\r\n\r\nChanges:\r\n* Don't recreate deleted files when restoring session\r\n* Restore line wrap preference\r\n* Add accel tooltips\r\n* Minor bug fixes\r\n* Updated translations",
         "href": "https://github.com/elementary/code/releases/tag/3.0.1"
-      },
-      {
-        "version": "3.0",
-        "release_date": "2018-10-16T09:38:13",
-        "title": "Code 3.0 Released",
-        "body": "Code 3.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/code/issues?q=is%3Aclosed+milestone%3A3.0).",
-        "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
     "new_commits": 31,
