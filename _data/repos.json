@@ -1578,6 +1578,13 @@
         "href": "https://github.com/elementary/calendar/releases/tag/5.1.0"
       },
       {
+        "version": "5.0.6",
+        "release_date": "2020-06-30T19:03:24",
+        "title": "calendar 5.0.6 Released",
+        "body": "<p>Minor Updates:</p>\n<ul>\n<li>Fix issues with time zones not being recognized</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/calendar/releases/tag/5.0.6"
+      },
+      {
         "version": "5.0.5",
         "release_date": "2020-06-02T04:44:14",
         "title": "calendar 5.0.5 Released",
