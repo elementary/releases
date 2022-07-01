@@ -843,13 +843,6 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/3.8.1"
       },
       {
-        "version": "3.8.0",
-        "release_date": "2021-09-21T21:48:38",
-        "title": "AppCenter 3.8.0 Released",
-        "body": "New features:\r\n - Show content warnings on app info pages\r\n\r\nFixes:\r\n- Show other apps by an author for Flatpak sources\r\n- Populate banner on home locally instead of relying on an external API\r\n\r\nImprovements:\r\n- Greatly increased number of recently-updated apps shown on home page\r\n- Navigate banners on the home page with multitouch gestures\r\n- Updated translations",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.8.0"
-      },
-      {
         "version": "3.7.1",
         "release_date": "2021-08-30T18:37:19",
         "title": "appcenter 3.7.1 Released",
@@ -869,13 +862,6 @@
         "title": "appcenter 3.6.3 Released",
         "body": "<p>Fixes:</p>\n<ul>\n<li>Ensure user installation is selected by default when navigating from the homepage</li>\n<li>Fix opening apps from app installed toasts</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
         "href": "https://github.com/elementary/appcenter/releases/tag/3.6.3"
-      },
-      {
-        "version": "3.6.2",
-        "release_date": "2021-08-09T18:08:10",
-        "title": "appcenter 3.6.2 Released",
-        "body": "<p>Fixes:</p>\n<ul>\n<li>Install Linux kernel headers with NVIDIA drivers</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.6.2"
       },
       {
         "version": "3.6.1",
