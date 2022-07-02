@@ -6051,6 +6051,13 @@
         "href": "https://github.com/elementary/session-settings/releases/tag/6.0.0"
       },
       {
+        "version": "5.0.3",
+        "release_date": "2018-09-14T17:26:37",
+        "title": "Session Settings 5.0.3 Released",
+        "body": "`pantheon-xsession-settings` 5.0.3 is out!\r\n\r\nThis release launches `gala-daemon` as part of the Pantheon session.",
+        "href": "https://github.com/elementary/session-settings/releases/tag/5.0.3"
+      },
+      {
         "version": "5.0.2",
         "release_date": "2018-07-27T04:07:14",
         "title": "Session Settings 5.0.2 Released",
