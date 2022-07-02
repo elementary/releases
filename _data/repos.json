@@ -2803,6 +2803,13 @@
         "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/1.0.5"
       },
       {
+        "version": "1.0.4",
+        "release_date": "2021-07-14T18:12:33",
+        "title": "pantheon-agent-polkit 1.0.4 Released",
+        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/1.0.4"
+      },
+      {
         "version": "1.0.3",
         "release_date": "2020-06-19T19:01:42",
         "title": "pantheon-agent-polkit 1.0.3 Released",
@@ -2857,6 +2864,13 @@
         "title": "Pantheon Polkit Agent 0.1.3 Released",
         "body": "pantheon-agent-polkit 0.1.3 is out!",
         "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/0.1.3"
+      },
+      {
+        "version": "0.1.2",
+        "release_date": "2017-02-12T10:03:52",
+        "title": "",
+        "body": "",
+        "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/0.1.2"
       }
     ],
     "new_commits": 3,
