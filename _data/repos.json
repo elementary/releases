@@ -388,7 +388,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 5,
+    "new_commits": 6,
     "default_branch": "master"
   },
   {
@@ -4672,7 +4672,7 @@
         "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
       }
     ],
-    "new_commits": 92,
+    "new_commits": 93,
     "default_branch": "master"
   },
   {
