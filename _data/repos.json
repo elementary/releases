@@ -1732,7 +1732,7 @@
         "href": "https://github.com/elementary/terminal/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 3,
+    "new_commits": 4,
     "default_branch": "master"
   },
   {
@@ -6492,7 +6492,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.0"
       }
     ],
-    "new_commits": 5549,
+    "new_commits": 5550,
     "default_branch": "master"
   },
   {
