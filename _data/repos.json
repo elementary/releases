@@ -1172,6 +1172,13 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/3.8.2"
       },
       {
+        "version": "3.8.1",
+        "release_date": "2021-10-26T17:02:14",
+        "title": "AppCenter 3.8.1 Released",
+        "body": "<p>Fixes:</p>\r\n<ul>\r\n<li>Don't store $0 app installs as paid</li>\r\n<li>Fix missing illicit substances icon</li>\r\n<li>Don't show plugins on the homepage</li>\r\n<li>Only show \"Multiplayer\" badge for games</li>\r\n</ul>\r\n<p>Improvements:</p>\r\n<ul>\r\n<li>Show installation progress in a more compact way</li>\r\n<li>Updated translations</li>\r\n</ul>",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.8.1"
+      },
+      {
         "version": "3.8.0",
         "release_date": "2021-09-21T21:48:38",
         "title": "AppCenter 3.8.0 Released",
@@ -1256,6 +1263,20 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/3.4.0"
       },
       {
+        "version": "3.3.0",
+        "release_date": "2020-04-29T21:46:10",
+        "title": "appcenter 3.3.0 Released",
+        "body": "<p>Performance improvements</p>\n<ul>\n<li>Only check for updates at device startup if it's more than 24 hours since we last checked</li>\n<li>Reduce slowdowns when opening certain apps</li>\n</ul>\n<p>Extension improvements</p>\n<ul>\n<li>To de-clutter the updates view, extensions are now only shown if they require updates</li>\n<li>Clicking an extension on an app's info page now shows details for the extension</li>\n<li>Swap the main and overlay icons for extensions to more clearly associate extensions with their app</li>\n</ul>\n<p>Keyboard improvements</p>\n<ul>\n<li>Pressing down in the search field moves the keyboard focus to the search results list</li>\n<li>Ctrl+F now moves the cursor to the search field</li>\n</ul>\n<p>Fixes</p>\n<ul>\n<li>Use configured network proxy settings for apt operations</li>\n<li>No longer prompt for approval to update non-curated apps</li>\n<li>Ensure the OS updates subheading copy is correct after finishing updates</li>\n<li>Ellipsize long app names in App Info views</li>\n</ul>\n<p>And more</p>\n<ul>\n<li>Show a more informative loading screen when checking for updates</li>\n<li>Don't list fonts alongside apps</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.3.0"
+      },
+      {
+        "version": "3.2.4",
+        "release_date": "2020-04-08T23:32:02",
+        "title": "appcenter 3.2.4 Released",
+        "body": "<p>Fixes</p>\n<ul>\n<li>Prevent crashes when updating Flatpaks and system packages simultaneously</li>\n<li>Prevent suspending when installing, updating, or removing packages</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.2.4"
+      },
+      {
         "version": "3.2.3",
         "release_date": "2020-04-02T00:19:54",
         "title": "appcenter 3.2.3 Released",
@@ -1303,6 +1324,13 @@
         "title": "AppCenter 3.0.1 Released",
         "body": "AppCenter 3.0.1 is out!\r\n\r\nThis release includes updated translations.",
         "href": "https://github.com/elementary/appcenter/releases/tag/3.0.1"
+      },
+      {
+        "version": "3.0",
+        "release_date": "2018-10-16T10:33:33",
+        "title": "AppCenter 3.0 Released",
+        "body": "AppCenter 3.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/appcenter/issues?q=is%3Aclosed+milestone%3A3.0).",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.0"
       },
       {
         "version": "0.2.9",
