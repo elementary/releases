@@ -325,7 +325,7 @@
         "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
       }
     ],
-    "new_commits": 21,
+    "new_commits": 22,
     "default_branch": "master"
   },
   {
@@ -801,7 +801,7 @@
         "href": "https://github.com/elementary/switchboard-plug-printers/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 15,
+    "new_commits": 16,
     "default_branch": "master"
   },
   {
@@ -2544,7 +2544,7 @@
         "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 7,
+    "new_commits": 8,
     "default_branch": "master"
   },
   {
@@ -4812,7 +4812,7 @@
         "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 23,
+    "new_commits": 24,
     "default_branch": "master"
   },
   {
@@ -5078,7 +5078,7 @@
         "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 43,
+    "new_commits": 44,
     "default_branch": "master"
   },
   {
