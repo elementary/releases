@@ -1795,13 +1795,6 @@
         "href": "https://github.com/elementary/terminal/releases/tag/5.3.4"
       },
       {
-        "version": "5.3.3",
-        "release_date": "2018-12-06T22:57:14",
-        "title": "Terminal 5.3.3 Released",
-        "body": "Terminal 5.3.2 is out!\r\n\r\nChanges:\r\n * Fix erratic search text highlightning behavior\r\n * Support -h flag for help\r\n * Add Alt+↑ action to scroll to last command\r\n * Add Alt+c action to copy last output\r\n * Add accels to tooltips\r\n * Update translations",
-        "href": "https://github.com/elementary/terminal/releases/tag/5.3.3"
-      },
-      {
         "version": "5.3.2",
         "release_date": "2018-10-30T10:48:07",
         "title": "Terminal 5.3.2 Released",
@@ -1828,13 +1821,6 @@
         "title": "Terminal 0.5.2 Released",
         "body": "Terminal 0.5.2 is out!\r\n\r\nThis release contains translations update and a minor API fix.",
         "href": "https://github.com/elementary/terminal/releases/tag/0.5.2"
-      },
-      {
-        "version": "0.5.1",
-        "release_date": "2018-07-23T20:01:14",
-        "title": "Terminal 0.5.1 Released",
-        "body": "Terminal 0.5.1 is out!\r\n\r\nThis release contains translations update and a minor API fix.",
-        "href": "https://github.com/elementary/terminal/releases/tag/0.5.1"
       },
       {
         "version": "0.5",
@@ -1942,7 +1928,7 @@
         "href": "https://github.com/elementary/capnet-assist/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 4,
+    "new_commits": 5,
     "default_branch": "master"
   },
   {
@@ -2607,7 +2593,7 @@
         "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.0"
       }
     ],
-    "new_commits": 4,
+    "new_commits": 5,
     "default_branch": "master"
   },
   {
@@ -2985,7 +2971,7 @@
         "href": "https://github.com/elementary/greeter/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 18,
+    "new_commits": 19,
     "default_branch": "master"
   },
   {
@@ -3475,7 +3461,7 @@
         "href": "https://github.com/elementary/stylesheet/releases/tag/5.0.4"
       }
     ],
-    "new_commits": 20,
+    "new_commits": 21,
     "default_branch": "master"
   },
   {
@@ -3552,7 +3538,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 59,
+    "new_commits": 61,
     "default_branch": "master"
   },
   {
