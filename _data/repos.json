@@ -1795,6 +1795,13 @@
         "href": "https://github.com/elementary/terminal/releases/tag/5.3.4"
       },
       {
+        "version": "5.3.3",
+        "release_date": "2018-12-06T22:57:14",
+        "title": "Terminal 5.3.3 Released",
+        "body": "Terminal 5.3.2 is out!\r\n\r\nChanges:\r\n * Fix erratic search text highlightning behavior\r\n * Support -h flag for help\r\n * Add Alt+↑ action to scroll to last command\r\n * Add Alt+c action to copy last output\r\n * Add accels to tooltips\r\n * Update translations",
+        "href": "https://github.com/elementary/terminal/releases/tag/5.3.3"
+      },
+      {
         "version": "5.3.2",
         "release_date": "2018-10-30T10:48:07",
         "title": "Terminal 5.3.2 Released",
@@ -1821,6 +1828,13 @@
         "title": "Terminal 0.5.2 Released",
         "body": "Terminal 0.5.2 is out!\r\n\r\nThis release contains translations update and a minor API fix.",
         "href": "https://github.com/elementary/terminal/releases/tag/0.5.2"
+      },
+      {
+        "version": "0.5.1",
+        "release_date": "2018-07-23T20:01:14",
+        "title": "Terminal 0.5.1 Released",
+        "body": "Terminal 0.5.1 is out!\r\n\r\nThis release contains translations update and a minor API fix.",
+        "href": "https://github.com/elementary/terminal/releases/tag/0.5.1"
       },
       {
         "version": "0.5",
@@ -3846,7 +3860,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 32,
+    "new_commits": 33,
     "default_branch": "master"
   },
   {
