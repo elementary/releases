@@ -1865,7 +1865,7 @@
         "href": "https://github.com/elementary/terminal/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 40,
+    "new_commits": 41,
     "default_branch": "master"
   },
   {
@@ -2171,6 +2171,13 @@
         "title": "photos 2.6.5 Released",
         "body": "photos 2.6.5 is out! \n\nChanges:\n\n* Add checkerboard behind semi-transparent photos in grid view\n* Fix pasting in comment box\n* Make sure we show the right apps in the Open In menu\n* Redesign a large number of dialogs\n* Translation updates\n",
         "href": "https://github.com/elementary/photos/releases/tag/2.6.5"
+      },
+      {
+        "version": "2.6.4",
+        "release_date": "2019-05-16T10:50:25",
+        "title": "Photos 2.6.4 Released",
+        "body": "Photos 2.6.4 is out!\r\n\r\nChanges:\r\n* Fix building against latest gexiv2\r\n* Updated translations",
+        "href": "https://github.com/elementary/photos/releases/tag/2.6.4"
       },
       {
         "version": "2.6.3",
