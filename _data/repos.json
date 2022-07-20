@@ -2173,6 +2173,13 @@
         "href": "https://github.com/elementary/photos/releases/tag/2.6.5"
       },
       {
+        "version": "2.6.4",
+        "release_date": "2019-05-16T10:50:25",
+        "title": "Photos 2.6.4 Released",
+        "body": "Photos 2.6.4 is out!\r\n\r\nChanges:\r\n* Fix building against latest gexiv2\r\n* Updated translations",
+        "href": "https://github.com/elementary/photos/releases/tag/2.6.4"
+      },
+      {
         "version": "2.6.3",
         "release_date": "2019-04-08T17:15:05",
         "title": "Photos 2.6.3 Released",
