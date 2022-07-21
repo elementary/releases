@@ -6569,13 +6569,6 @@
     "name": "debian-test-package",
     "releases": [
       {
-        "version": "v1.0.9",
-        "release_date": "2017-03-18T01:02:01",
-        "title": "Init 2",
-        "body": "Payments testing for AppCenter",
-        "href": "https://github.com/elementary/debian-test-package/releases/tag/v1.0.9"
-      },
-      {
         "version": "v1.0.8",
         "release_date": "2017-03-18T01:02:01",
         "title": "Init 1",
@@ -6637,13 +6630,6 @@
         "title": "jfoarw",
         "body": "jfslkqjtköweljt\nthrqeiojtowje\n",
         "href": "https://github.com/elementary/debian-test-package/releases/tag/v1.0.0"
-      },
-      {
-        "version": "v1.0",
-        "release_date": "2015-05-20T15:07:26",
-        "title": "Version 1 Test Release",
-        "body": "Some Testing to test releases\n",
-        "href": "https://github.com/elementary/debian-test-package/releases/tag/v1.0"
       }
     ],
     "new_commits": 0,
