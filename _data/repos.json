@@ -120,6 +120,13 @@
         "title": "switchboard-plug-wacom 1.0.1 Released",
         "body": "<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
         "href": "https://github.com/elementary/switchboard-plug-wacom/releases/tag/1.0.1"
+      },
+      {
+        "version": "1.0.0",
+        "release_date": "2021-07-27T19:14:26",
+        "title": "switchboard-plug-wacom 1.0.0 Released",
+        "body": "<p>Initial Release!</p>\n",
+        "href": "https://github.com/elementary/switchboard-plug-wacom/releases/tag/1.0.0"
       }
     ],
     "new_commits": 2,
@@ -1550,7 +1557,7 @@
         "href": "https://github.com/elementary/onboarding/releases/tag/1.0"
       }
     ],
-    "new_commits": 16,
+    "new_commits": 17,
     "default_branch": "master"
   },
   {
@@ -5309,6 +5316,13 @@
         "href": "https://github.com/elementary/wingpanel-indicator-power/releases/tag/2.2.0"
       },
       {
+        "version": "2.1.5",
+        "release_date": "2020-04-03T18:39:31",
+        "title": "wingpanel-indicator-power 2.1.5 Released",
+        "body": "<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/wingpanel-indicator-power/releases/tag/2.1.5"
+      },
+      {
         "version": "2.1.4",
         "release_date": "2019-01-29T11:23:47",
         "title": "Wingpanel Power Indicator 2.1.4 Released",
@@ -5321,6 +5335,13 @@
         "title": "Wingpanel Power Indicator 2.1.3 Released",
         "body": "wingpanel-power-indicator 2.1.3 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/wingpanel-indicator-power/issues?q=is%3Aclosed+milestone%3A2.1.3).",
         "href": "https://github.com/elementary/wingpanel-indicator-power/releases/tag/2.1.3"
+      },
+      {
+        "version": "2.1.2",
+        "release_date": "2018-06-19T01:15:42",
+        "title": "Wingpanel Power Indicator 2.1.2 Released",
+        "body": "wingpanel-indicator-power 2.1.2 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/wingpanel-indicator-power/issues?q=is%3Aclosed+milestone%3A2.1.2).",
+        "href": "https://github.com/elementary/wingpanel-indicator-power/releases/tag/2.1.2"
       },
       {
         "version": "2.1.1",
