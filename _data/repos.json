@@ -3839,6 +3839,13 @@
         "href": "https://github.com/elementary/code/releases/tag/3.1.0"
       },
       {
+        "version": "3.0.2",
+        "release_date": "2019-01-03T06:34:28",
+        "title": "Code 3.0.2 Released",
+        "body": "Code 3.0.2 is out!\r\n\r\nChanges:\r\n* Smarter file saving behavior\r\n* File saving fixes\r\n* Don't add temporary files to tab restore",
+        "href": "https://github.com/elementary/code/releases/tag/3.0.2"
+      },
+      {
         "version": "3.0.1",
         "release_date": "2018-11-30T14:06:36",
         "title": "Code 3.0.1 Released",
