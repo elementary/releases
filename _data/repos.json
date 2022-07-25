@@ -6611,13 +6611,6 @@
         "href": "https://github.com/elementary/debian-test-package/releases/tag/v1.0.4"
       },
       {
-        "version": "v1.0.3",
-        "release_date": "2016-03-03T08:04:38",
-        "title": "New Test",
-        "body": "Testing some more stuff\n",
-        "href": "https://github.com/elementary/debian-test-package/releases/tag/v1.0.3"
-      },
-      {
         "version": "v1.0.2",
         "release_date": "2015-06-14T12:17:23",
         "title": "Testing some new things",
