@@ -2859,13 +2859,6 @@
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.4.1"
       },
       {
-        "version": "2.4.0",
-        "release_date": "2020-08-07T18:14:32",
-        "title": "switchboard-plug-keyboard 2.4.0 Released",
-        "body": "<p>Add a view to configure input methods</p>\n<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.4.0"
-      },
-      {
         "version": "2.3.6",
         "release_date": "2020-04-01T23:34:57",
         "title": "switchboard-plug-keyboard 2.3.6 Released",
@@ -2878,13 +2871,6 @@
         "title": "Switchboard Keyboard Plug 2.3.5 Released",
         "body": "switchboard-plug-keyboard 2.3.5 is out!\r\n\r\nChanges:\r\n* Search keyword improvements\r\n* Added window `Close` keybinding option\r\n* Keyboard navigation fix\r\n* Build system fix for `gnomekbdui` dependency\r\n* More accurate and consistent labels\r\n* Change appdata id to `io.elementary.switchboard.keyboard`\r\n* Updated translations",
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.3.5"
-      },
-      {
-        "version": "2.3.4",
-        "release_date": "2018-10-16T00:27:00",
-        "title": "Switchboard Keyboard Plug 2.3.4 Released",
-        "body": "switchboard-plug-keyboard 2.3.4 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-keyboard/issues?q=is%3Aclosed+milestone%3A2.3.4).",
-        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.3.4"
       },
       {
         "version": "0.3.3",
