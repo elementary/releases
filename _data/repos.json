@@ -1788,6 +1788,13 @@
         "href": "https://github.com/elementary/terminal/releases/tag/5.3.5"
       },
       {
+        "version": "5.3.4",
+        "release_date": "2019-03-29T10:45:31",
+        "title": "Terminal 5.3.4 Released",
+        "body": "Terminal 5.3.4 is out!\r\n\r\nChanges:\r\n* Return focus after popover menu closes\r\n* Prevent search and style buttons from receiving focus\r\n* Hide the cursor while typing\r\n* Updated translations",
+        "href": "https://github.com/elementary/terminal/releases/tag/5.3.4"
+      },
+      {
         "version": "5.3.3",
         "release_date": "2018-12-06T22:57:14",
         "title": "Terminal 5.3.3 Released",
