@@ -4889,6 +4889,13 @@
         "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.1.1"
       },
       {
+        "version": "2.1.0",
+        "release_date": "2018-06-19T00:35:49",
+        "title": "Wingpanel Sound Indicator 2.1.0 Released",
+        "body": "wingpanel-indicator-sound 2.1.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/wingpanel-indicator-sound/issues?q=is%3Aclosed+milestone%3A2.1.0).",
+        "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.1.0"
+      },
+      {
         "version": "2.0.5",
         "release_date": "2017-05-03T02:10:51",
         "title": "Wingpanel Sound Indicator 2.0.5 Released",
