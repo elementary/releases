@@ -6552,20 +6552,6 @@
     "default_branch": "master"
   },
   {
-    "name": "keyring",
-    "releases": [
-      {
-        "version": "0.1",
-        "release_date": "2017-05-17T10:42:29",
-        "title": "Keyring 0.1 Released",
-        "body": "This package contains the public key for https://packages.elementary.io",
-        "href": "https://github.com/elementary/keyring/releases/tag/0.1"
-      }
-    ],
-    "new_commits": 0,
-    "default_branch": "main"
-  },
-  {
     "name": "debian-test-package",
     "releases": [
       {
