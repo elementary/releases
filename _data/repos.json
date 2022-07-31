@@ -969,7 +969,7 @@
         "href": "https://github.com/elementary/tasks/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 30,
+    "new_commits": 37,
     "default_branch": "master"
   },
   {
@@ -3475,7 +3475,7 @@
         "href": "https://github.com/elementary/stylesheet/releases/tag/5.0.4"
       }
     ],
-    "new_commits": 25,
+    "new_commits": 26,
     "default_branch": "master"
   },
   {
@@ -3552,7 +3552,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 63,
+    "new_commits": 64,
     "default_branch": "master"
   },
   {
