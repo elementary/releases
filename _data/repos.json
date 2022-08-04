@@ -4756,6 +4756,13 @@
         "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/2.3.2"
       },
       {
+        "version": "2.3.1",
+        "release_date": "2020-04-08T23:17:54",
+        "title": "switchboard-plug-useraccounts 2.3.1 Released",
+        "body": "<ul>\n<li>Show more accurate reasons for locked settings</li>\n<li>Improve reliability of account creation</li>\n<li>Get permission on demand for enabling or disabling accounts</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/2.3.1"
+      },
+      {
         "version": "2.3.0",
         "release_date": "2019-11-15T22:25:40",
         "title": "switchboard-plug-useraccounts 2.3.0 Released",
@@ -4775,6 +4782,13 @@
         "title": "Switchboard User Accounts Plug 2.2.0 Released",
         "body": "switchboard-plug-useraccounts 2.2.0 is out!\r\n\r\nChanges:\r\n* Fix guest session controls\r\n* New search keywords",
         "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/2.2.0"
+      },
+      {
+        "version": "2.1.7",
+        "release_date": "2018-10-08T18:20:19",
+        "title": "Switchboard User Accounts Plug 2.1.7 Released",
+        "body": "switchboard-plug-useraccounts 2.1.7 is out!\r\n\r\nThis list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-useraccounts/issues?q=is%3Aclosed+milestone%3A2.1.7).",
+        "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/2.1.7"
       },
       {
         "version": "0.1.6",
