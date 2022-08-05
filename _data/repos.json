@@ -2229,7 +2229,7 @@
         "href": "https://github.com/elementary/photos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 34,
+    "new_commits": 35,
     "default_branch": "master"
   },
   {
@@ -4509,6 +4509,13 @@
         "title": "Wingpanel Date & Time Indicator 2.1.2 Released",
         "body": "wingpanel-indicator-datetime 2.1.2 is out!\r\n\r\nChanges:\r\n* Accurately select current day each open\r\n* Updated translations",
         "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.1.2"
+      },
+      {
+        "version": "2.1.1",
+        "release_date": "2018-10-02T11:40:06",
+        "title": "Wingpanel Date & Time Indicator 2.1.1 Released",
+        "body": "wingpanel-indicator-datetime 2.1.1 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/wingpanel-indicator-datetime/issues?q=is%3Aclosed+milestone%3A2.1.1).",
+        "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.1.1"
       },
       {
         "version": "2.1.0",
