@@ -108,7 +108,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.0.1"
       }
     ],
-    "new_commits": 15,
+    "new_commits": 16,
     "default_branch": "master"
   },
   {
@@ -344,13 +344,6 @@
         "title": "camera 6.1.0 Released",
         "body": "<p>New features:</p>\n<ul>\n<li>Take a photo or video on secondary-click</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Ensure brightness, contrast, and mirror continue working after taking a photo</li>\n<li>Wider hardware compatibility (e.g. StarBook Mk V)</li>\n<li>Ensure photos saved properly</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Improved performance and reliability</li>\n<li>Updated translations</li>\n</ul>\n",
         "href": "https://github.com/elementary/camera/releases/tag/6.1.0"
-      },
-      {
-        "version": "6.0.3",
-        "release_date": "2021-12-13T22:23:22",
-        "title": "camera 6.0.3 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Update to elementary runtime 6.1</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/camera/releases/tag/6.0.3"
       },
       {
         "version": "6.0.2",
@@ -633,7 +626,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 26,
+    "new_commits": 27,
     "default_branch": "master"
   },
   {
@@ -717,7 +710,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 11,
+    "new_commits": 12,
     "default_branch": "master"
   },
   {
@@ -2229,7 +2222,7 @@
         "href": "https://github.com/elementary/photos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 30,
+    "new_commits": 31,
     "default_branch": "master"
   },
   {
@@ -4042,7 +4035,7 @@
         "href": "https://github.com/elementary/wingpanel/releases/tag/2.0.3"
       }
     ],
-    "new_commits": 14,
+    "new_commits": 15,
     "default_branch": "master"
   },
   {
@@ -4427,7 +4420,7 @@
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
       }
     ],
-    "new_commits": 39,
+    "new_commits": 40,
     "default_branch": "master"
   },
   {
@@ -4532,7 +4525,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 36,
+    "new_commits": 37,
     "default_branch": "master"
   },
   {
@@ -5204,7 +5197,7 @@
         "href": "https://github.com/elementary/sideload/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 92,
+    "new_commits": 107,
     "default_branch": "master"
   },
   {
@@ -5288,7 +5281,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 55,
+    "new_commits": 56,
     "default_branch": "master"
   },
   {
@@ -5589,7 +5582,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-keyboard/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 68,
+    "new_commits": 69,
     "default_branch": "master"
   },
   {
@@ -5806,7 +5799,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-nightlight/releases/tag/2.0"
       }
     ],
-    "new_commits": 61,
+    "new_commits": 62,
     "default_branch": "master"
   },
   {
@@ -6037,7 +6030,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-session/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 69,
+    "new_commits": 70,
     "default_branch": "master"
   },
   {
