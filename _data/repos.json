@@ -129,7 +129,7 @@
         "href": "https://github.com/elementary/switchboard-plug-wacom/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 5,
+    "new_commits": 6,
     "default_branch": "master"
   },
   {
@@ -1718,7 +1718,7 @@
         "href": "https://github.com/elementary/switchboard-plug-power/releases/tag/0.3.1"
       }
     ],
-    "new_commits": 12,
+    "new_commits": 13,
     "default_branch": "master"
   },
   {
@@ -3762,7 +3762,7 @@
         "href": "https://github.com/elementary/switchboard-plug-about/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 12,
+    "new_commits": 13,
     "default_branch": "master"
   },
   {
@@ -6037,7 +6037,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-session/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 71,
+    "new_commits": 72,
     "default_branch": "master"
   },
   {
