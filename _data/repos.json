@@ -129,7 +129,7 @@
         "href": "https://github.com/elementary/switchboard-plug-wacom/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 4,
+    "new_commits": 5,
     "default_branch": "master"
   },
   {
@@ -325,7 +325,7 @@
         "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
       }
     ],
-    "new_commits": 35,
+    "new_commits": 36,
     "default_branch": "master"
   },
   {
@@ -5148,7 +5148,7 @@
         "href": "https://github.com/elementary/switchboard-plug-applications/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 41,
+    "new_commits": 42,
     "default_branch": "master"
   },
   {
@@ -5659,7 +5659,7 @@
         "href": "https://github.com/elementary/switchboard-plug-datetime/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 53,
+    "new_commits": 54,
     "default_branch": "master"
   },
   {
@@ -5897,7 +5897,7 @@
         "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 53,
+    "new_commits": 55,
     "default_branch": "master"
   },
   {
