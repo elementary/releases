@@ -1032,6 +1032,13 @@
         "href": "https://github.com/elementary/videos/releases/tag/2.8.0"
       },
       {
+        "version": "2.7.3",
+        "release_date": "2021-07-14T19:10:48",
+        "title": "videos 2.7.3 Released",
+        "body": "<p>Other updates:</p>\n<ul>\n<li>Fix an issue with accessing library view</li>\n<li>Fix an issue with returning to the welcome page while playing multiple videos</li>\n<li>Prevent sleep while playing a video</li>\n<li>Translation updates</li>\n</ul>\n",
+        "href": "https://github.com/elementary/videos/releases/tag/2.7.3"
+      },
+      {
         "version": "2.7.2",
         "release_date": "2020-07-01T16:26:26",
         "title": "videos 2.7.2 Released",
@@ -1086,6 +1093,13 @@
         "title": "Audience 0.2.5 Released",
         "body": "Audience 0.2.5 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/videos/issues?q=is%3Aclosed+milestone%3A0.2.5).",
         "href": "https://github.com/elementary/videos/releases/tag/0.2.5"
+      },
+      {
+        "version": "0.2.4",
+        "release_date": "2017-08-12T02:05:24",
+        "title": "Audience 0.2.4 Released",
+        "body": "Audience 0.2.4 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/videos/milestone/3).",
+        "href": "https://github.com/elementary/videos/releases/tag/0.2.4"
       },
       {
         "version": "0.2.3",
@@ -1396,7 +1410,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 55,
+    "new_commits": 56,
     "default_branch": "master"
   },
   {
