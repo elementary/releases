@@ -3489,20 +3489,6 @@
         "href": "https://github.com/elementary/gala/releases/tag/6.3.1"
       },
       {
-        "version": "6.3.0",
-        "release_date": "2021-11-23T20:22:23",
-        "title": "gala 6.3.0 Released",
-        "body": "<p>Fixes:</p>\n<ul>\n<li>Fix shadow clipping on server-side decorated windows</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Support for high-resolution scroll events</li>\n<li>Redesigned Alt + Tab switcher</li>\n<li>Dim the parents of modal dialogs</li>\n<li>Dialogs fall down on parents instead of shooting out</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/gala/releases/tag/6.3.0"
-      },
-      {
-        "version": "6.2.1",
-        "release_date": "2021-09-29T17:20:47",
-        "title": "Gala 6.2.1 Released",
-        "body": "<p>Improvements:</p>\r\n<ul>\r\n<li>Fix a potential crash when taking screenshots</li>\r\n<li>Updated translations</li>\r\n</ul>",
-        "href": "https://github.com/elementary/gala/releases/tag/6.2.1"
-      },
-      {
         "version": "6.2.0",
         "release_date": "2021-09-22T20:42:08",
         "title": "Gala 6.2.0 Released",
@@ -3543,13 +3529,6 @@
         "title": "gala 3.3.0 Released",
         "body": "<p>Improvements:</p>\n<ul>\n<li>Don't show Gala Background Services in the dock</li>\n<li>Fixes for media key handling</li>\n<li>Show keyboard shortcuts in HeaderBar menus</li>\n<li>Updated translations</li>\n</ul>\n",
         "href": "https://github.com/elementary/gala/releases/tag/3.3.0"
-      },
-      {
-        "version": "3.2.0",
-        "release_date": "2020-01-07T17:58:30",
-        "title": "gala 3.2.0 Released",
-        "body": "gala 3.2.0 is out! \n\n<p>Improvements:</p>\n<ul>\n<li>Improve window shadows for legacy apps</li>\n<li>Fix potential crash when taking screenshots</li>\n<li>Fix notification position after changing DPI</li>\n<li>Fix animations for moving and maximizing tiled windows</li>\n</ul>\n",
-        "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
     "new_commits": 80,
