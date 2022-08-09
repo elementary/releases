@@ -2131,6 +2131,13 @@
         "href": "https://github.com/elementary/photos/releases/tag/2.7.5"
       },
       {
+        "version": "2.7.4",
+        "release_date": "2022-02-01T18:38:16",
+        "title": "photos 2.7.4 Released",
+        "body": "<p>Fixes:</p>\n<ul>\n<li>Photos taken on the same day show under the same event</li>\n<li>Replace all instances of \"Shotwell\" with \"Photos\"</li>\n<li>Avoid a crash when importing videos</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Translation updates</li>\n</ul>\n",
+        "href": "https://github.com/elementary/photos/releases/tag/2.7.4"
+      },
+      {
         "version": "2.7.3",
         "release_date": "2021-10-26T18:29:34",
         "title": "Photos 2.7.3 Released",
