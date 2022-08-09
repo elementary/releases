@@ -25,7 +25,7 @@ class Repo:
 org = g.get_organization('elementary')
 
 repos = []
-for repo in org.get_repos():
+for repo in org.get_repos(sort="full_name"):
   if repo.archived is False:
     print ('Processing {}...'.format(repo.name))
     try:
