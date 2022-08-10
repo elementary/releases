@@ -4046,6 +4046,34 @@
     "default_branch": "master"
   },
   {
+    "name": "press-kit",
+    "releases": [
+      {
+        "version": "6.1-jolnir",
+        "release_date": "2021-12-17T22:32:27",
+        "title": "6.1 Jólnir",
+        "body": "",
+        "href": "https://github.com/elementary/press-kit/releases/tag/6.1-jolnir"
+      },
+      {
+        "version": "5.1-hera",
+        "release_date": "2019-07-29T18:42:54",
+        "title": "5.1 Hera",
+        "body": "Never made an official release. :upside_down_face: ",
+        "href": "https://github.com/elementary/press-kit/releases/tag/5.1-hera"
+      },
+      {
+        "version": "5.0-juno",
+        "release_date": "2018-10-04T20:05:17",
+        "title": "Juno",
+        "body": "",
+        "href": "https://github.com/elementary/press-kit/releases/tag/5.0-juno"
+      }
+    ],
+    "new_commits": 0,
+    "default_branch": "6.1-jolnir"
+  },
+  {
     "name": "installer",
     "releases": [
       {
@@ -6424,27 +6452,6 @@
     ],
     "new_commits": 21,
     "default_branch": "master"
-  },
-  {
-    "name": "press-kit",
-    "releases": [
-      {
-        "version": "5.1-hera",
-        "release_date": "2019-07-29T18:42:54",
-        "title": "5.1 Hera",
-        "body": "Never made an official release. :upside_down_face: ",
-        "href": "https://github.com/elementary/press-kit/releases/tag/5.1-hera"
-      },
-      {
-        "version": "5.0-juno",
-        "release_date": "2018-10-04T20:05:17",
-        "title": "Juno",
-        "body": "",
-        "href": "https://github.com/elementary/press-kit/releases/tag/5.0-juno"
-      }
-    ],
-    "new_commits": 15,
-    "default_branch": "6.1-jolnir"
   },
   {
     "name": "website",
