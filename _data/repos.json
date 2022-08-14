@@ -3020,13 +3020,6 @@
         "href": "https://github.com/elementary/granite/releases/tag/6.1.2"
       },
       {
-        "version": "6.1.1",
-        "release_date": "2021-08-25T22:06:34",
-        "title": "granite 6.1.1 Released",
-        "body": "<p>Fixes:</p>\n<ul>\n<li>Ensure accel_to_string works with multiple modifiers</li>\n<li>Fix locale issues in Flatpaks</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/granite/releases/tag/6.1.1"
-      },
-      {
         "version": "6.1.0",
         "release_date": "2021-07-13T22:02:51",
         "title": "granite 6.1.0 Released",
@@ -3053,13 +3046,6 @@
         "title": "granite 5.4.0 Released",
         "body": "<p>New features:</p>\n<ul>\n<li>New Settings class to share Pantheon desktop settings with apps</li>\n<li>Introduced Settings.prefers_color_scheme to get a user's color scheme preference, i.e. for a dark style</li>\n</ul>\n<p>Deprecations:</p>\n<ul>\n<li>It is now recommended to use GLib.Settings instead of Granite.Services.Settings</li>\n</ul>\n",
         "href": "https://github.com/elementary/granite/releases/tag/5.4.0"
-      },
-      {
-        "version": "5.3.1",
-        "release_date": "2020-04-02T00:21:23",
-        "title": "granite 5.3.1 Released",
-        "body": "granite 5.3.1 is out! \n\n<p>Improvements:</p>\n<ul>\n<li>Better align labels in settings sidebars</li>\n<li>Make AccelLabel.label settable</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/granite/releases/tag/5.3.1"
       },
       {
         "version": "5.3.0",
@@ -3095,13 +3081,6 @@
         "title": "Granite 5.2.2 Released",
         "body": "Granite 5.2.2 is out!\r\n\r\nChanges:\r\n* Utils: Ignore empty accel strings\r\n* Updated translations",
         "href": "https://github.com/elementary/granite/releases/tag/5.2.2"
-      },
-      {
-        "version": "5.2.1",
-        "release_date": "2018-11-07T19:18:54",
-        "title": "Granite 5.2.1 Released",
-        "body": "Granite 5.2.1 is out!\r\n\r\nChanges:\r\n* Utils: Make accels optional\r\n* Updated translations",
-        "href": "https://github.com/elementary/granite/releases/tag/5.2.1"
       },
       {
         "version": "5.2.0",
