@@ -1305,7 +1305,7 @@
         "href": "https://github.com/elementary/feedback/releases/tag/1.0"
       }
     ],
-    "new_commits": 10,
+    "new_commits": 11,
     "default_branch": "master"
   },
   {
@@ -1571,7 +1571,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 64,
+    "new_commits": 66,
     "default_branch": "master"
   },
   {
@@ -2621,7 +2621,7 @@
         "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.0"
       }
     ],
-    "new_commits": 23,
+    "new_commits": 27,
     "default_branch": "master"
   },
   {
@@ -5218,7 +5218,7 @@
         "href": "https://github.com/elementary/sideload/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 125,
+    "new_commits": 127,
     "default_branch": "master"
   },
   {
