@@ -2600,13 +2600,6 @@
         "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.1.1"
       },
       {
-        "version": "1.1.0",
-        "release_date": "2019-11-15T21:51:50",
-        "title": "shortcut-overlay 1.1.0 Released",
-        "body": "shortcut-overlay 1.1.0 is out! \n\nChanges:\n\n* Add \"Switch Layout\" and \"Close Window\", shortcuts\n* Updated translations\n",
-        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.1.0"
-      },
-      {
         "version": "1.0.1",
         "release_date": "2018-09-17T22:43:39",
         "title": "Shortcut Overlay 1.0.1 Released",
