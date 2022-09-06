@@ -1480,13 +1480,6 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/3.1.1"
       },
       {
-        "version": "3.1.0",
-        "release_date": "2019-01-02T07:14:19",
-        "title": "AppCenter 3.1.0 Released",
-        "body": "AppCenter 3.1.0 is out!\r\n\r\nChanges:\r\n* New categories: `Communication`, `Finance`, `Media Production`\r\n* Add `Math` to `Science` category\r\n* Relax email address validator\r\n* Present update availability more accurately\r\n* Category graphics revamped\r\n* Updated translations",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.1.0"
-      },
-      {
         "version": "3.0.1",
         "release_date": "2018-10-25T11:44:28",
         "title": "AppCenter 3.0.1 Released",
