@@ -2404,8 +2404,8 @@
         "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 12,
-    "default_branch": "master"
+    "new_commits": 13,
+    "default_branch": "main"
   },
   {
     "name": "initial-setup",
@@ -5911,8 +5911,8 @@
         "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 56,
-    "default_branch": "master"
+    "new_commits": 59,
+    "default_branch": "main"
   },
   {
     "name": "switchboard-plug-sharing",
