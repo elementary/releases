@@ -5771,8 +5771,8 @@
         "href": "https://github.com/elementary/switchboard-plug-notifications/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 46,
-    "default_branch": "master"
+    "new_commits": 48,
+    "default_branch": "main"
   },
   {
     "name": "wingpanel-indicator-nightlight",
