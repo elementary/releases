@@ -5491,8 +5491,8 @@
         "href": "https://github.com/elementary/switchboard-plug-a11y/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 79,
-    "default_branch": "master"
+    "new_commits": 80,
+    "default_branch": "main"
   },
   {
     "name": "pantheon-agent-geoclue2",
@@ -6527,7 +6527,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.0"
       }
     ],
-    "new_commits": 5590,
+    "new_commits": 5591,
     "default_branch": "master"
   },
   {
