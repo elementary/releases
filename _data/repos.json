@@ -1879,8 +1879,8 @@
         "href": "https://github.com/elementary/switchboard-plug-power/releases/tag/0.3.1"
       }
     ],
-    "new_commits": 23,
-    "default_branch": "master"
+    "new_commits": 24,
+    "default_branch": "main"
   },
   {
     "name": "capnet-assist",
@@ -5673,8 +5673,8 @@
         "href": "https://github.com/elementary/switchboard-plug-datetime/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 62,
-    "default_branch": "master"
+    "new_commits": 63,
+    "default_branch": "main"
   },
   {
     "name": "switchboard-plug-parental-controls",
