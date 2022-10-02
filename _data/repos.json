@@ -3146,7 +3146,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 31,
+    "new_commits": 32,
     "default_branch": "main"
   },
   {
@@ -3333,6 +3333,13 @@
         "title": "elementary Icons 4.3.0 Released",
         "body": "elementary-icon-theme 4.3.0 is out!\r\n\r\nThe list of issues closed for this release can be found [here](https://github.com/elementary/icons/issues?q=is%3Aclosed+milestone%3A4.3.0).",
         "href": "https://github.com/elementary/icons/releases/tag/4.3.0"
+      },
+      {
+        "version": "4.2.0",
+        "release_date": "2017-07-19T16:50:09",
+        "title": "elementary Icons 4.2.0 Released",
+        "body": "elementary-icon-theme 4.2.0 is out!\r\n\r\nThe list of issues closed for this release can be found [here](https://github.com/elementary/icons/milestone/3?closed=1).",
+        "href": "https://github.com/elementary/icons/releases/tag/4.2.0"
       },
       {
         "version": "4.1.0",
