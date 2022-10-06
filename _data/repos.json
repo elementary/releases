@@ -808,7 +808,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 108,
+    "new_commits": 110,
     "default_branch": "master"
   },
   {
@@ -4455,7 +4455,7 @@
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
       }
     ],
-    "new_commits": 71,
+    "new_commits": 73,
     "default_branch": "master"
   },
   {
@@ -5316,7 +5316,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 73,
+    "new_commits": 74,
     "default_branch": "master"
   },
   {
