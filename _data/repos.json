@@ -150,7 +150,7 @@
         "href": "https://github.com/elementary/iconbrowser/releases/tag/2.0.0"
       }
     ],
-    "new_commits": 1,
+    "new_commits": 2,
     "default_branch": "main"
   },
   {
@@ -2866,7 +2866,7 @@
         "href": "https://github.com/elementary/music/releases/tag/0.4.0.3"
       }
     ],
-    "new_commits": 33,
+    "new_commits": 35,
     "default_branch": "main"
   },
   {
@@ -5323,7 +5323,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 80,
+    "new_commits": 85,
     "default_branch": "master"
   },
   {
