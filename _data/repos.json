@@ -738,7 +738,7 @@
         "href": "https://github.com/elementary/camera/releases/tag/1.0"
       }
     ],
-    "new_commits": 22,
+    "new_commits": 23,
     "default_branch": "master"
   },
   {
@@ -948,7 +948,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 114,
+    "new_commits": 115,
     "default_branch": "master"
   },
   {
@@ -1725,7 +1725,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 156,
+    "new_commits": 157,
     "default_branch": "master"
   },
   {
@@ -3895,7 +3895,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 90,
+    "new_commits": 92,
     "default_branch": "master"
   },
   {
@@ -6548,7 +6548,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.0"
       }
     ],
-    "new_commits": 5624,
+    "new_commits": 5634,
     "default_branch": "master"
   },
   {
