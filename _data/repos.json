@@ -2768,7 +2768,7 @@
         "href": "https://github.com/elementary/photos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 77,
+    "new_commits": 78,
     "default_branch": "master"
   },
   {
@@ -3767,6 +3767,13 @@
         "title": "Switchboard About Plug 2.6.0 Released",
         "body": "switchboard-plug-about 2.6.0 is out!\r\n\r\nChanges:\r\n* Launch new app Feedback for reporting issues\r\n* Hide Check for Updates button when AppCenter is absent\r\n* More specific storage info\r\n* Build system fix for install path\r\n* Don’t show processor architecture\r\n* Updated translations",
         "href": "https://github.com/elementary/switchboard-plug-about/releases/tag/2.6.0"
+      },
+      {
+        "version": "2.5.2",
+        "release_date": "2018-12-04T16:36:36",
+        "title": "Switchboard About Plug 2.5.2 Released",
+        "body": "switchboard-plug-about 2.5.2 is out!\r\n\r\nChanges:\r\n* Support LOGO os-release field\r\n* Updated translations",
+        "href": "https://github.com/elementary/switchboard-plug-about/releases/tag/2.5.2"
       },
       {
         "version": "2.5.1",
