@@ -2096,7 +2096,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 162,
+    "new_commits": 164,
     "default_branch": "master"
   },
   {
@@ -3769,13 +3769,6 @@
         "href": "https://github.com/elementary/switchboard-plug-about/releases/tag/2.6.0"
       },
       {
-        "version": "2.5.2",
-        "release_date": "2018-12-04T16:36:36",
-        "title": "Switchboard About Plug 2.5.2 Released",
-        "body": "switchboard-plug-about 2.5.2 is out!\r\n\r\nChanges:\r\n* Support LOGO os-release field\r\n* Updated translations",
-        "href": "https://github.com/elementary/switchboard-plug-about/releases/tag/2.5.2"
-      },
-      {
         "version": "2.5.1",
         "release_date": "2018-10-15T23:30:48",
         "title": "Switchboard About Plug 2.5.1 Released",
@@ -4483,7 +4476,7 @@
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
       }
     ],
-    "new_commits": 80,
+    "new_commits": 81,
     "default_branch": "master"
   },
   {
@@ -5344,7 +5337,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 108,
+    "new_commits": 109,
     "default_branch": "master"
   },
   {
