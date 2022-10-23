@@ -31,6 +31,13 @@
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.6.0"
       },
       {
+        "version": "2.5.1",
+        "release_date": "2021-09-22T20:38:10",
+        "title": "Keyboard Settings 2.5.1 Released",
+        "body": "Minor updates:\r\n* Ensure IBus automatically starts on login when needed\r\n* Updated translations",
+        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.5.1"
+      },
+      {
         "version": "2.5.0",
         "release_date": "2021-07-14T21:00:05",
         "title": "switchboard-plug-keyboard 2.5.0 Released",
