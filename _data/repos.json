@@ -1,5 +1,110 @@
 [
   {
+    "name": "notifications",
+    "releases": [
+      {
+        "version": "6.0.3",
+        "release_date": "2022-10-26T16:56:20",
+        "title": "notifications 6.0.3 Released",
+        "body": "<p>Minor Updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/notifications/releases/tag/6.0.3"
+      },
+      {
+        "version": "6.0.2",
+        "release_date": "2022-06-09T20:42:33",
+        "title": "notifications 6.0.2 Released",
+        "body": "<p>Minor Updates:</p>\n<ul>\n<li>Fix missing icon when set from icon name</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/notifications/releases/tag/6.0.2"
+      },
+      {
+        "version": "6.0.1",
+        "release_date": "2022-04-07T06:42:06",
+        "title": "notifications 6.0.1 Released",
+        "body": "<p>Minor Updates:</p>\n<ul>\n<li>Performance improvements</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/notifications/releases/tag/6.0.1"
+      },
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-19T16:46:35",
+        "title": "notifications 6.0.0 Released",
+        "body": "<p>Complete rewrite:</p>\n<ul>\n<li>Support the dark style</li>\n<li>Action buttons</li>\n<li>Optional badge icons</li>\n<li>Automatically badge images with app icons</li>\n<li>Swipe away to dismiss</li>\n</ul>\n",
+        "href": "https://github.com/elementary/notifications/releases/tag/6.0.0"
+      }
+    ],
+    "new_commits": 0,
+    "default_branch": "master"
+  },
+  {
+    "name": "shortcut-overlay",
+    "releases": [
+      {
+        "version": "2.0.1",
+        "release_date": "2022-10-26T16:51:28",
+        "title": "shortcut-overlay 2.0.1 Released",
+        "body": "<ul>\n<li>Show in the applications menu</li>\n<li>Replace keyboard settings button with a labeled link button</li>\n<li>Show on-screen keyboard shortcut</li>\n<li>Close with the shortcut Ctrl + Q</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/2.0.1"
+      },
+      {
+        "version": "2.0.0",
+        "release_date": "2022-05-12T16:35:54",
+        "title": "shortcut-overlay 2.0.0 Released",
+        "body": "<ul>\n<li>Update for OS 7 and Gtk 4</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/2.0.0"
+      },
+      {
+        "version": "1.2.1",
+        "release_date": "2021-10-29T23:12:16",
+        "title": "Shortcut Overlay 1.2.1 Released",
+        "body": "<ul>\r\n<li>Fix the app not launching if a shortcut key is set to blank</li>\r\n<li>Updated translations</li>\r\n</ul>",
+        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.2.1"
+      },
+      {
+        "version": "1.2.0",
+        "release_date": "2021-07-14T18:03:45",
+        "title": "shortcut-overlay 1.2.0 Released",
+        "body": "<ul>\n<li>Add screenshot shortcuts</li>\n<li>Fix issues with multiple windows</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.2.0"
+      },
+      {
+        "version": "1.1.2",
+        "release_date": "2020-05-28T18:52:24",
+        "title": "shortcut-overlay 1.1.2 Released",
+        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.1.2"
+      },
+      {
+        "version": "1.1.1",
+        "release_date": "2020-04-03T18:43:00",
+        "title": "shortcut-overlay 1.1.1 Released",
+        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.1.1"
+      },
+      {
+        "version": "1.1.0",
+        "release_date": "2019-11-15T21:51:50",
+        "title": "shortcut-overlay 1.1.0 Released",
+        "body": "shortcut-overlay 1.1.0 is out! \n\nChanges:\n\n* Add \"Switch Layout\" and \"Close Window\", shortcuts\n* Updated translations\n",
+        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.1.0"
+      },
+      {
+        "version": "1.0.1",
+        "release_date": "2018-09-17T22:43:39",
+        "title": "Shortcut Overlay 1.0.1 Released",
+        "body": "Shortcut Overlay 1.0.1 is out!\r\n\r\nChanges:\r\n* Delay destroying window to avoid triggering a re-open\r\n* New translations",
+        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.0.1"
+      },
+      {
+        "version": "1.0",
+        "release_date": "2018-06-05T08:43:11",
+        "title": "Shortcut Overlay 1.0 Released",
+        "body": "Shortcut Overlay 1.0 is out!\r\n\r\nThis is the initial release.",
+        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.0"
+      }
+    ],
+    "new_commits": 0,
+    "default_branch": "master"
+  },
+  {
     "name": "switchboard-plug-security-privacy",
     "releases": [
       {
@@ -731,7 +836,7 @@
         "href": "https://github.com/elementary/pantheon-agent-geoclue2/releases/tag/1.0"
       }
     ],
-    "new_commits": 2,
+    "new_commits": 3,
     "default_branch": "master"
   },
   {
@@ -2285,7 +2390,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 2,
+    "new_commits": 3,
     "default_branch": "main"
   },
   {
@@ -3227,34 +3332,6 @@
     "default_branch": "master"
   },
   {
-    "name": "notifications",
-    "releases": [
-      {
-        "version": "6.0.2",
-        "release_date": "2022-06-09T20:42:33",
-        "title": "notifications 6.0.2 Released",
-        "body": "<p>Minor Updates:</p>\n<ul>\n<li>Fix missing icon when set from icon name</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/notifications/releases/tag/6.0.2"
-      },
-      {
-        "version": "6.0.1",
-        "release_date": "2022-04-07T06:42:06",
-        "title": "notifications 6.0.1 Released",
-        "body": "<p>Minor Updates:</p>\n<ul>\n<li>Performance improvements</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/notifications/releases/tag/6.0.1"
-      },
-      {
-        "version": "6.0.0",
-        "release_date": "2021-07-19T16:46:35",
-        "title": "notifications 6.0.0 Released",
-        "body": "<p>Complete rewrite:</p>\n<ul>\n<li>Support the dark style</li>\n<li>Action buttons</li>\n<li>Optional badge icons</li>\n<li>Automatically badge images with app icons</li>\n<li>Swipe away to dismiss</li>\n</ul>\n",
-        "href": "https://github.com/elementary/notifications/releases/tag/6.0.0"
-      }
-    ],
-    "new_commits": 23,
-    "default_branch": "master"
-  },
-  {
     "name": "videos",
     "releases": [
       {
@@ -3398,7 +3475,7 @@
         "href": "https://github.com/elementary/feedback/releases/tag/1.0"
       }
     ],
-    "new_commits": 20,
+    "new_commits": 21,
     "default_branch": "master"
   },
   {
@@ -3909,7 +3986,7 @@
         "href": "https://github.com/elementary/capnet-assist/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 13,
+    "new_commits": 14,
     "default_branch": "master"
   },
   {
@@ -4382,69 +4459,6 @@
     "default_branch": "main"
   },
   {
-    "name": "shortcut-overlay",
-    "releases": [
-      {
-        "version": "2.0.0",
-        "release_date": "2022-05-12T16:35:54",
-        "title": "shortcut-overlay 2.0.0 Released",
-        "body": "<ul>\n<li>Update for OS 7 and Gtk 4</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/2.0.0"
-      },
-      {
-        "version": "1.2.1",
-        "release_date": "2021-10-29T23:12:16",
-        "title": "Shortcut Overlay 1.2.1 Released",
-        "body": "<ul>\r\n<li>Fix the app not launching if a shortcut key is set to blank</li>\r\n<li>Updated translations</li>\r\n</ul>",
-        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.2.1"
-      },
-      {
-        "version": "1.2.0",
-        "release_date": "2021-07-14T18:03:45",
-        "title": "shortcut-overlay 1.2.0 Released",
-        "body": "<ul>\n<li>Add screenshot shortcuts</li>\n<li>Fix issues with multiple windows</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.2.0"
-      },
-      {
-        "version": "1.1.2",
-        "release_date": "2020-05-28T18:52:24",
-        "title": "shortcut-overlay 1.1.2 Released",
-        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.1.2"
-      },
-      {
-        "version": "1.1.1",
-        "release_date": "2020-04-03T18:43:00",
-        "title": "shortcut-overlay 1.1.1 Released",
-        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.1.1"
-      },
-      {
-        "version": "1.1.0",
-        "release_date": "2019-11-15T21:51:50",
-        "title": "shortcut-overlay 1.1.0 Released",
-        "body": "shortcut-overlay 1.1.0 is out! \n\nChanges:\n\n* Add \"Switch Layout\" and \"Close Window\", shortcuts\n* Updated translations\n",
-        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.1.0"
-      },
-      {
-        "version": "1.0.1",
-        "release_date": "2018-09-17T22:43:39",
-        "title": "Shortcut Overlay 1.0.1 Released",
-        "body": "Shortcut Overlay 1.0.1 is out!\r\n\r\nChanges:\r\n* Delay destroying window to avoid triggering a re-open\r\n* New translations",
-        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.0.1"
-      },
-      {
-        "version": "1.0",
-        "release_date": "2018-06-05T08:43:11",
-        "title": "Shortcut Overlay 1.0 Released",
-        "body": "Shortcut Overlay 1.0 is out!\r\n\r\nThis is the initial release.",
-        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.0"
-      }
-    ],
-    "new_commits": 46,
-    "default_branch": "master"
-  },
-  {
     "name": "music",
     "releases": [
       {
@@ -4735,7 +4749,7 @@
         "href": "https://github.com/elementary/greeter/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 48,
+    "new_commits": 49,
     "default_branch": "master"
   },
   {
@@ -4819,7 +4833,7 @@
         "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 6,
+    "new_commits": 7,
     "default_branch": "master"
   },
   {
@@ -5127,7 +5141,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 98,
+    "new_commits": 99,
     "default_branch": "master"
   },
   {
@@ -5155,7 +5169,7 @@
         "href": "https://github.com/elementary/portals/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 49,
+    "new_commits": 50,
     "default_branch": "main"
   },
   {
@@ -6751,7 +6765,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.0"
       }
     ],
-    "new_commits": 5660,
+    "new_commits": 5661,
     "default_branch": "master"
   },
   {
