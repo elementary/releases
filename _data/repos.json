@@ -283,6 +283,13 @@
         "href": "https://github.com/elementary/portals/releases/tag/1.2.0"
       },
       {
+        "version": "1.1.0",
+        "release_date": "2022-01-26T18:02:09",
+        "title": "portals 1.1.0 Released",
+        "body": "<p>New Features:</p>\n<ul>\n<li>Add a destructive action option for access portals</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Fix a crash when opening apps in the AppChooser portal</li>\n<li>Fix window focus and position for Access portals with no parent window</li>\n<li>Set AppChooser portal as a modal dialog for proper animations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/portals/releases/tag/1.1.0"
+      },
+      {
         "version": "1.0.1",
         "release_date": "2021-10-28T08:07:25",
         "title": "Portals 1.0.1 Released!",
