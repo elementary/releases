@@ -4168,13 +4168,6 @@
         "href": "https://github.com/elementary/calendar/releases/tag/6.1.0"
       },
       {
-        "version": "6.0.3",
-        "release_date": "2021-10-26T17:57:07",
-        "title": "Calendar 6.0.3 Released",
-        "body": "<p>Fixes:</p>\r\n<ul>\r\n<li>Ensure Calendar runs in the background on startup</li>\r\n<li>Fix memory leak when getting timezone information</li>\r\n<li>Reliably read Windows-style timezones</li>\r\n</ul>\r\n<p>Minor Updates:</p>\r\n<ul>\r\n<li>Updated translations</li>\r\n</ul>",
-        "href": "https://github.com/elementary/calendar/releases/tag/6.0.3"
-      },
-      {
         "version": "6.0.2",
         "release_date": "2021-09-22T20:45:44",
         "title": "Calendar 6.0.2 Released",
