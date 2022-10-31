@@ -5925,13 +5925,6 @@
         "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.1.8"
       },
       {
-        "version": "2.1.7",
-        "release_date": "2021-07-14T20:09:49",
-        "title": "wingpanel-indicator-bluetooth 2.1.7 Released",
-        "body": "<p>Add tooltip on hover</p>\n<p>Add a fallback device name for headphones</p>\n<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.1.7"
-      },
-      {
         "version": "2.1.6",
         "release_date": "2021-01-05T21:59:26",
         "title": "wingpanel-indicator-bluetooth 2.1.6 Released",
