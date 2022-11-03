@@ -2362,13 +2362,6 @@
         "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.2.1"
       },
       {
-        "version": "2.2.0",
-        "release_date": "2018-06-07T09:24:46",
-        "title": "Wingpanel Network Indicator 2.2.0 Released",
-        "body": "wingpanel-indicator-network 2.2.0 is out!\r\n\r\nThe list off issues closed by this release can be found [here](https://github.com/elementary/wingpanel-indicator-network/issues?q=is%3Aclosed+milestone%3A2.2.0).",
-        "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.2.0"
-      },
-      {
         "version": "2.1.1",
         "release_date": "2017-09-18T17:10:45",
         "title": "Wingpanel Network Indicator 2.1.1 Released",
