@@ -3111,6 +3111,13 @@
         "href": "https://github.com/elementary/granite/releases/tag/5.3.1"
       },
       {
+        "version": "5.3.0",
+        "release_date": "2019-12-13T19:42:03",
+        "title": "granite 5.3.0 Released",
+        "body": "granite 5.3.0 is out! \r\n\r\n<p>New features:</p>\r\n<ul>\r\n<li>Add tooltips to source list items and their actions</li>\r\n<li>New AccelLabel widget for use in menus and popovers</li>\r\n</ul>\r\n<p>Improvements:</p>\r\n<ul>\r\n<li>Delay tab resizing when closing tabs</li>\r\n<li>Updated translations</li>\r\n</ul>\r\n",
+        "href": "https://github.com/elementary/granite/releases/tag/5.3.0"
+      },
+      {
         "version": "5.2.5",
         "release_date": "2019-09-05T23:49:51",
         "title": "Granite 5.2.5 Released",
@@ -3130,6 +3137,13 @@
         "title": "Granite 5.2.3 Released",
         "body": "Granite 5.2.3 is out!\r\n\r\nChanges:\r\n* Switch from CMake to Meson build system\r\n* DateTime: Strip leading spaces from time formats\r\n* Support Gdk.Key.Return for Enter markup\r\n* MessageDialog: Add show_error_expander method\r\n* Add function `history_is_enabled`\r\n* Fix typos in documentation\r\n* TimePicker: Use more compact boolean comparison syntax\r\n* Updated translations",
         "href": "https://github.com/elementary/granite/releases/tag/5.2.3"
+      },
+      {
+        "version": "5.2.2",
+        "release_date": "2018-12-17T13:02:11",
+        "title": "Granite 5.2.2 Released",
+        "body": "Granite 5.2.2 is out!\r\n\r\nChanges:\r\n* Utils: Ignore empty accel strings\r\n* Updated translations",
+        "href": "https://github.com/elementary/granite/releases/tag/5.2.2"
       },
       {
         "version": "5.2.1",
@@ -6786,7 +6800,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.0"
       }
     ],
-    "new_commits": 5662,
+    "new_commits": 5663,
     "default_branch": "master"
   },
   {
