@@ -4595,13 +4595,6 @@
         "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.5.0"
       },
       {
-        "version": "2.4.1",
-        "release_date": "2018-12-19T06:28:04",
-        "title": "Switchboard Locale Plug 2.4.1 Released",
-        "body": "switchboard-plug-locale 2.4.1 is out!\r\n\r\nChanges:\r\n* Better search keywords\r\n* Don't restrict locale length\r\n* Updated translations",
-        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.4.1"
-      },
-      {
         "version": "2.4.0",
         "release_date": "2018-10-15T21:26:12",
         "title": "Switchboard Locale Plug 2.4.0 Released",
