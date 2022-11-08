@@ -5393,13 +5393,6 @@
         "href": "https://github.com/elementary/screenshot/releases/tag/6.0.1"
       },
       {
-        "version": "6.0.0",
-        "release_date": "2021-07-21T02:47:04",
-        "title": "screenshot 6.0.0 Released",
-        "body": "<ul>\n<li>Support the dark style</li>\n<li>Drag and Drop the preview image from the save dialog</li>\n<li>Drag to move the window from anywhere</li>\n<li>Show details for errors if they occur</li>\n<li>Translation updates</li>\n</ul>\n",
-        "href": "https://github.com/elementary/screenshot/releases/tag/6.0.0"
-      },
-      {
         "version": "1.7.1",
         "release_date": "2020-01-21T19:05:32",
         "title": "screenshot 1.7.1 Released",
