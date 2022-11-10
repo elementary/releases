@@ -5183,6 +5183,13 @@
         "href": "https://github.com/elementary/code/releases/tag/3.1.1"
       },
       {
+        "version": "3.1.0",
+        "release_date": "2019-03-06T11:14:42",
+        "title": "Code 3.1.0 Released",
+        "body": "Code 3.1.0 is out!\r\n\r\nChanges:\r\n* Fix `New Window` desktop action behavior\r\n* Properly synchronize `Ctrl+N` key presses with number of new documents spawned\r\n* Build system fix for `editorconfig` dependency\r\n* Add `Change Branch` context menu item\r\n* Avoid possible startup crash related to how plugins load\r\n* Updated translations",
+        "href": "https://github.com/elementary/code/releases/tag/3.1.0"
+      },
+      {
         "version": "3.0.2",
         "release_date": "2019-01-03T06:34:28",
         "title": "Code 3.0.2 Released",
