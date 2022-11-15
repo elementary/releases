@@ -80,7 +80,7 @@
         "href": "https://github.com/elementary/iconbrowser/releases/tag/2.0.0"
       }
     ],
-    "new_commits": 1,
+    "new_commits": 2,
     "default_branch": "main"
   },
   {
@@ -297,7 +297,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 11,
+    "new_commits": 14,
     "default_branch": "master"
   },
   {
@@ -1564,7 +1564,7 @@
         "href": "https://github.com/elementary/initial-setup/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 10,
+    "new_commits": 11,
     "default_branch": "master"
   },
   {
@@ -3832,7 +3832,7 @@
         "href": "https://github.com/elementary/tasks/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 237,
+    "new_commits": 253,
     "default_branch": "master"
   },
   {
@@ -4063,7 +4063,7 @@
         "href": "https://github.com/elementary/mail/releases/tag/1.0.6"
       }
     ],
-    "new_commits": 50,
+    "new_commits": 51,
     "default_branch": "master"
   },
   {
@@ -5274,7 +5274,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 106,
+    "new_commits": 116,
     "default_branch": "master"
   },
   {
@@ -6016,7 +6016,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 133,
+    "new_commits": 134,
     "default_branch": "master"
   },
   {
