@@ -4469,6 +4469,13 @@
         "href": "https://github.com/elementary/videos/releases/tag/0.2.6"
       },
       {
+        "version": "0.2.5",
+        "release_date": "2018-01-08T19:53:24",
+        "title": "Audience 0.2.5 Released",
+        "body": "Audience 0.2.5 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/videos/issues?q=is%3Aclosed+milestone%3A0.2.5).",
+        "href": "https://github.com/elementary/videos/releases/tag/0.2.5"
+      },
+      {
         "version": "0.2.4",
         "release_date": "2017-08-12T02:05:24",
         "title": "Audience 0.2.4 Released",
