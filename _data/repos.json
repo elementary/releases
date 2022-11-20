@@ -2537,6 +2537,13 @@
         "href": "https://github.com/elementary/switchboard-plug-printers/releases/tag/2.1.9"
       },
       {
+        "version": "2.1.8",
+        "release_date": "2020-04-03T20:26:40",
+        "title": "switchboard-plug-printers 2.1.8 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-printers/releases/tag/2.1.8"
+      },
+      {
         "version": "2.1.7",
         "release_date": "2019-11-15T22:46:44",
         "title": "switchboard-plug-printers 2.1.7 Released",
