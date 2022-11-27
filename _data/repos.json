@@ -6198,6 +6198,13 @@
         "href": "https://github.com/elementary/switchboard-plug-datetime/releases/tag/2.1.7"
       },
       {
+        "version": "2.1.6",
+        "release_date": "2019-08-15T00:13:24",
+        "title": "Switchboard Date & Time Plug 2.1.6 Released",
+        "body": "switchboard-plug-datetime 2.1.6 is out!\r\n\r\n* Support TimeFormat of AccountsService\r\n* Remove deprecated timezone map\r\n* Automatic timezone is now a button and a respected setting\r\n* Fix week number visibility\r\n* Add appdata\r\n* Updated translations",
+        "href": "https://github.com/elementary/switchboard-plug-datetime/releases/tag/2.1.6"
+      },
+      {
         "version": "2.1.5",
         "release_date": "2018-12-10T21:20:43",
         "title": "Switchboard Date & Time Plug 2.1.5 Released",
