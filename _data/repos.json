@@ -2040,7 +2040,7 @@
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 25,
+    "new_commits": 26,
     "default_branch": "master"
   },
   {
@@ -3727,7 +3727,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 10,
+    "new_commits": 11,
     "default_branch": "master"
   },
   {
@@ -4770,7 +4770,7 @@
         "href": "https://github.com/elementary/capnet-assist/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 19,
+    "new_commits": 21,
     "default_branch": "master"
   },
   {
@@ -5470,7 +5470,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 139,
+    "new_commits": 140,
     "default_branch": "master"
   },
   {
