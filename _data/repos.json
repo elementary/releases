@@ -822,7 +822,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 11,
+    "new_commits": 13,
     "default_branch": "master"
   },
   {
@@ -1179,7 +1179,7 @@
         "href": "https://github.com/elementary/terminal/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 13,
+    "new_commits": 15,
     "default_branch": "master"
   },
   {
@@ -2810,7 +2810,7 @@
         "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
       }
     ],
-    "new_commits": 6,
+    "new_commits": 8,
     "default_branch": "master"
   },
   {
@@ -2887,7 +2887,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-power/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 16,
+    "new_commits": 18,
     "default_branch": "master"
   },
   {
@@ -3727,7 +3727,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 12,
+    "new_commits": 13,
     "default_branch": "master"
   },
   {
