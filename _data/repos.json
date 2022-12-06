@@ -1,5 +1,103 @@
 [
   {
+    "name": "installer",
+    "releases": [
+      {
+        "version": "1.0.6",
+        "release_date": "2022-12-06T16:39:34",
+        "title": "installer 1.0.6 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Show an infobar on battery instead of switching to a different page</li>\n<li>Show all system requirements warnings on a single page</li>\n<li>Warn about installing developer builds</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/installer/releases/tag/1.0.6"
+      },
+      {
+        "version": "1.0.5",
+        "release_date": "2021-12-17T19:30:23",
+        "title": "installer 1.0.5 Released",
+        "body": "\n",
+        "href": "https://github.com/elementary/installer/releases/tag/1.0.5"
+      },
+      {
+        "version": "1.0.4",
+        "release_date": "2021-12-13T22:34:35",
+        "title": "installer 1.0.4 Released",
+        "body": "\n",
+        "href": "https://github.com/elementary/installer/releases/tag/1.0.4"
+      },
+      {
+        "version": "1.0.3",
+        "release_date": "2021-08-26T02:15:09",
+        "title": "installer 1.0.3 Released",
+        "body": "\n",
+        "href": "https://github.com/elementary/installer/releases/tag/1.0.3"
+      },
+      {
+        "version": "1.0.2",
+        "release_date": "2021-08-20T21:33:08",
+        "title": "installer 1.0.2 Released",
+        "body": "\n",
+        "href": "https://github.com/elementary/installer/releases/tag/1.0.2"
+      },
+      {
+        "version": "1.0.1",
+        "release_date": "2021-07-29T19:26:54",
+        "title": "installer 1.0.1 Released",
+        "body": "\n",
+        "href": "https://github.com/elementary/installer/releases/tag/1.0.1"
+      },
+      {
+        "version": "1.0.0",
+        "release_date": "2021-07-15T23:54:35",
+        "title": "installer 1.0.0 Released",
+        "body": "\n",
+        "href": "https://github.com/elementary/installer/releases/tag/1.0.0"
+      }
+    ],
+    "new_commits": 1,
+    "default_branch": "master"
+  },
+  {
+    "name": "feedback",
+    "releases": [
+      {
+        "version": "6.1.2",
+        "release_date": "2022-12-06T16:31:22",
+        "title": "feedback 6.1.2 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Make sure we fetch all addons for System Settings and the Panel</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/feedback/releases/tag/6.1.2"
+      },
+      {
+        "version": "6.1.1",
+        "release_date": "2022-05-26T16:45:27",
+        "title": "feedback 6.1.1 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Avoid focus stealing prevention when opening a web browser</li>\n<li>Show more entries under Desktop Components</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/feedback/releases/tag/6.1.1"
+      },
+      {
+        "version": "6.1.0",
+        "release_date": "2021-07-28T17:58:11",
+        "title": "feedback 6.1.0 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Add several missing components</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/feedback/releases/tag/6.1.0"
+      },
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-16T00:13:14",
+        "title": "feedback 6.0.0 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Show Flatpak Apps</li>\n<li>Support dark style</li>\n<li>Add multitouch navigation gestures</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Ensure links are up-to-date</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/feedback/releases/tag/6.0.0"
+      },
+      {
+        "version": "1.0",
+        "release_date": "2019-07-09T21:03:40",
+        "title": "Feedback 1.0 Released",
+        "body": "Feedback 1.0 is out!\r\n\r\nThis is the initial release.",
+        "href": "https://github.com/elementary/feedback/releases/tag/1.0"
+      }
+    ],
+    "new_commits": 0,
+    "default_branch": "master"
+  },
+  {
     "name": "camera",
     "releases": [
       {
@@ -4599,41 +4697,6 @@
     "default_branch": "master"
   },
   {
-    "name": "feedback",
-    "releases": [
-      {
-        "version": "6.1.1",
-        "release_date": "2022-05-26T16:45:27",
-        "title": "feedback 6.1.1 Released",
-        "body": "<p>Improvements:</p>\n<ul>\n<li>Avoid focus stealing prevention when opening a web browser</li>\n<li>Show more entries under Desktop Components</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/feedback/releases/tag/6.1.1"
-      },
-      {
-        "version": "6.1.0",
-        "release_date": "2021-07-28T17:58:11",
-        "title": "feedback 6.1.0 Released",
-        "body": "<p>Improvements:</p>\n<ul>\n<li>Add several missing components</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/feedback/releases/tag/6.1.0"
-      },
-      {
-        "version": "6.0.0",
-        "release_date": "2021-07-16T00:13:14",
-        "title": "feedback 6.0.0 Released",
-        "body": "<p>Improvements:</p>\n<ul>\n<li>Show Flatpak Apps</li>\n<li>Support dark style</li>\n<li>Add multitouch navigation gestures</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Ensure links are up-to-date</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/feedback/releases/tag/6.0.0"
-      },
-      {
-        "version": "1.0",
-        "release_date": "2019-07-09T21:03:40",
-        "title": "Feedback 1.0 Released",
-        "body": "Feedback 1.0 is out!\r\n\r\nThis is the initial release.",
-        "href": "https://github.com/elementary/feedback/releases/tag/1.0"
-      }
-    ],
-    "new_commits": 40,
-    "default_branch": "master"
-  },
-  {
     "name": "mail",
     "releases": [
       {
@@ -5633,55 +5696,6 @@
     ],
     "new_commits": 0,
     "default_branch": "6.1-jolnir"
-  },
-  {
-    "name": "installer",
-    "releases": [
-      {
-        "version": "1.0.5",
-        "release_date": "2021-12-17T19:30:23",
-        "title": "installer 1.0.5 Released",
-        "body": "\n",
-        "href": "https://github.com/elementary/installer/releases/tag/1.0.5"
-      },
-      {
-        "version": "1.0.4",
-        "release_date": "2021-12-13T22:34:35",
-        "title": "installer 1.0.4 Released",
-        "body": "\n",
-        "href": "https://github.com/elementary/installer/releases/tag/1.0.4"
-      },
-      {
-        "version": "1.0.3",
-        "release_date": "2021-08-26T02:15:09",
-        "title": "installer 1.0.3 Released",
-        "body": "\n",
-        "href": "https://github.com/elementary/installer/releases/tag/1.0.3"
-      },
-      {
-        "version": "1.0.2",
-        "release_date": "2021-08-20T21:33:08",
-        "title": "installer 1.0.2 Released",
-        "body": "\n",
-        "href": "https://github.com/elementary/installer/releases/tag/1.0.2"
-      },
-      {
-        "version": "1.0.1",
-        "release_date": "2021-07-29T19:26:54",
-        "title": "installer 1.0.1 Released",
-        "body": "\n",
-        "href": "https://github.com/elementary/installer/releases/tag/1.0.1"
-      },
-      {
-        "version": "1.0.0",
-        "release_date": "2021-07-15T23:54:35",
-        "title": "installer 1.0.0 Released",
-        "body": "\n",
-        "href": "https://github.com/elementary/installer/releases/tag/1.0.0"
-      }
-    ],
-    "new_commits": 123,
-    "default_branch": "master"
   },
   {
     "name": "wallpapers",
