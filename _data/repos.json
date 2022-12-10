@@ -1,5 +1,173 @@
 [
   {
+    "name": "default-settings",
+    "releases": [
+      {
+        "version": "7.0.1",
+        "release_date": "2022-12-10T16:35:32",
+        "title": "Default Settings 7.0.1 Released",
+        "body": "## What's Changed\r\n* Music Dockitem: Point to var/lib/flatpak by @danirabbit in https://github.com/elementary/default-settings/pull/274\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/default-settings/compare/7.0.0...7.0.1",
+        "href": "https://github.com/elementary/default-settings/releases/tag/7.0.1"
+      },
+      {
+        "version": "7.0.0",
+        "release_date": "2022-11-14T15:58:59",
+        "title": "Default Settings 7.0.0 Released",
+        "body": "## What's Changed\r\n* Fix warnings introduced by Gnome 40+ and last versions of Epiphany by @milouse in https://github.com/elementary/default-settings/pull/263\r\n* Delete appcenter.hiddenapps by @danirabbit in https://github.com/elementary/default-settings/pull/268\r\n* Plank: add Files dock item by @danirabbit in https://github.com/elementary/default-settings/pull/271\r\n* GPLv3+ license added by @comradekingu in https://github.com/elementary/default-settings/pull/243\r\n* Release 7.0.0 by @danirabbit in https://github.com/elementary/default-settings/pull/272\r\n\r\n## New Contributors\r\n* @milouse made their first contribution in https://github.com/elementary/default-settings/pull/263\r\n* @comradekingu made their first contribution in https://github.com/elementary/default-settings/pull/243\r\n\r\n**Full Changelog**: https://github.com/elementary/default-settings/compare/6.0.2...7.0.0",
+        "href": "https://github.com/elementary/default-settings/releases/tag/7.0.0"
+      },
+      {
+        "version": "6.0.2",
+        "release_date": "2021-10-30T21:11:17",
+        "title": "Default Settings 6.0.2 Released",
+        "body": "## What's Changed\r\n* Update settings.ini with new values for >= Odin by @davidmhewitt in https://github.com/elementary/default-settings/pull/252\r\n* Skel: Point Videos launcher to Flatpak version by @cassidyjames in https://github.com/elementary/default-settings/pull/253\r\n\r\n**Full Changelog**: https://github.com/elementary/default-settings/compare/6.0.1...6.0.2",
+        "href": "https://github.com/elementary/default-settings/releases/tag/6.0.2"
+      },
+      {
+        "version": "6.0.1",
+        "release_date": "2021-08-31T19:15:18",
+        "title": "Default Settings 6.0.1 Released",
+        "body": "Change Tasks launcher path to /usr/share",
+        "href": "https://github.com/elementary/default-settings/releases/tag/6.0.1"
+      },
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-15T19:59:55",
+        "title": "default-settings 6.0.0 Released",
+        "body": "New upstream release",
+        "href": "https://github.com/elementary/default-settings/releases/tag/6.0.0"
+      },
+      {
+        "version": "5.1.2",
+        "release_date": "2020-01-15T08:18:19",
+        "title": "default-settings 5.1.2 Released",
+        "body": "default-settings 5.1.2 is out!\r\n\r\n<ul>\r\n<li>profile.d: use GTK3_MODULES over GTK_MODULES</li>\r\n<li>Remove switchboard plugs from blacklist</li>\r\n<li>Automatically show & hide the property panel of IBus</li>\r\n<li>Make default search engine DuckDuckGo</li>\r\n<li>Activate g-s-d cursor plugin</li>\r\n<li>Removed deprecated draw-background override</li>\r\n<li>Add AccountsService interfaces for greeter power settings</li>\r\n<li>Accept only first party cookies for enhanced privacy</li>\r\n</ul>",
+        "href": "https://github.com/elementary/default-settings/releases/tag/5.1.2"
+      },
+      {
+        "version": "5.1.1",
+        "release_date": "2019-08-13T01:57:38",
+        "title": "Default Settings 5.1.1 Released",
+        "body": "elementary OS Default Settings 5.1.1 is out!\r\n\r\nChanges:\r\n* Include accountsservice files for [Greeter](https://github.com/elementary/greeter) use",
+        "href": "https://github.com/elementary/default-settings/releases/tag/5.1.1"
+      },
+      {
+        "version": "5.1.0",
+        "release_date": "2019-03-19T20:24:37",
+        "title": "Default Settings 5.1.0 Released",
+        "body": "elementary OS Default Settings 5.1.0 is out!\r\n\r\nMost of these changes were already sent out to elementary OS as snapshots, this release prepares for conditional compilation.\r\n\r\n* Change default IBus hotkey to `Ctrl+Space`\r\n* Set `QT_QPA_PLATFORMTHEME` to `gtk` for `adwaita-qt` and `qt5-gtk-platformtheme`\r\n* Set `clock-show-date` to `true` in `org.gnome.desktop.interface`\r\n* Set `Onboard` theme to `Nightshade`\r\n* Expand AppCenter blacklist entries\r\n* Manually install and compile gschema so it can support conditions\r\n* Delete unused Ayatana blacklist\r\n* Add `.inputrc`",
+        "href": "https://github.com/elementary/default-settings/releases/tag/5.1.0"
+      },
+      {
+        "version": "5.0",
+        "release_date": "2018-05-23T13:45:38",
+        "title": "Default Settings 5.0 Released",
+        "body": "`elementary-default-settings` 5.0 is out!",
+        "href": "https://github.com/elementary/default-settings/releases/tag/5.0"
+      }
+    ],
+    "new_commits": 0,
+    "default_branch": "master"
+  },
+  {
+    "name": "music",
+    "releases": [
+      {
+        "version": "7.0.1",
+        "release_date": "2022-12-10T16:25:32",
+        "title": "Music 7.0.1 Released",
+        "body": "## What's Changed\r\n* Use file basename instead of uri for the default audio object title. by @vjr in https://github.com/elementary/music/pull/710\r\n* Skip invalid files instead of stopping playback. by @vjr in https://github.com/elementary/music/pull/711\r\n* Enable the NEXT button if repeat mode is set to ALL or ONE. by @vjr in https://github.com/elementary/music/pull/712\r\n* Application: hard code gtk styles by @danirabbit in https://github.com/elementary/music/pull/723\r\n* Metainfo: Use branding tag and screenshot caption by @danirabbit in https://github.com/elementary/music/pull/724\r\n* Metainfo improvements by @danirabbit in https://github.com/elementary/music/pull/728\r\n* Update Flatpak runtime to 7.1 by @danirabbit in https://github.com/elementary/music/pull/729\r\n* Update music.metainfo.xml.in by @danirabbit in https://github.com/elementary/music/pull/730\r\n* Release 7.0.1 by @danirabbit in https://github.com/elementary/music/pull/731\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/music/compare/7.0.0...7.0.1",
+        "href": "https://github.com/elementary/music/releases/tag/7.0.1"
+      },
+      {
+        "version": "7.0.0",
+        "release_date": "2022-05-12T16:35:36",
+        "title": "music 7.0.0 Released",
+        "body": "<p>Complete rewrite</p>\n",
+        "href": "https://github.com/elementary/music/releases/tag/7.0.0"
+      },
+      {
+        "version": "5.1.1",
+        "release_date": "2021-07-16T19:01:31",
+        "title": "music 5.1.1 Released",
+        "body": "<p>Drop support for Last.FM</p>\n<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/music/releases/tag/5.1.1"
+      },
+      {
+        "version": "5.1.0",
+        "release_date": "2021-07-14T17:03:57",
+        "title": "music 5.1.0 Released",
+        "body": "<p>Fix an issue with saving smart playlists</p>\n<p>Drop support for CD-ROM</p>\n<p>Dark style support</p>\n<p>Minor visual improvements</p>\n<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/music/releases/tag/5.1.0"
+      },
+      {
+        "version": "5.0.5",
+        "release_date": "2020-03-04T22:50:04",
+        "title": "music 5.0.5 Released",
+        "body": "music 5.0.5 is out! \n\n<p>Fix removing items from the queue</p>\n<p>Fix equalizer sliders not properly disabled sometimes</p>\n<p>Updated translations</p>\n<p>Performance improvements</p>\n",
+        "href": "https://github.com/elementary/music/releases/tag/5.0.5"
+      },
+      {
+        "version": "5.0.4",
+        "release_date": "2019-04-17T08:46:55",
+        "title": "Music 5.0.4 Released",
+        "body": "Music 5.0.4 is out!\r\n\r\nChanges:\r\n* Removed old gsignond vapi\r\n* LibraryWindow: Use Granite.MessageDialog for showing alerts\r\n* PlaylistsUtils: Use Gtk.FileChooserNative\r\n* Accurately remember window size\r\n* Updated translations",
+        "href": "https://github.com/elementary/music/releases/tag/5.0.4"
+      },
+      {
+        "version": "5.0.3",
+        "release_date": "2019-02-26T19:36:31",
+        "title": "Music 5.0.3 Released",
+        "body": "Music 5.0.3 is out!\r\n\r\nChanges:\r\n* Scale album art properly at high resolutions\r\n* Accurately select Music Folder Location for directories with spaces in name\r\n* New MediaKeyListener path for gnome-settings-daemon\r\n* Updated translations",
+        "href": "https://github.com/elementary/music/releases/tag/5.0.3"
+      },
+      {
+        "version": "5.0.2",
+        "release_date": "2018-12-18T12:07:14",
+        "title": "Music 5.0.2 Released",
+        "body": "Music 5.0.2 is out!\r\n\r\nChanges:\r\n* AlbumView: double-click to play album\r\n* Associate with s3m files\r\n* Queue fixes\r\n* Properly restore playlists\r\n* Always respect custom music folder setting\r\n* Updated translations",
+        "href": "https://github.com/elementary/music/releases/tag/5.0.2"
+      },
+      {
+        "version": "5.0.1",
+        "release_date": "2018-11-30T10:49:32",
+        "title": "Music 5.0.1 Released",
+        "body": "Music 5.0.1 is out!\r\n\r\nChanges:\r\n* Fix list and column view sorting\r\n* Add orange accent color\r\n* Add shortcut accels to tooltips",
+        "href": "https://github.com/elementary/music/releases/tag/5.0.1"
+      },
+      {
+        "version": "5.0",
+        "release_date": "2018-10-16T08:42:10",
+        "title": "Music 5.0 Released",
+        "body": "Music 5.0 is out!\r\n\r\nChanges:\r\n* Various UI changes\r\n* Shuffle fixes\r\n* Initial MPRIS support\r\n* Updated translations",
+        "href": "https://github.com/elementary/music/releases/tag/5.0"
+      },
+      {
+        "version": "0.4.2",
+        "release_date": "2017-11-27T15:51:48",
+        "title": "Noise (Music) 0.4.2 Released",
+        "body": "Noise 0.4.2 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/music/issues?q=is%3Aclosed+milestone%3A0.4.2).",
+        "href": "https://github.com/elementary/music/releases/tag/0.4.2"
+      },
+      {
+        "version": "0.4.1",
+        "release_date": "2017-07-28T03:49:34",
+        "title": "Noise (Music) 0.4.1 Released",
+        "body": "Noise 0.4.1 is out!\r\n\r\nEdit: The list of issues closed by this release can be found [here](https://github.com/elementary/music/milestone/3?closed=1).",
+        "href": "https://github.com/elementary/music/releases/tag/0.4.1"
+      },
+      {
+        "version": "0.4.0.3",
+        "release_date": "2017-04-21T17:49:20",
+        "title": "Noise (Music) 0.4.0.3 Released",
+        "body": "Noise 0.4.0.3 is out!",
+        "href": "https://github.com/elementary/music/releases/tag/0.4.0.3"
+      }
+    ],
+    "new_commits": 1,
+    "default_branch": "main"
+  },
+  {
     "name": "videos",
     "releases": [
       {
@@ -1446,69 +1614,6 @@
       }
     ],
     "new_commits": 17,
-    "default_branch": "master"
-  },
-  {
-    "name": "default-settings",
-    "releases": [
-      {
-        "version": "7.0.0",
-        "release_date": "2022-11-14T15:58:59",
-        "title": "Default Settings 7.0.0 Released",
-        "body": "## What's Changed\r\n* Fix warnings introduced by Gnome 40+ and last versions of Epiphany by @milouse in https://github.com/elementary/default-settings/pull/263\r\n* Delete appcenter.hiddenapps by @danirabbit in https://github.com/elementary/default-settings/pull/268\r\n* Plank: add Files dock item by @danirabbit in https://github.com/elementary/default-settings/pull/271\r\n* GPLv3+ license added by @comradekingu in https://github.com/elementary/default-settings/pull/243\r\n* Release 7.0.0 by @danirabbit in https://github.com/elementary/default-settings/pull/272\r\n\r\n## New Contributors\r\n* @milouse made their first contribution in https://github.com/elementary/default-settings/pull/263\r\n* @comradekingu made their first contribution in https://github.com/elementary/default-settings/pull/243\r\n\r\n**Full Changelog**: https://github.com/elementary/default-settings/compare/6.0.2...7.0.0",
-        "href": "https://github.com/elementary/default-settings/releases/tag/7.0.0"
-      },
-      {
-        "version": "6.0.2",
-        "release_date": "2021-10-30T21:11:17",
-        "title": "Default Settings 6.0.2 Released",
-        "body": "## What's Changed\r\n* Update settings.ini with new values for >= Odin by @davidmhewitt in https://github.com/elementary/default-settings/pull/252\r\n* Skel: Point Videos launcher to Flatpak version by @cassidyjames in https://github.com/elementary/default-settings/pull/253\r\n\r\n**Full Changelog**: https://github.com/elementary/default-settings/compare/6.0.1...6.0.2",
-        "href": "https://github.com/elementary/default-settings/releases/tag/6.0.2"
-      },
-      {
-        "version": "6.0.1",
-        "release_date": "2021-08-31T19:15:18",
-        "title": "Default Settings 6.0.1 Released",
-        "body": "Change Tasks launcher path to /usr/share",
-        "href": "https://github.com/elementary/default-settings/releases/tag/6.0.1"
-      },
-      {
-        "version": "6.0.0",
-        "release_date": "2021-07-15T19:59:55",
-        "title": "default-settings 6.0.0 Released",
-        "body": "New upstream release",
-        "href": "https://github.com/elementary/default-settings/releases/tag/6.0.0"
-      },
-      {
-        "version": "5.1.2",
-        "release_date": "2020-01-15T08:18:19",
-        "title": "default-settings 5.1.2 Released",
-        "body": "default-settings 5.1.2 is out!\r\n\r\n<ul>\r\n<li>profile.d: use GTK3_MODULES over GTK_MODULES</li>\r\n<li>Remove switchboard plugs from blacklist</li>\r\n<li>Automatically show & hide the property panel of IBus</li>\r\n<li>Make default search engine DuckDuckGo</li>\r\n<li>Activate g-s-d cursor plugin</li>\r\n<li>Removed deprecated draw-background override</li>\r\n<li>Add AccountsService interfaces for greeter power settings</li>\r\n<li>Accept only first party cookies for enhanced privacy</li>\r\n</ul>",
-        "href": "https://github.com/elementary/default-settings/releases/tag/5.1.2"
-      },
-      {
-        "version": "5.1.1",
-        "release_date": "2019-08-13T01:57:38",
-        "title": "Default Settings 5.1.1 Released",
-        "body": "elementary OS Default Settings 5.1.1 is out!\r\n\r\nChanges:\r\n* Include accountsservice files for [Greeter](https://github.com/elementary/greeter) use",
-        "href": "https://github.com/elementary/default-settings/releases/tag/5.1.1"
-      },
-      {
-        "version": "5.1.0",
-        "release_date": "2019-03-19T20:24:37",
-        "title": "Default Settings 5.1.0 Released",
-        "body": "elementary OS Default Settings 5.1.0 is out!\r\n\r\nMost of these changes were already sent out to elementary OS as snapshots, this release prepares for conditional compilation.\r\n\r\n* Change default IBus hotkey to `Ctrl+Space`\r\n* Set `QT_QPA_PLATFORMTHEME` to `gtk` for `adwaita-qt` and `qt5-gtk-platformtheme`\r\n* Set `clock-show-date` to `true` in `org.gnome.desktop.interface`\r\n* Set `Onboard` theme to `Nightshade`\r\n* Expand AppCenter blacklist entries\r\n* Manually install and compile gschema so it can support conditions\r\n* Delete unused Ayatana blacklist\r\n* Add `.inputrc`",
-        "href": "https://github.com/elementary/default-settings/releases/tag/5.1.0"
-      },
-      {
-        "version": "5.0",
-        "release_date": "2018-05-23T13:45:38",
-        "title": "Default Settings 5.0 Released",
-        "body": "`elementary-default-settings` 5.0 is out!",
-        "href": "https://github.com/elementary/default-settings/releases/tag/5.0"
-      }
-    ],
-    "new_commits": 1,
     "default_branch": "master"
   },
   {
@@ -5282,97 +5387,6 @@
       }
     ],
     "new_commits": 30,
-    "default_branch": "main"
-  },
-  {
-    "name": "music",
-    "releases": [
-      {
-        "version": "7.0.0",
-        "release_date": "2022-05-12T16:35:36",
-        "title": "music 7.0.0 Released",
-        "body": "<p>Complete rewrite</p>\n",
-        "href": "https://github.com/elementary/music/releases/tag/7.0.0"
-      },
-      {
-        "version": "5.1.1",
-        "release_date": "2021-07-16T19:01:31",
-        "title": "music 5.1.1 Released",
-        "body": "<p>Drop support for Last.FM</p>\n<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/music/releases/tag/5.1.1"
-      },
-      {
-        "version": "5.1.0",
-        "release_date": "2021-07-14T17:03:57",
-        "title": "music 5.1.0 Released",
-        "body": "<p>Fix an issue with saving smart playlists</p>\n<p>Drop support for CD-ROM</p>\n<p>Dark style support</p>\n<p>Minor visual improvements</p>\n<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/music/releases/tag/5.1.0"
-      },
-      {
-        "version": "5.0.5",
-        "release_date": "2020-03-04T22:50:04",
-        "title": "music 5.0.5 Released",
-        "body": "music 5.0.5 is out! \n\n<p>Fix removing items from the queue</p>\n<p>Fix equalizer sliders not properly disabled sometimes</p>\n<p>Updated translations</p>\n<p>Performance improvements</p>\n",
-        "href": "https://github.com/elementary/music/releases/tag/5.0.5"
-      },
-      {
-        "version": "5.0.4",
-        "release_date": "2019-04-17T08:46:55",
-        "title": "Music 5.0.4 Released",
-        "body": "Music 5.0.4 is out!\r\n\r\nChanges:\r\n* Removed old gsignond vapi\r\n* LibraryWindow: Use Granite.MessageDialog for showing alerts\r\n* PlaylistsUtils: Use Gtk.FileChooserNative\r\n* Accurately remember window size\r\n* Updated translations",
-        "href": "https://github.com/elementary/music/releases/tag/5.0.4"
-      },
-      {
-        "version": "5.0.3",
-        "release_date": "2019-02-26T19:36:31",
-        "title": "Music 5.0.3 Released",
-        "body": "Music 5.0.3 is out!\r\n\r\nChanges:\r\n* Scale album art properly at high resolutions\r\n* Accurately select Music Folder Location for directories with spaces in name\r\n* New MediaKeyListener path for gnome-settings-daemon\r\n* Updated translations",
-        "href": "https://github.com/elementary/music/releases/tag/5.0.3"
-      },
-      {
-        "version": "5.0.2",
-        "release_date": "2018-12-18T12:07:14",
-        "title": "Music 5.0.2 Released",
-        "body": "Music 5.0.2 is out!\r\n\r\nChanges:\r\n* AlbumView: double-click to play album\r\n* Associate with s3m files\r\n* Queue fixes\r\n* Properly restore playlists\r\n* Always respect custom music folder setting\r\n* Updated translations",
-        "href": "https://github.com/elementary/music/releases/tag/5.0.2"
-      },
-      {
-        "version": "5.0.1",
-        "release_date": "2018-11-30T10:49:32",
-        "title": "Music 5.0.1 Released",
-        "body": "Music 5.0.1 is out!\r\n\r\nChanges:\r\n* Fix list and column view sorting\r\n* Add orange accent color\r\n* Add shortcut accels to tooltips",
-        "href": "https://github.com/elementary/music/releases/tag/5.0.1"
-      },
-      {
-        "version": "5.0",
-        "release_date": "2018-10-16T08:42:10",
-        "title": "Music 5.0 Released",
-        "body": "Music 5.0 is out!\r\n\r\nChanges:\r\n* Various UI changes\r\n* Shuffle fixes\r\n* Initial MPRIS support\r\n* Updated translations",
-        "href": "https://github.com/elementary/music/releases/tag/5.0"
-      },
-      {
-        "version": "0.4.2",
-        "release_date": "2017-11-27T15:51:48",
-        "title": "Noise (Music) 0.4.2 Released",
-        "body": "Noise 0.4.2 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/music/issues?q=is%3Aclosed+milestone%3A0.4.2).",
-        "href": "https://github.com/elementary/music/releases/tag/0.4.2"
-      },
-      {
-        "version": "0.4.1",
-        "release_date": "2017-07-28T03:49:34",
-        "title": "Noise (Music) 0.4.1 Released",
-        "body": "Noise 0.4.1 is out!\r\n\r\nEdit: The list of issues closed by this release can be found [here](https://github.com/elementary/music/milestone/3?closed=1).",
-        "href": "https://github.com/elementary/music/releases/tag/0.4.1"
-      },
-      {
-        "version": "0.4.0.3",
-        "release_date": "2017-04-21T17:49:20",
-        "title": "Noise (Music) 0.4.0.3 Released",
-        "body": "Noise 0.4.0.3 is out!",
-        "href": "https://github.com/elementary/music/releases/tag/0.4.0.3"
-      }
-    ],
-    "new_commits": 82,
     "default_branch": "main"
   },
   {
