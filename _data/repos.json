@@ -1,5 +1,208 @@
 [
   {
+    "name": "videos",
+    "releases": [
+      {
+        "version": "2.9.0",
+        "release_date": "2022-12-10T04:35:28",
+        "title": "videos 2.9.0 Released",
+        "body": "<p>New features:</p>\n<ul>\n<li>Control playback from the sound indicator</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Make playback duration more accurate</li>\n<li>Translation updates</li>\n</ul>\n",
+        "href": "https://github.com/elementary/videos/releases/tag/2.9.0"
+      },
+      {
+        "version": "2.8.4",
+        "release_date": "2022-06-09T16:57:15",
+        "title": "videos 2.8.4 Released",
+        "body": "<p>Other updates:</p>\n<ul>\n<li>Update to Flatpak Platform 7</li>\n<li>Translation updates</li>\n</ul>\n",
+        "href": "https://github.com/elementary/videos/releases/tag/2.8.4"
+      },
+      {
+        "version": "2.8.3",
+        "release_date": "2022-01-10T17:54:11",
+        "title": "videos 2.8.3 Released",
+        "body": "<p>Fixes:</p>\n<ul>\n<li>Fix a crash with certain video codecs</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Update to 6.1 Flatpak runtime</li>\n<li>Translation updates</li>\n</ul>\n",
+        "href": "https://github.com/elementary/videos/releases/tag/2.8.3"
+      },
+      {
+        "version": "2.8.1",
+        "release_date": "2021-12-17T18:35:28",
+        "title": "videos 2.8.1 Released",
+        "body": "<p>Other updates:</p>\n<ul>\n<li>Fix an issue with removing videos from library</li>\n</ul>\n",
+        "href": "https://github.com/elementary/videos/releases/tag/2.8.1"
+      },
+      {
+        "version": "2.8.0",
+        "release_date": "2021-10-30T02:47:08",
+        "title": "Videos 2.8.0 Released",
+        "body": "<p>New features:</p>\r\n<ul>\r\n<li>Two-finger swipe to go back</li>\r\n</ul>\r\n<p>Other updates:</p>\r\n<ul>\r\n<li>Translation updates</li>\r\n</ul>",
+        "href": "https://github.com/elementary/videos/releases/tag/2.8.0"
+      },
+      {
+        "version": "2.7.3",
+        "release_date": "2021-07-14T19:10:48",
+        "title": "videos 2.7.3 Released",
+        "body": "<p>Other updates:</p>\n<ul>\n<li>Fix an issue with accessing library view</li>\n<li>Fix an issue with returning to the welcome page while playing multiple videos</li>\n<li>Prevent sleep while playing a video</li>\n<li>Translation updates</li>\n</ul>\n",
+        "href": "https://github.com/elementary/videos/releases/tag/2.7.3"
+      },
+      {
+        "version": "2.7.2",
+        "release_date": "2020-07-01T16:26:26",
+        "title": "videos 2.7.2 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Start up faster with large libraries</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Fix cases where subtitles refused to load</li>\n<li>Handle if library folder is deleted or moved</li>\n<li>Translation updates</li>\n</ul>\n",
+        "href": "https://github.com/elementary/videos/releases/tag/2.7.2"
+      },
+      {
+        "version": "2.7.1",
+        "release_date": "2020-04-14T22:18:45",
+        "title": "videos 2.7.1 Released",
+        "body": "<p>Other updates:</p>\n<ul>\n<li>Reliably update the replay button description and file</li>\n<li>More consistently remember the last playing video and its play position</li>\n<li>Fix missing icon in episode view</li>\n<li>Translation updates</li>\n</ul>\n",
+        "href": "https://github.com/elementary/videos/releases/tag/2.7.1"
+      },
+      {
+        "version": "2.7.0",
+        "release_date": "2019-11-25T17:17:19",
+        "title": "videos 2.7.0 Released",
+        "body": "videos 2.7.0 is out! \r\n\r\nChanges:\r\n\r\nNew features:\r\n\r\n* Option to automatically play next videos\r\n* Navigate the playlist with the keyboard\r\n* Add a button to clear the playlist\r\n* Show audio track language in settings\r\n* Show playlist item titles in their tooltips\r\n\r\nOther updates:\r\n\r\n* Show an error for unsupported files\r\n* Fix disappearing cursor on headerbar\r\n* Hide seekbar preview when switching windows with Alt + Tab\r\n* Translation updates\r\n",
+        "href": "https://github.com/elementary/videos/releases/tag/2.7.0"
+      },
+      {
+        "version": "2.6.3",
+        "release_date": "2019-01-09T10:19:08",
+        "title": "Videos 2.6.3 Released",
+        "body": "Videos 2.6.3 is out!\r\n\r\nChanges:\r\n* Build fixes\r\n* Updated translations",
+        "href": "https://github.com/elementary/videos/releases/tag/2.6.3"
+      },
+      {
+        "version": "2.6.2",
+        "release_date": "2018-10-01T06:52:12",
+        "title": "Videos 2.6.2 Released",
+        "body": "Videos 2.6.2 is out!\r\n\r\nThis release includes build fixes and updated translations.",
+        "href": "https://github.com/elementary/videos/releases/tag/2.6.2"
+      },
+      {
+        "version": "2.6.1",
+        "release_date": "2018-07-31T09:16:04",
+        "title": "Videos 2.6.1 Released",
+        "body": "Videos 2.6.1 is out!\r\n\r\nThis release includes translation updates.",
+        "href": "https://github.com/elementary/videos/releases/tag/2.6.1"
+      },
+      {
+        "version": "0.2.6",
+        "release_date": "2018-06-20T08:43:37",
+        "title": "Videos 0.2.6 Released",
+        "body": "Videos 0.2.6 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/videos/issues?q=is%3Aclosed+milestone%3A0.2.6).",
+        "href": "https://github.com/elementary/videos/releases/tag/0.2.6"
+      },
+      {
+        "version": "0.2.5",
+        "release_date": "2018-01-08T19:53:24",
+        "title": "Audience 0.2.5 Released",
+        "body": "Audience 0.2.5 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/videos/issues?q=is%3Aclosed+milestone%3A0.2.5).",
+        "href": "https://github.com/elementary/videos/releases/tag/0.2.5"
+      },
+      {
+        "version": "0.2.4",
+        "release_date": "2017-08-12T02:05:24",
+        "title": "Audience 0.2.4 Released",
+        "body": "Audience 0.2.4 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/videos/milestone/3).",
+        "href": "https://github.com/elementary/videos/releases/tag/0.2.4"
+      },
+      {
+        "version": "0.2.3",
+        "release_date": "2017-08-02T11:05:26",
+        "title": "Audience 0.2.3 Released",
+        "body": "Audience 0.2.3 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/videos/milestone/1?closed=1).",
+        "href": "https://github.com/elementary/videos/releases/tag/0.2.3"
+      }
+    ],
+    "new_commits": 0,
+    "default_branch": "master"
+  },
+  {
+    "name": "capnet-assist",
+    "releases": [
+      {
+        "version": "2.4.3",
+        "release_date": "2022-12-10T04:35:00",
+        "title": "capnet-assist 2.4.3 Released",
+        "body": "<ul>\n<li>Update to elementary runtime 7.1</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/capnet-assist/releases/tag/2.4.3"
+      },
+      {
+        "version": "2.4.2",
+        "release_date": "2022-05-18T04:44:38",
+        "title": "capnet-assist 2.4.2 Released",
+        "body": "<ul>\n<li>Update to elementary runtime 7</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/capnet-assist/releases/tag/2.4.2"
+      },
+      {
+        "version": "2.4.1",
+        "release_date": "2022-01-26T18:01:07",
+        "title": "capnet-assist 2.4.1 Released",
+        "body": "<ul>\n<li>Update to elementary runtime 6.1</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/capnet-assist/releases/tag/2.4.1"
+      },
+      {
+        "version": "2.4.0",
+        "release_date": "2021-10-29T23:38:44",
+        "title": "Captive Network Assistant 2.4.0 Released",
+        "body": "<ul>\r\n<li>New icon</li>\r\n<li>Updated translations</li>\r\n</ul>",
+        "href": "https://github.com/elementary/capnet-assist/releases/tag/2.4.0"
+      },
+      {
+        "version": "2.3.0",
+        "release_date": "2021-07-13T23:27:59",
+        "title": "capnet-assist 2.3.0 Released",
+        "body": "<ul>\n<li>Dark style support</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/capnet-assist/releases/tag/2.3.0"
+      },
+      {
+        "version": "2.2.5",
+        "release_date": "2020-04-08T20:31:34",
+        "title": "capnet-assist 2.2.5 Released",
+        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/capnet-assist/releases/tag/2.2.5"
+      },
+      {
+        "version": "2.2.4",
+        "release_date": "2019-11-20T16:40:39",
+        "title": "capnet-assist 2.2.4 Released",
+        "body": "capnet-assist 2.2.4 is out! \n\nChanges:\n\n* Updated translations\n",
+        "href": "https://github.com/elementary/capnet-assist/releases/tag/2.2.4"
+      },
+      {
+        "version": "2.2.3",
+        "release_date": "2019-02-01T15:07:29",
+        "title": "Captive Portal Assistant 2.2.3 Released",
+        "body": "Captive Portal Assistant 2.2.3 is out!\r\n\r\nChanges:\r\n* Updated translations",
+        "href": "https://github.com/elementary/capnet-assist/releases/tag/2.2.3"
+      },
+      {
+        "version": "2.2.2",
+        "release_date": "2018-10-15T23:19:38",
+        "title": "Captive Portal Assistant 2.2.2 Released",
+        "body": "Captive Portal Assistant 2.2.2 is out!\r\n\r\nThis release includes updated translations.",
+        "href": "https://github.com/elementary/capnet-assist/releases/tag/2.2.2"
+      },
+      {
+        "version": "2.2.1",
+        "release_date": "2018-10-03T11:59:05",
+        "title": "Captive Portal Assistant 2.2.1 Released",
+        "body": "Captive Portal Assistant 2.2.1 is out!\r\n\r\nThis release includes updated translations.",
+        "href": "https://github.com/elementary/capnet-assist/releases/tag/2.2.1"
+      },
+      {
+        "version": "0.2.2",
+        "release_date": "2018-06-05T09:43:41",
+        "title": "Captive Portal Assistant 0.2.2 Released",
+        "body": "Captive Portal Assistant 0.2.2 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/capnet-assist/issues?q=is%3Aclosed+milestone%3A0.2.2).",
+        "href": "https://github.com/elementary/capnet-assist/releases/tag/0.2.2"
+      }
+    ],
+    "new_commits": 0,
+    "default_branch": "master"
+  },
+  {
     "name": "calculator",
     "releases": [
       {
@@ -4704,118 +4907,6 @@
     "default_branch": "main"
   },
   {
-    "name": "videos",
-    "releases": [
-      {
-        "version": "2.8.4",
-        "release_date": "2022-06-09T16:57:15",
-        "title": "videos 2.8.4 Released",
-        "body": "<p>Other updates:</p>\n<ul>\n<li>Update to Flatpak Platform 7</li>\n<li>Translation updates</li>\n</ul>\n",
-        "href": "https://github.com/elementary/videos/releases/tag/2.8.4"
-      },
-      {
-        "version": "2.8.3",
-        "release_date": "2022-01-10T17:54:11",
-        "title": "videos 2.8.3 Released",
-        "body": "<p>Fixes:</p>\n<ul>\n<li>Fix a crash with certain video codecs</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Update to 6.1 Flatpak runtime</li>\n<li>Translation updates</li>\n</ul>\n",
-        "href": "https://github.com/elementary/videos/releases/tag/2.8.3"
-      },
-      {
-        "version": "2.8.1",
-        "release_date": "2021-12-17T18:35:28",
-        "title": "videos 2.8.1 Released",
-        "body": "<p>Other updates:</p>\n<ul>\n<li>Fix an issue with removing videos from library</li>\n</ul>\n",
-        "href": "https://github.com/elementary/videos/releases/tag/2.8.1"
-      },
-      {
-        "version": "2.8.0",
-        "release_date": "2021-10-30T02:47:08",
-        "title": "Videos 2.8.0 Released",
-        "body": "<p>New features:</p>\r\n<ul>\r\n<li>Two-finger swipe to go back</li>\r\n</ul>\r\n<p>Other updates:</p>\r\n<ul>\r\n<li>Translation updates</li>\r\n</ul>",
-        "href": "https://github.com/elementary/videos/releases/tag/2.8.0"
-      },
-      {
-        "version": "2.7.3",
-        "release_date": "2021-07-14T19:10:48",
-        "title": "videos 2.7.3 Released",
-        "body": "<p>Other updates:</p>\n<ul>\n<li>Fix an issue with accessing library view</li>\n<li>Fix an issue with returning to the welcome page while playing multiple videos</li>\n<li>Prevent sleep while playing a video</li>\n<li>Translation updates</li>\n</ul>\n",
-        "href": "https://github.com/elementary/videos/releases/tag/2.7.3"
-      },
-      {
-        "version": "2.7.2",
-        "release_date": "2020-07-01T16:26:26",
-        "title": "videos 2.7.2 Released",
-        "body": "<p>Improvements:</p>\n<ul>\n<li>Start up faster with large libraries</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Fix cases where subtitles refused to load</li>\n<li>Handle if library folder is deleted or moved</li>\n<li>Translation updates</li>\n</ul>\n",
-        "href": "https://github.com/elementary/videos/releases/tag/2.7.2"
-      },
-      {
-        "version": "2.7.1",
-        "release_date": "2020-04-14T22:18:45",
-        "title": "videos 2.7.1 Released",
-        "body": "<p>Other updates:</p>\n<ul>\n<li>Reliably update the replay button description and file</li>\n<li>More consistently remember the last playing video and its play position</li>\n<li>Fix missing icon in episode view</li>\n<li>Translation updates</li>\n</ul>\n",
-        "href": "https://github.com/elementary/videos/releases/tag/2.7.1"
-      },
-      {
-        "version": "2.7.0",
-        "release_date": "2019-11-25T17:17:19",
-        "title": "videos 2.7.0 Released",
-        "body": "videos 2.7.0 is out! \r\n\r\nChanges:\r\n\r\nNew features:\r\n\r\n* Option to automatically play next videos\r\n* Navigate the playlist with the keyboard\r\n* Add a button to clear the playlist\r\n* Show audio track language in settings\r\n* Show playlist item titles in their tooltips\r\n\r\nOther updates:\r\n\r\n* Show an error for unsupported files\r\n* Fix disappearing cursor on headerbar\r\n* Hide seekbar preview when switching windows with Alt + Tab\r\n* Translation updates\r\n",
-        "href": "https://github.com/elementary/videos/releases/tag/2.7.0"
-      },
-      {
-        "version": "2.6.3",
-        "release_date": "2019-01-09T10:19:08",
-        "title": "Videos 2.6.3 Released",
-        "body": "Videos 2.6.3 is out!\r\n\r\nChanges:\r\n* Build fixes\r\n* Updated translations",
-        "href": "https://github.com/elementary/videos/releases/tag/2.6.3"
-      },
-      {
-        "version": "2.6.2",
-        "release_date": "2018-10-01T06:52:12",
-        "title": "Videos 2.6.2 Released",
-        "body": "Videos 2.6.2 is out!\r\n\r\nThis release includes build fixes and updated translations.",
-        "href": "https://github.com/elementary/videos/releases/tag/2.6.2"
-      },
-      {
-        "version": "2.6.1",
-        "release_date": "2018-07-31T09:16:04",
-        "title": "Videos 2.6.1 Released",
-        "body": "Videos 2.6.1 is out!\r\n\r\nThis release includes translation updates.",
-        "href": "https://github.com/elementary/videos/releases/tag/2.6.1"
-      },
-      {
-        "version": "0.2.6",
-        "release_date": "2018-06-20T08:43:37",
-        "title": "Videos 0.2.6 Released",
-        "body": "Videos 0.2.6 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/videos/issues?q=is%3Aclosed+milestone%3A0.2.6).",
-        "href": "https://github.com/elementary/videos/releases/tag/0.2.6"
-      },
-      {
-        "version": "0.2.5",
-        "release_date": "2018-01-08T19:53:24",
-        "title": "Audience 0.2.5 Released",
-        "body": "Audience 0.2.5 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/videos/issues?q=is%3Aclosed+milestone%3A0.2.5).",
-        "href": "https://github.com/elementary/videos/releases/tag/0.2.5"
-      },
-      {
-        "version": "0.2.4",
-        "release_date": "2017-08-12T02:05:24",
-        "title": "Audience 0.2.4 Released",
-        "body": "Audience 0.2.4 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/videos/milestone/3).",
-        "href": "https://github.com/elementary/videos/releases/tag/0.2.4"
-      },
-      {
-        "version": "0.2.3",
-        "release_date": "2017-08-02T11:05:26",
-        "title": "Audience 0.2.3 Released",
-        "body": "Audience 0.2.3 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/videos/milestone/1?closed=1).",
-        "href": "https://github.com/elementary/videos/releases/tag/0.2.3"
-      }
-    ],
-    "new_commits": 47,
-    "default_branch": "master"
-  },
-  {
     "name": "mail",
     "releases": [
       {
@@ -4982,83 +5073,6 @@
     ],
     "new_commits": 41,
     "default_branch": "main"
-  },
-  {
-    "name": "capnet-assist",
-    "releases": [
-      {
-        "version": "2.4.2",
-        "release_date": "2022-05-18T04:44:38",
-        "title": "capnet-assist 2.4.2 Released",
-        "body": "<ul>\n<li>Update to elementary runtime 7</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/capnet-assist/releases/tag/2.4.2"
-      },
-      {
-        "version": "2.4.1",
-        "release_date": "2022-01-26T18:01:07",
-        "title": "capnet-assist 2.4.1 Released",
-        "body": "<ul>\n<li>Update to elementary runtime 6.1</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/capnet-assist/releases/tag/2.4.1"
-      },
-      {
-        "version": "2.4.0",
-        "release_date": "2021-10-29T23:38:44",
-        "title": "Captive Network Assistant 2.4.0 Released",
-        "body": "<ul>\r\n<li>New icon</li>\r\n<li>Updated translations</li>\r\n</ul>",
-        "href": "https://github.com/elementary/capnet-assist/releases/tag/2.4.0"
-      },
-      {
-        "version": "2.3.0",
-        "release_date": "2021-07-13T23:27:59",
-        "title": "capnet-assist 2.3.0 Released",
-        "body": "<ul>\n<li>Dark style support</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/capnet-assist/releases/tag/2.3.0"
-      },
-      {
-        "version": "2.2.5",
-        "release_date": "2020-04-08T20:31:34",
-        "title": "capnet-assist 2.2.5 Released",
-        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/capnet-assist/releases/tag/2.2.5"
-      },
-      {
-        "version": "2.2.4",
-        "release_date": "2019-11-20T16:40:39",
-        "title": "capnet-assist 2.2.4 Released",
-        "body": "capnet-assist 2.2.4 is out! \n\nChanges:\n\n* Updated translations\n",
-        "href": "https://github.com/elementary/capnet-assist/releases/tag/2.2.4"
-      },
-      {
-        "version": "2.2.3",
-        "release_date": "2019-02-01T15:07:29",
-        "title": "Captive Portal Assistant 2.2.3 Released",
-        "body": "Captive Portal Assistant 2.2.3 is out!\r\n\r\nChanges:\r\n* Updated translations",
-        "href": "https://github.com/elementary/capnet-assist/releases/tag/2.2.3"
-      },
-      {
-        "version": "2.2.2",
-        "release_date": "2018-10-15T23:19:38",
-        "title": "Captive Portal Assistant 2.2.2 Released",
-        "body": "Captive Portal Assistant 2.2.2 is out!\r\n\r\nThis release includes updated translations.",
-        "href": "https://github.com/elementary/capnet-assist/releases/tag/2.2.2"
-      },
-      {
-        "version": "2.2.1",
-        "release_date": "2018-10-03T11:59:05",
-        "title": "Captive Portal Assistant 2.2.1 Released",
-        "body": "Captive Portal Assistant 2.2.1 is out!\r\n\r\nThis release includes updated translations.",
-        "href": "https://github.com/elementary/capnet-assist/releases/tag/2.2.1"
-      },
-      {
-        "version": "0.2.2",
-        "release_date": "2018-06-05T09:43:41",
-        "title": "Captive Portal Assistant 0.2.2 Released",
-        "body": "Captive Portal Assistant 0.2.2 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/capnet-assist/issues?q=is%3Aclosed+milestone%3A0.2.2).",
-        "href": "https://github.com/elementary/capnet-assist/releases/tag/0.2.2"
-      }
-    ],
-    "new_commits": 26,
-    "default_branch": "master"
   },
   {
     "name": "settings-daemon",
