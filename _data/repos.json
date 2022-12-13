@@ -4336,7 +4336,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-a11y/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 7,
+    "new_commits": 8,
     "default_branch": "master"
   },
   {
@@ -4663,13 +4663,6 @@
         "title": "stylesheet 5.4.2 Released",
         "body": "stylesheet 5.4.2 is out! \n\n\n",
         "href": "https://github.com/elementary/stylesheet/releases/tag/5.4.2"
-      },
-      {
-        "version": "5.4.1",
-        "release_date": "2020-01-21T18:43:35",
-        "title": "stylesheet 5.4.1 Released",
-        "body": "stylesheet 5.4.1 is out! \n\n\n",
-        "href": "https://github.com/elementary/stylesheet/releases/tag/5.4.1"
       },
       {
         "version": "5.4.0",
