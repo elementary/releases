@@ -304,6 +304,13 @@
         "href": "https://github.com/elementary/videos/releases/tag/2.7.0"
       },
       {
+        "version": "2.6.3",
+        "release_date": "2019-01-09T10:19:08",
+        "title": "Videos 2.6.3 Released",
+        "body": "Videos 2.6.3 is out!\r\n\r\nChanges:\r\n* Build fixes\r\n* Updated translations",
+        "href": "https://github.com/elementary/videos/releases/tag/2.6.3"
+      },
+      {
         "version": "2.6.2",
         "release_date": "2018-10-01T06:52:12",
         "title": "Videos 2.6.2 Released",
