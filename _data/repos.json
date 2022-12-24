@@ -5036,13 +5036,6 @@
         "href": "https://github.com/elementary/mail/releases/tag/7.0.0"
       },
       {
-        "version": "6.4.0",
-        "release_date": "2022-01-24T20:17:46",
-        "title": "mail 6.4.0 Released",
-        "body": "<p>New features:</p>\n<ul>\n<li>Use message subject for composer window title</li>\n<li>Added support for Unified Inbox for Microsoft 365 accounts</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Fixed an error which caused the inbox monitoring in the background to crash</li>\n<li>Removed duplicate sender addresses when composing a message</li>\n<li>Fix a freeze when archiving the last message in a folder</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Renamed Office 365 to Microsoft 365 to follow suite on Microsoft's rebranding</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/mail/releases/tag/6.4.0"
-      },
-      {
         "version": "6.3.1",
         "release_date": "2021-12-13T18:31:38",
         "title": "mail 6.3.1 Released",
