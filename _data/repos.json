@@ -6611,6 +6611,13 @@
         "href": "https://github.com/elementary/houston/releases/tag/v6.0.8"
       },
       {
+        "version": "v6.0.7",
+        "release_date": "2018-11-27T17:49:33",
+        "title": "v6.0.7",
+        "body": "## [6.0.7](https://github.com/elementary/houston/compare/v6.0.6...v6.0.7) (2018-11-27)\n\n\n### Bug Fixes\n\n* **package:** remove unused packages ([3001f26](https://github.com/elementary/houston/commit/3001f26))\n\n\n### Reverts\n\n* **package:** Backdate unreleased version of knex ([6c75dbf](https://github.com/elementary/houston/commit/6c75dbf))\n\n\n\n",
+        "href": "https://github.com/elementary/houston/releases/tag/v6.0.7"
+      },
+      {
         "version": "v6.0.6",
         "release_date": "2018-11-27T15:58:28",
         "title": "v6.0.6",
