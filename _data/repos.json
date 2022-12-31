@@ -1312,13 +1312,6 @@
         "href": "https://github.com/elementary/greeter/releases/tag/5.0.2"
       },
       {
-        "version": "5.0.1",
-        "release_date": "2019-10-31T21:10:21",
-        "title": "greeter 5.0.1 Released",
-        "body": "greeter 5.0.1 is out! \n\nChanges:\n\n* Save last user on attempted login\n* Handle all background aspect ratios\n* Give non-focused user cards smaller usernames\n* Better respect NumLock settings\n* Enable sounds in greeter\n* Select password text on error instead of immediately clearing it\n* Code cleanup\n* Updated translations\n",
-        "href": "https://github.com/elementary/greeter/releases/tag/5.0.1"
-      },
-      {
         "version": "5.0",
         "release_date": "2019-08-27T02:22:07",
         "title": "Greeter 5.0 Released",
