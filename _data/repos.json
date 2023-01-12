@@ -3069,6 +3069,13 @@
         "href": "https://github.com/elementary/onboarding/releases/tag/1.2.1"
       },
       {
+        "version": "1.2.0",
+        "release_date": "2020-04-01T23:56:45",
+        "title": "onboarding 1.2.0 Released",
+        "body": "onboarding 1.2.0 is out! \n\n<ul>\n<li>New app icon</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/onboarding/releases/tag/1.2.0"
+      },
+      {
         "version": "1.1.0",
         "release_date": "2019-11-15T20:55:45",
         "title": "onboarding 1.1.0 Released",
