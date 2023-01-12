@@ -479,7 +479,7 @@
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
       }
     ],
-    "new_commits": 2,
+    "new_commits": 3,
     "default_branch": "master"
   },
   {
@@ -3069,13 +3069,6 @@
         "href": "https://github.com/elementary/onboarding/releases/tag/1.2.1"
       },
       {
-        "version": "1.2.0",
-        "release_date": "2020-04-01T23:56:45",
-        "title": "onboarding 1.2.0 Released",
-        "body": "onboarding 1.2.0 is out! \n\n<ul>\n<li>New app icon</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/onboarding/releases/tag/1.2.0"
-      },
-      {
         "version": "1.1.0",
         "release_date": "2019-11-15T20:55:45",
         "title": "onboarding 1.1.0 Released",
@@ -5281,7 +5274,7 @@
         "href": "https://github.com/elementary/switchboard-plug-power/releases/tag/0.3.1"
       }
     ],
-    "new_commits": 45,
+    "new_commits": 46,
     "default_branch": "main"
   },
   {
@@ -5778,7 +5771,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 175,
+    "new_commits": 176,
     "default_branch": "master"
   },
   {
