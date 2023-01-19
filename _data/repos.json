@@ -3818,7 +3818,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-power/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 29,
+    "new_commits": 30,
     "default_branch": "master"
   },
   {
@@ -6749,13 +6749,6 @@
         "title": "v4.1.1",
         "body": "## [4.1.1](https://github.com/elementary/houston/compare/v4.1.0...v4.1.1) (2018-08-04)\n\n\n### Bug Fixes\n\n* **worker:** new release for worker CI fix ([09d2ff1](https://github.com/elementary/houston/commit/09d2ff1))\n\n\n### Reverts\n\n* revert fs-extra to 6.0.1 to fix some CI errors ([be055bd](https://github.com/elementary/houston/commit/be055bd))\n\n\n\n",
         "href": "https://github.com/elementary/houston/releases/tag/v4.1.1"
-      },
-      {
-        "version": "v4.1.0",
-        "release_date": "2018-08-02T16:29:25",
-        "title": "v4.1.0",
-        "body": "# [4.1.0](https://github.com/elementary/houston/compare/v4.0.1...v4.1.0) (2018-08-02)\n\n\n### Features\n\n* **service:** recursive clone git submodules ([58d3954](https://github.com/elementary/houston/commit/58d3954))\n\n\n\n",
-        "href": "https://github.com/elementary/houston/releases/tag/v4.1.0"
       },
       {
         "version": "v4.0.1",
