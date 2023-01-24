@@ -1,5 +1,537 @@
 [
   {
+    "name": "icons",
+    "releases": [
+      {
+        "version": "7.2.0",
+        "release_date": "2023-01-24T17:31:50",
+        "title": "Icons 7.2.0 Released",
+        "body": "## What's Changed\r\n* Update white tile icons by @danirabbit in https://github.com/elementary/icons/pull/1144\r\n* Redesign system-file-manager by @danirabbit in https://github.com/elementary/icons/pull/1147\r\n* Redesign accessories-calculator by @danirabbit in https://github.com/elementary/icons/pull/1148\r\n* FileTypes: symlink extension to application-x-xpinstall by @danirabbit in https://github.com/elementary/icons/pull/1156\r\n* Update categories/applications-development by @danirabbit in https://github.com/elementary/icons/pull/1155\r\n* Remove internet-web-browser by @danirabbit in https://github.com/elementary/icons/pull/1141\r\n* Remove system-os-install by @danirabbit in https://github.com/elementary/icons/pull/1152\r\n* Update border radius of preferences-system-sharing by @lenemter in https://github.com/elementary/icons/pull/1159\r\n* Appdata: Add Icon by @lenemter in https://github.com/elementary/icons/pull/1165\r\n* Update border radius of preferences-desktop-applications by @lenemter in https://github.com/elementary/icons/pull/1164\r\n* Update border radius of notification-disabled by @lenemter in https://github.com/elementary/icons/pull/1163\r\n* Update border radius of application-x-firmware by @lenemter in https://github.com/elementary/icons/pull/1161\r\n* Normalize width of key in input-keyboard icon by @lenemter in https://github.com/elementary/icons/pull/1162\r\n* Update border radius of preferences-system-parental-controls by @lenemter in https://github.com/elementary/icons/pull/1160\r\n* Status: update 48px do-not-disturb by @danirabbit in https://github.com/elementary/icons/pull/1166\r\n* FileTypes: Use fd.o `text-x-generic` for text by @newhoa in https://github.com/elementary/icons/pull/1169\r\n* Categories: remove unused and non-fd.o names by @danirabbit in https://github.com/elementary/icons/pull/1154\r\n* FileTypes: Add 16px video-x-generic by @danirabbit in https://github.com/elementary/icons/pull/1175\r\n* Update Actions by @danirabbit in https://github.com/elementary/icons/pull/1176\r\n* Add latte palette by @micahilbery in https://github.com/elementary/icons/pull/963\r\n* Unify view mode symbolics by @danirabbit in https://github.com/elementary/icons/pull/1157\r\n\r\n## New Contributors\r\n* @lenemter made their first contribution in https://github.com/elementary/icons/pull/1159\r\n\r\n**Full Changelog**: https://github.com/elementary/icons/compare/7.1.0...7.2.0",
+        "href": "https://github.com/elementary/icons/releases/tag/7.2.0"
+      },
+      {
+        "version": "7.1.0",
+        "release_date": "2022-10-06T20:40:03",
+        "title": "icons 7.1.0 Released",
+        "body": "<p>Additions:</p>\n<ul>\n<li>\"computer-fail\"</li>\n<li>\"preferences-desktop-theme\"</li>\n<li>\"application-x-sharedlib\"</li>\n<li>\"process-paused\"</li>\n</ul>\n<p>Removals:</p>\n<ul>\n<li>\"office-address-book\"</li>\n<li>Flash file types</li>\n</ul>\n<p>Updated families:</p>\n<ul>\n<li>Clean up \"preferences-desktop-workspaces\"</li>\n<li>Update \"preferences-desktop\" to new tile shape</li>\n<li>Update \"image-missing\" to new tile shape</li>\n<li>Update \"preferences-desktop-keyboard\" to new tile shape</li>\n<li>Update \"document-import\" and \"document-export\" to new tile shape</li>\n<li>Update many file types with new arrow shape</li>\n<li>\"application-default-icon\" is now brightly colored</li>\n<li>\"media-stop\" is now a square</li>\n<li>Round symbolic location status icons</li>\n<li>Use an outlined shape for symbolic tag icons</li>\n<li>Use a rounded star for symbolic bookmark icons</li>\n<li>Redesign Night Light</li>\n<li>Use latest Flatpak branding</li>\n<li>Symbolic volume icons use a rounded shape and a slash when muted</li>\n</ul>\n<p>Other Changes:</p>\n<ul>\n<li>Fix broken link for SVG file types</li>\n<li>Fix missing links for PGP file types</li>\n<li>Scale some icons to more sizes</li>\n</ul>\n",
+        "href": "https://github.com/elementary/icons/releases/tag/7.1.0"
+      },
+      {
+        "version": "7.0.0",
+        "release_date": "2022-04-25T19:35:24",
+        "title": "icons 7.0.0 Released",
+        "body": "<p>Additions:</p>\n<ul>\n<li>caps-lock-symbolic</li>\n<li>eye-not-looking-symbolic</li>\n<li>eye-open-negative-filled-symbolic</li>\n<li>num-lock-symbolic</li>\n</ul>\n<p>Updated families:</p>\n<ul>\n<li>Redesign media-playlist-repeat</li>\n<li>Update media-playlist-shuffle and media-playlist-consecutive</li>\n<li>Rounder square icons</li>\n<li>Rounded arrow corners on Downloads folder</li>\n<li>Deb and Flatpak Bundle files use a package metaphor</li>\n<li>Updates arrow points up</li>\n<li>Redesigned package with new colors</li>\n</ul>\n<p>Removals:</p>\n<ul>\n<li>notification-*</li>\n<li>Non-FDO network-*</li>\n<li>Non-FDO app icons</li>\n</ul>\n",
+        "href": "https://github.com/elementary/icons/releases/tag/7.0.0"
+      },
+      {
+        "version": "6.1.0",
+        "release_date": "2021-11-23T21:43:34",
+        "title": "icons 6.1.0 Released",
+        "body": "<p>Additions:</p>\n<ul>\n<li>preferences-desktop-font*</li>\n</ul>\n<p>Updated families:</p>\n<ul>\n<li>Additional sizes for playlist-queue</li>\n<li>Redesign PDF file type</li>\n<li>Additional sizes for emblem-downloads</li>\n<li>Remove arrows from Copy and Paste actions</li>\n</ul>\n<p>Removals:</p>\n<ul>\n<li>multimedia-video-player</li>\n</ul>\n",
+        "href": "https://github.com/elementary/icons/releases/tag/6.1.0"
+      },
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-15T22:11:47",
+        "title": "icons 6.0.0 Released",
+        "body": "<p>Updated families:</p>\n<ul>\n<li>Improved consistency between arrow shapes</li>\n<li>Improved appearance of color icons against dark backgrounds</li>\n<li>More gender-nuetral people icons</li>\n<li>Rounded media controls</li>\n<li>Rounded lightening bolt shape</li>\n<li>More colorful battery icons</li>\n</ul>\n<p>Additions:</p>\n<ul>\n<li>align-*</li>\n<li>color-picker</li>\n<li>distribute-*</li>\n<li>draw-calligraphic</li>\n<li>office-database-new</li>\n<li>tools-spray</li>\n<li>application-content-*</li>\n<li>thunderbolt devices</li>\n<li>video-display-tv</li>\n<li>symbolic headphones</li>\n<li>application-certificate</li>\n<li>application-json</li>\n<li>office-task-symbolic</li>\n<li>status emblems</li>\n<li>emblem-git-*</li>\n</ul>\n<p>Removals:</p>\n<ul>\n<li>accessories-camera</li>\n<li>accessories-screenshot</li>\n<li>audio-speaker-testing</li>\n<li>edit-undo-archive</li>\n<li>internet-mail</li>\n<li>internet-news-reader</li>\n<li>multimedia-audio-player</li>\n<li>notification bell animations</li>\n<li>nm-*</li>\n<li>ubiquity</li>\n</ul>\n",
+        "href": "https://github.com/elementary/icons/releases/tag/6.0.0"
+      },
+      {
+        "version": "5.3.1",
+        "release_date": "2020-05-06T18:10:20",
+        "title": "icons 5.3.1 Released",
+        "body": "<p>Minor updates</p>\n<ul>\n<li>Update emoji names for emoji picker in elementary OS 6 and latest GTK</li>\n<li>Replace Inkscape with rsvg for building cursors</li>\n</ul>\n",
+        "href": "https://github.com/elementary/icons/releases/tag/5.3.1"
+      },
+      {
+        "version": "5.3.0",
+        "release_date": "2020-05-01T05:35:02",
+        "title": "icons 5.3.0 Released",
+        "body": "<p>New Palette Colors:</p>\n<ul>\n<li>Add Bubblegum and Mint to official palette</li>\n<li>Updated all eraser icons to use Bubblegum palette</li>\n<li>Updated \"path\" icons to use Mint palette</li>\n<li>Updated all pencil icons to use Banana palette</li>\n</ul>\n<p>New Icons:</p>\n<ul>\n<li>Add \"software-update-urgent\"</li>\n<li>Add \"sync-synchronizing\"</li>\n</ul>\n<p>Scaled Icon Sizes:</p>\n<ul>\n<li>Add 24px \"window-close-symbolic\"</li>\n<li>Add 48px preferences icons</li>\n</ul>\n",
+        "href": "https://github.com/elementary/icons/releases/tag/5.3.0"
+      },
+      {
+        "version": "5.2.0",
+        "release_date": "2020-01-08T21:23:48",
+        "title": "icons 5.2.0 Released",
+        "body": "icons 5.2.0 is out! \n\n<ul>\n<li>Provide large cursors</li>\n<li>Fix alignment of several cursors</li>\n<li>Use palette colors in copy cursors</li>\n<li>Fix direction of the ban symbol cursor and use red</li>\n<li>Add \"All Scroll\", \"No Drop\", \"Vertical Text\", and \"Zoom\" cursors</li>\n</ul>\n",
+        "href": "https://github.com/elementary/icons/releases/tag/5.2.0"
+      },
+      {
+        "version": "5.1.0",
+        "release_date": "2019-10-31T22:54:07",
+        "title": "icons 5.1.0 Released",
+        "body": "icons 5.1.0 is out! \n\nChanges:\n\n* Add 64px prefs locale\n* Make symbol on 32px places home larger\n* New icons for Workspace preferences\n* Add symbolic variant for updates icon\n* Give browser-download its own unique icon\n* Use a more scalable metaphor for system updates\n* New view-reader icon\n* Add 32px wireless signal icons\n* Add 24px user status icons\n",
+        "href": "https://github.com/elementary/icons/releases/tag/5.1.0"
+      },
+      {
+        "version": "5.0.4",
+        "release_date": "2019-07-12T14:19:54",
+        "title": "elementary Icons 5.0.4",
+        "body": "elementary-icon-theme 5.0.4 is out!\r\n\r\nChanges:\r\n* Redesigned wired networking icons\r\n* Simplified `image-missing`\r\n* Re-shaped `system-software-update`\r\n* Scaled `process-completed` to 64px\r\n* Scaled `find-location` to 64px\r\n* Added new icons:\r\n  * `preferences-system-privacy-housekeeping`\r\n  * `media-memory-symbolic`\r\n  * `mail-forwarded-symbolic`\r\n  * `application-x-firmware-symbolic`\r\n  * `computer-laptop-symbolic`\r\n  * `location-active-symbolic`\r\n  * `location-inactive-symbolic`\r\n  * `location-disabled-symbolic`\r\n  * 64px `night-light`\r\n  * 48px `image-crop`\r\n  * 48px `mail-send`",
+        "href": "https://github.com/elementary/icons/releases/tag/5.0.4"
+      },
+      {
+        "version": "5.0.3",
+        "release_date": "2019-02-11T21:38:22",
+        "title": "elementary Icons 5.0.3 Released",
+        "body": "elementary-icon-theme 5.0.3 is out!\r\n\r\nChanges:\r\n\r\n* Redesigned weather icons\r\n* New and redesigned `mail-mark-*`\r\n* Refined align actions\r\n* Adjust contrast of `selection-*-symbolic`\r\n* Added new icons:\r\n  * `drive-harddisk-solidstate`\r\n  * `input-keyboard-numlock-symbolic`\r\n  * 16px `night-light-*`\r\n  * Added and redesigned `path-*`\r\n  * 32px `input-touchpad`\r\n  * `microphone-sensitivity-muted-*` animation\r\n  * `application-x-generic`\r\n  * Added and redesigned `object-group`",
+        "href": "https://github.com/elementary/icons/releases/tag/5.0.3"
+      },
+      {
+        "version": "5.0.2",
+        "release_date": "2018-12-29T03:33:12",
+        "title": "elementary Icons 5.0.2 Released",
+        "body": "elementary-icon-theme 5.0.2 is out!\r\n\r\nChanges:\r\n* New palette colors for `edit-flag`\r\n* Add `user-desktop-open` as symlink to `folder-open`",
+        "href": "https://github.com/elementary/icons/releases/tag/5.0.2"
+      },
+      {
+        "version": "5.0.1",
+        "release_date": "2018-12-06T16:53:16",
+        "title": "elementary Icons 5.0.1 Released",
+        "body": "elementary-icon-theme 5.0.1 is out!\r\n\r\nChanges:\r\n* `phone` icons redesigned\r\n* Appointment icon family are more consistent\r\n* Disabled icons are more consistent\r\n* Symbolic apps/multimedia match color and scale\r\n* Added new icons:\r\n  * `playlist-symbolic`\r\n  * `playlist-queue-symbolic`\r\n  * `internet-chat-symbolic`\r\n  * `input-keyboard-capslock-symbolic`\r\n  * `mail-send-symbolic-rtl`\r\n  * `preferences-system-notifications-rtl`\r\n  * `preferences-system-notifications-rtl`\r\n  * `audio-headphones` and `audio-headset`\r\n  * `computer-convertible`",
+        "href": "https://github.com/elementary/icons/releases/tag/5.0.1"
+      },
+      {
+        "version": "5.0",
+        "release_date": "2018-10-16T05:18:18",
+        "title": "elementary Icons 5.0 Released",
+        "body": "elementary-icon-theme 5.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/icons/issues?q=is%3Aclosed+milestone%3A5.0).",
+        "href": "https://github.com/elementary/icons/releases/tag/5.0"
+      },
+      {
+        "version": "4.3.1",
+        "release_date": "2017-10-23T17:52:41",
+        "title": "elementary Icons 4.3.1 Released",
+        "body": "elementary-icon-theme 4.3.1 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/icons/issues?q=is%3Aclosed+milestone%3A4.3.1).",
+        "href": "https://github.com/elementary/icons/releases/tag/4.3.1"
+      },
+      {
+        "version": "4.3.0",
+        "release_date": "2017-09-26T16:36:28",
+        "title": "elementary Icons 4.3.0 Released",
+        "body": "elementary-icon-theme 4.3.0 is out!\r\n\r\nThe list of issues closed for this release can be found [here](https://github.com/elementary/icons/issues?q=is%3Aclosed+milestone%3A4.3.0).",
+        "href": "https://github.com/elementary/icons/releases/tag/4.3.0"
+      },
+      {
+        "version": "4.2.0",
+        "release_date": "2017-07-19T16:50:09",
+        "title": "elementary Icons 4.2.0 Released",
+        "body": "elementary-icon-theme 4.2.0 is out!\r\n\r\nThe list of issues closed for this release can be found [here](https://github.com/elementary/icons/milestone/3?closed=1).",
+        "href": "https://github.com/elementary/icons/releases/tag/4.2.0"
+      },
+      {
+        "version": "4.1.0",
+        "release_date": "2017-05-15T03:27:34",
+        "title": "elementary Icons 4.1.0 Released",
+        "body": "elementary-icon-theme 4.1.0 is out!",
+        "href": "https://github.com/elementary/icons/releases/tag/4.1.0"
+      },
+      {
+        "version": "4.0.3",
+        "release_date": "2017-03-18T17:07:48",
+        "title": "",
+        "body": "",
+        "href": "https://github.com/elementary/icons/releases/tag/4.0.3"
+      },
+      {
+        "version": "4.0.1.1",
+        "release_date": "2016-10-25T19:46:00",
+        "title": "",
+        "body": "",
+        "href": "https://github.com/elementary/icons/releases/tag/4.0.1.1"
+      }
+    ],
+    "new_commits": 0,
+    "default_branch": "master"
+  },
+  {
+    "name": "code",
+    "releases": [
+      {
+        "version": "7.0.0",
+        "release_date": "2023-01-24T16:59:41",
+        "title": "Code 7.0.0 Released",
+        "body": "## What's Changed\r\n* Fix compile warnings by @jeremypw in https://github.com/elementary/code/pull/1056\r\n* add code to keywords by @yuraMovsesyan in https://github.com/elementary/code/pull/1195\r\n* Fix drag and drop of accented text and between tabs by @jeremypw in https://github.com/elementary/code/pull/1194\r\n* Git ignore flatpak build files by @jeremypw in https://github.com/elementary/code/pull/1197\r\n* Ensure tab toggle label is always correct by @jeremypw in https://github.com/elementary/code/pull/1145\r\n* Add follow system style switch by @danirabbit in https://github.com/elementary/code/pull/1202\r\n* Explicitly handle missing cases by @jeremypw in https://github.com/elementary/code/pull/1199\r\n* Remove unused properties by @jeremypw in https://github.com/elementary/code/pull/1205\r\n* Change key to trigger rebuild completion word list by @jeremypw in https://github.com/elementary/code/pull/1149\r\n* Global search selected by @jeremypw in https://github.com/elementary/code/pull/1049\r\n* Move strip trailing whitespace into main code; remove plugin by @jeremypw in https://github.com/elementary/code/pull/1151\r\n* Fix meson warning for run_command by @turbobastii in https://github.com/elementary/code/pull/1207\r\n* Add custom elementary syntax styles by @micahilbery in https://github.com/elementary/code/pull/1076\r\n* Hide non-active documents when project manually chosen by @jeremypw in https://github.com/elementary/code/pull/1114\r\n* Show symbol outline pane on right of document by @jeremypw in https://github.com/elementary/code/pull/1048\r\n* ProjectFolderItem: Fix wrong ngettext syntax by @ryonakano in https://github.com/elementary/code/pull/1212\r\n* Redesign app icon as a tile by @danirabbit in https://github.com/elementary/code/pull/1211\r\n* Put the ProjectChooserButton inside the sidebar by @danirabbit in https://github.com/elementary/code/pull/1217\r\n* HeaderBar: put find actions in menu by @danirabbit in https://github.com/elementary/code/pull/1219\r\n* EditorConfig plugin overrides global settings for indent width and style by @jeremypw in https://github.com/elementary/code/pull/1204\r\n* Make sidebar pane the toplevel container by @danirabbit in https://github.com/elementary/code/pull/1218\r\n* Use elementary styles when following system style by @danirabbit in https://github.com/elementary/code/pull/1222\r\n* Change panel menu items to linkbutton by @danirabbit in https://github.com/elementary/code/pull/1223\r\n* FormatBar: use SwitchModelButton in tab popover by @danirabbit in https://github.com/elementary/code/pull/1227\r\n* Move Terminal to core by @danirabbit in https://github.com/elementary/code/pull/1225\r\n* Headerbar: remove sep before Revert by @danirabbit in https://github.com/elementary/code/pull/1230\r\n* FormatBar: use menubuttons instead of ToggleButtons by @danirabbit in https://github.com/elementary/code/pull/1231\r\n* Sidebar: Remove minimum width by @danirabbit in https://github.com/elementary/code/pull/1233\r\n* GSchema: follow system style by default by @danirabbit in https://github.com/elementary/code/pull/1235\r\n* Only restore documents for first window. by @jeremypw in https://github.com/elementary/code/pull/1239\r\n* Do not add duplicate project by @jeremypw in https://github.com/elementary/code/pull/1238\r\n* Update ci.yml by @danirabbit in https://github.com/elementary/code/pull/1242\r\n* FormatBar: Set sensitivity of affected items, fix binding by @danirabbit in https://github.com/elementary/code/pull/1236\r\n* PluginManager: Remove unused hooks by @danirabbit in https://github.com/elementary/code/pull/1240\r\n* Make Control-Scroll zooming controllable by @jeremypw in https://github.com/elementary/code/pull/1245\r\n* Metainfo improvements by @danirabbit in https://github.com/elementary/code/pull/1241\r\n* Headerbar: code style, small fixes by @danirabbit in https://github.com/elementary/code/pull/1234\r\n* Application: use built-in GLib functions in Activate by @danirabbit in https://github.com/elementary/code/pull/1243\r\n* Inactivate find actions when no current doc by @jeremypw in https://github.com/elementary/code/pull/1251\r\n* Fix startup warnings by @jeremypw in https://github.com/elementary/code/pull/1250\r\n* Styles: misc refinements by @danirabbit in https://github.com/elementary/code/pull/1226\r\n\r\n## New Contributors\r\n* @yuraMovsesyan made their first contribution in https://github.com/elementary/code/pull/1195\r\n* @turbobastii made their first contribution in https://github.com/elementary/code/pull/1207\r\n* @micahilbery made their first contribution in https://github.com/elementary/code/pull/1076\r\n\r\n**Full Changelog**: https://github.com/elementary/code/compare/6.2.0...7.0.0",
+        "href": "https://github.com/elementary/code/releases/tag/7.0.0"
+      },
+      {
+        "version": "6.2.0",
+        "release_date": "2022-04-04T16:20:49",
+        "title": "code 6.2.0 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>The current document filename is now shown as the window title in multitasking view</li>\n<li>Hidden folders are now shown in the project sidebar</li>\n<li>The currently selected result and the number of results is displayed while searching</li>\n<li>The search bar now has a regular expression mode</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>It is now possible to change Git branch with untracked files present in a project</li>\n<li>Crashes are prevented while searching in large projects</li>\n<li>The correct document is now focused after opening Code from an external program</li>\n<li>Line duplication is now actioned correctly if there is no selection present</li>\n<li>Code no longer crashes when asked to open an unknown URI format</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/code/releases/tag/6.2.0"
+      },
+      {
+        "version": "6.1.0",
+        "release_date": "2021-11-23T21:06:10",
+        "title": "code 6.1.0 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Projects with the same name now include their parent folder name as well</li>\n<li>When scrolling to search results, overshoot slightly for better visibility</li>\n<li>Use the FileChooser portal instead of the one from GTK</li>\n<li>Center the global search dialog over the main Code window</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Fix visibility of Terminal button on Welcome page</li>\n<li>Fix some keyboard shortcuts affecting unfocused Document instead of focused Terminal</li>\n<li>Close Terminal if shell exited and create new Terminal if re-opened with no shell</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>\"Visible whitespace\" combobox is now a switch</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/code/releases/tag/6.1.0"
+      },
+      {
+        "version": "6.0.1",
+        "release_date": "2021-09-28T22:06:14",
+        "title": "Code 6.0.1 Released",
+        "body": "<p>Fixes:</p>\r\n<ul>\r\n<li>Fix crash when creating new window from tab drop</li>\r\n<li>Ensure files created from the sidebar are automatically opened</li>\r\n</ul>\r\n<p>Improvements:</p>\r\n<ul>\r\n<li>Hide project chooser button when hiding sidebar</li>\r\n</ul>\r\n<p>Minor updates:</p>\r\n<ul>\r\n<li>Ensure all copy is translatable</li>\r\n<li>Updated translations</li>\r\n</ul>",
+        "href": "https://github.com/elementary/code/releases/tag/6.0.1"
+      },
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-15T21:14:07",
+        "title": "code 6.0.0 Released",
+        "body": "<p>New features:</p>\n<ul>\n<li>New Markdown plugin for WYSIWYG-like editing.</li>\n<li>Switch Git branches or create new ones in project folder context menus</li>\n<li>Show Git diff status in source view gutters</li>\n<li>Full text search within project folder.</li>\n<li>Save and restore cursor position between sessions</li>\n<li>Close files from a project when that project is closed</li>\n<li>Show full file path in tab tooltips</li>\n<li>Clear lines with Ctrl + K</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Allow Spell Checker extension in Markdown files</li>\n<li>Improve multi-line duplication</li>\n<li>Remember whether the sidebar is open</li>\n<li>Set window title to the focused file</li>\n<li>Add keyboard shortcuts for next and previous documents</li>\n<li>Show full document path in tab tooltip</li>\n<li>Update Pastebin plugin</li>\n<li>Corrently indent last line when using the preserve whitespace plugin</li>\n<li>Keep syntax highlighting when duplicating a file</li>\n<li>Expand a collapsed folder if you attempt to open it twice</li>\n<li>Fix an issue where searches are lost when Code loses focus</li>\n<li>Start Vim plugin in command mode</li>\n<li>Fix and add new Vim commands</li>\n<li>Show project folders with a hidden root folder</li>\n<li>Allow launching with pkexec and disallow launching with sudo</li>\n<li>Remove split view</li>\n<li>Remove browser preview</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/code/releases/tag/6.0.0"
+      },
+      {
+        "version": "3.4.1",
+        "release_date": "2020-06-09T19:11:16",
+        "title": "code 3.4.1 Released",
+        "body": "<p>Fixes:</p>\n<ul>\n<li>Fix empty sidebar layout, ensuring folders can always be added</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Scroll past the end of a file</li>\n<li>More efficiently save and restore window position</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/code/releases/tag/3.4.1"
+      },
+      {
+        "version": "3.4.0",
+        "release_date": "2020-04-02T00:31:58",
+        "title": "code 3.4.0 Released",
+        "body": "code 3.4.0 is out! \n\n<p>New features:</p>\n<ul>\n<li>Include Git status in file tooltips</li>\n<li>Option for explicit case-sensitive Find</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Correctly show Toggle Comment menu item when no text is selected</li>\n<li>Fixed font switch alignment</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/code/releases/tag/3.4.0"
+      },
+      {
+        "version": "3.3.0",
+        "release_date": "2020-02-29T20:15:24",
+        "title": "code 3.3.0 Released",
+        "body": "code 3.3.0 is out! \n\n<p>New features:</p>\n<ul>\n<li>New \"Close Other Folders\" menu item to help clean up your sidebar</li>\n<li>Save and restore cyclic search setting</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Add keyboard shortcuts to menu items</li>\n<li>Make sidebar folder items not selectable</li>\n<li>Center new windows</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/code/releases/tag/3.3.0"
+      },
+      {
+        "version": "3.2.0",
+        "release_date": "2020-01-10T19:59:56",
+        "title": "code 3.2.0 Released",
+        "body": "code 3.2.0 is out! \n\n<p>New features:</p>\n<ul>\n<li>Visually deprioritize .gitignored files in project sidebar</li>\n<li>Smart cut/copy lines with no active selection</li>\n<li>Add a confirmation dialog to the \"Restore\" action</li>\n<li>Add \"Open In\" menu to the top-level folder in the folder manager</li>\n<li>Don't show temporary files in the folder manager</li>\n<li>Add brackets completion and auto-indent by default</li>\n<li>Zoom terminal plugin with keyboard</li>\n<li>Honor global privacy setting when saving and restoring</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Simplify \"Draw spaces\" preference</li>\n<li>Fix the keyboard shortcut for going backwards in search results</li>\n<li>Fix opening files from relative paths in Terminal</li>\n<li>Fix null file dialog when opening a new window via the dock</li>\n<li>Add \"=\" as a zoom key</li>\n<li>Change search entry icon when results aren't found</li>\n<li>Enter name of new file before creating it</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/code/releases/tag/3.2.0"
+      },
+      {
+        "version": "3.1.1",
+        "release_date": "2019-03-14T18:43:15",
+        "title": "Code 3.1.1 Released",
+        "body": "Code 3.1.1 is out!\r\n\r\nChanges:\r\n* Use `Granite.MessageDialog` throughout\r\n* Include non-text files in sidebar\r\n* Fix `Remove Current View`",
+        "href": "https://github.com/elementary/code/releases/tag/3.1.1"
+      },
+      {
+        "version": "3.1.0",
+        "release_date": "2019-03-06T11:14:42",
+        "title": "Code 3.1.0 Released",
+        "body": "Code 3.1.0 is out!\r\n\r\nChanges:\r\n* Fix `New Window` desktop action behavior\r\n* Properly synchronize `Ctrl+N` key presses with number of new documents spawned\r\n* Build system fix for `editorconfig` dependency\r\n* Add `Change Branch` context menu item\r\n* Avoid possible startup crash related to how plugins load\r\n* Updated translations",
+        "href": "https://github.com/elementary/code/releases/tag/3.1.0"
+      },
+      {
+        "version": "3.0.2",
+        "release_date": "2019-01-03T06:34:28",
+        "title": "Code 3.0.2 Released",
+        "body": "Code 3.0.2 is out!\r\n\r\nChanges:\r\n* Smarter file saving behavior\r\n* File saving fixes\r\n* Don't add temporary files to tab restore",
+        "href": "https://github.com/elementary/code/releases/tag/3.0.2"
+      },
+      {
+        "version": "3.0.1",
+        "release_date": "2018-11-30T14:06:36",
+        "title": "Code 3.0.1 Released",
+        "body": "Code 3.0.1 is out!\r\n\r\nChanges:\r\n* Don't recreate deleted files when restoring session\r\n* Restore line wrap preference\r\n* Add accel tooltips\r\n* Minor bug fixes\r\n* Updated translations",
+        "href": "https://github.com/elementary/code/releases/tag/3.0.1"
+      },
+      {
+        "version": "3.0",
+        "release_date": "2018-10-16T09:38:13",
+        "title": "Code 3.0 Released",
+        "body": "Code 3.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/code/issues?q=is%3Aclosed+milestone%3A3.0).",
+        "href": "https://github.com/elementary/code/releases/tag/3.0"
+      }
+    ],
+    "new_commits": 0,
+    "default_branch": "master"
+  },
+  {
+    "name": "appcenter",
+    "releases": [
+      {
+        "version": "7.0.0",
+        "release_date": "2023-01-24T16:59:17",
+        "title": "AppCenter 7.0.0 Released",
+        "body": "## What's Changed\r\n* PackageKitBackend: resolve addons in appstream pool by @danirabbit in https://github.com/elementary/appcenter/pull/1946\r\n* Gresource: add more category icons by @danirabbit in https://github.com/elementary/appcenter/pull/1948\r\n* Fix visual issues with category icons by @danirabbit in https://github.com/elementary/appcenter/pull/1954\r\n* Flatpak Runtimes by @meisenzahl in https://github.com/elementary/appcenter/pull/1956\r\n* Size information for Runtime Updates by @meisenzahl in https://github.com/elementary/appcenter/pull/1957\r\n* Install PackageKit based Operating System Updates as Offline Updates by @meisenzahl in https://github.com/elementary/appcenter/pull/1943\r\n* Pretty output Flatpak package origins by @meisenzahl in https://github.com/elementary/appcenter/pull/1962\r\n* Warn running in Demo Mode by @meisenzahl in https://github.com/elementary/appcenter/pull/1963\r\n* Show Operating System Updates and Runtime Updates only if available by @meisenzahl in https://github.com/elementary/appcenter/pull/1960\r\n* Make loading updates async from main AppCenter window by @meisenzahl in https://github.com/elementary/appcenter/pull/1964\r\n* Gettext: install git by @danirabbit in https://github.com/elementary/appcenter/pull/1968\r\n* Gresource: mark OARS icons as scalable, scale all to 32px by @danirabbit in https://github.com/elementary/appcenter/pull/1970\r\n* Metainfo Improvements by @danirabbit in https://github.com/elementary/appcenter/pull/1972\r\n* Fix crash activating category while checking for updates by @vjr in https://github.com/elementary/appcenter/pull/1973\r\n\r\n## New Contributors\r\n* @vjr made their first contribution in https://github.com/elementary/appcenter/pull/1973\r\n\r\n**Full Changelog**: https://github.com/elementary/appcenter/compare/4.0.0...7.0.0",
+        "href": "https://github.com/elementary/appcenter/releases/tag/7.0.0"
+      },
+      {
+        "version": "4.0.0",
+        "release_date": "2022-10-27T04:15:27",
+        "title": "appcenter 4.0.0 Released",
+        "body": "<p>New features:</p>\n<ul>\n<li>Rewritten navigation with multitouch gestures to go back</li>\n<li>Recently updated apps are shown at the top of category views</li>\n<li>A status overlay bar is now shown when tasks are in progress</li>\n</ul>\n<p>App Info Page Improvements:</p>\n<ul>\n<li>Screenshot carousels fill the width of the window, showing more screenshots at once</li>\n<li>An app's accent color is now shown behind screenshots</li>\n<li>Get brand colors from the AppStream standard so more apps are supported</li>\n<li>Wrap links at the bottom pages instead of ellipsize</li>\n<li>Better dark style support</li>\n</ul>\n<p>Updates View Improvements:</p>\n<ul>\n<li>Release notes are shown in a dialog</li>\n<li>Better fallback icons for components</li>\n<li>The \"Update All\" header now sticks to the top of the window when scrolling</li>\n</ul>\n<p>Other Improvements:</p>\n<ul>\n<li>Redesigned \"Fun &amp; Games\" category card</li>\n<li>Performance improvements</li>\n<li>Stability improvements</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/appcenter/releases/tag/4.0.0"
+      },
+      {
+        "version": "3.10.0",
+        "release_date": "2022-05-26T05:54:32",
+        "title": "appcenter 3.10.0 Released",
+        "body": "<p>New features:</p>\n<ul>\n<li>Added an option to automatically update apps</li>\n<li>Manually check for new updates</li>\n<li>Warn when apps are built against older runtimes</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Prevent back button from disappearing or requiring multiple clicks</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Don't show a warning dialog about apps from alt stores</li>\n<li>Show screenshot captions in a tooltip</li>\n<li>Show \"Try for Free\" when setting an app's price to 0</li>\n<li>Performance improvements</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.10.0"
+      },
+      {
+        "version": "3.9.1",
+        "release_date": "2021-12-11T05:20:33",
+        "title": "appcenter 3.9.1 Released",
+        "body": "<p>Fixes:</p>\n<ul>\n<li>Prevent potential crashes when updating</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Link to Flathub's search page when no search results are found</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.9.1"
+      },
+      {
+        "version": "3.9.0",
+        "release_date": "2021-11-23T21:22:44",
+        "title": "appcenter 3.9.0 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Amusements appear in the Games category</li>\n<li>Categories show as a grid instead of a list</li>\n<li>Allow window to shrink to much narrower sizes</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.9.0"
+      },
+      {
+        "version": "3.8.2",
+        "release_date": "2021-10-29T17:35:37",
+        "title": "AppCenter 3.8.2 Released!",
+        "body": "## What's Changed\r\n* FlatpakBackend: Handle transaction success state correctly by @davidmhewitt in https://github.com/elementary/appcenter/pull/1730\r\n* FlatpakBackend: Sort stable apps in XML first by @davidmhewitt in https://github.com/elementary/appcenter/pull/1731\r\n* FlatpakBackend: Improve XML parsing efficiency by @davidmhewitt in https://github.com/elementary/appcenter/pull/1733\r\n\r\n**Full Changelog**: https://github.com/elementary/appcenter/compare/3.8.1...3.8.2",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.8.2"
+      },
+      {
+        "version": "3.8.1",
+        "release_date": "2021-10-26T17:02:14",
+        "title": "AppCenter 3.8.1 Released",
+        "body": "<p>Fixes:</p>\r\n<ul>\r\n<li>Don't store $0 app installs as paid</li>\r\n<li>Fix missing illicit substances icon</li>\r\n<li>Don't show plugins on the homepage</li>\r\n<li>Only show \"Multiplayer\" badge for games</li>\r\n</ul>\r\n<p>Improvements:</p>\r\n<ul>\r\n<li>Show installation progress in a more compact way</li>\r\n<li>Updated translations</li>\r\n</ul>",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.8.1"
+      },
+      {
+        "version": "3.8.0",
+        "release_date": "2021-09-21T21:48:38",
+        "title": "AppCenter 3.8.0 Released",
+        "body": "New features:\r\n - Show content warnings on app info pages\r\n\r\nFixes:\r\n- Show other apps by an author for Flatpak sources\r\n- Populate banner on home locally instead of relying on an external API\r\n\r\nImprovements:\r\n- Greatly increased number of recently-updated apps shown on home page\r\n- Navigate banners on the home page with multitouch gestures\r\n- Updated translations",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.8.0"
+      },
+      {
+        "version": "3.7.1",
+        "release_date": "2021-08-30T18:37:19",
+        "title": "appcenter 3.7.1 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Show apps from newly sideloaded remotes without requiring a restart</li>\n<li>Less abrupt transition when changing app sources</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.7.1"
+      },
+      {
+        "version": "3.7.0",
+        "release_date": "2021-08-26T02:19:00",
+        "title": "appcenter 3.7.0 Released",
+        "body": "<p>Fixes:</p>\n<ul>\n<li>Install Linux kernel headers for device drivers that use DKMS</li>\n<li>Use system Flatpak runtimes for locally installed apps</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Mention Sideload when search returns no results</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.7.0"
+      },
+      {
+        "version": "3.6.3",
+        "release_date": "2021-08-16T06:39:23",
+        "title": "appcenter 3.6.3 Released",
+        "body": "<p>Fixes:</p>\n<ul>\n<li>Ensure user installation is selected by default when navigating from the homepage</li>\n<li>Fix opening apps from app installed toasts</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.6.3"
+      },
+      {
+        "version": "3.6.2",
+        "release_date": "2021-08-09T18:08:10",
+        "title": "appcenter 3.6.2 Released",
+        "body": "<p>Fixes:</p>\n<ul>\n<li>Install Linux kernel headers with NVIDIA drivers</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.6.2"
+      },
+      {
+        "version": "3.6.1",
+        "release_date": "2021-08-03T00:31:07",
+        "title": "appcenter 3.6.1 Released",
+        "body": "<p>Fixes:</p>\n<ul>\n<li>Show Recently Updated Flatpak apps on home page</li>\n<li>Show brand colors and support payments for Flatpak apps</li>\n<li>Fix missing mail icon in payments dialog</li>\n<li>Fix missing privacy policy in payments dialog</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.6.1"
+      },
+      {
+        "version": "3.6.0",
+        "release_date": "2021-07-16T19:00:21",
+        "title": "appcenter 3.6.0 Released",
+        "body": "<p>New features:</p>\n<ul>\n<li>Show in-app notification when an app is installed</li>\n<li>Add contextual badges to notifications</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Ensure Home button is usable during search</li>\n<li>Ask the user to manually restart if we can't ask the session to prompt</li>\n<li>Improve styling and contrast of buttons</li>\n<li>More concise and consistent language</li>\n<li>Updated translations</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Fully uninstall Flatpaks, including locales</li>\n<li>Still fetch screenshots from remotes that don't include proper headers</li>\n<li>Fix truncated footer buttons</li>\n<li>Only show Mail button when a usable mail app is installed</li>\n<li>Fix some apps incorrectly showing as not installed during search</li>\n<li>Show an error dialog when opening an app fails</li>\n</ul>\n",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.6.0"
+      },
+      {
+        "version": "3.5.1",
+        "release_date": "2020-10-08T17:26:39",
+        "title": "appcenter 3.5.1 Released",
+        "body": "<p>Fixes</p>\n<ul>\n<li>Correctly display names of Flatpak runtime updates</li>\n</ul>\n<p>Minor updates</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.5.1"
+      },
+      {
+        "version": "3.5.0",
+        "release_date": "2020-10-07T03:57:49",
+        "title": "appcenter 3.5.0 Released",
+        "body": "<p>New features</p>\n<ul>\n<li>Support system-wide Flatpak remotes</li>\n</ul>\n<p>Fixes</p>\n<ul>\n<li>Fix Flatpak runtime updates getting stuck</li>\n<li>Fix long origin comboboxes breaking the header layout</li>\n</ul>\n<p>Minor updates</p>\n<ul>\n<li>When apps are available from multiple sources, prefer installed version, then prefer Flatpak</li>\n<li>Improve search performance</li>\n<li>Improve update badge styling and category styling</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.5.0"
+      },
+      {
+        "version": "3.4.2",
+        "release_date": "2020-08-07T17:40:17",
+        "title": "appcenter 3.4.2 Released",
+        "body": "<p>Fixes</p>\n<ul>\n<li>Ensure AppCenter is reopened at the correct position</li>\n<li>Clicking the updates badge in the header navigates to the updates view</li>\n</ul>\n<p>Minor updates</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.4.2"
+      },
+      {
+        "version": "3.4.1",
+        "release_date": "2020-06-30T23:55:36",
+        "title": "appcenter 3.4.1 Released",
+        "body": "<p>Fixes</p>\n<ul>\n<li>Ensure all updatable Flatpak runtimes are listed for update</li>\n</ul>\n<p>Minor updates</p>\n<ul>\n<li>Performance improvments</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.4.1"
+      },
+      {
+        "version": "3.4.0",
+        "release_date": "2020-05-28T18:09:17",
+        "title": "appcenter 3.4.0 Released",
+        "body": "<p>New features</p>\n<ul>\n<li>Perform updates without administrator permissions</li>\n</ul>\n<p>Minor updates</p>\n<ul>\n<li>Ensure apps on the homepage are more reliably displayed</li>\n<li>More reliably set the Dock badge number</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.4.0"
+      },
+      {
+        "version": "3.3.0",
+        "release_date": "2020-04-29T21:46:10",
+        "title": "appcenter 3.3.0 Released",
+        "body": "<p>Performance improvements</p>\n<ul>\n<li>Only check for updates at device startup if it's more than 24 hours since we last checked</li>\n<li>Reduce slowdowns when opening certain apps</li>\n</ul>\n<p>Extension improvements</p>\n<ul>\n<li>To de-clutter the updates view, extensions are now only shown if they require updates</li>\n<li>Clicking an extension on an app's info page now shows details for the extension</li>\n<li>Swap the main and overlay icons for extensions to more clearly associate extensions with their app</li>\n</ul>\n<p>Keyboard improvements</p>\n<ul>\n<li>Pressing down in the search field moves the keyboard focus to the search results list</li>\n<li>Ctrl+F now moves the cursor to the search field</li>\n</ul>\n<p>Fixes</p>\n<ul>\n<li>Use configured network proxy settings for apt operations</li>\n<li>No longer prompt for approval to update non-curated apps</li>\n<li>Ensure the OS updates subheading copy is correct after finishing updates</li>\n<li>Ellipsize long app names in App Info views</li>\n</ul>\n<p>And more</p>\n<ul>\n<li>Show a more informative loading screen when checking for updates</li>\n<li>Don't list fonts alongside apps</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.3.0"
+      },
+      {
+        "version": "3.2.4",
+        "release_date": "2020-04-08T23:32:02",
+        "title": "appcenter 3.2.4 Released",
+        "body": "<p>Fixes</p>\n<ul>\n<li>Prevent crashes when updating Flatpaks and system packages simultaneously</li>\n<li>Prevent suspending when installing, updating, or removing packages</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.2.4"
+      },
+      {
+        "version": "3.2.3",
+        "release_date": "2020-04-02T00:19:54",
+        "title": "appcenter 3.2.3 Released",
+        "body": "appcenter 3.2.3 is out! \n\n<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.2.3"
+      },
+      {
+        "version": "3.2.2",
+        "release_date": "2020-02-28T20:49:46",
+        "title": "appcenter 3.2.2 Released",
+        "body": "appcenter 3.2.2 is out! \n\n<p>Minor fixes</p>\n<ul>\n<li>Update application details when changes happen outside of AppCenter</li>\n<li>Fix for notification not appearing when a restart is required</li>\n<li>Apps in list views now load in the correct order when scrolling</li>\n<li>Prevent unescaped XML entities from appearing in application names</li>\n<li>Load the \"Installed\" view faster</li>\n<li>Ensure flatpak applications show in the category views</li>\n<li>Save some bandwidth by downloading smaller screenshots where appropriate</li>\n<li>System components no longer have an \"Open\" button</li>\n<li>Applications menu can now remove flatpaks that weren't installed by AppCenter</li>\n<li>Make download size estimates more accurate</li>\n</ul>\n",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.2.2"
+      },
+      {
+        "version": "3.2.1",
+        "release_date": "2019-12-02T17:54:05",
+        "title": "appcenter 3.2.1 Released",
+        "body": "appcenter 3.2.1 is out! \n\n<p>Minor fixes</p>\n<ul>\n<li>Prevent AppCenter from opening on log in</li>\n<li>Prevent ghost update notification when there are no updates available</li>\n<li>Show correct installation state for extensions</li>\n</ul>\n",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.2.1"
+      },
+      {
+        "version": "3.2.0",
+        "release_date": "2019-10-31T16:05:57",
+        "title": "appcenter 3.2.0 Released",
+        "body": "appcenter 3.2.0 is out! \n\nChanges:\n\n* Add support for Flatpak apps\n* Warn about non-curated apps\n* Show an error dialog if an installation fails\n* Fix an issue where some apps couldn't be uninstalled from the Applications Menu\n* Allow browsing and uninstalling apps while offline\n* Fix twitter share URLs\n* Drop Google+ from the share menu\n* Animate screenshot background while loading\n* Add navigation arrows for screenshots\n* Don't show uninstall buttons for essential system components\n* Properly display proprietary licenses\n* Fix some layout issues\n* Fix crashes\n* Performance improvements\n* Updated translations\n",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.2.0"
+      },
+      {
+        "version": "3.1.1",
+        "release_date": "2019-02-15T00:56:08",
+        "title": "AppCenter 3.1.1 Released",
+        "body": "AppCenter 3.1.1 is out!\r\n\r\nChanges:\r\n* Meson build system fixes\r\n* Improve window state restoration\r\n* Prevent action buttons from jumping around\r\n* Remove reset paid apps gsettings key\r\n* Memory management refinements\r\n* Add conditional compilation for disabling dynamic remote homepage content\r\n* Updated translations",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.1.1"
+      },
+      {
+        "version": "3.1.0",
+        "release_date": "2019-01-02T07:14:19",
+        "title": "AppCenter 3.1.0 Released",
+        "body": "AppCenter 3.1.0 is out!\r\n\r\nChanges:\r\n* New categories: `Communication`, `Finance`, `Media Production`\r\n* Add `Math` to `Science` category\r\n* Relax email address validator\r\n* Present update availability more accurately\r\n* Category graphics revamped\r\n* Updated translations",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.1.0"
+      },
+      {
+        "version": "3.0.1",
+        "release_date": "2018-10-25T11:44:28",
+        "title": "AppCenter 3.0.1 Released",
+        "body": "AppCenter 3.0.1 is out!\r\n\r\nThis release includes updated translations.",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.0.1"
+      },
+      {
+        "version": "3.0",
+        "release_date": "2018-10-16T10:33:33",
+        "title": "AppCenter 3.0 Released",
+        "body": "AppCenter 3.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/appcenter/issues?q=is%3Aclosed+milestone%3A3.0).",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.0"
+      },
+      {
+        "version": "0.2.9",
+        "release_date": "2018-03-02T12:24:42",
+        "title": "AppCenter 0.2.9 Released",
+        "body": "AppCenter 0.2.9 is out!\r\n\r\nThis release includes several [bug fixes](https://github.com/elementary/appcenter/issues?q=is%3Aclosed+milestone%3A0.2.9).",
+        "href": "https://github.com/elementary/appcenter/releases/tag/0.2.9"
+      },
+      {
+        "version": "0.2.8",
+        "release_date": "2018-01-25T17:00:38",
+        "title": "AppCenter 0.2.8 Released",
+        "body": "AppCenter 0.2.8 is out!\r\n\r\nThis release includes several [bug fixes](https://github.com/elementary/appcenter/issues?q=is%3Aclosed+milestone%3A0.2.8).",
+        "href": "https://github.com/elementary/appcenter/releases/tag/0.2.8"
+      },
+      {
+        "version": "0.2.7",
+        "release_date": "2017-11-07T12:18:38",
+        "title": "AppCenter 0.2.7 Released",
+        "body": "AppCenter 0.2.7 is out!\r\n\r\nThis release includes several [bug fixes](https://github.com/elementary/appcenter/issues?q=is%3Aclosed+milestone%3A0.2.7).",
+        "href": "https://github.com/elementary/appcenter/releases/tag/0.2.7"
+      },
+      {
+        "version": "0.2.6",
+        "release_date": "2017-09-18T12:01:32",
+        "title": "AppCenter 0.2.6 Released",
+        "body": "AppCenter 0.2.6 is out!\r\n\r\nThis release includes several [bug fixes](https://github.com/elementary/appcenter/issues?q=is%3Aclosed+milestone%3A0.2.6).",
+        "href": "https://github.com/elementary/appcenter/releases/tag/0.2.6"
+      },
+      {
+        "version": "0.2.5",
+        "release_date": "2017-08-04T11:08:14",
+        "title": "AppCenter 0.2.5 Released",
+        "body": "AppCenter 0.2.5 is out!\r\n\r\nThis release includes several [bug fixes](https://github.com/elementary/appcenter/milestone/7?closed=1).",
+        "href": "https://github.com/elementary/appcenter/releases/tag/0.2.5"
+      },
+      {
+        "version": "0.2.4",
+        "release_date": "2017-07-04T07:12:53",
+        "title": "AppCenter 0.2.4 Released",
+        "body": "AppCenter 0.2.4 is out!\r\n\r\nThis release includes several [bug fixes](https://github.com/elementary/appcenter/milestone/6?closed=1).",
+        "href": "https://github.com/elementary/appcenter/releases/tag/0.2.4"
+      },
+      {
+        "version": "0.2.3",
+        "release_date": "2017-05-31T22:15:24",
+        "title": "AppCenter 0.2.3 Released",
+        "body": "AppCenter 0.2.3 is out!\r\n\r\nThis release includes several [bug fixes](https://github.com/elementary/appcenter/milestone/5?closed=1).",
+        "href": "https://github.com/elementary/appcenter/releases/tag/0.2.3"
+      },
+      {
+        "version": "0.2.2",
+        "release_date": "2017-05-21T23:17:29",
+        "title": "AppCenter 0.2.2 Released",
+        "body": "AppCenter 0.2.2 is out!",
+        "href": "https://github.com/elementary/appcenter/releases/tag/0.2.2"
+      },
+      {
+        "version": "0.2.1",
+        "release_date": "2017-05-19T19:37:42",
+        "title": "AppCenter 0.2.1 Released",
+        "body": "AppCenter 0.2.1 is out!",
+        "href": "https://github.com/elementary/appcenter/releases/tag/0.2.1"
+      },
+      {
+        "version": "0.2",
+        "release_date": "2017-05-17T11:35:13",
+        "title": "AppCenter 0.2 Released",
+        "body": "AppCenter 0.2 is out!\r\n\r\nThis release includes several [bug fixes](https://github.com/elementary/appcenter/milestone/1?closed=1)",
+        "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
+      }
+    ],
+    "new_commits": 0,
+    "default_branch": "master"
+  },
+  {
     "name": "installer",
     "releases": [
       {
@@ -2303,279 +2835,6 @@
     "default_branch": "main"
   },
   {
-    "name": "appcenter",
-    "releases": [
-      {
-        "version": "4.0.0",
-        "release_date": "2022-10-27T04:15:27",
-        "title": "appcenter 4.0.0 Released",
-        "body": "<p>New features:</p>\n<ul>\n<li>Rewritten navigation with multitouch gestures to go back</li>\n<li>Recently updated apps are shown at the top of category views</li>\n<li>A status overlay bar is now shown when tasks are in progress</li>\n</ul>\n<p>App Info Page Improvements:</p>\n<ul>\n<li>Screenshot carousels fill the width of the window, showing more screenshots at once</li>\n<li>An app's accent color is now shown behind screenshots</li>\n<li>Get brand colors from the AppStream standard so more apps are supported</li>\n<li>Wrap links at the bottom pages instead of ellipsize</li>\n<li>Better dark style support</li>\n</ul>\n<p>Updates View Improvements:</p>\n<ul>\n<li>Release notes are shown in a dialog</li>\n<li>Better fallback icons for components</li>\n<li>The \"Update All\" header now sticks to the top of the window when scrolling</li>\n</ul>\n<p>Other Improvements:</p>\n<ul>\n<li>Redesigned \"Fun &amp; Games\" category card</li>\n<li>Performance improvements</li>\n<li>Stability improvements</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/appcenter/releases/tag/4.0.0"
-      },
-      {
-        "version": "3.10.0",
-        "release_date": "2022-05-26T05:54:32",
-        "title": "appcenter 3.10.0 Released",
-        "body": "<p>New features:</p>\n<ul>\n<li>Added an option to automatically update apps</li>\n<li>Manually check for new updates</li>\n<li>Warn when apps are built against older runtimes</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Prevent back button from disappearing or requiring multiple clicks</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Don't show a warning dialog about apps from alt stores</li>\n<li>Show screenshot captions in a tooltip</li>\n<li>Show \"Try for Free\" when setting an app's price to 0</li>\n<li>Performance improvements</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.10.0"
-      },
-      {
-        "version": "3.9.1",
-        "release_date": "2021-12-11T05:20:33",
-        "title": "appcenter 3.9.1 Released",
-        "body": "<p>Fixes:</p>\n<ul>\n<li>Prevent potential crashes when updating</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Link to Flathub's search page when no search results are found</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.9.1"
-      },
-      {
-        "version": "3.9.0",
-        "release_date": "2021-11-23T21:22:44",
-        "title": "appcenter 3.9.0 Released",
-        "body": "<p>Improvements:</p>\n<ul>\n<li>Amusements appear in the Games category</li>\n<li>Categories show as a grid instead of a list</li>\n<li>Allow window to shrink to much narrower sizes</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.9.0"
-      },
-      {
-        "version": "3.8.2",
-        "release_date": "2021-10-29T17:35:37",
-        "title": "AppCenter 3.8.2 Released!",
-        "body": "## What's Changed\r\n* FlatpakBackend: Handle transaction success state correctly by @davidmhewitt in https://github.com/elementary/appcenter/pull/1730\r\n* FlatpakBackend: Sort stable apps in XML first by @davidmhewitt in https://github.com/elementary/appcenter/pull/1731\r\n* FlatpakBackend: Improve XML parsing efficiency by @davidmhewitt in https://github.com/elementary/appcenter/pull/1733\r\n\r\n**Full Changelog**: https://github.com/elementary/appcenter/compare/3.8.1...3.8.2",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.8.2"
-      },
-      {
-        "version": "3.8.1",
-        "release_date": "2021-10-26T17:02:14",
-        "title": "AppCenter 3.8.1 Released",
-        "body": "<p>Fixes:</p>\r\n<ul>\r\n<li>Don't store $0 app installs as paid</li>\r\n<li>Fix missing illicit substances icon</li>\r\n<li>Don't show plugins on the homepage</li>\r\n<li>Only show \"Multiplayer\" badge for games</li>\r\n</ul>\r\n<p>Improvements:</p>\r\n<ul>\r\n<li>Show installation progress in a more compact way</li>\r\n<li>Updated translations</li>\r\n</ul>",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.8.1"
-      },
-      {
-        "version": "3.8.0",
-        "release_date": "2021-09-21T21:48:38",
-        "title": "AppCenter 3.8.0 Released",
-        "body": "New features:\r\n - Show content warnings on app info pages\r\n\r\nFixes:\r\n- Show other apps by an author for Flatpak sources\r\n- Populate banner on home locally instead of relying on an external API\r\n\r\nImprovements:\r\n- Greatly increased number of recently-updated apps shown on home page\r\n- Navigate banners on the home page with multitouch gestures\r\n- Updated translations",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.8.0"
-      },
-      {
-        "version": "3.7.1",
-        "release_date": "2021-08-30T18:37:19",
-        "title": "appcenter 3.7.1 Released",
-        "body": "<p>Improvements:</p>\n<ul>\n<li>Show apps from newly sideloaded remotes without requiring a restart</li>\n<li>Less abrupt transition when changing app sources</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.7.1"
-      },
-      {
-        "version": "3.7.0",
-        "release_date": "2021-08-26T02:19:00",
-        "title": "appcenter 3.7.0 Released",
-        "body": "<p>Fixes:</p>\n<ul>\n<li>Install Linux kernel headers for device drivers that use DKMS</li>\n<li>Use system Flatpak runtimes for locally installed apps</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Mention Sideload when search returns no results</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.7.0"
-      },
-      {
-        "version": "3.6.3",
-        "release_date": "2021-08-16T06:39:23",
-        "title": "appcenter 3.6.3 Released",
-        "body": "<p>Fixes:</p>\n<ul>\n<li>Ensure user installation is selected by default when navigating from the homepage</li>\n<li>Fix opening apps from app installed toasts</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.6.3"
-      },
-      {
-        "version": "3.6.2",
-        "release_date": "2021-08-09T18:08:10",
-        "title": "appcenter 3.6.2 Released",
-        "body": "<p>Fixes:</p>\n<ul>\n<li>Install Linux kernel headers with NVIDIA drivers</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.6.2"
-      },
-      {
-        "version": "3.6.1",
-        "release_date": "2021-08-03T00:31:07",
-        "title": "appcenter 3.6.1 Released",
-        "body": "<p>Fixes:</p>\n<ul>\n<li>Show Recently Updated Flatpak apps on home page</li>\n<li>Show brand colors and support payments for Flatpak apps</li>\n<li>Fix missing mail icon in payments dialog</li>\n<li>Fix missing privacy policy in payments dialog</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.6.1"
-      },
-      {
-        "version": "3.6.0",
-        "release_date": "2021-07-16T19:00:21",
-        "title": "appcenter 3.6.0 Released",
-        "body": "<p>New features:</p>\n<ul>\n<li>Show in-app notification when an app is installed</li>\n<li>Add contextual badges to notifications</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Ensure Home button is usable during search</li>\n<li>Ask the user to manually restart if we can't ask the session to prompt</li>\n<li>Improve styling and contrast of buttons</li>\n<li>More concise and consistent language</li>\n<li>Updated translations</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Fully uninstall Flatpaks, including locales</li>\n<li>Still fetch screenshots from remotes that don't include proper headers</li>\n<li>Fix truncated footer buttons</li>\n<li>Only show Mail button when a usable mail app is installed</li>\n<li>Fix some apps incorrectly showing as not installed during search</li>\n<li>Show an error dialog when opening an app fails</li>\n</ul>\n",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.6.0"
-      },
-      {
-        "version": "3.5.1",
-        "release_date": "2020-10-08T17:26:39",
-        "title": "appcenter 3.5.1 Released",
-        "body": "<p>Fixes</p>\n<ul>\n<li>Correctly display names of Flatpak runtime updates</li>\n</ul>\n<p>Minor updates</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.5.1"
-      },
-      {
-        "version": "3.5.0",
-        "release_date": "2020-10-07T03:57:49",
-        "title": "appcenter 3.5.0 Released",
-        "body": "<p>New features</p>\n<ul>\n<li>Support system-wide Flatpak remotes</li>\n</ul>\n<p>Fixes</p>\n<ul>\n<li>Fix Flatpak runtime updates getting stuck</li>\n<li>Fix long origin comboboxes breaking the header layout</li>\n</ul>\n<p>Minor updates</p>\n<ul>\n<li>When apps are available from multiple sources, prefer installed version, then prefer Flatpak</li>\n<li>Improve search performance</li>\n<li>Improve update badge styling and category styling</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.5.0"
-      },
-      {
-        "version": "3.4.2",
-        "release_date": "2020-08-07T17:40:17",
-        "title": "appcenter 3.4.2 Released",
-        "body": "<p>Fixes</p>\n<ul>\n<li>Ensure AppCenter is reopened at the correct position</li>\n<li>Clicking the updates badge in the header navigates to the updates view</li>\n</ul>\n<p>Minor updates</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.4.2"
-      },
-      {
-        "version": "3.4.1",
-        "release_date": "2020-06-30T23:55:36",
-        "title": "appcenter 3.4.1 Released",
-        "body": "<p>Fixes</p>\n<ul>\n<li>Ensure all updatable Flatpak runtimes are listed for update</li>\n</ul>\n<p>Minor updates</p>\n<ul>\n<li>Performance improvments</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.4.1"
-      },
-      {
-        "version": "3.4.0",
-        "release_date": "2020-05-28T18:09:17",
-        "title": "appcenter 3.4.0 Released",
-        "body": "<p>New features</p>\n<ul>\n<li>Perform updates without administrator permissions</li>\n</ul>\n<p>Minor updates</p>\n<ul>\n<li>Ensure apps on the homepage are more reliably displayed</li>\n<li>More reliably set the Dock badge number</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.4.0"
-      },
-      {
-        "version": "3.3.0",
-        "release_date": "2020-04-29T21:46:10",
-        "title": "appcenter 3.3.0 Released",
-        "body": "<p>Performance improvements</p>\n<ul>\n<li>Only check for updates at device startup if it's more than 24 hours since we last checked</li>\n<li>Reduce slowdowns when opening certain apps</li>\n</ul>\n<p>Extension improvements</p>\n<ul>\n<li>To de-clutter the updates view, extensions are now only shown if they require updates</li>\n<li>Clicking an extension on an app's info page now shows details for the extension</li>\n<li>Swap the main and overlay icons for extensions to more clearly associate extensions with their app</li>\n</ul>\n<p>Keyboard improvements</p>\n<ul>\n<li>Pressing down in the search field moves the keyboard focus to the search results list</li>\n<li>Ctrl+F now moves the cursor to the search field</li>\n</ul>\n<p>Fixes</p>\n<ul>\n<li>Use configured network proxy settings for apt operations</li>\n<li>No longer prompt for approval to update non-curated apps</li>\n<li>Ensure the OS updates subheading copy is correct after finishing updates</li>\n<li>Ellipsize long app names in App Info views</li>\n</ul>\n<p>And more</p>\n<ul>\n<li>Show a more informative loading screen when checking for updates</li>\n<li>Don't list fonts alongside apps</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.3.0"
-      },
-      {
-        "version": "3.2.4",
-        "release_date": "2020-04-08T23:32:02",
-        "title": "appcenter 3.2.4 Released",
-        "body": "<p>Fixes</p>\n<ul>\n<li>Prevent crashes when updating Flatpaks and system packages simultaneously</li>\n<li>Prevent suspending when installing, updating, or removing packages</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.2.4"
-      },
-      {
-        "version": "3.2.3",
-        "release_date": "2020-04-02T00:19:54",
-        "title": "appcenter 3.2.3 Released",
-        "body": "appcenter 3.2.3 is out! \n\n<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.2.3"
-      },
-      {
-        "version": "3.2.2",
-        "release_date": "2020-02-28T20:49:46",
-        "title": "appcenter 3.2.2 Released",
-        "body": "appcenter 3.2.2 is out! \n\n<p>Minor fixes</p>\n<ul>\n<li>Update application details when changes happen outside of AppCenter</li>\n<li>Fix for notification not appearing when a restart is required</li>\n<li>Apps in list views now load in the correct order when scrolling</li>\n<li>Prevent unescaped XML entities from appearing in application names</li>\n<li>Load the \"Installed\" view faster</li>\n<li>Ensure flatpak applications show in the category views</li>\n<li>Save some bandwidth by downloading smaller screenshots where appropriate</li>\n<li>System components no longer have an \"Open\" button</li>\n<li>Applications menu can now remove flatpaks that weren't installed by AppCenter</li>\n<li>Make download size estimates more accurate</li>\n</ul>\n",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.2.2"
-      },
-      {
-        "version": "3.2.1",
-        "release_date": "2019-12-02T17:54:05",
-        "title": "appcenter 3.2.1 Released",
-        "body": "appcenter 3.2.1 is out! \n\n<p>Minor fixes</p>\n<ul>\n<li>Prevent AppCenter from opening on log in</li>\n<li>Prevent ghost update notification when there are no updates available</li>\n<li>Show correct installation state for extensions</li>\n</ul>\n",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.2.1"
-      },
-      {
-        "version": "3.2.0",
-        "release_date": "2019-10-31T16:05:57",
-        "title": "appcenter 3.2.0 Released",
-        "body": "appcenter 3.2.0 is out! \n\nChanges:\n\n* Add support for Flatpak apps\n* Warn about non-curated apps\n* Show an error dialog if an installation fails\n* Fix an issue where some apps couldn't be uninstalled from the Applications Menu\n* Allow browsing and uninstalling apps while offline\n* Fix twitter share URLs\n* Drop Google+ from the share menu\n* Animate screenshot background while loading\n* Add navigation arrows for screenshots\n* Don't show uninstall buttons for essential system components\n* Properly display proprietary licenses\n* Fix some layout issues\n* Fix crashes\n* Performance improvements\n* Updated translations\n",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.2.0"
-      },
-      {
-        "version": "3.1.1",
-        "release_date": "2019-02-15T00:56:08",
-        "title": "AppCenter 3.1.1 Released",
-        "body": "AppCenter 3.1.1 is out!\r\n\r\nChanges:\r\n* Meson build system fixes\r\n* Improve window state restoration\r\n* Prevent action buttons from jumping around\r\n* Remove reset paid apps gsettings key\r\n* Memory management refinements\r\n* Add conditional compilation for disabling dynamic remote homepage content\r\n* Updated translations",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.1.1"
-      },
-      {
-        "version": "3.1.0",
-        "release_date": "2019-01-02T07:14:19",
-        "title": "AppCenter 3.1.0 Released",
-        "body": "AppCenter 3.1.0 is out!\r\n\r\nChanges:\r\n* New categories: `Communication`, `Finance`, `Media Production`\r\n* Add `Math` to `Science` category\r\n* Relax email address validator\r\n* Present update availability more accurately\r\n* Category graphics revamped\r\n* Updated translations",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.1.0"
-      },
-      {
-        "version": "3.0.1",
-        "release_date": "2018-10-25T11:44:28",
-        "title": "AppCenter 3.0.1 Released",
-        "body": "AppCenter 3.0.1 is out!\r\n\r\nThis release includes updated translations.",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.0.1"
-      },
-      {
-        "version": "3.0",
-        "release_date": "2018-10-16T10:33:33",
-        "title": "AppCenter 3.0 Released",
-        "body": "AppCenter 3.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/appcenter/issues?q=is%3Aclosed+milestone%3A3.0).",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.0"
-      },
-      {
-        "version": "0.2.9",
-        "release_date": "2018-03-02T12:24:42",
-        "title": "AppCenter 0.2.9 Released",
-        "body": "AppCenter 0.2.9 is out!\r\n\r\nThis release includes several [bug fixes](https://github.com/elementary/appcenter/issues?q=is%3Aclosed+milestone%3A0.2.9).",
-        "href": "https://github.com/elementary/appcenter/releases/tag/0.2.9"
-      },
-      {
-        "version": "0.2.8",
-        "release_date": "2018-01-25T17:00:38",
-        "title": "AppCenter 0.2.8 Released",
-        "body": "AppCenter 0.2.8 is out!\r\n\r\nThis release includes several [bug fixes](https://github.com/elementary/appcenter/issues?q=is%3Aclosed+milestone%3A0.2.8).",
-        "href": "https://github.com/elementary/appcenter/releases/tag/0.2.8"
-      },
-      {
-        "version": "0.2.7",
-        "release_date": "2017-11-07T12:18:38",
-        "title": "AppCenter 0.2.7 Released",
-        "body": "AppCenter 0.2.7 is out!\r\n\r\nThis release includes several [bug fixes](https://github.com/elementary/appcenter/issues?q=is%3Aclosed+milestone%3A0.2.7).",
-        "href": "https://github.com/elementary/appcenter/releases/tag/0.2.7"
-      },
-      {
-        "version": "0.2.6",
-        "release_date": "2017-09-18T12:01:32",
-        "title": "AppCenter 0.2.6 Released",
-        "body": "AppCenter 0.2.6 is out!\r\n\r\nThis release includes several [bug fixes](https://github.com/elementary/appcenter/issues?q=is%3Aclosed+milestone%3A0.2.6).",
-        "href": "https://github.com/elementary/appcenter/releases/tag/0.2.6"
-      },
-      {
-        "version": "0.2.5",
-        "release_date": "2017-08-04T11:08:14",
-        "title": "AppCenter 0.2.5 Released",
-        "body": "AppCenter 0.2.5 is out!\r\n\r\nThis release includes several [bug fixes](https://github.com/elementary/appcenter/milestone/7?closed=1).",
-        "href": "https://github.com/elementary/appcenter/releases/tag/0.2.5"
-      },
-      {
-        "version": "0.2.4",
-        "release_date": "2017-07-04T07:12:53",
-        "title": "AppCenter 0.2.4 Released",
-        "body": "AppCenter 0.2.4 is out!\r\n\r\nThis release includes several [bug fixes](https://github.com/elementary/appcenter/milestone/6?closed=1).",
-        "href": "https://github.com/elementary/appcenter/releases/tag/0.2.4"
-      },
-      {
-        "version": "0.2.3",
-        "release_date": "2017-05-31T22:15:24",
-        "title": "AppCenter 0.2.3 Released",
-        "body": "AppCenter 0.2.3 is out!\r\n\r\nThis release includes several [bug fixes](https://github.com/elementary/appcenter/milestone/5?closed=1).",
-        "href": "https://github.com/elementary/appcenter/releases/tag/0.2.3"
-      },
-      {
-        "version": "0.2.2",
-        "release_date": "2017-05-21T23:17:29",
-        "title": "AppCenter 0.2.2 Released",
-        "body": "AppCenter 0.2.2 is out!",
-        "href": "https://github.com/elementary/appcenter/releases/tag/0.2.2"
-      },
-      {
-        "version": "0.2.1",
-        "release_date": "2017-05-19T19:37:42",
-        "title": "AppCenter 0.2.1 Released",
-        "body": "AppCenter 0.2.1 is out!",
-        "href": "https://github.com/elementary/appcenter/releases/tag/0.2.1"
-      },
-      {
-        "version": "0.2",
-        "release_date": "2017-05-17T11:35:13",
-        "title": "AppCenter 0.2 Released",
-        "body": "AppCenter 0.2 is out!\r\n\r\nThis release includes several [bug fixes](https://github.com/elementary/appcenter/milestone/1?closed=1)",
-        "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
-      }
-    ],
-    "new_commits": 100,
-    "default_branch": "master"
-  },
-  {
     "name": "notifications",
     "releases": [
       {
@@ -4858,146 +5117,6 @@
     "default_branch": "master"
   },
   {
-    "name": "icons",
-    "releases": [
-      {
-        "version": "7.1.0",
-        "release_date": "2022-10-06T20:40:03",
-        "title": "icons 7.1.0 Released",
-        "body": "<p>Additions:</p>\n<ul>\n<li>\"computer-fail\"</li>\n<li>\"preferences-desktop-theme\"</li>\n<li>\"application-x-sharedlib\"</li>\n<li>\"process-paused\"</li>\n</ul>\n<p>Removals:</p>\n<ul>\n<li>\"office-address-book\"</li>\n<li>Flash file types</li>\n</ul>\n<p>Updated families:</p>\n<ul>\n<li>Clean up \"preferences-desktop-workspaces\"</li>\n<li>Update \"preferences-desktop\" to new tile shape</li>\n<li>Update \"image-missing\" to new tile shape</li>\n<li>Update \"preferences-desktop-keyboard\" to new tile shape</li>\n<li>Update \"document-import\" and \"document-export\" to new tile shape</li>\n<li>Update many file types with new arrow shape</li>\n<li>\"application-default-icon\" is now brightly colored</li>\n<li>\"media-stop\" is now a square</li>\n<li>Round symbolic location status icons</li>\n<li>Use an outlined shape for symbolic tag icons</li>\n<li>Use a rounded star for symbolic bookmark icons</li>\n<li>Redesign Night Light</li>\n<li>Use latest Flatpak branding</li>\n<li>Symbolic volume icons use a rounded shape and a slash when muted</li>\n</ul>\n<p>Other Changes:</p>\n<ul>\n<li>Fix broken link for SVG file types</li>\n<li>Fix missing links for PGP file types</li>\n<li>Scale some icons to more sizes</li>\n</ul>\n",
-        "href": "https://github.com/elementary/icons/releases/tag/7.1.0"
-      },
-      {
-        "version": "7.0.0",
-        "release_date": "2022-04-25T19:35:24",
-        "title": "icons 7.0.0 Released",
-        "body": "<p>Additions:</p>\n<ul>\n<li>caps-lock-symbolic</li>\n<li>eye-not-looking-symbolic</li>\n<li>eye-open-negative-filled-symbolic</li>\n<li>num-lock-symbolic</li>\n</ul>\n<p>Updated families:</p>\n<ul>\n<li>Redesign media-playlist-repeat</li>\n<li>Update media-playlist-shuffle and media-playlist-consecutive</li>\n<li>Rounder square icons</li>\n<li>Rounded arrow corners on Downloads folder</li>\n<li>Deb and Flatpak Bundle files use a package metaphor</li>\n<li>Updates arrow points up</li>\n<li>Redesigned package with new colors</li>\n</ul>\n<p>Removals:</p>\n<ul>\n<li>notification-*</li>\n<li>Non-FDO network-*</li>\n<li>Non-FDO app icons</li>\n</ul>\n",
-        "href": "https://github.com/elementary/icons/releases/tag/7.0.0"
-      },
-      {
-        "version": "6.1.0",
-        "release_date": "2021-11-23T21:43:34",
-        "title": "icons 6.1.0 Released",
-        "body": "<p>Additions:</p>\n<ul>\n<li>preferences-desktop-font*</li>\n</ul>\n<p>Updated families:</p>\n<ul>\n<li>Additional sizes for playlist-queue</li>\n<li>Redesign PDF file type</li>\n<li>Additional sizes for emblem-downloads</li>\n<li>Remove arrows from Copy and Paste actions</li>\n</ul>\n<p>Removals:</p>\n<ul>\n<li>multimedia-video-player</li>\n</ul>\n",
-        "href": "https://github.com/elementary/icons/releases/tag/6.1.0"
-      },
-      {
-        "version": "6.0.0",
-        "release_date": "2021-07-15T22:11:47",
-        "title": "icons 6.0.0 Released",
-        "body": "<p>Updated families:</p>\n<ul>\n<li>Improved consistency between arrow shapes</li>\n<li>Improved appearance of color icons against dark backgrounds</li>\n<li>More gender-nuetral people icons</li>\n<li>Rounded media controls</li>\n<li>Rounded lightening bolt shape</li>\n<li>More colorful battery icons</li>\n</ul>\n<p>Additions:</p>\n<ul>\n<li>align-*</li>\n<li>color-picker</li>\n<li>distribute-*</li>\n<li>draw-calligraphic</li>\n<li>office-database-new</li>\n<li>tools-spray</li>\n<li>application-content-*</li>\n<li>thunderbolt devices</li>\n<li>video-display-tv</li>\n<li>symbolic headphones</li>\n<li>application-certificate</li>\n<li>application-json</li>\n<li>office-task-symbolic</li>\n<li>status emblems</li>\n<li>emblem-git-*</li>\n</ul>\n<p>Removals:</p>\n<ul>\n<li>accessories-camera</li>\n<li>accessories-screenshot</li>\n<li>audio-speaker-testing</li>\n<li>edit-undo-archive</li>\n<li>internet-mail</li>\n<li>internet-news-reader</li>\n<li>multimedia-audio-player</li>\n<li>notification bell animations</li>\n<li>nm-*</li>\n<li>ubiquity</li>\n</ul>\n",
-        "href": "https://github.com/elementary/icons/releases/tag/6.0.0"
-      },
-      {
-        "version": "5.3.1",
-        "release_date": "2020-05-06T18:10:20",
-        "title": "icons 5.3.1 Released",
-        "body": "<p>Minor updates</p>\n<ul>\n<li>Update emoji names for emoji picker in elementary OS 6 and latest GTK</li>\n<li>Replace Inkscape with rsvg for building cursors</li>\n</ul>\n",
-        "href": "https://github.com/elementary/icons/releases/tag/5.3.1"
-      },
-      {
-        "version": "5.3.0",
-        "release_date": "2020-05-01T05:35:02",
-        "title": "icons 5.3.0 Released",
-        "body": "<p>New Palette Colors:</p>\n<ul>\n<li>Add Bubblegum and Mint to official palette</li>\n<li>Updated all eraser icons to use Bubblegum palette</li>\n<li>Updated \"path\" icons to use Mint palette</li>\n<li>Updated all pencil icons to use Banana palette</li>\n</ul>\n<p>New Icons:</p>\n<ul>\n<li>Add \"software-update-urgent\"</li>\n<li>Add \"sync-synchronizing\"</li>\n</ul>\n<p>Scaled Icon Sizes:</p>\n<ul>\n<li>Add 24px \"window-close-symbolic\"</li>\n<li>Add 48px preferences icons</li>\n</ul>\n",
-        "href": "https://github.com/elementary/icons/releases/tag/5.3.0"
-      },
-      {
-        "version": "5.2.0",
-        "release_date": "2020-01-08T21:23:48",
-        "title": "icons 5.2.0 Released",
-        "body": "icons 5.2.0 is out! \n\n<ul>\n<li>Provide large cursors</li>\n<li>Fix alignment of several cursors</li>\n<li>Use palette colors in copy cursors</li>\n<li>Fix direction of the ban symbol cursor and use red</li>\n<li>Add \"All Scroll\", \"No Drop\", \"Vertical Text\", and \"Zoom\" cursors</li>\n</ul>\n",
-        "href": "https://github.com/elementary/icons/releases/tag/5.2.0"
-      },
-      {
-        "version": "5.1.0",
-        "release_date": "2019-10-31T22:54:07",
-        "title": "icons 5.1.0 Released",
-        "body": "icons 5.1.0 is out! \n\nChanges:\n\n* Add 64px prefs locale\n* Make symbol on 32px places home larger\n* New icons for Workspace preferences\n* Add symbolic variant for updates icon\n* Give browser-download its own unique icon\n* Use a more scalable metaphor for system updates\n* New view-reader icon\n* Add 32px wireless signal icons\n* Add 24px user status icons\n",
-        "href": "https://github.com/elementary/icons/releases/tag/5.1.0"
-      },
-      {
-        "version": "5.0.4",
-        "release_date": "2019-07-12T14:19:54",
-        "title": "elementary Icons 5.0.4",
-        "body": "elementary-icon-theme 5.0.4 is out!\r\n\r\nChanges:\r\n* Redesigned wired networking icons\r\n* Simplified `image-missing`\r\n* Re-shaped `system-software-update`\r\n* Scaled `process-completed` to 64px\r\n* Scaled `find-location` to 64px\r\n* Added new icons:\r\n  * `preferences-system-privacy-housekeeping`\r\n  * `media-memory-symbolic`\r\n  * `mail-forwarded-symbolic`\r\n  * `application-x-firmware-symbolic`\r\n  * `computer-laptop-symbolic`\r\n  * `location-active-symbolic`\r\n  * `location-inactive-symbolic`\r\n  * `location-disabled-symbolic`\r\n  * 64px `night-light`\r\n  * 48px `image-crop`\r\n  * 48px `mail-send`",
-        "href": "https://github.com/elementary/icons/releases/tag/5.0.4"
-      },
-      {
-        "version": "5.0.3",
-        "release_date": "2019-02-11T21:38:22",
-        "title": "elementary Icons 5.0.3 Released",
-        "body": "elementary-icon-theme 5.0.3 is out!\r\n\r\nChanges:\r\n\r\n* Redesigned weather icons\r\n* New and redesigned `mail-mark-*`\r\n* Refined align actions\r\n* Adjust contrast of `selection-*-symbolic`\r\n* Added new icons:\r\n  * `drive-harddisk-solidstate`\r\n  * `input-keyboard-numlock-symbolic`\r\n  * 16px `night-light-*`\r\n  * Added and redesigned `path-*`\r\n  * 32px `input-touchpad`\r\n  * `microphone-sensitivity-muted-*` animation\r\n  * `application-x-generic`\r\n  * Added and redesigned `object-group`",
-        "href": "https://github.com/elementary/icons/releases/tag/5.0.3"
-      },
-      {
-        "version": "5.0.2",
-        "release_date": "2018-12-29T03:33:12",
-        "title": "elementary Icons 5.0.2 Released",
-        "body": "elementary-icon-theme 5.0.2 is out!\r\n\r\nChanges:\r\n* New palette colors for `edit-flag`\r\n* Add `user-desktop-open` as symlink to `folder-open`",
-        "href": "https://github.com/elementary/icons/releases/tag/5.0.2"
-      },
-      {
-        "version": "5.0.1",
-        "release_date": "2018-12-06T16:53:16",
-        "title": "elementary Icons 5.0.1 Released",
-        "body": "elementary-icon-theme 5.0.1 is out!\r\n\r\nChanges:\r\n* `phone` icons redesigned\r\n* Appointment icon family are more consistent\r\n* Disabled icons are more consistent\r\n* Symbolic apps/multimedia match color and scale\r\n* Added new icons:\r\n  * `playlist-symbolic`\r\n  * `playlist-queue-symbolic`\r\n  * `internet-chat-symbolic`\r\n  * `input-keyboard-capslock-symbolic`\r\n  * `mail-send-symbolic-rtl`\r\n  * `preferences-system-notifications-rtl`\r\n  * `preferences-system-notifications-rtl`\r\n  * `audio-headphones` and `audio-headset`\r\n  * `computer-convertible`",
-        "href": "https://github.com/elementary/icons/releases/tag/5.0.1"
-      },
-      {
-        "version": "5.0",
-        "release_date": "2018-10-16T05:18:18",
-        "title": "elementary Icons 5.0 Released",
-        "body": "elementary-icon-theme 5.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/icons/issues?q=is%3Aclosed+milestone%3A5.0).",
-        "href": "https://github.com/elementary/icons/releases/tag/5.0"
-      },
-      {
-        "version": "4.3.1",
-        "release_date": "2017-10-23T17:52:41",
-        "title": "elementary Icons 4.3.1 Released",
-        "body": "elementary-icon-theme 4.3.1 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/icons/issues?q=is%3Aclosed+milestone%3A4.3.1).",
-        "href": "https://github.com/elementary/icons/releases/tag/4.3.1"
-      },
-      {
-        "version": "4.3.0",
-        "release_date": "2017-09-26T16:36:28",
-        "title": "elementary Icons 4.3.0 Released",
-        "body": "elementary-icon-theme 4.3.0 is out!\r\n\r\nThe list of issues closed for this release can be found [here](https://github.com/elementary/icons/issues?q=is%3Aclosed+milestone%3A4.3.0).",
-        "href": "https://github.com/elementary/icons/releases/tag/4.3.0"
-      },
-      {
-        "version": "4.2.0",
-        "release_date": "2017-07-19T16:50:09",
-        "title": "elementary Icons 4.2.0 Released",
-        "body": "elementary-icon-theme 4.2.0 is out!\r\n\r\nThe list of issues closed for this release can be found [here](https://github.com/elementary/icons/milestone/3?closed=1).",
-        "href": "https://github.com/elementary/icons/releases/tag/4.2.0"
-      },
-      {
-        "version": "4.1.0",
-        "release_date": "2017-05-15T03:27:34",
-        "title": "elementary Icons 4.1.0 Released",
-        "body": "elementary-icon-theme 4.1.0 is out!",
-        "href": "https://github.com/elementary/icons/releases/tag/4.1.0"
-      },
-      {
-        "version": "4.0.3",
-        "release_date": "2017-03-18T17:07:48",
-        "title": "",
-        "body": "",
-        "href": "https://github.com/elementary/icons/releases/tag/4.0.3"
-      },
-      {
-        "version": "4.0.1.1",
-        "release_date": "2016-10-25T19:46:00",
-        "title": "",
-        "body": "",
-        "href": "https://github.com/elementary/icons/releases/tag/4.0.1.1"
-      }
-    ],
-    "new_commits": 26,
-    "default_branch": "master"
-  },
-  {
     "name": "switchboard-plug-wacom",
     "releases": [
       {
@@ -5688,104 +5807,6 @@
       }
     ],
     "new_commits": 52,
-    "default_branch": "master"
-  },
-  {
-    "name": "code",
-    "releases": [
-      {
-        "version": "6.2.0",
-        "release_date": "2022-04-04T16:20:49",
-        "title": "code 6.2.0 Released",
-        "body": "<p>Improvements:</p>\n<ul>\n<li>The current document filename is now shown as the window title in multitasking view</li>\n<li>Hidden folders are now shown in the project sidebar</li>\n<li>The currently selected result and the number of results is displayed while searching</li>\n<li>The search bar now has a regular expression mode</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>It is now possible to change Git branch with untracked files present in a project</li>\n<li>Crashes are prevented while searching in large projects</li>\n<li>The correct document is now focused after opening Code from an external program</li>\n<li>Line duplication is now actioned correctly if there is no selection present</li>\n<li>Code no longer crashes when asked to open an unknown URI format</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/code/releases/tag/6.2.0"
-      },
-      {
-        "version": "6.1.0",
-        "release_date": "2021-11-23T21:06:10",
-        "title": "code 6.1.0 Released",
-        "body": "<p>Improvements:</p>\n<ul>\n<li>Projects with the same name now include their parent folder name as well</li>\n<li>When scrolling to search results, overshoot slightly for better visibility</li>\n<li>Use the FileChooser portal instead of the one from GTK</li>\n<li>Center the global search dialog over the main Code window</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Fix visibility of Terminal button on Welcome page</li>\n<li>Fix some keyboard shortcuts affecting unfocused Document instead of focused Terminal</li>\n<li>Close Terminal if shell exited and create new Terminal if re-opened with no shell</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>\"Visible whitespace\" combobox is now a switch</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/code/releases/tag/6.1.0"
-      },
-      {
-        "version": "6.0.1",
-        "release_date": "2021-09-28T22:06:14",
-        "title": "Code 6.0.1 Released",
-        "body": "<p>Fixes:</p>\r\n<ul>\r\n<li>Fix crash when creating new window from tab drop</li>\r\n<li>Ensure files created from the sidebar are automatically opened</li>\r\n</ul>\r\n<p>Improvements:</p>\r\n<ul>\r\n<li>Hide project chooser button when hiding sidebar</li>\r\n</ul>\r\n<p>Minor updates:</p>\r\n<ul>\r\n<li>Ensure all copy is translatable</li>\r\n<li>Updated translations</li>\r\n</ul>",
-        "href": "https://github.com/elementary/code/releases/tag/6.0.1"
-      },
-      {
-        "version": "6.0.0",
-        "release_date": "2021-07-15T21:14:07",
-        "title": "code 6.0.0 Released",
-        "body": "<p>New features:</p>\n<ul>\n<li>New Markdown plugin for WYSIWYG-like editing.</li>\n<li>Switch Git branches or create new ones in project folder context menus</li>\n<li>Show Git diff status in source view gutters</li>\n<li>Full text search within project folder.</li>\n<li>Save and restore cursor position between sessions</li>\n<li>Close files from a project when that project is closed</li>\n<li>Show full file path in tab tooltips</li>\n<li>Clear lines with Ctrl + K</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Allow Spell Checker extension in Markdown files</li>\n<li>Improve multi-line duplication</li>\n<li>Remember whether the sidebar is open</li>\n<li>Set window title to the focused file</li>\n<li>Add keyboard shortcuts for next and previous documents</li>\n<li>Show full document path in tab tooltip</li>\n<li>Update Pastebin plugin</li>\n<li>Corrently indent last line when using the preserve whitespace plugin</li>\n<li>Keep syntax highlighting when duplicating a file</li>\n<li>Expand a collapsed folder if you attempt to open it twice</li>\n<li>Fix an issue where searches are lost when Code loses focus</li>\n<li>Start Vim plugin in command mode</li>\n<li>Fix and add new Vim commands</li>\n<li>Show project folders with a hidden root folder</li>\n<li>Allow launching with pkexec and disallow launching with sudo</li>\n<li>Remove split view</li>\n<li>Remove browser preview</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/code/releases/tag/6.0.0"
-      },
-      {
-        "version": "3.4.1",
-        "release_date": "2020-06-09T19:11:16",
-        "title": "code 3.4.1 Released",
-        "body": "<p>Fixes:</p>\n<ul>\n<li>Fix empty sidebar layout, ensuring folders can always be added</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Scroll past the end of a file</li>\n<li>More efficiently save and restore window position</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/code/releases/tag/3.4.1"
-      },
-      {
-        "version": "3.4.0",
-        "release_date": "2020-04-02T00:31:58",
-        "title": "code 3.4.0 Released",
-        "body": "code 3.4.0 is out! \n\n<p>New features:</p>\n<ul>\n<li>Include Git status in file tooltips</li>\n<li>Option for explicit case-sensitive Find</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Correctly show Toggle Comment menu item when no text is selected</li>\n<li>Fixed font switch alignment</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/code/releases/tag/3.4.0"
-      },
-      {
-        "version": "3.3.0",
-        "release_date": "2020-02-29T20:15:24",
-        "title": "code 3.3.0 Released",
-        "body": "code 3.3.0 is out! \n\n<p>New features:</p>\n<ul>\n<li>New \"Close Other Folders\" menu item to help clean up your sidebar</li>\n<li>Save and restore cyclic search setting</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Add keyboard shortcuts to menu items</li>\n<li>Make sidebar folder items not selectable</li>\n<li>Center new windows</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/code/releases/tag/3.3.0"
-      },
-      {
-        "version": "3.2.0",
-        "release_date": "2020-01-10T19:59:56",
-        "title": "code 3.2.0 Released",
-        "body": "code 3.2.0 is out! \n\n<p>New features:</p>\n<ul>\n<li>Visually deprioritize .gitignored files in project sidebar</li>\n<li>Smart cut/copy lines with no active selection</li>\n<li>Add a confirmation dialog to the \"Restore\" action</li>\n<li>Add \"Open In\" menu to the top-level folder in the folder manager</li>\n<li>Don't show temporary files in the folder manager</li>\n<li>Add brackets completion and auto-indent by default</li>\n<li>Zoom terminal plugin with keyboard</li>\n<li>Honor global privacy setting when saving and restoring</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Simplify \"Draw spaces\" preference</li>\n<li>Fix the keyboard shortcut for going backwards in search results</li>\n<li>Fix opening files from relative paths in Terminal</li>\n<li>Fix null file dialog when opening a new window via the dock</li>\n<li>Add \"=\" as a zoom key</li>\n<li>Change search entry icon when results aren't found</li>\n<li>Enter name of new file before creating it</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/code/releases/tag/3.2.0"
-      },
-      {
-        "version": "3.1.1",
-        "release_date": "2019-03-14T18:43:15",
-        "title": "Code 3.1.1 Released",
-        "body": "Code 3.1.1 is out!\r\n\r\nChanges:\r\n* Use `Granite.MessageDialog` throughout\r\n* Include non-text files in sidebar\r\n* Fix `Remove Current View`",
-        "href": "https://github.com/elementary/code/releases/tag/3.1.1"
-      },
-      {
-        "version": "3.1.0",
-        "release_date": "2019-03-06T11:14:42",
-        "title": "Code 3.1.0 Released",
-        "body": "Code 3.1.0 is out!\r\n\r\nChanges:\r\n* Fix `New Window` desktop action behavior\r\n* Properly synchronize `Ctrl+N` key presses with number of new documents spawned\r\n* Build system fix for `editorconfig` dependency\r\n* Add `Change Branch` context menu item\r\n* Avoid possible startup crash related to how plugins load\r\n* Updated translations",
-        "href": "https://github.com/elementary/code/releases/tag/3.1.0"
-      },
-      {
-        "version": "3.0.2",
-        "release_date": "2019-01-03T06:34:28",
-        "title": "Code 3.0.2 Released",
-        "body": "Code 3.0.2 is out!\r\n\r\nChanges:\r\n* Smarter file saving behavior\r\n* File saving fixes\r\n* Don't add temporary files to tab restore",
-        "href": "https://github.com/elementary/code/releases/tag/3.0.2"
-      },
-      {
-        "version": "3.0.1",
-        "release_date": "2018-11-30T14:06:36",
-        "title": "Code 3.0.1 Released",
-        "body": "Code 3.0.1 is out!\r\n\r\nChanges:\r\n* Don't recreate deleted files when restoring session\r\n* Restore line wrap preference\r\n* Add accel tooltips\r\n* Minor bug fixes\r\n* Updated translations",
-        "href": "https://github.com/elementary/code/releases/tag/3.0.1"
-      },
-      {
-        "version": "3.0",
-        "release_date": "2018-10-16T09:38:13",
-        "title": "Code 3.0 Released",
-        "body": "Code 3.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/code/issues?q=is%3Aclosed+milestone%3A3.0).",
-        "href": "https://github.com/elementary/code/releases/tag/3.0"
-      }
-    ],
-    "new_commits": 269,
     "default_branch": "master"
   },
   {
@@ -6968,7 +6989,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.0"
       }
     ],
-    "new_commits": 5735,
+    "new_commits": 5736,
     "default_branch": "master"
   },
   {
