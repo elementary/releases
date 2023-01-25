@@ -1749,7 +1749,7 @@
         "version": "7.0.0-rc1",
         "release_date": "2022-12-05T20:54:50",
         "title": "7.0 Horus RC1",
-        "body": "This is a release candidate image for OS 6.1 for testing and verification purposes",
+        "body": "This is a release candidate image for OS 7.0 for testing and verification purposes",
         "href": "https://github.com/elementary/os/releases/tag/7.0.0-rc1"
       },
       {
