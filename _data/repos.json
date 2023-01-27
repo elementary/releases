@@ -5428,6 +5428,13 @@
         "href": "https://github.com/elementary/switchboard/releases/tag/6.0.2"
       },
       {
+        "version": "6.0.1",
+        "release_date": "2022-05-03T19:46:42",
+        "title": "switchboard 6.0.1 Released",
+        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard/releases/tag/6.0.1"
+      },
+      {
         "version": "6.0.0",
         "release_date": "2021-07-14T17:10:58",
         "title": "switchboard 6.0.0 Released",
