@@ -6051,8 +6051,8 @@
         "href": "https://github.com/elementary/press-kit/releases/tag/5.0-juno"
       }
     ],
-    "new_commits": 0,
-    "default_branch": "6.1-jolnir"
+    "new_commits": 1,
+    "default_branch": "7.0-horus"
   },
   {
     "name": "action-appcenter-review-checklist",
@@ -7017,7 +7017,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.0"
       }
     ],
-    "new_commits": 5746,
+    "new_commits": 5747,
     "default_branch": "master"
   },
   {
