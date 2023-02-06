@@ -5351,6 +5351,13 @@
         "href": "https://github.com/elementary/stylesheet/releases/tag/6.1.1"
       },
       {
+        "version": "6.1.0",
+        "release_date": "2021-10-22T18:37:25",
+        "title": "Stylesheet 6.1.0 Released",
+        "body": "  <ul>\r\n    <li>Support for Hdy.Tabbar</li>\r\n    <li>Fix accent class for Gtk.Scale</li>\r\n    <li>Flat titlebars inherit background color for views and sidebars</li>\r\n  </ul>",
+        "href": "https://github.com/elementary/stylesheet/releases/tag/6.1.0"
+      },
+      {
         "version": "6.0.0",
         "release_date": "2021-07-15T22:08:57",
         "title": "stylesheet 6.0.0 Released",
@@ -5405,6 +5412,13 @@
         "title": "elementary Gtk+ Stylesheet 5.2.3 Released",
         "body": "elementary-theme 5.2.3 is out!\r\n\r\nChanges:\r\n* Style destructive-action buttons in action bars\r\n* Use em font sizing in dialog label.primary\r\n* Added  support for progressbar.osd, as seen in GNOME Builder",
         "href": "https://github.com/elementary/stylesheet/releases/tag/5.2.3"
+      },
+      {
+        "version": "5.2.2",
+        "release_date": "2019-02-28T00:29:54",
+        "title": "elementary Gtk+ Stylesheet 5.2.2 Released",
+        "body": "elementary-theme 5.2.2 is out!\r\n\r\nChanges:\r\n* More visible focus for dark entries\r\n* Update .seek-bar scale slider style\r\n* Shade switches with white overlay\r\n* Fix linked widgets in right-to-left\r\n* Don't set border or shadow on dark infobar close buttons\r\n* Naive raised support for headerbar buttons\r\n* Fix border for sidebar-row in dark style\r\n* Invert sidebar badge colors",
+        "href": "https://github.com/elementary/stylesheet/releases/tag/5.2.2"
       },
       {
         "version": "5.2.1",
