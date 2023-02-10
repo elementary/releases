@@ -1102,7 +1102,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 12,
+    "new_commits": 17,
     "default_branch": "master"
   },
   {
@@ -5069,13 +5069,6 @@
         "title": "Wingpanel Session Indicator 2.2.3 Released",
         "body": "wingpanel-indicator-session 2.2.3 is out!\r\n\r\nChanges:\r\n* Add accelerator markup for lock and logout key combos\r\n* Updated translations",
         "href": "https://github.com/elementary/wingpanel-indicator-session/releases/tag/2.2.3"
-      },
-      {
-        "version": "2.2.2",
-        "release_date": "2018-12-21T12:46:30",
-        "title": "Wingpanel Session Indicator 2.2.2 Released",
-        "body": "wingpanel-indicator-session 2.2.2 is out!\r\n\r\nChanges:\r\n* Allow running without a display manager\r\n* Updated translations",
-        "href": "https://github.com/elementary/wingpanel-indicator-session/releases/tag/2.2.2"
       },
       {
         "version": "2.2.1",
