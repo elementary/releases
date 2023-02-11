@@ -5274,6 +5274,13 @@
         "href": "https://github.com/elementary/granite/releases/tag/5.2.4"
       },
       {
+        "version": "5.2.3",
+        "release_date": "2019-02-14T21:36:29",
+        "title": "Granite 5.2.3 Released",
+        "body": "Granite 5.2.3 is out!\r\n\r\nChanges:\r\n* Switch from CMake to Meson build system\r\n* DateTime: Strip leading spaces from time formats\r\n* Support Gdk.Key.Return for Enter markup\r\n* MessageDialog: Add show_error_expander method\r\n* Add function `history_is_enabled`\r\n* Fix typos in documentation\r\n* TimePicker: Use more compact boolean comparison syntax\r\n* Updated translations",
+        "href": "https://github.com/elementary/granite/releases/tag/5.2.3"
+      },
+      {
         "version": "5.2.2",
         "release_date": "2018-12-17T13:02:11",
         "title": "Granite 5.2.2 Released",
