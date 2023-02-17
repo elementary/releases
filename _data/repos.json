@@ -17,6 +17,13 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/7.1.0"
       },
       {
+        "version": "7.0.0",
+        "release_date": "2023-01-24T16:59:17",
+        "title": "AppCenter 7.0.0 Released",
+        "body": "## What's Changed\r\n* PackageKitBackend: resolve addons in appstream pool by @danirabbit in https://github.com/elementary/appcenter/pull/1946\r\n* Gresource: add more category icons by @danirabbit in https://github.com/elementary/appcenter/pull/1948\r\n* Fix visual issues with category icons by @danirabbit in https://github.com/elementary/appcenter/pull/1954\r\n* Flatpak Runtimes by @meisenzahl in https://github.com/elementary/appcenter/pull/1956\r\n* Size information for Runtime Updates by @meisenzahl in https://github.com/elementary/appcenter/pull/1957\r\n* Install PackageKit based Operating System Updates as Offline Updates by @meisenzahl in https://github.com/elementary/appcenter/pull/1943\r\n* Pretty output Flatpak package origins by @meisenzahl in https://github.com/elementary/appcenter/pull/1962\r\n* Warn running in Demo Mode by @meisenzahl in https://github.com/elementary/appcenter/pull/1963\r\n* Show Operating System Updates and Runtime Updates only if available by @meisenzahl in https://github.com/elementary/appcenter/pull/1960\r\n* Make loading updates async from main AppCenter window by @meisenzahl in https://github.com/elementary/appcenter/pull/1964\r\n* Gettext: install git by @danirabbit in https://github.com/elementary/appcenter/pull/1968\r\n* Gresource: mark OARS icons as scalable, scale all to 32px by @danirabbit in https://github.com/elementary/appcenter/pull/1970\r\n* Metainfo Improvements by @danirabbit in https://github.com/elementary/appcenter/pull/1972\r\n* Fix crash activating category while checking for updates by @vjr in https://github.com/elementary/appcenter/pull/1973\r\n\r\n## New Contributors\r\n* @vjr made their first contribution in https://github.com/elementary/appcenter/pull/1973\r\n\r\n**Full Changelog**: https://github.com/elementary/appcenter/compare/4.0.0...7.0.0",
+        "href": "https://github.com/elementary/appcenter/releases/tag/7.0.0"
+      },
+      {
         "version": "4.0.0",
         "release_date": "2022-10-27T04:15:27",
         "title": "appcenter 4.0.0 Released",
