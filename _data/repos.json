@@ -1165,7 +1165,7 @@
         "href": "https://github.com/elementary/installer/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 12,
+    "new_commits": 15,
     "default_branch": "master"
   },
   {
@@ -1718,7 +1718,7 @@
         "href": "https://github.com/elementary/initial-setup/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 31,
+    "new_commits": 34,
     "default_branch": "master"
   },
   {
@@ -3181,7 +3181,7 @@
         "href": "https://github.com/elementary/portals/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 35,
+    "new_commits": 37,
     "default_branch": "main"
   },
   {
@@ -3216,7 +3216,7 @@
         "href": "https://github.com/elementary/notifications/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 10,
+    "new_commits": 11,
     "default_branch": "master"
   },
   {
@@ -3286,7 +3286,7 @@
         "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.0"
       }
     ],
-    "new_commits": 16,
+    "new_commits": 18,
     "default_branch": "master"
   },
   {
@@ -3643,7 +3643,7 @@
         "href": "https://github.com/elementary/sideload/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 29,
+    "new_commits": 32,
     "default_branch": "master"
   },
   {
@@ -3662,6 +3662,13 @@
         "title": "onboarding 7.0.0 Released",
         "body": "<ul>\n<li>Add Automatic Updates view</li>\n<li>Add Sunset to Sunrise to Style View</li>\n<li>Update for OS 7 and Gtk 4</li>\n<li>Updated translations</li>\n</ul>\n",
         "href": "https://github.com/elementary/onboarding/releases/tag/7.0.0"
+      },
+      {
+        "version": "6.1.0",
+        "release_date": "2021-11-23T21:23:04",
+        "title": "onboarding 6.1.0 Released",
+        "body": "<ul>\n<li>Redesign Housekeeping and add Downloads option</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/onboarding/releases/tag/6.1.0"
       },
       {
         "version": "6.0.0",
@@ -3706,7 +3713,7 @@
         "href": "https://github.com/elementary/onboarding/releases/tag/1.0"
       }
     ],
-    "new_commits": 24,
+    "new_commits": 28,
     "default_branch": "master"
   },
   {
@@ -5456,7 +5463,7 @@
         "href": "https://github.com/elementary/stylesheet/releases/tag/5.0.4"
       }
     ],
-    "new_commits": 14,
+    "new_commits": 15,
     "default_branch": "master"
   },
   {
