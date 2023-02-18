@@ -3664,13 +3664,6 @@
         "href": "https://github.com/elementary/onboarding/releases/tag/7.0.0"
       },
       {
-        "version": "6.1.0",
-        "release_date": "2021-11-23T21:23:04",
-        "title": "onboarding 6.1.0 Released",
-        "body": "<ul>\n<li>Redesign Housekeeping and add Downloads option</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/onboarding/releases/tag/6.1.0"
-      },
-      {
         "version": "6.0.0",
         "release_date": "2021-07-14T19:19:34",
         "title": "onboarding 6.0.0 Released",
