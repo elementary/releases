@@ -1291,13 +1291,6 @@
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/3.0.0"
       },
       {
-        "version": "2.7.0",
-        "release_date": "2022-04-07T06:57:29",
-        "title": "switchboard-plug-keyboard 2.7.0 Released",
-        "body": "<p>New features:</p>\n<ul>\n<li>Open Multitasking View with Super</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.7.0"
-      },
-      {
         "version": "2.6.0",
         "release_date": "2021-11-23T17:15:11",
         "title": "switchboard-plug-keyboard 2.6.0 Released",
