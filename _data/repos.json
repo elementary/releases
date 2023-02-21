@@ -1263,7 +1263,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 58,
+    "new_commits": 59,
     "default_branch": "master"
   },
   {
@@ -1289,6 +1289,13 @@
         "title": "switchboard-plug-keyboard 3.0.0 Released",
         "body": "<p>Minor updates:</p>\n<ul>\n<li>Update for OS 7</li>\n<li>Updated translations</li>\n</ul>\n",
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/3.0.0"
+      },
+      {
+        "version": "2.7.0",
+        "release_date": "2022-04-07T06:57:29",
+        "title": "switchboard-plug-keyboard 2.7.0 Released",
+        "body": "<p>New features:</p>\n<ul>\n<li>Open Multitasking View with Super</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.7.0"
       },
       {
         "version": "2.6.0",
@@ -5846,13 +5853,6 @@
         "title": "Switchboard Mouse & Touchpad Plug 2.2.0 Released",
         "body": "switchboard-plug-mouse-touchpad 2.2.0 is out!\r\n\r\nChanges:\r\n* Added settings for\r\n  * Keypad pointer control\r\n  * Ignoring touchpad when external mouse is connected\r\n  * Long-press secondary click\r\n* Use org.gnome.settings-daemon.plugins.xsettings for middle click paste\r\n* Refactored layout and added icons\r\n* Improved search terms\r\n* Updated translations",
         "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/2.2.0"
-      },
-      {
-        "version": "2.1.4",
-        "release_date": "2018-10-15T21:15:34",
-        "title": "Switchboard Mouse & Touchpad Plug 2.1.4 Released",
-        "body": "switchboard-plug-mouse-touchpad 2.1.4 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-mouse-touchpad/issues?q=is%3Aclosed+milestone%3A2.1.4).",
-        "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/2.1.4"
       },
       {
         "version": "0.1.3",
