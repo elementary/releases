@@ -3643,7 +3643,7 @@
         "href": "https://github.com/elementary/sideload/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 32,
+    "new_commits": 34,
     "default_branch": "master"
   },
   {
@@ -7045,7 +7045,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.0"
       }
     ],
-    "new_commits": 5881,
+    "new_commits": 5882,
     "default_branch": "master"
   },
   {
