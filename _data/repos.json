@@ -3,6 +3,13 @@
     "name": "appcenter",
     "releases": [
       {
+        "version": "7.2.1",
+        "release_date": "2023-02-24T13:27:18",
+        "title": "AppCenter 7.2.1 Released",
+        "body": "## What's Changed\r\n* Update POTFILES by @ryonakano in https://github.com/elementary/appcenter/pull/2006\r\n* StripeDialog: Add translator comment by @davidmhewitt in https://github.com/elementary/appcenter/pull/2009\r\n* Many fixed and updated translations\r\n\r\n**Full Changelog**: https://github.com/elementary/appcenter/compare/7.2.0...7.2.1",
+        "href": "https://github.com/elementary/appcenter/releases/tag/7.2.1"
+      },
+      {
         "version": "7.2.0",
         "release_date": "2023-02-08T22:14:23",
         "title": "AppCenter 7.2.0 Released",
@@ -290,7 +297,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 126,
+    "new_commits": 3,
     "default_branch": "master"
   },
   {
