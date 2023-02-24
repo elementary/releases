@@ -4280,13 +4280,6 @@
         "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/6.0.0"
       },
       {
-        "version": "2.8.4",
-        "release_date": "2020-04-22T21:37:28",
-        "title": "switchboard-plug-pantheon-shell 2.8.4 Released",
-        "body": "<p>Illustrate Dock icon sizes</p>\n<p>Fix system wallpapers being copied</p>\n<p>Update search results</p>\n<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/2.8.4"
-      },
-      {
         "version": "2.8.3",
         "release_date": "2020-04-08T20:19:29",
         "title": "switchboard-plug-pantheon-shell 2.8.3 Released",
