@@ -2040,6 +2040,13 @@
         "href": "https://github.com/elementary/capnet-assist/releases/tag/2.4.0"
       },
       {
+        "version": "2.3.0",
+        "release_date": "2021-07-13T23:27:59",
+        "title": "capnet-assist 2.3.0 Released",
+        "body": "<ul>\n<li>Dark style support</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/capnet-assist/releases/tag/2.3.0"
+      },
+      {
         "version": "2.2.5",
         "release_date": "2020-04-08T20:31:34",
         "title": "capnet-assist 2.2.5 Released",
@@ -2073,6 +2080,13 @@
         "title": "Captive Portal Assistant 2.2.1 Released",
         "body": "Captive Portal Assistant 2.2.1 is out!\r\n\r\nThis release includes updated translations.",
         "href": "https://github.com/elementary/capnet-assist/releases/tag/2.2.1"
+      },
+      {
+        "version": "0.2.2",
+        "release_date": "2018-06-05T09:43:41",
+        "title": "Captive Portal Assistant 0.2.2 Released",
+        "body": "Captive Portal Assistant 0.2.2 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/capnet-assist/issues?q=is%3Aclosed+milestone%3A0.2.2).",
+        "href": "https://github.com/elementary/capnet-assist/releases/tag/0.2.2"
       }
     ],
     "new_commits": 3,
