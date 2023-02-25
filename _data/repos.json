@@ -1746,13 +1746,6 @@
         "href": "https://github.com/elementary/default-settings/releases/tag/7.0.0"
       },
       {
-        "version": "6.0.2",
-        "release_date": "2021-10-30T21:11:17",
-        "title": "Default Settings 6.0.2 Released",
-        "body": "## What's Changed\r\n* Update settings.ini with new values for >= Odin by @davidmhewitt in https://github.com/elementary/default-settings/pull/252\r\n* Skel: Point Videos launcher to Flatpak version by @cassidyjames in https://github.com/elementary/default-settings/pull/253\r\n\r\n**Full Changelog**: https://github.com/elementary/default-settings/compare/6.0.1...6.0.2",
-        "href": "https://github.com/elementary/default-settings/releases/tag/6.0.2"
-      },
-      {
         "version": "6.0.1",
         "release_date": "2021-08-31T19:15:18",
         "title": "Default Settings 6.0.1 Released",
@@ -1786,13 +1779,6 @@
         "title": "Default Settings 5.1.0 Released",
         "body": "elementary OS Default Settings 5.1.0 is out!\r\n\r\nMost of these changes were already sent out to elementary OS as snapshots, this release prepares for conditional compilation.\r\n\r\n* Change default IBus hotkey to `Ctrl+Space`\r\n* Set `QT_QPA_PLATFORMTHEME` to `gtk` for `adwaita-qt` and `qt5-gtk-platformtheme`\r\n* Set `clock-show-date` to `true` in `org.gnome.desktop.interface`\r\n* Set `Onboard` theme to `Nightshade`\r\n* Expand AppCenter blacklist entries\r\n* Manually install and compile gschema so it can support conditions\r\n* Delete unused Ayatana blacklist\r\n* Add `.inputrc`",
         "href": "https://github.com/elementary/default-settings/releases/tag/5.1.0"
-      },
-      {
-        "version": "5.0",
-        "release_date": "2018-05-23T13:45:38",
-        "title": "Default Settings 5.0 Released",
-        "body": "`elementary-default-settings` 5.0 is out!",
-        "href": "https://github.com/elementary/default-settings/releases/tag/5.0"
       }
     ],
     "new_commits": 1,
