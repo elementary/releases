@@ -710,6 +710,13 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/3.9.0"
       },
       {
+        "version": "3.8.2",
+        "release_date": "2021-10-29T17:35:37",
+        "title": "AppCenter 3.8.2 Released!",
+        "body": "## What's Changed\r\n* FlatpakBackend: Handle transaction success state correctly by @davidmhewitt in https://github.com/elementary/appcenter/pull/1730\r\n* FlatpakBackend: Sort stable apps in XML first by @davidmhewitt in https://github.com/elementary/appcenter/pull/1731\r\n* FlatpakBackend: Improve XML parsing efficiency by @davidmhewitt in https://github.com/elementary/appcenter/pull/1733\r\n\r\n**Full Changelog**: https://github.com/elementary/appcenter/compare/3.8.1...3.8.2",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.8.2"
+      },
+      {
         "version": "3.8.1",
         "release_date": "2021-10-26T17:02:14",
         "title": "AppCenter 3.8.1 Released",
