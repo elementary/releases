@@ -129,13 +129,6 @@
         "href": "https://github.com/elementary/files/releases/tag/6.2.1"
       },
       {
-        "version": "6.2.0",
-        "release_date": "2022-11-04T17:40:12",
-        "title": "Files 6.2.0 Released",
-        "body": "Improvements:\r\n- Provide option to select folders with single click and activate with double click\r\n- Only show the properties overlay when files are selected, not when hovered\r\n\r\nFixes:\r\n- Fix unexpected file activation after navigation with double-click\r\n- Fix dimmed window after use of filechooser portal\r\n- Fix possible crash when rapidly changing view modes\r\n- Fix startup when restored remote location is no longer connected\r\n- Ensure infobar shows in connection server dialog when connection attempt fails\r\n- Ensure correct icon for bookmark to a file that is not a folder\r\n- Fix possible crash when removing a bookmark\r\n\r\nMinor updates:\r\n- Updated translations\r\n",
-        "href": "https://github.com/elementary/files/releases/tag/6.2.0"
-      },
-      {
         "version": "6.1.4",
         "release_date": "2022-07-02T19:22:41",
         "title": "files 6.1.4 Released",
