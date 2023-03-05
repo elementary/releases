@@ -4875,6 +4875,13 @@
         "href": "https://github.com/elementary/wingpanel/releases/tag/2.2.3"
       },
       {
+        "version": "2.2.2",
+        "release_date": "2019-01-17T20:03:29",
+        "title": "Wingpanel 2.2.2 Released",
+        "body": "Wingpanel 2.2.2 is out!\r\n\r\nChanges:\r\n* Fix disappearing reactivated indicators\r\n* Updated translations",
+        "href": "https://github.com/elementary/wingpanel/releases/tag/2.2.2"
+      },
+      {
         "version": "2.2.1",
         "release_date": "2018-12-20T12:23:56",
         "title": "Wingpanel 2.2.1 Released",
