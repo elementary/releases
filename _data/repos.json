@@ -101,7 +101,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 5,
+    "new_commits": 6,
     "default_branch": "master"
   },
   {
@@ -3111,13 +3111,6 @@
         "href": "https://github.com/elementary/photos/releases/tag/2.7.1"
       },
       {
-        "version": "2.7.0",
-        "release_date": "2020-04-08T20:18:53",
-        "title": "photos 2.7.0 Released",
-        "body": "<ul>\n<li>Add Open In menu to the photo viewer</li>\n<li>Translation updates</li>\n</ul>\n",
-        "href": "https://github.com/elementary/photos/releases/tag/2.7.0"
-      },
-      {
         "version": "2.6.5",
         "release_date": "2019-11-15T22:14:37",
         "title": "photos 2.6.5 Released",
@@ -3137,13 +3130,6 @@
         "title": "Photos 2.6.3 Released",
         "body": "Photos 2.6.3 is out!\r\n\r\nChanges:\r\n* Fix building against latest gexiv2\r\n* Use Granite.MessageDialog throughout\r\n* Use Gtk.FileChooserNative throughout\r\n* Updated translations",
         "href": "https://github.com/elementary/photos/releases/tag/2.6.3"
-      },
-      {
-        "version": "2.6.2",
-        "release_date": "2019-01-28T06:20:27",
-        "title": "Photos 2.6.2 Released",
-        "body": "Photos 2.6.2 is out!\r\n\r\nChanges:\r\n* Updated translations",
-        "href": "https://github.com/elementary/photos/releases/tag/2.6.2"
       },
       {
         "version": "2.6.1",
