@@ -367,6 +367,13 @@
         "href": "https://github.com/elementary/portals/releases/tag/1.1.0"
       },
       {
+        "version": "1.0.1",
+        "release_date": "2021-10-28T08:07:25",
+        "title": "Portals 1.0.1 Released!",
+        "body": "## What's Changed\r\n* Watch for xdg-desktop-portal starting before binding style scheme by @davidmhewitt in https://github.com/elementary/portals/pull/34\r\n\r\n**Full Changelog**: https://github.com/elementary/portals/compare/1.0.0...1.0.1",
+        "href": "https://github.com/elementary/portals/releases/tag/1.0.1"
+      },
+      {
         "version": "1.0.0",
         "release_date": "2021-10-25T16:57:13",
         "title": "Portals 1.0.0 Released!",
