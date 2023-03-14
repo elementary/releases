@@ -1641,6 +1641,13 @@
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.5.1"
       },
       {
+        "version": "2.5.0",
+        "release_date": "2021-07-14T21:00:05",
+        "title": "switchboard-plug-keyboard 2.5.0 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Add Layout popover is now a dialog</li>\n<li>Guarantee we always have at least one layout</li>\n<li>Improvements to ibus and xkb layouts</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.5.0"
+      },
+      {
         "version": "2.4.1",
         "release_date": "2020-09-03T21:54:43",
         "title": "switchboard-plug-keyboard 2.4.1 Released",
