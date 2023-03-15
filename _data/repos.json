@@ -192,7 +192,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 14,
+    "new_commits": 15,
     "default_branch": "master"
   },
   {
@@ -430,7 +430,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 25,
+    "new_commits": 26,
     "default_branch": "master"
   },
   {
@@ -577,7 +577,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 6,
+    "new_commits": 7,
     "default_branch": "master"
   },
   {
@@ -1151,7 +1151,7 @@
         "href": "https://github.com/elementary/switchboard-plug-about/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 54,
+    "new_commits": 55,
     "default_branch": "master"
   },
   {
@@ -1620,7 +1620,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 82,
+    "new_commits": 83,
     "default_branch": "master"
   },
   {
@@ -2068,7 +2068,7 @@
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
       }
     ],
-    "new_commits": 28,
+    "new_commits": 31,
     "default_branch": "master"
   },
   {
@@ -3153,7 +3153,7 @@
         "href": "https://github.com/elementary/greeter/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 41,
+    "new_commits": 42,
     "default_branch": "master"
   },
   {
@@ -3566,7 +3566,7 @@
         "href": "https://github.com/elementary/terminal/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 81,
+    "new_commits": 83,
     "default_branch": "master"
   },
   {
@@ -5414,7 +5414,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-session/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 27,
+    "new_commits": 30,
     "default_branch": "master"
   },
   {
