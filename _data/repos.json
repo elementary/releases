@@ -66,13 +66,6 @@
         "href": "https://github.com/elementary/mail/releases/tag/6.0.0"
       },
       {
-        "version": "1.0.8",
-        "release_date": "2018-10-15T22:57:24",
-        "title": "Mail 1.0.8 Released",
-        "body": "pantheon-mail 1.0.8 is out!\r\n\r\nChanges:\r\n* Don't automatically load messages on the first run\r\n* Support libsignon-glib instead of libgsignon-glib\r\n* Build fixes\r\n* Updated translations",
-        "href": "https://github.com/elementary/mail/releases/tag/1.0.8"
-      },
-      {
         "version": "1.0.7",
         "release_date": "2018-06-05T08:50:36",
         "title": "Mail 1.0.7 Released",
