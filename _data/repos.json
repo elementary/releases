@@ -1620,7 +1620,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 86,
+    "new_commits": 87,
     "default_branch": "master"
   },
   {
@@ -1683,7 +1683,7 @@
         "href": "https://github.com/elementary/installer/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 21,
+    "new_commits": 22,
     "default_branch": "master"
   },
   {
@@ -2208,7 +2208,7 @@
         "href": "https://github.com/elementary/default-settings/releases/tag/5.0"
       }
     ],
-    "new_commits": 2,
+    "new_commits": 3,
     "default_branch": "master"
   },
   {
@@ -2306,7 +2306,7 @@
         "href": "https://github.com/elementary/music/releases/tag/0.4.0.3"
       }
     ],
-    "new_commits": 31,
+    "new_commits": 33,
     "default_branch": "main"
   },
   {
@@ -2425,7 +2425,7 @@
         "href": "https://github.com/elementary/videos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 20,
+    "new_commits": 21,
     "default_branch": "master"
   },
   {
@@ -3272,7 +3272,7 @@
         "href": "https://github.com/elementary/photos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 29,
+    "new_commits": 30,
     "default_branch": "master"
   },
   {
@@ -3293,7 +3293,7 @@
         "href": "https://github.com/elementary/iconbrowser/releases/tag/2.0.0"
       }
     ],
-    "new_commits": 37,
+    "new_commits": 38,
     "default_branch": "main"
   },
   {
@@ -4336,7 +4336,7 @@
         "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/2.0"
       }
     ],
-    "new_commits": 21,
+    "new_commits": 22,
     "default_branch": "main"
   },
   {
@@ -5015,7 +5015,7 @@
         "href": "https://github.com/elementary/wingpanel/releases/tag/2.0.3"
       }
     ],
-    "new_commits": 9,
+    "new_commits": 11,
     "default_branch": "master"
   },
   {
@@ -5729,7 +5729,7 @@
         "href": "https://github.com/elementary/switchboard/releases/tag/2.3.0"
       }
     ],
-    "new_commits": 11,
+    "new_commits": 12,
     "default_branch": "main"
   },
   {
