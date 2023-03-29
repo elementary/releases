@@ -4364,13 +4364,6 @@
         "href": "https://github.com/elementary/pantheon-agent-geoclue2/releases/tag/1.0.4"
       },
       {
-        "version": "1.0.3",
-        "release_date": "2019-11-15T21:56:27",
-        "title": "pantheon-agent-geoclue2 1.0.3 Released",
-        "body": "pantheon-agent-geoclue2 1.0.3 is out! \n\nChanges:\n\n* Updated translations\n",
-        "href": "https://github.com/elementary/pantheon-agent-geoclue2/releases/tag/1.0.3"
-      },
-      {
         "version": "1.0.2",
         "release_date": "2019-06-30T16:26:54",
         "title": "Pantheon Geoclue2 Agent 1.0.2 Released",
