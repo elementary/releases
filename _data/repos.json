@@ -3384,6 +3384,13 @@
         "href": "https://github.com/elementary/photos/releases/tag/2.6.1"
       },
       {
+        "version": "2.6.0",
+        "release_date": "2018-10-16T02:54:25",
+        "title": "Photos 2.6.0 Released",
+        "body": "Photos 2.6.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/photos/issues?q=is%3Aclosed+milestone%3A2.6.0).",
+        "href": "https://github.com/elementary/photos/releases/tag/2.6.0"
+      },
+      {
         "version": "0.2.5",
         "release_date": "2018-06-20T07:23:42",
         "title": "Photos 0.2.5 Released",
