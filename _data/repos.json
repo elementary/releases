@@ -4392,7 +4392,7 @@
         "href": "https://github.com/elementary/pantheon-agent-geoclue2/releases/tag/1.0"
       }
     ],
-    "new_commits": 19,
+    "new_commits": 20,
     "default_branch": "master"
   },
   {
@@ -6030,7 +6030,7 @@
         "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 49,
+    "new_commits": 50,
     "default_branch": "main"
   },
   {
@@ -7108,7 +7108,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.0"
       }
     ],
-    "new_commits": 5892,
+    "new_commits": 5895,
     "default_branch": "master"
   },
   {
