@@ -1270,6 +1270,20 @@
     "name": "appcenter",
     "releases": [
       {
+        "version": "7.2.1",
+        "release_date": "2023-02-24T13:27:18",
+        "title": "AppCenter 7.2.1 Released",
+        "body": "## What's Changed\r\n* Update POTFILES by @ryonakano in https://github.com/elementary/appcenter/pull/2006\r\n* StripeDialog: Add translator comment by @davidmhewitt in https://github.com/elementary/appcenter/pull/2009\r\n* Many fixed and updated translations\r\n\r\n**Full Changelog**: https://github.com/elementary/appcenter/compare/7.2.0...7.2.1",
+        "href": "https://github.com/elementary/appcenter/releases/tag/7.2.1"
+      },
+      {
+        "version": "7.2.0",
+        "release_date": "2023-02-08T22:14:23",
+        "title": "AppCenter 7.2.0 Released",
+        "body": "## What's Changed\r\n* AppListUpdateView: Rewrite with ListStore by @danirabbit in https://github.com/elementary/appcenter/pull/1979\r\n* AppListUpdateView: Show when up to date by @danirabbit in https://github.com/elementary/appcenter/pull/1980\r\n* Update flatpak.vapi by @tintou in https://github.com/elementary/appcenter/pull/1991\r\n* Flatpak repair by @meisenzahl in https://github.com/elementary/appcenter/pull/1983\r\n* CategoryView: Fix crash by @meisenzahl in https://github.com/elementary/appcenter/pull/1993\r\n\r\n**Full Changelog**: https://github.com/elementary/appcenter/compare/7.1.0...7.2.0",
+        "href": "https://github.com/elementary/appcenter/releases/tag/7.2.0"
+      },
+      {
         "version": "7.1.0",
         "release_date": "2023-01-29T02:02:10",
         "title": "AppCenter 7.1.0 Released",
@@ -1550,7 +1564,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 230,
+    "new_commits": 32,
     "default_branch": "master"
   },
   {
@@ -2817,7 +2831,7 @@
         "href": "https://github.com/elementary/music/releases/tag/0.4.0.3"
       }
     ],
-    "new_commits": 41,
+    "new_commits": 47,
     "default_branch": "main"
   },
   {
