@@ -353,7 +353,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 26,
+    "new_commits": 28,
     "default_branch": "master"
   },
   {
@@ -1102,7 +1102,7 @@
         "href": "https://github.com/elementary/portals/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 5,
+    "new_commits": 6,
     "default_branch": "main"
   },
   {
@@ -3678,7 +3678,7 @@
         "href": "https://github.com/elementary/greeter/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 46,
+    "new_commits": 47,
     "default_branch": "master"
   },
   {
@@ -3965,7 +3965,7 @@
         "href": "https://github.com/elementary/notifications/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 16,
+    "new_commits": 18,
     "default_branch": "master"
   },
   {
@@ -4329,7 +4329,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.0.4"
       }
     ],
-    "new_commits": 23,
+    "new_commits": 25,
     "default_branch": "master"
   },
   {
