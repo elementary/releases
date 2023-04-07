@@ -3195,13 +3195,6 @@
         "href": "https://github.com/elementary/camera/releases/tag/6.0.2"
       },
       {
-        "version": "6.0.1",
-        "release_date": "2021-10-26T20:39:33",
-        "title": "Camera 6.0.1 Released",
-        "body": "<p>Improvements:</p>\r\n<ul>\r\n<li>Take full-resolution pictures</li>\r\n</ul>\r\n<p>Fixes:</p>\r\n<ul>\r\n<li>Fix restoring window size</li>\r\n</ul>\r\n<p>Minor updates:</p>\r\n<ul>\r\n<li>Updated translations</li>\r\n</ul>",
-        "href": "https://github.com/elementary/camera/releases/tag/6.0.1"
-      },
-      {
         "version": "6.0.0",
         "release_date": "2021-07-21T20:19:02",
         "title": "camera 6.0.0 Released",
