@@ -829,6 +829,13 @@
         "href": "https://github.com/elementary/stylesheet/releases/tag/5.2.2"
       },
       {
+        "version": "5.2.1",
+        "release_date": "2018-12-18T09:19:47",
+        "title": "elementary Gtk+ Stylesheet 5.2.1 Released",
+        "body": "elementary-theme 5.2.1 is out!\r\n\r\nChanges:\r\n* Add styles for link psuedo classes\r\n* Fix notebook background\r\n* Add accent support to scales\r\n* Always use light switch sliders",
+        "href": "https://github.com/elementary/stylesheet/releases/tag/5.2.1"
+      },
+      {
         "version": "5.2.0",
         "release_date": "2018-10-16T05:25:46",
         "title": "elementary Gtk+ Stylesheet 5.2.0 Released",
@@ -848,6 +855,13 @@
         "title": "elementary Gtk+ Stylesheet 5.1.0 Released",
         "body": "New version of elementary-theme is out!\r\n\r\nThe issues closed by this release can be found [here](https://github.com/elementary/stylesheet/milestone/3?closed=1).",
         "href": "https://github.com/elementary/stylesheet/releases/tag/5.1.0"
+      },
+      {
+        "version": "5.0.4",
+        "release_date": "2017-04-03T19:52:39",
+        "title": "elementary Gtk+ Stylesheet 5.0.4 Released",
+        "body": "New version of elementary-theme is out!",
+        "href": "https://github.com/elementary/stylesheet/releases/tag/5.0.4"
       }
     ],
     "new_commits": 8,
