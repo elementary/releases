@@ -6548,6 +6548,13 @@
         "href": "https://github.com/elementary/switchboard-plug-notifications/releases/tag/2.1.7"
       },
       {
+        "version": "2.1.6",
+        "release_date": "2020-04-01T23:40:00",
+        "title": "switchboard-plug-notifications 2.1.6 Released",
+        "body": "switchboard-plug-notifications 2.1.6 is out! \n\n<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/switchboard-plug-notifications/releases/tag/2.1.6"
+      },
+      {
         "version": "2.1.5",
         "release_date": "2018-10-16T08:05:38",
         "title": "Switchboard Notifications Plug 2.1.5 Released",
