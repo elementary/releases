@@ -4469,13 +4469,6 @@
         "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/2.2.0"
       },
       {
-        "version": "2.1.7",
-        "release_date": "2018-10-08T18:20:19",
-        "title": "Switchboard User Accounts Plug 2.1.7 Released",
-        "body": "switchboard-plug-useraccounts 2.1.7 is out!\r\n\r\nThis list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-useraccounts/issues?q=is%3Aclosed+milestone%3A2.1.7).",
-        "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/2.1.7"
-      },
-      {
         "version": "0.1.6",
         "release_date": "2017-10-10T18:56:56",
         "title": "Switchboard User Accounts Plug 0.1.6 Released",
