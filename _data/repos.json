@@ -451,13 +451,6 @@
         "href": "https://github.com/elementary/gala/releases/tag/6.2.1"
       },
       {
-        "version": "6.2.0",
-        "release_date": "2021-09-22T20:42:08",
-        "title": "Gala 6.2.0 Released",
-        "body": "<p>New features:</p>\r\n<ul>\r\n  <li>Stash the picture-in-picture window by pushing it off screen</li>\r\n</ul>\r\n<p>Improvements:</p>\r\n<ul>\r\n  <li>Fix a potential crash while changing wallpapers</li>\r\n  <li>Updated translations</li>\r\n</ul>",
-        "href": "https://github.com/elementary/gala/releases/tag/6.2.0"
-      },
-      {
         "version": "6.0.1",
         "release_date": "2021-08-11T20:53:00",
         "title": "Gala 6.0.1 Released",
