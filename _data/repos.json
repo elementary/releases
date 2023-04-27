@@ -388,7 +388,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 25,
+    "new_commits": 29,
     "default_branch": "master"
   },
   {
@@ -6842,6 +6842,13 @@
         "href": "https://github.com/elementary/houston/releases/tag/v6.0.7"
       },
       {
+        "version": "v6.0.6",
+        "release_date": "2018-11-27T15:58:28",
+        "title": "v6.0.6",
+        "body": "## [6.0.6](https://github.com/elementary/houston/compare/v6.0.5...v6.0.6) (2018-11-27)\n\n\n### Bug Fixes\n\n* **package:** update knex to version 0.16.0 ([4b5db9b](https://github.com/elementary/houston/commit/4b5db9b))\n\n\n\n",
+        "href": "https://github.com/elementary/houston/releases/tag/v6.0.6"
+      },
+      {
         "version": "v6.0.5",
         "release_date": "2018-11-22T04:47:11",
         "title": "v6.0.5",
@@ -6968,6 +6975,20 @@
         "href": "https://github.com/elementary/houston/releases/tag/v3.1.2"
       },
       {
+        "version": "v3.1.1",
+        "release_date": "2018-07-24T19:46:42",
+        "title": "v3.1.1",
+        "body": "## [3.1.1](https://github.com/elementary/houston/compare/v3.1.0...v3.1.1) (2018-07-24)\n\n\n### Bug Fixes\n\n* **worker:** Do not check Debian control file for system apps ([a03ab47](https://github.com/elementary/houston/commit/a03ab47))\n\n\n\n",
+        "href": "https://github.com/elementary/houston/releases/tag/v3.1.1"
+      },
+      {
+        "version": "v3.1.0",
+        "release_date": "2018-07-13T02:22:38",
+        "title": "v3.1.0",
+        "body": "# [3.1.0](https://github.com/elementary/houston/compare/v3.0.0...v3.1.0) (2018-07-13)\n\n\n### Features\n\n* **worker:** test some basic fields in the Debian control file ([f9edd78](https://github.com/elementary/houston/commit/f9edd78))\n\n\n\n",
+        "href": "https://github.com/elementary/houston/releases/tag/v3.1.0"
+      },
+      {
         "version": "v3.0.0",
         "release_date": "2018-07-11T17:15:07",
         "title": "v3.0.0",
@@ -7036,6 +7057,13 @@
         "title": "v1.0.1",
         "body": "<a name=\"1.0.1\"></a>\n## [1.0.1](https://github.com/elementary/houston/compare/v1.0.0...v1.0.1) (2018-05-02)\n\n\n### Bug Fixes\n\n* **package:** fix package main script ([90bbffd](https://github.com/elementary/houston/commit/90bbffd))\n\n\n\n",
         "href": "https://github.com/elementary/houston/releases/tag/v1.0.1"
+      },
+      {
+        "version": "v1.0.0",
+        "release_date": "2018-04-29T21:53:05",
+        "title": "v1.0.0",
+        "body": "<a name=\"1.0.0\"></a>\n# 1.0.0 (2018-04-29)\n\n\n### Bug Fixes\n\n* **worker:** fix worker type exporting ([002841a](https://github.com/elementary/houston/commit/002841a))\n\n\n\n",
+        "href": "https://github.com/elementary/houston/releases/tag/v1.0.0"
       },
       {
         "version": "0.3.0",
