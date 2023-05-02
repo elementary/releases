@@ -1,5 +1,278 @@
 [
   {
+    "name": "gala",
+    "releases": [
+      {
+        "version": "7.0.3",
+        "release_date": "2023-05-02T21:52:50",
+        "title": "Gala 7.0.3 Released!",
+        "body": "## What's Changed\r\n* WM: Add laters via compositor by @davidmhewitt in https://github.com/elementary/gala/pull/1619\r\n* maskcorners: Scale corner masks per-monitor by @davidmhewitt in https://github.com/elementary/gala/pull/1620\r\n* Utils: Remove bell by @davidmhewitt in https://github.com/elementary/gala/pull/1621\r\n* Enable `Alt + ~` to switch between windows of the same application by @lenemter in https://github.com/elementary/gala/pull/1602\r\n* DwellClickTimer: Support non-integer, monitor specific scales by @davidmhewitt in https://github.com/elementary/gala/pull/1618\r\n* ScreenshotManager: Support non-integer scaling factors by @davidmhewitt in https://github.com/elementary/gala/pull/1623\r\n* WM: Init things that depend on GTK later by @davidmhewitt in https://github.com/elementary/gala/pull/1622\r\n* KeyboardManager: Set keyboard layout on startup by @lenemter in https://github.com/elementary/gala/pull/1626\r\n* HotCorners: Support floating point scale factors by @davidmhewitt in https://github.com/elementary/gala/pull/1627\r\n* WM: Drop Meta.ShadowFactory by @lenemter in https://github.com/elementary/gala/pull/1625\r\n* IconGroup: Support floating scale factors by @davidmhewitt in https://github.com/elementary/gala/pull/1628\r\n* WorkspaceInsertThumb: Support floating point scale factors by @davidmhewitt in https://github.com/elementary/gala/pull/1629\r\n* Support floating point scale for resize button by @davidmhewitt in https://github.com/elementary/gala/pull/1630\r\n* NotificationStack: Support floating point scale factors by @davidmhewitt in https://github.com/elementary/gala/pull/1631\r\n* WindowSwitcher: Support floating point scale factors by @davidmhewitt in https://github.com/elementary/gala/pull/1632\r\n* InternalUtils: Remove pixel_align method, and just round by @davidmhewitt in https://github.com/elementary/gala/pull/1633\r\n* PiP PopupWindow: Support floating point scale factor by @davidmhewitt in https://github.com/elementary/gala/pull/1634\r\n* WorkspaceClone: Handle floating point scaling factors by @davidmhewitt in https://github.com/elementary/gala/pull/1635\r\n* WindowSwitcher: Fix rounded corners by @lenemter in https://github.com/elementary/gala/pull/1638\r\n* WindowIconActor: Support setting floating point scale on placement by @davidmhewitt in https://github.com/elementary/gala/pull/1636\r\n* MultitaskingView: Ensure MonitorClones are visible on other monitors by @davidmhewitt in https://github.com/elementary/gala/pull/1640\r\n* WindowSwitcher: Merge icon and indicator by @lenemter in https://github.com/elementary/gala/pull/1637\r\n* WindowSwitcher: Respect animations key by @lenemter in https://github.com/elementary/gala/pull/1643\r\n* IconGroup: Correctly set highlight opacity on start by @lenemter in https://github.com/elementary/gala/pull/1642\r\n* WindowSwitcher: Update caption width before opening by @lenemter in https://github.com/elementary/gala/pull/1645\r\n* MultitaskingView: Stack docks on top of workspace clones by @davidmhewitt in https://github.com/elementary/gala/pull/1646\r\n* MultitaskingView: Support floating point scale factors by @davidmhewitt in https://github.com/elementary/gala/pull/1647\r\n* MultitaskingView: Allow making screenshots of the screen by @lenemter in https://github.com/elementary/gala/pull/1644\r\n* BackgroundManager: dark dim effect by @danirabbit in https://github.com/elementary/gala/pull/1651\r\n* BackgroundManager: Update Wingpanel color after dimming wallpaper by @lenemter in https://github.com/elementary/gala/pull/1652\r\n* IconGroup: Improve animation by @lenemter in https://github.com/elementary/gala/pull/1653\r\n* Handle cancel action in IconGroup animation by @lenemter in https://github.com/elementary/gala/pull/1654\r\n* Avoid to use Gdk constants when Clutter should be used by @tintou in https://github.com/elementary/gala/pull/1596\r\n* Multitasking view: Respect animations key by @lenemter in https://github.com/elementary/gala/pull/1656\r\n* Window Dim: Use `get_transient_for` by @lenemter in https://github.com/elementary/gala/pull/1659\r\n* Add support for Mutter 44 by @tintou in https://github.com/elementary/gala/pull/1570\r\n* WindowSwitcher: Fix issues on first use and after minimize by @lenemter in https://github.com/elementary/gala/pull/1662\r\n* WindowSwitcherIcon: Correctly set scale factor by @lenemter in https://github.com/elementary/gala/pull/1664\r\n* WindowSwitcher: Improve keyboard navigation by @lenemter in https://github.com/elementary/gala/pull/1663\r\n* WindowSwitcher: Scale shadow by @lenemter in https://github.com/elementary/gala/pull/1665\r\n* Update appdata by @lenemter in https://github.com/elementary/gala/pull/1671\r\n* Fix double icon when crossing icon group by @lenemter in https://github.com/elementary/gala/pull/1670\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/gala/compare/7.0.2...7.0.3",
+        "href": "https://github.com/elementary/gala/releases/tag/7.0.3"
+      },
+      {
+        "version": "7.0.2",
+        "release_date": "2023-04-04T23:54:18",
+        "title": "Gala 7.0.2 Released!",
+        "body": "## What's Changed\r\n* vapi: Sync with greeter by @bobby285271 in https://github.com/elementary/gala/pull/1565\r\n* Meson: Always add DwellClickTimer and PointerLocator by @lenemter in https://github.com/elementary/gala/pull/1568\r\n* Switch to GHCR containers by @davidmhewitt in https://github.com/elementary/gala/pull/1576\r\n* WindowClone: Don't calculate offset by @lenemter in https://github.com/elementary/gala/pull/1567\r\n* Map notification windows manually while switching workspace by @lenemter in https://github.com/elementary/gala/pull/1577\r\n* Use ClickAction for FramedBackground and close buttons by @lenemter in https://github.com/elementary/gala/pull/1579\r\n* Update gala.appdata.xml.in by @danirabbit in https://github.com/elementary/gala/pull/1581\r\n* Remove texture.png by @lenemter in https://github.com/elementary/gala/pull/1582\r\n* Ignore autorepeat for some keybindings by @lenemter in https://github.com/elementary/gala/pull/1583\r\n* Minimze: Don't restore actor properties by @lenemter in https://github.com/elementary/gala/pull/1585\r\n* Daemon: Workaround broken window menu for some apps by @lenemter in https://github.com/elementary/gala/pull/1574\r\n* WindowOverview and WindowCloneContainer: Cleanup by @lenemter in https://github.com/elementary/gala/pull/1587\r\n* Don't connect to Meta.Display.restacked by @lenemter in https://github.com/elementary/gala/pull/1588\r\n* WindowSwitcher: Select a window on button release by @lenemter in https://github.com/elementary/gala/pull/1590\r\n* Set keyboard layout using `lock_layout_group` by @lenemter in https://github.com/elementary/gala/pull/1589\r\n* WindowTracker: Remove unused connection to notify[\"focus-window\"] by @lenemter in https://github.com/elementary/gala/pull/1592\r\n* WindowOverview: Use `button_release_event` by @lenemter in https://github.com/elementary/gala/pull/1593\r\n* Use separate `notification_group` for notifications by @lenemter in https://github.com/elementary/gala/pull/1598\r\n* Avoid connecting multiple times to `window_created` by @lenemter in https://github.com/elementary/gala/pull/1599\r\n* Add keybindings for switching input source by @lenemter in https://github.com/elementary/gala/pull/1600\r\n* Get MonitorManager from context by @davidmhewitt in https://github.com/elementary/gala/pull/1604\r\n* KeyboardManager: get backend from context by @davidmhewitt in https://github.com/elementary/gala/pull/1605\r\n* WindowClone: optimize ActiveShape by @lenemter in https://github.com/elementary/gala/pull/1603\r\n* Check if window can maximize before performing action by @lenemter in https://github.com/elementary/gala/pull/1613\r\n* PointerLocator: Support floating, monitor specific scale by @davidmhewitt in https://github.com/elementary/gala/pull/1606\r\n* DragDropAction: Check that actor was actually clicked by @lenemter in https://github.com/elementary/gala/pull/1591\r\n* DnD: Don't disable reactivity by @lenemter in https://github.com/elementary/gala/pull/1610\r\n* Add previous/next workspace to available actions by @lenemter in https://github.com/elementary/gala/pull/1614\r\n* Don't manually map notifications while nudge animation is playing by @lenemter in https://github.com/elementary/gala/pull/1611\r\n* PiP: Use constraints by @lenemter in https://github.com/elementary/gala/pull/1608\r\n* Use translation-x for nudge animation by @lenemter in https://github.com/elementary/gala/pull/1612\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/gala/compare/7.0.1...7.0.2",
+        "href": "https://github.com/elementary/gala/releases/tag/7.0.2"
+      },
+      {
+        "version": "7.0.1",
+        "release_date": "2023-02-28T15:00:08",
+        "title": "Gala 7.0.1 Released",
+        "body": "## What's Changed\r\n* WindowClone: Fix shadows by @lenemter in https://github.com/elementary/gala/pull/1503\r\n* Allow KeyBindingAction.NONE in Multitasking View by @lenemter in https://github.com/elementary/gala/pull/1514\r\n* Dialogs: Remove DBus Timeout From AccessDialog Call by @Marukesu in https://github.com/elementary/gala/pull/1515\r\n* WindowManager: `confirm_display_change()` Fixes by @Marukesu in https://github.com/elementary/gala/pull/1516\r\n* Fix IconGroup close button animation by @lenemter in https://github.com/elementary/gala/pull/1522\r\n* Better super key filter in multitasking view by @lenemter in https://github.com/elementary/gala/pull/1523\r\n* ShadowEffect: inline namespace, copy to PIP by @lenemter in https://github.com/elementary/gala/pull/1520\r\n* WindowClone: Remove custom WindowShadowEffect class by @lenemter in https://github.com/elementary/gala/pull/1531\r\n* WindowClone: Cleanup by @lenemter in https://github.com/elementary/gala/pull/1532\r\n* Extend list of allowed keybindings in multitasking view by @lenemter in https://github.com/elementary/gala/pull/1530\r\n* WorkspaceInsertThumb: Code style fixes by @lenemter in https://github.com/elementary/gala/pull/1533\r\n* Allow zoom keybindings in multitasking view by @lenemter in https://github.com/elementary/gala/pull/1535\r\n* Explicit Clutter and Meta namespaces by @lenemter in https://github.com/elementary/gala/pull/1537\r\n* PIP: Fix log spam by @lenemter in https://github.com/elementary/gala/pull/1521\r\n* Dialogs: Improve force quit string by @davidmhewitt in https://github.com/elementary/gala/pull/1540\r\n* Always use `private` keyword by @lenemter in https://github.com/elementary/gala/pull/1543\r\n* WindowClone: Add click action only in overview mode by @lenemter in https://github.com/elementary/gala/pull/1542\r\n* Fix multitasking view animations by @lenemter in https://github.com/elementary/gala/pull/1529\r\n* Fix PiP positioning offset by @GranPC in https://github.com/elementary/gala/pull/1507\r\n* WindowClone: Fix warnings in window overview by @lenemter in https://github.com/elementary/gala/pull/1549\r\n* WindowOverview: Cleanup by @lenemter in https://github.com/elementary/gala/pull/1548\r\n* PiP: Respect animations key by @lenemter in https://github.com/elementary/gala/pull/1546\r\n* Update appdata with fixed issues by @lenemter in https://github.com/elementary/gala/pull/1556\r\n* build: require mutter 42 by @bobby285271 in https://github.com/elementary/gala/pull/1496\r\n* Fix window maximize and unmaximize animations by @lenemter in https://github.com/elementary/gala/pull/1557\r\n* Remove some deprecations and fix compile warnings by @lenemter in https://github.com/elementary/gala/pull/1544\r\n* WindowClone: Make close button and title respect animations key by @lenemter in https://github.com/elementary/gala/pull/1551\r\n* IconGroup: Make close button respect animations key by @lenemter in https://github.com/elementary/gala/pull/1554\r\n* Cleanup after #1557 by @lenemter in https://github.com/elementary/gala/pull/1559\r\n* DragDropAction: Activate click signal on release by @lenemter in https://github.com/elementary/gala/pull/1560\r\n* WindowIcon: Cleanup by @lenemter in https://github.com/elementary/gala/pull/1561\r\n* Unify move to workspace behaviour by @lenemter in https://github.com/elementary/gala/pull/1562\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/gala/compare/7.0.0...7.0.1",
+        "href": "https://github.com/elementary/gala/releases/tag/7.0.1"
+      },
+      {
+        "version": "7.0.0",
+        "release_date": "2023-01-05T20:51:48",
+        "title": "Gala 7.0.0 Released!",
+        "body": "## What's Changed\r\n* Reload animated wallpapers when timezone changes by @lenemter in https://github.com/elementary/gala/pull/1461\r\n* Work around crash when receiving notifications by @GranPC in https://github.com/elementary/gala/pull/1497\r\n* ShadowEffect: let Clutter know the shadow's size by @GranPC in https://github.com/elementary/gala/pull/1500\r\n* Fix awkward two-finger scroll in multitasking view by @GranPC in https://github.com/elementary/gala/pull/1499\r\n* Fix crash when monitor is turned off by @sryze in https://github.com/elementary/gala/pull/1491\r\n* Fix quick zooming by @lenemter in https://github.com/elementary/gala/pull/1501\r\n* Improve multitasking view animation performance by @GranPC in https://github.com/elementary/gala/pull/1498\r\n* Fix workspace switching animation in multitasking view by @lenemter in https://github.com/elementary/gala/pull/1502\r\n\r\n## New Contributors\r\n* @GranPC made their first contribution in https://github.com/elementary/gala/pull/1497\r\n* @sryze made their first contribution in https://github.com/elementary/gala/pull/1491\r\n\r\n**Full Changelog**: https://github.com/elementary/gala/compare/6.3.3...7.0.0",
+        "href": "https://github.com/elementary/gala/releases/tag/7.0.0"
+      },
+      {
+        "version": "6.3.3",
+        "release_date": "2022-10-17T17:36:14",
+        "title": "gala 6.3.3 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/gala/releases/tag/6.3.3"
+      },
+      {
+        "version": "6.3.2",
+        "release_date": "2022-10-12T16:52:03",
+        "title": "gala 6.3.2 Released",
+        "body": "<p>Fixes:</p>\n<ul>\n<li>Fix regressions for OS 7</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Use access portal for force quit</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/gala/releases/tag/6.3.2"
+      },
+      {
+        "version": "6.3.1",
+        "release_date": "2022-04-07T06:54:49",
+        "title": "gala 6.3.1 Released",
+        "body": "<p>Fixes:</p>\n<ul>\n<li>Properly update accent color in the window switcher</li>\n<li>Fix selecting windows underneath the window switcher</li>\n<li>Prevent potential crashes</li>\n<li>Resize workspaces when displays change</li>\n<li>Handle windows with no title</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Use access portal for display settings confirmation and force quit</li>\n<li>Allow closing multitasking view with Super</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/gala/releases/tag/6.3.1"
+      },
+      {
+        "version": "6.3.0",
+        "release_date": "2021-11-23T20:22:23",
+        "title": "gala 6.3.0 Released",
+        "body": "<p>Fixes:</p>\n<ul>\n<li>Fix shadow clipping on server-side decorated windows</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Support for high-resolution scroll events</li>\n<li>Redesigned Alt + Tab switcher</li>\n<li>Dim the parents of modal dialogs</li>\n<li>Dialogs fall down on parents instead of shooting out</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/gala/releases/tag/6.3.0"
+      },
+      {
+        "version": "6.2.1",
+        "release_date": "2021-09-29T17:20:47",
+        "title": "Gala 6.2.1 Released",
+        "body": "<p>Improvements:</p>\r\n<ul>\r\n<li>Fix a potential crash when taking screenshots</li>\r\n<li>Updated translations</li>\r\n</ul>",
+        "href": "https://github.com/elementary/gala/releases/tag/6.2.1"
+      },
+      {
+        "version": "6.2.0",
+        "release_date": "2021-09-22T20:42:08",
+        "title": "Gala 6.2.0 Released",
+        "body": "<p>New features:</p>\r\n<ul>\r\n  <li>Stash the picture-in-picture window by pushing it off screen</li>\r\n</ul>\r\n<p>Improvements:</p>\r\n<ul>\r\n  <li>Fix a potential crash while changing wallpapers</li>\r\n  <li>Updated translations</li>\r\n</ul>",
+        "href": "https://github.com/elementary/gala/releases/tag/6.2.0"
+      },
+      {
+        "version": "6.0.1",
+        "release_date": "2021-08-11T20:53:00",
+        "title": "Gala 6.0.1 Released",
+        "body": "<p>Improvements:</p>\r\n<ul>\r\n<li>Include window decorations in screenshots for server-side decorated windows</li>\r\n<li>Updated translations</li>\r\n</ul>",
+        "href": "https://github.com/elementary/gala/releases/tag/6.0.1"
+      },
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-14T17:07:19",
+        "title": "Gala 6.0.0 Released",
+        "body": "Improvements:\r\n- Add multitouch gestures\r\n- Show window titles in multitasking view\r\n- Close the Alt + Tab switcher by pressing Esc without releasing Alt\r\n- Increase maximum zoom level and provide feedback when unable to zoom\r\n- Show a context menu when secondary clicking the background\r\n- New Dwell Click and Locate Pointer animations\r\n- Add Take Screenshot to window context menu\r\n- Always play shutter sound when taking screenshots\r\n- Minor visual improvements\r\n- HiDPI fixes\r\n- Performance improvements\r\n- Updated translations",
+        "href": "https://github.com/elementary/gala/releases/tag/6.0.0"
+      },
+      {
+        "version": "3.3.2",
+        "release_date": "2020-04-30T22:23:37",
+        "title": "gala 3.3.2 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Fix “Always on Visible Workspace” windows disappearing when changing workspaces</li>\n<li>Fix windows on non-primary displays disappearing when changing workspaces</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/gala/releases/tag/3.3.2"
+      },
+      {
+        "version": "3.3.1",
+        "release_date": "2020-04-25T17:27:44",
+        "title": "gala 3.3.1 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Fix crash when changing workspaces while a transient window is opening</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/gala/releases/tag/3.3.1"
+      },
+      {
+        "version": "3.3.0",
+        "release_date": "2020-04-03T18:45:09",
+        "title": "gala 3.3.0 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Don't show Gala Background Services in the dock</li>\n<li>Fixes for media key handling</li>\n<li>Show keyboard shortcuts in HeaderBar menus</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/gala/releases/tag/3.3.0"
+      },
+      {
+        "version": "3.2.0",
+        "release_date": "2020-01-07T17:58:30",
+        "title": "gala 3.2.0 Released",
+        "body": "gala 3.2.0 is out! \n\n<p>Improvements:</p>\n<ul>\n<li>Improve window shadows for legacy apps</li>\n<li>Fix potential crash when taking screenshots</li>\n<li>Fix notification position after changing DPI</li>\n<li>Fix animations for moving and maximizing tiled windows</li>\n</ul>\n",
+        "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
+      }
+    ],
+    "new_commits": 0,
+    "default_branch": "master"
+  },
+  {
+    "name": "icons",
+    "releases": [
+      {
+        "version": "7.3.0",
+        "release_date": "2023-05-02T20:14:47",
+        "title": "Icons 7.3.0 Released!",
+        "body": "## What's Changed\r\n* Remove network-vpn icons by @danirabbit in https://github.com/elementary/icons/pull/1178\r\n* Drop exec bit from SVG files by @hosiet in https://github.com/elementary/icons/pull/1177\r\n* ci: Make merge.yml a valid GitHub Action by @tintou in https://github.com/elementary/icons/pull/1180\r\n* Network removals by @danirabbit in https://github.com/elementary/icons/pull/1179\r\n* Devices: Remove unused symlinks by @newhoa in https://github.com/elementary/icons/pull/1182\r\n* Switch to GHCR containers by @davidmhewitt in https://github.com/elementary/icons/pull/1183\r\n* Add Adw icons by @danirabbit in https://github.com/elementary/icons/pull/1186\r\n* Add GNOME UI icons to actions by @danirabbit in https://github.com/elementary/icons/pull/1185\r\n* Update preferences-desktop-display by @danirabbit in https://github.com/elementary/icons/pull/1187\r\n* Actions: increase radius of edit-clear by @danirabbit in https://github.com/elementary/icons/pull/1191\r\n* Actions: add adw-external-link by @danirabbit in https://github.com/elementary/icons/pull/1189\r\n* Actions: update document-*-symbolic radius by @danirabbit in https://github.com/elementary/icons/pull/1190\r\n* Process completed newcheck by @danirabbit in https://github.com/elementary/icons/pull/1193\r\n* Categories: add location prefs by @danirabbit in https://github.com/elementary/icons/pull/1195\r\n* Extension → application-x-addon by @danirabbit in https://github.com/elementary/icons/pull/1197\r\n\r\n## New Contributors\r\n* @hosiet made their first contribution in https://github.com/elementary/icons/pull/1177\r\n* @davidmhewitt made their first contribution in https://github.com/elementary/icons/pull/1183\r\n\r\n**Full Changelog**: https://github.com/elementary/icons/compare/7.2.0...7.3.0",
+        "href": "https://github.com/elementary/icons/releases/tag/7.3.0"
+      },
+      {
+        "version": "7.2.0",
+        "release_date": "2023-01-24T17:31:50",
+        "title": "Icons 7.2.0 Released",
+        "body": "## What's Changed\r\n* Update white tile icons by @danirabbit in https://github.com/elementary/icons/pull/1144\r\n* Redesign system-file-manager by @danirabbit in https://github.com/elementary/icons/pull/1147\r\n* Redesign accessories-calculator by @danirabbit in https://github.com/elementary/icons/pull/1148\r\n* FileTypes: symlink extension to application-x-xpinstall by @danirabbit in https://github.com/elementary/icons/pull/1156\r\n* Update categories/applications-development by @danirabbit in https://github.com/elementary/icons/pull/1155\r\n* Remove internet-web-browser by @danirabbit in https://github.com/elementary/icons/pull/1141\r\n* Remove system-os-install by @danirabbit in https://github.com/elementary/icons/pull/1152\r\n* Update border radius of preferences-system-sharing by @lenemter in https://github.com/elementary/icons/pull/1159\r\n* Appdata: Add Icon by @lenemter in https://github.com/elementary/icons/pull/1165\r\n* Update border radius of preferences-desktop-applications by @lenemter in https://github.com/elementary/icons/pull/1164\r\n* Update border radius of notification-disabled by @lenemter in https://github.com/elementary/icons/pull/1163\r\n* Update border radius of application-x-firmware by @lenemter in https://github.com/elementary/icons/pull/1161\r\n* Normalize width of key in input-keyboard icon by @lenemter in https://github.com/elementary/icons/pull/1162\r\n* Update border radius of preferences-system-parental-controls by @lenemter in https://github.com/elementary/icons/pull/1160\r\n* Status: update 48px do-not-disturb by @danirabbit in https://github.com/elementary/icons/pull/1166\r\n* FileTypes: Use fd.o `text-x-generic` for text by @newhoa in https://github.com/elementary/icons/pull/1169\r\n* Categories: remove unused and non-fd.o names by @danirabbit in https://github.com/elementary/icons/pull/1154\r\n* FileTypes: Add 16px video-x-generic by @danirabbit in https://github.com/elementary/icons/pull/1175\r\n* Update Actions by @danirabbit in https://github.com/elementary/icons/pull/1176\r\n* Add latte palette by @micahilbery in https://github.com/elementary/icons/pull/963\r\n* Unify view mode symbolics by @danirabbit in https://github.com/elementary/icons/pull/1157\r\n\r\n## New Contributors\r\n* @lenemter made their first contribution in https://github.com/elementary/icons/pull/1159\r\n\r\n**Full Changelog**: https://github.com/elementary/icons/compare/7.1.0...7.2.0",
+        "href": "https://github.com/elementary/icons/releases/tag/7.2.0"
+      },
+      {
+        "version": "7.1.0",
+        "release_date": "2022-10-06T20:40:03",
+        "title": "icons 7.1.0 Released",
+        "body": "<p>Additions:</p>\n<ul>\n<li>\"computer-fail\"</li>\n<li>\"preferences-desktop-theme\"</li>\n<li>\"application-x-sharedlib\"</li>\n<li>\"process-paused\"</li>\n</ul>\n<p>Removals:</p>\n<ul>\n<li>\"office-address-book\"</li>\n<li>Flash file types</li>\n</ul>\n<p>Updated families:</p>\n<ul>\n<li>Clean up \"preferences-desktop-workspaces\"</li>\n<li>Update \"preferences-desktop\" to new tile shape</li>\n<li>Update \"image-missing\" to new tile shape</li>\n<li>Update \"preferences-desktop-keyboard\" to new tile shape</li>\n<li>Update \"document-import\" and \"document-export\" to new tile shape</li>\n<li>Update many file types with new arrow shape</li>\n<li>\"application-default-icon\" is now brightly colored</li>\n<li>\"media-stop\" is now a square</li>\n<li>Round symbolic location status icons</li>\n<li>Use an outlined shape for symbolic tag icons</li>\n<li>Use a rounded star for symbolic bookmark icons</li>\n<li>Redesign Night Light</li>\n<li>Use latest Flatpak branding</li>\n<li>Symbolic volume icons use a rounded shape and a slash when muted</li>\n</ul>\n<p>Other Changes:</p>\n<ul>\n<li>Fix broken link for SVG file types</li>\n<li>Fix missing links for PGP file types</li>\n<li>Scale some icons to more sizes</li>\n</ul>\n",
+        "href": "https://github.com/elementary/icons/releases/tag/7.1.0"
+      },
+      {
+        "version": "7.0.0",
+        "release_date": "2022-04-25T19:35:24",
+        "title": "icons 7.0.0 Released",
+        "body": "<p>Additions:</p>\n<ul>\n<li>caps-lock-symbolic</li>\n<li>eye-not-looking-symbolic</li>\n<li>eye-open-negative-filled-symbolic</li>\n<li>num-lock-symbolic</li>\n</ul>\n<p>Updated families:</p>\n<ul>\n<li>Redesign media-playlist-repeat</li>\n<li>Update media-playlist-shuffle and media-playlist-consecutive</li>\n<li>Rounder square icons</li>\n<li>Rounded arrow corners on Downloads folder</li>\n<li>Deb and Flatpak Bundle files use a package metaphor</li>\n<li>Updates arrow points up</li>\n<li>Redesigned package with new colors</li>\n</ul>\n<p>Removals:</p>\n<ul>\n<li>notification-*</li>\n<li>Non-FDO network-*</li>\n<li>Non-FDO app icons</li>\n</ul>\n",
+        "href": "https://github.com/elementary/icons/releases/tag/7.0.0"
+      },
+      {
+        "version": "6.1.0",
+        "release_date": "2021-11-23T21:43:34",
+        "title": "icons 6.1.0 Released",
+        "body": "<p>Additions:</p>\n<ul>\n<li>preferences-desktop-font*</li>\n</ul>\n<p>Updated families:</p>\n<ul>\n<li>Additional sizes for playlist-queue</li>\n<li>Redesign PDF file type</li>\n<li>Additional sizes for emblem-downloads</li>\n<li>Remove arrows from Copy and Paste actions</li>\n</ul>\n<p>Removals:</p>\n<ul>\n<li>multimedia-video-player</li>\n</ul>\n",
+        "href": "https://github.com/elementary/icons/releases/tag/6.1.0"
+      },
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-15T22:11:47",
+        "title": "icons 6.0.0 Released",
+        "body": "<p>Updated families:</p>\n<ul>\n<li>Improved consistency between arrow shapes</li>\n<li>Improved appearance of color icons against dark backgrounds</li>\n<li>More gender-nuetral people icons</li>\n<li>Rounded media controls</li>\n<li>Rounded lightening bolt shape</li>\n<li>More colorful battery icons</li>\n</ul>\n<p>Additions:</p>\n<ul>\n<li>align-*</li>\n<li>color-picker</li>\n<li>distribute-*</li>\n<li>draw-calligraphic</li>\n<li>office-database-new</li>\n<li>tools-spray</li>\n<li>application-content-*</li>\n<li>thunderbolt devices</li>\n<li>video-display-tv</li>\n<li>symbolic headphones</li>\n<li>application-certificate</li>\n<li>application-json</li>\n<li>office-task-symbolic</li>\n<li>status emblems</li>\n<li>emblem-git-*</li>\n</ul>\n<p>Removals:</p>\n<ul>\n<li>accessories-camera</li>\n<li>accessories-screenshot</li>\n<li>audio-speaker-testing</li>\n<li>edit-undo-archive</li>\n<li>internet-mail</li>\n<li>internet-news-reader</li>\n<li>multimedia-audio-player</li>\n<li>notification bell animations</li>\n<li>nm-*</li>\n<li>ubiquity</li>\n</ul>\n",
+        "href": "https://github.com/elementary/icons/releases/tag/6.0.0"
+      },
+      {
+        "version": "5.3.1",
+        "release_date": "2020-05-06T18:10:20",
+        "title": "icons 5.3.1 Released",
+        "body": "<p>Minor updates</p>\n<ul>\n<li>Update emoji names for emoji picker in elementary OS 6 and latest GTK</li>\n<li>Replace Inkscape with rsvg for building cursors</li>\n</ul>\n",
+        "href": "https://github.com/elementary/icons/releases/tag/5.3.1"
+      },
+      {
+        "version": "5.3.0",
+        "release_date": "2020-05-01T05:35:02",
+        "title": "icons 5.3.0 Released",
+        "body": "<p>New Palette Colors:</p>\n<ul>\n<li>Add Bubblegum and Mint to official palette</li>\n<li>Updated all eraser icons to use Bubblegum palette</li>\n<li>Updated \"path\" icons to use Mint palette</li>\n<li>Updated all pencil icons to use Banana palette</li>\n</ul>\n<p>New Icons:</p>\n<ul>\n<li>Add \"software-update-urgent\"</li>\n<li>Add \"sync-synchronizing\"</li>\n</ul>\n<p>Scaled Icon Sizes:</p>\n<ul>\n<li>Add 24px \"window-close-symbolic\"</li>\n<li>Add 48px preferences icons</li>\n</ul>\n",
+        "href": "https://github.com/elementary/icons/releases/tag/5.3.0"
+      },
+      {
+        "version": "5.2.0",
+        "release_date": "2020-01-08T21:23:48",
+        "title": "icons 5.2.0 Released",
+        "body": "icons 5.2.0 is out! \n\n<ul>\n<li>Provide large cursors</li>\n<li>Fix alignment of several cursors</li>\n<li>Use palette colors in copy cursors</li>\n<li>Fix direction of the ban symbol cursor and use red</li>\n<li>Add \"All Scroll\", \"No Drop\", \"Vertical Text\", and \"Zoom\" cursors</li>\n</ul>\n",
+        "href": "https://github.com/elementary/icons/releases/tag/5.2.0"
+      },
+      {
+        "version": "5.1.0",
+        "release_date": "2019-10-31T22:54:07",
+        "title": "icons 5.1.0 Released",
+        "body": "icons 5.1.0 is out! \n\nChanges:\n\n* Add 64px prefs locale\n* Make symbol on 32px places home larger\n* New icons for Workspace preferences\n* Add symbolic variant for updates icon\n* Give browser-download its own unique icon\n* Use a more scalable metaphor for system updates\n* New view-reader icon\n* Add 32px wireless signal icons\n* Add 24px user status icons\n",
+        "href": "https://github.com/elementary/icons/releases/tag/5.1.0"
+      },
+      {
+        "version": "5.0.4",
+        "release_date": "2019-07-12T14:19:54",
+        "title": "elementary Icons 5.0.4",
+        "body": "elementary-icon-theme 5.0.4 is out!\r\n\r\nChanges:\r\n* Redesigned wired networking icons\r\n* Simplified `image-missing`\r\n* Re-shaped `system-software-update`\r\n* Scaled `process-completed` to 64px\r\n* Scaled `find-location` to 64px\r\n* Added new icons:\r\n  * `preferences-system-privacy-housekeeping`\r\n  * `media-memory-symbolic`\r\n  * `mail-forwarded-symbolic`\r\n  * `application-x-firmware-symbolic`\r\n  * `computer-laptop-symbolic`\r\n  * `location-active-symbolic`\r\n  * `location-inactive-symbolic`\r\n  * `location-disabled-symbolic`\r\n  * 64px `night-light`\r\n  * 48px `image-crop`\r\n  * 48px `mail-send`",
+        "href": "https://github.com/elementary/icons/releases/tag/5.0.4"
+      },
+      {
+        "version": "5.0.3",
+        "release_date": "2019-02-11T21:38:22",
+        "title": "elementary Icons 5.0.3 Released",
+        "body": "elementary-icon-theme 5.0.3 is out!\r\n\r\nChanges:\r\n\r\n* Redesigned weather icons\r\n* New and redesigned `mail-mark-*`\r\n* Refined align actions\r\n* Adjust contrast of `selection-*-symbolic`\r\n* Added new icons:\r\n  * `drive-harddisk-solidstate`\r\n  * `input-keyboard-numlock-symbolic`\r\n  * 16px `night-light-*`\r\n  * Added and redesigned `path-*`\r\n  * 32px `input-touchpad`\r\n  * `microphone-sensitivity-muted-*` animation\r\n  * `application-x-generic`\r\n  * Added and redesigned `object-group`",
+        "href": "https://github.com/elementary/icons/releases/tag/5.0.3"
+      },
+      {
+        "version": "5.0.2",
+        "release_date": "2018-12-29T03:33:12",
+        "title": "elementary Icons 5.0.2 Released",
+        "body": "elementary-icon-theme 5.0.2 is out!\r\n\r\nChanges:\r\n* New palette colors for `edit-flag`\r\n* Add `user-desktop-open` as symlink to `folder-open`",
+        "href": "https://github.com/elementary/icons/releases/tag/5.0.2"
+      },
+      {
+        "version": "5.0.1",
+        "release_date": "2018-12-06T16:53:16",
+        "title": "elementary Icons 5.0.1 Released",
+        "body": "elementary-icon-theme 5.0.1 is out!\r\n\r\nChanges:\r\n* `phone` icons redesigned\r\n* Appointment icon family are more consistent\r\n* Disabled icons are more consistent\r\n* Symbolic apps/multimedia match color and scale\r\n* Added new icons:\r\n  * `playlist-symbolic`\r\n  * `playlist-queue-symbolic`\r\n  * `internet-chat-symbolic`\r\n  * `input-keyboard-capslock-symbolic`\r\n  * `mail-send-symbolic-rtl`\r\n  * `preferences-system-notifications-rtl`\r\n  * `preferences-system-notifications-rtl`\r\n  * `audio-headphones` and `audio-headset`\r\n  * `computer-convertible`",
+        "href": "https://github.com/elementary/icons/releases/tag/5.0.1"
+      },
+      {
+        "version": "5.0",
+        "release_date": "2018-10-16T05:18:18",
+        "title": "elementary Icons 5.0 Released",
+        "body": "elementary-icon-theme 5.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/icons/issues?q=is%3Aclosed+milestone%3A5.0).",
+        "href": "https://github.com/elementary/icons/releases/tag/5.0"
+      },
+      {
+        "version": "4.3.1",
+        "release_date": "2017-10-23T17:52:41",
+        "title": "elementary Icons 4.3.1 Released",
+        "body": "elementary-icon-theme 4.3.1 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/icons/issues?q=is%3Aclosed+milestone%3A4.3.1).",
+        "href": "https://github.com/elementary/icons/releases/tag/4.3.1"
+      },
+      {
+        "version": "4.3.0",
+        "release_date": "2017-09-26T16:36:28",
+        "title": "elementary Icons 4.3.0 Released",
+        "body": "elementary-icon-theme 4.3.0 is out!\r\n\r\nThe list of issues closed for this release can be found [here](https://github.com/elementary/icons/issues?q=is%3Aclosed+milestone%3A4.3.0).",
+        "href": "https://github.com/elementary/icons/releases/tag/4.3.0"
+      },
+      {
+        "version": "4.2.0",
+        "release_date": "2017-07-19T16:50:09",
+        "title": "elementary Icons 4.2.0 Released",
+        "body": "elementary-icon-theme 4.2.0 is out!\r\n\r\nThe list of issues closed for this release can be found [here](https://github.com/elementary/icons/milestone/3?closed=1).",
+        "href": "https://github.com/elementary/icons/releases/tag/4.2.0"
+      },
+      {
+        "version": "4.1.0",
+        "release_date": "2017-05-15T03:27:34",
+        "title": "elementary Icons 4.1.0 Released",
+        "body": "elementary-icon-theme 4.1.0 is out!",
+        "href": "https://github.com/elementary/icons/releases/tag/4.1.0"
+      },
+      {
+        "version": "4.0.3",
+        "release_date": "2017-03-18T17:07:48",
+        "title": "",
+        "body": "",
+        "href": "https://github.com/elementary/icons/releases/tag/4.0.3"
+      },
+      {
+        "version": "4.0.1.1",
+        "release_date": "2016-10-25T19:46:00",
+        "title": "",
+        "body": "",
+        "href": "https://github.com/elementary/icons/releases/tag/4.0.1.1"
+      }
+    ],
+    "new_commits": 0,
+    "default_branch": "main"
+  },
+  {
     "name": "onboarding",
     "releases": [
       {
@@ -683,118 +956,6 @@
       }
     ],
     "new_commits": 41,
-    "default_branch": "master"
-  },
-  {
-    "name": "gala",
-    "releases": [
-      {
-        "version": "7.0.2",
-        "release_date": "2023-04-04T23:54:18",
-        "title": "Gala 7.0.2 Released!",
-        "body": "## What's Changed\r\n* vapi: Sync with greeter by @bobby285271 in https://github.com/elementary/gala/pull/1565\r\n* Meson: Always add DwellClickTimer and PointerLocator by @lenemter in https://github.com/elementary/gala/pull/1568\r\n* Switch to GHCR containers by @davidmhewitt in https://github.com/elementary/gala/pull/1576\r\n* WindowClone: Don't calculate offset by @lenemter in https://github.com/elementary/gala/pull/1567\r\n* Map notification windows manually while switching workspace by @lenemter in https://github.com/elementary/gala/pull/1577\r\n* Use ClickAction for FramedBackground and close buttons by @lenemter in https://github.com/elementary/gala/pull/1579\r\n* Update gala.appdata.xml.in by @danirabbit in https://github.com/elementary/gala/pull/1581\r\n* Remove texture.png by @lenemter in https://github.com/elementary/gala/pull/1582\r\n* Ignore autorepeat for some keybindings by @lenemter in https://github.com/elementary/gala/pull/1583\r\n* Minimze: Don't restore actor properties by @lenemter in https://github.com/elementary/gala/pull/1585\r\n* Daemon: Workaround broken window menu for some apps by @lenemter in https://github.com/elementary/gala/pull/1574\r\n* WindowOverview and WindowCloneContainer: Cleanup by @lenemter in https://github.com/elementary/gala/pull/1587\r\n* Don't connect to Meta.Display.restacked by @lenemter in https://github.com/elementary/gala/pull/1588\r\n* WindowSwitcher: Select a window on button release by @lenemter in https://github.com/elementary/gala/pull/1590\r\n* Set keyboard layout using `lock_layout_group` by @lenemter in https://github.com/elementary/gala/pull/1589\r\n* WindowTracker: Remove unused connection to notify[\"focus-window\"] by @lenemter in https://github.com/elementary/gala/pull/1592\r\n* WindowOverview: Use `button_release_event` by @lenemter in https://github.com/elementary/gala/pull/1593\r\n* Use separate `notification_group` for notifications by @lenemter in https://github.com/elementary/gala/pull/1598\r\n* Avoid connecting multiple times to `window_created` by @lenemter in https://github.com/elementary/gala/pull/1599\r\n* Add keybindings for switching input source by @lenemter in https://github.com/elementary/gala/pull/1600\r\n* Get MonitorManager from context by @davidmhewitt in https://github.com/elementary/gala/pull/1604\r\n* KeyboardManager: get backend from context by @davidmhewitt in https://github.com/elementary/gala/pull/1605\r\n* WindowClone: optimize ActiveShape by @lenemter in https://github.com/elementary/gala/pull/1603\r\n* Check if window can maximize before performing action by @lenemter in https://github.com/elementary/gala/pull/1613\r\n* PointerLocator: Support floating, monitor specific scale by @davidmhewitt in https://github.com/elementary/gala/pull/1606\r\n* DragDropAction: Check that actor was actually clicked by @lenemter in https://github.com/elementary/gala/pull/1591\r\n* DnD: Don't disable reactivity by @lenemter in https://github.com/elementary/gala/pull/1610\r\n* Add previous/next workspace to available actions by @lenemter in https://github.com/elementary/gala/pull/1614\r\n* Don't manually map notifications while nudge animation is playing by @lenemter in https://github.com/elementary/gala/pull/1611\r\n* PiP: Use constraints by @lenemter in https://github.com/elementary/gala/pull/1608\r\n* Use translation-x for nudge animation by @lenemter in https://github.com/elementary/gala/pull/1612\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/gala/compare/7.0.1...7.0.2",
-        "href": "https://github.com/elementary/gala/releases/tag/7.0.2"
-      },
-      {
-        "version": "7.0.1",
-        "release_date": "2023-02-28T15:00:08",
-        "title": "Gala 7.0.1 Released",
-        "body": "## What's Changed\r\n* WindowClone: Fix shadows by @lenemter in https://github.com/elementary/gala/pull/1503\r\n* Allow KeyBindingAction.NONE in Multitasking View by @lenemter in https://github.com/elementary/gala/pull/1514\r\n* Dialogs: Remove DBus Timeout From AccessDialog Call by @Marukesu in https://github.com/elementary/gala/pull/1515\r\n* WindowManager: `confirm_display_change()` Fixes by @Marukesu in https://github.com/elementary/gala/pull/1516\r\n* Fix IconGroup close button animation by @lenemter in https://github.com/elementary/gala/pull/1522\r\n* Better super key filter in multitasking view by @lenemter in https://github.com/elementary/gala/pull/1523\r\n* ShadowEffect: inline namespace, copy to PIP by @lenemter in https://github.com/elementary/gala/pull/1520\r\n* WindowClone: Remove custom WindowShadowEffect class by @lenemter in https://github.com/elementary/gala/pull/1531\r\n* WindowClone: Cleanup by @lenemter in https://github.com/elementary/gala/pull/1532\r\n* Extend list of allowed keybindings in multitasking view by @lenemter in https://github.com/elementary/gala/pull/1530\r\n* WorkspaceInsertThumb: Code style fixes by @lenemter in https://github.com/elementary/gala/pull/1533\r\n* Allow zoom keybindings in multitasking view by @lenemter in https://github.com/elementary/gala/pull/1535\r\n* Explicit Clutter and Meta namespaces by @lenemter in https://github.com/elementary/gala/pull/1537\r\n* PIP: Fix log spam by @lenemter in https://github.com/elementary/gala/pull/1521\r\n* Dialogs: Improve force quit string by @davidmhewitt in https://github.com/elementary/gala/pull/1540\r\n* Always use `private` keyword by @lenemter in https://github.com/elementary/gala/pull/1543\r\n* WindowClone: Add click action only in overview mode by @lenemter in https://github.com/elementary/gala/pull/1542\r\n* Fix multitasking view animations by @lenemter in https://github.com/elementary/gala/pull/1529\r\n* Fix PiP positioning offset by @GranPC in https://github.com/elementary/gala/pull/1507\r\n* WindowClone: Fix warnings in window overview by @lenemter in https://github.com/elementary/gala/pull/1549\r\n* WindowOverview: Cleanup by @lenemter in https://github.com/elementary/gala/pull/1548\r\n* PiP: Respect animations key by @lenemter in https://github.com/elementary/gala/pull/1546\r\n* Update appdata with fixed issues by @lenemter in https://github.com/elementary/gala/pull/1556\r\n* build: require mutter 42 by @bobby285271 in https://github.com/elementary/gala/pull/1496\r\n* Fix window maximize and unmaximize animations by @lenemter in https://github.com/elementary/gala/pull/1557\r\n* Remove some deprecations and fix compile warnings by @lenemter in https://github.com/elementary/gala/pull/1544\r\n* WindowClone: Make close button and title respect animations key by @lenemter in https://github.com/elementary/gala/pull/1551\r\n* IconGroup: Make close button respect animations key by @lenemter in https://github.com/elementary/gala/pull/1554\r\n* Cleanup after #1557 by @lenemter in https://github.com/elementary/gala/pull/1559\r\n* DragDropAction: Activate click signal on release by @lenemter in https://github.com/elementary/gala/pull/1560\r\n* WindowIcon: Cleanup by @lenemter in https://github.com/elementary/gala/pull/1561\r\n* Unify move to workspace behaviour by @lenemter in https://github.com/elementary/gala/pull/1562\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/gala/compare/7.0.0...7.0.1",
-        "href": "https://github.com/elementary/gala/releases/tag/7.0.1"
-      },
-      {
-        "version": "7.0.0",
-        "release_date": "2023-01-05T20:51:48",
-        "title": "Gala 7.0.0 Released!",
-        "body": "## What's Changed\r\n* Reload animated wallpapers when timezone changes by @lenemter in https://github.com/elementary/gala/pull/1461\r\n* Work around crash when receiving notifications by @GranPC in https://github.com/elementary/gala/pull/1497\r\n* ShadowEffect: let Clutter know the shadow's size by @GranPC in https://github.com/elementary/gala/pull/1500\r\n* Fix awkward two-finger scroll in multitasking view by @GranPC in https://github.com/elementary/gala/pull/1499\r\n* Fix crash when monitor is turned off by @sryze in https://github.com/elementary/gala/pull/1491\r\n* Fix quick zooming by @lenemter in https://github.com/elementary/gala/pull/1501\r\n* Improve multitasking view animation performance by @GranPC in https://github.com/elementary/gala/pull/1498\r\n* Fix workspace switching animation in multitasking view by @lenemter in https://github.com/elementary/gala/pull/1502\r\n\r\n## New Contributors\r\n* @GranPC made their first contribution in https://github.com/elementary/gala/pull/1497\r\n* @sryze made their first contribution in https://github.com/elementary/gala/pull/1491\r\n\r\n**Full Changelog**: https://github.com/elementary/gala/compare/6.3.3...7.0.0",
-        "href": "https://github.com/elementary/gala/releases/tag/7.0.0"
-      },
-      {
-        "version": "6.3.3",
-        "release_date": "2022-10-17T17:36:14",
-        "title": "gala 6.3.3 Released",
-        "body": "<p>Improvements:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/gala/releases/tag/6.3.3"
-      },
-      {
-        "version": "6.3.2",
-        "release_date": "2022-10-12T16:52:03",
-        "title": "gala 6.3.2 Released",
-        "body": "<p>Fixes:</p>\n<ul>\n<li>Fix regressions for OS 7</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Use access portal for force quit</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/gala/releases/tag/6.3.2"
-      },
-      {
-        "version": "6.3.1",
-        "release_date": "2022-04-07T06:54:49",
-        "title": "gala 6.3.1 Released",
-        "body": "<p>Fixes:</p>\n<ul>\n<li>Properly update accent color in the window switcher</li>\n<li>Fix selecting windows underneath the window switcher</li>\n<li>Prevent potential crashes</li>\n<li>Resize workspaces when displays change</li>\n<li>Handle windows with no title</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Use access portal for display settings confirmation and force quit</li>\n<li>Allow closing multitasking view with Super</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/gala/releases/tag/6.3.1"
-      },
-      {
-        "version": "6.3.0",
-        "release_date": "2021-11-23T20:22:23",
-        "title": "gala 6.3.0 Released",
-        "body": "<p>Fixes:</p>\n<ul>\n<li>Fix shadow clipping on server-side decorated windows</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Support for high-resolution scroll events</li>\n<li>Redesigned Alt + Tab switcher</li>\n<li>Dim the parents of modal dialogs</li>\n<li>Dialogs fall down on parents instead of shooting out</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/gala/releases/tag/6.3.0"
-      },
-      {
-        "version": "6.2.1",
-        "release_date": "2021-09-29T17:20:47",
-        "title": "Gala 6.2.1 Released",
-        "body": "<p>Improvements:</p>\r\n<ul>\r\n<li>Fix a potential crash when taking screenshots</li>\r\n<li>Updated translations</li>\r\n</ul>",
-        "href": "https://github.com/elementary/gala/releases/tag/6.2.1"
-      },
-      {
-        "version": "6.2.0",
-        "release_date": "2021-09-22T20:42:08",
-        "title": "Gala 6.2.0 Released",
-        "body": "<p>New features:</p>\r\n<ul>\r\n  <li>Stash the picture-in-picture window by pushing it off screen</li>\r\n</ul>\r\n<p>Improvements:</p>\r\n<ul>\r\n  <li>Fix a potential crash while changing wallpapers</li>\r\n  <li>Updated translations</li>\r\n</ul>",
-        "href": "https://github.com/elementary/gala/releases/tag/6.2.0"
-      },
-      {
-        "version": "6.0.1",
-        "release_date": "2021-08-11T20:53:00",
-        "title": "Gala 6.0.1 Released",
-        "body": "<p>Improvements:</p>\r\n<ul>\r\n<li>Include window decorations in screenshots for server-side decorated windows</li>\r\n<li>Updated translations</li>\r\n</ul>",
-        "href": "https://github.com/elementary/gala/releases/tag/6.0.1"
-      },
-      {
-        "version": "6.0.0",
-        "release_date": "2021-07-14T17:07:19",
-        "title": "Gala 6.0.0 Released",
-        "body": "Improvements:\r\n- Add multitouch gestures\r\n- Show window titles in multitasking view\r\n- Close the Alt + Tab switcher by pressing Esc without releasing Alt\r\n- Increase maximum zoom level and provide feedback when unable to zoom\r\n- Show a context menu when secondary clicking the background\r\n- New Dwell Click and Locate Pointer animations\r\n- Add Take Screenshot to window context menu\r\n- Always play shutter sound when taking screenshots\r\n- Minor visual improvements\r\n- HiDPI fixes\r\n- Performance improvements\r\n- Updated translations",
-        "href": "https://github.com/elementary/gala/releases/tag/6.0.0"
-      },
-      {
-        "version": "3.3.2",
-        "release_date": "2020-04-30T22:23:37",
-        "title": "gala 3.3.2 Released",
-        "body": "<p>Improvements:</p>\n<ul>\n<li>Fix “Always on Visible Workspace” windows disappearing when changing workspaces</li>\n<li>Fix windows on non-primary displays disappearing when changing workspaces</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/gala/releases/tag/3.3.2"
-      },
-      {
-        "version": "3.3.1",
-        "release_date": "2020-04-25T17:27:44",
-        "title": "gala 3.3.1 Released",
-        "body": "<p>Improvements:</p>\n<ul>\n<li>Fix crash when changing workspaces while a transient window is opening</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/gala/releases/tag/3.3.1"
-      },
-      {
-        "version": "3.3.0",
-        "release_date": "2020-04-03T18:45:09",
-        "title": "gala 3.3.0 Released",
-        "body": "<p>Improvements:</p>\n<ul>\n<li>Don't show Gala Background Services in the dock</li>\n<li>Fixes for media key handling</li>\n<li>Show keyboard shortcuts in HeaderBar menus</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/gala/releases/tag/3.3.0"
-      },
-      {
-        "version": "3.2.0",
-        "release_date": "2020-01-07T17:58:30",
-        "title": "gala 3.2.0 Released",
-        "body": "gala 3.2.0 is out! \n\n<p>Improvements:</p>\n<ul>\n<li>Improve window shadows for legacy apps</li>\n<li>Fix potential crash when taking screenshots</li>\n<li>Fix notification position after changing DPI</li>\n<li>Fix animations for moving and maximizing tiled windows</li>\n</ul>\n",
-        "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
-      }
-    ],
-    "new_commits": 76,
     "default_branch": "master"
   },
   {
@@ -2107,153 +2268,6 @@
     "default_branch": "7.0-horus"
   },
   {
-    "name": "icons",
-    "releases": [
-      {
-        "version": "7.2.0",
-        "release_date": "2023-01-24T17:31:50",
-        "title": "Icons 7.2.0 Released",
-        "body": "## What's Changed\r\n* Update white tile icons by @danirabbit in https://github.com/elementary/icons/pull/1144\r\n* Redesign system-file-manager by @danirabbit in https://github.com/elementary/icons/pull/1147\r\n* Redesign accessories-calculator by @danirabbit in https://github.com/elementary/icons/pull/1148\r\n* FileTypes: symlink extension to application-x-xpinstall by @danirabbit in https://github.com/elementary/icons/pull/1156\r\n* Update categories/applications-development by @danirabbit in https://github.com/elementary/icons/pull/1155\r\n* Remove internet-web-browser by @danirabbit in https://github.com/elementary/icons/pull/1141\r\n* Remove system-os-install by @danirabbit in https://github.com/elementary/icons/pull/1152\r\n* Update border radius of preferences-system-sharing by @lenemter in https://github.com/elementary/icons/pull/1159\r\n* Appdata: Add Icon by @lenemter in https://github.com/elementary/icons/pull/1165\r\n* Update border radius of preferences-desktop-applications by @lenemter in https://github.com/elementary/icons/pull/1164\r\n* Update border radius of notification-disabled by @lenemter in https://github.com/elementary/icons/pull/1163\r\n* Update border radius of application-x-firmware by @lenemter in https://github.com/elementary/icons/pull/1161\r\n* Normalize width of key in input-keyboard icon by @lenemter in https://github.com/elementary/icons/pull/1162\r\n* Update border radius of preferences-system-parental-controls by @lenemter in https://github.com/elementary/icons/pull/1160\r\n* Status: update 48px do-not-disturb by @danirabbit in https://github.com/elementary/icons/pull/1166\r\n* FileTypes: Use fd.o `text-x-generic` for text by @newhoa in https://github.com/elementary/icons/pull/1169\r\n* Categories: remove unused and non-fd.o names by @danirabbit in https://github.com/elementary/icons/pull/1154\r\n* FileTypes: Add 16px video-x-generic by @danirabbit in https://github.com/elementary/icons/pull/1175\r\n* Update Actions by @danirabbit in https://github.com/elementary/icons/pull/1176\r\n* Add latte palette by @micahilbery in https://github.com/elementary/icons/pull/963\r\n* Unify view mode symbolics by @danirabbit in https://github.com/elementary/icons/pull/1157\r\n\r\n## New Contributors\r\n* @lenemter made their first contribution in https://github.com/elementary/icons/pull/1159\r\n\r\n**Full Changelog**: https://github.com/elementary/icons/compare/7.1.0...7.2.0",
-        "href": "https://github.com/elementary/icons/releases/tag/7.2.0"
-      },
-      {
-        "version": "7.1.0",
-        "release_date": "2022-10-06T20:40:03",
-        "title": "icons 7.1.0 Released",
-        "body": "<p>Additions:</p>\n<ul>\n<li>\"computer-fail\"</li>\n<li>\"preferences-desktop-theme\"</li>\n<li>\"application-x-sharedlib\"</li>\n<li>\"process-paused\"</li>\n</ul>\n<p>Removals:</p>\n<ul>\n<li>\"office-address-book\"</li>\n<li>Flash file types</li>\n</ul>\n<p>Updated families:</p>\n<ul>\n<li>Clean up \"preferences-desktop-workspaces\"</li>\n<li>Update \"preferences-desktop\" to new tile shape</li>\n<li>Update \"image-missing\" to new tile shape</li>\n<li>Update \"preferences-desktop-keyboard\" to new tile shape</li>\n<li>Update \"document-import\" and \"document-export\" to new tile shape</li>\n<li>Update many file types with new arrow shape</li>\n<li>\"application-default-icon\" is now brightly colored</li>\n<li>\"media-stop\" is now a square</li>\n<li>Round symbolic location status icons</li>\n<li>Use an outlined shape for symbolic tag icons</li>\n<li>Use a rounded star for symbolic bookmark icons</li>\n<li>Redesign Night Light</li>\n<li>Use latest Flatpak branding</li>\n<li>Symbolic volume icons use a rounded shape and a slash when muted</li>\n</ul>\n<p>Other Changes:</p>\n<ul>\n<li>Fix broken link for SVG file types</li>\n<li>Fix missing links for PGP file types</li>\n<li>Scale some icons to more sizes</li>\n</ul>\n",
-        "href": "https://github.com/elementary/icons/releases/tag/7.1.0"
-      },
-      {
-        "version": "7.0.0",
-        "release_date": "2022-04-25T19:35:24",
-        "title": "icons 7.0.0 Released",
-        "body": "<p>Additions:</p>\n<ul>\n<li>caps-lock-symbolic</li>\n<li>eye-not-looking-symbolic</li>\n<li>eye-open-negative-filled-symbolic</li>\n<li>num-lock-symbolic</li>\n</ul>\n<p>Updated families:</p>\n<ul>\n<li>Redesign media-playlist-repeat</li>\n<li>Update media-playlist-shuffle and media-playlist-consecutive</li>\n<li>Rounder square icons</li>\n<li>Rounded arrow corners on Downloads folder</li>\n<li>Deb and Flatpak Bundle files use a package metaphor</li>\n<li>Updates arrow points up</li>\n<li>Redesigned package with new colors</li>\n</ul>\n<p>Removals:</p>\n<ul>\n<li>notification-*</li>\n<li>Non-FDO network-*</li>\n<li>Non-FDO app icons</li>\n</ul>\n",
-        "href": "https://github.com/elementary/icons/releases/tag/7.0.0"
-      },
-      {
-        "version": "6.1.0",
-        "release_date": "2021-11-23T21:43:34",
-        "title": "icons 6.1.0 Released",
-        "body": "<p>Additions:</p>\n<ul>\n<li>preferences-desktop-font*</li>\n</ul>\n<p>Updated families:</p>\n<ul>\n<li>Additional sizes for playlist-queue</li>\n<li>Redesign PDF file type</li>\n<li>Additional sizes for emblem-downloads</li>\n<li>Remove arrows from Copy and Paste actions</li>\n</ul>\n<p>Removals:</p>\n<ul>\n<li>multimedia-video-player</li>\n</ul>\n",
-        "href": "https://github.com/elementary/icons/releases/tag/6.1.0"
-      },
-      {
-        "version": "6.0.0",
-        "release_date": "2021-07-15T22:11:47",
-        "title": "icons 6.0.0 Released",
-        "body": "<p>Updated families:</p>\n<ul>\n<li>Improved consistency between arrow shapes</li>\n<li>Improved appearance of color icons against dark backgrounds</li>\n<li>More gender-nuetral people icons</li>\n<li>Rounded media controls</li>\n<li>Rounded lightening bolt shape</li>\n<li>More colorful battery icons</li>\n</ul>\n<p>Additions:</p>\n<ul>\n<li>align-*</li>\n<li>color-picker</li>\n<li>distribute-*</li>\n<li>draw-calligraphic</li>\n<li>office-database-new</li>\n<li>tools-spray</li>\n<li>application-content-*</li>\n<li>thunderbolt devices</li>\n<li>video-display-tv</li>\n<li>symbolic headphones</li>\n<li>application-certificate</li>\n<li>application-json</li>\n<li>office-task-symbolic</li>\n<li>status emblems</li>\n<li>emblem-git-*</li>\n</ul>\n<p>Removals:</p>\n<ul>\n<li>accessories-camera</li>\n<li>accessories-screenshot</li>\n<li>audio-speaker-testing</li>\n<li>edit-undo-archive</li>\n<li>internet-mail</li>\n<li>internet-news-reader</li>\n<li>multimedia-audio-player</li>\n<li>notification bell animations</li>\n<li>nm-*</li>\n<li>ubiquity</li>\n</ul>\n",
-        "href": "https://github.com/elementary/icons/releases/tag/6.0.0"
-      },
-      {
-        "version": "5.3.1",
-        "release_date": "2020-05-06T18:10:20",
-        "title": "icons 5.3.1 Released",
-        "body": "<p>Minor updates</p>\n<ul>\n<li>Update emoji names for emoji picker in elementary OS 6 and latest GTK</li>\n<li>Replace Inkscape with rsvg for building cursors</li>\n</ul>\n",
-        "href": "https://github.com/elementary/icons/releases/tag/5.3.1"
-      },
-      {
-        "version": "5.3.0",
-        "release_date": "2020-05-01T05:35:02",
-        "title": "icons 5.3.0 Released",
-        "body": "<p>New Palette Colors:</p>\n<ul>\n<li>Add Bubblegum and Mint to official palette</li>\n<li>Updated all eraser icons to use Bubblegum palette</li>\n<li>Updated \"path\" icons to use Mint palette</li>\n<li>Updated all pencil icons to use Banana palette</li>\n</ul>\n<p>New Icons:</p>\n<ul>\n<li>Add \"software-update-urgent\"</li>\n<li>Add \"sync-synchronizing\"</li>\n</ul>\n<p>Scaled Icon Sizes:</p>\n<ul>\n<li>Add 24px \"window-close-symbolic\"</li>\n<li>Add 48px preferences icons</li>\n</ul>\n",
-        "href": "https://github.com/elementary/icons/releases/tag/5.3.0"
-      },
-      {
-        "version": "5.2.0",
-        "release_date": "2020-01-08T21:23:48",
-        "title": "icons 5.2.0 Released",
-        "body": "icons 5.2.0 is out! \n\n<ul>\n<li>Provide large cursors</li>\n<li>Fix alignment of several cursors</li>\n<li>Use palette colors in copy cursors</li>\n<li>Fix direction of the ban symbol cursor and use red</li>\n<li>Add \"All Scroll\", \"No Drop\", \"Vertical Text\", and \"Zoom\" cursors</li>\n</ul>\n",
-        "href": "https://github.com/elementary/icons/releases/tag/5.2.0"
-      },
-      {
-        "version": "5.1.0",
-        "release_date": "2019-10-31T22:54:07",
-        "title": "icons 5.1.0 Released",
-        "body": "icons 5.1.0 is out! \n\nChanges:\n\n* Add 64px prefs locale\n* Make symbol on 32px places home larger\n* New icons for Workspace preferences\n* Add symbolic variant for updates icon\n* Give browser-download its own unique icon\n* Use a more scalable metaphor for system updates\n* New view-reader icon\n* Add 32px wireless signal icons\n* Add 24px user status icons\n",
-        "href": "https://github.com/elementary/icons/releases/tag/5.1.0"
-      },
-      {
-        "version": "5.0.4",
-        "release_date": "2019-07-12T14:19:54",
-        "title": "elementary Icons 5.0.4",
-        "body": "elementary-icon-theme 5.0.4 is out!\r\n\r\nChanges:\r\n* Redesigned wired networking icons\r\n* Simplified `image-missing`\r\n* Re-shaped `system-software-update`\r\n* Scaled `process-completed` to 64px\r\n* Scaled `find-location` to 64px\r\n* Added new icons:\r\n  * `preferences-system-privacy-housekeeping`\r\n  * `media-memory-symbolic`\r\n  * `mail-forwarded-symbolic`\r\n  * `application-x-firmware-symbolic`\r\n  * `computer-laptop-symbolic`\r\n  * `location-active-symbolic`\r\n  * `location-inactive-symbolic`\r\n  * `location-disabled-symbolic`\r\n  * 64px `night-light`\r\n  * 48px `image-crop`\r\n  * 48px `mail-send`",
-        "href": "https://github.com/elementary/icons/releases/tag/5.0.4"
-      },
-      {
-        "version": "5.0.3",
-        "release_date": "2019-02-11T21:38:22",
-        "title": "elementary Icons 5.0.3 Released",
-        "body": "elementary-icon-theme 5.0.3 is out!\r\n\r\nChanges:\r\n\r\n* Redesigned weather icons\r\n* New and redesigned `mail-mark-*`\r\n* Refined align actions\r\n* Adjust contrast of `selection-*-symbolic`\r\n* Added new icons:\r\n  * `drive-harddisk-solidstate`\r\n  * `input-keyboard-numlock-symbolic`\r\n  * 16px `night-light-*`\r\n  * Added and redesigned `path-*`\r\n  * 32px `input-touchpad`\r\n  * `microphone-sensitivity-muted-*` animation\r\n  * `application-x-generic`\r\n  * Added and redesigned `object-group`",
-        "href": "https://github.com/elementary/icons/releases/tag/5.0.3"
-      },
-      {
-        "version": "5.0.2",
-        "release_date": "2018-12-29T03:33:12",
-        "title": "elementary Icons 5.0.2 Released",
-        "body": "elementary-icon-theme 5.0.2 is out!\r\n\r\nChanges:\r\n* New palette colors for `edit-flag`\r\n* Add `user-desktop-open` as symlink to `folder-open`",
-        "href": "https://github.com/elementary/icons/releases/tag/5.0.2"
-      },
-      {
-        "version": "5.0.1",
-        "release_date": "2018-12-06T16:53:16",
-        "title": "elementary Icons 5.0.1 Released",
-        "body": "elementary-icon-theme 5.0.1 is out!\r\n\r\nChanges:\r\n* `phone` icons redesigned\r\n* Appointment icon family are more consistent\r\n* Disabled icons are more consistent\r\n* Symbolic apps/multimedia match color and scale\r\n* Added new icons:\r\n  * `playlist-symbolic`\r\n  * `playlist-queue-symbolic`\r\n  * `internet-chat-symbolic`\r\n  * `input-keyboard-capslock-symbolic`\r\n  * `mail-send-symbolic-rtl`\r\n  * `preferences-system-notifications-rtl`\r\n  * `preferences-system-notifications-rtl`\r\n  * `audio-headphones` and `audio-headset`\r\n  * `computer-convertible`",
-        "href": "https://github.com/elementary/icons/releases/tag/5.0.1"
-      },
-      {
-        "version": "5.0",
-        "release_date": "2018-10-16T05:18:18",
-        "title": "elementary Icons 5.0 Released",
-        "body": "elementary-icon-theme 5.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/icons/issues?q=is%3Aclosed+milestone%3A5.0).",
-        "href": "https://github.com/elementary/icons/releases/tag/5.0"
-      },
-      {
-        "version": "4.3.1",
-        "release_date": "2017-10-23T17:52:41",
-        "title": "elementary Icons 4.3.1 Released",
-        "body": "elementary-icon-theme 4.3.1 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/icons/issues?q=is%3Aclosed+milestone%3A4.3.1).",
-        "href": "https://github.com/elementary/icons/releases/tag/4.3.1"
-      },
-      {
-        "version": "4.3.0",
-        "release_date": "2017-09-26T16:36:28",
-        "title": "elementary Icons 4.3.0 Released",
-        "body": "elementary-icon-theme 4.3.0 is out!\r\n\r\nThe list of issues closed for this release can be found [here](https://github.com/elementary/icons/issues?q=is%3Aclosed+milestone%3A4.3.0).",
-        "href": "https://github.com/elementary/icons/releases/tag/4.3.0"
-      },
-      {
-        "version": "4.2.0",
-        "release_date": "2017-07-19T16:50:09",
-        "title": "elementary Icons 4.2.0 Released",
-        "body": "elementary-icon-theme 4.2.0 is out!\r\n\r\nThe list of issues closed for this release can be found [here](https://github.com/elementary/icons/milestone/3?closed=1).",
-        "href": "https://github.com/elementary/icons/releases/tag/4.2.0"
-      },
-      {
-        "version": "4.1.0",
-        "release_date": "2017-05-15T03:27:34",
-        "title": "elementary Icons 4.1.0 Released",
-        "body": "elementary-icon-theme 4.1.0 is out!",
-        "href": "https://github.com/elementary/icons/releases/tag/4.1.0"
-      },
-      {
-        "version": "4.0.3",
-        "release_date": "2017-03-18T17:07:48",
-        "title": "",
-        "body": "",
-        "href": "https://github.com/elementary/icons/releases/tag/4.0.3"
-      },
-      {
-        "version": "4.0.1.1",
-        "release_date": "2016-10-25T19:46:00",
-        "title": "",
-        "body": "",
-        "href": "https://github.com/elementary/icons/releases/tag/4.0.1.1"
-      }
-    ],
-    "new_commits": 63,
-    "default_branch": "master"
-  },
-  {
     "name": "code",
     "releases": [
       {
@@ -3179,20 +3193,6 @@
         "title": "capnet-assist 2.4.2 Released",
         "body": "<ul>\n<li>Update to elementary runtime 7</li>\n<li>Updated translations</li>\n</ul>\n",
         "href": "https://github.com/elementary/capnet-assist/releases/tag/2.4.2"
-      },
-      {
-        "version": "2.4.1",
-        "release_date": "2022-01-26T18:01:07",
-        "title": "capnet-assist 2.4.1 Released",
-        "body": "<ul>\n<li>Update to elementary runtime 6.1</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/capnet-assist/releases/tag/2.4.1"
-      },
-      {
-        "version": "2.4.0",
-        "release_date": "2021-10-29T23:38:44",
-        "title": "Captive Network Assistant 2.4.0 Released",
-        "body": "<ul>\r\n<li>New icon</li>\r\n<li>Updated translations</li>\r\n</ul>",
-        "href": "https://github.com/elementary/capnet-assist/releases/tag/2.4.0"
       },
       {
         "version": "2.3.0",
