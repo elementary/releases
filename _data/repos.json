@@ -346,7 +346,7 @@
         "href": "https://github.com/elementary/onboarding/releases/tag/1.0"
       }
     ],
-    "new_commits": 0,
+    "new_commits": 2,
     "default_branch": "master"
   },
   {
@@ -1046,7 +1046,7 @@
         "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/2.0"
       }
     ],
-    "new_commits": 9,
+    "new_commits": 11,
     "default_branch": "main"
   },
   {
@@ -1634,7 +1634,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 18,
+    "new_commits": 19,
     "default_branch": "main"
   },
   {
@@ -2369,7 +2369,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 207,
+    "new_commits": 208,
     "default_branch": "master"
   },
   {
@@ -3195,6 +3195,20 @@
         "href": "https://github.com/elementary/capnet-assist/releases/tag/2.4.2"
       },
       {
+        "version": "2.4.1",
+        "release_date": "2022-01-26T18:01:07",
+        "title": "capnet-assist 2.4.1 Released",
+        "body": "<ul>\n<li>Update to elementary runtime 6.1</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/capnet-assist/releases/tag/2.4.1"
+      },
+      {
+        "version": "2.4.0",
+        "release_date": "2021-10-29T23:38:44",
+        "title": "Captive Network Assistant 2.4.0 Released",
+        "body": "<ul>\r\n<li>New icon</li>\r\n<li>Updated translations</li>\r\n</ul>",
+        "href": "https://github.com/elementary/capnet-assist/releases/tag/2.4.0"
+      },
+      {
         "version": "2.3.0",
         "release_date": "2021-07-13T23:27:59",
         "title": "capnet-assist 2.3.0 Released",
@@ -3720,7 +3734,7 @@
         "href": "https://github.com/elementary/calendar/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 83,
+    "new_commits": 85,
     "default_branch": "master"
   },
   {
@@ -3790,7 +3804,7 @@
         "href": "https://github.com/elementary/tasks/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 94,
+    "new_commits": 95,
     "default_branch": "master"
   },
   {
@@ -7178,7 +7192,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.0"
       }
     ],
-    "new_commits": 5932,
+    "new_commits": 5933,
     "default_branch": "master"
   },
   {
