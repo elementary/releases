@@ -5664,13 +5664,6 @@
         "title": "Wingpanel Session Indicator 2.0.3 Released",
         "body": "wingpanel-indicator-session 2.0.3 is out!",
         "href": "https://github.com/elementary/wingpanel-indicator-session/releases/tag/2.0.3"
-      },
-      {
-        "version": "2.0.2",
-        "release_date": "2017-06-28T10:59:57",
-        "title": "Wingpanel Session Indicator 2.0.2 Released",
-        "body": "wingpanel-indicator-session 2.0.2 is out!",
-        "href": "https://github.com/elementary/wingpanel-indicator-session/releases/tag/2.0.2"
       }
     ],
     "new_commits": 36,
