@@ -451,7 +451,7 @@
         "href": "https://github.com/elementary/onboarding/releases/tag/1.0"
       }
     ],
-    "new_commits": 4,
+    "new_commits": 23,
     "default_branch": "master"
   },
   {
@@ -2537,7 +2537,7 @@
         "href": "https://github.com/elementary/installer/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 28,
+    "new_commits": 30,
     "default_branch": "master"
   },
   {
@@ -2992,7 +2992,7 @@
         "href": "https://github.com/elementary/initial-setup/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 49,
+    "new_commits": 55,
     "default_branch": "master"
   },
   {
@@ -3384,13 +3384,6 @@
         "href": "https://github.com/elementary/calculator/releases/tag/2.0.0"
       },
       {
-        "version": "1.7.2",
-        "release_date": "2021-12-13T22:35:36",
-        "title": "calculator 1.7.2 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Update to elementary 6.1 runtime</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/calculator/releases/tag/1.7.2"
-      },
-      {
         "version": "1.7.1",
         "release_date": "2021-10-26T16:29:53",
         "title": "Calculator 1.7.1 Released",
@@ -3445,13 +3438,6 @@
         "title": "calculator 1.5.3 Released",
         "body": "calculator 1.5.3 is out! \n\nChanges:\n\n* Animate Infobar when hiding and showing\n* Fix selection replace\n* Improved decimal separator localization\n* Updated translations\n",
         "href": "https://github.com/elementary/calculator/releases/tag/1.5.3"
-      },
-      {
-        "version": "1.5.2",
-        "release_date": "2019-03-08T10:38:29",
-        "title": "Calculator 1.5.2 Released",
-        "body": "Calculator 1.5.2 is out!\r\n\r\nChanges:\r\n* Updated translations",
-        "href": "https://github.com/elementary/calculator/releases/tag/1.5.2"
       },
       {
         "version": "1.5.1",
