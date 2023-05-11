@@ -5540,13 +5540,6 @@
         "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/6.0.2"
       },
       {
-        "version": "6.0.1",
-        "release_date": "2021-09-27T20:37:48",
-        "title": "Notifications Indicator 6.0.1 ",
-        "body": "<p>Minor updates:</p>\r\n<ul>\r\n<li>Use app name as fallback title</li>\r\n<li>Updated translations</li>\r\n</ul>",
-        "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/6.0.1"
-      },
-      {
         "version": "6.0.0",
         "release_date": "2021-07-16T00:02:35",
         "title": "wingpanel-indicator-notifications 6.0.0 Released",
