@@ -6814,6 +6814,13 @@
         "href": "https://github.com/elementary/houston/releases/tag/v6.0.9"
       },
       {
+        "version": "v6.0.8",
+        "release_date": "2018-12-10T16:33:51",
+        "title": "v6.0.8",
+        "body": "## [6.0.8](https://github.com/elementary/houston/compare/v6.0.7...v6.0.8) (2018-12-10)\n\n\n### Bug Fixes\n\n* **package:** update knex to version 0.16.1 ([79568e2](https://github.com/elementary/houston/commit/79568e2))\n\n\n\n",
+        "href": "https://github.com/elementary/houston/releases/tag/v6.0.8"
+      },
+      {
         "version": "v6.0.7",
         "release_date": "2018-11-27T17:49:33",
         "title": "v6.0.7",
@@ -6905,6 +6912,13 @@
         "href": "https://github.com/elementary/houston/releases/tag/v4.1.3"
       },
       {
+        "version": "v4.1.2",
+        "release_date": "2018-08-09T03:11:41",
+        "title": "v4.1.2",
+        "body": "## [4.1.2](https://github.com/elementary/houston/compare/v4.1.1...v4.1.2) (2018-08-09)\n\n\n### Bug Fixes\n\n* **service:** make aptly file names easier to read ([455f083](https://github.com/elementary/houston/commit/455f083))\n\n\n\n",
+        "href": "https://github.com/elementary/houston/releases/tag/v4.1.2"
+      },
+      {
         "version": "v4.1.1",
         "release_date": "2018-08-04T20:38:39",
         "title": "v4.1.1",
@@ -6982,6 +6996,20 @@
         "href": "https://github.com/elementary/houston/releases/tag/v1.2.5"
       },
       {
+        "version": "v1.2.4",
+        "release_date": "2018-07-01T22:42:10",
+        "title": "v1.2.4",
+        "body": "## [1.2.4](https://github.com/elementary/houston/compare/v1.2.3...v1.2.4) (2018-07-01)\n\n\n### Bug Fixes\n\n* **worker:** sort debian changelog changes based on date ([c9352ac](https://github.com/elementary/houston/commit/c9352ac))\n\n\n\n",
+        "href": "https://github.com/elementary/houston/releases/tag/v1.2.4"
+      },
+      {
+        "version": "v1.2.3",
+        "release_date": "2018-07-01T21:18:47",
+        "title": "v1.2.3",
+        "body": "## [1.2.3](https://github.com/elementary/houston/compare/v1.2.2...v1.2.3) (2018-07-01)\n\n\n### Bug Fixes\n\n* **worker:** update debian changelog write path location ([eb43d9e](https://github.com/elementary/houston/commit/eb43d9e))\n\n\n\n",
+        "href": "https://github.com/elementary/houston/releases/tag/v1.2.3"
+      },
+      {
         "version": "v1.2.2",
         "release_date": "2018-06-30T22:45:55",
         "title": "v1.2.2",
@@ -6994,6 +7022,13 @@
         "title": "v1.2.1",
         "body": "## [1.2.1](https://github.com/elementary/houston/compare/v1.2.0...v1.2.1) (2018-06-30)\n\n\n### Bug Fixes\n\n* **cli:** fix build command not setting version reference ([a454933](https://github.com/elementary/houston/commit/a454933))\n* **worker:** fix trying to upload a null package in post task ([8688fdb](https://github.com/elementary/houston/commit/8688fdb))\n* **worker:** include given context refs during workspace setup clone ([512967a](https://github.com/elementary/houston/commit/512967a))\n\n\n\n",
         "href": "https://github.com/elementary/houston/releases/tag/v1.2.1"
+      },
+      {
+        "version": "v1.2.0",
+        "release_date": "2018-06-29T03:03:22",
+        "title": "v1.2.0",
+        "body": "# [1.2.0](https://github.com/elementary/houston/compare/v1.1.0...v1.2.0) (2018-06-29)\n\n\n### Bug Fixes\n\n* **service:** don't try to publish GitHub items after already published ([d14874f](https://github.com/elementary/houston/commit/d14874f))\n* fix app export for creating repositories ([61a8480](https://github.com/elementary/houston/commit/61a8480))\n* **service:** update github auth logic with app integration ([976b862](https://github.com/elementary/houston/commit/976b862))\n* **worker:** fix worker fork mechanics ([6db4d1f](https://github.com/elementary/houston/commit/6db4d1f))\n* **worker:** fix worker package publishing ([915753c](https://github.com/elementary/houston/commit/915753c))\n\n\n### Features\n\n* **service:** Add aptly PackageRepository class with tests ([5f370de](https://github.com/elementary/houston/commit/5f370de))\n* **worker:** write architectures, distributions, and refs to logs ([f1f07b8](https://github.com/elementary/houston/commit/f1f07b8))\n\n\n\n",
+        "href": "https://github.com/elementary/houston/releases/tag/v1.2.0"
       },
       {
         "version": "v1.1.0",
