@@ -3622,6 +3622,13 @@
         "href": "https://github.com/elementary/screenshot/releases/tag/6.0.0"
       },
       {
+        "version": "1.7.1",
+        "release_date": "2020-01-21T19:05:32",
+        "title": "screenshot 1.7.1 Released",
+        "body": "screenshot 1.7.1 is out! \n\n<ul>\n<li>Fix minor visual issues with selection items</li>\n<li>Translation updates</li>\n</ul>\n",
+        "href": "https://github.com/elementary/screenshot/releases/tag/1.7.1"
+      },
+      {
         "version": "1.7.0",
         "release_date": "2019-11-15T21:44:44",
         "title": "screenshot 1.7.0 Released",
@@ -3641,6 +3648,13 @@
         "title": "Screenshot 1.6.1 Released",
         "body": "Screenshot 1.6.1 is out!\r\n\r\nChanges:\r\n* Always respect delay setting\r\n* Increase minimum timeout to 300\r\n* Updated translations",
         "href": "https://github.com/elementary/screenshot/releases/tag/1.6.1"
+      },
+      {
+        "version": "1.6.0",
+        "release_date": "2018-10-16T08:22:41",
+        "title": "Screenshot 1.6.0 Released",
+        "body": "Screenshot 1.6.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/screenshot/issues?q=is%3Aclosed+milestone%3A1.6.0).",
+        "href": "https://github.com/elementary/screenshot/releases/tag/1.6.0"
       },
       {
         "version": "0.1.5",
