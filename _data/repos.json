@@ -5407,6 +5407,13 @@
         "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.1.3"
       },
       {
+        "version": "2.1.2",
+        "release_date": "2018-10-16T02:35:35",
+        "title": "Wingpanel Date & Time Indicator 2.1.2 Released",
+        "body": "wingpanel-indicator-datetime 2.1.2 is out!\r\n\r\nChanges:\r\n* Accurately select current day each open\r\n* Updated translations",
+        "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.1.2"
+      },
+      {
         "version": "2.1.1",
         "release_date": "2018-10-02T11:40:06",
         "title": "Wingpanel Date & Time Indicator 2.1.1 Released",
