@@ -682,13 +682,6 @@
         "href": "https://github.com/elementary/stylesheet/releases/tag/7.2.0"
       },
       {
-        "version": "7.1.0",
-        "release_date": "2023-03-25T02:49:27",
-        "title": "Stylesheet 7.1.0 Released!",
-        "body": "## What's Changed\r\n* actions/checkout@v3 by @meisenzahl in https://github.com/elementary/stylesheet/pull/1238\r\n* Fixes for Epiphany by @Exalm in https://github.com/elementary/stylesheet/pull/1241\r\n* GTK4: Support `.keyboard-activating` class for buttons by @lenemter in https://github.com/elementary/stylesheet/pull/1246\r\n* Switch to GHCR containers by @davidmhewitt in https://github.com/elementary/stylesheet/pull/1247\r\n* Adw.PreferencesWindow by @danirabbit in https://github.com/elementary/stylesheet/pull/1245\r\n* Add release notes for 7.1.0 by @danirabbit in https://github.com/elementary/stylesheet/pull/1249\r\n* Release 7.1.0 by @danirabbit in https://github.com/elementary/stylesheet/pull/1250\r\n\r\n## New Contributors\r\n* @Exalm made their first contribution in https://github.com/elementary/stylesheet/pull/1241\r\n* @lenemter made their first contribution in https://github.com/elementary/stylesheet/pull/1246\r\n* @davidmhewitt made their first contribution in https://github.com/elementary/stylesheet/pull/1247\r\n\r\n**Full Changelog**: https://github.com/elementary/stylesheet/compare/7.0.1...7.1.0",
-        "href": "https://github.com/elementary/stylesheet/releases/tag/7.1.0"
-      },
-      {
         "version": "7.0.1",
         "release_date": "2022-10-10T23:49:51",
         "title": "stylesheet 7.0.1 Released",
@@ -6898,13 +6891,6 @@
         "href": "https://github.com/elementary/houston/releases/tag/v4.1.5"
       },
       {
-        "version": "v4.1.4",
-        "release_date": "2018-08-27T18:57:01",
-        "title": "v4.1.4",
-        "body": "## [4.1.4](https://github.com/elementary/houston/compare/v4.1.3...v4.1.4) (2018-08-27)\n\n\n### Bug Fixes\n\n* **worker:** deb-packaging should always add the latest version ([2ceb0e1](https://github.com/elementary/houston/commit/2ceb0e1))\n\n\n\n",
-        "href": "https://github.com/elementary/houston/releases/tag/v4.1.4"
-      },
-      {
         "version": "v4.1.3",
         "release_date": "2018-08-21T15:28:59",
         "title": "v4.1.3",
@@ -6987,13 +6973,6 @@
         "title": "v2.0.0",
         "body": "# [2.0.0](https://github.com/elementary/houston/compare/v1.2.5...v2.0.0) (2018-07-11)\n\n\n### Bug Fixes\n\n* **lib:** allow using different normalizers strings for rdnn-ing strings ([5ccd791](https://github.com/elementary/houston/commit/5ccd791)), closes [#566](https://github.com/elementary/houston/issues/566)\n* **worker:** change rdnn normalizations for tests on an as needed basis ([65e1dd2](https://github.com/elementary/houston/commit/65e1dd2)), closes [#566](https://github.com/elementary/houston/issues/566)\n\n\n### BREAKING CHANGES\n\n* **worker:** Appstream name is no longer configured and is based on RDNN and usage context.\nStrings and file paths may change if you have spaces in your RDNN name.\n\n\n\n",
         "href": "https://github.com/elementary/houston/releases/tag/v2.0.0"
-      },
-      {
-        "version": "v1.2.5",
-        "release_date": "2018-07-02T14:35:56",
-        "title": "v1.2.5",
-        "body": "## [1.2.5](https://github.com/elementary/houston/compare/v1.2.4...v1.2.5) (2018-07-02)\n\n\n### Bug Fixes\n\n* **worker:** set package architecture and distribution on publish ([7c10114](https://github.com/elementary/houston/commit/7c10114))\n\n\n\n",
-        "href": "https://github.com/elementary/houston/releases/tag/v1.2.5"
       },
       {
         "version": "v1.2.4",
