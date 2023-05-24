@@ -5932,13 +5932,6 @@
         "href": "https://github.com/elementary/switchboard-plug-power/releases/tag/2.3.4"
       },
       {
-        "version": "0.3.3",
-        "release_date": "2018-06-08T13:35:19",
-        "title": "Switchboard Plug Power 0.3.3 Released",
-        "body": "switchboard-plug-power 0.3.3 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-power/issues?q=is%3Aclosed+milestone%3A0.3.3).",
-        "href": "https://github.com/elementary/switchboard-plug-power/releases/tag/0.3.3"
-      },
-      {
         "version": "0.3.2",
         "release_date": "2017-07-19T18:59:28",
         "title": "Switchboard Plug Power 0.3.2 Released",
