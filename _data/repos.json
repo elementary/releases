@@ -3923,6 +3923,13 @@
         "href": "https://github.com/elementary/greeter/releases/tag/6.1.1"
       },
       {
+        "version": "6.1.0",
+        "release_date": "2022-05-10T16:52:42",
+        "title": "greeter 6.1.0 Released",
+        "body": "<p>New Features:</p>\n<ul>\n<li>Provide panel background color interface</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/greeter/releases/tag/6.1.0"
+      },
+      {
         "version": "6.0.2",
         "release_date": "2022-02-28T16:19:59",
         "title": "greeter 6.0.2 Released",
@@ -3977,6 +3984,13 @@
         "title": "Greeter 5.0 Released",
         "body": "Greeter 5.0 is out!\r\n\r\nChanges:\r\n* Extensive overhaul\r\n* New card-based appearance\r\n* Improved HiDPI support\r\n* AccountsService functionality\r\n* Various bug fixes\r\n\r\nFor the full list of issues closed by this release, see [here](https://github.com/elementary/greeter/milestone/2).",
         "href": "https://github.com/elementary/greeter/releases/tag/5.0"
+      },
+      {
+        "version": "3.3.1",
+        "release_date": "2018-11-05T22:05:52",
+        "title": "Greeter 3.3.1 Released",
+        "body": "pantheon-greeter 3.3.1 is out!\r\n\r\nThis release includes build fixes and updated translations.",
+        "href": "https://github.com/elementary/greeter/releases/tag/3.3.1"
       },
       {
         "version": "3.3.0",
