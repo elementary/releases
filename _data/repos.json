@@ -3830,6 +3830,13 @@
         "title": "Calendar 0.4.2 Released",
         "body": "Calendar 0.4.2 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/calendar/issues?q=is%3Aclosed+milestone%3A0.4.2).",
         "href": "https://github.com/elementary/calendar/releases/tag/0.4.2"
+      },
+      {
+        "version": "0.4.1",
+        "release_date": "2017-12-01T20:54:43",
+        "title": "Maya (Calendar) 0.4.1 Released",
+        "body": "maya-calendar 0.4.1 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/calendar/issues?q=is%3Aclosed+milestone%3A0.4.1).",
+        "href": "https://github.com/elementary/calendar/releases/tag/0.4.1"
       }
     ],
     "new_commits": 109,
