@@ -836,6 +836,13 @@
         "href": "https://github.com/elementary/files/releases/tag/6.3.0"
       },
       {
+        "version": "6.2.2",
+        "release_date": "2023-02-03T16:37:26",
+        "title": "v 6.2.2",
+        "body": "## What's Changed\r\n* Ensure special user directory icon used for bookmark by @jeremypw in https://github.com/elementary/files/pull/2106\r\n* CommonJob: Continue the port to Vala by @tintou in https://github.com/elementary/files/pull/2097\r\n* FileOperations: Continue the port to Vala by @tintou in https://github.com/elementary/files/pull/2109\r\n* Add action to Paste Into menu item by @jeremypw in https://github.com/elementary/files/pull/2118\r\n* AbstractDirectoryView: Change double-click setting label by @danirabbit in https://github.com/elementary/files/pull/2107\r\n* pantheon-files-cloud: Avoid crashes when disconnecting the provider by @tintou in https://github.com/elementary/files/pull/2122\r\n* Update appdata and meson.build for next release by @jeremypw in https://github.com/elementary/files/pull/2127\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/files/compare/6.2.1...6.2.2",
+        "href": "https://github.com/elementary/files/releases/tag/6.2.2"
+      },
+      {
         "version": "6.2.1",
         "release_date": "2022-11-15T15:57:07",
         "title": "files 6.2.1 Released",
@@ -2467,7 +2474,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 241,
+    "new_commits": 243,
     "default_branch": "master"
   },
   {
