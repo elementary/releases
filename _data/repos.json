@@ -4560,6 +4560,13 @@
         "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/2.2.0"
       },
       {
+        "version": "2.1.9",
+        "release_date": "2019-09-24T15:20:51",
+        "title": "Switchboard Display Plug 2.1.9 Released",
+        "body": "switchboard-plug-display 2.1.9 is out!\r\n\r\nChanges:\r\n* Nightlight: parse minutes in schedule input properly\r\n* Build system install path fix\r\n* Updated translations",
+        "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/2.1.9"
+      },
+      {
         "version": "2.1.8",
         "release_date": "2019-04-22T11:09:15",
         "title": "Switchboard Display Plug 2.1.8 Released",
@@ -4593,6 +4600,13 @@
         "title": "Display Plug 0.1.4 Released",
         "body": "switchboard-plug-display 0.1.4 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-display/issues?q=is%3Aclosed+milestone%3A0.1.4).",
         "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/0.1.4"
+      },
+      {
+        "version": "0.1.3",
+        "release_date": "2017-05-02T20:26:18",
+        "title": "Display Plug 0.1.3 Released",
+        "body": "switchboard-plug-display 0.1.3 is out!",
+        "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/0.1.3"
       }
     ],
     "new_commits": 21,
