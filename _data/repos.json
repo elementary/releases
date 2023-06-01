@@ -5890,13 +5890,6 @@
         "href": "https://github.com/elementary/switchboard/releases/tag/2.3.2"
       },
       {
-        "version": "2.3.1",
-        "release_date": "2018-06-06T09:21:40",
-        "title": "Switchboard 2.3.1 Released",
-        "body": "Switchboard 2.3.1 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard/issues?q=is%3Aclosed+milestone%3A2.3.1).",
-        "href": "https://github.com/elementary/switchboard/releases/tag/2.3.1"
-      },
-      {
         "version": "2.3.0",
         "release_date": "2017-07-28T01:39:04",
         "title": "Switchboard 2.3.0 Released",
