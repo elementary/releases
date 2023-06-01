@@ -2579,7 +2579,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 91,
+    "new_commits": 92,
     "default_branch": "master"
   },
   {
@@ -5888,6 +5888,13 @@
         "title": "Switchboard 2.3.2 Released",
         "body": "Switchboard 2.3.2 is out!\r\n\r\nThis release includes new translations.",
         "href": "https://github.com/elementary/switchboard/releases/tag/2.3.2"
+      },
+      {
+        "version": "2.3.1",
+        "release_date": "2018-06-06T09:21:40",
+        "title": "Switchboard 2.3.1 Released",
+        "body": "Switchboard 2.3.1 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard/issues?q=is%3Aclosed+milestone%3A2.3.1).",
+        "href": "https://github.com/elementary/switchboard/releases/tag/2.3.1"
       },
       {
         "version": "2.3.0",
