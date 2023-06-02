@@ -3171,41 +3171,6 @@
     "default_branch": "master"
   },
   {
-    "name": "press-kit",
-    "releases": [
-      {
-        "version": "7.0.0",
-        "release_date": "2023-01-24T19:21:43",
-        "title": "7.0 Horus",
-        "body": "**Full Changelog**: https://github.com/elementary/press-kit/compare/6.1-jolnir...7.0.0",
-        "href": "https://github.com/elementary/press-kit/releases/tag/7.0.0"
-      },
-      {
-        "version": "6.1-jolnir",
-        "release_date": "2021-12-17T22:32:27",
-        "title": "6.1 Jólnir",
-        "body": "",
-        "href": "https://github.com/elementary/press-kit/releases/tag/6.1-jolnir"
-      },
-      {
-        "version": "5.1-hera",
-        "release_date": "2019-07-29T18:42:54",
-        "title": "5.1 Hera",
-        "body": "Never made an official release. :upside_down_face: ",
-        "href": "https://github.com/elementary/press-kit/releases/tag/5.1-hera"
-      },
-      {
-        "version": "5.0-juno",
-        "release_date": "2018-10-04T20:05:17",
-        "title": "Juno",
-        "body": "",
-        "href": "https://github.com/elementary/press-kit/releases/tag/5.0-juno"
-      }
-    ],
-    "new_commits": 0,
-    "default_branch": "7.0-horus"
-  },
-  {
     "name": "code",
     "releases": [
       {
@@ -4714,7 +4679,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.0.4"
       }
     ],
-    "new_commits": 26,
+    "new_commits": 27,
     "default_branch": "master"
   },
   {
@@ -6235,6 +6200,34 @@
     ],
     "new_commits": 0,
     "default_branch": "main"
+  },
+  {
+    "name": "press-kit",
+    "releases": [
+      {
+        "version": "6.1-jolnir",
+        "release_date": "2021-12-17T22:32:27",
+        "title": "6.1 Jólnir",
+        "body": "",
+        "href": "https://github.com/elementary/press-kit/releases/tag/6.1-jolnir"
+      },
+      {
+        "version": "5.1-hera",
+        "release_date": "2019-07-29T18:42:54",
+        "title": "5.1 Hera",
+        "body": "Never made an official release. :upside_down_face: ",
+        "href": "https://github.com/elementary/press-kit/releases/tag/5.1-hera"
+      },
+      {
+        "version": "5.0-juno",
+        "release_date": "2018-10-04T20:05:17",
+        "title": "Juno",
+        "body": "",
+        "href": "https://github.com/elementary/press-kit/releases/tag/5.0-juno"
+      }
+    ],
+    "new_commits": 1,
+    "default_branch": "7.0-horus"
   },
   {
     "name": "action-appcenter-review-checklist",
