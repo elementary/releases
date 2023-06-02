@@ -2908,13 +2908,6 @@
         "href": "https://github.com/elementary/switchboard-plug-about/releases/tag/6.0.0"
       },
       {
-        "version": "2.6.3",
-        "release_date": "2020-05-28T18:40:45",
-        "title": "switchboard-plug-about 2.6.3 Released",
-        "body": "<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/switchboard-plug-about/releases/tag/2.6.3"
-      },
-      {
         "version": "2.6.2",
         "release_date": "2020-04-08T20:31:09",
         "title": "switchboard-plug-about 2.6.2 Released",
@@ -2941,13 +2934,6 @@
         "title": "Switchboard About Plug 2.5.2 Released",
         "body": "switchboard-plug-about 2.5.2 is out!\r\n\r\nChanges:\r\n* Support LOGO os-release field\r\n* Updated translations",
         "href": "https://github.com/elementary/switchboard-plug-about/releases/tag/2.5.2"
-      },
-      {
-        "version": "2.5.1",
-        "release_date": "2018-10-15T23:30:48",
-        "title": "Switchboard About Plug 2.5.1 Released",
-        "body": "switchboard-plug-about 2.5.1 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-about/issues?q=is%3Aclosed+milestone%3A2.5.1).",
-        "href": "https://github.com/elementary/switchboard-plug-about/releases/tag/2.5.1"
       },
       {
         "version": "0.2.5",
