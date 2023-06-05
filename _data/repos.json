@@ -1,5 +1,26 @@
 [
   {
+    "name": "action-appcenter-review-checklist",
+    "releases": [
+      {
+        "version": "v1.0.2",
+        "release_date": "2023-06-05T16:32:05",
+        "title": "v1.0.2",
+        "body": "## [1.0.2](https://github.com/elementary/action-appcenter-review-checklist/compare/v1.0.1...v1.0.2) (2023-06-05)\n\n\n### Bug Fixes\n\n* update dependencies ([355231b](https://github.com/elementary/action-appcenter-review-checklist/commit/355231b8ecd33f5ff3b2737c6b99d8c49947cf55))\n\n\n\n",
+        "href": "https://github.com/elementary/action-appcenter-review-checklist/releases/tag/v1.0.2"
+      },
+      {
+        "version": "v1.0.1",
+        "release_date": "2021-11-17T04:43:45",
+        "title": "v1.0.1",
+        "body": "## [1.0.1](https://github.com/elementary/action-appcenter-review-checklist/compare/v1.0.0...v1.0.1) (2021-11-17)\n\n\n### Bug Fixes\n\n* empty pull request comment ([#1](https://github.com/elementary/action-appcenter-review-checklist/issues/1)) ([1a0d49f](https://github.com/elementary/action-appcenter-review-checklist/commit/1a0d49f8907ca897ccb0f31ab6314651dd0728a5))\n\n\n\n",
+        "href": "https://github.com/elementary/action-appcenter-review-checklist/releases/tag/v1.0.1"
+      }
+    ],
+    "new_commits": 0,
+    "default_branch": "main"
+  },
+  {
     "name": "action-appcenter-review-parse",
     "releases": [
       {
@@ -6312,20 +6333,6 @@
     ],
     "new_commits": 29,
     "default_branch": "master"
-  },
-  {
-    "name": "action-appcenter-review-checklist",
-    "releases": [
-      {
-        "version": "v1.0.1",
-        "release_date": "2021-11-17T04:43:45",
-        "title": "v1.0.1",
-        "body": "## [1.0.1](https://github.com/elementary/action-appcenter-review-checklist/compare/v1.0.0...v1.0.1) (2021-11-17)\n\n\n### Bug Fixes\n\n* empty pull request comment ([#1](https://github.com/elementary/action-appcenter-review-checklist/issues/1)) ([1a0d49f](https://github.com/elementary/action-appcenter-review-checklist/commit/1a0d49f8907ca897ccb0f31ab6314651dd0728a5))\n\n\n\n",
-        "href": "https://github.com/elementary/action-appcenter-review-checklist/releases/tag/v1.0.1"
-      }
-    ],
-    "new_commits": 0,
-    "default_branch": "main"
   },
   {
     "name": "switchboard-plug-applications",
