@@ -3,6 +3,13 @@
     "name": "action-appcenter-review-find-manifest",
     "releases": [
       {
+        "version": "v1.4.0",
+        "release_date": "2023-06-05T13:12:52",
+        "title": "v1.4.0",
+        "body": "# [1.4.0](https://github.com/elementary/action-appcenter-review-find-manifest/compare/v1.3.1...v1.4.0) (2023-06-05)\n\n\n### Features\n\n* bump deps ([1537aff](https://github.com/elementary/action-appcenter-review-find-manifest/commit/1537aff39528f5d0bc78b6163f04c604378c2ba0))\n\n\n\n",
+        "href": "https://github.com/elementary/action-appcenter-review-find-manifest/releases/tag/v1.4.0"
+      },
+      {
         "version": "v1.3.1",
         "release_date": "2023-06-05T12:46:22",
         "title": "v1.3.1",
@@ -59,7 +66,7 @@
         "href": "https://github.com/elementary/action-appcenter-review-find-manifest/releases/tag/v1.0.1"
       }
     ],
-    "new_commits": 1,
+    "new_commits": 0,
     "default_branch": "main"
   },
   {
