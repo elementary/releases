@@ -77,6 +77,48 @@
     "default_branch": "main"
   },
   {
+    "name": "action-appcenter-review-parse",
+    "releases": [
+      {
+        "version": "v1.1.2",
+        "release_date": "2023-06-05T20:46:03",
+        "title": "v1.1.2",
+        "body": "## [1.1.2](https://github.com/elementary/action-appcenter-review-parse/compare/v1.1.1...v1.1.2) (2023-06-05)\n\n\n### Bug Fixes\n\n* **deps-dev:** bump semantic-release, @semantic-release/commit-analyzer, @semantic-release/git, @semantic-release/github and @semantic-release/release-notes-generator ([#7](https://github.com/elementary/action-appcenter-review-parse/issues/7)) ([1ab727f](https://github.com/elementary/action-appcenter-review-parse/commit/1ab727fba78f34d2c156adfbe1523124aed5f1a6))\n\n\n\n",
+        "href": "https://github.com/elementary/action-appcenter-review-parse/releases/tag/v1.1.2"
+      },
+      {
+        "version": "v1.1.1",
+        "release_date": "2023-06-05T15:05:47",
+        "title": "v1.1.1",
+        "body": "## [1.1.1](https://github.com/elementary/action-appcenter-review-parse/compare/v1.1.0...v1.1.1) (2023-06-05)\n\n\n### Bug Fixes\n\n* update dependencies ([9d72969](https://github.com/elementary/action-appcenter-review-parse/commit/9d72969f3c0bb908c6e3d5ef9e817a6b0200c976))\n\n\n\n",
+        "href": "https://github.com/elementary/action-appcenter-review-parse/releases/tag/v1.1.1"
+      },
+      {
+        "version": "v1.1.0",
+        "release_date": "2022-01-24T19:52:16",
+        "title": "v1.1.0",
+        "body": "# [1.1.0](https://github.com/elementary/action-appcenter-review-parse/compare/v1.0.2...v1.1.0) (2022-01-24)\n\n\n### Features\n\n* add end-of-life support ([58905fe](https://github.com/elementary/action-appcenter-review-parse/commit/58905fe92049968876a9384af6617b3a44990831))\n\n\n\n",
+        "href": "https://github.com/elementary/action-appcenter-review-parse/releases/tag/v1.1.0"
+      },
+      {
+        "version": "v1.0.2",
+        "release_date": "2021-08-20T20:42:29",
+        "title": "v1.0.2",
+        "body": "## [1.0.2](https://github.com/elementary/action-appcenter-review-parse/compare/v1.0.1...v1.0.2) (2021-08-20)\n\n\n### Bug Fixes\n\n* handle no matching path gracefully ([5946055](https://github.com/elementary/action-appcenter-review-parse/commit/59460559c25aa84244881a52218c086b967d9420))\n\n\n\n",
+        "href": "https://github.com/elementary/action-appcenter-review-parse/releases/tag/v1.0.2"
+      },
+      {
+        "version": "v1.0.1",
+        "release_date": "2021-07-26T00:47:17",
+        "title": "v1.0.1",
+        "body": "## [1.0.1](https://github.com/elementary/action-appcenter-review-parse/compare/v1.0.0...v1.0.1) (2021-07-26)\n\n\n### Bug Fixes\n\n* **ci:** add dist folder to git release ([a757f42](https://github.com/elementary/action-appcenter-review-parse/commit/a757f42c7116aa98f168b6ee383de6cda66018f7))\n\n\n\n",
+        "href": "https://github.com/elementary/action-appcenter-review-parse/releases/tag/v1.0.1"
+      }
+    ],
+    "new_commits": 0,
+    "default_branch": "main"
+  },
+  {
     "name": "action-appcenter-review-checklist",
     "releases": [
       {
@@ -109,41 +151,6 @@
       }
     ],
     "new_commits": 1,
-    "default_branch": "main"
-  },
-  {
-    "name": "action-appcenter-review-parse",
-    "releases": [
-      {
-        "version": "v1.1.1",
-        "release_date": "2023-06-05T15:05:47",
-        "title": "v1.1.1",
-        "body": "## [1.1.1](https://github.com/elementary/action-appcenter-review-parse/compare/v1.1.0...v1.1.1) (2023-06-05)\n\n\n### Bug Fixes\n\n* update dependencies ([9d72969](https://github.com/elementary/action-appcenter-review-parse/commit/9d72969f3c0bb908c6e3d5ef9e817a6b0200c976))\n\n\n\n",
-        "href": "https://github.com/elementary/action-appcenter-review-parse/releases/tag/v1.1.1"
-      },
-      {
-        "version": "v1.1.0",
-        "release_date": "2022-01-24T19:52:16",
-        "title": "v1.1.0",
-        "body": "# [1.1.0](https://github.com/elementary/action-appcenter-review-parse/compare/v1.0.2...v1.1.0) (2022-01-24)\n\n\n### Features\n\n* add end-of-life support ([58905fe](https://github.com/elementary/action-appcenter-review-parse/commit/58905fe92049968876a9384af6617b3a44990831))\n\n\n\n",
-        "href": "https://github.com/elementary/action-appcenter-review-parse/releases/tag/v1.1.0"
-      },
-      {
-        "version": "v1.0.2",
-        "release_date": "2021-08-20T20:42:29",
-        "title": "v1.0.2",
-        "body": "## [1.0.2](https://github.com/elementary/action-appcenter-review-parse/compare/v1.0.1...v1.0.2) (2021-08-20)\n\n\n### Bug Fixes\n\n* handle no matching path gracefully ([5946055](https://github.com/elementary/action-appcenter-review-parse/commit/59460559c25aa84244881a52218c086b967d9420))\n\n\n\n",
-        "href": "https://github.com/elementary/action-appcenter-review-parse/releases/tag/v1.0.2"
-      },
-      {
-        "version": "v1.0.1",
-        "release_date": "2021-07-26T00:47:17",
-        "title": "v1.0.1",
-        "body": "## [1.0.1](https://github.com/elementary/action-appcenter-review-parse/compare/v1.0.0...v1.0.1) (2021-07-26)\n\n\n### Bug Fixes\n\n* **ci:** add dist folder to git release ([a757f42](https://github.com/elementary/action-appcenter-review-parse/commit/a757f42c7116aa98f168b6ee383de6cda66018f7))\n\n\n\n",
-        "href": "https://github.com/elementary/action-appcenter-review-parse/releases/tag/v1.0.1"
-      }
-    ],
-    "new_commits": 9,
     "default_branch": "main"
   },
   {
