@@ -2152,6 +2152,13 @@
         "href": "https://github.com/elementary/sideload/releases/tag/6.2.0"
       },
       {
+        "version": "6.1.0",
+        "release_date": "2022-10-24T17:10:34",
+        "title": "sideload 6.1.0 Released",
+        "body": "<ul>\n<li>Use updated Flatpak branding</li>\n<li>Badge notifications with the sideloaded app's icon</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/sideload/releases/tag/6.1.0"
+      },
+      {
         "version": "6.0.2",
         "release_date": "2021-09-22T20:56:34",
         "title": "sideload 6.0.2 Released",
@@ -2171,6 +2178,13 @@
         "title": "sideload 6.0.0 Released",
         "body": "<ul>\n<li>Control notifications in System Settings</li>\n<li>Offer to trash Flatpak files after installing</li>\n<li>Support dark style</li>\n<li>Support Flatpak bundle files</li>\n<li>Fix crashes on installation failure</li>\n<li>Updated translations</li>\n<li>Link to System Settings → Applications → Permissions</li>\n</ul>\n",
         "href": "https://github.com/elementary/sideload/releases/tag/6.0.0"
+      },
+      {
+        "version": "1.1.1",
+        "release_date": "2020-05-28T23:39:24",
+        "title": "sideload 1.1.1 Released",
+        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/sideload/releases/tag/1.1.1"
       },
       {
         "version": "1.1.0",
