@@ -6429,8 +6429,8 @@
         "href": "https://github.com/elementary/switchboard-plug-applications/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 52,
-    "default_branch": "main"
+    "new_commits": 76,
+    "default_branch": "master"
   },
   {
     "name": "wingpanel-indicator-bluetooth",
