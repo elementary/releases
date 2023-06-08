@@ -2418,7 +2418,7 @@
         "href": "https://github.com/elementary/flatpak-platform/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 6,
+    "new_commits": 9,
     "default_branch": "main"
   },
   {
@@ -2754,13 +2754,6 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/7.1.0"
       },
       {
-        "version": "7.0.0",
-        "release_date": "2023-01-24T16:59:17",
-        "title": "AppCenter 7.0.0 Released",
-        "body": "## What's Changed\r\n* PackageKitBackend: resolve addons in appstream pool by @danirabbit in https://github.com/elementary/appcenter/pull/1946\r\n* Gresource: add more category icons by @danirabbit in https://github.com/elementary/appcenter/pull/1948\r\n* Fix visual issues with category icons by @danirabbit in https://github.com/elementary/appcenter/pull/1954\r\n* Flatpak Runtimes by @meisenzahl in https://github.com/elementary/appcenter/pull/1956\r\n* Size information for Runtime Updates by @meisenzahl in https://github.com/elementary/appcenter/pull/1957\r\n* Install PackageKit based Operating System Updates as Offline Updates by @meisenzahl in https://github.com/elementary/appcenter/pull/1943\r\n* Pretty output Flatpak package origins by @meisenzahl in https://github.com/elementary/appcenter/pull/1962\r\n* Warn running in Demo Mode by @meisenzahl in https://github.com/elementary/appcenter/pull/1963\r\n* Show Operating System Updates and Runtime Updates only if available by @meisenzahl in https://github.com/elementary/appcenter/pull/1960\r\n* Make loading updates async from main AppCenter window by @meisenzahl in https://github.com/elementary/appcenter/pull/1964\r\n* Gettext: install git by @danirabbit in https://github.com/elementary/appcenter/pull/1968\r\n* Gresource: mark OARS icons as scalable, scale all to 32px by @danirabbit in https://github.com/elementary/appcenter/pull/1970\r\n* Metainfo Improvements by @danirabbit in https://github.com/elementary/appcenter/pull/1972\r\n* Fix crash activating category while checking for updates by @vjr in https://github.com/elementary/appcenter/pull/1973\r\n\r\n## New Contributors\r\n* @vjr made their first contribution in https://github.com/elementary/appcenter/pull/1973\r\n\r\n**Full Changelog**: https://github.com/elementary/appcenter/compare/4.0.0...7.0.0",
-        "href": "https://github.com/elementary/appcenter/releases/tag/7.0.0"
-      },
-      {
         "version": "4.0.0",
         "release_date": "2022-10-27T04:15:27",
         "title": "appcenter 4.0.0 Released",
@@ -2780,13 +2773,6 @@
         "title": "appcenter 3.9.1 Released",
         "body": "<p>Fixes:</p>\n<ul>\n<li>Prevent potential crashes when updating</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Link to Flathub's search page when no search results are found</li>\n<li>Updated translations</li>\n</ul>\n",
         "href": "https://github.com/elementary/appcenter/releases/tag/3.9.1"
-      },
-      {
-        "version": "3.9.0",
-        "release_date": "2021-11-23T21:22:44",
-        "title": "appcenter 3.9.0 Released",
-        "body": "<p>Improvements:</p>\n<ul>\n<li>Amusements appear in the Games category</li>\n<li>Categories show as a grid instead of a list</li>\n<li>Allow window to shrink to much narrower sizes</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.9.0"
       },
       {
         "version": "3.8.2",
@@ -2857,13 +2843,6 @@
         "title": "appcenter 3.5.1 Released",
         "body": "<p>Fixes</p>\n<ul>\n<li>Correctly display names of Flatpak runtime updates</li>\n</ul>\n<p>Minor updates</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
         "href": "https://github.com/elementary/appcenter/releases/tag/3.5.1"
-      },
-      {
-        "version": "3.5.0",
-        "release_date": "2020-10-07T03:57:49",
-        "title": "appcenter 3.5.0 Released",
-        "body": "<p>New features</p>\n<ul>\n<li>Support system-wide Flatpak remotes</li>\n</ul>\n<p>Fixes</p>\n<ul>\n<li>Fix Flatpak runtime updates getting stuck</li>\n<li>Fix long origin comboboxes breaking the header layout</li>\n</ul>\n<p>Minor updates</p>\n<ul>\n<li>When apps are available from multiple sources, prefer installed version, then prefer Flatpak</li>\n<li>Improve search performance</li>\n<li>Improve update badge styling and category styling</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.5.0"
       },
       {
         "version": "3.4.2",
@@ -2941,13 +2920,6 @@
         "title": "AppCenter 3.1.0 Released",
         "body": "AppCenter 3.1.0 is out!\r\n\r\nChanges:\r\n* New categories: `Communication`, `Finance`, `Media Production`\r\n* Add `Math` to `Science` category\r\n* Relax email address validator\r\n* Present update availability more accurately\r\n* Category graphics revamped\r\n* Updated translations",
         "href": "https://github.com/elementary/appcenter/releases/tag/3.1.0"
-      },
-      {
-        "version": "3.0.1",
-        "release_date": "2018-10-25T11:44:28",
-        "title": "AppCenter 3.0.1 Released",
-        "body": "AppCenter 3.0.1 is out!\r\n\r\nThis release includes updated translations.",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.0.1"
       },
       {
         "version": "3.0",
