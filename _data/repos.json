@@ -3692,6 +3692,13 @@
         "href": "https://github.com/elementary/wallpapers/releases/tag/6.1.0"
       },
       {
+        "version": "6.0.0",
+        "release_date": "2021-07-13T22:06:01",
+        "title": "wallpapers 6.0.0 Released",
+        "body": "<ul>\n<li>Add day and night custom Odin wallpapers by Freehive</li>\n<li>Add Snow-capped Mountain, Martin Adams, Tj Holowaychuk, and Vikor Forgacs</li>\n<li>Remove Carmine de Fazio, Luca Bravo, Pablo Garcia Saldana, Rob Bye, and Ryan Schroeder</li>\n</ul>\n",
+        "href": "https://github.com/elementary/wallpapers/releases/tag/6.0.0"
+      },
+      {
         "version": "5.5.0",
         "release_date": "2019-11-25T23:02:37",
         "title": "wallpapers 5.5.0 Released",
