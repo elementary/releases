@@ -3321,7 +3321,7 @@
         "href": "https://github.com/elementary/os/releases/tag/5.1.1"
       }
     ],
-    "new_commits": 5,
+    "new_commits": 6,
     "default_branch": "master"
   },
   {
@@ -4203,7 +4203,7 @@
         "href": "https://github.com/elementary/tasks/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 101,
+    "new_commits": 102,
     "default_branch": "master"
   },
   {
