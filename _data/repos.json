@@ -2600,6 +2600,13 @@
         "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/7.0.1"
       },
       {
+        "version": "7.0.0",
+        "release_date": "2023-02-28T16:31:54",
+        "title": "Network Indicator 7.0.0 Released!",
+        "body": "## What's Changed\r\n* Add airplane mode switch to popover; add middle-click tooltip by @jeremypw in https://github.com/elementary/wingpanel-indicator-network/pull/235\r\n* actions/checkout@v3 by @meisenzahl in https://github.com/elementary/wingpanel-indicator-network/pull/255\r\n* Use disambiguate_names from NM by @danirabbit in https://github.com/elementary/wingpanel-indicator-network/pull/260\r\n* WifiInterface: use NM.DeviceState by @danirabbit in https://github.com/elementary/wingpanel-indicator-network/pull/264\r\n* Update NetworkManager vapi files by @tintou in https://github.com/elementary/wingpanel-indicator-network/pull/265\r\n* vapi: Only allow to generate the vapi if the dependencies are found by @tintou in https://github.com/elementary/wingpanel-indicator-network/pull/266\r\n* Indicator: get interfaces from list, not widget by @danirabbit in https://github.com/elementary/wingpanel-indicator-network/pull/261\r\n* PopoverWidget: get ifaces from list, not widget by @danirabbit in https://github.com/elementary/wingpanel-indicator-network/pull/262\r\n* Use circular toggles for airplane mode and ethernet by @danirabbit in https://github.com/elementary/wingpanel-indicator-network/pull/258\r\n* Move classes from common by @danirabbit in https://github.com/elementary/wingpanel-indicator-network/pull/259\r\n* PopoverWidget: list VPNs above wifi by @danirabbit in https://github.com/elementary/wingpanel-indicator-network/pull/267\r\n* Show VPN as a FlowBox of ToggleButtons by @danirabbit in https://github.com/elementary/wingpanel-indicator-network/pull/268\r\n* Appdata updates by @danirabbit in https://github.com/elementary/wingpanel-indicator-network/pull/277\r\n* Gresource all the icons by @danirabbit in https://github.com/elementary/wingpanel-indicator-network/pull/278\r\n* WifiMenuItem: use built-in activate signal by @danirabbit in https://github.com/elementary/wingpanel-indicator-network/pull/275\r\n* WidgetNMInterface: remove is_device by @danirabbit in https://github.com/elementary/wingpanel-indicator-network/pull/271\r\n* Fix set_property deprecations by @danirabbit in https://github.com/elementary/wingpanel-indicator-network/pull/273\r\n* Revert \"WifiMenuItem: use built-in activate signal\" by @danirabbit in https://github.com/elementary/wingpanel-indicator-network/pull/280\r\n* libnm: Add more metadata overrides by @tintou in https://github.com/elementary/wingpanel-indicator-network/pull/281\r\n* WifiMenuItem: misc cleanup by @danirabbit in https://github.com/elementary/wingpanel-indicator-network/pull/282\r\n* Release 7.0.0 by @danirabbit in https://github.com/elementary/wingpanel-indicator-network/pull/270\r\n\r\n## New Contributors\r\n* @jeremypw made their first contribution in https://github.com/elementary/wingpanel-indicator-network/pull/235\r\n* @meisenzahl made their first contribution in https://github.com/elementary/wingpanel-indicator-network/pull/255\r\n\r\n**Full Changelog**: https://github.com/elementary/wingpanel-indicator-network/compare/2.3.4...7.0.0",
+        "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/7.0.0"
+      },
+      {
         "version": "2.3.4",
         "release_date": "2022-10-19T02:47:58",
         "title": "wingpanel-indicator-network 2.3.4 Released",
@@ -5820,7 +5827,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.0.1"
       }
     ],
-    "new_commits": 37,
+    "new_commits": 41,
     "default_branch": "master"
   },
   {
