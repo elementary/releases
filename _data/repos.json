@@ -444,7 +444,7 @@
         "href": "https://github.com/elementary/switchboard-plug-security-privacy/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 13,
+    "new_commits": 14,
     "default_branch": "master"
   },
   {
@@ -1655,7 +1655,7 @@
         "href": "https://github.com/elementary/mail/releases/tag/1.0.6"
       }
     ],
-    "new_commits": 104,
+    "new_commits": 105,
     "default_branch": "master"
   },
   {
@@ -2047,7 +2047,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 147,
+    "new_commits": 148,
     "default_branch": "master"
   },
   {
@@ -3027,7 +3027,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 116,
+    "new_commits": 117,
     "default_branch": "master"
   },
   {
