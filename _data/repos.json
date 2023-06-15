@@ -780,13 +780,6 @@
         "href": "https://github.com/elementary/calculator/releases/tag/1.6.1"
       },
       {
-        "version": "1.6.0",
-        "release_date": "2020-12-23T20:16:02",
-        "title": "calculator 1.6.0 Released",
-        "body": "<p>New features:</p>\n<ul>\n<li>Add log and inverse trigonometric functions</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Fix an issue with negative decimals without leading digits</li>\n<li>More efficient state saving</li>\n<li>Use slim titlebar</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/calculator/releases/tag/1.6.0"
-      },
-      {
         "version": "1.5.5",
         "release_date": "2020-04-03T20:45:02",
         "title": "calculator 1.5.5 Released",
@@ -6436,7 +6429,7 @@
         "href": "https://github.com/elementary/switchboard-plug-applications/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 86,
+    "new_commits": 89,
     "default_branch": "master"
   },
   {
