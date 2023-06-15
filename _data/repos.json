@@ -164,7 +164,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 0,
+    "new_commits": 2,
     "default_branch": "main"
   },
   {
@@ -1375,7 +1375,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 33,
+    "new_commits": 35,
     "default_branch": "master"
   },
   {
@@ -1823,7 +1823,7 @@
         "href": "https://github.com/elementary/mail/releases/tag/1.0.6"
       }
     ],
-    "new_commits": 106,
+    "new_commits": 110,
     "default_branch": "master"
   },
   {
@@ -1970,7 +1970,7 @@
         "href": "https://github.com/elementary/stylesheet/releases/tag/5.0.4"
       }
     ],
-    "new_commits": 26,
+    "new_commits": 28,
     "default_branch": "master"
   },
   {
@@ -3678,7 +3678,7 @@
         "href": "https://github.com/elementary/feedback/releases/tag/1.0"
       }
     ],
-    "new_commits": 36,
+    "new_commits": 39,
     "default_branch": "master"
   },
   {
@@ -4140,7 +4140,7 @@
         "href": "https://github.com/elementary/calendar/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 124,
+    "new_commits": 133,
     "default_branch": "master"
   },
   {
@@ -4308,7 +4308,7 @@
         "href": "https://github.com/elementary/greeter/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 74,
+    "new_commits": 77,
     "default_branch": "master"
   },
   {
@@ -6198,7 +6198,7 @@
         "href": "https://github.com/elementary/settings-daemon/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 45,
+    "new_commits": 50,
     "default_branch": "master"
   },
   {
