@@ -5043,6 +5043,13 @@
         "href": "https://github.com/elementary/switchboard-plug-sharing/releases/tag/2.1.5"
       },
       {
+        "version": "2.1.4",
+        "release_date": "2020-04-01T23:43:41",
+        "title": "switchboard-plug-sharing 2.1.4 Released",
+        "body": "switchboard-plug-sharing 2.1.4 is out! \n\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-sharing/releases/tag/2.1.4"
+      },
+      {
         "version": "2.1.3",
         "release_date": "2018-10-16T01:08:01",
         "title": "Switchboard Sharing Plug 2.1.3 Released",
