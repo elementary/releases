@@ -1781,13 +1781,6 @@
         "href": "https://github.com/elementary/mail/releases/tag/6.2.0"
       },
       {
-        "version": "6.1.1",
-        "release_date": "2021-08-31T02:55:23",
-        "title": "mail 6.1.1 Released",
-        "body": "<p>Fixes:</p>\n<ul>\n<li>Fix an issue that prevented some messaging from rendering at all</li>\n<li>Set the correct \"From\" address when replying and multiple accounts are set up</li>\n<li>Fix a crash on startup for some conversations</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Only save drafts when there are new changes</li>\n<li>Move Undo notification to the message view</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/mail/releases/tag/6.1.1"
-      },
-      {
         "version": "6.1.0",
         "release_date": "2021-07-28T18:26:21",
         "title": "mail 6.1.0 Released",
