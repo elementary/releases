@@ -1375,7 +1375,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 40,
+    "new_commits": 42,
     "default_branch": "master"
   },
   {
@@ -5734,13 +5734,6 @@
         "title": "wingpanel-indicator-notifications 6.0.5 Released",
         "body": "<p>Fixes:</p>\n<ul>\n<li>Reduce delay in initially showing wingpanel when there is a large number of notifications</li>\n<li>Reduce delay in clearing all notifications when there is a large number of notifications</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
         "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/6.0.5"
-      },
-      {
-        "version": "6.0.4",
-        "release_date": "2021-12-17T18:34:52",
-        "title": "wingpanel-indicator-notifications 6.0.4 Released",
-        "body": "<p>Fixes:</p>\n<ul>\n<li>Fix delayed startup</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/6.0.4"
       },
       {
         "version": "6.0.3",
