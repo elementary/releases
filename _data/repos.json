@@ -6212,6 +6212,13 @@
         "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/7.0.0"
       },
       {
+        "version": "6.1.0",
+        "release_date": "2021-09-22T20:37:25",
+        "title": "Mouse & Touchpad Settings 6.1.0 Released",
+        "body": "New features:\r\n* New toggle for “Double-tap and move to drag”\r\n\r\nMinor updates:\r\n* Updated translations",
+        "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/6.1.0"
+      },
+      {
         "version": "6.0.0",
         "release_date": "2021-07-15T22:05:21",
         "title": "switchboard-plug-mouse-touchpad 6.0.0 Released",
