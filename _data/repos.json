@@ -738,13 +738,6 @@
         "href": "https://github.com/elementary/calculator/releases/tag/2.0.1"
       },
       {
-        "version": "2.0.0",
-        "release_date": "2022-05-10T20:12:35",
-        "title": "calculator 2.0.0 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Update for OS 7 and Gtk 4</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/calculator/releases/tag/2.0.0"
-      },
-      {
         "version": "1.7.2",
         "release_date": "2021-12-13T22:35:36",
         "title": "calculator 1.7.2 Released",
@@ -5671,13 +5664,6 @@
         "title": "wingpanel-indicator-nightlight 2.1.0 Released",
         "body": "<p>Show tooltip on hover</p>\n<p>Performance improvements</p>\n<p>Updated translations</p>\n",
         "href": "https://github.com/elementary/wingpanel-indicator-nightlight/releases/tag/2.1.0"
-      },
-      {
-        "version": "2.0.4",
-        "release_date": "2020-08-07T18:14:11",
-        "title": "wingpanel-indicator-nightlight 2.0.4 Released",
-        "body": "<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/wingpanel-indicator-nightlight/releases/tag/2.0.4"
       },
       {
         "version": "2.0.3",
