@@ -563,6 +563,13 @@
         "href": "https://github.com/elementary/switchboard-plug-security-privacy/releases/tag/2.2.5"
       },
       {
+        "version": "2.2.4",
+        "release_date": "2020-05-25T18:11:21",
+        "title": "switchboard-plug-security-privacy 2.2.4 Released",
+        "body": "<ul>\n<li>Translation updates</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-security-privacy/releases/tag/2.2.4"
+      },
+      {
         "version": "2.2.3",
         "release_date": "2020-04-08T20:06:40",
         "title": "switchboard-plug-security-privacy 2.2.3 Released",
