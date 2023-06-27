@@ -3237,7 +3237,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 121,
+    "new_commits": 125,
     "default_branch": "master"
   },
   {
@@ -6674,8 +6674,8 @@
         "href": "https://github.com/elementary/switchboard-plug-datetime/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 96,
-    "default_branch": "main"
+    "new_commits": 66,
+    "default_branch": "master"
   },
   {
     "name": "switchboard-plug-notifications",
