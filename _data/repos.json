@@ -522,7 +522,7 @@
       }
     ],
     "new_commits": 0,
-    "default_branch": "master"
+    "default_branch": "main"
   },
   {
     "name": "appcenter",
@@ -2733,7 +2733,7 @@
         "href": "https://github.com/elementary/icons/releases/tag/4.0.1.1"
       }
     ],
-    "new_commits": 24,
+    "new_commits": 25,
     "default_branch": "main"
   },
   {
