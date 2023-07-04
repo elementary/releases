@@ -38,7 +38,7 @@
         "href": "https://github.com/elementary/notifications/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 0,
+    "new_commits": 1,
     "default_branch": "master"
   },
   {
@@ -5547,13 +5547,6 @@
         "href": "https://github.com/elementary/switchboard-plug-printers/releases/tag/2.1.5"
       },
       {
-        "version": "2.1.4",
-        "release_date": "2018-10-09T14:36:12",
-        "title": "Switchboard Printers Plug 2.1.4 Released",
-        "body": "switchboard-plug-printers 2.1.4 is out!\r\n\r\nThis release includes updated translations and CSS fixes.",
-        "href": "https://github.com/elementary/switchboard-plug-printers/releases/tag/2.1.4"
-      },
-      {
         "version": "0.1.3",
         "release_date": "2018-06-08T13:09:39",
         "title": "Switchboard Printers Plug 0.1.3 Released",
@@ -5566,13 +5559,6 @@
         "title": "Switchboard Printers Plug 0.1.2 Released",
         "body": "switchboard-plug-printers 0.1.2 is out!\r\n\r\n## What's new:\r\n* Allow canceling halted jobs\r\n* Allow renaming printer location\r\n* Ensure that jobs can made visible\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-printers/issues?q=is%3Aclosed+milestone%3A0.1.2).",
         "href": "https://github.com/elementary/switchboard-plug-printers/releases/tag/0.1.2"
-      },
-      {
-        "version": "0.1.1",
-        "release_date": "2017-07-12T19:36:34",
-        "title": "Switchboard Printers Plug 0.1.1 Released",
-        "body": "switchboard-plug-printers 0.1.1 is out!",
-        "href": "https://github.com/elementary/switchboard-plug-printers/releases/tag/0.1.1"
       }
     ],
     "new_commits": 42,
