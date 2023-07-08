@@ -129,7 +129,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 0,
+    "new_commits": 1,
     "default_branch": "master"
   },
   {
@@ -171,7 +171,7 @@
         "href": "https://github.com/elementary/notifications/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 2,
+    "new_commits": 4,
     "default_branch": "master"
   },
   {
@@ -334,6 +334,83 @@
     ],
     "new_commits": 1,
     "default_branch": "main"
+  },
+  {
+    "name": "sideload",
+    "releases": [
+      {
+        "version": "6.2.1",
+        "release_date": "2023-06-29T18:14:04",
+        "title": "Sideload 6.2.1 Released",
+        "body": "## What's Changed\r\n* Make Open button default widget by @lenemter in https://github.com/elementary/sideload/pull/160\r\n* Fix glitches by @lenemter in https://github.com/elementary/sideload/pull/159\r\n* 6.2.1 Release Notes by @lenemter in https://github.com/elementary/sideload/pull/161\r\n* Release 6.2.1 by @danirabbit in https://github.com/elementary/sideload/pull/162\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/sideload/compare/6.2.0...6.2.1",
+        "href": "https://github.com/elementary/sideload/releases/tag/6.2.1"
+      },
+      {
+        "version": "6.2.0",
+        "release_date": "2023-04-04T17:40:13",
+        "title": "Sideload 6.2.0 released",
+        "body": "## What's Changed\r\n* MainView: update copy by @danirabbit in https://github.com/elementary/sideload/pull/151\r\n* Switch to GHCR containers by @davidmhewitt in https://github.com/elementary/sideload/pull/154\r\n* Show flatpak permission warning by @danirabbit in https://github.com/elementary/sideload/pull/153\r\n\r\n## New Contributors\r\n* @dependabot made their first contribution in https://github.com/elementary/sideload/pull/155\r\n\r\n**Full Changelog**: https://github.com/elementary/sideload/compare/6.1.0...6.2.0",
+        "href": "https://github.com/elementary/sideload/releases/tag/6.2.0"
+      },
+      {
+        "version": "6.1.0",
+        "release_date": "2022-10-24T17:10:34",
+        "title": "sideload 6.1.0 Released",
+        "body": "<ul>\n<li>Use updated Flatpak branding</li>\n<li>Badge notifications with the sideloaded app's icon</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/sideload/releases/tag/6.1.0"
+      },
+      {
+        "version": "6.0.2",
+        "release_date": "2021-09-22T20:56:34",
+        "title": "sideload 6.0.2 Released",
+        "body": "* Fix blurry app icon in multitasking view\r\n* Updated translations",
+        "href": "https://github.com/elementary/sideload/releases/tag/6.0.2"
+      },
+      {
+        "version": "6.0.1",
+        "release_date": "2021-08-26T02:19:48",
+        "title": "sideload 6.0.1 Released",
+        "body": "<ul>\n<li>Use system Flatpak runtimes for locally installed apps</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/sideload/releases/tag/6.0.1"
+      },
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-15T18:20:30",
+        "title": "sideload 6.0.0 Released",
+        "body": "<ul>\n<li>Control notifications in System Settings</li>\n<li>Offer to trash Flatpak files after installing</li>\n<li>Support dark style</li>\n<li>Support Flatpak bundle files</li>\n<li>Fix crashes on installation failure</li>\n<li>Updated translations</li>\n<li>Link to System Settings → Applications → Permissions</li>\n</ul>\n",
+        "href": "https://github.com/elementary/sideload/releases/tag/6.0.0"
+      },
+      {
+        "version": "1.1.1",
+        "release_date": "2020-05-28T23:39:24",
+        "title": "sideload 1.1.1 Released",
+        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/sideload/releases/tag/1.1.1"
+      },
+      {
+        "version": "1.1.0",
+        "release_date": "2020-04-01T20:05:38",
+        "title": "sideload 1.1.0 Released",
+        "body": "sideload 1.1.0 is out! \n\n<ul>\n<li>Show app name in the main view once it's loaded</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/sideload/releases/tag/1.1.0"
+      },
+      {
+        "version": "1.0.1",
+        "release_date": "2020-02-26T06:40:15",
+        "title": "sideload 1.0.1 Released",
+        "body": "sideload 1.0.1 is out! \n\n<ul>\n<li>Improve performance of download size calculation</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/sideload/releases/tag/1.0.1"
+      },
+      {
+        "version": "1.0.0",
+        "release_date": "2019-10-29T19:57:23",
+        "title": "sideload 1.0.0 Released",
+        "body": "sideload 1.0.0 is out! \n\nChanges:\n\n* First release. Hello world!\n",
+        "href": "https://github.com/elementary/sideload/releases/tag/1.0.0"
+      }
+    ],
+    "new_commits": 1,
+    "default_branch": "master"
   },
   {
     "name": "wingpanel-indicator-bluetooth",
@@ -1354,7 +1431,7 @@
         "href": "https://github.com/elementary/portals/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 0,
+    "new_commits": 1,
     "default_branch": "main"
   },
   {
@@ -1522,7 +1599,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 2,
+    "new_commits": 3,
     "default_branch": "main"
   },
   {
@@ -2768,7 +2845,7 @@
         "href": "https://github.com/elementary/icons/releases/tag/4.0.1.1"
       }
     ],
-    "new_commits": 25,
+    "new_commits": 26,
     "default_branch": "main"
   },
   {
@@ -3209,70 +3286,7 @@
         "href": "https://github.com/elementary/stylesheet/releases/tag/5.0.4"
       }
     ],
-    "new_commits": 29,
-    "default_branch": "master"
-  },
-  {
-    "name": "sideload",
-    "releases": [
-      {
-        "version": "6.2.0",
-        "release_date": "2023-04-04T17:40:13",
-        "title": "Sideload 6.2.0 released",
-        "body": "## What's Changed\r\n* MainView: update copy by @danirabbit in https://github.com/elementary/sideload/pull/151\r\n* Switch to GHCR containers by @davidmhewitt in https://github.com/elementary/sideload/pull/154\r\n* Show flatpak permission warning by @danirabbit in https://github.com/elementary/sideload/pull/153\r\n\r\n## New Contributors\r\n* @dependabot made their first contribution in https://github.com/elementary/sideload/pull/155\r\n\r\n**Full Changelog**: https://github.com/elementary/sideload/compare/6.1.0...6.2.0",
-        "href": "https://github.com/elementary/sideload/releases/tag/6.2.0"
-      },
-      {
-        "version": "6.1.0",
-        "release_date": "2022-10-24T17:10:34",
-        "title": "sideload 6.1.0 Released",
-        "body": "<ul>\n<li>Use updated Flatpak branding</li>\n<li>Badge notifications with the sideloaded app's icon</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/sideload/releases/tag/6.1.0"
-      },
-      {
-        "version": "6.0.2",
-        "release_date": "2021-09-22T20:56:34",
-        "title": "sideload 6.0.2 Released",
-        "body": "* Fix blurry app icon in multitasking view\r\n* Updated translations",
-        "href": "https://github.com/elementary/sideload/releases/tag/6.0.2"
-      },
-      {
-        "version": "6.0.1",
-        "release_date": "2021-08-26T02:19:48",
-        "title": "sideload 6.0.1 Released",
-        "body": "<ul>\n<li>Use system Flatpak runtimes for locally installed apps</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/sideload/releases/tag/6.0.1"
-      },
-      {
-        "version": "1.1.1",
-        "release_date": "2020-05-28T23:39:24",
-        "title": "sideload 1.1.1 Released",
-        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/sideload/releases/tag/1.1.1"
-      },
-      {
-        "version": "1.1.0",
-        "release_date": "2020-04-01T20:05:38",
-        "title": "sideload 1.1.0 Released",
-        "body": "sideload 1.1.0 is out! \n\n<ul>\n<li>Show app name in the main view once it's loaded</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/sideload/releases/tag/1.1.0"
-      },
-      {
-        "version": "1.0.1",
-        "release_date": "2020-02-26T06:40:15",
-        "title": "sideload 1.0.1 Released",
-        "body": "sideload 1.0.1 is out! \n\n<ul>\n<li>Improve performance of download size calculation</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/sideload/releases/tag/1.0.1"
-      },
-      {
-        "version": "1.0.0",
-        "release_date": "2019-10-29T19:57:23",
-        "title": "sideload 1.0.0 Released",
-        "body": "sideload 1.0.0 is out! \n\nChanges:\n\n* First release. Hello world!\n",
-        "href": "https://github.com/elementary/sideload/releases/tag/1.0.0"
-      }
-    ],
-    "new_commits": 38,
+    "new_commits": 30,
     "default_branch": "master"
   },
   {
@@ -3440,7 +3454,7 @@
         "href": "https://github.com/elementary/terminal/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 33,
+    "new_commits": 34,
     "default_branch": "master"
   },
   {
@@ -3482,7 +3496,7 @@
         "href": "https://github.com/elementary/flatpak-platform/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 12,
+    "new_commits": 13,
     "default_branch": "main"
   },
   {
@@ -4231,7 +4245,7 @@
         "href": "https://github.com/elementary/feedback/releases/tag/1.0"
       }
     ],
-    "new_commits": 39,
+    "new_commits": 40,
     "default_branch": "master"
   },
   {
@@ -4301,7 +4315,7 @@
         "href": "https://github.com/elementary/wallpapers/releases/tag/5.0"
       }
     ],
-    "new_commits": 13,
+    "new_commits": 14,
     "default_branch": "master"
   },
   {
@@ -4861,7 +4875,7 @@
         "href": "https://github.com/elementary/greeter/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 107,
+    "new_commits": 108,
     "default_branch": "master"
   },
   {
@@ -5183,7 +5197,7 @@
         "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.0"
       }
     ],
-    "new_commits": 38,
+    "new_commits": 39,
     "default_branch": "master"
   },
   {
@@ -6436,7 +6450,7 @@
         "href": "https://github.com/elementary/settings-daemon/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 56,
+    "new_commits": 57,
     "default_branch": "master"
   },
   {
@@ -6604,7 +6618,7 @@
         "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 30,
+    "new_commits": 31,
     "default_branch": "master"
   },
   {
