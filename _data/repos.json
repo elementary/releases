@@ -10,13 +10,6 @@
         "href": "https://github.com/elementary/files/releases/tag/6.4.1"
       },
       {
-        "version": "6.4.0",
-        "release_date": "2023-06-29T17:49:34",
-        "title": "Files 6.4.0 Released!",
-        "body": "## What's Changed\r\n* AbstractPropertiesDialog: replace StorageBar with Gtk.LevelBar by @danirabbit in https://github.com/elementary/files/pull/2171\r\n* Implement auto-renaming of multiple selected files by @jeremypw in https://github.com/elementary/files/pull/1999\r\n* Update POTFILES by @ryonakano in https://github.com/elementary/files/pull/2178\r\n* Silence critical warning on startup by @jeremypw in https://github.com/elementary/files/pull/2182\r\n* Improve speed of loading and display of large  folders by @jeremypw in https://github.com/elementary/files/pull/2184\r\n* BulkRename: Differentiate identical strings for translating by @lenemter in https://github.com/elementary/files/pull/2186\r\n* Get current date properly by @jeremypw in https://github.com/elementary/files/pull/2185\r\n* Fix duplicate files and other recent regressions by @jeremypw in https://github.com/elementary/files/pull/2191\r\n* Require newer meson and fix deprecations by @lenemter in https://github.com/elementary/files/pull/2196\r\n* Modernize Metainfo by @danirabbit in https://github.com/elementary/files/pull/2198\r\n* Bulk Rename: Use ModeButton for basename options by @jeremypw in https://github.com/elementary/files/pull/2201\r\n* Use active language for basename options by @jeremypw in https://github.com/elementary/files/pull/2202\r\n* Do not show externally created hidden files with no file info by @jeremypw in https://github.com/elementary/files/pull/2200\r\n* Extend File.compare_by_size to use folder item count where appropriate by @jeremypw in https://github.com/elementary/files/pull/1978\r\n* Avoid appearance of short-lived temporary files in view by @jeremypw in https://github.com/elementary/files/pull/2221\r\n* Prepare metainfo for next release by @jeremypw in https://github.com/elementary/files/pull/2217\r\n* Release 6.4.0 by @jeremypw in https://github.com/elementary/files/pull/2222\r\n\r\n## New Contributors\r\n* @lenemter made their first contribution in https://github.com/elementary/files/pull/2186\r\n\r\n**Full Changelog**: https://github.com/elementary/files/compare/6.3.1...6.4.0",
-        "href": "https://github.com/elementary/files/releases/tag/6.4.0"
-      },
-      {
         "version": "6.3.1",
         "release_date": "2023-04-05T18:02:01",
         "title": "Files 6.3.1 Released!",
@@ -36,13 +29,6 @@
         "title": "v 6.2.2",
         "body": "## What's Changed\r\n* Ensure special user directory icon used for bookmark by @jeremypw in https://github.com/elementary/files/pull/2106\r\n* CommonJob: Continue the port to Vala by @tintou in https://github.com/elementary/files/pull/2097\r\n* FileOperations: Continue the port to Vala by @tintou in https://github.com/elementary/files/pull/2109\r\n* Add action to Paste Into menu item by @jeremypw in https://github.com/elementary/files/pull/2118\r\n* AbstractDirectoryView: Change double-click setting label by @danirabbit in https://github.com/elementary/files/pull/2107\r\n* pantheon-files-cloud: Avoid crashes when disconnecting the provider by @tintou in https://github.com/elementary/files/pull/2122\r\n* Update appdata and meson.build for next release by @jeremypw in https://github.com/elementary/files/pull/2127\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/files/compare/6.2.1...6.2.2",
         "href": "https://github.com/elementary/files/releases/tag/6.2.2"
-      },
-      {
-        "version": "6.2.1",
-        "release_date": "2022-11-15T15:57:07",
-        "title": "files 6.2.1 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/files/releases/tag/6.2.1"
       },
       {
         "version": "6.2.0",
@@ -1886,7 +1872,7 @@
         "href": "https://github.com/elementary/videos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 33,
+    "new_commits": 36,
     "default_branch": "master"
   },
   {
