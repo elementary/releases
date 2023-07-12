@@ -4900,104 +4900,6 @@
     "default_branch": "master"
   },
   {
-    "name": "greeter",
-    "releases": [
-      {
-        "version": "6.1.1",
-        "release_date": "2022-11-15T19:20:57",
-        "title": "greeter 6.1.1 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/greeter/releases/tag/6.1.1"
-      },
-      {
-        "version": "6.1.0",
-        "release_date": "2022-05-10T16:52:42",
-        "title": "greeter 6.1.0 Released",
-        "body": "<p>New Features:</p>\n<ul>\n<li>Provide panel background color interface</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/greeter/releases/tag/6.1.0"
-      },
-      {
-        "version": "6.0.2",
-        "release_date": "2022-02-28T16:19:59",
-        "title": "greeter 6.0.2 Released",
-        "body": "<p>Improvements:</p>\n<ul>\n<li>Fix a random issue where Greeter does not load correctly on boot</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/greeter/releases/tag/6.0.2"
-      },
-      {
-        "version": "6.0.1",
-        "release_date": "2021-09-22T20:52:37",
-        "title": "Greeter 6.0.1 Released",
-        "body": "Improvements:\r\n* Hide clock during initial setup\r\n* Use selected accent color for logged in checkmark\r\n\r\nMinor updates:\r\n* Updated translations",
-        "href": "https://github.com/elementary/greeter/releases/tag/6.0.1"
-      },
-      {
-        "version": "6.0.0",
-        "release_date": "2021-07-14T19:41:27",
-        "title": "greeter 6.0.0 Released",
-        "body": "<ul>\n<li>Add multitouch finger tracking</li>\n<li>Add keyboard layout support</li>\n<li>New colorful avatar fallbacks</li>\n<li>Fix clock when resuming from sleep</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/greeter/releases/tag/6.0.0"
-      },
-      {
-        "version": "5.0.4",
-        "release_date": "2020-05-28T18:48:15",
-        "title": "greeter 5.0.4 Released",
-        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/greeter/releases/tag/5.0.4"
-      },
-      {
-        "version": "5.0.3",
-        "release_date": "2020-04-05T17:48:45",
-        "title": "greeter 5.0.3 Released",
-        "body": "<ul>\n<li>Fix an issue with media keys</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/greeter/releases/tag/5.0.3"
-      },
-      {
-        "version": "5.0.2",
-        "release_date": "2020-02-26T06:34:51",
-        "title": "greeter 5.0.2 Released",
-        "body": "greeter 5.0.2 is out! \n\n<ul>\n<li>Ensure that manual login is available when users are hidden</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/greeter/releases/tag/5.0.2"
-      },
-      {
-        "version": "5.0.1",
-        "release_date": "2019-10-31T21:10:21",
-        "title": "greeter 5.0.1 Released",
-        "body": "greeter 5.0.1 is out! \n\nChanges:\n\n* Save last user on attempted login\n* Handle all background aspect ratios\n* Give non-focused user cards smaller usernames\n* Better respect NumLock settings\n* Enable sounds in greeter\n* Select password text on error instead of immediately clearing it\n* Code cleanup\n* Updated translations\n",
-        "href": "https://github.com/elementary/greeter/releases/tag/5.0.1"
-      },
-      {
-        "version": "5.0",
-        "release_date": "2019-08-27T02:22:07",
-        "title": "Greeter 5.0 Released",
-        "body": "Greeter 5.0 is out!\r\n\r\nChanges:\r\n* Extensive overhaul\r\n* New card-based appearance\r\n* Improved HiDPI support\r\n* AccountsService functionality\r\n* Various bug fixes\r\n\r\nFor the full list of issues closed by this release, see [here](https://github.com/elementary/greeter/milestone/2).",
-        "href": "https://github.com/elementary/greeter/releases/tag/5.0"
-      },
-      {
-        "version": "3.3.1",
-        "release_date": "2018-11-05T22:05:52",
-        "title": "Greeter 3.3.1 Released",
-        "body": "pantheon-greeter 3.3.1 is out!\r\n\r\nThis release includes build fixes and updated translations.",
-        "href": "https://github.com/elementary/greeter/releases/tag/3.3.1"
-      },
-      {
-        "version": "3.3.0",
-        "release_date": "2018-10-02T11:50:49",
-        "title": "Greeter 3.3.0 Released",
-        "body": "pantheon-greeter 3.3.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/greeter/issues?q=is%3Aclosed+milestone%3A3.3.0).",
-        "href": "https://github.com/elementary/greeter/releases/tag/3.3.0"
-      },
-      {
-        "version": "3.2.0",
-        "release_date": "2017-09-12T05:17:56",
-        "title": "Greeter 3.2.0 Released",
-        "body": "pantheon-greeter 3.2.0 is out!\r\n\r\nThis release is mostly code cleanup.",
-        "href": "https://github.com/elementary/greeter/releases/tag/3.2.0"
-      }
-    ],
-    "new_commits": 108,
-    "default_branch": "master"
-  },
-  {
     "name": "photos",
     "releases": [
       {
@@ -6550,6 +6452,90 @@
     ],
     "new_commits": 49,
     "default_branch": "main"
+  },
+  {
+    "name": "greeter",
+    "releases": [
+      {
+        "version": "6.1.0",
+        "release_date": "2022-05-10T16:52:42",
+        "title": "greeter 6.1.0 Released",
+        "body": "<p>New Features:</p>\n<ul>\n<li>Provide panel background color interface</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/greeter/releases/tag/6.1.0"
+      },
+      {
+        "version": "6.0.1",
+        "release_date": "2021-09-22T20:52:37",
+        "title": "Greeter 6.0.1 Released",
+        "body": "Improvements:\r\n* Hide clock during initial setup\r\n* Use selected accent color for logged in checkmark\r\n\r\nMinor updates:\r\n* Updated translations",
+        "href": "https://github.com/elementary/greeter/releases/tag/6.0.1"
+      },
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-14T19:41:27",
+        "title": "greeter 6.0.0 Released",
+        "body": "<ul>\n<li>Add multitouch finger tracking</li>\n<li>Add keyboard layout support</li>\n<li>New colorful avatar fallbacks</li>\n<li>Fix clock when resuming from sleep</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/greeter/releases/tag/6.0.0"
+      },
+      {
+        "version": "5.0.4",
+        "release_date": "2020-05-28T18:48:15",
+        "title": "greeter 5.0.4 Released",
+        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/greeter/releases/tag/5.0.4"
+      },
+      {
+        "version": "5.0.3",
+        "release_date": "2020-04-05T17:48:45",
+        "title": "greeter 5.0.3 Released",
+        "body": "<ul>\n<li>Fix an issue with media keys</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/greeter/releases/tag/5.0.3"
+      },
+      {
+        "version": "5.0.2",
+        "release_date": "2020-02-26T06:34:51",
+        "title": "greeter 5.0.2 Released",
+        "body": "greeter 5.0.2 is out! \n\n<ul>\n<li>Ensure that manual login is available when users are hidden</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/greeter/releases/tag/5.0.2"
+      },
+      {
+        "version": "5.0.1",
+        "release_date": "2019-10-31T21:10:21",
+        "title": "greeter 5.0.1 Released",
+        "body": "greeter 5.0.1 is out! \n\nChanges:\n\n* Save last user on attempted login\n* Handle all background aspect ratios\n* Give non-focused user cards smaller usernames\n* Better respect NumLock settings\n* Enable sounds in greeter\n* Select password text on error instead of immediately clearing it\n* Code cleanup\n* Updated translations\n",
+        "href": "https://github.com/elementary/greeter/releases/tag/5.0.1"
+      },
+      {
+        "version": "5.0",
+        "release_date": "2019-08-27T02:22:07",
+        "title": "Greeter 5.0 Released",
+        "body": "Greeter 5.0 is out!\r\n\r\nChanges:\r\n* Extensive overhaul\r\n* New card-based appearance\r\n* Improved HiDPI support\r\n* AccountsService functionality\r\n* Various bug fixes\r\n\r\nFor the full list of issues closed by this release, see [here](https://github.com/elementary/greeter/milestone/2).",
+        "href": "https://github.com/elementary/greeter/releases/tag/5.0"
+      },
+      {
+        "version": "3.3.1",
+        "release_date": "2018-11-05T22:05:52",
+        "title": "Greeter 3.3.1 Released",
+        "body": "pantheon-greeter 3.3.1 is out!\r\n\r\nThis release includes build fixes and updated translations.",
+        "href": "https://github.com/elementary/greeter/releases/tag/3.3.1"
+      },
+      {
+        "version": "3.3.0",
+        "release_date": "2018-10-02T11:50:49",
+        "title": "Greeter 3.3.0 Released",
+        "body": "pantheon-greeter 3.3.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/greeter/issues?q=is%3Aclosed+milestone%3A3.3.0).",
+        "href": "https://github.com/elementary/greeter/releases/tag/3.3.0"
+      },
+      {
+        "version": "3.2.0",
+        "release_date": "2017-09-12T05:17:56",
+        "title": "Greeter 3.2.0 Released",
+        "body": "pantheon-greeter 3.2.0 is out!\r\n\r\nThis release is mostly code cleanup.",
+        "href": "https://github.com/elementary/greeter/releases/tag/3.2.0"
+      }
+    ],
+    "new_commits": 167,
+    "default_branch": "master"
   },
   {
     "name": "pantheon-agent-polkit",
