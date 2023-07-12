@@ -367,7 +367,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 4,
+    "new_commits": 5,
     "default_branch": "main"
   },
   {
@@ -3615,7 +3615,7 @@
         "href": "https://github.com/elementary/flatpak-platform/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 18,
+    "new_commits": 23,
     "default_branch": "main"
   },
   {
@@ -4154,7 +4154,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 279,
+    "new_commits": 289,
     "default_branch": "master"
   },
   {
