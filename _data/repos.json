@@ -2978,13 +2978,6 @@
         "href": "https://github.com/elementary/onboarding/releases/tag/7.1.0"
       },
       {
-        "version": "7.0.1",
-        "release_date": "2022-10-21T22:09:05",
-        "title": "onboarding 7.0.1 Released",
-        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/onboarding/releases/tag/7.0.1"
-      },
-      {
         "version": "7.0.0",
         "release_date": "2022-05-19T20:26:15",
         "title": "onboarding 7.0.0 Released",
