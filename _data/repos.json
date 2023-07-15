@@ -3615,7 +3615,7 @@
         "href": "https://github.com/elementary/flatpak-platform/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 26,
+    "new_commits": 27,
     "default_branch": "main"
   },
   {
@@ -7190,13 +7190,6 @@
         "title": "Fixes to changelog (autogenerate)",
         "body": "Make the changelog generate on it's own.\n",
         "href": "https://github.com/elementary/debian-test-package/releases/tag/v1.0.1"
-      },
-      {
-        "version": "v1.0.0",
-        "release_date": "2015-06-13T13:34:10",
-        "title": "jfoarw",
-        "body": "jfslkqjtköweljt\nthrqeiojtowje\n",
-        "href": "https://github.com/elementary/debian-test-package/releases/tag/v1.0.0"
       },
       {
         "version": "v1.0",
