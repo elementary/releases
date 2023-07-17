@@ -3069,13 +3069,6 @@
         "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/6.3.0"
       },
       {
-        "version": "6.2.0",
-        "release_date": "2022-07-03T07:56:14",
-        "title": "switchboard-plug-pantheon-shell 6.2.0 Released",
-        "body": "<p>New features:</p>\n<ul>\n<li>Set custom Terminal commands for each hotcorner</li>\n<li>Redesigned Appearance and Multitasking views</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/6.2.0"
-      },
-      {
         "version": "6.1.0",
         "release_date": "2021-11-23T21:26:47",
         "title": "switchboard-plug-pantheon-shell 6.1.0 Released",
