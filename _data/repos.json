@@ -500,7 +500,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 13,
+    "new_commits": 14,
     "default_branch": "master"
   },
   {
@@ -5755,6 +5755,13 @@
         "title": "Wingpanel Power Indicator 2.1.3 Released",
         "body": "wingpanel-power-indicator 2.1.3 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/wingpanel-indicator-power/issues?q=is%3Aclosed+milestone%3A2.1.3).",
         "href": "https://github.com/elementary/wingpanel-indicator-power/releases/tag/2.1.3"
+      },
+      {
+        "version": "2.1.2",
+        "release_date": "2018-06-19T01:15:42",
+        "title": "Wingpanel Power Indicator 2.1.2 Released",
+        "body": "wingpanel-indicator-power 2.1.2 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/wingpanel-indicator-power/issues?q=is%3Aclosed+milestone%3A2.1.2).",
+        "href": "https://github.com/elementary/wingpanel-indicator-power/releases/tag/2.1.2"
       },
       {
         "version": "2.1.1",
