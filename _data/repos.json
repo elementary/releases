@@ -2705,7 +2705,7 @@
         "href": "https://github.com/elementary/capnet-assist/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 4,
+    "new_commits": 6,
     "default_branch": "master"
   },
   {
@@ -3305,6 +3305,13 @@
         "title": "Stylesheet 6.1.0 Released",
         "body": "  <ul>\r\n    <li>Support for Hdy.Tabbar</li>\r\n    <li>Fix accent class for Gtk.Scale</li>\r\n    <li>Flat titlebars inherit background color for views and sidebars</li>\r\n  </ul>",
         "href": "https://github.com/elementary/stylesheet/releases/tag/6.1.0"
+      },
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-15T22:08:57",
+        "title": "stylesheet 6.0.0 Released",
+        "body": "\n",
+        "href": "https://github.com/elementary/stylesheet/releases/tag/6.0.0"
       },
       {
         "version": "5.4.2",
