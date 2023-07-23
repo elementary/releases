@@ -1151,13 +1151,6 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/3.0"
       },
       {
-        "version": "0.2.9",
-        "release_date": "2018-03-02T12:24:42",
-        "title": "AppCenter 0.2.9 Released",
-        "body": "AppCenter 0.2.9 is out!\r\n\r\nThis release includes several [bug fixes](https://github.com/elementary/appcenter/issues?q=is%3Aclosed+milestone%3A0.2.9).",
-        "href": "https://github.com/elementary/appcenter/releases/tag/0.2.9"
-      },
-      {
         "version": "0.2.8",
         "release_date": "2018-01-25T17:00:38",
         "title": "AppCenter 0.2.8 Released",
@@ -1198,13 +1191,6 @@
         "title": "AppCenter 0.2.3 Released",
         "body": "AppCenter 0.2.3 is out!\r\n\r\nThis release includes several [bug fixes](https://github.com/elementary/appcenter/milestone/5?closed=1).",
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2.3"
-      },
-      {
-        "version": "0.2.2",
-        "release_date": "2017-05-21T23:17:29",
-        "title": "AppCenter 0.2.2 Released",
-        "body": "AppCenter 0.2.2 is out!",
-        "href": "https://github.com/elementary/appcenter/releases/tag/0.2.2"
       },
       {
         "version": "0.2.1",
