@@ -1900,6 +1900,13 @@
         "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/6.0.7"
       },
       {
+        "version": "6.0.6",
+        "release_date": "2022-07-11T20:03:51",
+        "title": "wingpanel-indicator-notifications 6.0.6 Released",
+        "body": "<p>Fixes:</p>\n<ul>\n<li>Clear All button no longer leaves undeletable notifications</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/6.0.6"
+      },
+      {
         "version": "6.0.5",
         "release_date": "2022-07-03T17:23:50",
         "title": "wingpanel-indicator-notifications 6.0.5 Released",
@@ -4299,13 +4306,6 @@
         "title": "About Settings 6.2.0 Released",
         "body": "## What's Changed\r\n* Handle Ryzen CPU and AMD GPU vendor string and break on first regex match by @vjr in https://github.com/elementary/switchboard-plug-about/pull/250\r\n* Better memory and storage info by @vjr in https://github.com/elementary/switchboard-plug-about/pull/251\r\n* Reboot to Firmware Setup by @meisenzahl in https://github.com/elementary/switchboard-plug-about/pull/253\r\n* Add meson option for overlaying logo on wallpaper by @bobby285271 in https://github.com/elementary/switchboard-plug-about/pull/236\r\n* Use /usr/lib/upstream-os-release instead of /etc/upstream-release/lsb-release by @tintou in https://github.com/elementary/switchboard-plug-about/pull/259\r\n* Custom layperson-friendly format size by @vjr in https://github.com/elementary/switchboard-plug-about/pull/252\r\n\r\n**Full Changelog**: https://github.com/elementary/switchboard-plug-about/compare/6.1.0...6.2.0",
         "href": "https://github.com/elementary/switchboard-plug-about/releases/tag/6.2.0"
-      },
-      {
-        "version": "6.1.0",
-        "release_date": "2022-04-06T18:14:50",
-        "title": "switchboard-plug-about 6.1.0 Released",
-        "body": "<p>New features:</p>\n<ul>\n<li>Added support for dark style manufacturer logos</li>\n<li>Added support for offline firmware updates</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-about/releases/tag/6.1.0"
       },
       {
         "version": "6.0.1",
