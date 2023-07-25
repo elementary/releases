@@ -535,6 +535,13 @@
         "href": "https://github.com/elementary/installer/releases/tag/1.0.6"
       },
       {
+        "version": "1.0.5",
+        "release_date": "2021-12-17T19:30:23",
+        "title": "installer 1.0.5 Released",
+        "body": "\n",
+        "href": "https://github.com/elementary/installer/releases/tag/1.0.5"
+      },
+      {
         "version": "1.0.4",
         "release_date": "2021-12-13T22:34:35",
         "title": "installer 1.0.4 Released",
