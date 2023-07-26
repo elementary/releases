@@ -731,6 +731,13 @@
         "href": "https://github.com/elementary/installer/releases/tag/1.0.3"
       },
       {
+        "version": "1.0.2",
+        "release_date": "2021-08-20T21:33:08",
+        "title": "installer 1.0.2 Released",
+        "body": "\n",
+        "href": "https://github.com/elementary/installer/releases/tag/1.0.2"
+      },
+      {
         "version": "1.0.1",
         "release_date": "2021-07-29T19:26:54",
         "title": "installer 1.0.1 Released",
@@ -3790,7 +3797,7 @@
         "href": "https://github.com/elementary/icons/releases/tag/4.0.1.1"
       }
     ],
-    "new_commits": 48,
+    "new_commits": 51,
     "default_branch": "main"
   },
   {
