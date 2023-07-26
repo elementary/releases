@@ -3489,13 +3489,6 @@
         "href": "https://github.com/elementary/capnet-assist/releases/tag/2.4.0"
       },
       {
-        "version": "2.3.0",
-        "release_date": "2021-07-13T23:27:59",
-        "title": "capnet-assist 2.3.0 Released",
-        "body": "<ul>\n<li>Dark style support</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/capnet-assist/releases/tag/2.3.0"
-      },
-      {
         "version": "2.2.5",
         "release_date": "2020-04-08T20:31:34",
         "title": "capnet-assist 2.2.5 Released",
