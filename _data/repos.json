@@ -2019,7 +2019,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 21,
+    "new_commits": 25,
     "default_branch": "master"
   },
   {
@@ -3797,7 +3797,7 @@
         "href": "https://github.com/elementary/icons/releases/tag/4.0.1.1"
       }
     ],
-    "new_commits": 53,
+    "new_commits": 54,
     "default_branch": "main"
   },
   {
@@ -3972,7 +3972,7 @@
         "href": "https://github.com/elementary/mail/releases/tag/1.0.6"
       }
     ],
-    "new_commits": 231,
+    "new_commits": 234,
     "default_branch": "master"
   },
   {
