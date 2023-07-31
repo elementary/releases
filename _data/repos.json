@@ -752,7 +752,7 @@
         "href": "https://github.com/elementary/installer/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 21,
+    "new_commits": 22,
     "default_branch": "master"
   },
   {
@@ -2285,6 +2285,13 @@
         "href": "https://github.com/elementary/switchboard-plug-applications/releases/tag/6.0.0"
       },
       {
+        "version": "2.1.7",
+        "release_date": "2020-04-08T20:13:26",
+        "title": "switchboard-plug-applications 2.1.7 Released",
+        "body": "<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/switchboard-plug-applications/releases/tag/2.1.7"
+      },
+      {
         "version": "2.1.6",
         "release_date": "2019-11-15T22:17:50",
         "title": "switchboard-plug-applications 2.1.6 Released",
@@ -2299,11 +2306,25 @@
         "href": "https://github.com/elementary/switchboard-plug-applications/releases/tag/2.1.5"
       },
       {
+        "version": "2.1.4",
+        "release_date": "2018-10-16T00:59:53",
+        "title": "Switchboard Applications Plug 2.1.4 Released",
+        "body": "switchboard-plug-applications 2.1.4 is out!\r\n\r\nThis release includes updated translations.\r\n",
+        "href": "https://github.com/elementary/switchboard-plug-applications/releases/tag/2.1.4"
+      },
+      {
         "version": "0.1.3.1",
         "release_date": "2018-06-22T07:58:10",
         "title": "Switchboard Applications Plug 0.1.3.1 Released",
         "body": "switchboard-plug-applications 0.1.3.1 is out!\r\n\r\nThis release includes the following changes:\r\n* Problematic AppData character removed\r\n* New translations",
         "href": "https://github.com/elementary/switchboard-plug-applications/releases/tag/0.1.3.1"
+      },
+      {
+        "version": "0.1.3",
+        "release_date": "2018-06-07T13:18:19",
+        "title": "Switchboard Applications Plug 0.1.3 Released",
+        "body": "switchboard-plug-applications 0.1.3 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-applications/issues?q=is%3Aclosed+milestone%3A0.1.3).",
+        "href": "https://github.com/elementary/switchboard-plug-applications/releases/tag/0.1.3"
       },
       {
         "version": "0.1.2",
