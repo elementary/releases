@@ -276,7 +276,7 @@
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 20,
+    "new_commits": 21,
     "default_branch": "master"
   },
   {
@@ -2691,6 +2691,13 @@
         "href": "https://github.com/elementary/action-appcenter-review-checklist/releases/tag/v1.0.3"
       },
       {
+        "version": "v1.0.2",
+        "release_date": "2023-06-05T16:32:05",
+        "title": "v1.0.2",
+        "body": "## [1.0.2](https://github.com/elementary/action-appcenter-review-checklist/compare/v1.0.1...v1.0.2) (2023-06-05)\n\n\n### Bug Fixes\n\n* update dependencies ([355231b](https://github.com/elementary/action-appcenter-review-checklist/commit/355231b8ecd33f5ff3b2737c6b99d8c49947cf55))\n\n\n\n",
+        "href": "https://github.com/elementary/action-appcenter-review-checklist/releases/tag/v1.0.2"
+      },
+      {
         "version": "v1.0.1",
         "release_date": "2021-11-17T04:43:45",
         "title": "v1.0.1",
@@ -2992,7 +2999,7 @@
         "href": "https://github.com/elementary/switchboard-plug-security-privacy/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 36,
+    "new_commits": 37,
     "default_branch": "master"
   },
   {
@@ -3790,7 +3797,7 @@
         "href": "https://github.com/elementary/icons/releases/tag/4.0.1.1"
       }
     ],
-    "new_commits": 54,
+    "new_commits": 55,
     "default_branch": "main"
   },
   {
