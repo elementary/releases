@@ -2691,13 +2691,6 @@
         "href": "https://github.com/elementary/action-appcenter-review-checklist/releases/tag/v1.0.3"
       },
       {
-        "version": "v1.0.2",
-        "release_date": "2023-06-05T16:32:05",
-        "title": "v1.0.2",
-        "body": "## [1.0.2](https://github.com/elementary/action-appcenter-review-checklist/compare/v1.0.1...v1.0.2) (2023-06-05)\n\n\n### Bug Fixes\n\n* update dependencies ([355231b](https://github.com/elementary/action-appcenter-review-checklist/commit/355231b8ecd33f5ff3b2737c6b99d8c49947cf55))\n\n\n\n",
-        "href": "https://github.com/elementary/action-appcenter-review-checklist/releases/tag/v1.0.2"
-      },
-      {
         "version": "v1.0.1",
         "release_date": "2021-11-17T04:43:45",
         "title": "v1.0.1",
