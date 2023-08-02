@@ -4112,13 +4112,6 @@
         "href": "https://github.com/elementary/stylesheet/releases/tag/7.2.0"
       },
       {
-        "version": "7.1.0",
-        "release_date": "2023-03-25T02:49:27",
-        "title": "Stylesheet 7.1.0 Released!",
-        "body": "## What's Changed\r\n* actions/checkout@v3 by @meisenzahl in https://github.com/elementary/stylesheet/pull/1238\r\n* Fixes for Epiphany by @Exalm in https://github.com/elementary/stylesheet/pull/1241\r\n* GTK4: Support `.keyboard-activating` class for buttons by @lenemter in https://github.com/elementary/stylesheet/pull/1246\r\n* Switch to GHCR containers by @davidmhewitt in https://github.com/elementary/stylesheet/pull/1247\r\n* Adw.PreferencesWindow by @danirabbit in https://github.com/elementary/stylesheet/pull/1245\r\n* Add release notes for 7.1.0 by @danirabbit in https://github.com/elementary/stylesheet/pull/1249\r\n* Release 7.1.0 by @danirabbit in https://github.com/elementary/stylesheet/pull/1250\r\n\r\n## New Contributors\r\n* @Exalm made their first contribution in https://github.com/elementary/stylesheet/pull/1241\r\n* @lenemter made their first contribution in https://github.com/elementary/stylesheet/pull/1246\r\n* @davidmhewitt made their first contribution in https://github.com/elementary/stylesheet/pull/1247\r\n\r\n**Full Changelog**: https://github.com/elementary/stylesheet/compare/7.0.1...7.1.0",
-        "href": "https://github.com/elementary/stylesheet/releases/tag/7.1.0"
-      },
-      {
         "version": "7.0.1",
         "release_date": "2022-10-10T23:49:51",
         "title": "stylesheet 7.0.1 Released",
