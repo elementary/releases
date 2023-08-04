@@ -213,7 +213,7 @@
         "href": "https://github.com/elementary/mail/releases/tag/1.0.6"
       }
     ],
-    "new_commits": 25,
+    "new_commits": 32,
     "default_branch": "master"
   },
   {
@@ -2775,6 +2775,13 @@
         "href": "https://github.com/elementary/granite/releases/tag/5.5.0"
       },
       {
+        "version": "5.4.0",
+        "release_date": "2020-04-29T22:16:12",
+        "title": "granite 5.4.0 Released",
+        "body": "<p>New features:</p>\n<ul>\n<li>New Settings class to share Pantheon desktop settings with apps</li>\n<li>Introduced Settings.prefers_color_scheme to get a user's color scheme preference, i.e. for a dark style</li>\n</ul>\n<p>Deprecations:</p>\n<ul>\n<li>It is now recommended to use GLib.Settings instead of Granite.Services.Settings</li>\n</ul>\n",
+        "href": "https://github.com/elementary/granite/releases/tag/5.4.0"
+      },
+      {
         "version": "5.3.1",
         "release_date": "2020-04-02T00:21:23",
         "title": "granite 5.3.1 Released",
@@ -2829,6 +2836,20 @@
         "title": "Granite 5.2.0 Released",
         "body": "Granite 5.2.0 is out!\r\n\r\nChanges:\r\n* Added `Granite.STYLE_CLASS_CHECKERBOARD`\r\n* Added Accel utilities:\r\n  * `accel_to_string`, takes something like \"<Super>Right\" and returns \"⌘ + →\"\r\n  * `markup_accel_tooltip`, takes a description and an accel string array and returns the markup for tooltips\r\n* DateTime: use `io.elementary.desktop.wingpanel.datetime` for settings instead of `org.gnome.desktop.interface`\r\n* Updated translations",
         "href": "https://github.com/elementary/granite/releases/tag/5.2.0"
+      },
+      {
+        "version": "5.1.0",
+        "release_date": "2018-08-23T23:54:44",
+        "title": "Granite 5.1.0 Released",
+        "body": "Granite 5.1.0 is out!\r\n\r\nChanges:\r\n* Add Granite.ModeSwitch\r\n* Deprecate Granite.Application\r\n* SourceList: Don't propagate right click\r\n* DateTime: Add commas in date format\r\n* Improved translations",
+        "href": "https://github.com/elementary/granite/releases/tag/5.1.0"
+      },
+      {
+        "version": "5.0",
+        "release_date": "2018-06-05T07:59:34",
+        "title": "Granite 5.0 Released",
+        "body": "Granite 5.0 is out!\r\n\r\nThis list of issues closed by this release can be found [here](https://github.com/elementary/granite/issues?q=is%3Aclosed+milestone%3A5.0).",
+        "href": "https://github.com/elementary/granite/releases/tag/5.0"
       },
       {
         "version": "0.5",
