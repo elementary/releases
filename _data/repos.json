@@ -3727,20 +3727,6 @@
         "href": "https://github.com/elementary/capnet-assist/releases/tag/2.2.5"
       },
       {
-        "version": "2.2.4",
-        "release_date": "2019-11-20T16:40:39",
-        "title": "capnet-assist 2.2.4 Released",
-        "body": "capnet-assist 2.2.4 is out! \n\nChanges:\n\n* Updated translations\n",
-        "href": "https://github.com/elementary/capnet-assist/releases/tag/2.2.4"
-      },
-      {
-        "version": "2.2.3",
-        "release_date": "2019-02-01T15:07:29",
-        "title": "Captive Portal Assistant 2.2.3 Released",
-        "body": "Captive Portal Assistant 2.2.3 is out!\r\n\r\nChanges:\r\n* Updated translations",
-        "href": "https://github.com/elementary/capnet-assist/releases/tag/2.2.3"
-      },
-      {
         "version": "2.2.2",
         "release_date": "2018-10-15T23:19:38",
         "title": "Captive Portal Assistant 2.2.2 Released",
