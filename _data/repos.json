@@ -1879,6 +1879,13 @@
         "href": "https://github.com/elementary/sideload/releases/tag/6.1.0"
       },
       {
+        "version": "6.0.2",
+        "release_date": "2021-09-22T20:56:34",
+        "title": "sideload 6.0.2 Released",
+        "body": "* Fix blurry app icon in multitasking view\r\n* Updated translations",
+        "href": "https://github.com/elementary/sideload/releases/tag/6.0.2"
+      },
+      {
         "version": "6.0.1",
         "release_date": "2021-08-26T02:19:48",
         "title": "sideload 6.0.1 Released",
