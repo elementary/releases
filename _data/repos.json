@@ -2901,6 +2901,13 @@
         "href": "https://github.com/elementary/granite/releases/tag/6.2.0"
       },
       {
+        "version": "6.1.2",
+        "release_date": "2021-10-25T18:46:08",
+        "title": "Granite 6.1.2",
+        "body": "<p>Fixes:</p>\r\n<ul>\r\n<li>Use values from the Settings Portal when possible</li>\r\n<li>Disable horizontal scrolling by default in SettingsPage</li>\r\n<li>Updated translations</li>\r\n</ul>",
+        "href": "https://github.com/elementary/granite/releases/tag/6.1.2"
+      },
+      {
         "version": "6.1.1",
         "release_date": "2021-08-25T22:06:34",
         "title": "granite 6.1.1 Released",
@@ -3746,13 +3753,6 @@
         "title": "camera 6.1.0 Released",
         "body": "<p>New features:</p>\n<ul>\n<li>Take a photo or video on secondary-click</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Ensure brightness, contrast, and mirror continue working after taking a photo</li>\n<li>Wider hardware compatibility (e.g. StarBook Mk V)</li>\n<li>Ensure photos saved properly</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Improved performance and reliability</li>\n<li>Updated translations</li>\n</ul>\n",
         "href": "https://github.com/elementary/camera/releases/tag/6.1.0"
-      },
-      {
-        "version": "6.0.3",
-        "release_date": "2021-12-13T22:23:22",
-        "title": "camera 6.0.3 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Update to elementary runtime 6.1</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/camera/releases/tag/6.0.3"
       },
       {
         "version": "6.0.2",
