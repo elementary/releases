@@ -7085,6 +7085,13 @@
         "title": "Session Settings 5.0.1 Released",
         "body": "`pantheon-xsession-setting` 5.0.1 is out!\r\n\r\nThis release adapts the Cerbere symlink to changes found in Cerbere 0.2.3.",
         "href": "https://github.com/elementary/session-settings/releases/tag/5.0.1"
+      },
+      {
+        "version": "5.0",
+        "release_date": "2018-05-23T13:13:58",
+        "title": "Session Settings 5.0 Released",
+        "body": "`pantheon-xsession-settings` 5.0 is out!",
+        "href": "https://github.com/elementary/session-settings/releases/tag/5.0"
       }
     ],
     "new_commits": 8,
