@@ -1158,7 +1158,7 @@
         "href": "https://github.com/elementary/calendar/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 1,
+    "new_commits": 3,
     "default_branch": "master"
   },
   {
@@ -2899,13 +2899,6 @@
         "title": "granite 6.2.0 Released",
         "body": "<p>New Features:</p>\n<ul>\n<li>min_length property for Granite.ValidatedEntry</li>\n<li>Granite.HyperTextView for navigatable URLs in text views</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Prevent crashing on environments without dark style preference support</li>\n</ul>\n",
         "href": "https://github.com/elementary/granite/releases/tag/6.2.0"
-      },
-      {
-        "version": "6.1.2",
-        "release_date": "2021-10-25T18:46:08",
-        "title": "Granite 6.1.2",
-        "body": "<p>Fixes:</p>\r\n<ul>\r\n<li>Use values from the Settings Portal when possible</li>\r\n<li>Disable horizontal scrolling by default in SettingsPage</li>\r\n<li>Updated translations</li>\r\n</ul>",
-        "href": "https://github.com/elementary/granite/releases/tag/6.1.2"
       },
       {
         "version": "6.1.1",
