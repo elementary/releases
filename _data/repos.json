@@ -1186,7 +1186,7 @@
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 37,
+    "new_commits": 41,
     "default_branch": "master"
   },
   {
@@ -1432,167 +1432,6 @@
       }
     ],
     "new_commits": 5,
-    "default_branch": "master"
-  },
-  {
-    "name": "calendar",
-    "releases": [
-      {
-        "version": "7.0.0",
-        "release_date": "2023-07-24T15:36:22",
-        "title": "Calendar 7.0.0 Released",
-        "body": "## What's Changed\r\n* Add support for Evolution Data Server 3.46 by @tintou in https://github.com/elementary/calendar/pull/758\r\n* actions: Fix trigger syntax by @davidmhewitt in https://github.com/elementary/calendar/pull/772\r\n* Update flatpak actions to new namespace by @davidmhewitt in https://github.com/elementary/calendar/pull/775\r\n* Fix meson warning for run_command by @turbobastii in https://github.com/elementary/calendar/pull/762\r\n* Require newer meson and fix deprecations by @lenemter in https://github.com/elementary/calendar/pull/783\r\n* Allow to fallback to statically linked libchamplain by @tintou in https://github.com/elementary/calendar/pull/787\r\n* Flatpak: Create Autostart File Via Background Portal by @Marukesu in https://github.com/elementary/calendar/pull/681\r\n* Metainfo Improvements by @danirabbit in https://github.com/elementary/calendar/pull/789\r\n* Flatpak Updates by @danirabbit in https://github.com/elementary/calendar/pull/790\r\n* Application: Force use of portals by @danirabbit in https://github.com/elementary/calendar/pull/717\r\n* Style updates by @leolost2605 in https://github.com/elementary/calendar/pull/780\r\n\r\n## New Contributors\r\n* @davidmhewitt made their first contribution in https://github.com/elementary/calendar/pull/772\r\n* @dependabot made their first contribution in https://github.com/elementary/calendar/pull/774\r\n* @turbobastii made their first contribution in https://github.com/elementary/calendar/pull/762\r\n* @lenemter made their first contribution in https://github.com/elementary/calendar/pull/783\r\n* @leolost2605 made their first contribution in https://github.com/elementary/calendar/pull/780\r\n\r\n**Full Changelog**: https://github.com/elementary/calendar/compare/6.1.2...7.0.0",
-        "href": "https://github.com/elementary/calendar/releases/tag/7.0.0"
-      },
-      {
-        "version": "6.1.2",
-        "release_date": "2022-11-15T19:30:59",
-        "title": "calendar 6.1.2 Released",
-        "body": "<p>Minor Updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/calendar/releases/tag/6.1.2"
-      },
-      {
-        "version": "6.1.1",
-        "release_date": "2022-05-18T04:43:29",
-        "title": "calendar 6.1.1 Released",
-        "body": "<p>Minor Updates:</p>\n<ul>\n<li>Updated app icon</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/calendar/releases/tag/6.1.1"
-      },
-      {
-        "version": "6.1.0",
-        "release_date": "2022-01-21T17:38:38",
-        "title": "calendar 6.1.0 Released",
-        "body": "<p>Features:</p>\n<ul>\n<li>Ask for confirmation before deleting events</li>\n<li>Follow email and web links in the event description with Control + Click</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Disabled checkbox \"Mark as default calendar\" in calendar settings, if the calendar is read-only</li>\n<li>Removed no longer needed sandbox permission for accounts service</li>\n<li>Fixed potential memory leak</li>\n</ul>\n",
-        "href": "https://github.com/elementary/calendar/releases/tag/6.1.0"
-      },
-      {
-        "version": "6.0.3",
-        "release_date": "2021-10-26T17:57:07",
-        "title": "Calendar 6.0.3 Released",
-        "body": "<p>Fixes:</p>\r\n<ul>\r\n<li>Ensure Calendar runs in the background on startup</li>\r\n<li>Fix memory leak when getting timezone information</li>\r\n<li>Reliably read Windows-style timezones</li>\r\n</ul>\r\n<p>Minor Updates:</p>\r\n<ul>\r\n<li>Updated translations</li>\r\n</ul>",
-        "href": "https://github.com/elementary/calendar/releases/tag/6.0.3"
-      },
-      {
-        "version": "6.0.2",
-        "release_date": "2021-09-22T20:45:44",
-        "title": "Calendar 6.0.2 Released",
-        "body": "Fixes:\r\n* Fix notification icons in the notification indicator\r\n* Fix an issue where event timezones were overwritten\r\n* Ensure Calendar is launched when notifications are clicked\r\n\r\nMinor Updates:\r\n* Updated translations",
-        "href": "https://github.com/elementary/calendar/releases/tag/6.0.2"
-      },
-      {
-        "version": "6.0.1",
-        "release_date": "2021-08-26T21:11:55",
-        "title": "calendar 6.0.1 Released",
-        "body": "<p>Fixes:</p>\n<ul>\n<li>Fix broken calendar color with some online providers</li>\n<li>Fix an issue with some all-day events</li>\n</ul>\n<p>Minor Updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/calendar/releases/tag/6.0.1"
-      },
-      {
-        "version": "6.0.0",
-        "release_date": "2021-07-21T02:56:10",
-        "title": "calendar 6.0.0 Released",
-        "body": "<p>New Features:</p>\n<ul>\n<li>Import ICS files from the gear menu</li>\n<li>Support the dark style</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Properly show events on the last day of the month</li>\n<li>Fix end times for all-day events</li>\n<li>Notify for all alarms on an event</li>\n</ul>\n<p>Minor Updates:</p>\n<ul>\n<li>Improved offline support</li>\n<li>New colorful avatar fallbacks</li>\n<li>Include \"film\" as an event icon keyword</li>\n<li>Add Mint and Bubblegum to calendar color chooser</li>\n<li>Link to Online Accounts settings in the gear menu</li>\n<li>Performance improvements</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/calendar/releases/tag/6.0.0"
-      },
-      {
-        "version": "5.1.1",
-        "release_date": "2020-10-08T20:26:30",
-        "title": "calendar 5.1.1 Released",
-        "body": "<p>Minor Updates:</p>\n<ul>\n<li>Fix an issue where new events could appear twice in Calendar</li>\n<li>\"Mark as default calendar\" box is now correctly checked when editing a calendar</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/calendar/releases/tag/5.1.1"
-      },
-      {
-        "version": "5.1.0",
-        "release_date": "2020-09-03T21:57:16",
-        "title": "calendar 5.1.0 Released",
-        "body": "<p>Improvements:</p>\n<ul>\n<li>Allow modification of recurring events</li>\n<li>Improve handling of week start day</li>\n<li>Fix timezone errors with all-day events</li>\n</ul>\n<p>Minor Updates:</p>\n<ul>\n<li>Don't resize the sidebar when resizing the window</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/calendar/releases/tag/5.1.0"
-      },
-      {
-        "version": "5.0.6",
-        "release_date": "2020-06-30T19:03:24",
-        "title": "calendar 5.0.6 Released",
-        "body": "<p>Minor Updates:</p>\n<ul>\n<li>Fix issues with time zones not being recognized</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/calendar/releases/tag/5.0.6"
-      },
-      {
-        "version": "5.0.5",
-        "release_date": "2020-06-02T04:44:14",
-        "title": "calendar 5.0.5 Released",
-        "body": "<p>Minor Updates:</p>\n<ul>\n<li>Fix several issues with adding and removing monthly recurring events</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/calendar/releases/tag/5.0.5"
-      },
-      {
-        "version": "5.0.4",
-        "release_date": "2020-04-03T20:09:04",
-        "title": "calendar 5.0.4 Released",
-        "body": "<p>Minor Updates:</p>\n<ul>\n<li>Correctly save event reminders</li>\n<li>Ellipsize event participant details if necessary</li>\n<li>Fix unwanted rescheduling when editing event title</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/calendar/releases/tag/5.0.4"
-      },
-      {
-        "version": "5.0.3",
-        "release_date": "2019-11-27T19:39:03",
-        "title": "calendar 5.0.3 Released",
-        "body": "calendar 5.0.3 is out! \n\n<p>Fix crash when editing an event with no location</p>\n",
-        "href": "https://github.com/elementary/calendar/releases/tag/5.0.3"
-      },
-      {
-        "version": "5.0.2",
-        "release_date": "2019-11-26T18:12:31",
-        "title": "calendar 5.0.2 Released",
-        "body": "calendar 5.0.2 is out! \n\n<p>Fix potential crash when loading events with no start or end time</p>\n",
-        "href": "https://github.com/elementary/calendar/releases/tag/5.0.2"
-      },
-      {
-        "version": "5.0.1",
-        "release_date": "2019-11-25T22:50:33",
-        "title": "calendar 5.0.1 Released",
-        "body": "calendar 5.0.1 is out! \r\n\r\n- Make agenda pane fill the whole space\r\n- Set the suggested time for new events to the next whole hour\r\n- Fix issues with recurring events\r\n- Performance improvements\r\n- Updated translations\r\n",
-        "href": "https://github.com/elementary/calendar/releases/tag/5.0.1"
-      },
-      {
-        "version": "5.0",
-        "release_date": "2019-03-01T00:38:47",
-        "title": "Calendar 5.0 Released",
-        "body": "Calendar 5.0 is out!\r\n\r\nChanges:\r\n* Present import window when opening ICS files\r\n* Add a search entry for calendars\r\n* Always use calendar icon in notifications\r\n* Agenda view can now be navigated by keyboard\r\n* Right-to-left improvements\r\n* Various UI overhauls including lime accent color\r\n* Overall code cleanup and rewrites\r\n* Updated translations",
-        "href": "https://github.com/elementary/calendar/releases/tag/5.0"
-      },
-      {
-        "version": "4.2.3",
-        "release_date": "2018-10-16T09:26:43",
-        "title": "Calendar 4.2.3 Released",
-        "body": "Changes:\r\n* Styling adjustments\r\n* Fix location panel initialization\r\n* Updated translations",
-        "href": "https://github.com/elementary/calendar/releases/tag/4.2.3"
-      },
-      {
-        "version": "4.2.2",
-        "release_date": "2018-10-03T08:17:05",
-        "title": "Calendar 4.2.2 Released",
-        "body": "Calendar 4.2.2 is out!\r\n\r\nChanges:\r\n* Meson build system\r\n* Date format fixes\r\n* Miscellaneous build fixes\r\n* Updated translations",
-        "href": "https://github.com/elementary/calendar/releases/tag/4.2.2"
-      },
-      {
-        "version": "0.4.2.1",
-        "release_date": "2018-06-22T09:51:25",
-        "title": "Calendar 0.4.2.1 Released",
-        "body": "Calendar 0.4.2.1 is out!\r\n\r\nThis release includes the following changes:\r\n* Update `wingpanel-indicator-datetime` settings path\r\n* New translations",
-        "href": "https://github.com/elementary/calendar/releases/tag/0.4.2.1"
-      },
-      {
-        "version": "0.4.2",
-        "release_date": "2018-06-06T09:04:54",
-        "title": "Calendar 0.4.2 Released",
-        "body": "Calendar 0.4.2 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/calendar/issues?q=is%3Aclosed+milestone%3A0.4.2).",
-        "href": "https://github.com/elementary/calendar/releases/tag/0.4.2"
-      },
-      {
-        "version": "0.4.1",
-        "release_date": "2017-12-01T20:54:43",
-        "title": "Maya (Calendar) 0.4.1 Released",
-        "body": "maya-calendar 0.4.1 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/calendar/issues?q=is%3Aclosed+milestone%3A0.4.1).",
-        "href": "https://github.com/elementary/calendar/releases/tag/0.4.1"
-      }
-    ],
-    "new_commits": 3,
     "default_branch": "master"
   },
   {
@@ -2152,7 +1991,7 @@
         "href": "https://github.com/elementary/notifications/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 10,
+    "new_commits": 11,
     "default_branch": "master"
   },
   {
@@ -3214,13 +3053,6 @@
         "title": "granite 6.1.1 Released",
         "body": "<p>Fixes:</p>\n<ul>\n<li>Ensure accel_to_string works with multiple modifiers</li>\n<li>Fix locale issues in Flatpaks</li>\n<li>Updated translations</li>\n</ul>\n",
         "href": "https://github.com/elementary/granite/releases/tag/6.1.1"
-      },
-      {
-        "version": "6.1.0",
-        "release_date": "2021-07-13T22:02:51",
-        "title": "granite 6.1.0 Released",
-        "body": "<p>Additions:</p>\n<ul>\n<li>TRANSITION_DURATION_IN_PLACE for consistent in-place widget transformations</li>\n</ul>\n<p>Other Changes:</p>\n<ul>\n<li>accel_to_string handles accel markup without modifiers or that are only modifiers</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/granite/releases/tag/6.1.0"
       },
       {
         "version": "6.0.0",
@@ -5282,6 +5114,146 @@
       }
     ],
     "new_commits": 46,
+    "default_branch": "master"
+  },
+  {
+    "name": "calendar",
+    "releases": [
+      {
+        "version": "6.1.2",
+        "release_date": "2022-11-15T19:30:59",
+        "title": "calendar 6.1.2 Released",
+        "body": "<p>Minor Updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/calendar/releases/tag/6.1.2"
+      },
+      {
+        "version": "6.1.1",
+        "release_date": "2022-05-18T04:43:29",
+        "title": "calendar 6.1.1 Released",
+        "body": "<p>Minor Updates:</p>\n<ul>\n<li>Updated app icon</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/calendar/releases/tag/6.1.1"
+      },
+      {
+        "version": "6.1.0",
+        "release_date": "2022-01-21T17:38:38",
+        "title": "calendar 6.1.0 Released",
+        "body": "<p>Features:</p>\n<ul>\n<li>Ask for confirmation before deleting events</li>\n<li>Follow email and web links in the event description with Control + Click</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Disabled checkbox \"Mark as default calendar\" in calendar settings, if the calendar is read-only</li>\n<li>Removed no longer needed sandbox permission for accounts service</li>\n<li>Fixed potential memory leak</li>\n</ul>\n",
+        "href": "https://github.com/elementary/calendar/releases/tag/6.1.0"
+      },
+      {
+        "version": "6.0.1",
+        "release_date": "2021-08-26T21:11:55",
+        "title": "calendar 6.0.1 Released",
+        "body": "<p>Fixes:</p>\n<ul>\n<li>Fix broken calendar color with some online providers</li>\n<li>Fix an issue with some all-day events</li>\n</ul>\n<p>Minor Updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/calendar/releases/tag/6.0.1"
+      },
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-21T02:56:10",
+        "title": "calendar 6.0.0 Released",
+        "body": "<p>New Features:</p>\n<ul>\n<li>Import ICS files from the gear menu</li>\n<li>Support the dark style</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Properly show events on the last day of the month</li>\n<li>Fix end times for all-day events</li>\n<li>Notify for all alarms on an event</li>\n</ul>\n<p>Minor Updates:</p>\n<ul>\n<li>Improved offline support</li>\n<li>New colorful avatar fallbacks</li>\n<li>Include \"film\" as an event icon keyword</li>\n<li>Add Mint and Bubblegum to calendar color chooser</li>\n<li>Link to Online Accounts settings in the gear menu</li>\n<li>Performance improvements</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/calendar/releases/tag/6.0.0"
+      },
+      {
+        "version": "5.1.1",
+        "release_date": "2020-10-08T20:26:30",
+        "title": "calendar 5.1.1 Released",
+        "body": "<p>Minor Updates:</p>\n<ul>\n<li>Fix an issue where new events could appear twice in Calendar</li>\n<li>\"Mark as default calendar\" box is now correctly checked when editing a calendar</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/calendar/releases/tag/5.1.1"
+      },
+      {
+        "version": "5.1.0",
+        "release_date": "2020-09-03T21:57:16",
+        "title": "calendar 5.1.0 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Allow modification of recurring events</li>\n<li>Improve handling of week start day</li>\n<li>Fix timezone errors with all-day events</li>\n</ul>\n<p>Minor Updates:</p>\n<ul>\n<li>Don't resize the sidebar when resizing the window</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/calendar/releases/tag/5.1.0"
+      },
+      {
+        "version": "5.0.6",
+        "release_date": "2020-06-30T19:03:24",
+        "title": "calendar 5.0.6 Released",
+        "body": "<p>Minor Updates:</p>\n<ul>\n<li>Fix issues with time zones not being recognized</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/calendar/releases/tag/5.0.6"
+      },
+      {
+        "version": "5.0.5",
+        "release_date": "2020-06-02T04:44:14",
+        "title": "calendar 5.0.5 Released",
+        "body": "<p>Minor Updates:</p>\n<ul>\n<li>Fix several issues with adding and removing monthly recurring events</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/calendar/releases/tag/5.0.5"
+      },
+      {
+        "version": "5.0.4",
+        "release_date": "2020-04-03T20:09:04",
+        "title": "calendar 5.0.4 Released",
+        "body": "<p>Minor Updates:</p>\n<ul>\n<li>Correctly save event reminders</li>\n<li>Ellipsize event participant details if necessary</li>\n<li>Fix unwanted rescheduling when editing event title</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/calendar/releases/tag/5.0.4"
+      },
+      {
+        "version": "5.0.3",
+        "release_date": "2019-11-27T19:39:03",
+        "title": "calendar 5.0.3 Released",
+        "body": "calendar 5.0.3 is out! \n\n<p>Fix crash when editing an event with no location</p>\n",
+        "href": "https://github.com/elementary/calendar/releases/tag/5.0.3"
+      },
+      {
+        "version": "5.0.2",
+        "release_date": "2019-11-26T18:12:31",
+        "title": "calendar 5.0.2 Released",
+        "body": "calendar 5.0.2 is out! \n\n<p>Fix potential crash when loading events with no start or end time</p>\n",
+        "href": "https://github.com/elementary/calendar/releases/tag/5.0.2"
+      },
+      {
+        "version": "5.0.1",
+        "release_date": "2019-11-25T22:50:33",
+        "title": "calendar 5.0.1 Released",
+        "body": "calendar 5.0.1 is out! \r\n\r\n- Make agenda pane fill the whole space\r\n- Set the suggested time for new events to the next whole hour\r\n- Fix issues with recurring events\r\n- Performance improvements\r\n- Updated translations\r\n",
+        "href": "https://github.com/elementary/calendar/releases/tag/5.0.1"
+      },
+      {
+        "version": "5.0",
+        "release_date": "2019-03-01T00:38:47",
+        "title": "Calendar 5.0 Released",
+        "body": "Calendar 5.0 is out!\r\n\r\nChanges:\r\n* Present import window when opening ICS files\r\n* Add a search entry for calendars\r\n* Always use calendar icon in notifications\r\n* Agenda view can now be navigated by keyboard\r\n* Right-to-left improvements\r\n* Various UI overhauls including lime accent color\r\n* Overall code cleanup and rewrites\r\n* Updated translations",
+        "href": "https://github.com/elementary/calendar/releases/tag/5.0"
+      },
+      {
+        "version": "4.2.3",
+        "release_date": "2018-10-16T09:26:43",
+        "title": "Calendar 4.2.3 Released",
+        "body": "Changes:\r\n* Styling adjustments\r\n* Fix location panel initialization\r\n* Updated translations",
+        "href": "https://github.com/elementary/calendar/releases/tag/4.2.3"
+      },
+      {
+        "version": "4.2.2",
+        "release_date": "2018-10-03T08:17:05",
+        "title": "Calendar 4.2.2 Released",
+        "body": "Calendar 4.2.2 is out!\r\n\r\nChanges:\r\n* Meson build system\r\n* Date format fixes\r\n* Miscellaneous build fixes\r\n* Updated translations",
+        "href": "https://github.com/elementary/calendar/releases/tag/4.2.2"
+      },
+      {
+        "version": "0.4.2.1",
+        "release_date": "2018-06-22T09:51:25",
+        "title": "Calendar 0.4.2.1 Released",
+        "body": "Calendar 0.4.2.1 is out!\r\n\r\nThis release includes the following changes:\r\n* Update `wingpanel-indicator-datetime` settings path\r\n* New translations",
+        "href": "https://github.com/elementary/calendar/releases/tag/0.4.2.1"
+      },
+      {
+        "version": "0.4.2",
+        "release_date": "2018-06-06T09:04:54",
+        "title": "Calendar 0.4.2 Released",
+        "body": "Calendar 0.4.2 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/calendar/issues?q=is%3Aclosed+milestone%3A0.4.2).",
+        "href": "https://github.com/elementary/calendar/releases/tag/0.4.2"
+      },
+      {
+        "version": "0.4.1",
+        "release_date": "2017-12-01T20:54:43",
+        "title": "Maya (Calendar) 0.4.1 Released",
+        "body": "maya-calendar 0.4.1 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/calendar/issues?q=is%3Aclosed+milestone%3A0.4.1).",
+        "href": "https://github.com/elementary/calendar/releases/tag/0.4.1"
+      }
+    ],
+    "new_commits": 153,
     "default_branch": "master"
   },
   {
