@@ -5260,13 +5260,6 @@
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.3.0"
       },
       {
-        "version": "2.2.0",
-        "release_date": "2017-09-26T14:20:28",
-        "title": "Slingshot 2.2.0 Released",
-        "body": "slingshot-launcher 2.2.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/applications-menu/issues?q=is%3Aclosed+milestone%3A2.2.0).",
-        "href": "https://github.com/elementary/applications-menu/releases/tag/2.2.0"
-      },
-      {
         "version": "2.1.3",
         "release_date": "2017-05-15T12:00:23",
         "title": "Slingshot 2.1.3 Released",
