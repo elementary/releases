@@ -3349,6 +3349,13 @@
         "href": "https://github.com/elementary/granite/releases/tag/7.2.0"
       },
       {
+        "version": "7.1.0",
+        "release_date": "2022-10-10T23:50:48",
+        "title": "granite 7.1.0 Released",
+        "body": "<p>New Features:</p>\n<ul>\n<li>Granite.STYLE_CLASS_RICH_LIST for standard Gtk.ListBox row padding</li>\n<li>Granite.STYLE_CLASS_FRAME for adding a border to Gtk.LisBox, Gtk.InfoBar, and others</li>\n<li>Granite.STYLE_CLASS_SIDEBAR for styling application sidebars</li>\n<li>Granite.STYLE_CLASS_BACKGROUND to use the default background color for a widget</li>\n<li>Add optional secondary text to Granite.HeaderLabel</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Allow text in Granite.Toast to wrap</li>\n<li>SimpleSettingsPage: Wrap titles and allow description text to go under switches</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/granite/releases/tag/7.1.0"
+      },
+      {
         "version": "7.0.0",
         "release_date": "2022-04-30T18:14:07",
         "title": "granite 7.0.0 Released",
