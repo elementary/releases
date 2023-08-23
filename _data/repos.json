@@ -892,7 +892,7 @@
         "href": "https://github.com/elementary/videos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 16,
+    "new_commits": 17,
     "default_branch": "main"
   },
   {
@@ -3328,7 +3328,7 @@
         "href": "https://github.com/elementary/switchboard-plug-applications/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 128,
+    "new_commits": 129,
     "default_branch": "master"
   },
   {
@@ -5323,7 +5323,7 @@
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
       }
     ],
-    "new_commits": 46,
+    "new_commits": 47,
     "default_branch": "master"
   },
   {
@@ -6548,7 +6548,7 @@
         "href": "https://github.com/elementary/switchboard/releases/tag/2.3.0"
       }
     ],
-    "new_commits": 46,
+    "new_commits": 47,
     "default_branch": "master"
   },
   {
