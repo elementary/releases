@@ -2180,7 +2180,7 @@
         "href": "https://github.com/elementary/installer/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 42,
+    "new_commits": 46,
     "default_branch": "master"
   },
   {
@@ -3013,7 +3013,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 44,
+    "new_commits": 45,
     "default_branch": "master"
   },
   {
@@ -5463,7 +5463,7 @@
         "href": "https://github.com/elementary/iconbrowser/releases/tag/2.0.0"
       }
     ],
-    "new_commits": 62,
+    "new_commits": 64,
     "default_branch": "main"
   },
   {
