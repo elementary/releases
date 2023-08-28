@@ -1109,7 +1109,7 @@
         "href": "https://github.com/elementary/videos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 25,
+    "new_commits": 31,
     "default_branch": "main"
   },
   {
@@ -5435,13 +5435,6 @@
         "href": "https://github.com/elementary/photos/releases/tag/2.8.0"
       },
       {
-        "version": "2.7.5",
-        "release_date": "2022-05-17T19:44:22",
-        "title": "photos 2.7.5 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Redesigned app icon</li>\n<li>Translation updates</li>\n</ul>\n",
-        "href": "https://github.com/elementary/photos/releases/tag/2.7.5"
-      },
-      {
         "version": "2.7.4",
         "release_date": "2022-02-01T18:38:16",
         "title": "photos 2.7.4 Released",
@@ -5463,25 +5456,11 @@
         "href": "https://github.com/elementary/photos/releases/tag/2.7.2"
       },
       {
-        "version": "2.7.1",
-        "release_date": "2021-07-14T18:01:14",
-        "title": "photos 2.7.1 Released",
-        "body": "<ul>\n<li>Fix keyboard activation in tool windows</li>\n<li>Show saved state correctly in the context-menu</li>\n<li>Translation updates</li>\n</ul>\n",
-        "href": "https://github.com/elementary/photos/releases/tag/2.7.1"
-      },
-      {
         "version": "2.7.0",
         "release_date": "2020-04-08T20:18:53",
         "title": "photos 2.7.0 Released",
         "body": "<ul>\n<li>Add Open In menu to the photo viewer</li>\n<li>Translation updates</li>\n</ul>\n",
         "href": "https://github.com/elementary/photos/releases/tag/2.7.0"
-      },
-      {
-        "version": "2.6.5",
-        "release_date": "2019-11-15T22:14:37",
-        "title": "photos 2.6.5 Released",
-        "body": "photos 2.6.5 is out! \n\nChanges:\n\n* Add checkerboard behind semi-transparent photos in grid view\n* Fix pasting in comment box\n* Make sure we show the right apps in the Open In menu\n* Redesign a large number of dialogs\n* Translation updates\n",
-        "href": "https://github.com/elementary/photos/releases/tag/2.6.5"
       },
       {
         "version": "2.6.4",
