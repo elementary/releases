@@ -10,6 +10,13 @@
         "href": "https://github.com/elementary/iconbrowser/releases/tag/2.2.0"
       },
       {
+        "version": "2.1.1",
+        "release_date": "2022-11-08T16:56:42",
+        "title": "iconbrowser 2.1.1 Released",
+        "body": "<p>Fixed an error that prevented app startup</p>\n<p>Update translations</p>\n",
+        "href": "https://github.com/elementary/iconbrowser/releases/tag/2.1.1"
+      },
+      {
         "version": "2.0.0",
         "release_date": "2022-10-04T15:15:33",
         "title": "iconbrowser 2.0.0 Released",
