@@ -6030,6 +6030,13 @@
         "href": "https://github.com/elementary/switchboard-plug-printers/releases/tag/2.1.6"
       },
       {
+        "version": "2.1.5",
+        "release_date": "2018-10-15T21:50:47",
+        "title": "Switchboard Printers Plug 2.1.5 Released",
+        "body": "switchboard-plug-printers 2.1.5 is out!\r\n\r\nThis release includes updated translations and CSS fixes.",
+        "href": "https://github.com/elementary/switchboard-plug-printers/releases/tag/2.1.5"
+      },
+      {
         "version": "2.1.4",
         "release_date": "2018-10-09T14:36:12",
         "title": "Switchboard Printers Plug 2.1.4 Released",
