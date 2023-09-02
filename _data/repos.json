@@ -843,7 +843,7 @@
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 21,
+    "new_commits": 22,
     "default_branch": "master"
   },
   {
@@ -1354,7 +1354,7 @@
         "href": "https://github.com/elementary/videos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 39,
+    "new_commits": 40,
     "default_branch": "main"
   },
   {
@@ -4285,6 +4285,13 @@
         "title": "Noise (Music) 0.4.2 Released",
         "body": "Noise 0.4.2 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/music/issues?q=is%3Aclosed+milestone%3A0.4.2).",
         "href": "https://github.com/elementary/music/releases/tag/0.4.2"
+      },
+      {
+        "version": "0.4.1",
+        "release_date": "2017-07-28T03:49:34",
+        "title": "Noise (Music) 0.4.1 Released",
+        "body": "Noise 0.4.1 is out!\r\n\r\nEdit: The list of issues closed by this release can be found [here](https://github.com/elementary/music/milestone/3?closed=1).",
+        "href": "https://github.com/elementary/music/releases/tag/0.4.1"
       },
       {
         "version": "0.4.0.3",
