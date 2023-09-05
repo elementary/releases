@@ -2593,6 +2593,13 @@
         "href": "https://github.com/elementary/tasks/releases/tag/6.3.1"
       },
       {
+        "version": "6.3.0",
+        "release_date": "2022-06-14T16:56:30",
+        "title": "tasks 6.3.0 Released",
+        "body": "<p>Features:</p>\n<ul>\n<li>Add offline support for newly created task lists in case its configured for the account</li>\n<li>Automatically synchronize a task list whenever it is selected or the network becomes available again</li>\n</ul>\n",
+        "href": "https://github.com/elementary/tasks/releases/tag/6.3.0"
+      },
+      {
         "version": "6.2.0",
         "release_date": "2022-01-24T20:23:02",
         "title": "tasks 6.2.0 Released",
