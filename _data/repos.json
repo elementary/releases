@@ -675,7 +675,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 38,
+    "new_commits": 39,
     "default_branch": "main"
   },
   {
@@ -1354,7 +1354,7 @@
         "href": "https://github.com/elementary/videos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 41,
+    "new_commits": 42,
     "default_branch": "main"
   },
   {
@@ -4609,7 +4609,7 @@
         "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 2,
+    "new_commits": 3,
     "default_branch": "main"
   },
   {
@@ -5540,6 +5540,13 @@
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.4.4"
       },
       {
+        "version": "2.4.3",
+        "release_date": "2019-05-16T10:10:36",
+        "title": "Slingshot 2.4.3 Released",
+        "body": "slingshot-launcher 2.4.3 is out!\r\n\r\nChanges:\r\n* Build system fixes\r\n* Support more system management keywords\r\n* Fix ignored translations in search results\r\n* Keyboard navigation fix\r\n* Updated translations",
+        "href": "https://github.com/elementary/applications-menu/releases/tag/2.4.3"
+      },
+      {
         "version": "2.4.2",
         "release_date": "2019-01-22T09:51:45",
         "title": "Slingshot 2.4.2 Released",
@@ -5967,7 +5974,7 @@
         "href": "https://github.com/elementary/switchboard-plug-sharing/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 267,
+    "new_commits": 268,
     "default_branch": "master"
   },
   {
@@ -6058,7 +6065,7 @@
         "href": "https://github.com/elementary/switchboard-plug-printers/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 44,
+    "new_commits": 45,
     "default_branch": "master"
   },
   {
@@ -6163,7 +6170,7 @@
         "href": "https://github.com/elementary/switchboard-plug-network/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 40,
+    "new_commits": 41,
     "default_branch": "master"
   },
   {
