@@ -2572,7 +2572,7 @@
         "href": "https://github.com/elementary/calendar/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 3,
+    "new_commits": 4,
     "default_branch": "master"
   },
   {
@@ -4301,7 +4301,7 @@
         "href": "https://github.com/elementary/music/releases/tag/0.4.0.3"
       }
     ],
-    "new_commits": 6,
+    "new_commits": 7,
     "default_branch": "main"
   },
   {
@@ -5715,7 +5715,7 @@
         "href": "https://github.com/elementary/photos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 50,
+    "new_commits": 51,
     "default_branch": "master"
   },
   {
@@ -7115,7 +7115,7 @@
         "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 89,
+    "new_commits": 90,
     "default_branch": "main"
   },
   {
@@ -7283,7 +7283,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.0"
       }
     ],
-    "new_commits": 6039,
+    "new_commits": 6041,
     "default_branch": "master"
   },
   {
