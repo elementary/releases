@@ -4413,7 +4413,7 @@
         "href": "https://github.com/elementary/camera/releases/tag/1.0"
       }
     ],
-    "new_commits": 5,
+    "new_commits": 6,
     "default_branch": "master"
   },
   {
@@ -5428,7 +5428,7 @@
         "href": "https://github.com/elementary/wallpapers/releases/tag/5.0"
       }
     ],
-    "new_commits": 14,
+    "new_commits": 15,
     "default_branch": "master"
   },
   {
@@ -6842,7 +6842,7 @@
         "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 38,
+    "new_commits": 39,
     "default_branch": "master"
   },
   {
