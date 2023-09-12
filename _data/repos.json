@@ -703,6 +703,13 @@
         "href": "https://github.com/elementary/portals/releases/tag/7.0.0"
       },
       {
+        "version": "1.2.0",
+        "release_date": "2022-10-27T16:44:00",
+        "title": "portals 1.2.0 Released",
+        "body": "<p>New Features:</p>\n<ul>\n<li>Support dialog parenting on wayland</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/portals/releases/tag/1.2.0"
+      },
+      {
         "version": "1.1.0",
         "release_date": "2022-01-26T18:02:09",
         "title": "portals 1.1.0 Released",
