@@ -6618,6 +6618,13 @@
         "href": "https://github.com/elementary/switchboard-plug-power/releases/tag/2.6.0"
       },
       {
+        "version": "2.5.0",
+        "release_date": "2021-07-14T20:59:19",
+        "title": "switchboard-plug-power 2.5.0 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Change lid settings without restarting</li>\n<li>Show in search results for \"sleep\" and \"timeout\"</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-power/releases/tag/2.5.0"
+      },
+      {
         "version": "2.4.2",
         "release_date": "2020-05-16T21:31:17",
         "title": "switchboard-plug-power 2.4.2 Released",
