@@ -2583,6 +2583,83 @@
     "default_branch": "master"
   },
   {
+    "name": "tasks",
+    "releases": [
+      {
+        "version": "6.3.2",
+        "release_date": "2023-07-24T03:55:49",
+        "title": "Tasks 6.3.2 Released!",
+        "body": "## What's Changed\r\n* flatpak: Use 7.1 runtime by @tintou in https://github.com/elementary/tasks/pull/345\r\n* actions/checkout@v3 by @meisenzahl in https://github.com/elementary/tasks/pull/346\r\n* flatpak: Update the dependencies by @tintou in https://github.com/elementary/tasks/pull/350\r\n* Update flatpak actions to new namespace by @davidmhewitt in https://github.com/elementary/tasks/pull/351\r\n* Switch to GHCR containers by @davidmhewitt in https://github.com/elementary/tasks/pull/347\r\n* Fix a small color issue by @leolost2605 in https://github.com/elementary/tasks/pull/356\r\n* Preparations for Gtk4 by @lenemter in https://github.com/elementary/tasks/pull/360\r\n* Use flatpak portal for autostart and background permission by @leolost2605 in https://github.com/elementary/tasks/pull/361\r\n* Application: use startup by @danirabbit in https://github.com/elementary/tasks/pull/363\r\n* Fixed Duplicated tasks in Scheduled by @Claudio-code in https://github.com/elementary/tasks/pull/365\r\n* Metainfo Improvements by @danirabbit in https://github.com/elementary/tasks/pull/366\r\n\r\n## New Contributors\r\n* @meisenzahl made their first contribution in https://github.com/elementary/tasks/pull/346\r\n* @dependabot made their first contribution in https://github.com/elementary/tasks/pull/348\r\n* @Claudio-code made their first contribution in https://github.com/elementary/tasks/pull/365\r\n\r\n**Full Changelog**: https://github.com/elementary/tasks/compare/6.3.1...6.3.2",
+        "href": "https://github.com/elementary/tasks/releases/tag/6.3.2"
+      },
+      {
+        "version": "6.3.1",
+        "release_date": "2022-11-15T19:27:16",
+        "title": "tasks 6.3.1 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>New app icon</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/tasks/releases/tag/6.3.1"
+      },
+      {
+        "version": "6.3.0",
+        "release_date": "2022-06-14T16:56:30",
+        "title": "tasks 6.3.0 Released",
+        "body": "<p>Features:</p>\n<ul>\n<li>Add offline support for newly created task lists in case its configured for the account</li>\n<li>Automatically synchronize a task list whenever it is selected or the network becomes available again</li>\n</ul>\n",
+        "href": "https://github.com/elementary/tasks/releases/tag/6.3.0"
+      },
+      {
+        "version": "6.2.0",
+        "release_date": "2022-01-24T20:23:02",
+        "title": "tasks 6.2.0 Released",
+        "body": "<p>Features:</p>\n<ul>\n<li>Send a notification when a task is due</li>\n</ul>\n",
+        "href": "https://github.com/elementary/tasks/releases/tag/6.2.0"
+      },
+      {
+        "version": "6.1.0",
+        "release_date": "2021-12-13T22:13:31",
+        "title": "tasks 6.1.0 Released",
+        "body": "<p>Features:</p>\n<ul>\n<li>Drag and drop tasks between lists</li>\n<li>Follow email and web links in the task description with Control + Click</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Improved time zone handling</li>\n<li>Performance improvements</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/tasks/releases/tag/6.1.0"
+      },
+      {
+        "version": "6.0.4",
+        "release_date": "2021-09-27T20:36:23",
+        "title": "Tasks 6.0.4 Released",
+        "body": "<p>Fixes:</p>\r\n <ul>\r\n<li>Prevent account name headers from being displayed multiple times in the sidebar</li>\r\n<li>Long descriptions are truncated at the end instead of the beginning</li>\r\n<li>Removing descriptions is now saved</li>\r\n<li>Placing the cursor in descriptions works consistently</li>\r\n</ul>\r\n<p>Improvements:</p>\r\n<ul>\r\n<li>Replace the Delete shortcut key with Ctrl + Backspace</li>\r\n<li>Add a confirmation dialog when deleting a task list</li>\r\n<li>Improve performance in lists with lots of completed tasks</li>\r\n<li>Updated translations</li>\r\n</ul>",
+        "href": "https://github.com/elementary/tasks/releases/tag/6.0.4"
+      },
+      {
+        "version": "6.0.3",
+        "release_date": "2021-08-26T21:35:56",
+        "title": "tasks 6.0.3 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/tasks/releases/tag/6.0.3"
+      },
+      {
+        "version": "6.0.2",
+        "release_date": "2021-08-09T19:09:24",
+        "title": "tasks 6.0.2 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Fix crash on start with certain hardware</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/tasks/releases/tag/6.0.2"
+      },
+      {
+        "version": "6.0.1",
+        "release_date": "2021-08-02T19:13:21",
+        "title": "tasks 6.0.1 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Fix the order of the scheduled view</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/tasks/releases/tag/6.0.1"
+      },
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-21T18:16:59",
+        "title": "tasks 6.0.0 Released",
+        "body": "<p>First release!</p>\n<ul>\n<li>Support the dark style</li>\n<li>Add and remove task lists with custom colors</li>\n<li>See scheduled tasks from all lists at once</li>\n<li>Set due dates</li>\n</ul>\n",
+        "href": "https://github.com/elementary/tasks/releases/tag/6.0.0"
+      }
+    ],
+    "new_commits": 5,
+    "default_branch": "master"
+  },
+  {
     "name": "wingpanel-indicator-sound",
     "releases": [
       {
@@ -5527,69 +5604,6 @@
       }
     ],
     "new_commits": 49,
-    "default_branch": "master"
-  },
-  {
-    "name": "tasks",
-    "releases": [
-      {
-        "version": "6.3.1",
-        "release_date": "2022-11-15T19:27:16",
-        "title": "tasks 6.3.1 Released",
-        "body": "<p>Improvements:</p>\n<ul>\n<li>New app icon</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/tasks/releases/tag/6.3.1"
-      },
-      {
-        "version": "6.3.0",
-        "release_date": "2022-06-14T16:56:30",
-        "title": "tasks 6.3.0 Released",
-        "body": "<p>Features:</p>\n<ul>\n<li>Add offline support for newly created task lists in case its configured for the account</li>\n<li>Automatically synchronize a task list whenever it is selected or the network becomes available again</li>\n</ul>\n",
-        "href": "https://github.com/elementary/tasks/releases/tag/6.3.0"
-      },
-      {
-        "version": "6.2.0",
-        "release_date": "2022-01-24T20:23:02",
-        "title": "tasks 6.2.0 Released",
-        "body": "<p>Features:</p>\n<ul>\n<li>Send a notification when a task is due</li>\n</ul>\n",
-        "href": "https://github.com/elementary/tasks/releases/tag/6.2.0"
-      },
-      {
-        "version": "6.1.0",
-        "release_date": "2021-12-13T22:13:31",
-        "title": "tasks 6.1.0 Released",
-        "body": "<p>Features:</p>\n<ul>\n<li>Drag and drop tasks between lists</li>\n<li>Follow email and web links in the task description with Control + Click</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Improved time zone handling</li>\n<li>Performance improvements</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/tasks/releases/tag/6.1.0"
-      },
-      {
-        "version": "6.0.4",
-        "release_date": "2021-09-27T20:36:23",
-        "title": "Tasks 6.0.4 Released",
-        "body": "<p>Fixes:</p>\r\n <ul>\r\n<li>Prevent account name headers from being displayed multiple times in the sidebar</li>\r\n<li>Long descriptions are truncated at the end instead of the beginning</li>\r\n<li>Removing descriptions is now saved</li>\r\n<li>Placing the cursor in descriptions works consistently</li>\r\n</ul>\r\n<p>Improvements:</p>\r\n<ul>\r\n<li>Replace the Delete shortcut key with Ctrl + Backspace</li>\r\n<li>Add a confirmation dialog when deleting a task list</li>\r\n<li>Improve performance in lists with lots of completed tasks</li>\r\n<li>Updated translations</li>\r\n</ul>",
-        "href": "https://github.com/elementary/tasks/releases/tag/6.0.4"
-      },
-      {
-        "version": "6.0.3",
-        "release_date": "2021-08-26T21:35:56",
-        "title": "tasks 6.0.3 Released",
-        "body": "<p>Improvements:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/tasks/releases/tag/6.0.3"
-      },
-      {
-        "version": "6.0.2",
-        "release_date": "2021-08-09T19:09:24",
-        "title": "tasks 6.0.2 Released",
-        "body": "<p>Improvements:</p>\n<ul>\n<li>Fix crash on start with certain hardware</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/tasks/releases/tag/6.0.2"
-      },
-      {
-        "version": "6.0.1",
-        "release_date": "2021-08-02T19:13:21",
-        "title": "tasks 6.0.1 Released",
-        "body": "<p>Improvements:</p>\n<ul>\n<li>Fix the order of the scheduled view</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/tasks/releases/tag/6.0.1"
-      }
-    ],
-    "new_commits": 142,
     "default_branch": "master"
   },
   {
