@@ -4574,13 +4574,6 @@
         "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.5.2"
       },
       {
-        "version": "2.5.1",
-        "release_date": "2020-04-01T22:48:03",
-        "title": "switchboard-plug-locale 2.5.1 Released",
-        "body": "switchboard-plug-locale 2.5.1 is out! \n\n<ul>\n<li>Fix an issue with cancelling language installation</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.5.1"
-      },
-      {
         "version": "2.5.0",
         "release_date": "2019-11-15T23:09:58",
         "title": "switchboard-plug-locale 2.5.0 Released",
