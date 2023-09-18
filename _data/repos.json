@@ -787,13 +787,6 @@
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.7.0"
       },
       {
-        "version": "2.6.0",
-        "release_date": "2021-11-23T17:15:11",
-        "title": "switchboard-plug-keyboard 2.6.0 Released",
-        "body": "<p>New features:</p>\r\n<ul>\r\n<li>Redesigned custom shortcuts view</li>\r\n<li>On-screen keyboard switch in Layouts tab</li>\r\n</ul>\r\n<p>Minor updates:</p>\r\n<ul>\r\n<li>Updated translations</li>\r\n</ul>\r\n",
-        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.6.0"
-      },
-      {
         "version": "2.5.1",
         "release_date": "2021-09-22T20:38:10",
         "title": "Keyboard Settings 2.5.1 Released",
