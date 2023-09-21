@@ -1550,13 +1550,6 @@
         "href": "https://github.com/elementary/feedback/releases/tag/7.1.0"
       },
       {
-        "version": "7.0.0",
-        "release_date": "2023-01-05T17:00:26",
-        "title": "Feedback 7.0.0 Released!",
-        "body": "## What's Changed\r\n* Load components async by @danirabbit in https://github.com/elementary/feedback/pull/71\r\n* Prep for Gtk4 by @danirabbit in https://github.com/elementary/feedback/pull/74\r\n* DesktopEntry: modernize, remove nodisplay by @danirabbit in https://github.com/elementary/feedback/pull/75\r\n* Application: use startup (), cleanup active window handling by @danirabbit in https://github.com/elementary/feedback/pull/73\r\n* AppEntries: include Feedback, Fonts, and Shortcuts by @danirabbit in https://github.com/elementary/feedback/pull/72\r\n* Metainfo: modernize by @danirabbit in https://github.com/elementary/feedback/pull/76\r\n* MainWindow: set and activate default by @danirabbit in https://github.com/elementary/feedback/pull/78\r\n* Wrap labels, disallow hscroll, expand listbox by @danirabbit in https://github.com/elementary/feedback/pull/81\r\n\r\n**Full Changelog**: https://github.com/elementary/feedback/compare/6.1.2...7.0.0",
-        "href": "https://github.com/elementary/feedback/releases/tag/7.0.0"
-      },
-      {
         "version": "6.1.2",
         "release_date": "2022-12-06T16:31:22",
         "title": "feedback 6.1.2 Released",
