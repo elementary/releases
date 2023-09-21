@@ -2824,6 +2824,13 @@
         "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/6.5.0"
       },
       {
+        "version": "6.4.0",
+        "release_date": "2023-05-02T16:59:51",
+        "title": "Desktop Settings 6.4.0 Released",
+        "body": "## What's Changed\r\n* Meta: use preferences-desktop for icon by @danirabbit in https://github.com/elementary/switchboard-plug-pantheon-shell/pull/312\r\n* actions/checkout@v3 by @meisenzahl in https://github.com/elementary/switchboard-plug-pantheon-shell/pull/339\r\n* Switch to GHCR containers by @davidmhewitt in https://github.com/elementary/switchboard-plug-pantheon-shell/pull/341\r\n* Add previous/next workspace to hot corners by @lenemter in https://github.com/elementary/switchboard-plug-pantheon-shell/pull/342\r\n* Add an option to dim wallpapers when dark style is active by @lenemter in https://github.com/elementary/switchboard-plug-pantheon-shell/pull/343\r\n* Dock: fix icon size images by @danirabbit in https://github.com/elementary/switchboard-plug-pantheon-shell/pull/346\r\n* Text: use more vertical layout with headerlabels by @danirabbit in https://github.com/elementary/switchboard-plug-pantheon-shell/pull/345\r\n* Appearance: add reduce motion option by @danirabbit in https://github.com/elementary/switchboard-plug-pantheon-shell/pull/347\r\n* Metainfo Improvements by @danirabbit in https://github.com/elementary/switchboard-plug-pantheon-shell/pull/349\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/switchboard-plug-pantheon-shell/compare/6.3.1...6.4.0",
+        "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/6.4.0"
+      },
+      {
         "version": "6.3.1",
         "release_date": "2022-10-21T22:06:25",
         "title": "switchboard-plug-pantheon-shell 6.3.1 Released",
@@ -2892,6 +2899,13 @@
         "title": "Switchboard Desktop Plug 2.8.0 Released",
         "body": "switchboard-plug-pantheon-shell 2.8.0 is out!\r\n\r\nChanges:\r\n* Appearance tab\r\n* Ignore all wallpaper symlinks\r\n* Updated translations",
         "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/2.8.0"
+      },
+      {
+        "version": "2.7.2",
+        "release_date": "2018-11-28T13:34:36",
+        "title": "Switchboard Desktop Plug 2.7.2 Released",
+        "body": "switchboard-plug-pantheon-shell 2.7.2 is out!\r\n\r\nChanges:\r\n* Scan sub-directories for wallpapers\r\n* Updated translations",
+        "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/2.7.2"
       },
       {
         "version": "2.7.1",
