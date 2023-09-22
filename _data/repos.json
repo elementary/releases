@@ -1491,6 +1491,55 @@
     "default_branch": "master"
   },
   {
+    "name": "notifications",
+    "releases": [
+      {
+        "version": "7.0.1",
+        "release_date": "2023-08-21T18:38:30",
+        "title": "notifications 7.0.1 Released",
+        "body": "<p>Block GSD \"Automatic Suspend\" notifications</p>\n<p>Minor Updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/notifications/releases/tag/7.0.1"
+      },
+      {
+        "version": "7.0.0",
+        "release_date": "2023-07-03T23:03:49",
+        "title": "notifications 7.0.0 Released",
+        "body": "<p>Block GSD \"Automatic Suspend\" notifications</p>\n<p>Increase sound and brightness notifications width to match other notifications</p>\n<p>Minor Updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/notifications/releases/tag/7.0.0"
+      },
+      {
+        "version": "6.0.3",
+        "release_date": "2022-10-26T16:56:20",
+        "title": "notifications 6.0.3 Released",
+        "body": "<p>Minor Updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/notifications/releases/tag/6.0.3"
+      },
+      {
+        "version": "6.0.2",
+        "release_date": "2022-06-09T20:42:33",
+        "title": "notifications 6.0.2 Released",
+        "body": "<p>Minor Updates:</p>\n<ul>\n<li>Fix missing icon when set from icon name</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/notifications/releases/tag/6.0.2"
+      },
+      {
+        "version": "6.0.1",
+        "release_date": "2022-04-07T06:42:06",
+        "title": "notifications 6.0.1 Released",
+        "body": "<p>Minor Updates:</p>\n<ul>\n<li>Performance improvements</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/notifications/releases/tag/6.0.1"
+      },
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-19T16:46:35",
+        "title": "notifications 6.0.0 Released",
+        "body": "<p>Complete rewrite:</p>\n<ul>\n<li>Support the dark style</li>\n<li>Action buttons</li>\n<li>Optional badge icons</li>\n<li>Automatically badge images with app icons</li>\n<li>Swipe away to dismiss</li>\n</ul>\n",
+        "href": "https://github.com/elementary/notifications/releases/tag/6.0.0"
+      }
+    ],
+    "new_commits": 2,
+    "default_branch": "master"
+  },
+  {
     "name": "feedback",
     "releases": [
       {
@@ -3360,48 +3409,6 @@
     "default_branch": "master"
   },
   {
-    "name": "notifications",
-    "releases": [
-      {
-        "version": "7.0.0",
-        "release_date": "2023-07-03T23:03:49",
-        "title": "notifications 7.0.0 Released",
-        "body": "<p>Block GSD \"Automatic Suspend\" notifications</p>\n<p>Increase sound and brightness notifications width to match other notifications</p>\n<p>Minor Updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/notifications/releases/tag/7.0.0"
-      },
-      {
-        "version": "6.0.3",
-        "release_date": "2022-10-26T16:56:20",
-        "title": "notifications 6.0.3 Released",
-        "body": "<p>Minor Updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/notifications/releases/tag/6.0.3"
-      },
-      {
-        "version": "6.0.2",
-        "release_date": "2022-06-09T20:42:33",
-        "title": "notifications 6.0.2 Released",
-        "body": "<p>Minor Updates:</p>\n<ul>\n<li>Fix missing icon when set from icon name</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/notifications/releases/tag/6.0.2"
-      },
-      {
-        "version": "6.0.1",
-        "release_date": "2022-04-07T06:42:06",
-        "title": "notifications 6.0.1 Released",
-        "body": "<p>Minor Updates:</p>\n<ul>\n<li>Performance improvements</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/notifications/releases/tag/6.0.1"
-      },
-      {
-        "version": "6.0.0",
-        "release_date": "2021-07-19T16:46:35",
-        "title": "notifications 6.0.0 Released",
-        "body": "<p>Complete rewrite:</p>\n<ul>\n<li>Support the dark style</li>\n<li>Action buttons</li>\n<li>Optional badge icons</li>\n<li>Automatically badge images with app icons</li>\n<li>Swipe away to dismiss</li>\n</ul>\n",
-        "href": "https://github.com/elementary/notifications/releases/tag/6.0.0"
-      }
-    ],
-    "new_commits": 19,
-    "default_branch": "master"
-  },
-  {
     "name": "wingpanel-indicator-nightlight",
     "releases": [
       {
@@ -3643,13 +3650,6 @@
     "name": "wingpanel-indicator-bluetooth",
     "releases": [
       {
-        "version": "7.0.1",
-        "release_date": "2023-06-29T18:10:58",
-        "title": "Bluetooth Indicator 7.0.1 Released!",
-        "body": "## What's Changed\r\n* Manually add resourced icons to path by @danirabbit in https://github.com/elementary/wingpanel-indicator-bluetooth/pull/204\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/wingpanel-indicator-bluetooth/compare/7.0.0...7.0.1",
-        "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/7.0.1"
-      },
-      {
         "version": "7.0.0",
         "release_date": "2023-06-27T19:45:26",
         "title": "Bluetooth Indicator 7.0.0 Released!",
@@ -3662,13 +3662,6 @@
         "title": "wingpanel-indicator-bluetooth 2.1.8 Released",
         "body": "<p>Minor updates:</p>\n<ul>\n<li>Improve restoring Bluetooth state on restart and resuming from suspend</li>\n<li>Updated translations</li>\n</ul>\n",
         "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.1.8"
-      },
-      {
-        "version": "2.1.7",
-        "release_date": "2021-07-14T20:09:49",
-        "title": "wingpanel-indicator-bluetooth 2.1.7 Released",
-        "body": "<p>Add tooltip on hover</p>\n<p>Add a fallback device name for headphones</p>\n<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.1.7"
       },
       {
         "version": "2.1.6",
@@ -3690,13 +3683,6 @@
         "title": "wingpanel-indicator-bluetooth 2.1.4 Released",
         "body": "wingpanel-indicator-bluetooth 2.1.4 is out! \n\nChanges:\n\n* Updated translations\n",
         "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.1.4"
-      },
-      {
-        "version": "2.1.3",
-        "release_date": "2019-05-22T17:55:03",
-        "title": "Wingpanel Bluetooth Indicator 2.1.3 Released",
-        "body": "wingpanel-indicator-bluetooth 2.1.3 is out!\r\n\r\nChanges:\r\n* Show status images for devices\r\n* Accurately display space characters in device names\r\n* Updated translations",
-        "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.1.3"
       },
       {
         "version": "2.1.2",
@@ -3734,7 +3720,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 3,
+    "new_commits": 7,
     "default_branch": "master"
   },
   {
