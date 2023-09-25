@@ -598,6 +598,13 @@
         "href": "https://github.com/elementary/os/releases/tag/5.1.6"
       },
       {
+        "version": "5.1.5",
+        "release_date": "2020-04-21T18:26:11",
+        "title": "5.1.5 Hera",
+        "body": "Point release containing the cumulative May, 2020 updates.\r\n\r\nCheck [the official blog post](https://blog.elementary.io/hera-updates-for-may-2020/) for more information!\r\n",
+        "href": "https://github.com/elementary/os/releases/tag/5.1.5"
+      },
+      {
         "version": "5.1.4",
         "release_date": "2020-04-21T18:26:11",
         "title": "5.1.4 Hera",
