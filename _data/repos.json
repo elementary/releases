@@ -6814,13 +6814,6 @@
         "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/2.2.0"
       },
       {
-        "version": "2.1.4",
-        "release_date": "2018-10-15T21:15:34",
-        "title": "Switchboard Mouse & Touchpad Plug 2.1.4 Released",
-        "body": "switchboard-plug-mouse-touchpad 2.1.4 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-mouse-touchpad/issues?q=is%3Aclosed+milestone%3A2.1.4).",
-        "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/2.1.4"
-      },
-      {
         "version": "0.1.3",
         "release_date": "2018-06-07T14:02:00",
         "title": "Switchboard Mouse & Touchpad Plug 0.1.3 Released",
