@@ -710,11 +710,25 @@
         "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/6.0.0"
       },
       {
+        "version": "2.1.4",
+        "release_date": "2020-04-01T23:52:26+00:00",
+        "title": "wingpanel-indicator-notifications 2.1.4 Released",
+        "body": "wingpanel-indicator-notifications 2.1.4 is out! \n\n<p>Fix issues with disappearing notifications</p>\n<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.1.4"
+      },
+      {
         "version": "2.1.3",
         "release_date": "2019-11-25T16:55:34+00:00",
         "title": "wingpanel-indicator-notifications 2.1.3 Released",
         "body": "wingpanel-indicator-notifications 2.1.3 is out! \n\nChanges:\n\n* Fix a minor visual inconsistency\n* Updated translations\n",
         "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.1.3"
+      },
+      {
+        "version": "2.1.2",
+        "release_date": "2018-10-29T16:38:36+00:00",
+        "title": "Wingpanel Notifications Indicator 2.1.2 Released",
+        "body": "wingpanel-indicator-notifications 2.1.2 is out!\r\n\r\nChanges:\r\n* Always update the state of the indicator to prevent phantom notifications\r\n* Updated translations",
+        "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.1.2"
       },
       {
         "version": "2.1.1",
@@ -731,11 +745,25 @@
         "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.1.0"
       },
       {
+        "version": "2.0.3",
+        "release_date": "2017-10-04T02:28:04+00:00",
+        "title": "Wingpanel Notifications Indicator 2.0.3 Released",
+        "body": "wingpanel-indicator-notifications 2.0.3 is out!\r\n\r\nThis release includes support for the new settings:// URL schema.",
+        "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.0.3"
+      },
+      {
         "version": "2.0.2",
         "release_date": "2017-08-01T02:41:02+00:00",
         "title": "Wingpanel Notifications Indicator 2.0.2 Released",
         "body": "wingpanel-indicator-notifications 2.0.2 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/wingpanel-indicator-notifications/milestone/2?closed=1).",
         "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.0.2"
+      },
+      {
+        "version": "2.0.1",
+        "release_date": "2017-05-21T22:07:11+00:00",
+        "title": "Wingpanel Notifications Indicator 2.0.1 Released",
+        "body": "wingpanel-indicator-notifications 2.0.1 is out!",
+        "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.0.1"
       }
     ],
     "new_commits": 3,
