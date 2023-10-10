@@ -472,6 +472,13 @@
         "href": "https://github.com/elementary/press-kit/releases/tag/7.0.0"
       },
       {
+        "version": "6.1-jolnir",
+        "release_date": "2021-12-17T22:32:27+00:00",
+        "title": "6.1 Jólnir",
+        "body": "",
+        "href": "https://github.com/elementary/press-kit/releases/tag/6.1-jolnir"
+      },
+      {
         "version": "5.1-hera",
         "release_date": "2019-07-29T18:42:54+00:00",
         "title": "5.1 Hera",
@@ -3865,13 +3872,6 @@
         "title": "switchboard-plug-onlineaccounts 6.3.0 Released",
         "body": "<p>New features:</p>\n<ul>\n<li>Edit saved CalDAV accounts</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Dim window when creating a new IMAP account</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
         "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/6.3.0"
-      },
-      {
-        "version": "6.2.2",
-        "release_date": "2021-11-24T23:56:37+00:00",
-        "title": "switchboard-plug-onlineaccounts 6.2.2 Released",
-        "body": "<p>Fixes:</p>\n<ul>\n<li>Dim window when creating a new IMAP account</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/6.2.2"
       },
       {
         "version": "6.2.1",
