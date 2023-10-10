@@ -976,6 +976,13 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/7.2.0"
       },
       {
+        "version": "7.1.0",
+        "release_date": "2023-01-29T02:02:10+00:00",
+        "title": "AppCenter 7.1.0 Released",
+        "body": "## What's Changed\r\n* Show warnings when an app may not be localized by @danirabbit in https://github.com/elementary/appcenter/pull/1975\r\n* Fix warnings for native packages, OS and Runtime updates by @meisenzahl in https://github.com/elementary/appcenter/pull/1977\r\n\r\n**Full Changelog**: https://github.com/elementary/appcenter/compare/7.0.0...7.1.0",
+        "href": "https://github.com/elementary/appcenter/releases/tag/7.1.0"
+      },
+      {
         "version": "7.0.0",
         "release_date": "2023-01-24T16:59:17+00:00",
         "title": "AppCenter 7.0.0 Released",
@@ -6658,6 +6665,13 @@
         "title": "Switchboard 2.3.2 Released",
         "body": "Switchboard 2.3.2 is out!\r\n\r\nThis release includes new translations.",
         "href": "https://github.com/elementary/switchboard/releases/tag/2.3.2"
+      },
+      {
+        "version": "2.3.1",
+        "release_date": "2018-06-06T09:21:40+00:00",
+        "title": "Switchboard 2.3.1 Released",
+        "body": "Switchboard 2.3.1 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard/issues?q=is%3Aclosed+milestone%3A2.3.1).",
+        "href": "https://github.com/elementary/switchboard/releases/tag/2.3.1"
       },
       {
         "version": "2.3.0",
