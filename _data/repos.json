@@ -4049,6 +4049,13 @@
         "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.1.5"
       },
       {
+        "version": "2.1.4",
+        "release_date": "2019-11-25T16:42:53+00:00",
+        "title": "wingpanel-indicator-bluetooth 2.1.4 Released",
+        "body": "wingpanel-indicator-bluetooth 2.1.4 is out! \n\nChanges:\n\n* Updated translations\n",
+        "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.1.4"
+      },
+      {
         "version": "2.1.3",
         "release_date": "2019-05-22T17:55:03+00:00",
         "title": "Wingpanel Bluetooth Indicator 2.1.3 Released",
@@ -4061,6 +4068,13 @@
         "title": "Wingpanel Bluetooth Indicator 2.1.2 Released",
         "body": "wingpanel-indicator-bluetooth 2.1.2 is out!\r\n\r\nChanges:\r\n* Bold device names\r\n* Updated translations",
         "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.1.2"
+      },
+      {
+        "version": "2.1.1",
+        "release_date": "2018-10-03T10:18:32+00:00",
+        "title": "Wingpanel Bluetooth Indicator 2.1.1 Released",
+        "body": "wingpanel-indicator-bluetooth 2.1.1 is out!\r\n\r\nThis release includes updated translations.",
+        "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.1.1"
       },
       {
         "version": "2.1.0",
