@@ -3986,6 +3986,13 @@
         "href": "https://github.com/elementary/sideload/releases/tag/1.1.0"
       },
       {
+        "version": "1.0.1",
+        "release_date": "2020-02-26T06:40:15+00:00",
+        "title": "sideload 1.0.1 Released",
+        "body": "sideload 1.0.1 is out! \n\n<ul>\n<li>Improve performance of download size calculation</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/sideload/releases/tag/1.0.1"
+      },
+      {
         "version": "1.0.0",
         "release_date": "2019-10-29T19:57:23+00:00",
         "title": "sideload 1.0.0 Released",
