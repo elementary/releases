@@ -3188,6 +3188,13 @@
         "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/6.4.0"
       },
       {
+        "version": "6.3.1",
+        "release_date": "2022-10-21T22:06:25+00:00",
+        "title": "switchboard-plug-pantheon-shell 6.3.1 Released",
+        "body": "<p>Other updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/6.3.1"
+      },
+      {
         "version": "6.3.0",
         "release_date": "2022-08-15T18:15:27+00:00",
         "title": "switchboard-plug-pantheon-shell 6.3.0 Released",
