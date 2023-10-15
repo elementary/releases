@@ -2082,7 +2082,7 @@
         "href": "https://github.com/elementary/flatpak-platform/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 2,
+    "new_commits": 5,
     "default_branch": "main"
   },
   {
@@ -4166,13 +4166,6 @@
         "title": "Switchboard Display Plug 2.1.9 Released",
         "body": "switchboard-plug-display 2.1.9 is out!\r\n\r\nChanges:\r\n* Nightlight: parse minutes in schedule input properly\r\n* Build system install path fix\r\n* Updated translations",
         "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/2.1.9"
-      },
-      {
-        "version": "2.1.8",
-        "release_date": "2019-04-22T11:09:15+00:00",
-        "title": "Switchboard Display Plug 2.1.8 Released",
-        "body": "switchboard-plug-display 2.1.8 is out!\r\n\r\nChanges:\r\n* Updated translations",
-        "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/2.1.8"
       },
       {
         "version": "2.1.7",
