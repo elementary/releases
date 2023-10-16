@@ -2530,6 +2530,13 @@
         "href": "https://github.com/elementary/icons/releases/tag/7.3.1"
       },
       {
+        "version": "7.3.0",
+        "release_date": "2023-05-02T20:14:47+00:00",
+        "title": "Icons 7.3.0 Released!",
+        "body": "## What's Changed\r\n* Remove network-vpn icons by @danirabbit in https://github.com/elementary/icons/pull/1178\r\n* Drop exec bit from SVG files by @hosiet in https://github.com/elementary/icons/pull/1177\r\n* ci: Make merge.yml a valid GitHub Action by @tintou in https://github.com/elementary/icons/pull/1180\r\n* Network removals by @danirabbit in https://github.com/elementary/icons/pull/1179\r\n* Devices: Remove unused symlinks by @newhoa in https://github.com/elementary/icons/pull/1182\r\n* Switch to GHCR containers by @davidmhewitt in https://github.com/elementary/icons/pull/1183\r\n* Add Adw icons by @danirabbit in https://github.com/elementary/icons/pull/1186\r\n* Add GNOME UI icons to actions by @danirabbit in https://github.com/elementary/icons/pull/1185\r\n* Update preferences-desktop-display by @danirabbit in https://github.com/elementary/icons/pull/1187\r\n* Actions: increase radius of edit-clear by @danirabbit in https://github.com/elementary/icons/pull/1191\r\n* Actions: add adw-external-link by @danirabbit in https://github.com/elementary/icons/pull/1189\r\n* Actions: update document-*-symbolic radius by @danirabbit in https://github.com/elementary/icons/pull/1190\r\n* Process completed newcheck by @danirabbit in https://github.com/elementary/icons/pull/1193\r\n* Categories: add location prefs by @danirabbit in https://github.com/elementary/icons/pull/1195\r\n* Extension → application-x-addon by @danirabbit in https://github.com/elementary/icons/pull/1197\r\n\r\n## New Contributors\r\n* @hosiet made their first contribution in https://github.com/elementary/icons/pull/1177\r\n* @davidmhewitt made their first contribution in https://github.com/elementary/icons/pull/1183\r\n\r\n**Full Changelog**: https://github.com/elementary/icons/compare/7.2.0...7.3.0",
+        "href": "https://github.com/elementary/icons/releases/tag/7.3.0"
+      },
+      {
         "version": "7.2.0",
         "release_date": "2023-01-24T17:31:50+00:00",
         "title": "Icons 7.2.0 Released",
