@@ -6968,6 +6968,13 @@
         "href": "https://github.com/elementary/switchboard-plug-datetime/releases/tag/2.1.9"
       },
       {
+        "version": "2.1.8",
+        "release_date": "2020-05-18T17:43:20+00:00",
+        "title": "switchboard-plug-datetime 2.1.8 Released",
+        "body": "<p>Minor updates</p>\n<ul>\n<li>Fix potential freeze when changing settings from multiple panes</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-datetime/releases/tag/2.1.8"
+      },
+      {
         "version": "2.1.7",
         "release_date": "2020-04-03T18:37:06+00:00",
         "title": "switchboard-plug-datetime 2.1.7 Released",
