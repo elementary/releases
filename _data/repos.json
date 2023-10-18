@@ -1557,25 +1557,11 @@
         "href": "https://github.com/elementary/switchboard-plug-applications/releases/tag/2.1.6"
       },
       {
-        "version": "2.1.5",
-        "release_date": "2019-01-28T13:18:32+00:00",
-        "title": "Switchboard Applications Plug 2.1.5 Released",
-        "body": "switchboard-plug-applications 2.1.5 is out!\r\n\r\nChanges:\r\n* Search keyword improvements\r\n* Updated translations",
-        "href": "https://github.com/elementary/switchboard-plug-applications/releases/tag/2.1.5"
-      },
-      {
         "version": "2.1.4",
         "release_date": "2018-10-16T00:59:53+00:00",
         "title": "Switchboard Applications Plug 2.1.4 Released",
         "body": "switchboard-plug-applications 2.1.4 is out!\r\n\r\nThis release includes updated translations.\r\n",
         "href": "https://github.com/elementary/switchboard-plug-applications/releases/tag/2.1.4"
-      },
-      {
-        "version": "0.1.3.1",
-        "release_date": "2018-06-22T07:58:10+00:00",
-        "title": "Switchboard Applications Plug 0.1.3.1 Released",
-        "body": "switchboard-plug-applications 0.1.3.1 is out!\r\n\r\nThis release includes the following changes:\r\n* Problematic AppData character removed\r\n* New translations",
-        "href": "https://github.com/elementary/switchboard-plug-applications/releases/tag/0.1.3.1"
       },
       {
         "version": "0.1.3",
