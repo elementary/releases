@@ -1256,7 +1256,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 21,
+    "new_commits": 25,
     "default_branch": "master"
   },
   {
@@ -1844,7 +1844,7 @@
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 44,
+    "new_commits": 45,
     "default_branch": "master"
   },
   {
@@ -3923,7 +3923,7 @@
         "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/2.0"
       }
     ],
-    "new_commits": 13,
+    "new_commits": 14,
     "default_branch": "main"
   },
   {
@@ -6065,7 +6065,7 @@
         "href": "https://github.com/elementary/switchboard-plug-sharing/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 308,
+    "new_commits": 309,
     "default_branch": "main"
   },
   {
@@ -6576,7 +6576,7 @@
         "href": "https://github.com/elementary/switchboard-plug-wacom/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 36,
+    "new_commits": 37,
     "default_branch": "master"
   },
   {
@@ -7017,7 +7017,7 @@
         "href": "https://github.com/elementary/switchboard-plug-datetime/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 118,
+    "new_commits": 119,
     "default_branch": "main"
   },
   {
@@ -7073,7 +7073,7 @@
         "href": "https://github.com/elementary/switchboard-plug-notifications/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 92,
+    "new_commits": 93,
     "default_branch": "main"
   },
   {
@@ -7164,7 +7164,7 @@
         "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 104,
+    "new_commits": 105,
     "default_branch": "main"
   },
   {
