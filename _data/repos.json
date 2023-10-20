@@ -1256,7 +1256,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 18,
+    "new_commits": 21,
     "default_branch": "master"
   },
   {
@@ -1844,7 +1844,7 @@
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 40,
+    "new_commits": 44,
     "default_branch": "master"
   },
   {
@@ -3293,7 +3293,7 @@
         "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
       }
     ],
-    "new_commits": 10,
+    "new_commits": 12,
     "default_branch": "master"
   },
   {
