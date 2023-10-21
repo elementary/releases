@@ -507,6 +507,13 @@
         "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/7.0.2"
       },
       {
+        "version": "7.0.1",
+        "release_date": "2023-03-02T01:17:29+00:00",
+        "title": "Network Indicator 7.0.1",
+        "body": "## What's Changed\r\n* Use dbus_call for setting airplane mode by @danirabbit in https://github.com/elementary/wingpanel-indicator-network/pull/285\r\n* VpnInterface: catch errors in activate_cb by @danirabbit in https://github.com/elementary/wingpanel-indicator-network/pull/286\r\n* Release 7.0.1 by @danirabbit in https://github.com/elementary/wingpanel-indicator-network/pull/290\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/wingpanel-indicator-network/compare/7.0.0...7.0.1",
+        "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/7.0.1"
+      },
+      {
         "version": "7.0.0",
         "release_date": "2023-02-28T16:31:54+00:00",
         "title": "Network Indicator 7.0.0 Released!",
