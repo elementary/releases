@@ -2355,7 +2355,7 @@
         "href": "https://github.com/elementary/videos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 56,
+    "new_commits": 57,
     "default_branch": "main"
   },
   {
@@ -2460,6 +2460,13 @@
         "href": "https://github.com/elementary/initial-setup/releases/tag/6.2.2"
       },
       {
+        "version": "6.2.1",
+        "release_date": "2022-10-21T22:08:32+00:00",
+        "title": "initial-setup 6.2.1 Released",
+        "body": "\n",
+        "href": "https://github.com/elementary/initial-setup/releases/tag/6.2.1"
+      },
+      {
         "version": "6.2.0",
         "release_date": "2022-05-12T16:37:06+00:00",
         "title": "initial-setup 6.2.0 Released",
@@ -2493,6 +2500,13 @@
         "title": "initial-setup 1.0.2 Released",
         "body": "initial-setup 1.0.2 is out! \n\nChanges:\n\n* Translation updates\n",
         "href": "https://github.com/elementary/initial-setup/releases/tag/1.0.2"
+      },
+      {
+        "version": "1.0.1",
+        "release_date": "2019-10-21T19:56:01+00:00",
+        "title": "initial-setup 1.0.1 Released",
+        "body": "initial-setup 1.0.1 is out! \n\nChanges:\n\n* Translation updates\n",
+        "href": "https://github.com/elementary/initial-setup/releases/tag/1.0.1"
       },
       {
         "version": "1.0.0",
