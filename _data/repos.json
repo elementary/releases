@@ -1592,7 +1592,7 @@
         "href": "https://github.com/elementary/switchboard-plug-applications/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 3,
+    "new_commits": 4,
     "default_branch": "master"
   },
   {
@@ -1844,7 +1844,7 @@
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 45,
+    "new_commits": 46,
     "default_branch": "master"
   },
   {
@@ -2992,7 +2992,7 @@
         "href": "https://github.com/elementary/switchboard-plug-security-privacy/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 7,
+    "new_commits": 8,
     "default_branch": "master"
   },
   {
@@ -3293,7 +3293,7 @@
         "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
       }
     ],
-    "new_commits": 12,
+    "new_commits": 13,
     "default_branch": "master"
   },
   {
@@ -3412,7 +3412,7 @@
         "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/0.1"
       }
     ],
-    "new_commits": 13,
+    "new_commits": 14,
     "default_branch": "main"
   },
   {
@@ -4826,7 +4826,7 @@
         "href": "https://github.com/elementary/camera/releases/tag/1.0"
       }
     ],
-    "new_commits": 8,
+    "new_commits": 9,
     "default_branch": "master"
   },
   {
@@ -5687,7 +5687,7 @@
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
       }
     ],
-    "new_commits": 55,
+    "new_commits": 56,
     "default_branch": "master"
   },
   {
@@ -6156,7 +6156,7 @@
         "href": "https://github.com/elementary/switchboard-plug-printers/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 64,
+    "new_commits": 65,
     "default_branch": "master"
   },
   {
@@ -7017,7 +7017,7 @@
         "href": "https://github.com/elementary/switchboard-plug-datetime/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 120,
+    "new_commits": 121,
     "default_branch": "main"
   },
   {
@@ -7073,7 +7073,7 @@
         "href": "https://github.com/elementary/switchboard-plug-notifications/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 93,
+    "new_commits": 95,
     "default_branch": "main"
   },
   {
