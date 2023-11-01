@@ -451,7 +451,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 9,
+    "new_commits": 10,
     "default_branch": "main"
   },
   {
@@ -1256,7 +1256,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 34,
+    "new_commits": 35,
     "default_branch": "master"
   },
   {
@@ -6065,7 +6065,7 @@
         "href": "https://github.com/elementary/switchboard-plug-sharing/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 310,
+    "new_commits": 311,
     "default_branch": "main"
   },
   {
