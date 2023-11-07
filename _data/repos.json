@@ -1319,32 +1319,11 @@
         "href": "https://github.com/elementary/wingpanel/releases/tag/2.3.1"
       },
       {
-        "version": "2.3.0",
-        "release_date": "2020-03-02T19:36:38+00:00",
-        "title": "wingpanel 2.3.0 Released",
-        "body": "wingpanel 2.3.0 is out! \n\n<p>Improvements:</p>\n<ul>\n<li>Fix an issue where moving windows to a secondary display above the panel wouldn't work</li>\n<li>Register with session manager</li>\n<li>Add support for mutter 3.3x</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/wingpanel/releases/tag/2.3.0"
-      },
-      {
         "version": "2.2.6",
         "release_date": "2019-10-31T20:41:42+00:00",
         "title": "wingpanel 2.2.6 Released",
         "body": "wingpanel 2.2.6 is out! \n\nChanges:\n\n* Fix an issue with the panel being draggable on touch screens\n* Fix focus on dialogs launched from the panel\n* Updated translations\n",
         "href": "https://github.com/elementary/wingpanel/releases/tag/2.2.6"
-      },
-      {
-        "version": "2.2.5",
-        "release_date": "2019-06-05T09:55:20+00:00",
-        "title": "Wingpanel 2.2.5 Released",
-        "body": "Wingpanel 2.2.5 is out!\r\n\r\nChanges:\r\n* More accurately focus launched apps\r\n* Mitigate panel transparency calculation regressions with newer Mutter library\r\n* Deprecate unused indicator properties",
-        "href": "https://github.com/elementary/wingpanel/releases/tag/2.2.5"
-      },
-      {
-        "version": "2.2.4",
-        "release_date": "2019-04-24T12:30:39+00:00",
-        "title": "Wingpanel 2.2.4 Released",
-        "body": "Wingpanel 2.2.4 is out!\r\n\r\nChanges:\r\n* Fix moving window to another workspace not updating panel state",
-        "href": "https://github.com/elementary/wingpanel/releases/tag/2.2.4"
       },
       {
         "version": "2.2.3",
@@ -2222,7 +2201,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 61,
+    "new_commits": 65,
     "default_branch": "master"
   },
   {
