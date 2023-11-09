@@ -955,13 +955,6 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/7.4.0"
       },
       {
-        "version": "7.3.0",
-        "release_date": "2023-06-27T19:46:43+00:00",
-        "title": "AppCenter 7.3.0 Released!",
-        "body": "## What's Changed\r\n* Create AuthorView by @danirabbit in https://github.com/elementary/appcenter/pull/1997\r\n* Switch to GHCR containers by @davidmhewitt in https://github.com/elementary/appcenter/pull/2014\r\n* Show Flatpak permissions by @danirabbit in https://github.com/elementary/appcenter/pull/2007\r\n* Fix deprecations for AppStream 0.16 by @meisenzahl in https://github.com/elementary/appcenter/pull/2015\r\n* Require newer meson and fix deprecations by @lenemter in https://github.com/elementary/appcenter/pull/2034\r\n* AppInfoView: rework vertical spacing by @danirabbit in https://github.com/elementary/appcenter/pull/2024\r\n* Homepage placeholder by @danirabbit in https://github.com/elementary/appcenter/pull/2030\r\n* CategoryView: Sort native apps first instead of splitting by @danirabbit in https://github.com/elementary/appcenter/pull/2029\r\n* Add meson options to disable backends by @meisenzahl in https://github.com/elementary/appcenter/pull/1994\r\n* AppInfoView: warn about home permissions by @danirabbit in https://github.com/elementary/appcenter/pull/2040\r\n* AppInfoView: warn about direct geoclue access by @danirabbit in https://github.com/elementary/appcenter/pull/2041\r\n* Homepage: misc banner and carousel cleanup by @danirabbit in https://github.com/elementary/appcenter/pull/2042\r\n* AppInfoView: warn about sandbox escape by @danirabbit in https://github.com/elementary/appcenter/pull/2039\r\n* AppInfoView: warn about settings access by @danirabbit in https://github.com/elementary/appcenter/pull/2043\r\n* FlatpakBackend: Add null checks for user and system installation by @meisenzahl in https://github.com/elementary/appcenter/pull/2053\r\n\r\n## New Contributors\r\n* @lenemter made their first contribution in https://github.com/elementary/appcenter/pull/2034\r\n\r\n**Full Changelog**: https://github.com/elementary/appcenter/compare/7.2.1...7.3.0",
-        "href": "https://github.com/elementary/appcenter/releases/tag/7.3.0"
-      },
-      {
         "version": "7.2.1",
         "release_date": "2023-02-24T13:27:18+00:00",
         "title": "AppCenter 7.2.1 Released",
@@ -1002,13 +995,6 @@
         "title": "appcenter 3.10.0 Released",
         "body": "<p>New features:</p>\n<ul>\n<li>Added an option to automatically update apps</li>\n<li>Manually check for new updates</li>\n<li>Warn when apps are built against older runtimes</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Prevent back button from disappearing or requiring multiple clicks</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Don't show a warning dialog about apps from alt stores</li>\n<li>Show screenshot captions in a tooltip</li>\n<li>Show \"Try for Free\" when setting an app's price to 0</li>\n<li>Performance improvements</li>\n<li>Updated translations</li>\n</ul>\n",
         "href": "https://github.com/elementary/appcenter/releases/tag/3.10.0"
-      },
-      {
-        "version": "3.9.1",
-        "release_date": "2021-12-11T05:20:33+00:00",
-        "title": "appcenter 3.9.1 Released",
-        "body": "<p>Fixes:</p>\n<ul>\n<li>Prevent potential crashes when updating</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Link to Flathub's search page when no search results are found</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.9.1"
       },
       {
         "version": "3.9.0",
@@ -1065,13 +1051,6 @@
         "title": "appcenter 3.6.2 Released",
         "body": "<p>Fixes:</p>\n<ul>\n<li>Install Linux kernel headers with NVIDIA drivers</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
         "href": "https://github.com/elementary/appcenter/releases/tag/3.6.2"
-      },
-      {
-        "version": "3.6.1",
-        "release_date": "2021-08-03T00:31:07+00:00",
-        "title": "appcenter 3.6.1 Released",
-        "body": "<p>Fixes:</p>\n<ul>\n<li>Show Recently Updated Flatpak apps on home page</li>\n<li>Show brand colors and support payments for Flatpak apps</li>\n<li>Fix missing mail icon in payments dialog</li>\n<li>Fix missing privacy policy in payments dialog</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/appcenter/releases/tag/3.6.1"
       },
       {
         "version": "3.6.0",
@@ -2222,7 +2201,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 66,
+    "new_commits": 71,
     "default_branch": "master"
   },
   {
