@@ -3853,6 +3853,13 @@
         "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/6.5.1"
       },
       {
+        "version": "6.5.0",
+        "release_date": "2022-05-16T19:21:17+00:00",
+        "title": "switchboard-plug-onlineaccounts 6.5.0 Released",
+        "body": "<p>New features:</p>\n<ul>\n<li>Added offline support for CalDAV accounts</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/6.5.0"
+      },
+      {
         "version": "6.4.0",
         "release_date": "2022-04-06T18:36:45+00:00",
         "title": "switchboard-plug-onlineaccounts 6.4.0 Released",
