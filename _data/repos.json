@@ -7010,13 +7010,6 @@
         "href": "https://github.com/elementary/switchboard-plug-datetime/releases/tag/2.1.4"
       },
       {
-        "version": "0.1.3",
-        "release_date": "2018-06-07T14:29:37+00:00",
-        "title": "Switchboard Date & Time Plug 0.1.3 Released",
-        "body": "switchboard-plug-datetime 0.1.3 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-datetime/issues?q=is%3Aclosed+milestone%3A0.1.3).",
-        "href": "https://github.com/elementary/switchboard-plug-datetime/releases/tag/0.1.3"
-      },
-      {
         "version": "0.1.2",
         "release_date": "2017-04-21T18:28:22+00:00",
         "title": "Switchboard Date & Time Plug 0.1.2 Released",
