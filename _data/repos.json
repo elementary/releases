@@ -2117,6 +2117,13 @@
         "href": "https://github.com/elementary/default-settings/releases/tag/7.0.2"
       },
       {
+        "version": "7.0.1",
+        "release_date": "2022-12-10T16:35:32+00:00",
+        "title": "Default Settings 7.0.1 Released",
+        "body": "## What's Changed\r\n* Music Dockitem: Point to var/lib/flatpak by @danirabbit in https://github.com/elementary/default-settings/pull/274\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/default-settings/compare/7.0.0...7.0.1",
+        "href": "https://github.com/elementary/default-settings/releases/tag/7.0.1"
+      },
+      {
         "version": "7.0.0",
         "release_date": "2022-11-14T15:58:59+00:00",
         "title": "Default Settings 7.0.0 Released",
@@ -7332,7 +7339,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.0"
       }
     ],
-    "new_commits": 6157,
+    "new_commits": 6158,
     "default_branch": "master"
   },
   {
