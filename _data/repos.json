@@ -6625,6 +6625,20 @@
         "href": "https://github.com/elementary/switchboard/releases/tag/2.3.9"
       },
       {
+        "version": "2.3.8",
+        "release_date": "2020-01-14T23:17:14+00:00",
+        "title": "switchboard 2.3.8 Released",
+        "body": "switchboard 2.3.8 is out! \n\n<ul>\n<li>Fix an issue that prevented tiling on small displays</li>\n<li>Fix an issue with restoring the correct window size</li>\n<li>Make the category grid fill the available space when maximized</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard/releases/tag/2.3.8"
+      },
+      {
+        "version": "2.3.7",
+        "release_date": "2019-11-04T22:08:38+00:00",
+        "title": "switchboard 2.3.7 Released",
+        "body": "switchboard 2.3.7 is out! \n\nChanges:\n\n* Pressing the \"Down\" arrow key from the search box correctly focuses the first row\n* Drop dynamic items from the Dock secondary-click menu\n* Updated translations\n",
+        "href": "https://github.com/elementary/switchboard/releases/tag/2.3.7"
+      },
+      {
         "version": "2.3.6",
         "release_date": "2019-01-23T08:18:24+00:00",
         "title": "Switchboard 2.3.6 Released",
