@@ -4525,6 +4525,13 @@
         "href": "https://github.com/elementary/calculator/releases/tag/1.7.2"
       },
       {
+        "version": "1.7.1",
+        "release_date": "2021-10-26T16:29:53+00:00",
+        "title": "Calculator 1.7.1 Released",
+        "body": "<p>Minor updates:</p>\r\n<ul>\r\n<li>Showing advanced controls only affects the focused window</li>\r\n<li>Focus the main text entry on startup</li>\r\n<li>Show the correct window title in Multitasking View</li>\r\n<li>Updated translations</li>\r\n<li>Added 'New Window' Desktop Action</li>\r\n</ul>",
+        "href": "https://github.com/elementary/calculator/releases/tag/1.7.1"
+      },
+      {
         "version": "1.7.0",
         "release_date": "2021-08-09T17:47:45+00:00",
         "title": "calculator 1.7.0 Released",
