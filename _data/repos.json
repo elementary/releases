@@ -5253,11 +5253,25 @@
         "href": "https://github.com/elementary/terminal/releases/tag/5.5.0"
       },
       {
+        "version": "5.4.0",
+        "release_date": "2019-11-15T23:11:23+00:00",
+        "title": "terminal 5.4.0 Released",
+        "body": "terminal 5.4.0 is out! \n\nChanges:\n\n* Don't remember tabs when History is disabled in System Settings\n* Show keyboard shortcuts in the secondary-click menu\n* Middle-click paste now properly follows System Settings\n* Shift + Control + D to duplicate tabs\n* Use neutral colors for the dark style scheme\n* Slightly pad text from the edge of the window\n* Translation updates\n",
+        "href": "https://github.com/elementary/terminal/releases/tag/5.4.0"
+      },
+      {
         "version": "5.3.6",
         "release_date": "2019-07-15T15:02:11+00:00",
         "title": "Terminal 5.3.6 Released",
         "body": "Terminal 5.3.6 is out!\r\n\r\nChanges:\r\n* Pressing the Menu key now opens the context menu\r\n* Added separator to context menu\r\n* Store state with GSettings\r\n* Updated translations",
         "href": "https://github.com/elementary/terminal/releases/tag/5.3.6"
+      },
+      {
+        "version": "5.3.5",
+        "release_date": "2019-06-04T22:49:19+00:00",
+        "title": "Terminal 5.3.5 Released",
+        "body": "Terminal 5.3.5 is out!\r\n\r\nChanges:\r\n* Support Ctrl+Equal key combo to zoom in\r\n* Fix a wrong foreground process response code\r\n* Updated translations",
+        "href": "https://github.com/elementary/terminal/releases/tag/5.3.5"
       },
       {
         "version": "5.3.4",
