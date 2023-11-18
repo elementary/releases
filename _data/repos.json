@@ -3636,13 +3636,6 @@
         "href": "https://github.com/elementary/calendar/releases/tag/6.0.0"
       },
       {
-        "version": "5.1.1",
-        "release_date": "2020-10-08T20:26:30+00:00",
-        "title": "calendar 5.1.1 Released",
-        "body": "<p>Minor Updates:</p>\n<ul>\n<li>Fix an issue where new events could appear twice in Calendar</li>\n<li>\"Mark as default calendar\" box is now correctly checked when editing a calendar</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/calendar/releases/tag/5.1.1"
-      },
-      {
         "version": "5.1.0",
         "release_date": "2020-09-03T21:57:16+00:00",
         "title": "calendar 5.1.0 Released",
@@ -3690,13 +3683,6 @@
         "title": "calendar 5.0.1 Released",
         "body": "calendar 5.0.1 is out! \r\n\r\n- Make agenda pane fill the whole space\r\n- Set the suggested time for new events to the next whole hour\r\n- Fix issues with recurring events\r\n- Performance improvements\r\n- Updated translations\r\n",
         "href": "https://github.com/elementary/calendar/releases/tag/5.0.1"
-      },
-      {
-        "version": "5.0",
-        "release_date": "2019-03-01T00:38:47+00:00",
-        "title": "Calendar 5.0 Released",
-        "body": "Calendar 5.0 is out!\r\n\r\nChanges:\r\n* Present import window when opening ICS files\r\n* Add a search entry for calendars\r\n* Always use calendar icon in notifications\r\n* Agenda view can now be navigated by keyboard\r\n* Right-to-left improvements\r\n* Various UI overhauls including lime accent color\r\n* Overall code cleanup and rewrites\r\n* Updated translations",
-        "href": "https://github.com/elementary/calendar/releases/tag/5.0"
       },
       {
         "version": "4.2.3",
