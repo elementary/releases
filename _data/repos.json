@@ -150,7 +150,7 @@
         "href": "https://github.com/elementary/stylesheet/releases/tag/5.0.4"
       }
     ],
-    "new_commits": 4,
+    "new_commits": 5,
     "default_branch": "master"
   },
   {
@@ -4539,7 +4539,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 22,
+    "new_commits": 23,
     "default_branch": "main"
   },
   {
