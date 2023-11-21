@@ -6653,6 +6653,13 @@
         "href": "https://github.com/elementary/switchboard/releases/tag/2.3.8"
       },
       {
+        "version": "2.3.7",
+        "release_date": "2019-11-04T22:08:38+00:00",
+        "title": "switchboard 2.3.7 Released",
+        "body": "switchboard 2.3.7 is out! \n\nChanges:\n\n* Pressing the \"Down\" arrow key from the search box correctly focuses the first row\n* Drop dynamic items from the Dock secondary-click menu\n* Updated translations\n",
+        "href": "https://github.com/elementary/switchboard/releases/tag/2.3.7"
+      },
+      {
         "version": "2.3.6",
         "release_date": "2019-01-23T08:18:24+00:00",
         "title": "Switchboard 2.3.6 Released",
