@@ -227,7 +227,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 1,
+    "new_commits": 2,
     "default_branch": "main"
   },
   {
@@ -577,7 +577,7 @@
         "href": "https://github.com/elementary/action-appcenter-review-parse/releases/tag/v1.0.1"
       }
     ],
-    "new_commits": 0,
+    "new_commits": 7,
     "default_branch": "main"
   },
   {
@@ -619,7 +619,7 @@
         "href": "https://github.com/elementary/action-appcenter-review-checklist/releases/tag/v1.0.1"
       }
     ],
-    "new_commits": 4,
+    "new_commits": 7,
     "default_branch": "main"
   },
   {
@@ -703,7 +703,7 @@
         "href": "https://github.com/elementary/action-appcenter-review-find-manifest/releases/tag/v1.0.1"
       }
     ],
-    "new_commits": 7,
+    "new_commits": 12,
     "default_branch": "main"
   },
   {
