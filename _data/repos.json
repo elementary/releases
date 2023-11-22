@@ -101,6 +101,13 @@
         "href": "https://github.com/elementary/granite/releases/tag/6.2.0"
       },
       {
+        "version": "6.1.2",
+        "release_date": "2021-10-25T18:46:08+00:00",
+        "title": "Granite 6.1.2",
+        "body": "<p>Fixes:</p>\r\n<ul>\r\n<li>Use values from the Settings Portal when possible</li>\r\n<li>Disable horizontal scrolling by default in SettingsPage</li>\r\n<li>Updated translations</li>\r\n</ul>",
+        "href": "https://github.com/elementary/granite/releases/tag/6.1.2"
+      },
+      {
         "version": "6.1.1",
         "release_date": "2021-08-25T22:06:34+00:00",
         "title": "granite 6.1.1 Released",
