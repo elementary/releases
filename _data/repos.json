@@ -4070,11 +4070,25 @@
         "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.1.4"
       },
       {
+        "version": "2.1.3",
+        "release_date": "2019-03-07T07:07:56+00:00",
+        "title": "Wingpanel Sound Indicator 2.1.3 Released",
+        "body": "wingpanel-indicator-sound 2.1.3 is out!\r\n\r\nChanges:\r\n* Fix touchpad smooth and horizontal scrolling\r\n* Middle click to mute microphone\r\n* Scroll over microphone icon to adjust mic volume\r\n* Smarter MPRIS art update\r\n* Fix music player fallback icon logic\r\n* Animate mute icon\r\n* Updated translations",
+        "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.1.3"
+      },
+      {
         "version": "2.1.2",
         "release_date": "2018-12-19T12:00:05+00:00",
         "title": "Wingpanel Sound Indicator 2.1.2 Released",
         "body": "wingpanel-indicator-sound 2.1.2 is out!\r\n\r\nChanges:\r\n* Don't close an nonexistent notifications\r\n* Updated translations",
         "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.1.2"
+      },
+      {
+        "version": "2.1.1",
+        "release_date": "2018-10-01T11:41:07+00:00",
+        "title": "Wingpanel Sound Indicator 2.1.1 Released",
+        "body": "wingpanel-indicator-sound 2.1.1 is out!\r\n\r\nChanges:\r\n* Remove 'by' before artist text\r\n* Code clean up\r\n* Updated translations",
+        "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.1.1"
       },
       {
         "version": "2.1.0",
