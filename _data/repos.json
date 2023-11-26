@@ -6751,6 +6751,13 @@
         "href": "https://github.com/elementary/switchboard-plug-power/releases/tag/2.4.2"
       },
       {
+        "version": "2.4.1",
+        "release_date": "2020-04-01T23:33:34+00:00",
+        "title": "switchboard-plug-power 2.4.1 Released",
+        "body": "switchboard-plug-power 2.4.1 is out! \n\n<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/switchboard-plug-power/releases/tag/2.4.1"
+      },
+      {
         "version": "2.4.0",
         "release_date": "2019-11-15T22:48:03+00:00",
         "title": "switchboard-plug-power 2.4.0 Released",
