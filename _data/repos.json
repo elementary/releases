@@ -150,13 +150,6 @@
         "href": "https://github.com/elementary/granite/releases/tag/7.0.0"
       },
       {
-        "version": "6.2.0",
-        "release_date": "2021-11-23T21:36:35+00:00",
-        "title": "granite 6.2.0 Released",
-        "body": "<p>New Features:</p>\n<ul>\n<li>min_length property for Granite.ValidatedEntry</li>\n<li>Granite.HyperTextView for navigatable URLs in text views</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Prevent crashing on environments without dark style preference support</li>\n</ul>\n",
-        "href": "https://github.com/elementary/granite/releases/tag/6.2.0"
-      },
-      {
         "version": "6.1.2",
         "release_date": "2021-10-25T18:46:08+00:00",
         "title": "Granite 6.1.2",
@@ -248,13 +241,6 @@
         "href": "https://github.com/elementary/granite/releases/tag/5.2.1"
       },
       {
-        "version": "5.2.0",
-        "release_date": "2018-11-01T20:50:16+00:00",
-        "title": "Granite 5.2.0 Released",
-        "body": "Granite 5.2.0 is out!\r\n\r\nChanges:\r\n* Added `Granite.STYLE_CLASS_CHECKERBOARD`\r\n* Added Accel utilities:\r\n  * `accel_to_string`, takes something like \"<Super>Right\" and returns \"⌘ + →\"\r\n  * `markup_accel_tooltip`, takes a description and an accel string array and returns the markup for tooltips\r\n* DateTime: use `io.elementary.desktop.wingpanel.datetime` for settings instead of `org.gnome.desktop.interface`\r\n* Updated translations",
-        "href": "https://github.com/elementary/granite/releases/tag/5.2.0"
-      },
-      {
         "version": "5.1.0",
         "release_date": "2018-08-23T23:54:44+00:00",
         "title": "Granite 5.1.0 Released",
@@ -274,13 +260,6 @@
         "title": "Granite 0.5 Released",
         "body": "Granite 0.5 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/granite/issues?q=is%3Aclosed+milestone%3A0.5).",
         "href": "https://github.com/elementary/granite/releases/tag/0.5"
-      },
-      {
-        "version": "0.4.1",
-        "release_date": "2017-05-07T02:08:52+00:00",
-        "title": "Granite 0.4.1 Released",
-        "body": "Granite 0.4.1 is out!\r\n\r\nA detailed change log is available [here](https://github.com/elementary/granite/milestone/1?closed=1)",
-        "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
     "new_commits": 3,
