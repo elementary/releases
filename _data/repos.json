@@ -2369,13 +2369,6 @@
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.3.5"
       },
       {
-        "version": "2.3.4",
-        "release_date": "2018-10-16T00:27:00+00:00",
-        "title": "Switchboard Keyboard Plug 2.3.4 Released",
-        "body": "switchboard-plug-keyboard 2.3.4 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-keyboard/issues?q=is%3Aclosed+milestone%3A2.3.4).",
-        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.3.4"
-      },
-      {
         "version": "0.3.3",
         "release_date": "2018-06-08T16:39:32+00:00",
         "title": "Switchboard Keyboard Plug 0.3.3 Released",
