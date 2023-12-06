@@ -4651,6 +4651,13 @@
         "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/2.1.9"
       },
       {
+        "version": "2.1.8",
+        "release_date": "2019-04-22T11:09:15+00:00",
+        "title": "Switchboard Display Plug 2.1.8 Released",
+        "body": "switchboard-plug-display 2.1.8 is out!\r\n\r\nChanges:\r\n* Updated translations",
+        "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/2.1.8"
+      },
+      {
         "version": "2.1.7",
         "release_date": "2019-04-05T16:05:19+00:00",
         "title": "Switchboard Display Plug 2.1.7 Released",
