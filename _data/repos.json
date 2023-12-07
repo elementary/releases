@@ -5575,13 +5575,6 @@
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.11.1"
       },
       {
-        "version": "2.11.0",
-        "release_date": "2022-11-15T19:10:58+00:00",
-        "title": "applications-menu 2.11.0 Released",
-        "body": "<p>New Features:</p>\n<ul>\n<li>Convert between units of measurement</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/applications-menu/releases/tag/2.11.0"
-      },
-      {
         "version": "2.10.2",
         "release_date": "2021-12-11T05:34:42+00:00",
         "title": "applications-menu 2.10.2 Released",
