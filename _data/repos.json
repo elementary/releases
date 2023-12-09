@@ -66,13 +66,6 @@
         "href": "https://github.com/elementary/calculator/releases/tag/1.6.1"
       },
       {
-        "version": "1.6.0",
-        "release_date": "2020-12-23T20:16:02+00:00",
-        "title": "calculator 1.6.0 Released",
-        "body": "<p>New features:</p>\n<ul>\n<li>Add log and inverse trigonometric functions</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Fix an issue with negative decimals without leading digits</li>\n<li>More efficient state saving</li>\n<li>Use slim titlebar</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/calculator/releases/tag/1.6.0"
-      },
-      {
         "version": "1.5.5",
         "release_date": "2020-04-03T20:45:02+00:00",
         "title": "calculator 1.5.5 Released",
@@ -3298,6 +3291,13 @@
         "title": "Mail 7.0.1 Released",
         "body": "## What's Changed\r\n* MainWindow: Spelling: ellipsis by @comradekingu in https://github.com/elementary/mail/pull/791\r\n* build: fix documentation build by @bobby285271 in https://github.com/elementary/mail/pull/795\r\n* Docs: Add curiously omitted dependency on meson to the readme by @turbobastii in https://github.com/elementary/mail/pull/803\r\n* actions/checkout@v3 by @meisenzahl in https://github.com/elementary/mail/pull/811\r\n* build: support webkit2gtk-4.1 by @bobby285271 in https://github.com/elementary/mail/pull/794\r\n* Make a link containing '%' valid (Fix for #810) by @leolost2605 in https://github.com/elementary/mail/pull/813\r\n* Metainfo Improvements by @danirabbit in https://github.com/elementary/mail/pull/821\r\n* Fix #814: Crash on setting a message flag by @leolost2605 in https://github.com/elementary/mail/pull/825\r\n* Release 7.0.1 by @danirabbit in https://github.com/elementary/mail/pull/826\r\n\r\n## New Contributors\r\n* @bobby285271 made their first contribution in https://github.com/elementary/mail/pull/795\r\n* @turbobastii made their first contribution in https://github.com/elementary/mail/pull/803\r\n* @leolost2605 made their first contribution in https://github.com/elementary/mail/pull/813\r\n\r\n**Full Changelog**: https://github.com/elementary/mail/compare/7.0.0...7.0.1",
         "href": "https://github.com/elementary/mail/releases/tag/7.0.1"
+      },
+      {
+        "version": "7.0.0",
+        "release_date": "2022-05-23T23:42:49+00:00",
+        "title": "mail 7.0.0 Released",
+        "body": "<p>Fixes:</p>\n<ul>\n<li>Fixed an error which caused mail accounts to be loaded multiple times</li>\n<li>Fixed a bug which caused Mail to crash occasionally</li>\n<li>Display recipient in Sent folder instead of sender</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Updated app icon</li>\n<li>New design</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/mail/releases/tag/7.0.0"
       },
       {
         "version": "6.4.0",
