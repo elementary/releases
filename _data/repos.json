@@ -3300,13 +3300,6 @@
         "href": "https://github.com/elementary/mail/releases/tag/7.0.1"
       },
       {
-        "version": "7.0.0",
-        "release_date": "2022-05-23T23:42:49+00:00",
-        "title": "mail 7.0.0 Released",
-        "body": "<p>Fixes:</p>\n<ul>\n<li>Fixed an error which caused mail accounts to be loaded multiple times</li>\n<li>Fixed a bug which caused Mail to crash occasionally</li>\n<li>Display recipient in Sent folder instead of sender</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Updated app icon</li>\n<li>New design</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/mail/releases/tag/7.0.0"
-      },
-      {
         "version": "6.4.0",
         "release_date": "2022-01-24T20:17:46+00:00",
         "title": "mail 6.4.0 Released",
