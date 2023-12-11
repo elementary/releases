@@ -241,7 +241,7 @@
         "href": "https://github.com/elementary/flatpak-platform/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 0,
+    "new_commits": 2,
     "default_branch": "main"
   },
   {
@@ -843,7 +843,7 @@
         "href": "https://github.com/elementary/action-appcenter-review-find-manifest/releases/tag/v1.0.1"
       }
     ],
-    "new_commits": 14,
+    "new_commits": 16,
     "default_branch": "main"
   },
   {
