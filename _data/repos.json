@@ -4490,13 +4490,6 @@
     "name": "wingpanel-indicator-bluetooth",
     "releases": [
       {
-        "version": "7.0.1",
-        "release_date": "2023-06-29T18:10:58+00:00",
-        "title": "Bluetooth Indicator 7.0.1 Released!",
-        "body": "## What's Changed\r\n* Manually add resourced icons to path by @danirabbit in https://github.com/elementary/wingpanel-indicator-bluetooth/pull/204\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/wingpanel-indicator-bluetooth/compare/7.0.0...7.0.1",
-        "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/7.0.1"
-      },
-      {
         "version": "7.0.0",
         "release_date": "2023-06-27T19:45:26+00:00",
         "title": "Bluetooth Indicator 7.0.0 Released!",
@@ -4581,7 +4574,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 6,
+    "new_commits": 10,
     "default_branch": "master"
   },
   {
