@@ -6408,13 +6408,6 @@
         "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.3.0"
       },
       {
-        "version": "2.2.5",
-        "release_date": "2020-06-30T19:54:39+00:00",
-        "title": "wingpanel-indicator-datetime 2.2.5 Released",
-        "body": "<p>Fix issues with time zones not being recognized</p>\n<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.2.5"
-      },
-      {
         "version": "2.2.4",
         "release_date": "2020-05-28T18:53:35+00:00",
         "title": "wingpanel-indicator-datetime 2.2.4 Released",
@@ -6429,13 +6422,6 @@
         "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.2.3"
       },
       {
-        "version": "2.2.2",
-        "release_date": "2020-03-29T19:40:47+00:00",
-        "title": "wingpanel-indicator-datetime 2.2.2 Released",
-        "body": "wingpanel-indicator-datetime 2.2.2 is out! \n\n<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.2.2"
-      },
-      {
         "version": "2.2.1",
         "release_date": "2019-11-26T18:10:05+00:00",
         "title": "wingpanel-indicator-datetime 2.2.1 Released",
@@ -6448,13 +6434,6 @@
         "title": "wingpanel-indicator-datetime 2.2.0 Released",
         "body": "wingpanel-indicator-datetime 2.2.0 is out! \n\nChanges:\n\n* Redesigned the way upcoming events are displayed\n* Fixed issues with large text size\n* Show dots on days with events\n* Better handling of recurring events\n* Performance improvements\n* Display an error dialog if Calendar fails to open\n* Updated translations\n",
         "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.2.0"
-      },
-      {
-        "version": "2.1.3",
-        "release_date": "2018-12-12T01:04:37+00:00",
-        "title": "Wingpanel Date & Time Indicator 2.1.3 Released",
-        "body": "wingpanel-indicator-datetime 2.1.3 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/wingpanel-indicator-datetime/issues?q=is%3Aclosed+milestone%3A2.1.3).",
-        "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.1.3"
       },
       {
         "version": "2.1.2",
