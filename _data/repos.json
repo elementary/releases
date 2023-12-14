@@ -5680,13 +5680,6 @@
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.4.4"
       },
       {
-        "version": "2.4.3",
-        "release_date": "2019-05-16T10:10:36+00:00",
-        "title": "Slingshot 2.4.3 Released",
-        "body": "slingshot-launcher 2.4.3 is out!\r\n\r\nChanges:\r\n* Build system fixes\r\n* Support more system management keywords\r\n* Fix ignored translations in search results\r\n* Keyboard navigation fix\r\n* Updated translations",
-        "href": "https://github.com/elementary/applications-menu/releases/tag/2.4.3"
-      },
-      {
         "version": "2.4.2",
         "release_date": "2019-01-22T09:51:45+00:00",
         "title": "Slingshot 2.4.2 Released",
