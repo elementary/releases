@@ -472,7 +472,7 @@
         "href": "https://github.com/elementary/action-appcenter-review-parse/releases/tag/v1.0.1"
       }
     ],
-    "new_commits": 4,
+    "new_commits": 5,
     "default_branch": "main"
   },
   {
@@ -5132,6 +5132,13 @@
         "title": "switchboard-plug-locale 2.5.8 Released",
         "body": "<p>Fixes:</p>\n<ul>\n<li>Translate authentication dialog description text</li>\n</ul>\n",
         "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.5.8"
+      },
+      {
+        "version": "2.5.7",
+        "release_date": "2022-04-13T12:51:23+00:00",
+        "title": "switchboard-plug-locale 2.5.7 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Central Kurdish is now available as an installable language</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Support installation and removal of languages with 3-letter codes</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.5.7"
       },
       {
         "version": "2.5.6",
