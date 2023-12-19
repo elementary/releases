@@ -1008,6 +1008,48 @@
     "default_branch": "master"
   },
   {
+    "name": "action-appcenter-review-checklist",
+    "releases": [
+      {
+        "version": "v1.1.0",
+        "release_date": "2023-10-08T09:19:01+00:00",
+        "title": "v1.1.0",
+        "body": "# [1.1.0](https://github.com/elementary/action-appcenter-review-checklist/compare/v1.0.4...v1.1.0) (2023-10-08)\n\n\n### Features\n\n* switch to Node 20.x runtime ([#35](https://github.com/elementary/action-appcenter-review-checklist/issues/35)) ([5d75c96](https://github.com/elementary/action-appcenter-review-checklist/commit/5d75c964d1aa77bc981fcb508dc1dca492fa0ef3))\n\n\n\n",
+        "href": "https://github.com/elementary/action-appcenter-review-checklist/releases/tag/v1.1.0"
+      },
+      {
+        "version": "v1.0.4",
+        "release_date": "2023-06-05T20:35:35+00:00",
+        "title": "v1.0.4",
+        "body": "## [1.0.4](https://github.com/elementary/action-appcenter-review-checklist/compare/v1.0.3...v1.0.4) (2023-06-05)\n\n\n### Bug Fixes\n\n* **deps-dev:** bump semantic-release, @semantic-release/commit-analyzer, @semantic-release/git, @semantic-release/github and @semantic-release/release-notes-generator ([#8](https://github.com/elementary/action-appcenter-review-checklist/issues/8)) ([1786498](https://github.com/elementary/action-appcenter-review-checklist/commit/178649885da94a62c5a622b3d159fde3212f81c3))\n* install dev deps too ([180ea75](https://github.com/elementary/action-appcenter-review-checklist/commit/180ea75021633260780eab468fd32ea8b53c1460))\n* run whole release as lts ([a9611c8](https://github.com/elementary/action-appcenter-review-checklist/commit/a9611c8d485eb8b80bfa4dfd391eb13caf525aa5))\n\n\n\n",
+        "href": "https://github.com/elementary/action-appcenter-review-checklist/releases/tag/v1.0.4"
+      },
+      {
+        "version": "v1.0.3",
+        "release_date": "2023-06-05T20:16:34+00:00",
+        "title": "v1.0.3",
+        "body": "## [1.0.3](https://github.com/elementary/action-appcenter-review-checklist/compare/v1.0.2...v1.0.3) (2023-06-05)\n\n\n### Bug Fixes\n\n* lint ([6532416](https://github.com/elementary/action-appcenter-review-checklist/commit/6532416fe290343d6408fd449ee3f2aa6f39567d))\n\n\n\n",
+        "href": "https://github.com/elementary/action-appcenter-review-checklist/releases/tag/v1.0.3"
+      },
+      {
+        "version": "v1.0.2",
+        "release_date": "2023-06-05T16:32:05+00:00",
+        "title": "v1.0.2",
+        "body": "## [1.0.2](https://github.com/elementary/action-appcenter-review-checklist/compare/v1.0.1...v1.0.2) (2023-06-05)\n\n\n### Bug Fixes\n\n* update dependencies ([355231b](https://github.com/elementary/action-appcenter-review-checklist/commit/355231b8ecd33f5ff3b2737c6b99d8c49947cf55))\n\n\n\n",
+        "href": "https://github.com/elementary/action-appcenter-review-checklist/releases/tag/v1.0.2"
+      },
+      {
+        "version": "v1.0.1",
+        "release_date": "2021-11-17T04:43:45+00:00",
+        "title": "v1.0.1",
+        "body": "## [1.0.1](https://github.com/elementary/action-appcenter-review-checklist/compare/v1.0.0...v1.0.1) (2021-11-17)\n\n\n### Bug Fixes\n\n* empty pull request comment ([#1](https://github.com/elementary/action-appcenter-review-checklist/issues/1)) ([1a0d49f](https://github.com/elementary/action-appcenter-review-checklist/commit/1a0d49f8907ca897ccb0f31ab6314651dd0728a5))\n\n\n\n",
+        "href": "https://github.com/elementary/action-appcenter-review-checklist/releases/tag/v1.0.1"
+      }
+    ],
+    "new_commits": 14,
+    "default_branch": "main"
+  },
+  {
     "name": "action-appcenter-review-find-manifest",
     "releases": [
       {
@@ -4660,41 +4702,6 @@
     ],
     "new_commits": 13,
     "default_branch": "master"
-  },
-  {
-    "name": "action-appcenter-review-checklist",
-    "releases": [
-      {
-        "version": "v1.0.4",
-        "release_date": "2023-06-05T20:35:35+00:00",
-        "title": "v1.0.4",
-        "body": "## [1.0.4](https://github.com/elementary/action-appcenter-review-checklist/compare/v1.0.3...v1.0.4) (2023-06-05)\n\n\n### Bug Fixes\n\n* **deps-dev:** bump semantic-release, @semantic-release/commit-analyzer, @semantic-release/git, @semantic-release/github and @semantic-release/release-notes-generator ([#8](https://github.com/elementary/action-appcenter-review-checklist/issues/8)) ([1786498](https://github.com/elementary/action-appcenter-review-checklist/commit/178649885da94a62c5a622b3d159fde3212f81c3))\n* install dev deps too ([180ea75](https://github.com/elementary/action-appcenter-review-checklist/commit/180ea75021633260780eab468fd32ea8b53c1460))\n* run whole release as lts ([a9611c8](https://github.com/elementary/action-appcenter-review-checklist/commit/a9611c8d485eb8b80bfa4dfd391eb13caf525aa5))\n\n\n\n",
-        "href": "https://github.com/elementary/action-appcenter-review-checklist/releases/tag/v1.0.4"
-      },
-      {
-        "version": "v1.0.3",
-        "release_date": "2023-06-05T20:16:34+00:00",
-        "title": "v1.0.3",
-        "body": "## [1.0.3](https://github.com/elementary/action-appcenter-review-checklist/compare/v1.0.2...v1.0.3) (2023-06-05)\n\n\n### Bug Fixes\n\n* lint ([6532416](https://github.com/elementary/action-appcenter-review-checklist/commit/6532416fe290343d6408fd449ee3f2aa6f39567d))\n\n\n\n",
-        "href": "https://github.com/elementary/action-appcenter-review-checklist/releases/tag/v1.0.3"
-      },
-      {
-        "version": "v1.0.2",
-        "release_date": "2023-06-05T16:32:05+00:00",
-        "title": "v1.0.2",
-        "body": "## [1.0.2](https://github.com/elementary/action-appcenter-review-checklist/compare/v1.0.1...v1.0.2) (2023-06-05)\n\n\n### Bug Fixes\n\n* update dependencies ([355231b](https://github.com/elementary/action-appcenter-review-checklist/commit/355231b8ecd33f5ff3b2737c6b99d8c49947cf55))\n\n\n\n",
-        "href": "https://github.com/elementary/action-appcenter-review-checklist/releases/tag/v1.0.2"
-      },
-      {
-        "version": "v1.0.1",
-        "release_date": "2021-11-17T04:43:45+00:00",
-        "title": "v1.0.1",
-        "body": "## [1.0.1](https://github.com/elementary/action-appcenter-review-checklist/compare/v1.0.0...v1.0.1) (2021-11-17)\n\n\n### Bug Fixes\n\n* empty pull request comment ([#1](https://github.com/elementary/action-appcenter-review-checklist/issues/1)) ([1a0d49f](https://github.com/elementary/action-appcenter-review-checklist/commit/1a0d49f8907ca897ccb0f31ab6314651dd0728a5))\n\n\n\n",
-        "href": "https://github.com/elementary/action-appcenter-review-checklist/releases/tag/v1.0.1"
-      }
-    ],
-    "new_commits": 28,
-    "default_branch": "main"
   },
   {
     "name": "screenshot",
