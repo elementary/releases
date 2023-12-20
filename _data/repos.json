@@ -2178,6 +2178,13 @@
         "title": "installer 1.0.1 Released",
         "body": "\n",
         "href": "https://github.com/elementary/installer/releases/tag/1.0.1"
+      },
+      {
+        "version": "1.0.0",
+        "release_date": "2021-07-15T23:54:35+00:00",
+        "title": "installer 1.0.0 Released",
+        "body": "\n",
+        "href": "https://github.com/elementary/installer/releases/tag/1.0.0"
       }
     ],
     "new_commits": 11,
