@@ -458,6 +458,13 @@
         "href": "https://github.com/elementary/action-appcenter-review-parse/releases/tag/v1.1.0"
       },
       {
+        "version": "v1.0.2",
+        "release_date": "2021-08-20T20:42:29+00:00",
+        "title": "v1.0.2",
+        "body": "## [1.0.2](https://github.com/elementary/action-appcenter-review-parse/compare/v1.0.1...v1.0.2) (2021-08-20)\n\n\n### Bug Fixes\n\n* handle no matching path gracefully ([5946055](https://github.com/elementary/action-appcenter-review-parse/commit/59460559c25aa84244881a52218c086b967d9420))\n\n\n\n",
+        "href": "https://github.com/elementary/action-appcenter-review-parse/releases/tag/v1.0.2"
+      },
+      {
         "version": "v1.0.1",
         "release_date": "2021-07-26T00:47:17+00:00",
         "title": "v1.0.1",
