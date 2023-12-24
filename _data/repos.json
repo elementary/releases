@@ -5323,6 +5323,13 @@
         "href": "https://github.com/elementary/terminal/releases/tag/5.3.3"
       },
       {
+        "version": "5.3.2",
+        "release_date": "2018-10-30T10:48:07+00:00",
+        "title": "Terminal 5.3.2 Released",
+        "body": "Terminal 5.3.2 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/terminal/issues?q=is%3Aclosed+milestone%3A5.3.2).",
+        "href": "https://github.com/elementary/terminal/releases/tag/5.3.2"
+      },
+      {
         "version": "5.3.1",
         "release_date": "2018-10-16T07:39:05+00:00",
         "title": "Terminal 5.1.3 Released",
