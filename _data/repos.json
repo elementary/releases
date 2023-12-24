@@ -2929,7 +2929,7 @@
         "href": "https://github.com/elementary/onboarding/releases/tag/1.0"
       }
     ],
-    "new_commits": 12,
+    "new_commits": 13,
     "default_branch": "master"
   },
   {
@@ -5386,7 +5386,7 @@
         "href": "https://github.com/elementary/terminal/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 54,
+    "new_commits": 55,
     "default_branch": "master"
   },
   {
