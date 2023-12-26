@@ -6076,6 +6076,48 @@
     "default_branch": "master"
   },
   {
+    "name": "switchboard-plug-sharing",
+    "releases": [
+      {
+        "version": "2.1.6",
+        "release_date": "2022-10-21T22:07:24+00:00",
+        "title": "switchboard-plug-sharing 2.1.6 Released",
+        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-sharing/releases/tag/2.1.6"
+      },
+      {
+        "version": "2.1.5",
+        "release_date": "2021-07-13T23:29:56+00:00",
+        "title": "switchboard-plug-sharing 2.1.5 Released",
+        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-sharing/releases/tag/2.1.5"
+      },
+      {
+        "version": "2.1.4",
+        "release_date": "2020-04-01T23:43:41+00:00",
+        "title": "switchboard-plug-sharing 2.1.4 Released",
+        "body": "switchboard-plug-sharing 2.1.4 is out! \n\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-sharing/releases/tag/2.1.4"
+      },
+      {
+        "version": "2.1.3",
+        "release_date": "2018-10-16T01:08:01+00:00",
+        "title": "Switchboard Sharing Plug 2.1.3 Released",
+        "body": "switchboard-plug-sharing 2.1.3 is out!\r\n\r\nThis release includes updated translations.",
+        "href": "https://github.com/elementary/switchboard-plug-sharing/releases/tag/2.1.3"
+      },
+      {
+        "version": "0.1.2",
+        "release_date": "2018-06-07T11:36:51+00:00",
+        "title": "Switchboard Sharing Plug 0.1.2 Released",
+        "body": "switchboard-plug-sharing 0.1.2 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-sharing/issues?q=is%3Aclosed+milestone%3A0.1.2).",
+        "href": "https://github.com/elementary/switchboard-plug-sharing/releases/tag/0.1.2"
+      }
+    ],
+    "new_commits": 313,
+    "default_branch": "main"
+  },
+  {
     "name": "switchboard-plug-printers",
     "releases": [
       {
@@ -7172,41 +7214,6 @@
       }
     ],
     "new_commits": 106,
-    "default_branch": "main"
-  },
-  {
-    "name": "switchboard-plug-sharing",
-    "releases": [
-      {
-        "version": "2.1.5",
-        "release_date": "2021-07-13T23:29:56+00:00",
-        "title": "switchboard-plug-sharing 2.1.5 Released",
-        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-sharing/releases/tag/2.1.5"
-      },
-      {
-        "version": "2.1.4",
-        "release_date": "2020-04-01T23:43:41+00:00",
-        "title": "switchboard-plug-sharing 2.1.4 Released",
-        "body": "switchboard-plug-sharing 2.1.4 is out! \n\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-sharing/releases/tag/2.1.4"
-      },
-      {
-        "version": "2.1.3",
-        "release_date": "2018-10-16T01:08:01+00:00",
-        "title": "Switchboard Sharing Plug 2.1.3 Released",
-        "body": "switchboard-plug-sharing 2.1.3 is out!\r\n\r\nThis release includes updated translations.",
-        "href": "https://github.com/elementary/switchboard-plug-sharing/releases/tag/2.1.3"
-      },
-      {
-        "version": "0.1.2",
-        "release_date": "2018-06-07T11:36:51+00:00",
-        "title": "Switchboard Sharing Plug 0.1.2 Released",
-        "body": "switchboard-plug-sharing 0.1.2 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-sharing/issues?q=is%3Aclosed+milestone%3A0.1.2).",
-        "href": "https://github.com/elementary/switchboard-plug-sharing/releases/tag/0.1.2"
-      }
-    ],
-    "new_commits": 347,
     "default_branch": "main"
   },
   {
