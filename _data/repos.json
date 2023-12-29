@@ -2467,13 +2467,6 @@
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.6.0"
       },
       {
-        "version": "2.5.1",
-        "release_date": "2021-09-22T20:38:10+00:00",
-        "title": "Keyboard Settings 2.5.1 Released",
-        "body": "Minor updates:\r\n* Ensure IBus automatically starts on login when needed\r\n* Updated translations",
-        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.5.1"
-      },
-      {
         "version": "2.5.0",
         "release_date": "2021-07-14T21:00:05+00:00",
         "title": "switchboard-plug-keyboard 2.5.0 Released",
@@ -2493,13 +2486,6 @@
         "title": "switchboard-plug-keyboard 2.4.0 Released",
         "body": "<p>Add a view to configure input methods</p>\n<p>Updated translations</p>\n",
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.4.0"
-      },
-      {
-        "version": "2.3.6",
-        "release_date": "2020-04-01T23:34:57+00:00",
-        "title": "switchboard-plug-keyboard 2.3.6 Released",
-        "body": "switchboard-plug-keyboard 2.3.6 is out! \n\n<p>New \"Workspaces\" icon</p>\n<p>Exclude Space from single-key shortcuts</p>\n<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.3.6"
       },
       {
         "version": "2.3.5",
