@@ -5764,20 +5764,6 @@
         "href": "https://github.com/elementary/photos/releases/tag/2.7.4"
       },
       {
-        "version": "2.7.3",
-        "release_date": "2021-10-26T18:29:34+00:00",
-        "title": "Photos 2.7.3 Released",
-        "body": "<p>Fixes:</p>\r\n<ul>\r\n<li>Focus photos on startup when previewing to fix navigating with left and right arrow keys</li>\r\n<li>Fix a possible crash with invalid date and time info</li>\r\n</ul>\r\n<p>Minor updates:</p>\r\n<ul>\r\n<li>Move Toggle Sidebar and Toggle Photo Info actions to the main menubutton</li>\r\n<li>Translation updates</li>\r\n</ul>",
-        "href": "https://github.com/elementary/photos/releases/tag/2.7.3"
-      },
-      {
-        "version": "2.7.2",
-        "release_date": "2021-09-23T01:31:05+00:00",
-        "title": "Photos 2.7.2 Released",
-        "body": "* Draw selection rectangle when dragging to select\r\n* Show image titles in preview mode\r\n* Translation updates",
-        "href": "https://github.com/elementary/photos/releases/tag/2.7.2"
-      },
-      {
         "version": "2.7.1",
         "release_date": "2021-07-14T18:01:14+00:00",
         "title": "photos 2.7.1 Released",
