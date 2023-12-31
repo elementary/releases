@@ -5141,6 +5141,13 @@
         "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.5.7"
       },
       {
+        "version": "2.5.6",
+        "release_date": "2021-11-18T20:13:42+00:00",
+        "title": "Locale Settings 2.5.6 Released",
+        "body": "## What's Changed\r\n* Select correct format after install/remove by @davidmhewitt in https://github.com/elementary/switchboard-plug-locale/pull/148\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/switchboard-plug-locale/compare/2.5.5...2.5.6",
+        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.5.6"
+      },
+      {
         "version": "2.5.5",
         "release_date": "2021-10-26T17:51:10+00:00",
         "title": "Locale Settings 2.5.5 Released",
@@ -5174,6 +5181,13 @@
         "title": "switchboard-plug-locale 2.5.1 Released",
         "body": "switchboard-plug-locale 2.5.1 is out! \n\n<ul>\n<li>Fix an issue with cancelling language installation</li>\n<li>Updated translations</li>\n</ul>\n",
         "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.5.1"
+      },
+      {
+        "version": "2.5.0",
+        "release_date": "2019-11-15T23:09:58+00:00",
+        "title": "switchboard-plug-locale 2.5.0 Released",
+        "body": "switchboard-plug-locale 2.5.0 is out! \n\nChanges:\n\n* Redesigned Install Language popover\n* Asks for permission when needed. No more extra InfoBar\n* Installtion progress InfoBar is now a Dialog\n* Language list properly updates when adding or removing languages\n* Updated translations\n",
+        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.5.0"
       },
       {
         "version": "2.4.1",
