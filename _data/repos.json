@@ -1676,6 +1676,13 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/4.0.0"
       },
       {
+        "version": "3.10.0",
+        "release_date": "2022-05-26T05:54:32+00:00",
+        "title": "appcenter 3.10.0 Released",
+        "body": "<p>New features:</p>\n<ul>\n<li>Added an option to automatically update apps</li>\n<li>Manually check for new updates</li>\n<li>Warn when apps are built against older runtimes</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Prevent back button from disappearing or requiring multiple clicks</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Don't show a warning dialog about apps from alt stores</li>\n<li>Show screenshot captions in a tooltip</li>\n<li>Show \"Try for Free\" when setting an app's price to 0</li>\n<li>Performance improvements</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/appcenter/releases/tag/3.10.0"
+      },
+      {
         "version": "3.9.1",
         "release_date": "2021-12-11T05:20:33+00:00",
         "title": "appcenter 3.9.1 Released",
