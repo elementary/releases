@@ -4945,13 +4945,6 @@
         "href": "https://github.com/elementary/music/releases/tag/7.0.1"
       },
       {
-        "version": "7.0.0",
-        "release_date": "2022-05-12T16:35:36+00:00",
-        "title": "music 7.0.0 Released",
-        "body": "<p>Complete rewrite</p>\n",
-        "href": "https://github.com/elementary/music/releases/tag/7.0.0"
-      },
-      {
         "version": "5.1.1",
         "release_date": "2021-07-16T19:01:31+00:00",
         "title": "music 5.1.1 Released",
@@ -4985,13 +4978,6 @@
         "title": "Music 5.0.3 Released",
         "body": "Music 5.0.3 is out!\r\n\r\nChanges:\r\n* Scale album art properly at high resolutions\r\n* Accurately select Music Folder Location for directories with spaces in name\r\n* New MediaKeyListener path for gnome-settings-daemon\r\n* Updated translations",
         "href": "https://github.com/elementary/music/releases/tag/5.0.3"
-      },
-      {
-        "version": "5.0.2",
-        "release_date": "2018-12-18T12:07:14+00:00",
-        "title": "Music 5.0.2 Released",
-        "body": "Music 5.0.2 is out!\r\n\r\nChanges:\r\n* AlbumView: double-click to play album\r\n* Associate with s3m files\r\n* Queue fixes\r\n* Properly restore playlists\r\n* Always respect custom music folder setting\r\n* Updated translations",
-        "href": "https://github.com/elementary/music/releases/tag/5.0.2"
       },
       {
         "version": "5.0.1",
