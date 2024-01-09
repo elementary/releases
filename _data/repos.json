@@ -262,13 +262,6 @@
         "href": "https://github.com/elementary/files/releases/tag/6.5.0"
       },
       {
-        "version": "6.4.1",
-        "release_date": "2023-07-10T17:54:14+00:00",
-        "title": "Files 6.4.1 Released",
-        "body": "## What's Changed\r\n* ConnectServerDialog: Gtk4 prep by @danirabbit in https://github.com/elementary/files/pull/2226\r\n* FileConflictDialog: Gtk4 prep by @danirabbit in https://github.com/elementary/files/pull/2228\r\n* RenamerListBox: Gtk4 prep by @danirabbit in https://github.com/elementary/files/pull/2230\r\n* ButtonWithMenu: cleanup, Gtk4 prep by @danirabbit in https://github.com/elementary/files/pull/2231\r\n* Widgets/Label move to AppUtils by @danirabbit in https://github.com/elementary/files/pull/2232\r\n* ProgerssUIHandler: gtk4 prep by @danirabbit in https://github.com/elementary/files/pull/2234\r\n* RenamerDialog: cleanup and Gtk4 prep by @danirabbit in https://github.com/elementary/files/pull/2237\r\n* Fix regression adding folder to view (shows children until refreshed) by @jeremypw in https://github.com/elementary/files/pull/2239\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/files/compare/6.4.0...6.4.1",
-        "href": "https://github.com/elementary/files/releases/tag/6.4.1"
-      },
-      {
         "version": "6.4.0",
         "release_date": "2023-06-29T17:49:34+00:00",
         "title": "Files 6.4.0 Released!",
