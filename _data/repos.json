@@ -4938,13 +4938,6 @@
         "href": "https://github.com/elementary/music/releases/tag/7.1.0"
       },
       {
-        "version": "7.0.1",
-        "release_date": "2022-12-10T16:25:32+00:00",
-        "title": "Music 7.0.1 Released",
-        "body": "## What's Changed\r\n* Use file basename instead of uri for the default audio object title. by @vjr in https://github.com/elementary/music/pull/710\r\n* Skip invalid files instead of stopping playback. by @vjr in https://github.com/elementary/music/pull/711\r\n* Enable the NEXT button if repeat mode is set to ALL or ONE. by @vjr in https://github.com/elementary/music/pull/712\r\n* Application: hard code gtk styles by @danirabbit in https://github.com/elementary/music/pull/723\r\n* Metainfo: Use branding tag and screenshot caption by @danirabbit in https://github.com/elementary/music/pull/724\r\n* Metainfo improvements by @danirabbit in https://github.com/elementary/music/pull/728\r\n* Update Flatpak runtime to 7.1 by @danirabbit in https://github.com/elementary/music/pull/729\r\n* Update music.metainfo.xml.in by @danirabbit in https://github.com/elementary/music/pull/730\r\n* Release 7.0.1 by @danirabbit in https://github.com/elementary/music/pull/731\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/music/compare/7.0.0...7.0.1",
-        "href": "https://github.com/elementary/music/releases/tag/7.0.1"
-      },
-      {
         "version": "7.0.0",
         "release_date": "2022-05-12T16:35:36+00:00",
         "title": "music 7.0.0 Released",
