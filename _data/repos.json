@@ -2978,6 +2978,13 @@
         "href": "https://github.com/elementary/onboarding/releases/tag/7.2.0"
       },
       {
+        "version": "7.1.0",
+        "release_date": "2023-05-02T17:06:16+00:00",
+        "title": "Onboarding 7.1.0 Released!",
+        "body": "## What's Changed\r\n* Use Gtk.LinkButton for AppCenter button by @lenemter in https://github.com/elementary/onboarding/pull/180\r\n* MainWindow: warn about daily builds by @meisenzahl in https://github.com/elementary/onboarding/pull/184\r\n* AppCenterView: make sideload more obvious and rework copy by @danirabbit in https://github.com/elementary/onboarding/pull/190\r\n* EarlyAccessView: use applications-development for icon by @danirabbit in https://github.com/elementary/onboarding/pull/185\r\n* CI: Switch to GHCR containers by @davidmhewitt in https://github.com/elementary/onboarding/pull/191\r\n* Bump actions/checkout from 1 to 3 by @dependabot in https://github.com/elementary/onboarding/pull/192\r\n* Metainfo: modernize by @danirabbit in https://github.com/elementary/onboarding/pull/193\r\n* EarlyAccess: use a list by @danirabbit in https://github.com/elementary/onboarding/pull/195\r\n* Application: use startup () by @danirabbit in https://github.com/elementary/onboarding/pull/194\r\n* Adjust layouts, spacing, and typography by @danirabbit in https://github.com/elementary/onboarding/pull/197\r\n* WelcomeView: adjust button spacing, shorten title by @danirabbit in https://github.com/elementary/onboarding/pull/199\r\n* Fancy logo by @danirabbit in https://github.com/elementary/onboarding/pull/198\r\n* WelcomeView: combine with what's new view by @danirabbit in https://github.com/elementary/onboarding/pull/202\r\n* MainWindow: Only show What's New if there's something other than Early Access by @danirabbit in https://github.com/elementary/onboarding/pull/203\r\n* Add GuestView by @danirabbit in https://github.com/elementary/onboarding/pull/205\r\n* Redesign app icon by @danirabbit in https://github.com/elementary/onboarding/pull/196\r\n\r\n## New Contributors\r\n* @davidmhewitt made their first contribution in https://github.com/elementary/onboarding/pull/191\r\n* @dependabot made their first contribution in https://github.com/elementary/onboarding/pull/192\r\n\r\n**Full Changelog**: https://github.com/elementary/onboarding/compare/7.0.1...7.1.0",
+        "href": "https://github.com/elementary/onboarding/releases/tag/7.1.0"
+      },
+      {
         "version": "7.0.1",
         "release_date": "2022-10-21T22:09:05+00:00",
         "title": "onboarding 7.0.1 Released",
