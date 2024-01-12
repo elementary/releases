@@ -3643,6 +3643,13 @@
         "href": "https://github.com/elementary/greeter/releases/tag/6.0.1"
       },
       {
+        "version": "6.0.0",
+        "release_date": "2021-07-14T19:41:27+00:00",
+        "title": "greeter 6.0.0 Released",
+        "body": "<ul>\n<li>Add multitouch finger tracking</li>\n<li>Add keyboard layout support</li>\n<li>New colorful avatar fallbacks</li>\n<li>Fix clock when resuming from sleep</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/greeter/releases/tag/6.0.0"
+      },
+      {
         "version": "5.0.4",
         "release_date": "2020-05-28T18:48:15+00:00",
         "title": "greeter 5.0.4 Released",
