@@ -6422,6 +6422,13 @@
         "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.3.1"
       },
       {
+        "version": "2.3.0",
+        "release_date": "2021-07-14T20:35:19+00:00",
+        "title": "wingpanel-indicator-datetime 2.3.0 Released",
+        "body": "<p>Add multitouch gestures</p>\n<p>Improve time zone handling</p>\n<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.3.0"
+      },
+      {
         "version": "2.2.5",
         "release_date": "2020-06-30T19:54:39+00:00",
         "title": "wingpanel-indicator-datetime 2.2.5 Released",
@@ -6483,6 +6490,13 @@
         "title": "Wingpanel Date & Time Indicator 2.1.1 Released",
         "body": "wingpanel-indicator-datetime 2.1.1 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/wingpanel-indicator-datetime/issues?q=is%3Aclosed+milestone%3A2.1.1).",
         "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.1.1"
+      },
+      {
+        "version": "2.1.0",
+        "release_date": "2018-06-19T02:18:57+00:00",
+        "title": "Wingpanel Date & Time Indicator 2.1.0 Released",
+        "body": "wingpanel-indicator-datetime 2.1.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/wingpanel-indicator-datetime/issues?q=is%3Aclosed+milestone%3A2.1.0).",
+        "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.1.0"
       },
       {
         "version": "2.0.2",
