@@ -717,25 +717,11 @@
         "href": "https://github.com/elementary/flatpak-platform/releases/tag/7.3.0"
       },
       {
-        "version": "7.2.1",
-        "release_date": "2023-08-15T22:08:19+00:00",
-        "title": "Platform 7.2.1 Released!",
-        "body": "## What's Changed\r\n* Add missing environment variables by @tintou in https://github.com/elementary/flatpak-platform/pull/121\r\n* Release 7.2 by @davidmhewitt in https://github.com/elementary/flatpak-platform/pull/122\r\n* Bump Stylesheet to 7.2.0 by @danirabbit in https://github.com/elementary/flatpak-platform/pull/123\r\n* Bump Icons to 7.3.0 by @danirabbit in https://github.com/elementary/flatpak-platform/pull/124\r\n* Run docker image builds on a schedule by @davidmhewitt in https://github.com/elementary/flatpak-platform/pull/120\r\n* Bump Granite to 7.3.0 by @danirabbit in https://github.com/elementary/flatpak-platform/pull/127\r\n* Bump docker/build-push-action from 4.0.0 to 4.1.1 by @dependabot in https://github.com/elementary/flatpak-platform/pull/128\r\n* Update translation template by @ryonakano in https://github.com/elementary/flatpak-platform/pull/129\r\n* Bump Icons to 7.3.1 by @danirabbit in https://github.com/elementary/flatpak-platform/pull/130\r\n* Release 7.2.1 by @danirabbit in https://github.com/elementary/flatpak-platform/pull/131\r\n\r\n## New Contributors\r\n* @ryonakano made their first contribution in https://github.com/elementary/flatpak-platform/pull/129\r\n\r\n**Full Changelog**: https://github.com/elementary/flatpak-platform/compare/7.2.0...7.2.1",
-        "href": "https://github.com/elementary/flatpak-platform/releases/tag/7.2.1"
-      },
-      {
         "version": "7.2.0",
         "release_date": "2023-04-01T13:58:18+00:00",
         "title": "Flatpak Platform 7.2.0 Released",
         "body": "the 7.2 Flatpak platform brings bug fixes as well as stability and security fixes to platform libraries. It also includes newer releases of Granite and the Stylesheet to better support apps that use LibAdwaita. Be aware that the libraries contained in this runtime may be newer than those available from the Ubuntu repositories.\r\n\r\nThis update is API-breaking in some cases, so Flatpak manifests will have to be updated from using version 7.1 of the runtime to version 7.2",
         "href": "https://github.com/elementary/flatpak-platform/releases/tag/7.2.0"
-      },
-      {
-        "version": "7.1.0",
-        "release_date": "2022-10-17T17:43:04+00:00",
-        "title": "Flatpak Platform 7.1.0 Released",
-        "body": "The 7.1 Flatpak platform brings bug fixes as well as stability and security fixes to platform libraries. Be aware that the libraries contained in this runtime may be newer than those available from the Ubuntu repositories.\r\n\r\nThis update is API-breaking in some cases, so Flatpak manifests will have to be updated from using version 7 of the runtime to version 7.1.",
-        "href": "https://github.com/elementary/flatpak-platform/releases/tag/7.1.0"
       },
       {
         "version": "6.1.0",
