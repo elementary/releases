@@ -115,7 +115,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 0,
+    "new_commits": 5,
     "default_branch": "master"
   },
   {
@@ -227,7 +227,7 @@
         "href": "https://github.com/elementary/switchboard-plug-network/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 37,
+    "new_commits": 90,
     "default_branch": "master"
   },
   {
