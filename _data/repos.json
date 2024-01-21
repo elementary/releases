@@ -633,7 +633,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 23,
+    "new_commits": 25,
     "default_branch": "main"
   },
   {
@@ -1354,7 +1354,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 23,
+    "new_commits": 24,
     "default_branch": "master"
   },
   {
@@ -7162,6 +7162,13 @@
         "title": "switchboard-plug-bluetooth 2.3.5 Released",
         "body": "Security update\r\n\r\n- Fix a vulnerability that would allow a device to be paired without explicit user authorization ([CVE-2021-21367](https://github.com/elementary/switchboard-plug-bluetooth/security/advisories/GHSA-5p3g-j69g-w2mq))\r\n",
         "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/2.3.5"
+      },
+      {
+        "version": "2.3.4",
+        "release_date": "2021-01-05T22:03:51+00:00",
+        "title": "switchboard-plug-bluetooth 2.3.4 Released",
+        "body": "<p>Minor updates</p>\n<ul>\n<li>Fallback to device type when name is not available</li>\n<li>Show \"Discovering\" indicator in an overlay bar</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/2.3.4"
       },
       {
         "version": "2.3.3",
