@@ -115,7 +115,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 9,
+    "new_commits": 11,
     "default_branch": "master"
   },
   {
@@ -4656,6 +4656,13 @@
         "title": "wingpanel-indicator-bluetooth 2.1.6 Released",
         "body": "<p>Prevent showing duplicate devices</p>\n<p>Fix animated icon when disabling Bluetooth</p>\n<p>Fallback device names to their device type instead of \"(null)\"</p>\n<p>Updated translations</p>\n",
         "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.1.6"
+      },
+      {
+        "version": "2.1.5",
+        "release_date": "2020-04-08T23:06:48+00:00",
+        "title": "wingpanel-indicator-bluetooth 2.1.5 Released",
+        "body": "<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.1.5"
       },
       {
         "version": "2.1.4",
