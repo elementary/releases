@@ -2164,6 +2164,13 @@
         "title": "AppCenter 0.2.1 Released",
         "body": "AppCenter 0.2.1 is out!",
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2.1"
+      },
+      {
+        "version": "0.2",
+        "release_date": "2017-05-17T11:35:13+00:00",
+        "title": "AppCenter 0.2 Released",
+        "body": "AppCenter 0.2 is out!\r\n\r\nThis release includes several [bug fixes](https://github.com/elementary/appcenter/milestone/1?closed=1)",
+        "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
     "new_commits": 41,
