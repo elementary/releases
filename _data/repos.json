@@ -5547,6 +5547,13 @@
         "href": "https://github.com/elementary/switchboard-plug-about/releases/tag/6.0.0"
       },
       {
+        "version": "2.6.3",
+        "release_date": "2020-05-28T18:40:45+00:00",
+        "title": "switchboard-plug-about 2.6.3 Released",
+        "body": "<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/switchboard-plug-about/releases/tag/2.6.3"
+      },
+      {
         "version": "2.6.2",
         "release_date": "2020-04-08T20:31:09+00:00",
         "title": "switchboard-plug-about 2.6.2 Released",
