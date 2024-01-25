@@ -913,13 +913,6 @@
         "href": "https://github.com/elementary/granite/releases/tag/7.1.0"
       },
       {
-        "version": "7.0.0",
-        "release_date": "2022-04-30T18:14:07+00:00",
-        "title": "granite 7.0.0 Released",
-        "body": "<p>New Features:</p>\n<ul>\n<li>Ported to GTK4! 🎉️</li>\n<li>Granite.Placeholder: replaces AlertView and Welcome</li>\n<li>SimpleSettingsPage: Allow markup in description</li>\n</ul>\n<p>Removals:</p>\n<ul>\n<li>Application: use Gtk.Application instead</li>\n<li>Drawing: Use Gtk.CSS</li>\n<li>DynamicNotebook: use Adw.TabBar instead</li>\n<li>Logger: use GLib.log instead</li>\n<li>ModeButton: Use Gtk.ToggleButton with the \"group\" property and \"linked\" style class instead</li>\n<li>Paths: use GLib.Environment instead</li>\n<li>Seekbar</li>\n<li>Services.Settings: use GLib.Settings instead</li>\n<li>SimpleCommand: use GLib.AppInfo.create_from_commandline instead</li>\n<li>SourceList: use Gtk.ListBox with the \"sidebar\" style class instead</li>\n<li>StorageBar</li>\n<li>TextStyle: use style class constants instead</li>\n<li>Several functions in System were replaced by GLib.AppInfo</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li/>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/granite/releases/tag/7.0.0"
-      },
-      {
         "version": "6.2.0",
         "release_date": "2021-11-23T21:36:35+00:00",
         "title": "granite 6.2.0 Released",
@@ -939,13 +932,6 @@
         "title": "granite 6.1.1 Released",
         "body": "<p>Fixes:</p>\n<ul>\n<li>Ensure accel_to_string works with multiple modifiers</li>\n<li>Fix locale issues in Flatpaks</li>\n<li>Updated translations</li>\n</ul>\n",
         "href": "https://github.com/elementary/granite/releases/tag/6.1.1"
-      },
-      {
-        "version": "6.1.0",
-        "release_date": "2021-07-13T22:02:51+00:00",
-        "title": "granite 6.1.0 Released",
-        "body": "<p>Additions:</p>\n<ul>\n<li>TRANSITION_DURATION_IN_PLACE for consistent in-place widget transformations</li>\n</ul>\n<p>Other Changes:</p>\n<ul>\n<li>accel_to_string handles accel markup without modifiers or that are only modifiers</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/granite/releases/tag/6.1.0"
       },
       {
         "version": "6.0.0",
