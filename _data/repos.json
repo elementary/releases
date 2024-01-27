@@ -4966,6 +4966,13 @@
         "href": "https://github.com/elementary/music/releases/tag/5.1.1"
       },
       {
+        "version": "5.1.0",
+        "release_date": "2021-07-14T17:03:57+00:00",
+        "title": "music 5.1.0 Released",
+        "body": "<p>Fix an issue with saving smart playlists</p>\n<p>Drop support for CD-ROM</p>\n<p>Dark style support</p>\n<p>Minor visual improvements</p>\n<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/music/releases/tag/5.1.0"
+      },
+      {
         "version": "5.0.5",
         "release_date": "2020-03-04T22:50:04+00:00",
         "title": "music 5.0.5 Released",
