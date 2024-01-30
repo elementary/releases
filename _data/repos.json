@@ -6002,13 +6002,6 @@
         "href": "https://github.com/elementary/shortcut-overlay/releases/tag/2.0.0"
       },
       {
-        "version": "1.2.1",
-        "release_date": "2021-10-29T23:12:16+00:00",
-        "title": "Shortcut Overlay 1.2.1 Released",
-        "body": "<ul>\r\n<li>Fix the app not launching if a shortcut key is set to blank</li>\r\n<li>Updated translations</li>\r\n</ul>",
-        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.2.1"
-      },
-      {
         "version": "1.2.0",
         "release_date": "2021-07-14T18:03:45+00:00",
         "title": "shortcut-overlay 1.2.0 Released",
