@@ -1368,13 +1368,6 @@
         "href": "https://github.com/elementary/action-appcenter-review-checklist/releases/tag/v1.1.0"
       },
       {
-        "version": "v1.0.4",
-        "release_date": "2023-06-05T20:35:35+00:00",
-        "title": "v1.0.4",
-        "body": "## [1.0.4](https://github.com/elementary/action-appcenter-review-checklist/compare/v1.0.3...v1.0.4) (2023-06-05)\n\n\n### Bug Fixes\n\n* **deps-dev:** bump semantic-release, @semantic-release/commit-analyzer, @semantic-release/git, @semantic-release/github and @semantic-release/release-notes-generator ([#8](https://github.com/elementary/action-appcenter-review-checklist/issues/8)) ([1786498](https://github.com/elementary/action-appcenter-review-checklist/commit/178649885da94a62c5a622b3d159fde3212f81c3))\n* install dev deps too ([180ea75](https://github.com/elementary/action-appcenter-review-checklist/commit/180ea75021633260780eab468fd32ea8b53c1460))\n* run whole release as lts ([a9611c8](https://github.com/elementary/action-appcenter-review-checklist/commit/a9611c8d485eb8b80bfa4dfd391eb13caf525aa5))\n\n\n\n",
-        "href": "https://github.com/elementary/action-appcenter-review-checklist/releases/tag/v1.0.4"
-      },
-      {
         "version": "v1.0.3",
         "release_date": "2023-06-05T20:16:34+00:00",
         "title": "v1.0.3",
