@@ -6352,13 +6352,6 @@
         "href": "https://github.com/elementary/wingpanel-indicator-keyboard/releases/tag/2.4.0"
       },
       {
-        "version": "2.3.0",
-        "release_date": "2021-01-05T22:07:55+00:00",
-        "title": "wingpanel-indicator-keyboard 2.3.0 Released",
-        "body": "<p>Optionally show CapsLock and Numlock indicators</p>\n<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/wingpanel-indicator-keyboard/releases/tag/2.3.0"
-      },
-      {
         "version": "2.2.1",
         "release_date": "2020-04-01T23:53:57+00:00",
         "title": "wingpanel-indicator-keyboard 2.2.1 Released",
