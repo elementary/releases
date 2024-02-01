@@ -227,7 +227,7 @@
         "href": "https://github.com/elementary/switchboard-plug-network/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 112,
+    "new_commits": 113,
     "default_branch": "master"
   },
   {
@@ -2761,7 +2761,7 @@
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 83,
+    "new_commits": 89,
     "default_branch": "main"
   },
   {
@@ -4028,7 +4028,7 @@
         "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/0.1"
       }
     ],
-    "new_commits": 22,
+    "new_commits": 28,
     "default_branch": "main"
   },
   {
