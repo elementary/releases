@@ -2173,7 +2173,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 44,
+    "new_commits": 50,
     "default_branch": "master"
   },
   {
@@ -2509,7 +2509,7 @@
         "href": "https://github.com/elementary/switchboard-plug-applications/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 10,
+    "new_commits": 11,
     "default_branch": "main"
   },
   {
@@ -4028,7 +4028,7 @@
         "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/0.1"
       }
     ],
-    "new_commits": 36,
+    "new_commits": 37,
     "default_branch": "main"
   },
   {
@@ -5624,7 +5624,7 @@
         "href": "https://github.com/elementary/switchboard-plug-about/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 159,
+    "new_commits": 160,
     "default_branch": "main"
   },
   {
