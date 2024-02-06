@@ -1550,13 +1550,6 @@
         "href": "https://github.com/elementary/os/releases/tag/7.1.0-rc1"
       },
       {
-        "version": "7.0.0",
-        "release_date": "2023-01-26T11:53:25+00:00",
-        "title": "7.0 Horus",
-        "body": "**elementary OS 7 Available Now:** Forward thinking and designed for real life\r\n\r\nToday we’re proud to announce that OS 7, codenamed Horus, is available to download now and shipping soon on several high-quality computers. With OS 7, we’ve focused in on:\r\n\r\n- Helping you get the **apps** you need\r\n- Empowering you with new **features and settings**\r\n- Evolving our **developer platform**\r\n\r\nTo get elementary OS 7 now, head to [elementary.io] for the download—or read the [blog post] for the details!\r\n\r\nAs always, more info about installing (including verifying the SHA256 sum) can be found at [elementary.io/docs/installation]. Be sure to read the [release FAQ].\r\n\r\n[elementary.io]: https://elementary.io\r\n[blog post]: https://blog.elementary.io/os-7-available-now/\r\n[elementary.io/docs/installation]: https://elementary.io/docs/installation\r\n[release FAQ]: https://github.com/elementary/os/wiki/OS-7-Horus-FAQ",
-        "href": "https://github.com/elementary/os/releases/tag/7.0.0"
-      },
-      {
         "version": "7.0.0-rc2",
         "release_date": "2023-01-26T11:53:25+00:00",
         "title": "7.0 Horus RC2",
