@@ -1445,6 +1445,13 @@
         "href": "https://github.com/elementary/action-appcenter-review-find-manifest/releases/tag/v1.2.0"
       },
       {
+        "version": "v1.1.1",
+        "release_date": "2021-08-11T21:24:08+00:00",
+        "title": "v1.1.1",
+        "body": "## [1.1.1](https://github.com/elementary/action-appcenter-review-find-manifest/compare/v1.1.0...v1.1.1) (2021-08-11)\n\n\n### Bug Fixes\n\n* **ci:** update CI to publish newly built files ([c1501b4](https://github.com/elementary/action-appcenter-review-find-manifest/commit/c1501b412ed1421666820d380bd9d6afe5b295b1))\n\n\n\n",
+        "href": "https://github.com/elementary/action-appcenter-review-find-manifest/releases/tag/v1.1.1"
+      },
+      {
         "version": "v1.1.0",
         "release_date": "2021-08-11T21:23:40+00:00",
         "title": "v1.1.0",
