@@ -3713,7 +3713,7 @@
         "href": "https://github.com/elementary/greeter/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 15,
+    "new_commits": 16,
     "default_branch": "master"
   },
   {
@@ -6331,8 +6331,8 @@
         "href": "https://github.com/elementary/switchboard-plug-printers/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 98,
-    "default_branch": "master"
+    "new_commits": 101,
+    "default_branch": "main"
   },
   {
     "name": "wingpanel-indicator-keyboard",
