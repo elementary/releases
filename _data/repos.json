@@ -3545,6 +3545,13 @@
         "href": "https://github.com/elementary/switchboard-plug-security-privacy/releases/tag/2.4.0"
       },
       {
+        "version": "2.3.0",
+        "release_date": "2021-11-23T21:13:06+00:00",
+        "title": "switchboard-plug-security-privacy 2.3.0 Released",
+        "body": "<p>New features:</p>\n<ul>\n<li>Add Downloads option to Housekeeping</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Translation updates</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-security-privacy/releases/tag/2.3.0"
+      },
+      {
         "version": "2.2.5",
         "release_date": "2021-07-14T22:02:36+00:00",
         "title": "switchboard-plug-security-privacy 2.2.5 Released",
@@ -3564,6 +3571,13 @@
         "title": "switchboard-plug-security-privacy 2.2.3 Released",
         "body": "<ul>\n<li>Translation updates</li>\n</ul>\n",
         "href": "https://github.com/elementary/switchboard-plug-security-privacy/releases/tag/2.2.3"
+      },
+      {
+        "version": "2.2.2",
+        "release_date": "2019-10-29T22:10:13+00:00",
+        "title": "switchboard-plug-security-privacy 2.2.2 Released",
+        "body": "switchboard-plug-security-privacy 2.2.2 is out! \n\nChanges:\n\n* Redesigned \"Housekeeping\" page\n* Translation updates\n",
+        "href": "https://github.com/elementary/switchboard-plug-security-privacy/releases/tag/2.2.2"
       },
       {
         "version": "2.2.1",
@@ -3594,7 +3608,7 @@
         "href": "https://github.com/elementary/switchboard-plug-security-privacy/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 53,
+    "new_commits": 57,
     "default_branch": "main"
   },
   {
@@ -6317,7 +6331,7 @@
         "href": "https://github.com/elementary/switchboard-plug-printers/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 97,
+    "new_commits": 98,
     "default_branch": "master"
   },
   {
@@ -7073,7 +7087,7 @@
         "href": "https://github.com/elementary/switchboard-plug-datetime/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 123,
+    "new_commits": 127,
     "default_branch": "main"
   },
   {
