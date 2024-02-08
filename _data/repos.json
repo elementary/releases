@@ -2348,7 +2348,7 @@
         "href": "https://github.com/elementary/iconbrowser/releases/tag/2.0.0"
       }
     ],
-    "new_commits": 5,
+    "new_commits": 7,
     "default_branch": "main"
   },
   {
@@ -3608,7 +3608,7 @@
         "href": "https://github.com/elementary/switchboard-plug-security-privacy/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 57,
+    "new_commits": 63,
     "default_branch": "main"
   },
   {
@@ -6149,7 +6149,7 @@
         "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 103,
+    "new_commits": 105,
     "default_branch": "main"
   },
   {
@@ -7087,7 +7087,7 @@
         "href": "https://github.com/elementary/switchboard-plug-datetime/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 127,
+    "new_commits": 133,
     "default_branch": "main"
   },
   {
