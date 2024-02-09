@@ -6254,6 +6254,20 @@
         "href": "https://github.com/elementary/switchboard-plug-printers/releases/tag/2.2.1"
       },
       {
+        "version": "2.2.0",
+        "release_date": "2022-06-29T17:37:32+00:00",
+        "title": "switchboard-plug-printers 2.2.0 Released",
+        "body": "<p>New Features:</p>\n<ul>\n<li>Allow clearing the queue for each printer</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Improved job row layout</li>\n<li>Show the supported language for each driver</li>\n<li>Show color names below ink levels</li>\n<li>Avoid expanding the window for printers with many ink levels</li>\n<li>Use newer add/remove list pattern</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Update sidebar after adding or removing printer</li>\n<li>Update sidebar after enabling or disabling printer</li>\n<li>Update job list after job state change</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-printers/releases/tag/2.2.0"
+      },
+      {
+        "version": "2.1.10",
+        "release_date": "2021-07-21T20:19:39+00:00",
+        "title": "switchboard-plug-printers 2.1.10 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-printers/releases/tag/2.1.10"
+      },
+      {
         "version": "2.1.9",
         "release_date": "2020-05-28T18:51:27+00:00",
         "title": "switchboard-plug-printers 2.1.9 Released",
