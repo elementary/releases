@@ -3745,48 +3745,6 @@
     "default_branch": "master"
   },
   {
-    "name": "settings-daemon",
-    "releases": [
-      {
-        "version": "1.3.1",
-        "release_date": "2023-07-25T16:05:52+00:00",
-        "title": "Settings Daemon 1.3.1 Released!",
-        "body": "## What's Changed\r\n* Fix autostart file symlink by @lenemter in https://github.com/elementary/settings-daemon/pull/77\r\n* Fix installing check-for-firmware-updates files in NixOS by @bobby285271 in https://github.com/elementary/settings-daemon/pull/74\r\n* Release 1.3.1 by @lenemter in https://github.com/elementary/settings-daemon/pull/78\r\n\r\n## New Contributors\r\n* @bobby285271 made their first contribution in https://github.com/elementary/settings-daemon/pull/74\r\n\r\n**Full Changelog**: https://github.com/elementary/settings-daemon/compare/1.3.0...1.3.1",
-        "href": "https://github.com/elementary/settings-daemon/releases/tag/1.3.1"
-      },
-      {
-        "version": "1.3.0",
-        "release_date": "2023-07-21T08:29:18+00:00",
-        "title": "Settings Daemon 1.3.0 Released!",
-        "body": "## What's Changed\r\n* Portal: Support accent colors by @alice-mkh in https://github.com/elementary/settings-daemon/pull/60\r\n* Check for firmware updates by @meisenzahl in https://github.com/elementary/settings-daemon/pull/45\r\n* Screenshots housekeeping by @Antolius in https://github.com/elementary/settings-daemon/pull/56\r\n* Metainfo Improvements by @danirabbit in https://github.com/elementary/settings-daemon/pull/62\r\n* Expose user's mouse settings by @lenemter in https://github.com/elementary/settings-daemon/pull/66\r\n* Expose xkb options by @lenemter in https://github.com/elementary/settings-daemon/pull/67\r\n* Load left handed mode from settings-daemon by @lenemter in https://github.com/elementary/settings-daemon/pull/69\r\n* Expose interface settings by @lenemter in https://github.com/elementary/settings-daemon/pull/71\r\n* Expose night light settings by @lenemter in https://github.com/elementary/settings-daemon/pull/68\r\n* InterfaceSettings: Expose fonts by @lenemter in https://github.com/elementary/settings-daemon/pull/73\r\n* Sync wallpaper to greeter by @lenemter in https://github.com/elementary/settings-daemon/pull/72\r\n\r\n## New Contributors\r\n* @Antolius made their first contribution in https://github.com/elementary/settings-daemon/pull/56\r\n* @lenemter made their first contribution in https://github.com/elementary/settings-daemon/pull/66\r\n\r\n**Full Changelog**: https://github.com/elementary/settings-daemon/compare/1.2.0...1.3.0",
-        "href": "https://github.com/elementary/settings-daemon/releases/tag/1.3.0"
-      },
-      {
-        "version": "1.2.0",
-        "release_date": "2022-05-18T04:38:32+00:00",
-        "title": "settings-daemon 1.2.0 Released",
-        "body": "\n",
-        "href": "https://github.com/elementary/settings-daemon/releases/tag/1.2.0"
-      },
-      {
-        "version": "1.1.0",
-        "release_date": "2021-10-24T19:36:25+00:00",
-        "title": "Settings Daemon 1.1.0 Released",
-        "body": "<p>New features:</p>\r\n<ul>\r\n<li>Provide the Settings portal</li>\r\n</ul>\r\n<p>Improvements:</p>\r\n<ul>\r\n<li>Remove unused dark style gsettings schema</li>\r\n<li>Updated translations</li>\r\n</ul>",
-        "href": "https://github.com/elementary/settings-daemon/releases/tag/1.1.0"
-      },
-      {
-        "version": "1.0.0",
-        "release_date": "2021-07-15T23:29:21+00:00",
-        "title": "settings-daemon 1.0.0 Released",
-        "body": "\n",
-        "href": "https://github.com/elementary/settings-daemon/releases/tag/1.0.0"
-      }
-    ],
-    "new_commits": 52,
-    "default_branch": "master"
-  },
-  {
     "name": "switchboard-plug-pantheon-shell",
     "releases": [
       {
@@ -4267,6 +4225,41 @@
       }
     ],
     "new_commits": 10,
+    "default_branch": "master"
+  },
+  {
+    "name": "settings-daemon",
+    "releases": [
+      {
+        "version": "1.3.0",
+        "release_date": "2023-07-21T08:29:18+00:00",
+        "title": "Settings Daemon 1.3.0 Released!",
+        "body": "## What's Changed\r\n* Portal: Support accent colors by @alice-mkh in https://github.com/elementary/settings-daemon/pull/60\r\n* Check for firmware updates by @meisenzahl in https://github.com/elementary/settings-daemon/pull/45\r\n* Screenshots housekeeping by @Antolius in https://github.com/elementary/settings-daemon/pull/56\r\n* Metainfo Improvements by @danirabbit in https://github.com/elementary/settings-daemon/pull/62\r\n* Expose user's mouse settings by @lenemter in https://github.com/elementary/settings-daemon/pull/66\r\n* Expose xkb options by @lenemter in https://github.com/elementary/settings-daemon/pull/67\r\n* Load left handed mode from settings-daemon by @lenemter in https://github.com/elementary/settings-daemon/pull/69\r\n* Expose interface settings by @lenemter in https://github.com/elementary/settings-daemon/pull/71\r\n* Expose night light settings by @lenemter in https://github.com/elementary/settings-daemon/pull/68\r\n* InterfaceSettings: Expose fonts by @lenemter in https://github.com/elementary/settings-daemon/pull/73\r\n* Sync wallpaper to greeter by @lenemter in https://github.com/elementary/settings-daemon/pull/72\r\n\r\n## New Contributors\r\n* @Antolius made their first contribution in https://github.com/elementary/settings-daemon/pull/56\r\n* @lenemter made their first contribution in https://github.com/elementary/settings-daemon/pull/66\r\n\r\n**Full Changelog**: https://github.com/elementary/settings-daemon/compare/1.2.0...1.3.0",
+        "href": "https://github.com/elementary/settings-daemon/releases/tag/1.3.0"
+      },
+      {
+        "version": "1.2.0",
+        "release_date": "2022-05-18T04:38:32+00:00",
+        "title": "settings-daemon 1.2.0 Released",
+        "body": "\n",
+        "href": "https://github.com/elementary/settings-daemon/releases/tag/1.2.0"
+      },
+      {
+        "version": "1.1.0",
+        "release_date": "2021-10-24T19:36:25+00:00",
+        "title": "Settings Daemon 1.1.0 Released",
+        "body": "<p>New features:</p>\r\n<ul>\r\n<li>Provide the Settings portal</li>\r\n</ul>\r\n<p>Improvements:</p>\r\n<ul>\r\n<li>Remove unused dark style gsettings schema</li>\r\n<li>Updated translations</li>\r\n</ul>",
+        "href": "https://github.com/elementary/settings-daemon/releases/tag/1.1.0"
+      },
+      {
+        "version": "1.0.0",
+        "release_date": "2021-07-15T23:29:21+00:00",
+        "title": "settings-daemon 1.0.0 Released",
+        "body": "\n",
+        "href": "https://github.com/elementary/settings-daemon/releases/tag/1.0.0"
+      }
+    ],
+    "new_commits": 62,
     "default_branch": "master"
   },
   {
