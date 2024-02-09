@@ -6954,6 +6954,13 @@
         "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/1.0.2"
       },
       {
+        "version": "1.0.1",
+        "release_date": "2020-04-06T17:12:33+00:00",
+        "title": "pantheon-agent-polkit 1.0.1 Released",
+        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/1.0.1"
+      },
+      {
         "version": "1.0.0",
         "release_date": "2019-11-15T21:54:11+00:00",
         "title": "pantheon-agent-polkit 1.0.0 Released",
@@ -6973,6 +6980,13 @@
         "title": "Pantheon Polkit Agent 0.1.5 Released",
         "body": "`pantheon-agent-polkit` 0.1.5 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/pantheon-agent-polkit/issues?q=is%3Aclosed+milestone%3A0.1.5).",
         "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/0.1.5"
+      },
+      {
+        "version": "0.1.4",
+        "release_date": "2017-05-26T21:44:20+00:00",
+        "title": "Pantheon Polkit Agent 0.1.4 Released",
+        "body": "pantheon-agent-polkit 0.1.4 is out!",
+        "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/0.1.4"
       },
       {
         "version": "0.1.3",
