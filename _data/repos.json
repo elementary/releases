@@ -227,7 +227,7 @@
         "href": "https://github.com/elementary/switchboard-plug-network/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 115,
+    "new_commits": 117,
     "default_branch": "master"
   },
   {
@@ -2761,7 +2761,7 @@
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 92,
+    "new_commits": 93,
     "default_branch": "main"
   },
   {
@@ -3405,7 +3405,7 @@
         "href": "https://github.com/elementary/icons/releases/tag/4.0.1.1"
       }
     ],
-    "new_commits": 13,
+    "new_commits": 14,
     "default_branch": "main"
   },
   {
@@ -3608,7 +3608,7 @@
         "href": "https://github.com/elementary/switchboard-plug-security-privacy/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 63,
+    "new_commits": 67,
     "default_branch": "main"
   },
   {
@@ -5344,7 +5344,7 @@
         "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 8,
+    "new_commits": 9,
     "default_branch": "main"
   },
   {
@@ -5624,7 +5624,7 @@
         "href": "https://github.com/elementary/switchboard-plug-about/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 165,
+    "new_commits": 169,
     "default_branch": "main"
   },
   {
@@ -6149,7 +6149,7 @@
         "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 105,
+    "new_commits": 108,
     "default_branch": "main"
   },
   {
@@ -6198,7 +6198,7 @@
         "href": "https://github.com/elementary/switchboard-plug-parental-controls/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 84,
+    "new_commits": 86,
     "default_branch": "main"
   },
   {
@@ -6240,7 +6240,7 @@
         "href": "https://github.com/elementary/switchboard-plug-sharing/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 313,
+    "new_commits": 314,
     "default_branch": "main"
   },
   {
@@ -6331,7 +6331,7 @@
         "href": "https://github.com/elementary/switchboard-plug-printers/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 102,
+    "new_commits": 103,
     "default_branch": "main"
   },
   {
@@ -6751,7 +6751,7 @@
         "href": "https://github.com/elementary/switchboard/releases/tag/2.3.0"
       }
     ],
-    "new_commits": 104,
+    "new_commits": 105,
     "default_branch": "main"
   },
   {
@@ -6835,7 +6835,7 @@
         "href": "https://github.com/elementary/switchboard-plug-power/releases/tag/0.3.1"
       }
     ],
-    "new_commits": 88,
+    "new_commits": 94,
     "default_branch": "main"
   },
   {
@@ -7087,7 +7087,7 @@
         "href": "https://github.com/elementary/switchboard-plug-datetime/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 133,
+    "new_commits": 138,
     "default_branch": "main"
   },
   {
@@ -7143,7 +7143,7 @@
         "href": "https://github.com/elementary/switchboard-plug-notifications/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 100,
+    "new_commits": 101,
     "default_branch": "main"
   },
   {
@@ -7234,7 +7234,7 @@
         "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 109,
+    "new_commits": 110,
     "default_branch": "main"
   },
   {
