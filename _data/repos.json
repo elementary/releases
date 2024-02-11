@@ -633,7 +633,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 48,
+    "new_commits": 49,
     "default_branch": "main"
   },
   {
@@ -4735,13 +4735,6 @@
         "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/2.3.3"
       },
       {
-        "version": "2.3.2",
-        "release_date": "2021-10-26T17:46:22+00:00",
-        "title": "Display Settings 2.3.2 Released!",
-        "body": "<p>Improvements:</p>\r\n<ul>\r\n<li>Move resolutions with a different aspect ratio to a submenu</li>\r\n<li>Improve brightness in the dark style</li>\r\n</ul>\r\n<p>Fixes:</p>\r\n<ul>\r\n<li>Show display name on all workspaces</li>\r\n</ul>\r\n<p>Minor updates:</p>\r\n<ul>\r\n<li>Updated translations</li>\r\n</ul>",
-        "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/2.3.2"
-      },
-      {
         "version": "2.3.1",
         "release_date": "2021-08-20T21:32:54+00:00",
         "title": "switchboard-plug-display 2.3.1 Released",
@@ -4754,13 +4747,6 @@
         "title": "switchboard-plug-display 2.3.0 Released",
         "body": "<p>New features:</p>\n<ul>\n<li>Support 3× scaling</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Reliably detect accelerometers</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
         "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/2.3.0"
-      },
-      {
-        "version": "2.2.2",
-        "release_date": "2020-05-28T23:40:12+00:00",
-        "title": "switchboard-plug-display 2.2.2 Released",
-        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/2.2.2"
       },
       {
         "version": "2.2.1",
