@@ -1452,6 +1452,13 @@
         "href": "https://github.com/elementary/action-appcenter-review-find-manifest/releases/tag/v1.1.1"
       },
       {
+        "version": "v1.1.0",
+        "release_date": "2021-08-11T21:23:40+00:00",
+        "title": "v1.1.0",
+        "body": "# [1.1.0](https://github.com/elementary/action-appcenter-review-find-manifest/compare/v1.0.3...v1.1.0) (2021-08-11)\n\n\n### Features\n\n* add GPLv3 license ([fe27bed](https://github.com/elementary/action-appcenter-review-find-manifest/commit/fe27bed71d17560e4a455df163e97839af2c3da2))\n\n\n\n",
+        "href": "https://github.com/elementary/action-appcenter-review-find-manifest/releases/tag/v1.1.0"
+      },
+      {
         "version": "v1.0.3",
         "release_date": "2021-08-11T21:11:17+00:00",
         "title": "v1.0.3",
