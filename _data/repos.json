@@ -4455,13 +4455,6 @@
         "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/6.5.3"
       },
       {
-        "version": "6.5.2",
-        "release_date": "2023-04-04T17:41:08+00:00",
-        "title": "Online Accounts Settings 6.5.2 released",
-        "body": "## What's Changed\r\n* Update icons by @lenemter in https://github.com/elementary/switchboard-plug-onlineaccounts/pull/246\r\n* Add support for evolution-data-server 3.45+ / libsoup-3 by @meisenzahl in https://github.com/elementary/switchboard-plug-onlineaccounts/pull/248\r\n* Fix use imap username for smtp by @stan-janssen in https://github.com/elementary/switchboard-plug-onlineaccounts/pull/253\r\n\r\n## New Contributors\r\n* @lenemter made their first contribution in https://github.com/elementary/switchboard-plug-onlineaccounts/pull/246\r\n* @meisenzahl made their first contribution in https://github.com/elementary/switchboard-plug-onlineaccounts/pull/247\r\n* @stan-janssen made their first contribution in https://github.com/elementary/switchboard-plug-onlineaccounts/pull/253\r\n\r\n**Full Changelog**: https://github.com/elementary/switchboard-plug-onlineaccounts/compare/6.5.1...6.5.2",
-        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/6.5.2"
-      },
-      {
         "version": "6.5.1",
         "release_date": "2022-10-21T22:07:47+00:00",
         "title": "switchboard-plug-onlineaccounts 6.5.1 Released",
@@ -4509,13 +4502,6 @@
         "title": "switchboard-plug-onlineaccounts 6.2.0 Released",
         "body": "<ul>\n<li>Edit saved IMAP accounts</li>\n<li>Automatically detect authentication method for IMAP</li>\n<li>Updated translations</li>\n</ul>\n",
         "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/6.2.0"
-      },
-      {
-        "version": "6.1.0",
-        "release_date": "2021-07-30T20:57:04+00:00",
-        "title": "switchboard-plug-onlineaccounts 6.1.0 Released",
-        "body": "- Verify login credentials when saving IMAP accounts\r\n- Set up Archive, Drafts, Sent, and Templates folders for IMAP\r\n- Close \"Add Account\" popover when an item is selected\r\n- Updated translations",
-        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/6.1.0"
       },
       {
         "version": "6.0.0",
