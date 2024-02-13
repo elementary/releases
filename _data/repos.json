@@ -3167,7 +3167,7 @@
         "href": "https://github.com/elementary/onboarding/releases/tag/1.0"
       }
     ],
-    "new_commits": 23,
+    "new_commits": 28,
     "default_branch": "master"
   },
   {
@@ -4028,7 +4028,7 @@
         "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/0.1"
       }
     ],
-    "new_commits": 45,
+    "new_commits": 46,
     "default_branch": "main"
   },
   {
@@ -5512,7 +5512,7 @@
         "href": "https://github.com/elementary/terminal/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 82,
+    "new_commits": 84,
     "default_branch": "master"
   },
   {
