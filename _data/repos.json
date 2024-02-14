@@ -2173,8 +2173,8 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 68,
-    "default_branch": "master"
+    "new_commits": 73,
+    "default_branch": "main"
   },
   {
     "name": "wingpanel",
@@ -7402,7 +7402,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.0"
       }
     ],
-    "new_commits": 6230,
+    "new_commits": 6231,
     "default_branch": "master"
   },
   {
