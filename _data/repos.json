@@ -1207,8 +1207,8 @@
         "href": "https://github.com/elementary/stylesheet/releases/tag/5.0.4"
       }
     ],
-    "new_commits": 16,
-    "default_branch": "master"
+    "new_commits": 19,
+    "default_branch": "main"
   },
   {
     "name": "gala",
@@ -2425,7 +2425,7 @@
         "href": "https://github.com/elementary/installer/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 15,
+    "new_commits": 16,
     "default_branch": "master"
   },
   {
