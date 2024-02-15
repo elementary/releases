@@ -6072,13 +6072,6 @@
         "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/2.4.2"
       },
       {
-        "version": "2.4.1",
-        "release_date": "2021-10-26T17:49:42+00:00",
-        "title": "User Accounts Settings 2.4.1 Released",
-        "body": "<p>Fixes:</p>\r\n<ul>\r\n<li>Ensure user information in sidebar updates upon changes</li>\r\n</ul>\r\n<p>Improvements:</p>\r\n<ul>\r\n<li>Support locales with 3-letter codes</li>\r\n<li>Performance improvements</li>\r\n<li>Better support for non-Ubuntu based distributions</li>\r\n<li>Updated translations</li>\r\n</ul>",
-        "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/2.4.1"
-      },
-      {
         "version": "2.4.0",
         "release_date": "2021-07-14T21:10:17+00:00",
         "title": "switchboard-plug-useraccounts 2.4.0 Released",
