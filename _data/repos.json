@@ -2761,7 +2761,7 @@
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 96,
+    "new_commits": 97,
     "default_branch": "main"
   },
   {
@@ -3608,7 +3608,7 @@
         "href": "https://github.com/elementary/switchboard-plug-security-privacy/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 71,
+    "new_commits": 72,
     "default_branch": "main"
   },
   {
@@ -3888,13 +3888,6 @@
         "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/2.7.1"
       },
       {
-        "version": "0.2.7",
-        "release_date": "2018-06-08T16:48:34+00:00",
-        "title": "Switchboard Desktop Plug 0.2.7 Released",
-        "body": "switchboard-plug-pantheon-shell 0.2.7 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-pantheon-shell/issues?q=is%3Aclosed+milestone%3A0.2.7).",
-        "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/0.2.7"
-      },
-      {
         "version": "0.2.6",
         "release_date": "2017-06-14T23:02:26+00:00",
         "title": "Switchboard Desktop Plug 0.2.6 Released",
@@ -4028,7 +4021,7 @@
         "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/0.1"
       }
     ],
-    "new_commits": 46,
+    "new_commits": 47,
     "default_branch": "main"
   },
   {
@@ -5624,7 +5617,7 @@
         "href": "https://github.com/elementary/switchboard-plug-about/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 171,
+    "new_commits": 172,
     "default_branch": "main"
   },
   {
@@ -6149,7 +6142,7 @@
         "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 110,
+    "new_commits": 111,
     "default_branch": "main"
   },
   {
@@ -6835,7 +6828,7 @@
         "href": "https://github.com/elementary/switchboard-plug-power/releases/tag/0.3.1"
       }
     ],
-    "new_commits": 121,
+    "new_commits": 122,
     "default_branch": "main"
   },
   {
@@ -7087,7 +7080,7 @@
         "href": "https://github.com/elementary/switchboard-plug-datetime/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 152,
+    "new_commits": 153,
     "default_branch": "main"
   },
   {
