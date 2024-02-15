@@ -3888,6 +3888,13 @@
         "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/2.7.1"
       },
       {
+        "version": "0.2.7",
+        "release_date": "2018-06-08T16:48:34+00:00",
+        "title": "Switchboard Desktop Plug 0.2.7 Released",
+        "body": "switchboard-plug-pantheon-shell 0.2.7 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-pantheon-shell/issues?q=is%3Aclosed+milestone%3A0.2.7).",
+        "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/0.2.7"
+      },
+      {
         "version": "0.2.6",
         "release_date": "2017-06-14T23:02:26+00:00",
         "title": "Switchboard Desktop Plug 0.2.6 Released",
