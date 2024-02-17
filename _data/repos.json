@@ -1354,7 +1354,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 39,
+    "new_commits": 40,
     "default_branch": "master"
   },
   {
@@ -2556,13 +2556,6 @@
         "title": "wingpanel-indicator-power 2.1.5 Released",
         "body": "<p>Updated translations</p>\n",
         "href": "https://github.com/elementary/wingpanel-indicator-power/releases/tag/2.1.5"
-      },
-      {
-        "version": "2.1.4",
-        "release_date": "2019-01-29T11:23:47+00:00",
-        "title": "Wingpanel Power Indicator 2.1.4 Released",
-        "body": "wingpanel-power-indicator 2.1.4 is out!\r\n\r\nChanges:\r\n* Performance improvements\r\n* Updated translations",
-        "href": "https://github.com/elementary/wingpanel-indicator-power/releases/tag/2.1.4"
       },
       {
         "version": "2.1.3",
