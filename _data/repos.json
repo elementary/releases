@@ -1207,7 +1207,7 @@
         "href": "https://github.com/elementary/stylesheet/releases/tag/5.0.4"
       }
     ],
-    "new_commits": 19,
+    "new_commits": 20,
     "default_branch": "main"
   },
   {
@@ -2320,7 +2320,7 @@
         "href": "https://github.com/elementary/wingpanel/releases/tag/2.0.3"
       }
     ],
-    "new_commits": 7,
+    "new_commits": 8,
     "default_branch": "master"
   },
   {
@@ -3713,7 +3713,7 @@
         "href": "https://github.com/elementary/greeter/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 19,
+    "new_commits": 21,
     "default_branch": "master"
   },
   {
@@ -5862,7 +5862,7 @@
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
       }
     ],
-    "new_commits": 70,
+    "new_commits": 71,
     "default_branch": "master"
   },
   {
