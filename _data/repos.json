@@ -1053,7 +1053,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 29,
+    "new_commits": 30,
     "default_branch": "main"
   },
   {
@@ -1354,7 +1354,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 49,
+    "new_commits": 57,
     "default_branch": "master"
   },
   {
@@ -2649,7 +2649,7 @@
         "href": "https://github.com/elementary/portals/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 8,
+    "new_commits": 9,
     "default_branch": "main"
   },
   {
@@ -3713,7 +3713,7 @@
         "href": "https://github.com/elementary/greeter/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 21,
+    "new_commits": 22,
     "default_branch": "master"
   },
   {
@@ -4616,7 +4616,7 @@
         "href": "https://github.com/elementary/sideload/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 19,
+    "new_commits": 20,
     "default_branch": "master"
   },
   {
@@ -7003,7 +7003,7 @@
         "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 46,
+    "new_commits": 48,
     "default_branch": "main"
   },
   {
