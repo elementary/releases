@@ -6629,27 +6629,6 @@
     "default_branch": "master"
   },
   {
-    "name": "switchboard-plug-wacom",
-    "releases": [
-      {
-        "version": "1.0.1",
-        "release_date": "2022-07-03T15:32:26+00:00",
-        "title": "switchboard-plug-wacom 1.0.1 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-wacom/releases/tag/1.0.1"
-      },
-      {
-        "version": "1.0.0",
-        "release_date": "2021-07-27T19:14:26+00:00",
-        "title": "switchboard-plug-wacom 1.0.0 Released",
-        "body": "<p>Initial Release!</p>\n",
-        "href": "https://github.com/elementary/switchboard-plug-wacom/releases/tag/1.0.0"
-      }
-    ],
-    "new_commits": 42,
-    "default_branch": "master"
-  },
-  {
     "name": "switchboard",
     "releases": [
       {
@@ -7005,6 +6984,20 @@
     ],
     "new_commits": 48,
     "default_branch": "main"
+  },
+  {
+    "name": "switchboard-plug-wacom",
+    "releases": [
+      {
+        "version": "1.0.0",
+        "release_date": "2021-07-27T19:14:26+00:00",
+        "title": "switchboard-plug-wacom 1.0.0 Released",
+        "body": "<p>Initial Release!</p>\n",
+        "href": "https://github.com/elementary/switchboard-plug-wacom/releases/tag/1.0.0"
+      }
+    ],
+    "new_commits": 96,
+    "default_branch": "master"
   },
   {
     "name": "plymouth-theme",
