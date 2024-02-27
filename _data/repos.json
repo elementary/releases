@@ -2782,6 +2782,13 @@
         "href": "https://github.com/elementary/notifications/releases/tag/7.0.0"
       },
       {
+        "version": "6.0.3",
+        "release_date": "2022-10-26T16:56:20+00:00",
+        "title": "notifications 6.0.3 Released",
+        "body": "<p>Minor Updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/notifications/releases/tag/6.0.3"
+      },
+      {
         "version": "6.0.2",
         "release_date": "2022-06-09T20:42:33+00:00",
         "title": "notifications 6.0.2 Released",
