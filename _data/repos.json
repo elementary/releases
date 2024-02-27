@@ -7304,6 +7304,13 @@
         "href": "https://github.com/elementary/session-settings/releases/tag/5.0.3"
       },
       {
+        "version": "5.0.2",
+        "release_date": "2018-07-27T04:07:14+00:00",
+        "title": "Session Settings 5.0.2 Released",
+        "body": "`pantheon-xsession-settings` 5.0.2 is out!\r\n\r\nThis release includes updated mimetype associations and removes the Cerbere autostart entry now shipped by Cerbere 0.2.4 instead.",
+        "href": "https://github.com/elementary/session-settings/releases/tag/5.0.2"
+      },
+      {
         "version": "5.0.1",
         "release_date": "2018-05-30T22:14:56+00:00",
         "title": "Session Settings 5.0.1 Released",
