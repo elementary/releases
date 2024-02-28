@@ -5139,6 +5139,13 @@
         "title": "Camera 1.0.1 Released",
         "body": "Camera 1.0.1 is out!\r\n\r\nThis release includes enhanced translations.",
         "href": "https://github.com/elementary/camera/releases/tag/1.0.1"
+      },
+      {
+        "version": "1.0",
+        "release_date": "2018-06-06T11:56:31+00:00",
+        "title": "Camera 1.0 Released",
+        "body": "Camera 1.0 is out!\r\n\r\nThis list of issues closed by this release can be found [here](https://github.com/elementary/camera/issues?q=is%3Aclosed+milestone%3A1.0).",
+        "href": "https://github.com/elementary/camera/releases/tag/1.0"
       }
     ],
     "new_commits": 10,
