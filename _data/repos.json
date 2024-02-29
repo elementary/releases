@@ -4826,8 +4826,8 @@
         "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 40,
-    "default_branch": "master"
+    "new_commits": 43,
+    "default_branch": "main"
   },
   {
     "name": "screenshot",
@@ -7402,7 +7402,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.0"
       }
     ],
-    "new_commits": 6243,
+    "new_commits": 6244,
     "default_branch": "master"
   },
   {
