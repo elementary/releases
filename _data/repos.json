@@ -4252,13 +4252,6 @@
         "href": "https://github.com/elementary/tasks/releases/tag/6.0.2"
       },
       {
-        "version": "6.0.1",
-        "release_date": "2021-08-02T19:13:21+00:00",
-        "title": "tasks 6.0.1 Released",
-        "body": "<p>Improvements:</p>\n<ul>\n<li>Fix the order of the scheduled view</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/tasks/releases/tag/6.0.1"
-      },
-      {
         "version": "6.0.0",
         "release_date": "2021-07-21T18:16:59+00:00",
         "title": "tasks 6.0.0 Released",
