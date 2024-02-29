@@ -2369,13 +2369,6 @@
         "href": "https://github.com/elementary/installer/releases/tag/1.1.0"
       },
       {
-        "version": "1.0.7",
-        "release_date": "2023-01-12T02:14:26+00:00",
-        "title": "Release 1.0.7",
-        "body": "## What's Changed\r\n* CheckView: Ignore → Install Anyway by @danirabbit in https://github.com/elementary/installer/pull/676\r\n* Views use 128px icons by @danirabbit in https://github.com/elementary/installer/pull/665\r\n\r\n**Full Changelog**: https://github.com/elementary/installer/compare/1.0.6...1.0.7",
-        "href": "https://github.com/elementary/installer/releases/tag/1.0.7"
-      },
-      {
         "version": "1.0.6",
         "release_date": "2022-12-06T16:39:34+00:00",
         "title": "installer 1.0.6 Released",
