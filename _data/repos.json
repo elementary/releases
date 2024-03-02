@@ -3405,7 +3405,7 @@
         "href": "https://github.com/elementary/icons/releases/tag/4.0.1.1"
       }
     ],
-    "new_commits": 19,
+    "new_commits": 20,
     "default_branch": "main"
   },
   {
@@ -5944,6 +5944,13 @@
         "title": "Photos 2.6.2 Released",
         "body": "Photos 2.6.2 is out!\r\n\r\nChanges:\r\n* Updated translations",
         "href": "https://github.com/elementary/photos/releases/tag/2.6.2"
+      },
+      {
+        "version": "2.6.1",
+        "release_date": "2018-10-29T15:03:00+00:00",
+        "title": "Photos 2.6.1 Released",
+        "body": "Photos 2.6.1 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/photos/issues?q=is%3Aclosed+milestone%3A2.6.1).",
+        "href": "https://github.com/elementary/photos/releases/tag/2.6.1"
       },
       {
         "version": "2.6.0",
