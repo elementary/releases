@@ -2362,13 +2362,6 @@
         "href": "https://github.com/elementary/installer/releases/tag/1.2.0"
       },
       {
-        "version": "1.1.0",
-        "release_date": "2023-07-24T15:34:16+00:00",
-        "title": "Installer 1.1.0 Released!",
-        "body": "## What's Changed\r\n* Switch to GHCR containers by @davidmhewitt in https://github.com/elementary/installer/pull/695\r\n* Fix #617 : Raise DBUS_TIMEOUT_MSEC value in src/Helpers/InstallerDaemon.vala by @aerocyber in https://github.com/elementary/installer/pull/701\r\n* Application: Use Gtk.App inhibit by @danirabbit in https://github.com/elementary/installer/pull/454\r\n* Increase DBUS_TIMEOUT_MSEC variable by @aerocyber in https://github.com/elementary/installer/pull/707\r\n* Metainfo Improvements by @danirabbit in https://github.com/elementary/installer/pull/713\r\n* Metainfo: add 1.0.8 release notes by @danirabbit in https://github.com/elementary/installer/pull/714\r\n* Prompt for screen reader shortcut after a timeout by @danirabbit in https://github.com/elementary/installer/pull/711\r\n* Don't read orca prompt if already enabled by @danirabbit in https://github.com/elementary/installer/pull/716\r\n\r\n## New Contributors\r\n* @dependabot made their first contribution in https://github.com/elementary/installer/pull/696\r\n* @aerocyber made their first contribution in https://github.com/elementary/installer/pull/701\r\n\r\n**Full Changelog**: https://github.com/elementary/installer/compare/1.0.7...1.1.0",
-        "href": "https://github.com/elementary/installer/releases/tag/1.1.0"
-      },
-      {
         "version": "1.0.7",
         "release_date": "2023-01-12T02:14:26+00:00",
         "title": "Release 1.0.7",
