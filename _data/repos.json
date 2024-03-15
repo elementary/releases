@@ -2432,7 +2432,7 @@
         "href": "https://github.com/elementary/installer/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 36,
+    "new_commits": 37,
     "default_branch": "master"
   },
   {
@@ -3251,7 +3251,7 @@
         "href": "https://github.com/elementary/initial-setup/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 28,
+    "new_commits": 29,
     "default_branch": "master"
   },
   {
@@ -5351,7 +5351,7 @@
         "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 30,
+    "new_commits": 31,
     "default_branch": "main"
   },
   {
@@ -7150,7 +7150,7 @@
         "href": "https://github.com/elementary/switchboard-plug-notifications/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 107,
+    "new_commits": 111,
     "default_branch": "main"
   },
   {
