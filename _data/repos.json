@@ -227,7 +227,7 @@
         "href": "https://github.com/elementary/switchboard-plug-network/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 127,
+    "new_commits": 129,
     "default_branch": "main"
   },
   {
@@ -3916,7 +3916,7 @@
         "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
       }
     ],
-    "new_commits": 44,
+    "new_commits": 47,
     "default_branch": "main"
   },
   {
@@ -6247,7 +6247,7 @@
         "href": "https://github.com/elementary/switchboard-plug-sharing/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 316,
+    "new_commits": 317,
     "default_branch": "main"
   },
   {
