@@ -1263,7 +1263,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 44,
+    "new_commits": 45,
     "default_branch": "main"
   },
   {
@@ -2768,7 +2768,7 @@
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 105,
+    "new_commits": 106,
     "default_branch": "main"
   },
   {
@@ -4035,7 +4035,7 @@
         "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/0.1"
       }
     ],
-    "new_commits": 62,
+    "new_commits": 63,
     "default_branch": "main"
   },
   {
@@ -6205,7 +6205,7 @@
         "href": "https://github.com/elementary/switchboard-plug-parental-controls/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 89,
+    "new_commits": 90,
     "default_branch": "main"
   },
   {
