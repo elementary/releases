@@ -633,7 +633,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 81,
+    "new_commits": 82,
     "default_branch": "main"
   },
   {
@@ -2516,7 +2516,7 @@
         "href": "https://github.com/elementary/switchboard-plug-applications/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 150,
+    "new_commits": 190,
     "default_branch": "main"
   },
   {
@@ -6842,7 +6842,7 @@
         "href": "https://github.com/elementary/switchboard-plug-power/releases/tag/0.3.1"
       }
     ],
-    "new_commits": 148,
+    "new_commits": 152,
     "default_branch": "main"
   },
   {
