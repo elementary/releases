@@ -1865,7 +1865,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.0.1"
       }
     ],
-    "new_commits": 11,
+    "new_commits": 12,
     "default_branch": "master"
   },
   {
@@ -5869,7 +5869,7 @@
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
       }
     ],
-    "new_commits": 71,
+    "new_commits": 72,
     "default_branch": "master"
   },
   {
@@ -6408,7 +6408,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-keyboard/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 19,
+    "new_commits": 20,
     "default_branch": "master"
   },
   {
@@ -6632,7 +6632,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-session/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 47,
+    "new_commits": 48,
     "default_branch": "master"
   },
   {
