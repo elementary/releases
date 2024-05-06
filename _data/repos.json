@@ -1256,7 +1256,7 @@
         "href": "https://github.com/elementary/flatpak-platform/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 15,
+    "new_commits": 16,
     "default_branch": "main"
   },
   {
@@ -3930,7 +3930,7 @@
         "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
       }
     ],
-    "new_commits": 58,
+    "new_commits": 59,
     "default_branch": "main"
   },
   {
@@ -7423,7 +7423,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.0"
       }
     ],
-    "new_commits": 6315,
+    "new_commits": 6316,
     "default_branch": "master"
   },
   {
