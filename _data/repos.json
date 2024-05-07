@@ -1,5 +1,173 @@
 [
   {
+    "name": "icons",
+    "releases": [
+      {
+        "version": "8.0.0",
+        "release_date": "2024-05-07T16:51:28+00:00",
+        "title": "icons 8.0.0 Released",
+        "body": "\n",
+        "href": "https://github.com/elementary/icons/releases/tag/8.0.0"
+      },
+      {
+        "version": "7.3.1",
+        "release_date": "2023-08-08T20:21:52+00:00",
+        "title": "Icons 7.3.1 Released",
+        "body": "## What's Changed\r\n* Rename media-memory-sembolic.svg to media-memory-symbolic.svg by @1280px in https://github.com/elementary/icons/pull/1200\r\n* Status: remove non-fdo microphone icons by @danirabbit in https://github.com/elementary/icons/pull/1201\r\n* Status: re-add muted mic symbolics by @danirabbit in https://github.com/elementary/icons/pull/1202\r\n* Remove Night Light icons by @danirabbit in https://github.com/elementary/icons/pull/1203\r\n* Status: remove 16px nightlight icons by @danirabbit in https://github.com/elementary/icons/pull/1204\r\n* Actions: update insert-image-symbolic by @danirabbit in https://github.com/elementary/icons/pull/1205\r\n* Actions: Make media-record more consistent by @newhoa in https://github.com/elementary/icons/pull/1207\r\n* Devices: Improve borders for optical media by @newhoa in https://github.com/elementary/icons/pull/1206\r\n* Actions: Update open-menu and system-run borders by @newhoa in https://github.com/elementary/icons/pull/1208\r\n* Actions: Use rounded arrow for browser-download by @newhoa in https://github.com/elementary/icons/pull/1209\r\n* Actions: Use rounded arrow for document-send by @newhoa in https://github.com/elementary/icons/pull/1210\r\n* Status: remove bluetooth indicator icons by @danirabbit in https://github.com/elementary/icons/pull/1211\r\n* Actions: Use rounded arrow for view-refresh by @newhoa in https://github.com/elementary/icons/pull/1213\r\n* Actions: Use rounded arrow on some 24px icons by @newhoa in https://github.com/elementary/icons/pull/1214\r\n* Actions: Use rounded arrow for object-rotate by @newhoa in https://github.com/elementary/icons/pull/1215\r\n* Actions: update 24/mail-move by @danirabbit in https://github.com/elementary/icons/pull/1216\r\n* Actions: Add some semi-transparent borders by @newhoa in https://github.com/elementary/icons/pull/1217\r\n* Metainfo: add 7.3.1 release notes by @danirabbit in https://github.com/elementary/icons/pull/1220\r\n* Metainfo improvements by @danirabbit in https://github.com/elementary/icons/pull/1221\r\n* Actions: remove non-fdo mail-move by @danirabbit in https://github.com/elementary/icons/pull/1219\r\n* Remove non-fdo mail-archive by @danirabbit in https://github.com/elementary/icons/pull/1223\r\n* Update applications-multimedia by @lenemter in https://github.com/elementary/icons/pull/1226\r\n* Release 7.3.1 by @danirabbit in https://github.com/elementary/icons/pull/1222\r\n\r\n## New Contributors\r\n* @1280px made their first contribution in https://github.com/elementary/icons/pull/1200\r\n\r\n**Full Changelog**: https://github.com/elementary/icons/compare/7.3.0...7.3.1",
+        "href": "https://github.com/elementary/icons/releases/tag/7.3.1"
+      },
+      {
+        "version": "7.3.0",
+        "release_date": "2023-05-02T20:14:47+00:00",
+        "title": "Icons 7.3.0 Released!",
+        "body": "## What's Changed\r\n* Remove network-vpn icons by @danirabbit in https://github.com/elementary/icons/pull/1178\r\n* Drop exec bit from SVG files by @hosiet in https://github.com/elementary/icons/pull/1177\r\n* ci: Make merge.yml a valid GitHub Action by @tintou in https://github.com/elementary/icons/pull/1180\r\n* Network removals by @danirabbit in https://github.com/elementary/icons/pull/1179\r\n* Devices: Remove unused symlinks by @newhoa in https://github.com/elementary/icons/pull/1182\r\n* Switch to GHCR containers by @davidmhewitt in https://github.com/elementary/icons/pull/1183\r\n* Add Adw icons by @danirabbit in https://github.com/elementary/icons/pull/1186\r\n* Add GNOME UI icons to actions by @danirabbit in https://github.com/elementary/icons/pull/1185\r\n* Update preferences-desktop-display by @danirabbit in https://github.com/elementary/icons/pull/1187\r\n* Actions: increase radius of edit-clear by @danirabbit in https://github.com/elementary/icons/pull/1191\r\n* Actions: add adw-external-link by @danirabbit in https://github.com/elementary/icons/pull/1189\r\n* Actions: update document-*-symbolic radius by @danirabbit in https://github.com/elementary/icons/pull/1190\r\n* Process completed newcheck by @danirabbit in https://github.com/elementary/icons/pull/1193\r\n* Categories: add location prefs by @danirabbit in https://github.com/elementary/icons/pull/1195\r\n* Extension → application-x-addon by @danirabbit in https://github.com/elementary/icons/pull/1197\r\n\r\n## New Contributors\r\n* @hosiet made their first contribution in https://github.com/elementary/icons/pull/1177\r\n* @davidmhewitt made their first contribution in https://github.com/elementary/icons/pull/1183\r\n\r\n**Full Changelog**: https://github.com/elementary/icons/compare/7.2.0...7.3.0",
+        "href": "https://github.com/elementary/icons/releases/tag/7.3.0"
+      },
+      {
+        "version": "7.2.0",
+        "release_date": "2023-01-24T17:31:50+00:00",
+        "title": "Icons 7.2.0 Released",
+        "body": "## What's Changed\r\n* Update white tile icons by @danirabbit in https://github.com/elementary/icons/pull/1144\r\n* Redesign system-file-manager by @danirabbit in https://github.com/elementary/icons/pull/1147\r\n* Redesign accessories-calculator by @danirabbit in https://github.com/elementary/icons/pull/1148\r\n* FileTypes: symlink extension to application-x-xpinstall by @danirabbit in https://github.com/elementary/icons/pull/1156\r\n* Update categories/applications-development by @danirabbit in https://github.com/elementary/icons/pull/1155\r\n* Remove internet-web-browser by @danirabbit in https://github.com/elementary/icons/pull/1141\r\n* Remove system-os-install by @danirabbit in https://github.com/elementary/icons/pull/1152\r\n* Update border radius of preferences-system-sharing by @lenemter in https://github.com/elementary/icons/pull/1159\r\n* Appdata: Add Icon by @lenemter in https://github.com/elementary/icons/pull/1165\r\n* Update border radius of preferences-desktop-applications by @lenemter in https://github.com/elementary/icons/pull/1164\r\n* Update border radius of notification-disabled by @lenemter in https://github.com/elementary/icons/pull/1163\r\n* Update border radius of application-x-firmware by @lenemter in https://github.com/elementary/icons/pull/1161\r\n* Normalize width of key in input-keyboard icon by @lenemter in https://github.com/elementary/icons/pull/1162\r\n* Update border radius of preferences-system-parental-controls by @lenemter in https://github.com/elementary/icons/pull/1160\r\n* Status: update 48px do-not-disturb by @danirabbit in https://github.com/elementary/icons/pull/1166\r\n* FileTypes: Use fd.o `text-x-generic` for text by @newhoa in https://github.com/elementary/icons/pull/1169\r\n* Categories: remove unused and non-fd.o names by @danirabbit in https://github.com/elementary/icons/pull/1154\r\n* FileTypes: Add 16px video-x-generic by @danirabbit in https://github.com/elementary/icons/pull/1175\r\n* Update Actions by @danirabbit in https://github.com/elementary/icons/pull/1176\r\n* Add latte palette by @micahilbery in https://github.com/elementary/icons/pull/963\r\n* Unify view mode symbolics by @danirabbit in https://github.com/elementary/icons/pull/1157\r\n\r\n## New Contributors\r\n* @lenemter made their first contribution in https://github.com/elementary/icons/pull/1159\r\n\r\n**Full Changelog**: https://github.com/elementary/icons/compare/7.1.0...7.2.0",
+        "href": "https://github.com/elementary/icons/releases/tag/7.2.0"
+      },
+      {
+        "version": "7.1.0",
+        "release_date": "2022-10-06T20:40:03+00:00",
+        "title": "icons 7.1.0 Released",
+        "body": "<p>Additions:</p>\n<ul>\n<li>\"computer-fail\"</li>\n<li>\"preferences-desktop-theme\"</li>\n<li>\"application-x-sharedlib\"</li>\n<li>\"process-paused\"</li>\n</ul>\n<p>Removals:</p>\n<ul>\n<li>\"office-address-book\"</li>\n<li>Flash file types</li>\n</ul>\n<p>Updated families:</p>\n<ul>\n<li>Clean up \"preferences-desktop-workspaces\"</li>\n<li>Update \"preferences-desktop\" to new tile shape</li>\n<li>Update \"image-missing\" to new tile shape</li>\n<li>Update \"preferences-desktop-keyboard\" to new tile shape</li>\n<li>Update \"document-import\" and \"document-export\" to new tile shape</li>\n<li>Update many file types with new arrow shape</li>\n<li>\"application-default-icon\" is now brightly colored</li>\n<li>\"media-stop\" is now a square</li>\n<li>Round symbolic location status icons</li>\n<li>Use an outlined shape for symbolic tag icons</li>\n<li>Use a rounded star for symbolic bookmark icons</li>\n<li>Redesign Night Light</li>\n<li>Use latest Flatpak branding</li>\n<li>Symbolic volume icons use a rounded shape and a slash when muted</li>\n</ul>\n<p>Other Changes:</p>\n<ul>\n<li>Fix broken link for SVG file types</li>\n<li>Fix missing links for PGP file types</li>\n<li>Scale some icons to more sizes</li>\n</ul>\n",
+        "href": "https://github.com/elementary/icons/releases/tag/7.1.0"
+      },
+      {
+        "version": "7.0.0",
+        "release_date": "2022-04-25T19:35:24+00:00",
+        "title": "icons 7.0.0 Released",
+        "body": "<p>Additions:</p>\n<ul>\n<li>caps-lock-symbolic</li>\n<li>eye-not-looking-symbolic</li>\n<li>eye-open-negative-filled-symbolic</li>\n<li>num-lock-symbolic</li>\n</ul>\n<p>Updated families:</p>\n<ul>\n<li>Redesign media-playlist-repeat</li>\n<li>Update media-playlist-shuffle and media-playlist-consecutive</li>\n<li>Rounder square icons</li>\n<li>Rounded arrow corners on Downloads folder</li>\n<li>Deb and Flatpak Bundle files use a package metaphor</li>\n<li>Updates arrow points up</li>\n<li>Redesigned package with new colors</li>\n</ul>\n<p>Removals:</p>\n<ul>\n<li>notification-*</li>\n<li>Non-FDO network-*</li>\n<li>Non-FDO app icons</li>\n</ul>\n",
+        "href": "https://github.com/elementary/icons/releases/tag/7.0.0"
+      },
+      {
+        "version": "6.1.0",
+        "release_date": "2021-11-23T21:43:34+00:00",
+        "title": "icons 6.1.0 Released",
+        "body": "<p>Additions:</p>\n<ul>\n<li>preferences-desktop-font*</li>\n</ul>\n<p>Updated families:</p>\n<ul>\n<li>Additional sizes for playlist-queue</li>\n<li>Redesign PDF file type</li>\n<li>Additional sizes for emblem-downloads</li>\n<li>Remove arrows from Copy and Paste actions</li>\n</ul>\n<p>Removals:</p>\n<ul>\n<li>multimedia-video-player</li>\n</ul>\n",
+        "href": "https://github.com/elementary/icons/releases/tag/6.1.0"
+      },
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-15T22:11:47+00:00",
+        "title": "icons 6.0.0 Released",
+        "body": "<p>Updated families:</p>\n<ul>\n<li>Improved consistency between arrow shapes</li>\n<li>Improved appearance of color icons against dark backgrounds</li>\n<li>More gender-nuetral people icons</li>\n<li>Rounded media controls</li>\n<li>Rounded lightening bolt shape</li>\n<li>More colorful battery icons</li>\n</ul>\n<p>Additions:</p>\n<ul>\n<li>align-*</li>\n<li>color-picker</li>\n<li>distribute-*</li>\n<li>draw-calligraphic</li>\n<li>office-database-new</li>\n<li>tools-spray</li>\n<li>application-content-*</li>\n<li>thunderbolt devices</li>\n<li>video-display-tv</li>\n<li>symbolic headphones</li>\n<li>application-certificate</li>\n<li>application-json</li>\n<li>office-task-symbolic</li>\n<li>status emblems</li>\n<li>emblem-git-*</li>\n</ul>\n<p>Removals:</p>\n<ul>\n<li>accessories-camera</li>\n<li>accessories-screenshot</li>\n<li>audio-speaker-testing</li>\n<li>edit-undo-archive</li>\n<li>internet-mail</li>\n<li>internet-news-reader</li>\n<li>multimedia-audio-player</li>\n<li>notification bell animations</li>\n<li>nm-*</li>\n<li>ubiquity</li>\n</ul>\n",
+        "href": "https://github.com/elementary/icons/releases/tag/6.0.0"
+      },
+      {
+        "version": "5.3.1",
+        "release_date": "2020-05-06T18:10:20+00:00",
+        "title": "icons 5.3.1 Released",
+        "body": "<p>Minor updates</p>\n<ul>\n<li>Update emoji names for emoji picker in elementary OS 6 and latest GTK</li>\n<li>Replace Inkscape with rsvg for building cursors</li>\n</ul>\n",
+        "href": "https://github.com/elementary/icons/releases/tag/5.3.1"
+      },
+      {
+        "version": "5.3.0",
+        "release_date": "2020-05-01T05:35:02+00:00",
+        "title": "icons 5.3.0 Released",
+        "body": "<p>New Palette Colors:</p>\n<ul>\n<li>Add Bubblegum and Mint to official palette</li>\n<li>Updated all eraser icons to use Bubblegum palette</li>\n<li>Updated \"path\" icons to use Mint palette</li>\n<li>Updated all pencil icons to use Banana palette</li>\n</ul>\n<p>New Icons:</p>\n<ul>\n<li>Add \"software-update-urgent\"</li>\n<li>Add \"sync-synchronizing\"</li>\n</ul>\n<p>Scaled Icon Sizes:</p>\n<ul>\n<li>Add 24px \"window-close-symbolic\"</li>\n<li>Add 48px preferences icons</li>\n</ul>\n",
+        "href": "https://github.com/elementary/icons/releases/tag/5.3.0"
+      },
+      {
+        "version": "5.2.0",
+        "release_date": "2020-01-08T21:23:48+00:00",
+        "title": "icons 5.2.0 Released",
+        "body": "icons 5.2.0 is out! \n\n<ul>\n<li>Provide large cursors</li>\n<li>Fix alignment of several cursors</li>\n<li>Use palette colors in copy cursors</li>\n<li>Fix direction of the ban symbol cursor and use red</li>\n<li>Add \"All Scroll\", \"No Drop\", \"Vertical Text\", and \"Zoom\" cursors</li>\n</ul>\n",
+        "href": "https://github.com/elementary/icons/releases/tag/5.2.0"
+      },
+      {
+        "version": "5.1.0",
+        "release_date": "2019-10-31T22:54:07+00:00",
+        "title": "icons 5.1.0 Released",
+        "body": "icons 5.1.0 is out! \n\nChanges:\n\n* Add 64px prefs locale\n* Make symbol on 32px places home larger\n* New icons for Workspace preferences\n* Add symbolic variant for updates icon\n* Give browser-download its own unique icon\n* Use a more scalable metaphor for system updates\n* New view-reader icon\n* Add 32px wireless signal icons\n* Add 24px user status icons\n",
+        "href": "https://github.com/elementary/icons/releases/tag/5.1.0"
+      },
+      {
+        "version": "5.0.4",
+        "release_date": "2019-07-12T14:19:54+00:00",
+        "title": "elementary Icons 5.0.4",
+        "body": "elementary-icon-theme 5.0.4 is out!\r\n\r\nChanges:\r\n* Redesigned wired networking icons\r\n* Simplified `image-missing`\r\n* Re-shaped `system-software-update`\r\n* Scaled `process-completed` to 64px\r\n* Scaled `find-location` to 64px\r\n* Added new icons:\r\n  * `preferences-system-privacy-housekeeping`\r\n  * `media-memory-symbolic`\r\n  * `mail-forwarded-symbolic`\r\n  * `application-x-firmware-symbolic`\r\n  * `computer-laptop-symbolic`\r\n  * `location-active-symbolic`\r\n  * `location-inactive-symbolic`\r\n  * `location-disabled-symbolic`\r\n  * 64px `night-light`\r\n  * 48px `image-crop`\r\n  * 48px `mail-send`",
+        "href": "https://github.com/elementary/icons/releases/tag/5.0.4"
+      },
+      {
+        "version": "5.0.3",
+        "release_date": "2019-02-11T21:38:22+00:00",
+        "title": "elementary Icons 5.0.3 Released",
+        "body": "elementary-icon-theme 5.0.3 is out!\r\n\r\nChanges:\r\n\r\n* Redesigned weather icons\r\n* New and redesigned `mail-mark-*`\r\n* Refined align actions\r\n* Adjust contrast of `selection-*-symbolic`\r\n* Added new icons:\r\n  * `drive-harddisk-solidstate`\r\n  * `input-keyboard-numlock-symbolic`\r\n  * 16px `night-light-*`\r\n  * Added and redesigned `path-*`\r\n  * 32px `input-touchpad`\r\n  * `microphone-sensitivity-muted-*` animation\r\n  * `application-x-generic`\r\n  * Added and redesigned `object-group`",
+        "href": "https://github.com/elementary/icons/releases/tag/5.0.3"
+      },
+      {
+        "version": "5.0.2",
+        "release_date": "2018-12-29T03:33:12+00:00",
+        "title": "elementary Icons 5.0.2 Released",
+        "body": "elementary-icon-theme 5.0.2 is out!\r\n\r\nChanges:\r\n* New palette colors for `edit-flag`\r\n* Add `user-desktop-open` as symlink to `folder-open`",
+        "href": "https://github.com/elementary/icons/releases/tag/5.0.2"
+      },
+      {
+        "version": "5.0.1",
+        "release_date": "2018-12-06T16:53:16+00:00",
+        "title": "elementary Icons 5.0.1 Released",
+        "body": "elementary-icon-theme 5.0.1 is out!\r\n\r\nChanges:\r\n* `phone` icons redesigned\r\n* Appointment icon family are more consistent\r\n* Disabled icons are more consistent\r\n* Symbolic apps/multimedia match color and scale\r\n* Added new icons:\r\n  * `playlist-symbolic`\r\n  * `playlist-queue-symbolic`\r\n  * `internet-chat-symbolic`\r\n  * `input-keyboard-capslock-symbolic`\r\n  * `mail-send-symbolic-rtl`\r\n  * `preferences-system-notifications-rtl`\r\n  * `preferences-system-notifications-rtl`\r\n  * `audio-headphones` and `audio-headset`\r\n  * `computer-convertible`",
+        "href": "https://github.com/elementary/icons/releases/tag/5.0.1"
+      },
+      {
+        "version": "5.0",
+        "release_date": "2018-10-16T05:18:18+00:00",
+        "title": "elementary Icons 5.0 Released",
+        "body": "elementary-icon-theme 5.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/icons/issues?q=is%3Aclosed+milestone%3A5.0).",
+        "href": "https://github.com/elementary/icons/releases/tag/5.0"
+      },
+      {
+        "version": "4.3.1",
+        "release_date": "2017-10-23T17:52:41+00:00",
+        "title": "elementary Icons 4.3.1 Released",
+        "body": "elementary-icon-theme 4.3.1 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/icons/issues?q=is%3Aclosed+milestone%3A4.3.1).",
+        "href": "https://github.com/elementary/icons/releases/tag/4.3.1"
+      },
+      {
+        "version": "4.3.0",
+        "release_date": "2017-09-26T16:36:28+00:00",
+        "title": "elementary Icons 4.3.0 Released",
+        "body": "elementary-icon-theme 4.3.0 is out!\r\n\r\nThe list of issues closed for this release can be found [here](https://github.com/elementary/icons/issues?q=is%3Aclosed+milestone%3A4.3.0).",
+        "href": "https://github.com/elementary/icons/releases/tag/4.3.0"
+      },
+      {
+        "version": "4.2.0",
+        "release_date": "2017-07-19T16:50:09+00:00",
+        "title": "elementary Icons 4.2.0 Released",
+        "body": "elementary-icon-theme 4.2.0 is out!\r\n\r\nThe list of issues closed for this release can be found [here](https://github.com/elementary/icons/milestone/3?closed=1).",
+        "href": "https://github.com/elementary/icons/releases/tag/4.2.0"
+      },
+      {
+        "version": "4.1.0",
+        "release_date": "2017-05-15T03:27:34+00:00",
+        "title": "elementary Icons 4.1.0 Released",
+        "body": "elementary-icon-theme 4.1.0 is out!",
+        "href": "https://github.com/elementary/icons/releases/tag/4.1.0"
+      },
+      {
+        "version": "4.0.3",
+        "release_date": "2017-03-18T17:07:48+00:00",
+        "title": "",
+        "body": "",
+        "href": "https://github.com/elementary/icons/releases/tag/4.0.3"
+      },
+      {
+        "version": "4.0.1.1",
+        "release_date": "2016-10-25T19:46:00+00:00",
+        "title": "",
+        "body": "",
+        "href": "https://github.com/elementary/icons/releases/tag/4.0.1.1"
+      }
+    ],
+    "new_commits": 0,
+    "default_branch": "main"
+  },
+  {
     "name": "granite",
     "releases": [
       {
@@ -178,7 +346,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 0,
+    "new_commits": 1,
     "default_branch": "main"
   },
   {
@@ -1438,7 +1606,7 @@
         "href": "https://github.com/elementary/flatpak-platform/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 18,
+    "new_commits": 20,
     "default_branch": "main"
   },
   {
@@ -3274,167 +3442,6 @@
     ],
     "new_commits": 33,
     "default_branch": "master"
-  },
-  {
-    "name": "icons",
-    "releases": [
-      {
-        "version": "7.3.1",
-        "release_date": "2023-08-08T20:21:52+00:00",
-        "title": "Icons 7.3.1 Released",
-        "body": "## What's Changed\r\n* Rename media-memory-sembolic.svg to media-memory-symbolic.svg by @1280px in https://github.com/elementary/icons/pull/1200\r\n* Status: remove non-fdo microphone icons by @danirabbit in https://github.com/elementary/icons/pull/1201\r\n* Status: re-add muted mic symbolics by @danirabbit in https://github.com/elementary/icons/pull/1202\r\n* Remove Night Light icons by @danirabbit in https://github.com/elementary/icons/pull/1203\r\n* Status: remove 16px nightlight icons by @danirabbit in https://github.com/elementary/icons/pull/1204\r\n* Actions: update insert-image-symbolic by @danirabbit in https://github.com/elementary/icons/pull/1205\r\n* Actions: Make media-record more consistent by @newhoa in https://github.com/elementary/icons/pull/1207\r\n* Devices: Improve borders for optical media by @newhoa in https://github.com/elementary/icons/pull/1206\r\n* Actions: Update open-menu and system-run borders by @newhoa in https://github.com/elementary/icons/pull/1208\r\n* Actions: Use rounded arrow for browser-download by @newhoa in https://github.com/elementary/icons/pull/1209\r\n* Actions: Use rounded arrow for document-send by @newhoa in https://github.com/elementary/icons/pull/1210\r\n* Status: remove bluetooth indicator icons by @danirabbit in https://github.com/elementary/icons/pull/1211\r\n* Actions: Use rounded arrow for view-refresh by @newhoa in https://github.com/elementary/icons/pull/1213\r\n* Actions: Use rounded arrow on some 24px icons by @newhoa in https://github.com/elementary/icons/pull/1214\r\n* Actions: Use rounded arrow for object-rotate by @newhoa in https://github.com/elementary/icons/pull/1215\r\n* Actions: update 24/mail-move by @danirabbit in https://github.com/elementary/icons/pull/1216\r\n* Actions: Add some semi-transparent borders by @newhoa in https://github.com/elementary/icons/pull/1217\r\n* Metainfo: add 7.3.1 release notes by @danirabbit in https://github.com/elementary/icons/pull/1220\r\n* Metainfo improvements by @danirabbit in https://github.com/elementary/icons/pull/1221\r\n* Actions: remove non-fdo mail-move by @danirabbit in https://github.com/elementary/icons/pull/1219\r\n* Remove non-fdo mail-archive by @danirabbit in https://github.com/elementary/icons/pull/1223\r\n* Update applications-multimedia by @lenemter in https://github.com/elementary/icons/pull/1226\r\n* Release 7.3.1 by @danirabbit in https://github.com/elementary/icons/pull/1222\r\n\r\n## New Contributors\r\n* @1280px made their first contribution in https://github.com/elementary/icons/pull/1200\r\n\r\n**Full Changelog**: https://github.com/elementary/icons/compare/7.3.0...7.3.1",
-        "href": "https://github.com/elementary/icons/releases/tag/7.3.1"
-      },
-      {
-        "version": "7.3.0",
-        "release_date": "2023-05-02T20:14:47+00:00",
-        "title": "Icons 7.3.0 Released!",
-        "body": "## What's Changed\r\n* Remove network-vpn icons by @danirabbit in https://github.com/elementary/icons/pull/1178\r\n* Drop exec bit from SVG files by @hosiet in https://github.com/elementary/icons/pull/1177\r\n* ci: Make merge.yml a valid GitHub Action by @tintou in https://github.com/elementary/icons/pull/1180\r\n* Network removals by @danirabbit in https://github.com/elementary/icons/pull/1179\r\n* Devices: Remove unused symlinks by @newhoa in https://github.com/elementary/icons/pull/1182\r\n* Switch to GHCR containers by @davidmhewitt in https://github.com/elementary/icons/pull/1183\r\n* Add Adw icons by @danirabbit in https://github.com/elementary/icons/pull/1186\r\n* Add GNOME UI icons to actions by @danirabbit in https://github.com/elementary/icons/pull/1185\r\n* Update preferences-desktop-display by @danirabbit in https://github.com/elementary/icons/pull/1187\r\n* Actions: increase radius of edit-clear by @danirabbit in https://github.com/elementary/icons/pull/1191\r\n* Actions: add adw-external-link by @danirabbit in https://github.com/elementary/icons/pull/1189\r\n* Actions: update document-*-symbolic radius by @danirabbit in https://github.com/elementary/icons/pull/1190\r\n* Process completed newcheck by @danirabbit in https://github.com/elementary/icons/pull/1193\r\n* Categories: add location prefs by @danirabbit in https://github.com/elementary/icons/pull/1195\r\n* Extension → application-x-addon by @danirabbit in https://github.com/elementary/icons/pull/1197\r\n\r\n## New Contributors\r\n* @hosiet made their first contribution in https://github.com/elementary/icons/pull/1177\r\n* @davidmhewitt made their first contribution in https://github.com/elementary/icons/pull/1183\r\n\r\n**Full Changelog**: https://github.com/elementary/icons/compare/7.2.0...7.3.0",
-        "href": "https://github.com/elementary/icons/releases/tag/7.3.0"
-      },
-      {
-        "version": "7.2.0",
-        "release_date": "2023-01-24T17:31:50+00:00",
-        "title": "Icons 7.2.0 Released",
-        "body": "## What's Changed\r\n* Update white tile icons by @danirabbit in https://github.com/elementary/icons/pull/1144\r\n* Redesign system-file-manager by @danirabbit in https://github.com/elementary/icons/pull/1147\r\n* Redesign accessories-calculator by @danirabbit in https://github.com/elementary/icons/pull/1148\r\n* FileTypes: symlink extension to application-x-xpinstall by @danirabbit in https://github.com/elementary/icons/pull/1156\r\n* Update categories/applications-development by @danirabbit in https://github.com/elementary/icons/pull/1155\r\n* Remove internet-web-browser by @danirabbit in https://github.com/elementary/icons/pull/1141\r\n* Remove system-os-install by @danirabbit in https://github.com/elementary/icons/pull/1152\r\n* Update border radius of preferences-system-sharing by @lenemter in https://github.com/elementary/icons/pull/1159\r\n* Appdata: Add Icon by @lenemter in https://github.com/elementary/icons/pull/1165\r\n* Update border radius of preferences-desktop-applications by @lenemter in https://github.com/elementary/icons/pull/1164\r\n* Update border radius of notification-disabled by @lenemter in https://github.com/elementary/icons/pull/1163\r\n* Update border radius of application-x-firmware by @lenemter in https://github.com/elementary/icons/pull/1161\r\n* Normalize width of key in input-keyboard icon by @lenemter in https://github.com/elementary/icons/pull/1162\r\n* Update border radius of preferences-system-parental-controls by @lenemter in https://github.com/elementary/icons/pull/1160\r\n* Status: update 48px do-not-disturb by @danirabbit in https://github.com/elementary/icons/pull/1166\r\n* FileTypes: Use fd.o `text-x-generic` for text by @newhoa in https://github.com/elementary/icons/pull/1169\r\n* Categories: remove unused and non-fd.o names by @danirabbit in https://github.com/elementary/icons/pull/1154\r\n* FileTypes: Add 16px video-x-generic by @danirabbit in https://github.com/elementary/icons/pull/1175\r\n* Update Actions by @danirabbit in https://github.com/elementary/icons/pull/1176\r\n* Add latte palette by @micahilbery in https://github.com/elementary/icons/pull/963\r\n* Unify view mode symbolics by @danirabbit in https://github.com/elementary/icons/pull/1157\r\n\r\n## New Contributors\r\n* @lenemter made their first contribution in https://github.com/elementary/icons/pull/1159\r\n\r\n**Full Changelog**: https://github.com/elementary/icons/compare/7.1.0...7.2.0",
-        "href": "https://github.com/elementary/icons/releases/tag/7.2.0"
-      },
-      {
-        "version": "7.1.0",
-        "release_date": "2022-10-06T20:40:03+00:00",
-        "title": "icons 7.1.0 Released",
-        "body": "<p>Additions:</p>\n<ul>\n<li>\"computer-fail\"</li>\n<li>\"preferences-desktop-theme\"</li>\n<li>\"application-x-sharedlib\"</li>\n<li>\"process-paused\"</li>\n</ul>\n<p>Removals:</p>\n<ul>\n<li>\"office-address-book\"</li>\n<li>Flash file types</li>\n</ul>\n<p>Updated families:</p>\n<ul>\n<li>Clean up \"preferences-desktop-workspaces\"</li>\n<li>Update \"preferences-desktop\" to new tile shape</li>\n<li>Update \"image-missing\" to new tile shape</li>\n<li>Update \"preferences-desktop-keyboard\" to new tile shape</li>\n<li>Update \"document-import\" and \"document-export\" to new tile shape</li>\n<li>Update many file types with new arrow shape</li>\n<li>\"application-default-icon\" is now brightly colored</li>\n<li>\"media-stop\" is now a square</li>\n<li>Round symbolic location status icons</li>\n<li>Use an outlined shape for symbolic tag icons</li>\n<li>Use a rounded star for symbolic bookmark icons</li>\n<li>Redesign Night Light</li>\n<li>Use latest Flatpak branding</li>\n<li>Symbolic volume icons use a rounded shape and a slash when muted</li>\n</ul>\n<p>Other Changes:</p>\n<ul>\n<li>Fix broken link for SVG file types</li>\n<li>Fix missing links for PGP file types</li>\n<li>Scale some icons to more sizes</li>\n</ul>\n",
-        "href": "https://github.com/elementary/icons/releases/tag/7.1.0"
-      },
-      {
-        "version": "7.0.0",
-        "release_date": "2022-04-25T19:35:24+00:00",
-        "title": "icons 7.0.0 Released",
-        "body": "<p>Additions:</p>\n<ul>\n<li>caps-lock-symbolic</li>\n<li>eye-not-looking-symbolic</li>\n<li>eye-open-negative-filled-symbolic</li>\n<li>num-lock-symbolic</li>\n</ul>\n<p>Updated families:</p>\n<ul>\n<li>Redesign media-playlist-repeat</li>\n<li>Update media-playlist-shuffle and media-playlist-consecutive</li>\n<li>Rounder square icons</li>\n<li>Rounded arrow corners on Downloads folder</li>\n<li>Deb and Flatpak Bundle files use a package metaphor</li>\n<li>Updates arrow points up</li>\n<li>Redesigned package with new colors</li>\n</ul>\n<p>Removals:</p>\n<ul>\n<li>notification-*</li>\n<li>Non-FDO network-*</li>\n<li>Non-FDO app icons</li>\n</ul>\n",
-        "href": "https://github.com/elementary/icons/releases/tag/7.0.0"
-      },
-      {
-        "version": "6.1.0",
-        "release_date": "2021-11-23T21:43:34+00:00",
-        "title": "icons 6.1.0 Released",
-        "body": "<p>Additions:</p>\n<ul>\n<li>preferences-desktop-font*</li>\n</ul>\n<p>Updated families:</p>\n<ul>\n<li>Additional sizes for playlist-queue</li>\n<li>Redesign PDF file type</li>\n<li>Additional sizes for emblem-downloads</li>\n<li>Remove arrows from Copy and Paste actions</li>\n</ul>\n<p>Removals:</p>\n<ul>\n<li>multimedia-video-player</li>\n</ul>\n",
-        "href": "https://github.com/elementary/icons/releases/tag/6.1.0"
-      },
-      {
-        "version": "6.0.0",
-        "release_date": "2021-07-15T22:11:47+00:00",
-        "title": "icons 6.0.0 Released",
-        "body": "<p>Updated families:</p>\n<ul>\n<li>Improved consistency between arrow shapes</li>\n<li>Improved appearance of color icons against dark backgrounds</li>\n<li>More gender-nuetral people icons</li>\n<li>Rounded media controls</li>\n<li>Rounded lightening bolt shape</li>\n<li>More colorful battery icons</li>\n</ul>\n<p>Additions:</p>\n<ul>\n<li>align-*</li>\n<li>color-picker</li>\n<li>distribute-*</li>\n<li>draw-calligraphic</li>\n<li>office-database-new</li>\n<li>tools-spray</li>\n<li>application-content-*</li>\n<li>thunderbolt devices</li>\n<li>video-display-tv</li>\n<li>symbolic headphones</li>\n<li>application-certificate</li>\n<li>application-json</li>\n<li>office-task-symbolic</li>\n<li>status emblems</li>\n<li>emblem-git-*</li>\n</ul>\n<p>Removals:</p>\n<ul>\n<li>accessories-camera</li>\n<li>accessories-screenshot</li>\n<li>audio-speaker-testing</li>\n<li>edit-undo-archive</li>\n<li>internet-mail</li>\n<li>internet-news-reader</li>\n<li>multimedia-audio-player</li>\n<li>notification bell animations</li>\n<li>nm-*</li>\n<li>ubiquity</li>\n</ul>\n",
-        "href": "https://github.com/elementary/icons/releases/tag/6.0.0"
-      },
-      {
-        "version": "5.3.1",
-        "release_date": "2020-05-06T18:10:20+00:00",
-        "title": "icons 5.3.1 Released",
-        "body": "<p>Minor updates</p>\n<ul>\n<li>Update emoji names for emoji picker in elementary OS 6 and latest GTK</li>\n<li>Replace Inkscape with rsvg for building cursors</li>\n</ul>\n",
-        "href": "https://github.com/elementary/icons/releases/tag/5.3.1"
-      },
-      {
-        "version": "5.3.0",
-        "release_date": "2020-05-01T05:35:02+00:00",
-        "title": "icons 5.3.0 Released",
-        "body": "<p>New Palette Colors:</p>\n<ul>\n<li>Add Bubblegum and Mint to official palette</li>\n<li>Updated all eraser icons to use Bubblegum palette</li>\n<li>Updated \"path\" icons to use Mint palette</li>\n<li>Updated all pencil icons to use Banana palette</li>\n</ul>\n<p>New Icons:</p>\n<ul>\n<li>Add \"software-update-urgent\"</li>\n<li>Add \"sync-synchronizing\"</li>\n</ul>\n<p>Scaled Icon Sizes:</p>\n<ul>\n<li>Add 24px \"window-close-symbolic\"</li>\n<li>Add 48px preferences icons</li>\n</ul>\n",
-        "href": "https://github.com/elementary/icons/releases/tag/5.3.0"
-      },
-      {
-        "version": "5.2.0",
-        "release_date": "2020-01-08T21:23:48+00:00",
-        "title": "icons 5.2.0 Released",
-        "body": "icons 5.2.0 is out! \n\n<ul>\n<li>Provide large cursors</li>\n<li>Fix alignment of several cursors</li>\n<li>Use palette colors in copy cursors</li>\n<li>Fix direction of the ban symbol cursor and use red</li>\n<li>Add \"All Scroll\", \"No Drop\", \"Vertical Text\", and \"Zoom\" cursors</li>\n</ul>\n",
-        "href": "https://github.com/elementary/icons/releases/tag/5.2.0"
-      },
-      {
-        "version": "5.1.0",
-        "release_date": "2019-10-31T22:54:07+00:00",
-        "title": "icons 5.1.0 Released",
-        "body": "icons 5.1.0 is out! \n\nChanges:\n\n* Add 64px prefs locale\n* Make symbol on 32px places home larger\n* New icons for Workspace preferences\n* Add symbolic variant for updates icon\n* Give browser-download its own unique icon\n* Use a more scalable metaphor for system updates\n* New view-reader icon\n* Add 32px wireless signal icons\n* Add 24px user status icons\n",
-        "href": "https://github.com/elementary/icons/releases/tag/5.1.0"
-      },
-      {
-        "version": "5.0.4",
-        "release_date": "2019-07-12T14:19:54+00:00",
-        "title": "elementary Icons 5.0.4",
-        "body": "elementary-icon-theme 5.0.4 is out!\r\n\r\nChanges:\r\n* Redesigned wired networking icons\r\n* Simplified `image-missing`\r\n* Re-shaped `system-software-update`\r\n* Scaled `process-completed` to 64px\r\n* Scaled `find-location` to 64px\r\n* Added new icons:\r\n  * `preferences-system-privacy-housekeeping`\r\n  * `media-memory-symbolic`\r\n  * `mail-forwarded-symbolic`\r\n  * `application-x-firmware-symbolic`\r\n  * `computer-laptop-symbolic`\r\n  * `location-active-symbolic`\r\n  * `location-inactive-symbolic`\r\n  * `location-disabled-symbolic`\r\n  * 64px `night-light`\r\n  * 48px `image-crop`\r\n  * 48px `mail-send`",
-        "href": "https://github.com/elementary/icons/releases/tag/5.0.4"
-      },
-      {
-        "version": "5.0.3",
-        "release_date": "2019-02-11T21:38:22+00:00",
-        "title": "elementary Icons 5.0.3 Released",
-        "body": "elementary-icon-theme 5.0.3 is out!\r\n\r\nChanges:\r\n\r\n* Redesigned weather icons\r\n* New and redesigned `mail-mark-*`\r\n* Refined align actions\r\n* Adjust contrast of `selection-*-symbolic`\r\n* Added new icons:\r\n  * `drive-harddisk-solidstate`\r\n  * `input-keyboard-numlock-symbolic`\r\n  * 16px `night-light-*`\r\n  * Added and redesigned `path-*`\r\n  * 32px `input-touchpad`\r\n  * `microphone-sensitivity-muted-*` animation\r\n  * `application-x-generic`\r\n  * Added and redesigned `object-group`",
-        "href": "https://github.com/elementary/icons/releases/tag/5.0.3"
-      },
-      {
-        "version": "5.0.2",
-        "release_date": "2018-12-29T03:33:12+00:00",
-        "title": "elementary Icons 5.0.2 Released",
-        "body": "elementary-icon-theme 5.0.2 is out!\r\n\r\nChanges:\r\n* New palette colors for `edit-flag`\r\n* Add `user-desktop-open` as symlink to `folder-open`",
-        "href": "https://github.com/elementary/icons/releases/tag/5.0.2"
-      },
-      {
-        "version": "5.0.1",
-        "release_date": "2018-12-06T16:53:16+00:00",
-        "title": "elementary Icons 5.0.1 Released",
-        "body": "elementary-icon-theme 5.0.1 is out!\r\n\r\nChanges:\r\n* `phone` icons redesigned\r\n* Appointment icon family are more consistent\r\n* Disabled icons are more consistent\r\n* Symbolic apps/multimedia match color and scale\r\n* Added new icons:\r\n  * `playlist-symbolic`\r\n  * `playlist-queue-symbolic`\r\n  * `internet-chat-symbolic`\r\n  * `input-keyboard-capslock-symbolic`\r\n  * `mail-send-symbolic-rtl`\r\n  * `preferences-system-notifications-rtl`\r\n  * `preferences-system-notifications-rtl`\r\n  * `audio-headphones` and `audio-headset`\r\n  * `computer-convertible`",
-        "href": "https://github.com/elementary/icons/releases/tag/5.0.1"
-      },
-      {
-        "version": "5.0",
-        "release_date": "2018-10-16T05:18:18+00:00",
-        "title": "elementary Icons 5.0 Released",
-        "body": "elementary-icon-theme 5.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/icons/issues?q=is%3Aclosed+milestone%3A5.0).",
-        "href": "https://github.com/elementary/icons/releases/tag/5.0"
-      },
-      {
-        "version": "4.3.1",
-        "release_date": "2017-10-23T17:52:41+00:00",
-        "title": "elementary Icons 4.3.1 Released",
-        "body": "elementary-icon-theme 4.3.1 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/icons/issues?q=is%3Aclosed+milestone%3A4.3.1).",
-        "href": "https://github.com/elementary/icons/releases/tag/4.3.1"
-      },
-      {
-        "version": "4.3.0",
-        "release_date": "2017-09-26T16:36:28+00:00",
-        "title": "elementary Icons 4.3.0 Released",
-        "body": "elementary-icon-theme 4.3.0 is out!\r\n\r\nThe list of issues closed for this release can be found [here](https://github.com/elementary/icons/issues?q=is%3Aclosed+milestone%3A4.3.0).",
-        "href": "https://github.com/elementary/icons/releases/tag/4.3.0"
-      },
-      {
-        "version": "4.2.0",
-        "release_date": "2017-07-19T16:50:09+00:00",
-        "title": "elementary Icons 4.2.0 Released",
-        "body": "elementary-icon-theme 4.2.0 is out!\r\n\r\nThe list of issues closed for this release can be found [here](https://github.com/elementary/icons/milestone/3?closed=1).",
-        "href": "https://github.com/elementary/icons/releases/tag/4.2.0"
-      },
-      {
-        "version": "4.1.0",
-        "release_date": "2017-05-15T03:27:34+00:00",
-        "title": "elementary Icons 4.1.0 Released",
-        "body": "elementary-icon-theme 4.1.0 is out!",
-        "href": "https://github.com/elementary/icons/releases/tag/4.1.0"
-      },
-      {
-        "version": "4.0.3",
-        "release_date": "2017-03-18T17:07:48+00:00",
-        "title": "",
-        "body": "",
-        "href": "https://github.com/elementary/icons/releases/tag/4.0.3"
-      },
-      {
-        "version": "4.0.1.1",
-        "release_date": "2016-10-25T19:46:00+00:00",
-        "title": "",
-        "body": "",
-        "href": "https://github.com/elementary/icons/releases/tag/4.0.1.1"
-      }
-    ],
-    "new_commits": 51,
-    "default_branch": "main"
   },
   {
     "name": "mail",
