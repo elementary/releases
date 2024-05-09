@@ -2852,7 +2852,7 @@
         "href": "https://github.com/elementary/portals/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 30,
+    "new_commits": 31,
     "default_branch": "main"
   },
   {
@@ -3825,7 +3825,7 @@
         "href": "https://github.com/elementary/settings-daemon/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 74,
+    "new_commits": 75,
     "default_branch": "master"
   },
   {
@@ -4070,7 +4070,7 @@
         "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/0.1"
       }
     ],
-    "new_commits": 83,
+    "new_commits": 84,
     "default_branch": "main"
   },
   {
@@ -6023,7 +6023,7 @@
         "href": "https://github.com/elementary/photos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 78,
+    "new_commits": 79,
     "default_branch": "master"
   },
   {
@@ -6282,7 +6282,7 @@
         "href": "https://github.com/elementary/switchboard-plug-sharing/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 329,
+    "new_commits": 330,
     "default_branch": "main"
   },
   {
