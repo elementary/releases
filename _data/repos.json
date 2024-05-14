@@ -570,7 +570,7 @@
         "href": "https://github.com/elementary/stylesheet/releases/tag/5.0.4"
       }
     ],
-    "new_commits": 2,
+    "new_commits": 6,
     "default_branch": "main"
   },
   {
@@ -1270,7 +1270,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 95,
+    "new_commits": 96,
     "default_branch": "main"
   },
   {
@@ -3755,7 +3755,7 @@
         "href": "https://github.com/elementary/greeter/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 40,
+    "new_commits": 41,
     "default_branch": "master"
   },
   {
@@ -6877,7 +6877,7 @@
         "href": "https://github.com/elementary/switchboard-plug-power/releases/tag/0.3.1"
       }
     ],
-    "new_commits": 179,
+    "new_commits": 180,
     "default_branch": "main"
   },
   {
