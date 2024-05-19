@@ -3755,7 +3755,7 @@
         "href": "https://github.com/elementary/greeter/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 43,
+    "new_commits": 44,
     "default_branch": "master"
   },
   {
@@ -3951,7 +3951,7 @@
         "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
       }
     ],
-    "new_commits": 89,
+    "new_commits": 94,
     "default_branch": "main"
   },
   {
