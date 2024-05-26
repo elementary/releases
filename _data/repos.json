@@ -1970,7 +1970,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 97,
+    "new_commits": 99,
     "default_branch": "master"
   },
   {
@@ -2733,7 +2733,7 @@
         "href": "https://github.com/elementary/wingpanel/releases/tag/2.0.3"
       }
     ],
-    "new_commits": 15,
+    "new_commits": 16,
     "default_branch": "master"
   },
   {
@@ -4966,7 +4966,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 13,
+    "new_commits": 45,
     "default_branch": "master"
   },
   {
@@ -6114,7 +6114,7 @@
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
       }
     ],
-    "new_commits": 85,
+    "new_commits": 123,
     "default_branch": "master"
   },
   {
@@ -6765,7 +6765,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 33,
+    "new_commits": 36,
     "default_branch": "master"
   },
   {
@@ -7465,7 +7465,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.0"
       }
     ],
-    "new_commits": 6494,
+    "new_commits": 6509,
     "default_branch": "master"
   },
   {
