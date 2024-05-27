@@ -1970,7 +1970,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 100,
+    "new_commits": 104,
     "default_branch": "master"
   },
   {
@@ -2271,7 +2271,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.0.1"
       }
     ],
-    "new_commits": 18,
+    "new_commits": 20,
     "default_branch": "master"
   },
   {
@@ -5078,7 +5078,7 @@
         "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 53,
+    "new_commits": 54,
     "default_branch": "main"
   },
   {
