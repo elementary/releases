@@ -1326,7 +1326,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 13,
+    "new_commits": 36,
     "default_branch": "master"
   },
   {
@@ -2271,7 +2271,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.0.1"
       }
     ],
-    "new_commits": 20,
+    "new_commits": 40,
     "default_branch": "master"
   },
   {
@@ -4693,7 +4693,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-nightlight/releases/tag/2.0"
       }
     ],
-    "new_commits": 18,
+    "new_commits": 23,
     "default_branch": "master"
   },
   {
