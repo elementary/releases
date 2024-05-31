@@ -2082,7 +2082,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 121,
+    "new_commits": 122,
     "default_branch": "master"
   },
   {
@@ -2698,7 +2698,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 319,
+    "new_commits": 324,
     "default_branch": "main"
   },
   {
@@ -4042,7 +4042,7 @@
         "href": "https://github.com/elementary/settings-daemon/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 80,
+    "new_commits": 83,
     "default_branch": "master"
   },
   {
@@ -7472,7 +7472,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.0"
       }
     ],
-    "new_commits": 6547,
+    "new_commits": 6548,
     "default_branch": "master"
   },
   {
