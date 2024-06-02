@@ -2950,7 +2950,7 @@
         "href": "https://github.com/elementary/installer/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 101,
+    "new_commits": 102,
     "default_branch": "master"
   },
   {
@@ -5883,7 +5883,7 @@
         "href": "https://github.com/elementary/switchboard-plug-about/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 219,
+    "new_commits": 221,
     "default_branch": "main"
   },
   {
