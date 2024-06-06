@@ -1207,7 +1207,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 89,
+    "new_commits": 98,
     "default_branch": "master"
   },
   {
@@ -2698,7 +2698,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 335,
+    "new_commits": 336,
     "default_branch": "main"
   },
   {
@@ -6240,7 +6240,7 @@
         "href": "https://github.com/elementary/photos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 102,
+    "new_commits": 104,
     "default_branch": "master"
   },
   {
