@@ -1123,7 +1123,7 @@
         "href": "https://github.com/elementary/stylesheet/releases/tag/5.0.4"
       }
     ],
-    "new_commits": 28,
+    "new_commits": 29,
     "default_branch": "main"
   },
   {
@@ -3048,7 +3048,7 @@
         "href": "https://github.com/elementary/installer/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 104,
+    "new_commits": 105,
     "default_branch": "master"
   },
   {
@@ -4140,7 +4140,7 @@
         "href": "https://github.com/elementary/settings-daemon/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 92,
+    "new_commits": 93,
     "default_branch": "master"
   },
   {
