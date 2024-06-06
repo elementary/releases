@@ -1,5 +1,103 @@
 [
   {
+    "name": "capnet-assist",
+    "releases": [
+      {
+        "version": "8.0.0",
+        "release_date": "2024-06-06T04:25:40+00:00",
+        "title": "capnet-assist 8.0.0 Released",
+        "body": "<ul>\n<li>Update to elementary runtime 8</li>\n<li>Performance improvements</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/capnet-assist/releases/tag/8.0.0"
+      },
+      {
+        "version": "2.4.4",
+        "release_date": "2023-05-31T15:34:22+00:00",
+        "title": "Captive Network Assistant 2.4.4 Released!",
+        "body": "## What's Changed\r\n* actions/checkout@v3 by @meisenzahl in https://github.com/elementary/capnet-assist/pull/94\r\n* Switch to GHCR containers by @davidmhewitt in https://github.com/elementary/capnet-assist/pull/95\r\n* Bump docker/setup-qemu-action from 1 to 2 by @dependabot in https://github.com/elementary/capnet-assist/pull/97\r\n* Bump bilelmoussaoui/flatpak-github-actions from 4 to 5 by @dependabot in https://github.com/elementary/capnet-assist/pull/96\r\n* Update flatpak actions to new namespace by @davidmhewitt in https://github.com/elementary/capnet-assist/pull/98\r\n* Bump runtime to 7.2 by @danirabbit in https://github.com/elementary/capnet-assist/pull/99\r\n* Bump flatpak/flatpak-github-actions from 5 to 6 by @dependabot in https://github.com/elementary/capnet-assist/pull/100\r\n* Metainfo improvements by @danirabbit in https://github.com/elementary/capnet-assist/pull/102\r\n* Update translation files by @danirabbit in https://github.com/elementary/capnet-assist/pull/103\r\n\r\n## New Contributors\r\n* @meisenzahl made their first contribution in https://github.com/elementary/capnet-assist/pull/94\r\n* @davidmhewitt made their first contribution in https://github.com/elementary/capnet-assist/pull/95\r\n* @dependabot made their first contribution in https://github.com/elementary/capnet-assist/pull/97\r\n\r\n**Full Changelog**: https://github.com/elementary/capnet-assist/compare/2.4.3...2.4.4",
+        "href": "https://github.com/elementary/capnet-assist/releases/tag/2.4.4"
+      },
+      {
+        "version": "2.4.3",
+        "release_date": "2022-12-10T04:35:00+00:00",
+        "title": "capnet-assist 2.4.3 Released",
+        "body": "<ul>\n<li>Update to elementary runtime 7.1</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/capnet-assist/releases/tag/2.4.3"
+      },
+      {
+        "version": "2.4.2",
+        "release_date": "2022-05-18T04:44:38+00:00",
+        "title": "capnet-assist 2.4.2 Released",
+        "body": "<ul>\n<li>Update to elementary runtime 7</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/capnet-assist/releases/tag/2.4.2"
+      },
+      {
+        "version": "2.4.1",
+        "release_date": "2022-01-26T18:01:07+00:00",
+        "title": "capnet-assist 2.4.1 Released",
+        "body": "<ul>\n<li>Update to elementary runtime 6.1</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/capnet-assist/releases/tag/2.4.1"
+      },
+      {
+        "version": "2.4.0",
+        "release_date": "2021-10-29T23:38:44+00:00",
+        "title": "Captive Network Assistant 2.4.0 Released",
+        "body": "<ul>\r\n<li>New icon</li>\r\n<li>Updated translations</li>\r\n</ul>",
+        "href": "https://github.com/elementary/capnet-assist/releases/tag/2.4.0"
+      },
+      {
+        "version": "2.3.0",
+        "release_date": "2021-07-13T23:27:59+00:00",
+        "title": "capnet-assist 2.3.0 Released",
+        "body": "<ul>\n<li>Dark style support</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/capnet-assist/releases/tag/2.3.0"
+      },
+      {
+        "version": "2.2.5",
+        "release_date": "2020-04-08T20:31:34+00:00",
+        "title": "capnet-assist 2.2.5 Released",
+        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/capnet-assist/releases/tag/2.2.5"
+      },
+      {
+        "version": "2.2.4",
+        "release_date": "2019-11-20T16:40:39+00:00",
+        "title": "capnet-assist 2.2.4 Released",
+        "body": "capnet-assist 2.2.4 is out! \n\nChanges:\n\n* Updated translations\n",
+        "href": "https://github.com/elementary/capnet-assist/releases/tag/2.2.4"
+      },
+      {
+        "version": "2.2.3",
+        "release_date": "2019-02-01T15:07:29+00:00",
+        "title": "Captive Portal Assistant 2.2.3 Released",
+        "body": "Captive Portal Assistant 2.2.3 is out!\r\n\r\nChanges:\r\n* Updated translations",
+        "href": "https://github.com/elementary/capnet-assist/releases/tag/2.2.3"
+      },
+      {
+        "version": "2.2.2",
+        "release_date": "2018-10-15T23:19:38+00:00",
+        "title": "Captive Portal Assistant 2.2.2 Released",
+        "body": "Captive Portal Assistant 2.2.2 is out!\r\n\r\nThis release includes updated translations.",
+        "href": "https://github.com/elementary/capnet-assist/releases/tag/2.2.2"
+      },
+      {
+        "version": "2.2.1",
+        "release_date": "2018-10-03T11:59:05+00:00",
+        "title": "Captive Portal Assistant 2.2.1 Released",
+        "body": "Captive Portal Assistant 2.2.1 is out!\r\n\r\nThis release includes updated translations.",
+        "href": "https://github.com/elementary/capnet-assist/releases/tag/2.2.1"
+      },
+      {
+        "version": "0.2.2",
+        "release_date": "2018-06-05T09:43:41+00:00",
+        "title": "Captive Portal Assistant 0.2.2 Released",
+        "body": "Captive Portal Assistant 0.2.2 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/capnet-assist/issues?q=is%3Aclosed+milestone%3A0.2.2).",
+        "href": "https://github.com/elementary/capnet-assist/releases/tag/0.2.2"
+      }
+    ],
+    "new_commits": 0,
+    "default_branch": "master"
+  },
+  {
     "name": "mail",
     "releases": [
       {
@@ -5408,97 +5506,6 @@
       }
     ],
     "new_commits": 20,
-    "default_branch": "master"
-  },
-  {
-    "name": "capnet-assist",
-    "releases": [
-      {
-        "version": "2.4.4",
-        "release_date": "2023-05-31T15:34:22+00:00",
-        "title": "Captive Network Assistant 2.4.4 Released!",
-        "body": "## What's Changed\r\n* actions/checkout@v3 by @meisenzahl in https://github.com/elementary/capnet-assist/pull/94\r\n* Switch to GHCR containers by @davidmhewitt in https://github.com/elementary/capnet-assist/pull/95\r\n* Bump docker/setup-qemu-action from 1 to 2 by @dependabot in https://github.com/elementary/capnet-assist/pull/97\r\n* Bump bilelmoussaoui/flatpak-github-actions from 4 to 5 by @dependabot in https://github.com/elementary/capnet-assist/pull/96\r\n* Update flatpak actions to new namespace by @davidmhewitt in https://github.com/elementary/capnet-assist/pull/98\r\n* Bump runtime to 7.2 by @danirabbit in https://github.com/elementary/capnet-assist/pull/99\r\n* Bump flatpak/flatpak-github-actions from 5 to 6 by @dependabot in https://github.com/elementary/capnet-assist/pull/100\r\n* Metainfo improvements by @danirabbit in https://github.com/elementary/capnet-assist/pull/102\r\n* Update translation files by @danirabbit in https://github.com/elementary/capnet-assist/pull/103\r\n\r\n## New Contributors\r\n* @meisenzahl made their first contribution in https://github.com/elementary/capnet-assist/pull/94\r\n* @davidmhewitt made their first contribution in https://github.com/elementary/capnet-assist/pull/95\r\n* @dependabot made their first contribution in https://github.com/elementary/capnet-assist/pull/97\r\n\r\n**Full Changelog**: https://github.com/elementary/capnet-assist/compare/2.4.3...2.4.4",
-        "href": "https://github.com/elementary/capnet-assist/releases/tag/2.4.4"
-      },
-      {
-        "version": "2.4.3",
-        "release_date": "2022-12-10T04:35:00+00:00",
-        "title": "capnet-assist 2.4.3 Released",
-        "body": "<ul>\n<li>Update to elementary runtime 7.1</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/capnet-assist/releases/tag/2.4.3"
-      },
-      {
-        "version": "2.4.2",
-        "release_date": "2022-05-18T04:44:38+00:00",
-        "title": "capnet-assist 2.4.2 Released",
-        "body": "<ul>\n<li>Update to elementary runtime 7</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/capnet-assist/releases/tag/2.4.2"
-      },
-      {
-        "version": "2.4.1",
-        "release_date": "2022-01-26T18:01:07+00:00",
-        "title": "capnet-assist 2.4.1 Released",
-        "body": "<ul>\n<li>Update to elementary runtime 6.1</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/capnet-assist/releases/tag/2.4.1"
-      },
-      {
-        "version": "2.4.0",
-        "release_date": "2021-10-29T23:38:44+00:00",
-        "title": "Captive Network Assistant 2.4.0 Released",
-        "body": "<ul>\r\n<li>New icon</li>\r\n<li>Updated translations</li>\r\n</ul>",
-        "href": "https://github.com/elementary/capnet-assist/releases/tag/2.4.0"
-      },
-      {
-        "version": "2.3.0",
-        "release_date": "2021-07-13T23:27:59+00:00",
-        "title": "capnet-assist 2.3.0 Released",
-        "body": "<ul>\n<li>Dark style support</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/capnet-assist/releases/tag/2.3.0"
-      },
-      {
-        "version": "2.2.5",
-        "release_date": "2020-04-08T20:31:34+00:00",
-        "title": "capnet-assist 2.2.5 Released",
-        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/capnet-assist/releases/tag/2.2.5"
-      },
-      {
-        "version": "2.2.4",
-        "release_date": "2019-11-20T16:40:39+00:00",
-        "title": "capnet-assist 2.2.4 Released",
-        "body": "capnet-assist 2.2.4 is out! \n\nChanges:\n\n* Updated translations\n",
-        "href": "https://github.com/elementary/capnet-assist/releases/tag/2.2.4"
-      },
-      {
-        "version": "2.2.3",
-        "release_date": "2019-02-01T15:07:29+00:00",
-        "title": "Captive Portal Assistant 2.2.3 Released",
-        "body": "Captive Portal Assistant 2.2.3 is out!\r\n\r\nChanges:\r\n* Updated translations",
-        "href": "https://github.com/elementary/capnet-assist/releases/tag/2.2.3"
-      },
-      {
-        "version": "2.2.2",
-        "release_date": "2018-10-15T23:19:38+00:00",
-        "title": "Captive Portal Assistant 2.2.2 Released",
-        "body": "Captive Portal Assistant 2.2.2 is out!\r\n\r\nThis release includes updated translations.",
-        "href": "https://github.com/elementary/capnet-assist/releases/tag/2.2.2"
-      },
-      {
-        "version": "2.2.1",
-        "release_date": "2018-10-03T11:59:05+00:00",
-        "title": "Captive Portal Assistant 2.2.1 Released",
-        "body": "Captive Portal Assistant 2.2.1 is out!\r\n\r\nThis release includes updated translations.",
-        "href": "https://github.com/elementary/capnet-assist/releases/tag/2.2.1"
-      },
-      {
-        "version": "0.2.2",
-        "release_date": "2018-06-05T09:43:41+00:00",
-        "title": "Captive Portal Assistant 0.2.2 Released",
-        "body": "Captive Portal Assistant 0.2.2 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/capnet-assist/issues?q=is%3Aclosed+milestone%3A0.2.2).",
-        "href": "https://github.com/elementary/capnet-assist/releases/tag/0.2.2"
-      }
-    ],
-    "new_commits": 54,
     "default_branch": "master"
   },
   {
