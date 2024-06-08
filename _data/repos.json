@@ -73,7 +73,7 @@
         "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.0"
       }
     ],
-    "new_commits": 6,
+    "new_commits": 10,
     "default_branch": "main"
   },
   {
@@ -689,7 +689,7 @@
         "href": "https://github.com/elementary/flatpak-platform/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 4,
+    "new_commits": 5,
     "default_branch": "main"
   },
   {
@@ -857,7 +857,7 @@
         "href": "https://github.com/elementary/icons/releases/tag/4.0.1.1"
       }
     ],
-    "new_commits": 5,
+    "new_commits": 6,
     "default_branch": "main"
   },
   {
@@ -1039,7 +1039,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 7,
+    "new_commits": 10,
     "default_branch": "main"
   },
   {
@@ -1200,7 +1200,7 @@
         "href": "https://github.com/elementary/stylesheet/releases/tag/5.0.4"
       }
     ],
-    "new_commits": 29,
+    "new_commits": 30,
     "default_branch": "main"
   },
   {
@@ -2257,7 +2257,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 122,
+    "new_commits": 123,
     "default_branch": "master"
   },
   {
@@ -3125,7 +3125,7 @@
         "href": "https://github.com/elementary/installer/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 106,
+    "new_commits": 108,
     "default_branch": "master"
   },
   {
@@ -3510,7 +3510,7 @@
         "href": "https://github.com/elementary/notifications/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 18,
+    "new_commits": 19,
     "default_branch": "master"
   },
   {
@@ -3867,7 +3867,7 @@
         "href": "https://github.com/elementary/onboarding/releases/tag/1.0"
       }
     ],
-    "new_commits": 59,
+    "new_commits": 61,
     "default_branch": "master"
   },
   {
@@ -3944,7 +3944,7 @@
         "href": "https://github.com/elementary/initial-setup/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 55,
+    "new_commits": 57,
     "default_branch": "main"
   },
   {
@@ -6037,7 +6037,7 @@
         "href": "https://github.com/elementary/wallpapers/releases/tag/5.0"
       }
     ],
-    "new_commits": 30,
+    "new_commits": 32,
     "default_branch": "main"
   },
   {
