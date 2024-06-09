@@ -171,7 +171,7 @@
         "href": "https://github.com/elementary/capnet-assist/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 4,
+    "new_commits": 5,
     "default_branch": "master"
   },
   {
@@ -1039,7 +1039,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 10,
+    "new_commits": 11,
     "default_branch": "main"
   },
   {
@@ -7486,7 +7486,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.0"
       }
     ],
-    "new_commits": 6581,
+    "new_commits": 6588,
     "default_branch": "master"
   },
   {
