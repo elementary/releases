@@ -626,7 +626,7 @@
         "href": "https://github.com/elementary/switchboard/releases/tag/2.3.0"
       }
     ],
-    "new_commits": 3,
+    "new_commits": 5,
     "default_branch": "main"
   },
   {
@@ -1900,7 +1900,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 138,
+    "new_commits": 141,
     "default_branch": "main"
   },
   {
@@ -5967,7 +5967,7 @@
         "href": "https://github.com/elementary/switchboard-plug-about/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 236,
+    "new_commits": 238,
     "default_branch": "main"
   },
   {
@@ -7087,7 +7087,7 @@
         "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 201,
+    "new_commits": 209,
     "default_branch": "main"
   },
   {
