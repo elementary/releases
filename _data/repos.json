@@ -752,7 +752,7 @@
         "href": "https://github.com/elementary/switchboard/releases/tag/2.3.0"
       }
     ],
-    "new_commits": 5,
+    "new_commits": 7,
     "default_branch": "main"
   },
   {
@@ -3335,7 +3335,7 @@
         "href": "https://github.com/elementary/switchboard-plug-applications/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 223,
+    "new_commits": 226,
     "default_branch": "main"
   },
   {
@@ -7325,7 +7325,7 @@
         "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 128,
+    "new_commits": 131,
     "default_branch": "main"
   },
   {
