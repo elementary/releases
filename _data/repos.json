@@ -3692,7 +3692,7 @@
         "href": "https://github.com/elementary/feedback/releases/tag/1.0"
       }
     ],
-    "new_commits": 86,
+    "new_commits": 90,
     "default_branch": "main"
   },
   {
@@ -4343,7 +4343,7 @@
         "href": "https://github.com/elementary/settings-daemon/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 101,
+    "new_commits": 102,
     "default_branch": "master"
   },
   {
@@ -5981,7 +5981,7 @@
         "href": "https://github.com/elementary/terminal/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 103,
+    "new_commits": 108,
     "default_branch": "master"
   },
   {
@@ -6681,7 +6681,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-keyboard/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 35,
+    "new_commits": 36,
     "default_branch": "master"
   },
   {
