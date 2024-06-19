@@ -1165,7 +1165,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 19,
+    "new_commits": 21,
     "default_branch": "main"
   },
   {
@@ -2383,7 +2383,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 137,
+    "new_commits": 139,
     "default_branch": "master"
   },
   {
@@ -3909,7 +3909,7 @@
         "href": "https://github.com/elementary/videos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 103,
+    "new_commits": 104,
     "default_branch": "main"
   },
   {
@@ -4749,7 +4749,7 @@
         "href": "https://github.com/elementary/calendar/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 88,
+    "new_commits": 89,
     "default_branch": "master"
   },
   {
@@ -6429,7 +6429,7 @@
         "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 145,
+    "new_commits": 151,
     "default_branch": "main"
   },
   {
