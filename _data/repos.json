@@ -1165,7 +1165,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 21,
+    "new_commits": 23,
     "default_branch": "main"
   },
   {
@@ -1508,7 +1508,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 127,
+    "new_commits": 128,
     "default_branch": "master"
   },
   {
@@ -2383,7 +2383,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 139,
+    "new_commits": 140,
     "default_branch": "master"
   },
   {
@@ -2999,7 +2999,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 397,
+    "new_commits": 398,
     "default_branch": "main"
   },
   {
@@ -3475,7 +3475,7 @@
         "href": "https://github.com/elementary/portals/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 53,
+    "new_commits": 54,
     "default_branch": "main"
   },
   {
@@ -5981,7 +5981,7 @@
         "href": "https://github.com/elementary/terminal/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 112,
+    "new_commits": 113,
     "default_branch": "master"
   },
   {
