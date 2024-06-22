@@ -1165,7 +1165,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 23,
+    "new_commits": 27,
     "default_branch": "main"
   },
   {
@@ -5813,7 +5813,7 @@
         "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 84,
+    "new_commits": 92,
     "default_branch": "main"
   },
   {
