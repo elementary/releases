@@ -815,7 +815,7 @@
         "href": "https://github.com/elementary/flatpak-platform/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 7,
+    "new_commits": 8,
     "default_branch": "main"
   },
   {
@@ -1389,7 +1389,7 @@
         "href": "https://github.com/elementary/action-appcenter-review-parse/releases/tag/v1.0.1"
       }
     ],
-    "new_commits": 0,
+    "new_commits": 1,
     "default_branch": "main"
   },
   {
@@ -2425,7 +2425,7 @@
         "href": "https://github.com/elementary/action-appcenter-review-checklist/releases/tag/v1.0.1"
       }
     ],
-    "new_commits": 20,
+    "new_commits": 25,
     "default_branch": "main"
   },
   {
@@ -2509,7 +2509,7 @@
         "href": "https://github.com/elementary/action-appcenter-review-find-manifest/releases/tag/v1.0.1"
       }
     ],
-    "new_commits": 24,
+    "new_commits": 29,
     "default_branch": "main"
   },
   {
