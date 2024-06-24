@@ -1389,7 +1389,7 @@
         "href": "https://github.com/elementary/action-appcenter-review-parse/releases/tag/v1.0.1"
       }
     ],
-    "new_commits": 1,
+    "new_commits": 5,
     "default_branch": "main"
   },
   {
@@ -2425,7 +2425,7 @@
         "href": "https://github.com/elementary/action-appcenter-review-checklist/releases/tag/v1.0.1"
       }
     ],
-    "new_commits": 25,
+    "new_commits": 27,
     "default_branch": "main"
   },
   {
