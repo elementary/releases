@@ -1165,7 +1165,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 35,
+    "new_commits": 36,
     "default_branch": "main"
   },
   {
@@ -2999,7 +2999,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 430,
+    "new_commits": 431,
     "default_branch": "main"
   },
   {
@@ -3587,7 +3587,7 @@
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 162,
+    "new_commits": 164,
     "default_branch": "main"
   },
   {
