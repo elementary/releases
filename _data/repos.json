@@ -1256,7 +1256,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 38,
+    "new_commits": 39,
     "default_branch": "main"
   },
   {
@@ -3090,7 +3090,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 435,
+    "new_commits": 436,
     "default_branch": "main"
   },
   {
@@ -5134,7 +5134,7 @@
         "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/2.0"
       }
     ],
-    "new_commits": 55,
+    "new_commits": 59,
     "default_branch": "main"
   },
   {
@@ -7395,7 +7395,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.0"
       }
     ],
-    "new_commits": 6633,
+    "new_commits": 6637,
     "default_branch": "master"
   },
   {
