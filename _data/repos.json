@@ -2327,7 +2327,7 @@
         "href": "https://github.com/elementary/os/releases/tag/5.1.1"
       }
     ],
-    "new_commits": 4,
+    "new_commits": 5,
     "default_branch": "master"
   },
   {
@@ -2474,7 +2474,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 164,
+    "new_commits": 165,
     "default_branch": "master"
   },
   {
@@ -4203,7 +4203,7 @@
         "href": "https://github.com/elementary/switchboard-plug-security-privacy/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 100,
+    "new_commits": 104,
     "default_branch": "main"
   },
   {
@@ -6555,7 +6555,7 @@
         "href": "https://github.com/elementary/switchboard-plug-sharing/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 360,
+    "new_commits": 367,
     "default_branch": "main"
   },
   {
