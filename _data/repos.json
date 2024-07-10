@@ -731,7 +731,7 @@
         "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 7,
+    "new_commits": 9,
     "default_branch": "main"
   },
   {
@@ -1830,7 +1830,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 47,
+    "new_commits": 49,
     "default_branch": "master"
   },
   {
@@ -2775,7 +2775,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.0.1"
       }
     ],
-    "new_commits": 51,
+    "new_commits": 53,
     "default_branch": "master"
   },
   {
@@ -3510,7 +3510,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-power/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 44,
+    "new_commits": 46,
     "default_branch": "master"
   },
   {
@@ -3811,7 +3811,7 @@
         "href": "https://github.com/elementary/default-settings/releases/tag/5.0"
       }
     ],
-    "new_commits": 20,
+    "new_commits": 21,
     "default_branch": "main"
   },
   {
@@ -4308,7 +4308,7 @@
         "href": "https://github.com/elementary/greeter/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 73,
+    "new_commits": 74,
     "default_branch": "master"
   },
   {
@@ -4378,8 +4378,8 @@
         "href": "https://github.com/elementary/settings-daemon/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 110,
-    "default_branch": "master"
+    "new_commits": 112,
+    "default_branch": "main"
   },
   {
     "name": "switchboard-plug-pantheon-shell",
@@ -4784,7 +4784,7 @@
         "href": "https://github.com/elementary/calendar/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 91,
+    "new_commits": 92,
     "default_branch": "master"
   },
   {
@@ -4861,7 +4861,7 @@
         "href": "https://github.com/elementary/tasks/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 34,
+    "new_commits": 36,
     "default_branch": "master"
   },
   {
@@ -4973,7 +4973,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.0.4"
       }
     ],
-    "new_commits": 41,
+    "new_commits": 42,
     "default_branch": "master"
   },
   {
@@ -5036,7 +5036,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-nightlight/releases/tag/2.0"
       }
     ],
-    "new_commits": 31,
+    "new_commits": 32,
     "default_branch": "master"
   },
   {
@@ -5309,7 +5309,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-bluetooth/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 60,
+    "new_commits": 61,
     "default_branch": "master"
   },
   {
@@ -5421,7 +5421,7 @@
         "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 66,
+    "new_commits": 68,
     "default_branch": "main"
   },
   {
@@ -5526,7 +5526,7 @@
         "href": "https://github.com/elementary/screenshot/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 50,
+    "new_commits": 51,
     "default_branch": "master"
   },
   {
@@ -6366,7 +6366,7 @@
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
       }
     ],
-    "new_commits": 137,
+    "new_commits": 138,
     "default_branch": "master"
   },
   {
@@ -7395,7 +7395,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.0"
       }
     ],
-    "new_commits": 6654,
+    "new_commits": 6655,
     "default_branch": "master"
   },
   {
