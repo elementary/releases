@@ -472,7 +472,7 @@
         "href": "https://github.com/elementary/capnet-assist/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 12,
+    "new_commits": 13,
     "default_branch": "master"
   },
   {
@@ -4112,7 +4112,7 @@
         "href": "https://github.com/elementary/onboarding/releases/tag/1.0"
       }
     ],
-    "new_commits": 74,
+    "new_commits": 79,
     "default_branch": "master"
   },
   {
@@ -7402,7 +7402,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.0"
       }
     ],
-    "new_commits": 6655,
+    "new_commits": 6656,
     "default_branch": "master"
   },
   {
