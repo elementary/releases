@@ -175,6 +175,90 @@
     "default_branch": "master"
   },
   {
+    "name": "sideload",
+    "releases": [
+      {
+        "version": "6.2.2",
+        "release_date": "2024-07-10T22:00:48+00:00",
+        "title": "sideload 6.2.2 Released",
+        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/sideload/releases/tag/6.2.2"
+      },
+      {
+        "version": "6.2.1",
+        "release_date": "2023-06-29T18:14:04+00:00",
+        "title": "Sideload 6.2.1 Released",
+        "body": "## What's Changed\r\n* Make Open button default widget by @lenemter in https://github.com/elementary/sideload/pull/160\r\n* Fix glitches by @lenemter in https://github.com/elementary/sideload/pull/159\r\n* 6.2.1 Release Notes by @lenemter in https://github.com/elementary/sideload/pull/161\r\n* Release 6.2.1 by @danirabbit in https://github.com/elementary/sideload/pull/162\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/sideload/compare/6.2.0...6.2.1",
+        "href": "https://github.com/elementary/sideload/releases/tag/6.2.1"
+      },
+      {
+        "version": "6.2.0",
+        "release_date": "2023-04-04T17:40:13+00:00",
+        "title": "Sideload 6.2.0 released",
+        "body": "## What's Changed\r\n* MainView: update copy by @danirabbit in https://github.com/elementary/sideload/pull/151\r\n* Switch to GHCR containers by @davidmhewitt in https://github.com/elementary/sideload/pull/154\r\n* Show flatpak permission warning by @danirabbit in https://github.com/elementary/sideload/pull/153\r\n\r\n## New Contributors\r\n* @dependabot made their first contribution in https://github.com/elementary/sideload/pull/155\r\n\r\n**Full Changelog**: https://github.com/elementary/sideload/compare/6.1.0...6.2.0",
+        "href": "https://github.com/elementary/sideload/releases/tag/6.2.0"
+      },
+      {
+        "version": "6.1.0",
+        "release_date": "2022-10-24T17:10:34+00:00",
+        "title": "sideload 6.1.0 Released",
+        "body": "<ul>\n<li>Use updated Flatpak branding</li>\n<li>Badge notifications with the sideloaded app's icon</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/sideload/releases/tag/6.1.0"
+      },
+      {
+        "version": "6.0.2",
+        "release_date": "2021-09-22T20:56:34+00:00",
+        "title": "sideload 6.0.2 Released",
+        "body": "* Fix blurry app icon in multitasking view\r\n* Updated translations",
+        "href": "https://github.com/elementary/sideload/releases/tag/6.0.2"
+      },
+      {
+        "version": "6.0.1",
+        "release_date": "2021-08-26T02:19:48+00:00",
+        "title": "sideload 6.0.1 Released",
+        "body": "<ul>\n<li>Use system Flatpak runtimes for locally installed apps</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/sideload/releases/tag/6.0.1"
+      },
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-15T18:20:30+00:00",
+        "title": "sideload 6.0.0 Released",
+        "body": "<ul>\n<li>Control notifications in System Settings</li>\n<li>Offer to trash Flatpak files after installing</li>\n<li>Support dark style</li>\n<li>Support Flatpak bundle files</li>\n<li>Fix crashes on installation failure</li>\n<li>Updated translations</li>\n<li>Link to System Settings → Applications → Permissions</li>\n</ul>\n",
+        "href": "https://github.com/elementary/sideload/releases/tag/6.0.0"
+      },
+      {
+        "version": "1.1.1",
+        "release_date": "2020-05-28T23:39:24+00:00",
+        "title": "sideload 1.1.1 Released",
+        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/sideload/releases/tag/1.1.1"
+      },
+      {
+        "version": "1.1.0",
+        "release_date": "2020-04-01T20:05:38+00:00",
+        "title": "sideload 1.1.0 Released",
+        "body": "sideload 1.1.0 is out! \n\n<ul>\n<li>Show app name in the main view once it's loaded</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/sideload/releases/tag/1.1.0"
+      },
+      {
+        "version": "1.0.1",
+        "release_date": "2020-02-26T06:40:15+00:00",
+        "title": "sideload 1.0.1 Released",
+        "body": "sideload 1.0.1 is out! \n\n<ul>\n<li>Improve performance of download size calculation</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/sideload/releases/tag/1.0.1"
+      },
+      {
+        "version": "1.0.0",
+        "release_date": "2019-10-29T19:57:23+00:00",
+        "title": "sideload 1.0.0 Released",
+        "body": "sideload 1.0.0 is out! \n\nChanges:\n\n* First release. Hello world!\n",
+        "href": "https://github.com/elementary/sideload/releases/tag/1.0.0"
+      }
+    ],
+    "new_commits": 0,
+    "default_branch": "main"
+  },
+  {
     "name": "feedback",
     "releases": [
       {
@@ -390,6 +474,83 @@
     ],
     "new_commits": 19,
     "default_branch": "master"
+  },
+  {
+    "name": "shortcut-overlay",
+    "releases": [
+      {
+        "version": "8.0.0",
+        "release_date": "2024-06-06T19:52:26+00:00",
+        "title": "shortcut-overlay 8.0.0 Released",
+        "body": "<ul>\n<li>Updated translations</li>\n<li>Show screen reader shortcut</li>\n</ul>\n",
+        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/8.0.0"
+      },
+      {
+        "version": "2.0.1",
+        "release_date": "2022-10-26T16:51:28+00:00",
+        "title": "shortcut-overlay 2.0.1 Released",
+        "body": "<ul>\n<li>Show in the applications menu</li>\n<li>Replace keyboard settings button with a labeled link button</li>\n<li>Show on-screen keyboard shortcut</li>\n<li>Close with the shortcut Ctrl + Q</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/2.0.1"
+      },
+      {
+        "version": "2.0.0",
+        "release_date": "2022-05-12T16:35:54+00:00",
+        "title": "shortcut-overlay 2.0.0 Released",
+        "body": "<ul>\n<li>Update for OS 7 and Gtk 4</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/2.0.0"
+      },
+      {
+        "version": "1.2.1",
+        "release_date": "2021-10-29T23:12:16+00:00",
+        "title": "Shortcut Overlay 1.2.1 Released",
+        "body": "<ul>\r\n<li>Fix the app not launching if a shortcut key is set to blank</li>\r\n<li>Updated translations</li>\r\n</ul>",
+        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.2.1"
+      },
+      {
+        "version": "1.2.0",
+        "release_date": "2021-07-14T18:03:45+00:00",
+        "title": "shortcut-overlay 1.2.0 Released",
+        "body": "<ul>\n<li>Add screenshot shortcuts</li>\n<li>Fix issues with multiple windows</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.2.0"
+      },
+      {
+        "version": "1.1.2",
+        "release_date": "2020-05-28T18:52:24+00:00",
+        "title": "shortcut-overlay 1.1.2 Released",
+        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.1.2"
+      },
+      {
+        "version": "1.1.1",
+        "release_date": "2020-04-03T18:43:00+00:00",
+        "title": "shortcut-overlay 1.1.1 Released",
+        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.1.1"
+      },
+      {
+        "version": "1.1.0",
+        "release_date": "2019-11-15T21:51:50+00:00",
+        "title": "shortcut-overlay 1.1.0 Released",
+        "body": "shortcut-overlay 1.1.0 is out! \n\nChanges:\n\n* Add \"Switch Layout\" and \"Close Window\", shortcuts\n* Updated translations\n",
+        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.1.0"
+      },
+      {
+        "version": "1.0.1",
+        "release_date": "2018-09-17T22:43:39+00:00",
+        "title": "Shortcut Overlay 1.0.1 Released",
+        "body": "Shortcut Overlay 1.0.1 is out!\r\n\r\nChanges:\r\n* Delay destroying window to avoid triggering a re-open\r\n* New translations",
+        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.0.1"
+      },
+      {
+        "version": "1.0",
+        "release_date": "2018-06-05T08:43:11+00:00",
+        "title": "Shortcut Overlay 1.0 Released",
+        "body": "Shortcut Overlay 1.0 is out!\r\n\r\nThis is the initial release.",
+        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.0"
+      }
+    ],
+    "new_commits": 22,
+    "default_branch": "main"
   },
   {
     "name": "capnet-assist",
@@ -1928,7 +2089,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 55,
+    "new_commits": 60,
     "default_branch": "master"
   },
   {
@@ -3608,7 +3769,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-power/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 52,
+    "new_commits": 57,
     "default_branch": "master"
   },
   {
@@ -7109,6 +7270,27 @@
       }
     ],
     "new_commits": 3,
+    "default_branch": "master"
+  },
+  {
+    "name": "sound-theme",
+    "releases": [
+      {
+        "version": "1.1.0",
+        "release_date": "2021-07-13T21:10:34+00:00",
+        "title": "sound-theme 1.1.0 Released",
+        "body": "Add dialog-warning",
+        "href": "https://github.com/elementary/sound-theme/releases/tag/1.1.0"
+      },
+      {
+        "version": "1.0",
+        "release_date": "2018-05-21T14:04:59+00:00",
+        "title": "Sound Theme 1.0 Released",
+        "body": "`io.elementary.sound-theme` 1.0 is out!\r\n\r\nThis is the initial release.",
+        "href": "https://github.com/elementary/sound-theme/releases/tag/1.0"
+      }
+    ],
+    "new_commits": 0,
     "default_branch": "master"
   },
   {
