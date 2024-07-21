@@ -171,7 +171,7 @@
         "href": "https://github.com/elementary/terminal/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 0,
+    "new_commits": 2,
     "default_branch": "master"
   },
   {
@@ -3496,7 +3496,7 @@
         "href": "https://github.com/elementary/wingpanel/releases/tag/2.0.3"
       }
     ],
-    "new_commits": 44,
+    "new_commits": 46,
     "default_branch": "master"
   },
   {
@@ -3937,7 +3937,7 @@
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 180,
+    "new_commits": 182,
     "default_branch": "main"
   },
   {
@@ -4462,7 +4462,7 @@
         "href": "https://github.com/elementary/switchboard-plug-security-privacy/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 113,
+    "new_commits": 115,
     "default_branch": "main"
   },
   {
@@ -4763,7 +4763,7 @@
         "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
       }
     ],
-    "new_commits": 150,
+    "new_commits": 152,
     "default_branch": "main"
   },
   {
@@ -4882,7 +4882,7 @@
         "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/0.1"
       }
     ],
-    "new_commits": 103,
+    "new_commits": 105,
     "default_branch": "main"
   },
   {
@@ -5393,7 +5393,7 @@
         "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/2.0"
       }
     ],
-    "new_commits": 82,
+    "new_commits": 84,
     "default_branch": "main"
   },
   {
@@ -6030,7 +6030,7 @@
         "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 129,
+    "new_commits": 130,
     "default_branch": "main"
   },
   {
@@ -6478,7 +6478,7 @@
         "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 182,
+    "new_commits": 184,
     "default_branch": "main"
   },
   {
@@ -6527,7 +6527,7 @@
         "href": "https://github.com/elementary/switchboard-plug-parental-controls/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 117,
+    "new_commits": 119,
     "default_branch": "main"
   },
   {
@@ -6569,7 +6569,7 @@
         "href": "https://github.com/elementary/switchboard-plug-sharing/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 376,
+    "new_commits": 378,
     "default_branch": "main"
   },
   {
@@ -7409,7 +7409,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.0"
       }
     ],
-    "new_commits": 6671,
+    "new_commits": 6674,
     "default_branch": "master"
   },
   {
