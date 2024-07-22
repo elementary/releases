@@ -1,5 +1,82 @@
 [
   {
+    "name": "wallpapers",
+    "releases": [
+      {
+        "version": "8.0.0",
+        "release_date": "2024-07-22T17:38:53+00:00",
+        "title": "wallpapers 8.0.0 Released",
+        "body": "<ul>\n<li>Add “A Large Body of Water Surrounded By Mountains” by Peter Thomas and make it the new default</li>\n<li>Add “A Trail of Footprints In The Sand” by David Emrich</li>\n<li>Remove “Orange Tulip” by Leigh Kendell</li>\n<li>Remove “Bird Flying by The Mountain” by Julia Craice</li>\n<li>Build a special wallpaper for Early Access</li>\n</ul>\n",
+        "href": "https://github.com/elementary/wallpapers/releases/tag/8.0.0"
+      },
+      {
+        "version": "7.0.0",
+        "release_date": "2023-01-04T17:22:31+00:00",
+        "title": "Wallpapers 7.0.0 Released!",
+        "body": "## What's Changed\r\n* Add Photo of Valley by @danirabbit in https://github.com/elementary/wallpapers/pull/172\r\n* Remove Jonas Nilsson Lee by @danirabbit in https://github.com/elementary/wallpapers/pull/171\r\n* Set default to Photo of Valley by @danirabbit in https://github.com/elementary/wallpapers/pull/174\r\n* Reduce contrails in Photo of Valley.jpg by @jlnr in https://github.com/elementary/wallpapers/pull/176\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/wallpapers/compare/6.1.0...7.0.0",
+        "href": "https://github.com/elementary/wallpapers/releases/tag/7.0.0"
+      },
+      {
+        "version": "6.1.0",
+        "release_date": "2021-12-13T22:46:29+00:00",
+        "title": "wallpapers 6.1.0 Released",
+        "body": "<ul>\n<li>Make Odin Dark the default</li>\n</ul>\n",
+        "href": "https://github.com/elementary/wallpapers/releases/tag/6.1.0"
+      },
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-13T22:06:01+00:00",
+        "title": "wallpapers 6.0.0 Released",
+        "body": "<ul>\n<li>Add day and night custom Odin wallpapers by Freehive</li>\n<li>Add Snow-capped Mountain, Martin Adams, Tj Holowaychuk, and Vikor Forgacs</li>\n<li>Remove Carmine de Fazio, Luca Bravo, Pablo Garcia Saldana, Rob Bye, and Ryan Schroeder</li>\n</ul>\n",
+        "href": "https://github.com/elementary/wallpapers/releases/tag/6.0.0"
+      },
+      {
+        "version": "5.5.0",
+        "release_date": "2019-11-25T23:02:37+00:00",
+        "title": "wallpapers 5.5.0 Released",
+        "body": "wallpapers 5.5.0 is out! \n\n<ul>\n<li>Change default to Sunset by the Pier</li>\n</ul>\n",
+        "href": "https://github.com/elementary/wallpapers/releases/tag/5.5.0"
+      },
+      {
+        "version": "5.4",
+        "release_date": "2019-09-27T05:25:33+00:00",
+        "title": "elementary Wallpapers 5.4 Released",
+        "body": "elementary Wallpapers 5.4 is out!\r\n\r\nThis release includes the following changes:\r\n\r\n   * Fix white pixel in Ashim DSilva\r\n   * Add Nattu Adnan wallpaper\r\n   * Add Canazei Granite Ridges wallpaper\r\n   * Add Julia Craice wallpaper\r\n",
+        "href": "https://github.com/elementary/wallpapers/releases/tag/5.4"
+      },
+      {
+        "version": "5.3",
+        "release_date": "2018-09-18T17:34:10+00:00",
+        "title": "elementary Wallpapers 5.3 Released",
+        "body": "elementary Wallpapers 5.3 is out!\r\n\r\nThis release includes the following changes:\r\n* New wallpaper [Morskie Oko](https://unsplash.com/photos/_1UF_3TlKcQ)\r\n* Removed wallpaper [Jay Ruzesky](https://unsplash.com/photos/h13Y8vyIXNU)",
+        "href": "https://github.com/elementary/wallpapers/releases/tag/5.3"
+      },
+      {
+        "version": "5.2",
+        "release_date": "2018-06-21T07:19:02+00:00",
+        "title": "elementary Wallpapers 5.2 Released",
+        "body": "elementary Wallpapers 5.2 is out!\r\n\r\nThis release includes the following changes:\r\n* New wallpaper [Luca Bravo](https://unsplash.com/photos/4yta6mU66dE), modified",
+        "href": "https://github.com/elementary/wallpapers/releases/tag/5.2"
+      },
+      {
+        "version": "5.1",
+        "release_date": "2018-05-21T18:04:53+00:00",
+        "title": "elementary Wallpapers 5.1 Released",
+        "body": "elementary Wallpapers 5.1 is out!\r\n\r\nThis release includes the following changes:\r\n* New wallpaper [Sunset by the Pier](https://unsplash.com/photos/ces8_Bo7bhQ)\r\n* File size optimizations\r\n* Higher resolution versions of the following:\r\n  - Carmine De Fazio.jpg\r\n  - Jay Ruzesky.jpg\r\n  - leigh-kendell-581.jpg\r\n  - Mr. Lee.jpg\r\n  - Pablo Garcia Saldana.jpg\r\n  - Ryan Schroeder.jpg",
+        "href": "https://github.com/elementary/wallpapers/releases/tag/5.1"
+      },
+      {
+        "version": "5.0",
+        "release_date": "2018-03-01T15:00:25+00:00",
+        "title": "elementary Wallpapers 5.0 Released",
+        "body": "Mostly complete collection of wallpapers for use in elementary OS Juno, few changes are expected to follow.",
+        "href": "https://github.com/elementary/wallpapers/releases/tag/5.0"
+      }
+    ],
+    "new_commits": 0,
+    "default_branch": "main"
+  },
+  {
     "name": "terminal",
     "releases": [
       {
@@ -6143,76 +6220,6 @@
       }
     ],
     "new_commits": 286,
-    "default_branch": "main"
-  },
-  {
-    "name": "wallpapers",
-    "releases": [
-      {
-        "version": "7.0.0",
-        "release_date": "2023-01-04T17:22:31+00:00",
-        "title": "Wallpapers 7.0.0 Released!",
-        "body": "## What's Changed\r\n* Add Photo of Valley by @danirabbit in https://github.com/elementary/wallpapers/pull/172\r\n* Remove Jonas Nilsson Lee by @danirabbit in https://github.com/elementary/wallpapers/pull/171\r\n* Set default to Photo of Valley by @danirabbit in https://github.com/elementary/wallpapers/pull/174\r\n* Reduce contrails in Photo of Valley.jpg by @jlnr in https://github.com/elementary/wallpapers/pull/176\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/wallpapers/compare/6.1.0...7.0.0",
-        "href": "https://github.com/elementary/wallpapers/releases/tag/7.0.0"
-      },
-      {
-        "version": "6.1.0",
-        "release_date": "2021-12-13T22:46:29+00:00",
-        "title": "wallpapers 6.1.0 Released",
-        "body": "<ul>\n<li>Make Odin Dark the default</li>\n</ul>\n",
-        "href": "https://github.com/elementary/wallpapers/releases/tag/6.1.0"
-      },
-      {
-        "version": "6.0.0",
-        "release_date": "2021-07-13T22:06:01+00:00",
-        "title": "wallpapers 6.0.0 Released",
-        "body": "<ul>\n<li>Add day and night custom Odin wallpapers by Freehive</li>\n<li>Add Snow-capped Mountain, Martin Adams, Tj Holowaychuk, and Vikor Forgacs</li>\n<li>Remove Carmine de Fazio, Luca Bravo, Pablo Garcia Saldana, Rob Bye, and Ryan Schroeder</li>\n</ul>\n",
-        "href": "https://github.com/elementary/wallpapers/releases/tag/6.0.0"
-      },
-      {
-        "version": "5.5.0",
-        "release_date": "2019-11-25T23:02:37+00:00",
-        "title": "wallpapers 5.5.0 Released",
-        "body": "wallpapers 5.5.0 is out! \n\n<ul>\n<li>Change default to Sunset by the Pier</li>\n</ul>\n",
-        "href": "https://github.com/elementary/wallpapers/releases/tag/5.5.0"
-      },
-      {
-        "version": "5.4",
-        "release_date": "2019-09-27T05:25:33+00:00",
-        "title": "elementary Wallpapers 5.4 Released",
-        "body": "elementary Wallpapers 5.4 is out!\r\n\r\nThis release includes the following changes:\r\n\r\n   * Fix white pixel in Ashim DSilva\r\n   * Add Nattu Adnan wallpaper\r\n   * Add Canazei Granite Ridges wallpaper\r\n   * Add Julia Craice wallpaper\r\n",
-        "href": "https://github.com/elementary/wallpapers/releases/tag/5.4"
-      },
-      {
-        "version": "5.3",
-        "release_date": "2018-09-18T17:34:10+00:00",
-        "title": "elementary Wallpapers 5.3 Released",
-        "body": "elementary Wallpapers 5.3 is out!\r\n\r\nThis release includes the following changes:\r\n* New wallpaper [Morskie Oko](https://unsplash.com/photos/_1UF_3TlKcQ)\r\n* Removed wallpaper [Jay Ruzesky](https://unsplash.com/photos/h13Y8vyIXNU)",
-        "href": "https://github.com/elementary/wallpapers/releases/tag/5.3"
-      },
-      {
-        "version": "5.2",
-        "release_date": "2018-06-21T07:19:02+00:00",
-        "title": "elementary Wallpapers 5.2 Released",
-        "body": "elementary Wallpapers 5.2 is out!\r\n\r\nThis release includes the following changes:\r\n* New wallpaper [Luca Bravo](https://unsplash.com/photos/4yta6mU66dE), modified",
-        "href": "https://github.com/elementary/wallpapers/releases/tag/5.2"
-      },
-      {
-        "version": "5.1",
-        "release_date": "2018-05-21T18:04:53+00:00",
-        "title": "elementary Wallpapers 5.1 Released",
-        "body": "elementary Wallpapers 5.1 is out!\r\n\r\nThis release includes the following changes:\r\n* New wallpaper [Sunset by the Pier](https://unsplash.com/photos/ces8_Bo7bhQ)\r\n* File size optimizations\r\n* Higher resolution versions of the following:\r\n  - Carmine De Fazio.jpg\r\n  - Jay Ruzesky.jpg\r\n  - leigh-kendell-581.jpg\r\n  - Mr. Lee.jpg\r\n  - Pablo Garcia Saldana.jpg\r\n  - Ryan Schroeder.jpg",
-        "href": "https://github.com/elementary/wallpapers/releases/tag/5.1"
-      },
-      {
-        "version": "5.0",
-        "release_date": "2018-03-01T15:00:25+00:00",
-        "title": "elementary Wallpapers 5.0 Released",
-        "body": "Mostly complete collection of wallpapers for use in elementary OS Juno, few changes are expected to follow.",
-        "href": "https://github.com/elementary/wallpapers/releases/tag/5.0"
-      }
-    ],
-    "new_commits": 51,
     "default_branch": "main"
   },
   {
