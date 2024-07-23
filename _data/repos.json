@@ -248,7 +248,7 @@
         "href": "https://github.com/elementary/terminal/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 2,
+    "new_commits": 4,
     "default_branch": "master"
   },
   {
@@ -1935,7 +1935,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 191,
+    "new_commits": 195,
     "default_branch": "master"
   },
   {
@@ -2810,7 +2810,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 200,
+    "new_commits": 202,
     "default_branch": "main"
   },
   {
@@ -3573,7 +3573,7 @@
         "href": "https://github.com/elementary/wingpanel/releases/tag/2.0.3"
       }
     ],
-    "new_commits": 47,
+    "new_commits": 49,
     "default_branch": "master"
   },
   {
@@ -5470,7 +5470,7 @@
         "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/2.0"
       }
     ],
-    "new_commits": 85,
+    "new_commits": 87,
     "default_branch": "main"
   },
   {
@@ -6107,7 +6107,7 @@
         "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 131,
+    "new_commits": 133,
     "default_branch": "main"
   },
   {
@@ -6576,7 +6576,7 @@
         "href": "https://github.com/elementary/switchboard-plug-sharing/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 379,
+    "new_commits": 380,
     "default_branch": "main"
   },
   {
@@ -7157,7 +7157,7 @@
         "href": "https://github.com/elementary/switchboard-plug-notifications/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 152,
+    "new_commits": 153,
     "default_branch": "main"
   },
   {
