@@ -1,5 +1,19 @@
 [
   {
+    "name": "bluetooth-daemon",
+    "releases": [
+      {
+        "version": "1.0.0",
+        "release_date": "2024-07-24T21:54:56+00:00",
+        "title": "bluetooth-daemon 1.0.0 Released",
+        "body": "<p>Initial Release 🎉️</p>\n",
+        "href": "https://github.com/elementary/bluetooth-daemon/releases/tag/1.0.0"
+      }
+    ],
+    "new_commits": 0,
+    "default_branch": "main"
+  },
+  {
     "name": "code",
     "releases": [
       {
@@ -4168,7 +4182,7 @@
         "href": "https://github.com/elementary/default-settings/releases/tag/5.0"
       }
     ],
-    "new_commits": 21,
+    "new_commits": 22,
     "default_branch": "main"
   },
   {
