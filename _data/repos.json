@@ -73,7 +73,7 @@
         "href": "https://github.com/elementary/wallpapers/releases/tag/5.0"
       }
     ],
-    "new_commits": 0,
+    "new_commits": 1,
     "default_branch": "main"
   },
   {
@@ -2166,7 +2166,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 63,
+    "new_commits": 64,
     "default_branch": "master"
   },
   {
@@ -3846,7 +3846,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-power/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 60,
+    "new_commits": 61,
     "default_branch": "master"
   },
   {
@@ -4959,7 +4959,7 @@
         "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/0.1"
       }
     ],
-    "new_commits": 106,
+    "new_commits": 107,
     "default_branch": "main"
   },
   {
