@@ -1,5 +1,117 @@
 [
   {
+    "name": "music",
+    "releases": [
+      {
+        "version": "8.0.0",
+        "release_date": "2024-07-25T19:33:47+00:00",
+        "title": "music 8.0.0 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Toolbar shows a shadow when the view is scrolled</li>\n<li>Open audio files from within Music</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/music/releases/tag/8.0.0"
+      },
+      {
+        "version": "7.1.0",
+        "release_date": "2023-05-31T15:34:56+00:00",
+        "title": "Music 7.1.0 Released!",
+        "body": "## What's Changed\r\n* PlaybackManager: use GLib.Once by @danirabbit in https://github.com/elementary/music/pull/732\r\n* Handle dropped folder by @jeremypw in https://github.com/elementary/music/pull/739\r\n* metainfo: Add translation field by @tintou in https://github.com/elementary/music/pull/740\r\n* Bump bilelmoussaoui/flatpak-github-actions from 4 to 5 by @dependabot in https://github.com/elementary/music/pull/742\r\n* Bump docker/setup-qemu-action from 1 to 2 by @dependabot in https://github.com/elementary/music/pull/741\r\n* Bump actions/checkout from 1 to 3 by @dependabot in https://github.com/elementary/music/pull/743\r\n* Update flatpak actions to new namespace by @davidmhewitt in https://github.com/elementary/music/pull/744\r\n* Update runtime to 7.2 by @danirabbit in https://github.com/elementary/music/pull/748\r\n* Bump flatpak/flatpak-github-actions from 5 to 6 by @dependabot in https://github.com/elementary/music/pull/749\r\n* Allow to open directories directly by @aitor-gomila in https://github.com/elementary/music/pull/747\r\n* Update metainfo for next release by @jeremypw in https://github.com/elementary/music/pull/751\r\n* MainWindow: use HeaderBars by @danirabbit in https://github.com/elementary/music/pull/753\r\n* MainWindow: Gtk.DropTarget: use drop instead on_drop by @leolost2605 in https://github.com/elementary/music/pull/754\r\n* Release 7.1.0 by @danirabbit in https://github.com/elementary/music/pull/755\r\n\r\n## New Contributors\r\n* @dependabot made their first contribution in https://github.com/elementary/music/pull/742\r\n* @aitor-gomila made their first contribution in https://github.com/elementary/music/pull/747\r\n* @leolost2605 made their first contribution in https://github.com/elementary/music/pull/754\r\n\r\n**Full Changelog**: https://github.com/elementary/music/compare/7.0.1...7.1.0",
+        "href": "https://github.com/elementary/music/releases/tag/7.1.0"
+      },
+      {
+        "version": "7.0.1",
+        "release_date": "2022-12-10T16:25:32+00:00",
+        "title": "Music 7.0.1 Released",
+        "body": "## What's Changed\r\n* Use file basename instead of uri for the default audio object title. by @vjr in https://github.com/elementary/music/pull/710\r\n* Skip invalid files instead of stopping playback. by @vjr in https://github.com/elementary/music/pull/711\r\n* Enable the NEXT button if repeat mode is set to ALL or ONE. by @vjr in https://github.com/elementary/music/pull/712\r\n* Application: hard code gtk styles by @danirabbit in https://github.com/elementary/music/pull/723\r\n* Metainfo: Use branding tag and screenshot caption by @danirabbit in https://github.com/elementary/music/pull/724\r\n* Metainfo improvements by @danirabbit in https://github.com/elementary/music/pull/728\r\n* Update Flatpak runtime to 7.1 by @danirabbit in https://github.com/elementary/music/pull/729\r\n* Update music.metainfo.xml.in by @danirabbit in https://github.com/elementary/music/pull/730\r\n* Release 7.0.1 by @danirabbit in https://github.com/elementary/music/pull/731\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/music/compare/7.0.0...7.0.1",
+        "href": "https://github.com/elementary/music/releases/tag/7.0.1"
+      },
+      {
+        "version": "7.0.0",
+        "release_date": "2022-05-12T16:35:36+00:00",
+        "title": "music 7.0.0 Released",
+        "body": "<p>Complete rewrite</p>\n",
+        "href": "https://github.com/elementary/music/releases/tag/7.0.0"
+      },
+      {
+        "version": "5.1.1",
+        "release_date": "2021-07-16T19:01:31+00:00",
+        "title": "music 5.1.1 Released",
+        "body": "<p>Drop support for Last.FM</p>\n<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/music/releases/tag/5.1.1"
+      },
+      {
+        "version": "5.1.0",
+        "release_date": "2021-07-14T17:03:57+00:00",
+        "title": "music 5.1.0 Released",
+        "body": "<p>Fix an issue with saving smart playlists</p>\n<p>Drop support for CD-ROM</p>\n<p>Dark style support</p>\n<p>Minor visual improvements</p>\n<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/music/releases/tag/5.1.0"
+      },
+      {
+        "version": "5.0.5",
+        "release_date": "2020-03-04T22:50:04+00:00",
+        "title": "music 5.0.5 Released",
+        "body": "music 5.0.5 is out! \n\n<p>Fix removing items from the queue</p>\n<p>Fix equalizer sliders not properly disabled sometimes</p>\n<p>Updated translations</p>\n<p>Performance improvements</p>\n",
+        "href": "https://github.com/elementary/music/releases/tag/5.0.5"
+      },
+      {
+        "version": "5.0.4",
+        "release_date": "2019-04-17T08:46:55+00:00",
+        "title": "Music 5.0.4 Released",
+        "body": "Music 5.0.4 is out!\r\n\r\nChanges:\r\n* Removed old gsignond vapi\r\n* LibraryWindow: Use Granite.MessageDialog for showing alerts\r\n* PlaylistsUtils: Use Gtk.FileChooserNative\r\n* Accurately remember window size\r\n* Updated translations",
+        "href": "https://github.com/elementary/music/releases/tag/5.0.4"
+      },
+      {
+        "version": "5.0.3",
+        "release_date": "2019-02-26T19:36:31+00:00",
+        "title": "Music 5.0.3 Released",
+        "body": "Music 5.0.3 is out!\r\n\r\nChanges:\r\n* Scale album art properly at high resolutions\r\n* Accurately select Music Folder Location for directories with spaces in name\r\n* New MediaKeyListener path for gnome-settings-daemon\r\n* Updated translations",
+        "href": "https://github.com/elementary/music/releases/tag/5.0.3"
+      },
+      {
+        "version": "5.0.2",
+        "release_date": "2018-12-18T12:07:14+00:00",
+        "title": "Music 5.0.2 Released",
+        "body": "Music 5.0.2 is out!\r\n\r\nChanges:\r\n* AlbumView: double-click to play album\r\n* Associate with s3m files\r\n* Queue fixes\r\n* Properly restore playlists\r\n* Always respect custom music folder setting\r\n* Updated translations",
+        "href": "https://github.com/elementary/music/releases/tag/5.0.2"
+      },
+      {
+        "version": "5.0.1",
+        "release_date": "2018-11-30T10:49:32+00:00",
+        "title": "Music 5.0.1 Released",
+        "body": "Music 5.0.1 is out!\r\n\r\nChanges:\r\n* Fix list and column view sorting\r\n* Add orange accent color\r\n* Add shortcut accels to tooltips",
+        "href": "https://github.com/elementary/music/releases/tag/5.0.1"
+      },
+      {
+        "version": "5.0",
+        "release_date": "2018-10-16T08:42:10+00:00",
+        "title": "Music 5.0 Released",
+        "body": "Music 5.0 is out!\r\n\r\nChanges:\r\n* Various UI changes\r\n* Shuffle fixes\r\n* Initial MPRIS support\r\n* Updated translations",
+        "href": "https://github.com/elementary/music/releases/tag/5.0"
+      },
+      {
+        "version": "0.4.2",
+        "release_date": "2017-11-27T15:51:48+00:00",
+        "title": "Noise (Music) 0.4.2 Released",
+        "body": "Noise 0.4.2 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/music/issues?q=is%3Aclosed+milestone%3A0.4.2).",
+        "href": "https://github.com/elementary/music/releases/tag/0.4.2"
+      },
+      {
+        "version": "0.4.1",
+        "release_date": "2017-07-28T03:49:34+00:00",
+        "title": "Noise (Music) 0.4.1 Released",
+        "body": "Noise 0.4.1 is out!\r\n\r\nEdit: The list of issues closed by this release can be found [here](https://github.com/elementary/music/milestone/3?closed=1).",
+        "href": "https://github.com/elementary/music/releases/tag/0.4.1"
+      },
+      {
+        "version": "0.4.0.3",
+        "release_date": "2017-04-21T17:49:20+00:00",
+        "title": "Noise (Music) 0.4.0.3 Released",
+        "body": "Noise 0.4.0.3 is out!",
+        "href": "https://github.com/elementary/music/releases/tag/0.4.0.3"
+      }
+    ],
+    "new_commits": 0,
+    "default_branch": "main"
+  },
+  {
     "name": "screenshot",
     "releases": [
       {
@@ -549,7 +661,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 1,
+    "new_commits": 3,
     "default_branch": "master"
   },
   {
@@ -5849,111 +5961,6 @@
       }
     ],
     "new_commits": 70,
-    "default_branch": "main"
-  },
-  {
-    "name": "music",
-    "releases": [
-      {
-        "version": "7.1.0",
-        "release_date": "2023-05-31T15:34:56+00:00",
-        "title": "Music 7.1.0 Released!",
-        "body": "## What's Changed\r\n* PlaybackManager: use GLib.Once by @danirabbit in https://github.com/elementary/music/pull/732\r\n* Handle dropped folder by @jeremypw in https://github.com/elementary/music/pull/739\r\n* metainfo: Add translation field by @tintou in https://github.com/elementary/music/pull/740\r\n* Bump bilelmoussaoui/flatpak-github-actions from 4 to 5 by @dependabot in https://github.com/elementary/music/pull/742\r\n* Bump docker/setup-qemu-action from 1 to 2 by @dependabot in https://github.com/elementary/music/pull/741\r\n* Bump actions/checkout from 1 to 3 by @dependabot in https://github.com/elementary/music/pull/743\r\n* Update flatpak actions to new namespace by @davidmhewitt in https://github.com/elementary/music/pull/744\r\n* Update runtime to 7.2 by @danirabbit in https://github.com/elementary/music/pull/748\r\n* Bump flatpak/flatpak-github-actions from 5 to 6 by @dependabot in https://github.com/elementary/music/pull/749\r\n* Allow to open directories directly by @aitor-gomila in https://github.com/elementary/music/pull/747\r\n* Update metainfo for next release by @jeremypw in https://github.com/elementary/music/pull/751\r\n* MainWindow: use HeaderBars by @danirabbit in https://github.com/elementary/music/pull/753\r\n* MainWindow: Gtk.DropTarget: use drop instead on_drop by @leolost2605 in https://github.com/elementary/music/pull/754\r\n* Release 7.1.0 by @danirabbit in https://github.com/elementary/music/pull/755\r\n\r\n## New Contributors\r\n* @dependabot made their first contribution in https://github.com/elementary/music/pull/742\r\n* @aitor-gomila made their first contribution in https://github.com/elementary/music/pull/747\r\n* @leolost2605 made their first contribution in https://github.com/elementary/music/pull/754\r\n\r\n**Full Changelog**: https://github.com/elementary/music/compare/7.0.1...7.1.0",
-        "href": "https://github.com/elementary/music/releases/tag/7.1.0"
-      },
-      {
-        "version": "7.0.1",
-        "release_date": "2022-12-10T16:25:32+00:00",
-        "title": "Music 7.0.1 Released",
-        "body": "## What's Changed\r\n* Use file basename instead of uri for the default audio object title. by @vjr in https://github.com/elementary/music/pull/710\r\n* Skip invalid files instead of stopping playback. by @vjr in https://github.com/elementary/music/pull/711\r\n* Enable the NEXT button if repeat mode is set to ALL or ONE. by @vjr in https://github.com/elementary/music/pull/712\r\n* Application: hard code gtk styles by @danirabbit in https://github.com/elementary/music/pull/723\r\n* Metainfo: Use branding tag and screenshot caption by @danirabbit in https://github.com/elementary/music/pull/724\r\n* Metainfo improvements by @danirabbit in https://github.com/elementary/music/pull/728\r\n* Update Flatpak runtime to 7.1 by @danirabbit in https://github.com/elementary/music/pull/729\r\n* Update music.metainfo.xml.in by @danirabbit in https://github.com/elementary/music/pull/730\r\n* Release 7.0.1 by @danirabbit in https://github.com/elementary/music/pull/731\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/music/compare/7.0.0...7.0.1",
-        "href": "https://github.com/elementary/music/releases/tag/7.0.1"
-      },
-      {
-        "version": "7.0.0",
-        "release_date": "2022-05-12T16:35:36+00:00",
-        "title": "music 7.0.0 Released",
-        "body": "<p>Complete rewrite</p>\n",
-        "href": "https://github.com/elementary/music/releases/tag/7.0.0"
-      },
-      {
-        "version": "5.1.1",
-        "release_date": "2021-07-16T19:01:31+00:00",
-        "title": "music 5.1.1 Released",
-        "body": "<p>Drop support for Last.FM</p>\n<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/music/releases/tag/5.1.1"
-      },
-      {
-        "version": "5.1.0",
-        "release_date": "2021-07-14T17:03:57+00:00",
-        "title": "music 5.1.0 Released",
-        "body": "<p>Fix an issue with saving smart playlists</p>\n<p>Drop support for CD-ROM</p>\n<p>Dark style support</p>\n<p>Minor visual improvements</p>\n<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/music/releases/tag/5.1.0"
-      },
-      {
-        "version": "5.0.5",
-        "release_date": "2020-03-04T22:50:04+00:00",
-        "title": "music 5.0.5 Released",
-        "body": "music 5.0.5 is out! \n\n<p>Fix removing items from the queue</p>\n<p>Fix equalizer sliders not properly disabled sometimes</p>\n<p>Updated translations</p>\n<p>Performance improvements</p>\n",
-        "href": "https://github.com/elementary/music/releases/tag/5.0.5"
-      },
-      {
-        "version": "5.0.4",
-        "release_date": "2019-04-17T08:46:55+00:00",
-        "title": "Music 5.0.4 Released",
-        "body": "Music 5.0.4 is out!\r\n\r\nChanges:\r\n* Removed old gsignond vapi\r\n* LibraryWindow: Use Granite.MessageDialog for showing alerts\r\n* PlaylistsUtils: Use Gtk.FileChooserNative\r\n* Accurately remember window size\r\n* Updated translations",
-        "href": "https://github.com/elementary/music/releases/tag/5.0.4"
-      },
-      {
-        "version": "5.0.3",
-        "release_date": "2019-02-26T19:36:31+00:00",
-        "title": "Music 5.0.3 Released",
-        "body": "Music 5.0.3 is out!\r\n\r\nChanges:\r\n* Scale album art properly at high resolutions\r\n* Accurately select Music Folder Location for directories with spaces in name\r\n* New MediaKeyListener path for gnome-settings-daemon\r\n* Updated translations",
-        "href": "https://github.com/elementary/music/releases/tag/5.0.3"
-      },
-      {
-        "version": "5.0.2",
-        "release_date": "2018-12-18T12:07:14+00:00",
-        "title": "Music 5.0.2 Released",
-        "body": "Music 5.0.2 is out!\r\n\r\nChanges:\r\n* AlbumView: double-click to play album\r\n* Associate with s3m files\r\n* Queue fixes\r\n* Properly restore playlists\r\n* Always respect custom music folder setting\r\n* Updated translations",
-        "href": "https://github.com/elementary/music/releases/tag/5.0.2"
-      },
-      {
-        "version": "5.0.1",
-        "release_date": "2018-11-30T10:49:32+00:00",
-        "title": "Music 5.0.1 Released",
-        "body": "Music 5.0.1 is out!\r\n\r\nChanges:\r\n* Fix list and column view sorting\r\n* Add orange accent color\r\n* Add shortcut accels to tooltips",
-        "href": "https://github.com/elementary/music/releases/tag/5.0.1"
-      },
-      {
-        "version": "5.0",
-        "release_date": "2018-10-16T08:42:10+00:00",
-        "title": "Music 5.0 Released",
-        "body": "Music 5.0 is out!\r\n\r\nChanges:\r\n* Various UI changes\r\n* Shuffle fixes\r\n* Initial MPRIS support\r\n* Updated translations",
-        "href": "https://github.com/elementary/music/releases/tag/5.0"
-      },
-      {
-        "version": "0.4.2",
-        "release_date": "2017-11-27T15:51:48+00:00",
-        "title": "Noise (Music) 0.4.2 Released",
-        "body": "Noise 0.4.2 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/music/issues?q=is%3Aclosed+milestone%3A0.4.2).",
-        "href": "https://github.com/elementary/music/releases/tag/0.4.2"
-      },
-      {
-        "version": "0.4.1",
-        "release_date": "2017-07-28T03:49:34+00:00",
-        "title": "Noise (Music) 0.4.1 Released",
-        "body": "Noise 0.4.1 is out!\r\n\r\nEdit: The list of issues closed by this release can be found [here](https://github.com/elementary/music/milestone/3?closed=1).",
-        "href": "https://github.com/elementary/music/releases/tag/0.4.1"
-      },
-      {
-        "version": "0.4.0.3",
-        "release_date": "2017-04-21T17:49:20+00:00",
-        "title": "Noise (Music) 0.4.0.3 Released",
-        "body": "Noise 0.4.0.3 is out!",
-        "href": "https://github.com/elementary/music/releases/tag/0.4.0.3"
-      }
-    ],
-    "new_commits": 46,
     "default_branch": "main"
   },
   {
