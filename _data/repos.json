@@ -1,5 +1,1244 @@
 [
   {
+    "name": "switchboard-plug-parental-controls",
+    "releases": [
+      {
+        "version": "8.0.0",
+        "release_date": "2024-07-26T17:18:38+00:00",
+        "title": "switchboard-plug-parental-controls 8.0.0 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Improve screen reader accessibility</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-parental-controls/releases/tag/8.0.0"
+      },
+      {
+        "version": "6.0.1",
+        "release_date": "2022-10-21T22:07:36+00:00",
+        "title": "switchboard-plug-parental-controls 6.0.1 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-parental-controls/releases/tag/6.0.1"
+      },
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-14T21:56:29+00:00",
+        "title": "switchboard-plug-parental-controls 6.0.0 Released",
+        "body": "<p>Fixes:</p>\n<ul>\n<li>Set default Screen Time from midnight to midnight to prevent accidental lockouts</li>\n<li>Improve reliability of app blocking</li>\n<li>Support blocking Flatpak apps</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Clarify how Screen Time limits work and when they take effect</li>\n<li>New colorful avatar fallback</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-parental-controls/releases/tag/6.0.0"
+      },
+      {
+        "version": "3.0.1",
+        "release_date": "2020-05-28T18:39:39+00:00",
+        "title": "switchboard-plug-parental-controls 3.0.1 Released",
+        "body": "<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/switchboard-plug-parental-controls/releases/tag/3.0.1"
+      },
+      {
+        "version": "3.0.0",
+        "release_date": "2020-04-22T21:06:36+00:00",
+        "title": "switchboard-plug-parental-controls 3.0.0 Released",
+        "body": "<p>Rename to Screen Time &amp; Limits</p>\n<p>Show your own account</p>\n<p>Redesign the app chooser</p>\n<p>Redesign the Screen Time view</p>\n<p>Fix an issue with removing URLs from restricted websites</p>\n<p>Reliably apply time restrictions</p>\n<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/switchboard-plug-parental-controls/releases/tag/3.0.0"
+      },
+      {
+        "version": "2.1.5",
+        "release_date": "2018-10-09T09:19:42+00:00",
+        "title": "Switchboard Parental Controls Plug 2.1.5 Released",
+        "body": "switchboard-plug-parental-controls 2.1.5 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-parental-controls/issues?q=is%3Aclosed+milestone%3A2.1.5).",
+        "href": "https://github.com/elementary/switchboard-plug-parental-controls/releases/tag/2.1.5"
+      },
+      {
+        "version": "0.1.4",
+        "release_date": "2018-06-19T06:31:56+00:00",
+        "title": "Switchboard Parental Controls Plug 0.1.4 Released",
+        "body": "switchboard-plug-parental-controls 0.1.4 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-parental-controls/issues?q=is%3Aclosed+milestone%3A0.1.4).",
+        "href": "https://github.com/elementary/switchboard-plug-parental-controls/releases/tag/0.1.4"
+      }
+    ],
+    "new_commits": 0,
+    "default_branch": "main"
+  },
+  {
+    "name": "switchboard-plug-sound",
+    "releases": [
+      {
+        "version": "8.0.0",
+        "release_date": "2024-07-26T17:18:14+00:00",
+        "title": "switchboard-plug-sound 8.0.0 Released",
+        "body": "<p>New Features:</p>\n<ul>\n<li>Control the volume of individual apps</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Include missing output items in search results</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/8.0.0"
+      },
+      {
+        "version": "2.3.3",
+        "release_date": "2023-07-24T16:05:40+00:00",
+        "title": "Sound Settings 2.3.3 Released!",
+        "body": "## What's Changed\r\n* actions/checkout@v3 by @meisenzahl in https://github.com/elementary/switchboard-plug-sound/pull/233\r\n* Switch to GHCR containers by @davidmhewitt in https://github.com/elementary/switchboard-plug-sound/pull/237\r\n* Plug: place contents in a Clamp by @danirabbit in https://github.com/elementary/switchboard-plug-sound/pull/240\r\n* Output: more vertical layout by @danirabbit in https://github.com/elementary/switchboard-plug-sound/pull/241\r\n* InputPanel: better use vertical space by @danirabbit in https://github.com/elementary/switchboard-plug-sound/pull/242\r\n* OutputPanel: Remove extra margin by @danirabbit in https://github.com/elementary/switchboard-plug-sound/pull/243\r\n* Set volume scales sensitive based on device by @danirabbit in https://github.com/elementary/switchboard-plug-sound/pull/244\r\n* OutputPanel: include screen reader shortcut by @danirabbit in https://github.com/elementary/switchboard-plug-sound/pull/245\r\n* Try to fix crash by @lenemter in https://github.com/elementary/switchboard-plug-sound/pull/248\r\n* Metainfo Improvements by @danirabbit in https://github.com/elementary/switchboard-plug-sound/pull/249\r\n\r\n## New Contributors\r\n* @meisenzahl made their first contribution in https://github.com/elementary/switchboard-plug-sound/pull/233\r\n\r\n**Full Changelog**: https://github.com/elementary/switchboard-plug-sound/compare/2.3.2...2.3.3",
+        "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/2.3.3"
+      },
+      {
+        "version": "2.3.2",
+        "release_date": "2022-10-27T16:48:10+00:00",
+        "title": "switchboard-plug-sound 2.3.2 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Use device form factor when available to assign more accurate icons</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/2.3.2"
+      },
+      {
+        "version": "2.3.1",
+        "release_date": "2022-04-06T22:51:58+00:00",
+        "title": "switchboard-plug-sound 2.3.1 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Provide a fallback device icon in case none is available</li>\n<li>More helpful placeholder text when no input devices are found</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/2.3.1"
+      },
+      {
+        "version": "2.3.0",
+        "release_date": "2021-11-23T17:14:56+00:00",
+        "title": "switchboard-plug-sound 2.3.0 Released",
+        "body": "<p>New features:</p>\n<ul>\n<li>Show device icons</li>\n<li>Switch to enable the screen reader</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/2.3.0"
+      },
+      {
+        "version": "2.2.7",
+        "release_date": "2021-07-14T21:21:28+00:00",
+        "title": "switchboard-plug-sound 2.2.7 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/2.2.7"
+      },
+      {
+        "version": "2.2.6",
+        "release_date": "2021-01-05T22:03:37+00:00",
+        "title": "switchboard-plug-sound 2.2.6 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Smoother transition when navigating away from this view</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/2.2.6"
+      },
+      {
+        "version": "2.2.5",
+        "release_date": "2020-09-03T21:58:44+00:00",
+        "title": "switchboard-plug-sound 2.2.5 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Fix crash with PulseAudio's echo cancellation plugin</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/2.2.5"
+      },
+      {
+        "version": "2.2.4",
+        "release_date": "2020-05-28T18:48:59+00:00",
+        "title": "switchboard-plug-sound 2.2.4 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/2.2.4"
+      },
+      {
+        "version": "2.2.3",
+        "release_date": "2020-04-03T20:29:30+00:00",
+        "title": "switchboard-plug-sound 2.2.3 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/2.2.3"
+      },
+      {
+        "version": "2.2.2",
+        "release_date": "2019-11-15T23:01:23+00:00",
+        "title": "switchboard-plug-sound 2.2.2 Released",
+        "body": "switchboard-plug-sound 2.2.2 is out! \n\nChanges:\n\n* Add volume slider event sound\n* Updated translations\n",
+        "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/2.2.2"
+      },
+      {
+        "version": "2.2.1",
+        "release_date": "2019-04-08T18:36:47+00:00",
+        "title": "Switchboard Sound Plug 2.2.1",
+        "body": "switchboard-plug-sound 2.2.1 is out!\r\n\r\nChanges:\r\n* Fix crash affecting some devices such as HTC Vive\r\n* Updated translations",
+        "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/2.2.1"
+      },
+      {
+        "version": "2.2.0",
+        "release_date": "2019-03-28T10:11:52+00:00",
+        "title": "Switchboard Sound Plug 2.2.0",
+        "body": "switchboard-plug-sound 2.2.0 is out!\r\n\r\nChanges:\r\n* Major overhaul of Output Devices logic, increasing available devices (such as HDMI) and no longer burying devices under \"Ports\"\r\n* Updated translations",
+        "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/2.2.0"
+      },
+      {
+        "version": "2.1.3",
+        "release_date": "2019-01-08T13:44:35+00:00",
+        "title": "Switchboard Plug Sound 2.1.3",
+        "body": "switchboard-plug-sound 2.1.3 is out!\r\n\r\nChanges:\r\n* Expand event controls\r\n* Vala build fixes\r\n* Updated translations",
+        "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/2.1.3"
+      },
+      {
+        "version": "2.1.2",
+        "release_date": "2018-10-15T20:46:08+00:00",
+        "title": "Switchboard Sound Plug 2.1.2",
+        "body": "switchboard-plug-sound 2.1.2 is out!\r\n\r\nChanges:\r\n* Fix microphone input level is not alignment\r\n* Update translations\r\n* Enable clicking on whole row to select device\r\n* Correct display style of balance slider\r\n* Build fixes",
+        "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/2.1.2"
+      },
+      {
+        "version": "0.1.1",
+        "release_date": "2018-08-27T09:53:59+00:00",
+        "title": "Switchboard Sound Plug 0.1.1 Released",
+        "body": "switchboard-plug-sound 0.1.1 is out!\r\n\r\nChanges:\r\n* System sounds enable/disable control\r\n* Improved translations",
+        "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/0.1.1"
+      },
+      {
+        "version": "0.1",
+        "release_date": "2018-06-08T16:09:23+00:00",
+        "title": "Switchboard Sound Plug 0.1 Released",
+        "body": "switchboard-plug-sound 0.1 is out!\r\n\r\nThis is the initial release.",
+        "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/0.1"
+      }
+    ],
+    "new_commits": 0,
+    "default_branch": "main"
+  },
+  {
+    "name": "switchboard-plug-onlineaccounts",
+    "releases": [
+      {
+        "version": "8.0.0",
+        "release_date": "2024-07-26T17:17:24+00:00",
+        "title": "switchboard-plug-onlineaccounts 8.0.0 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Improve screen reader accessibility</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/8.0.0"
+      },
+      {
+        "version": "6.5.3",
+        "release_date": "2023-06-29T18:20:27+00:00",
+        "title": "Online Accounts Settings 6.5.3 Released!",
+        "body": "## What's Changed\r\n* ImapDialog: Fix freeze when a server sends no response by @leolost2605 in https://github.com/elementary/switchboard-plug-onlineaccounts/pull/256\r\n* ImapDialog: Store most initial setup keys by @leolost2605 in https://github.com/elementary/switchboard-plug-onlineaccounts/pull/258\r\n* Metainfo Improvements by @danirabbit in https://github.com/elementary/switchboard-plug-onlineaccounts/pull/260\r\n* CI: unbreak fedora by @bobby285271 in https://github.com/elementary/switchboard-plug-onlineaccounts/pull/264\r\n\r\n## New Contributors\r\n* @leolost2605 made their first contribution in https://github.com/elementary/switchboard-plug-onlineaccounts/pull/256\r\n\r\n**Full Changelog**: https://github.com/elementary/switchboard-plug-onlineaccounts/compare/6.5.2...6.5.3",
+        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/6.5.3"
+      },
+      {
+        "version": "6.5.2",
+        "release_date": "2023-04-04T17:41:08+00:00",
+        "title": "Online Accounts Settings 6.5.2 released",
+        "body": "## What's Changed\r\n* Update icons by @lenemter in https://github.com/elementary/switchboard-plug-onlineaccounts/pull/246\r\n* Add support for evolution-data-server 3.45+ / libsoup-3 by @meisenzahl in https://github.com/elementary/switchboard-plug-onlineaccounts/pull/248\r\n* Fix use imap username for smtp by @stan-janssen in https://github.com/elementary/switchboard-plug-onlineaccounts/pull/253\r\n\r\n## New Contributors\r\n* @lenemter made their first contribution in https://github.com/elementary/switchboard-plug-onlineaccounts/pull/246\r\n* @meisenzahl made their first contribution in https://github.com/elementary/switchboard-plug-onlineaccounts/pull/247\r\n* @stan-janssen made their first contribution in https://github.com/elementary/switchboard-plug-onlineaccounts/pull/253\r\n\r\n**Full Changelog**: https://github.com/elementary/switchboard-plug-onlineaccounts/compare/6.5.1...6.5.2",
+        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/6.5.2"
+      },
+      {
+        "version": "6.5.1",
+        "release_date": "2022-10-21T22:07:47+00:00",
+        "title": "switchboard-plug-onlineaccounts 6.5.1 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/6.5.1"
+      },
+      {
+        "version": "6.5.0",
+        "release_date": "2022-05-16T19:21:17+00:00",
+        "title": "switchboard-plug-onlineaccounts 6.5.0 Released",
+        "body": "<p>New features:</p>\n<ul>\n<li>Added offline support for CalDAV accounts</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/6.5.0"
+      },
+      {
+        "version": "6.4.0",
+        "release_date": "2022-04-06T18:36:45+00:00",
+        "title": "switchboard-plug-onlineaccounts 6.4.0 Released",
+        "body": "<p>New features:</p>\n<ul>\n<li>Choose refresh rate for IMAP</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/6.4.0"
+      },
+      {
+        "version": "6.3.0",
+        "release_date": "2021-12-13T22:23:11+00:00",
+        "title": "switchboard-plug-onlineaccounts 6.3.0 Released",
+        "body": "<p>New features:</p>\n<ul>\n<li>Edit saved CalDAV accounts</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Dim window when creating a new IMAP account</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/6.3.0"
+      },
+      {
+        "version": "6.2.2",
+        "release_date": "2021-11-24T23:56:37+00:00",
+        "title": "switchboard-plug-onlineaccounts 6.2.2 Released",
+        "body": "<p>Fixes:</p>\n<ul>\n<li>Dim window when creating a new IMAP account</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/6.2.2"
+      },
+      {
+        "version": "6.2.1",
+        "release_date": "2021-09-28T19:26:51+00:00",
+        "title": "Online Accounts Settings 6.2.1 Released",
+        "body": "<p>Fixes:</p>\r\n<ul>\r\n<li>Make sure the refresh interval for an IMAP account is set</li>\r\n<li>Fix adding, editing, and removing lists in CalDAV apps like Tasks</li>\r\n</ul>\r\n<p>Minor updates:</p>\r\n<ul>\r\n<li>Make sure you can always navigate next by pressing the Enter key</li>\r\n<li>Close dialogs when pressing the Escape key</li>\r\n<li>Use a more complete list of authentication methods for IMAP</li>\r\n<li>Updated translations</li>\r\n</ul>",
+        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/6.2.1"
+      },
+      {
+        "version": "6.2.0",
+        "release_date": "2021-08-26T20:39:35+00:00",
+        "title": "switchboard-plug-onlineaccounts 6.2.0 Released",
+        "body": "<ul>\n<li>Edit saved IMAP accounts</li>\n<li>Automatically detect authentication method for IMAP</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/6.2.0"
+      },
+      {
+        "version": "6.1.0",
+        "release_date": "2021-07-30T20:57:04+00:00",
+        "title": "switchboard-plug-onlineaccounts 6.1.0 Released",
+        "body": "- Verify login credentials when saving IMAP accounts\r\n- Set up Archive, Drafts, Sent, and Templates folders for IMAP\r\n- Close \"Add Account\" popover when an item is selected\r\n- Updated translations",
+        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/6.1.0"
+      },
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-15T21:21:15+00:00",
+        "title": "switchboard-plug-onlineaccounts 6.0.0 Released",
+        "body": "Complete redesign based on Evolution Data Server",
+        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/6.0.0"
+      },
+      {
+        "version": "2.0.1",
+        "release_date": "2018-10-24T14:43:36+00:00",
+        "title": "Switchboard Online Accounts Plug 2.0.1 Released",
+        "body": "switchboard-plug-onlineaccounts 2.0.1 is out!\r\n\r\nChanges:\r\n* Use Granite.Toast widget\r\n* New translations",
+        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/2.0.1"
+      },
+      {
+        "version": "2.0",
+        "release_date": "2018-10-15T22:35:57+00:00",
+        "title": "Switchboard Online Accounts Plug 2.0 Released",
+        "body": "switchboard-plug-onlineaccounts 2.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-onlineaccounts/issues?q=is%3Aclosed+milestone%3A2.0).",
+        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/2.0"
+      }
+    ],
+    "new_commits": 0,
+    "default_branch": "main"
+  },
+  {
+    "name": "switchboard-plug-useraccounts",
+    "releases": [
+      {
+        "version": "8.0.0",
+        "release_date": "2024-07-26T17:16:16+00:00",
+        "title": "switchboard-plug-useraccounts 8.0.0 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Improved screen reader accessibility</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/8.0.0"
+      },
+      {
+        "version": "2.4.3",
+        "release_date": "2022-10-21T22:08:14+00:00",
+        "title": "switchboard-plug-useraccounts 2.4.3 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/2.4.3"
+      },
+      {
+        "version": "2.4.2",
+        "release_date": "2021-11-23T21:19:39+00:00",
+        "title": "switchboard-plug-useraccounts 2.4.2 Released",
+        "body": "<p>Fixes:</p>\n<ul>\n<li>Update permissions when enabling and disabling accounts</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/2.4.2"
+      },
+      {
+        "version": "2.4.1",
+        "release_date": "2021-10-26T17:49:42+00:00",
+        "title": "User Accounts Settings 2.4.1 Released",
+        "body": "<p>Fixes:</p>\r\n<ul>\r\n<li>Ensure user information in sidebar updates upon changes</li>\r\n</ul>\r\n<p>Improvements:</p>\r\n<ul>\r\n<li>Support locales with 3-letter codes</li>\r\n<li>Performance improvements</li>\r\n<li>Better support for non-Ubuntu based distributions</li>\r\n<li>Updated translations</li>\r\n</ul>",
+        "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/2.4.1"
+      },
+      {
+        "version": "2.4.0",
+        "release_date": "2021-07-14T21:10:17+00:00",
+        "title": "switchboard-plug-useraccounts 2.4.0 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>New colorful avatar fallback</li>\n<li>Performance improvements</li>\n<li>Improved tooltips and labels</li>\n<li>Fix possible crash when deleting an account</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/2.4.0"
+      },
+      {
+        "version": "2.3.2",
+        "release_date": "2020-09-03T21:33:48+00:00",
+        "title": "switchboard-plug-useraccounts 2.3.2 Released",
+        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/2.3.2"
+      },
+      {
+        "version": "2.3.1",
+        "release_date": "2020-04-08T23:17:54+00:00",
+        "title": "switchboard-plug-useraccounts 2.3.1 Released",
+        "body": "<ul>\n<li>Show more accurate reasons for locked settings</li>\n<li>Improve reliability of account creation</li>\n<li>Get permission on demand for enabling or disabling accounts</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/2.3.1"
+      },
+      {
+        "version": "2.3.0",
+        "release_date": "2019-11-15T22:25:40+00:00",
+        "title": "switchboard-plug-useraccounts 2.3.0 Released",
+        "body": "switchboard-plug-useraccounts 2.3.0 is out! \n\nChanges:\n\n* Show in sidebar if an account is disabled\n* Ask for permission when adding and removing accounts\n* Animate Infobars\n* Updated translations\n",
+        "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/2.3.0"
+      },
+      {
+        "version": "2.2.1",
+        "release_date": "2019-03-15T16:51:19+00:00",
+        "title": "Switchboard User Accounts Plug 2.2.1 Released",
+        "body": "switchboard-plug-useraccounts 2.2.1 is out!\r\n\r\nChanges:\r\n* Fix getting current user on other distros\r\n* Use `Granite.MessageDialog` for avatar dialog\r\n* Updated translations",
+        "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/2.2.1"
+      },
+      {
+        "version": "2.2.0",
+        "release_date": "2018-10-23T09:16:42+00:00",
+        "title": "Switchboard User Accounts Plug 2.2.0 Released",
+        "body": "switchboard-plug-useraccounts 2.2.0 is out!\r\n\r\nChanges:\r\n* Fix guest session controls\r\n* New search keywords",
+        "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/2.2.0"
+      },
+      {
+        "version": "2.1.7",
+        "release_date": "2018-10-08T18:20:19+00:00",
+        "title": "Switchboard User Accounts Plug 2.1.7 Released",
+        "body": "switchboard-plug-useraccounts 2.1.7 is out!\r\n\r\nThis list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-useraccounts/issues?q=is%3Aclosed+milestone%3A2.1.7).",
+        "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/2.1.7"
+      },
+      {
+        "version": "0.1.6",
+        "release_date": "2017-10-10T18:56:56+00:00",
+        "title": "Switchboard User Accounts Plug 0.1.6 Released",
+        "body": "switchboard-plug-useraccounts 0.1.6 is out!\r\n\r\nThis list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-useraccounts/issues?q=is%3Aclosed+milestone%3A0.1.6).",
+        "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/0.1.6"
+      },
+      {
+        "version": "0.1.5",
+        "release_date": "2017-06-28T12:43:30+00:00",
+        "title": "Switchboard User Accounts Plug 0.1.5 Released",
+        "body": "switchboard-plug-useraccounts 0.1.5 is out!",
+        "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/0.1.5"
+      },
+      {
+        "version": "0.1.4",
+        "release_date": "2017-05-22T19:38:28+00:00",
+        "title": "Switchboard User Accounts Plug 0.1.4 Released",
+        "body": "switchboard-plug-useraccounts 0.1.4 is out!",
+        "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/0.1.4"
+      }
+    ],
+    "new_commits": 0,
+    "default_branch": "main"
+  },
+  {
+    "name": "switchboard-plug-keyboard",
+    "releases": [
+      {
+        "version": "8.0.0",
+        "release_date": "2024-07-26T17:15:44+00:00",
+        "title": "switchboard-plug-keyboard 8.0.0 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Updated shortcut category icons</li>\n<li>Improved screen reader accessibility</li>\n<li>New shortcut settings for launching dock items</li>\n<li>Clearer actions for managing keyboard layouts</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/8.0.0"
+      },
+      {
+        "version": "3.2.1",
+        "release_date": "2023-08-22T01:07:53+00:00",
+        "title": "Keyboard Settings 3.2.1 Released!",
+        "body": "## What's Changed\r\n* Layout: remove panel indicator settings by @danirabbit in https://github.com/elementary/switchboard-plug-keyboard/pull/454\r\n* Behavior: move onboard to the behavior tab by @danirabbit in https://github.com/elementary/switchboard-plug-keyboard/pull/455\r\n* Shortcuts: Allow assigning PrintScreen key by @ryonakano in https://github.com/elementary/switchboard-plug-keyboard/pull/457\r\n* InputMethod: Fix ProgressDialog is not used by @ryonakano in https://github.com/elementary/switchboard-plug-keyboard/pull/459\r\n* InstallEngineDialog: Replace stack with Deck by @ryonakano in https://github.com/elementary/switchboard-plug-keyboard/pull/458\r\n* Check if `Granite.accel_to_string` returns `null` by @lenemter in https://github.com/elementary/switchboard-plug-keyboard/pull/463\r\n* Layout: remove leftovers from onscreen keyboard by @lenemter in https://github.com/elementary/switchboard-plug-keyboard/pull/461\r\n* Add .editorconfig by @ryonakano in https://github.com/elementary/switchboard-plug-keyboard/pull/466\r\n* Drop `Pantheon` namespace by @lenemter in https://github.com/elementary/switchboard-plug-keyboard/pull/462\r\n* Add `switch-group` shortcut by @lenemter in https://github.com/elementary/switchboard-plug-keyboard/pull/464\r\n* Work around bug with duplicating input methods by @lenemter in https://github.com/elementary/switchboard-plug-keyboard/pull/468\r\n* 3.2.1 release notes by @lenemter in https://github.com/elementary/switchboard-plug-keyboard/pull/469\r\n* Release 3.2.1 by @lenemter in https://github.com/elementary/switchboard-plug-keyboard/pull/470\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/switchboard-plug-keyboard/compare/3.2.0...3.2.1",
+        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/3.2.1"
+      },
+      {
+        "version": "3.2.0",
+        "release_date": "2023-07-24T17:02:21+00:00",
+        "title": "Keyboard Settings 3.2.0 Released!",
+        "body": "## What's Changed\r\n* Switch to GHCR containers by @davidmhewitt in https://github.com/elementary/switchboard-plug-keyboard/pull/437\r\n* Add link to custom shortcuts by @lenemter in https://github.com/elementary/switchboard-plug-keyboard/pull/443\r\n* Behavior: modernize code style by @danirabbit in https://github.com/elementary/switchboard-plug-keyboard/pull/445\r\n* Behavior: Remove spinbuttons by @danirabbit in https://github.com/elementary/switchboard-plug-keyboard/pull/447\r\n* Behavior: add a11y settings by @danirabbit in https://github.com/elementary/switchboard-plug-keyboard/pull/446\r\n* Behavior: Remove trailing space in string by @lenemter in https://github.com/elementary/switchboard-plug-keyboard/pull/449\r\n* Metainfo Improvements by @danirabbit in https://github.com/elementary/switchboard-plug-keyboard/pull/450\r\n* Update screenshots by @danirabbit in https://github.com/elementary/switchboard-plug-keyboard/pull/453\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/switchboard-plug-keyboard/compare/3.1.1...3.2.0",
+        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/3.2.0"
+      },
+      {
+        "version": "3.1.1",
+        "release_date": "2023-01-05T17:20:57+00:00",
+        "title": "Keyboard Settings 3.1.1 Released!",
+        "body": "## What's Changed\r\n* Gresource windows category icon by @danirabbit in https://github.com/elementary/switchboard-plug-keyboard/pull/428\r\n* ShortcutListBox: only add ShortcutRow when schema key is valid by @bobby285271 in https://github.com/elementary/switchboard-plug-keyboard/pull/427\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/switchboard-plug-keyboard/compare/3.1.0...3.1.1",
+        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/3.1.1"
+      },
+      {
+        "version": "3.1.0",
+        "release_date": "2022-10-21T22:09:45+00:00",
+        "title": "switchboard-plug-keyboard 3.1.0 Released",
+        "body": "<p>New features:</p>\n<ul>\n<li>Revert shortcuts to default</li>\n<li>Easily disable a shortcut</li>\n<li>Support Rime input method for Chinese</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Remove custom shortcuts from their menu</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/3.1.0"
+      },
+      {
+        "version": "3.0.0",
+        "release_date": "2022-05-10T16:57:19+00:00",
+        "title": "switchboard-plug-keyboard 3.0.0 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Update for OS 7</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/3.0.0"
+      },
+      {
+        "version": "2.7.0",
+        "release_date": "2022-04-07T06:57:29+00:00",
+        "title": "switchboard-plug-keyboard 2.7.0 Released",
+        "body": "<p>New features:</p>\n<ul>\n<li>Open Multitasking View with Super</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.7.0"
+      },
+      {
+        "version": "2.6.0",
+        "release_date": "2021-11-23T17:15:11+00:00",
+        "title": "switchboard-plug-keyboard 2.6.0 Released",
+        "body": "<p>New features:</p>\r\n<ul>\r\n<li>Redesigned custom shortcuts view</li>\r\n<li>On-screen keyboard switch in Layouts tab</li>\r\n</ul>\r\n<p>Minor updates:</p>\r\n<ul>\r\n<li>Updated translations</li>\r\n</ul>\r\n",
+        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.6.0"
+      },
+      {
+        "version": "2.5.1",
+        "release_date": "2021-09-22T20:38:10+00:00",
+        "title": "Keyboard Settings 2.5.1 Released",
+        "body": "Minor updates:\r\n* Ensure IBus automatically starts on login when needed\r\n* Updated translations",
+        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.5.1"
+      },
+      {
+        "version": "2.5.0",
+        "release_date": "2021-07-14T21:00:05+00:00",
+        "title": "switchboard-plug-keyboard 2.5.0 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Add Layout popover is now a dialog</li>\n<li>Guarantee we always have at least one layout</li>\n<li>Improvements to ibus and xkb layouts</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.5.0"
+      },
+      {
+        "version": "2.4.1",
+        "release_date": "2020-09-03T21:54:43+00:00",
+        "title": "switchboard-plug-keyboard 2.4.1 Released",
+        "body": "<p>Shortcut description for \"Play\" is now \"Play/Pause\"</p>\n<p>Fix an issue where some shortcuts would incorrectly show as disabled</p>\n<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.4.1"
+      },
+      {
+        "version": "2.4.0",
+        "release_date": "2020-08-07T18:14:32+00:00",
+        "title": "switchboard-plug-keyboard 2.4.0 Released",
+        "body": "<p>Add a view to configure input methods</p>\n<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.4.0"
+      },
+      {
+        "version": "2.3.6",
+        "release_date": "2020-04-01T23:34:57+00:00",
+        "title": "switchboard-plug-keyboard 2.3.6 Released",
+        "body": "switchboard-plug-keyboard 2.3.6 is out! \n\n<p>New \"Workspaces\" icon</p>\n<p>Exclude Space from single-key shortcuts</p>\n<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.3.6"
+      },
+      {
+        "version": "2.3.5",
+        "release_date": "2019-03-06T09:03:16+00:00",
+        "title": "Switchboard Keyboard Plug 2.3.5 Released",
+        "body": "switchboard-plug-keyboard 2.3.5 is out!\r\n\r\nChanges:\r\n* Search keyword improvements\r\n* Added window `Close` keybinding option\r\n* Keyboard navigation fix\r\n* Build system fix for `gnomekbdui` dependency\r\n* More accurate and consistent labels\r\n* Change appdata id to `io.elementary.switchboard.keyboard`\r\n* Updated translations",
+        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.3.5"
+      },
+      {
+        "version": "2.3.4",
+        "release_date": "2018-10-16T00:27:00+00:00",
+        "title": "Switchboard Keyboard Plug 2.3.4 Released",
+        "body": "switchboard-plug-keyboard 2.3.4 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-keyboard/issues?q=is%3Aclosed+milestone%3A2.3.4).",
+        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.3.4"
+      },
+      {
+        "version": "0.3.3",
+        "release_date": "2018-06-08T16:39:32+00:00",
+        "title": "Switchboard Keyboard Plug 0.3.3 Released",
+        "body": "switchboard-plug-keyboard 0.3.3 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-keyboard/issues?q=is%3Aclosed+milestone%3A0.3.3).",
+        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
+      }
+    ],
+    "new_commits": 0,
+    "default_branch": "main"
+  },
+  {
+    "name": "switchboard-plug-sharing",
+    "releases": [
+      {
+        "version": "8.0.0",
+        "release_date": "2024-07-26T17:15:25+00:00",
+        "title": "switchboard-plug-sharing 8.0.0 Released",
+        "body": "<ul>\n<li>Bluetooth sharing options</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-sharing/releases/tag/8.0.0"
+      },
+      {
+        "version": "2.1.6",
+        "release_date": "2022-10-21T22:07:24+00:00",
+        "title": "switchboard-plug-sharing 2.1.6 Released",
+        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-sharing/releases/tag/2.1.6"
+      },
+      {
+        "version": "2.1.5",
+        "release_date": "2021-07-13T23:29:56+00:00",
+        "title": "switchboard-plug-sharing 2.1.5 Released",
+        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-sharing/releases/tag/2.1.5"
+      },
+      {
+        "version": "2.1.4",
+        "release_date": "2020-04-01T23:43:41+00:00",
+        "title": "switchboard-plug-sharing 2.1.4 Released",
+        "body": "switchboard-plug-sharing 2.1.4 is out! \n\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-sharing/releases/tag/2.1.4"
+      },
+      {
+        "version": "2.1.3",
+        "release_date": "2018-10-16T01:08:01+00:00",
+        "title": "Switchboard Sharing Plug 2.1.3 Released",
+        "body": "switchboard-plug-sharing 2.1.3 is out!\r\n\r\nThis release includes updated translations.",
+        "href": "https://github.com/elementary/switchboard-plug-sharing/releases/tag/2.1.3"
+      },
+      {
+        "version": "0.1.2",
+        "release_date": "2018-06-07T11:36:51+00:00",
+        "title": "Switchboard Sharing Plug 0.1.2 Released",
+        "body": "switchboard-plug-sharing 0.1.2 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-sharing/issues?q=is%3Aclosed+milestone%3A0.1.2).",
+        "href": "https://github.com/elementary/switchboard-plug-sharing/releases/tag/0.1.2"
+      }
+    ],
+    "new_commits": 0,
+    "default_branch": "main"
+  },
+  {
+    "name": "switchboard-plug-printers",
+    "releases": [
+      {
+        "version": "8.0.0",
+        "release_date": "2024-07-26T17:13:39+00:00",
+        "title": "switchboard-plug-printers 8.0.0 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Improved screen reader support</li>\n<li>Provide feedback for form validation when adding printers</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-printers/releases/tag/8.0.0"
+      },
+      {
+        "version": "2.2.1",
+        "release_date": "2022-10-21T22:06:51+00:00",
+        "title": "switchboard-plug-printers 2.2.1 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-printers/releases/tag/2.2.1"
+      },
+      {
+        "version": "2.2.0",
+        "release_date": "2022-06-29T17:37:32+00:00",
+        "title": "switchboard-plug-printers 2.2.0 Released",
+        "body": "<p>New Features:</p>\n<ul>\n<li>Allow clearing the queue for each printer</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Improved job row layout</li>\n<li>Show the supported language for each driver</li>\n<li>Show color names below ink levels</li>\n<li>Avoid expanding the window for printers with many ink levels</li>\n<li>Use newer add/remove list pattern</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Update sidebar after adding or removing printer</li>\n<li>Update sidebar after enabling or disabling printer</li>\n<li>Update job list after job state change</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-printers/releases/tag/2.2.0"
+      },
+      {
+        "version": "2.1.10",
+        "release_date": "2021-07-21T20:19:39+00:00",
+        "title": "switchboard-plug-printers 2.1.10 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-printers/releases/tag/2.1.10"
+      },
+      {
+        "version": "2.1.9",
+        "release_date": "2020-05-28T18:51:27+00:00",
+        "title": "switchboard-plug-printers 2.1.9 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-printers/releases/tag/2.1.9"
+      },
+      {
+        "version": "2.1.8",
+        "release_date": "2020-04-03T20:26:40+00:00",
+        "title": "switchboard-plug-printers 2.1.8 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-printers/releases/tag/2.1.8"
+      },
+      {
+        "version": "2.1.7",
+        "release_date": "2019-11-15T22:46:44+00:00",
+        "title": "switchboard-plug-printers 2.1.7 Released",
+        "body": "switchboard-plug-printers 2.1.7 is out! \n\nChanges:\n\n* Show a default name if a printer is unnamed\n* Updated translations\n",
+        "href": "https://github.com/elementary/switchboard-plug-printers/releases/tag/2.1.7"
+      },
+      {
+        "version": "2.1.6",
+        "release_date": "2018-11-28T11:34:33+00:00",
+        "title": "Switchboard Printers Plug 2.1.6 Released",
+        "body": "switchboard-plug-printers 2.1.6 is out!\r\n\r\nChanges:\r\n* Fix issue where printers are disabled upon viewing in plug\r\n* Updated translations",
+        "href": "https://github.com/elementary/switchboard-plug-printers/releases/tag/2.1.6"
+      },
+      {
+        "version": "2.1.5",
+        "release_date": "2018-10-15T21:50:47+00:00",
+        "title": "Switchboard Printers Plug 2.1.5 Released",
+        "body": "switchboard-plug-printers 2.1.5 is out!\r\n\r\nThis release includes updated translations and CSS fixes.",
+        "href": "https://github.com/elementary/switchboard-plug-printers/releases/tag/2.1.5"
+      },
+      {
+        "version": "2.1.4",
+        "release_date": "2018-10-09T14:36:12+00:00",
+        "title": "Switchboard Printers Plug 2.1.4 Released",
+        "body": "switchboard-plug-printers 2.1.4 is out!\r\n\r\nThis release includes updated translations and CSS fixes.",
+        "href": "https://github.com/elementary/switchboard-plug-printers/releases/tag/2.1.4"
+      },
+      {
+        "version": "0.1.3",
+        "release_date": "2018-06-08T13:09:39+00:00",
+        "title": "Switchboard Printers Plug 0.1.3 Released",
+        "body": "switchboard-plug-printers 0.1.3 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-printers/issues?q=is%3Aclosed+milestone%3A0.1.3).",
+        "href": "https://github.com/elementary/switchboard-plug-printers/releases/tag/0.1.3"
+      },
+      {
+        "version": "0.1.2",
+        "release_date": "2017-10-16T15:55:12+00:00",
+        "title": "Switchboard Printers Plug 0.1.2 Released",
+        "body": "switchboard-plug-printers 0.1.2 is out!\r\n\r\n## What's new:\r\n* Allow canceling halted jobs\r\n* Allow renaming printer location\r\n* Ensure that jobs can made visible\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-printers/issues?q=is%3Aclosed+milestone%3A0.1.2).",
+        "href": "https://github.com/elementary/switchboard-plug-printers/releases/tag/0.1.2"
+      },
+      {
+        "version": "0.1.1",
+        "release_date": "2017-07-12T19:36:34+00:00",
+        "title": "Switchboard Printers Plug 0.1.1 Released",
+        "body": "switchboard-plug-printers 0.1.1 is out!",
+        "href": "https://github.com/elementary/switchboard-plug-printers/releases/tag/0.1.1"
+      }
+    ],
+    "new_commits": 0,
+    "default_branch": "main"
+  },
+  {
+    "name": "switchboard-plug-network",
+    "releases": [
+      {
+        "version": "8.0.0",
+        "release_date": "2024-07-26T17:12:42+00:00",
+        "title": "switchboard-plug-network 8.0.0 Released",
+        "body": "<p>Minor updates</p>\n<ul>\n<li>Provide description text on the VPN page</li>\n<li>Show connected Wi-Fi network name in sidebar</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-network/releases/tag/8.0.0"
+      },
+      {
+        "version": "2.5.0",
+        "release_date": "2024-01-05T19:38:58+00:00",
+        "title": "switchboard-plug-network 2.5.0 Released",
+        "body": "<p>New features</p>\n<ul>\n<li>WireGuard support</li>\n<li>OWE support</li>\n</ul>\n<p>Minor updates</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-network/releases/tag/2.5.0"
+      },
+      {
+        "version": "2.4.4",
+        "release_date": "2022-10-21T22:06:34+00:00",
+        "title": "switchboard-plug-network 2.4.4 Released",
+        "body": "<p>Minor updates</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-network/releases/tag/2.4.4"
+      },
+      {
+        "version": "2.4.3",
+        "release_date": "2022-07-03T07:59:59+00:00",
+        "title": "switchboard-plug-network 2.4.3 Released",
+        "body": "<p>Fixes:</p>\n<ul>\n<li>Show correct info for WPA3 networks</li>\n</ul>\n<p>Minor updates</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-network/releases/tag/2.4.3"
+      },
+      {
+        "version": "2.4.2",
+        "release_date": "2022-01-26T18:01:28+00:00",
+        "title": "switchboard-plug-network 2.4.2 Released",
+        "body": "<p>Minor updates</p>\n<ul>\n<li>Fix an issue with wired connections repeatedly reconnecting</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-network/releases/tag/2.4.2"
+      },
+      {
+        "version": "2.4.1",
+        "release_date": "2021-09-08T20:48:37+00:00",
+        "title": "switchboard-plug-network 2.4.1 Released",
+        "body": "Minor updates\r\n* Fix a crash on startup for some devices\r\n* Updated translations",
+        "href": "https://github.com/elementary/switchboard-plug-network/releases/tag/2.4.1"
+      },
+      {
+        "version": "2.4.0",
+        "release_date": "2021-07-14T20:49:52+00:00",
+        "title": "switchboard-plug-network 2.4.0 Released",
+        "body": "<p>Minor updates</p>\n<ul>\n<li>Show message when Ethernet is unplugged</li>\n<li>Show DNS info</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-network/releases/tag/2.4.0"
+      },
+      {
+        "version": "2.3.3",
+        "release_date": "2020-10-08T18:33:19+00:00",
+        "title": "switchboard-plug-network 2.3.3 Released",
+        "body": "<p>Minor updates</p>\n<ul>\n<li>Better status when wireless network is disabled</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-network/releases/tag/2.3.3"
+      },
+      {
+        "version": "2.3.2",
+        "release_date": "2020-09-03T21:38:20+00:00",
+        "title": "switchboard-plug-network 2.3.2 Released",
+        "body": "<p>Minor updates</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-network/releases/tag/2.3.2"
+      },
+      {
+        "version": "2.3.1",
+        "release_date": "2020-05-28T22:40:54+00:00",
+        "title": "switchboard-plug-network 2.3.1 Released",
+        "body": "<p>Improvements</p>\n<ul>\n<li>Better support for various network encryption types</li>\n<li>More accurately report encryption type</li>\n</ul>\n<p>Minor updates</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-network/releases/tag/2.3.1"
+      },
+      {
+        "version": "2.3.0",
+        "release_date": "2020-04-01T23:10:56+00:00",
+        "title": "switchboard-plug-network 2.3.0 Released",
+        "body": "switchboard-plug-network 2.3.0 is out! \n\n<ul>\n<li>Redesigned Wireless page</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-network/releases/tag/2.3.0"
+      },
+      {
+        "version": "2.2.0",
+        "release_date": "2019-11-15T22:45:43+00:00",
+        "title": "switchboard-plug-network 2.2.0 Released",
+        "body": "switchboard-plug-network 2.2.0 is out! \n\nChanges:\n\n* Redesigned Hotspot and VPN pages\n* Fix subnet mask calculation\n* Show an error dialog if we fail to disconnect from a network\n* Updated translations\n",
+        "href": "https://github.com/elementary/switchboard-plug-network/releases/tag/2.2.0"
+      },
+      {
+        "version": "2.1.4",
+        "release_date": "2018-12-11T00:34:34+00:00",
+        "title": "Switchboard Networking Plug 2.1.4 Released",
+        "body": "switchboard-plug-networking 2.1.4 is out!\r\n\r\nChanges:\r\n* Improved search keywords\r\n* Spelling and term consistency\r\n* Updated translations",
+        "href": "https://github.com/elementary/switchboard-plug-network/releases/tag/2.1.4"
+      },
+      {
+        "version": "2.1.3",
+        "release_date": "2018-10-16T00:00:34+00:00",
+        "title": "Switchboard Networking Plug 2.1.3 Released",
+        "body": "switchboard-plug-networking 2.1.3 is out!\r\n\r\nThis release includes updated translations.",
+        "href": "https://github.com/elementary/switchboard-plug-network/releases/tag/2.1.3"
+      },
+      {
+        "version": "0.1.2",
+        "release_date": "2018-06-08T16:26:47+00:00",
+        "title": "Switchboard Networking Plug 0.1.2 Released",
+        "body": "switchboard-plug-networking 0.1.2 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-networking/issues?q=is%3Aclosed+milestone%3A0.1.2).",
+        "href": "https://github.com/elementary/switchboard-plug-network/releases/tag/0.1.2"
+      },
+      {
+        "version": "0.1.1",
+        "release_date": "2017-09-15T09:58:26+00:00",
+        "title": "Switchboard Network Plug 0.1.1 Released",
+        "body": "switchboard-plug-networking 0.1.1 is out!\r\n\r\n**Changelog:**\r\n* Fix SOCKS proxy availability\r\n* Add an explanation for hotspot\r\n* Fix incorrect \"null\" string in supported settings value\r\n* Ignore virtual machine interfaces\r\n* Correct spelling of Wi-Fi and WLAN",
+        "href": "https://github.com/elementary/switchboard-plug-network/releases/tag/0.1.1"
+      }
+    ],
+    "new_commits": 0,
+    "default_branch": "main"
+  },
+  {
+    "name": "switchboard-plug-power",
+    "releases": [
+      {
+        "version": "8.0.0",
+        "release_date": "2024-07-26T17:11:40+00:00",
+        "title": "switchboard-plug-power 8.0.0 Released",
+        "body": "<p>New features:</p>\n<ul>\n<li>Show computer batteries and batteries for connected devices</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Fix a potential freeze when getting advanced permissions</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-power/releases/tag/8.0.0"
+      },
+      {
+        "version": "2.7.0",
+        "release_date": "2022-05-18T05:01:37+00:00",
+        "title": "switchboard-plug-power 2.7.0 Released",
+        "body": "<p>New features:</p>\n<ul>\n<li>Add power profile management</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-power/releases/tag/2.7.0"
+      },
+      {
+        "version": "2.6.0",
+        "release_date": "2021-08-24T20:44:11+00:00",
+        "title": "switchboard-plug-power 2.6.0 Released",
+        "body": "<p>New features:</p>\n<ul>\n<li>Add toggle for showing battery percentage in Panel</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Fix a potential issue with resuming from sleep</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-power/releases/tag/2.6.0"
+      },
+      {
+        "version": "2.5.0",
+        "release_date": "2021-07-14T20:59:19+00:00",
+        "title": "switchboard-plug-power 2.5.0 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Change lid settings without restarting</li>\n<li>Show in search results for \"sleep\" and \"timeout\"</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-power/releases/tag/2.5.0"
+      },
+      {
+        "version": "2.4.2",
+        "release_date": "2020-05-16T21:31:17+00:00",
+        "title": "switchboard-plug-power 2.4.2 Released",
+        "body": "<p>Fix potential freeze when changing settings from multiple panes</p>\n<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/switchboard-plug-power/releases/tag/2.4.2"
+      },
+      {
+        "version": "2.4.1",
+        "release_date": "2020-04-01T23:33:34+00:00",
+        "title": "switchboard-plug-power 2.4.1 Released",
+        "body": "switchboard-plug-power 2.4.1 is out! \n\n<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/switchboard-plug-power/releases/tag/2.4.1"
+      },
+      {
+        "version": "2.4.0",
+        "release_date": "2019-11-15T22:48:03+00:00",
+        "title": "switchboard-plug-power 2.4.0 Released",
+        "body": "switchboard-plug-power 2.4.0 is out! \n\nChanges:\n\n* Remove broken hibernate option\n* Add prompt to shutdown to power button actions\n* Updated translations\n",
+        "href": "https://github.com/elementary/switchboard-plug-power/releases/tag/2.4.0"
+      },
+      {
+        "version": "2.3.5",
+        "release_date": "2019-01-29T07:15:14+00:00",
+        "title": "Switchboard Power Plug 2.3.5 Released",
+        "body": "switchboard-plug-power 2.3.5 is out!\r\n\r\nChanges:\r\n* Updated translations",
+        "href": "https://github.com/elementary/switchboard-plug-power/releases/tag/2.3.5"
+      },
+      {
+        "version": "2.3.4",
+        "release_date": "2018-10-10T15:23:27+00:00",
+        "title": "Switchboard Power Plug 2.3.4 Released",
+        "body": "switchboard-plug-power 2.3.4 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-power/issues?q=is%3Aclosed+milestone%3A2.3.4).",
+        "href": "https://github.com/elementary/switchboard-plug-power/releases/tag/2.3.4"
+      },
+      {
+        "version": "0.3.3",
+        "release_date": "2018-06-08T13:35:19+00:00",
+        "title": "Switchboard Plug Power 0.3.3 Released",
+        "body": "switchboard-plug-power 0.3.3 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-power/issues?q=is%3Aclosed+milestone%3A0.3.3).",
+        "href": "https://github.com/elementary/switchboard-plug-power/releases/tag/0.3.3"
+      },
+      {
+        "version": "0.3.2",
+        "release_date": "2017-07-19T18:59:28+00:00",
+        "title": "Switchboard Plug Power 0.3.2 Released",
+        "body": "switchboard-plug-power 0.3.2 is out!\r\n\r\nThe list of issues closed for this release can be found [here](https://github.com/elementary/switchboard-plug-power/milestone/2?closed=1).",
+        "href": "https://github.com/elementary/switchboard-plug-power/releases/tag/0.3.2"
+      },
+      {
+        "version": "0.3.1",
+        "release_date": "2017-05-11T07:31:06+00:00",
+        "title": "Switchboard Plug Power 0.3.1 Released",
+        "body": "switchboard-plug-power 0.3.1 is out!\r\n\r\nSee a list of associated issues [here](https://github.com/elementary/switchboard-plug-power/milestone/1?closed=1)",
+        "href": "https://github.com/elementary/switchboard-plug-power/releases/tag/0.3.1"
+      }
+    ],
+    "new_commits": 0,
+    "default_branch": "main"
+  },
+  {
+    "name": "switchboard-plug-locale",
+    "releases": [
+      {
+        "version": "8.0.0",
+        "release_date": "2024-07-26T17:11:04+00:00",
+        "title": "switchboard-plug-locale 8.0.0 Released",
+        "body": "<p>A big redesign!</p>\n<ul>\n<li>Prevent fcitx5 packages from being installed</li>\n<li>Add links to other places locale-related settings are managed</li>\n<li>Improve screen reader accessibility</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/8.0.0"
+      },
+      {
+        "version": "2.5.9",
+        "release_date": "2023-05-03T17:11:13+00:00",
+        "title": "Locale Settings 2.5.9 Released!",
+        "body": "## What's Changed\r\n* Remove unused variable by @lenemter in https://github.com/elementary/switchboard-plug-locale/pull/166\r\n* master: Switch to GHCR containers by @davidmhewitt in https://github.com/elementary/switchboard-plug-locale/pull/174\r\n* Cherry pick commits for 2.5.9 by @lenemter in https://github.com/elementary/switchboard-plug-locale/pull/180\r\n\r\n## New Contributors\r\n* @lenemter made their first contribution in https://github.com/elementary/switchboard-plug-locale/pull/166\r\n\r\n**Full Changelog**: https://github.com/elementary/switchboard-plug-locale/compare/2.5.8...2.5.9",
+        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.5.9"
+      },
+      {
+        "version": "2.5.8",
+        "release_date": "2022-05-12T16:36:41+00:00",
+        "title": "switchboard-plug-locale 2.5.8 Released",
+        "body": "<p>Fixes:</p>\n<ul>\n<li>Translate authentication dialog description text</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.5.8"
+      },
+      {
+        "version": "2.5.7",
+        "release_date": "2022-04-13T12:51:23+00:00",
+        "title": "switchboard-plug-locale 2.5.7 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Central Kurdish is now available as an installable language</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Support installation and removal of languages with 3-letter codes</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.5.7"
+      },
+      {
+        "version": "2.5.6",
+        "release_date": "2021-11-18T20:13:42+00:00",
+        "title": "Locale Settings 2.5.6 Released",
+        "body": "## What's Changed\r\n* Select correct format after install/remove by @davidmhewitt in https://github.com/elementary/switchboard-plug-locale/pull/148\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/switchboard-plug-locale/compare/2.5.5...2.5.6",
+        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.5.6"
+      },
+      {
+        "version": "2.5.5",
+        "release_date": "2021-10-26T17:51:10+00:00",
+        "title": "Locale Settings 2.5.5 Released",
+        "body": "<p>Fixes:</p>\r\n<ul>\r\n<li>Support locales with 3-letter codes</li>\r\n</ul>\r\n<p>Minor updates:</p>\r\n<ul>\r\n<li>Better support for non-Ubuntu based distributions</li>\r\n<li>Updated translations</li>\r\n</ul>",
+        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.5.5"
+      },
+      {
+        "version": "2.5.4",
+        "release_date": "2021-07-14T20:49:44+00:00",
+        "title": "switchboard-plug-locale 2.5.4 Released",
+        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.5.4"
+      },
+      {
+        "version": "2.5.3",
+        "release_date": "2021-01-05T21:59:55+00:00",
+        "title": "switchboard-plug-locale 2.5.3 Released",
+        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.5.3"
+      },
+      {
+        "version": "2.5.2",
+        "release_date": "2020-05-28T23:42:54+00:00",
+        "title": "switchboard-plug-locale 2.5.2 Released",
+        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.5.2"
+      },
+      {
+        "version": "2.5.1",
+        "release_date": "2020-04-01T22:48:03+00:00",
+        "title": "switchboard-plug-locale 2.5.1 Released",
+        "body": "switchboard-plug-locale 2.5.1 is out! \n\n<ul>\n<li>Fix an issue with cancelling language installation</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.5.1"
+      },
+      {
+        "version": "2.5.0",
+        "release_date": "2019-11-15T23:09:58+00:00",
+        "title": "switchboard-plug-locale 2.5.0 Released",
+        "body": "switchboard-plug-locale 2.5.0 is out! \n\nChanges:\n\n* Redesigned Install Language popover\n* Asks for permission when needed. No more extra InfoBar\n* Installtion progress InfoBar is now a Dialog\n* Language list properly updates when adding or removing languages\n* Updated translations\n",
+        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.5.0"
+      },
+      {
+        "version": "2.4.1",
+        "release_date": "2018-12-19T06:28:04+00:00",
+        "title": "Switchboard Locale Plug 2.4.1 Released",
+        "body": "switchboard-plug-locale 2.4.1 is out!\r\n\r\nChanges:\r\n* Better search keywords\r\n* Don't restrict locale length\r\n* Updated translations",
+        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.4.1"
+      },
+      {
+        "version": "2.4.0",
+        "release_date": "2018-10-15T21:26:12+00:00",
+        "title": "Switchboard Locale Plug 2.4.0 Released",
+        "body": "switchboard-plug-locale 2.4.0 is out!\r\n\r\nThis list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-locale/issues?q=is%3Aclosed+milestone%3A2.4.0).",
+        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.4.0"
+      },
+      {
+        "version": "0.2.3",
+        "release_date": "2017-05-22T20:19:26+00:00",
+        "title": "Switchboard Locale Plug 0.2.3 Released",
+        "body": "switchboard-plug-locale 0.2.3 is out!",
+        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/0.2.3"
+      },
+      {
+        "version": "0.2.2",
+        "release_date": "2017-05-12T08:27:01+00:00",
+        "title": "Switchboard Locale Plug 0.2.2 Released",
+        "body": "switchboard-plug-locale 0.2.2 is out!",
+        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/0.2.2"
+      }
+    ],
+    "new_commits": 0,
+    "default_branch": "main"
+  },
+  {
+    "name": "switchboard-plug-mouse-touchpad",
+    "releases": [
+      {
+        "version": "8.0.0",
+        "release_date": "2024-07-26T17:10:36+00:00",
+        "title": "switchboard-plug-mouse-touchpad 8.0.0 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Redesigned, easier to read views with more helpful descriptions</li>\n<li>Add \"Cycle windows\" and \"Move active window to workspace\" as gesture options</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/8.0.0"
+      },
+      {
+        "version": "7.0.0",
+        "release_date": "2022-05-12T16:51:49+00:00",
+        "title": "switchboard-plug-mouse-touchpad 7.0.0 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Update for OS 7</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/7.0.0"
+      },
+      {
+        "version": "6.1.0",
+        "release_date": "2021-09-22T20:37:25+00:00",
+        "title": "Mouse & Touchpad Settings 6.1.0 Released",
+        "body": "New features:\r\n* New toggle for “Double-tap and move to drag”\r\n\r\nMinor updates:\r\n* Updated translations",
+        "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/6.1.0"
+      },
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-15T22:05:21+00:00",
+        "title": "switchboard-plug-mouse-touchpad 6.0.0 Released",
+        "body": "<p>New features:</p>\n<ul>\n<li>Multitouch gesture options</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Add more snap points to pointer speed sliders</li>\n<li>Multitouch gesture options</li>\n<li>Redesigned touchpad settings</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/6.0.0"
+      },
+      {
+        "version": "2.4.2",
+        "release_date": "2020-05-28T18:41:27+00:00",
+        "title": "switchboard-plug-mouse-touchpad 2.4.2 Released",
+        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/2.4.2"
+      },
+      {
+        "version": "2.4.1",
+        "release_date": "2020-04-08T20:16:18+00:00",
+        "title": "switchboard-plug-mouse-touchpad 2.4.1 Released",
+        "body": "<ul>\n<li>Fix stretched switches when using large text</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/2.4.1"
+      },
+      {
+        "version": "2.4.0",
+        "release_date": "2020-01-21T19:59:40+00:00",
+        "title": "switchboard-plug-mouse-touchpad 2.4.0 Released",
+        "body": "switchboard-plug-mouse-touchpad 2.4.0 is out! \n\n<p>New features:</p>\n<ul>\n<li>Add Dwell Click and Pointer size settings</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Also listen to secondary button clicks when selecting Primary Button</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/2.4.0"
+      },
+      {
+        "version": "2.3.1",
+        "release_date": "2019-12-01T21:54:25+00:00",
+        "title": "switchboard-plug-mouse-touchpad 2.3.1 Released",
+        "body": "switchboard-plug-mouse-touchpad 2.3.1 is out! \n\n<ul>\n<li>Fix an issue where primary button selection doesn't apply in left-to-right languages</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/2.3.1"
+      },
+      {
+        "version": "2.3.0",
+        "release_date": "2019-11-15T22:40:24+00:00",
+        "title": "switchboard-plug-mouse-touchpad 2.3.0 Released",
+        "body": "switchboard-plug-mouse-touchpad 2.3.0 is out! \n\nChanges:\n\n* New Sidebar navigation\n* Fix middle click not appearing\n* Add Double-Click speed\n* Updated translations\n",
+        "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/2.3.0"
+      },
+      {
+        "version": "2.2.0",
+        "release_date": "2019-04-11T03:47:58+00:00",
+        "title": "Switchboard Mouse & Touchpad Plug 2.2.0 Released",
+        "body": "switchboard-plug-mouse-touchpad 2.2.0 is out!\r\n\r\nChanges:\r\n* Added settings for\r\n  * Keypad pointer control\r\n  * Ignoring touchpad when external mouse is connected\r\n  * Long-press secondary click\r\n* Use org.gnome.settings-daemon.plugins.xsettings for middle click paste\r\n* Refactored layout and added icons\r\n* Improved search terms\r\n* Updated translations",
+        "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/2.2.0"
+      },
+      {
+        "version": "2.1.4",
+        "release_date": "2018-10-15T21:15:34+00:00",
+        "title": "Switchboard Mouse & Touchpad Plug 2.1.4 Released",
+        "body": "switchboard-plug-mouse-touchpad 2.1.4 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-mouse-touchpad/issues?q=is%3Aclosed+milestone%3A2.1.4).",
+        "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/2.1.4"
+      },
+      {
+        "version": "0.1.3",
+        "release_date": "2018-06-07T14:02:00+00:00",
+        "title": "Switchboard Mouse & Touchpad Plug 0.1.3 Released",
+        "body": "switchboard-plug-mouse-touchpad 0.1.3 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-mouse-touchpad/issues?q=is%3Aclosed+milestone%3A0.1.3).",
+        "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/0.1.3"
+      }
+    ],
+    "new_commits": 0,
+    "default_branch": "main"
+  },
+  {
+    "name": "switchboard-plug-datetime",
+    "releases": [
+      {
+        "version": "8.0.0",
+        "release_date": "2024-07-26T17:10:02+00:00",
+        "title": "switchboard-plug-datetime 8.0.0 Released",
+        "body": "<p>Minor updates</p>\n<ul>\n<li>Improved screen reader support</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-datetime/releases/tag/8.0.0"
+      },
+      {
+        "version": "2.2.0",
+        "release_date": "2021-07-15T22:19:35+00:00",
+        "title": "switchboard-plug-datetime 2.2.0 Released",
+        "body": "<p>Minor updates</p>\n<ul>\n<li>Move timezone popover contents to the main view</li>\n<li>Add options to show or hide the date, weekday, and seconds in the clock</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-datetime/releases/tag/2.2.0"
+      },
+      {
+        "version": "2.1.9",
+        "release_date": "2020-05-28T18:36:52+00:00",
+        "title": "switchboard-plug-datetime 2.1.9 Released",
+        "body": "<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/switchboard-plug-datetime/releases/tag/2.1.9"
+      },
+      {
+        "version": "2.1.8",
+        "release_date": "2020-05-18T17:43:20+00:00",
+        "title": "switchboard-plug-datetime 2.1.8 Released",
+        "body": "<p>Minor updates</p>\n<ul>\n<li>Fix potential freeze when changing settings from multiple panes</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-datetime/releases/tag/2.1.8"
+      },
+      {
+        "version": "2.1.7",
+        "release_date": "2020-04-03T18:37:06+00:00",
+        "title": "switchboard-plug-datetime 2.1.7 Released",
+        "body": "<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/switchboard-plug-datetime/releases/tag/2.1.7"
+      },
+      {
+        "version": "2.1.6",
+        "release_date": "2019-08-15T00:13:24+00:00",
+        "title": "Switchboard Date & Time Plug 2.1.6 Released",
+        "body": "switchboard-plug-datetime 2.1.6 is out!\r\n\r\n* Support TimeFormat of AccountsService\r\n* Remove deprecated timezone map\r\n* Automatic timezone is now a button and a respected setting\r\n* Fix week number visibility\r\n* Add appdata\r\n* Updated translations",
+        "href": "https://github.com/elementary/switchboard-plug-datetime/releases/tag/2.1.6"
+      },
+      {
+        "version": "2.1.5",
+        "release_date": "2018-12-10T21:20:43+00:00",
+        "title": "Switchboard Date & Time Plug 2.1.5 Released",
+        "body": "switchboard-plug-datetime 2.1.5 is out!\r\n\r\nChanges:\r\n* More robust error handling around timezones and cities\r\n* Updated translations",
+        "href": "https://github.com/elementary/switchboard-plug-datetime/releases/tag/2.1.5"
+      },
+      {
+        "version": "2.1.4",
+        "release_date": "2018-10-09T15:27:24+00:00",
+        "title": "Switchboard Date & Time Plug 2.1.4 Released",
+        "body": "switchboard-plug-datetime 2.1.4 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-datetime/issues?q=is%3Aclosed+milestone%3A2.1.4).",
+        "href": "https://github.com/elementary/switchboard-plug-datetime/releases/tag/2.1.4"
+      },
+      {
+        "version": "0.1.3",
+        "release_date": "2018-06-07T14:29:37+00:00",
+        "title": "Switchboard Date & Time Plug 0.1.3 Released",
+        "body": "switchboard-plug-datetime 0.1.3 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-datetime/issues?q=is%3Aclosed+milestone%3A0.1.3).",
+        "href": "https://github.com/elementary/switchboard-plug-datetime/releases/tag/0.1.3"
+      },
+      {
+        "version": "0.1.2",
+        "release_date": "2017-04-21T18:28:22+00:00",
+        "title": "Switchboard Date & Time Plug 0.1.2 Released",
+        "body": "switchboard-plug-datetime 0.1.2 is out!",
+        "href": "https://github.com/elementary/switchboard-plug-datetime/releases/tag/0.1.2"
+      }
+    ],
+    "new_commits": 0,
+    "default_branch": "main"
+  },
+  {
+    "name": "switchboard-plug-applications",
+    "releases": [
+      {
+        "version": "8.0.0",
+        "release_date": "2024-07-26T17:09:35+00:00",
+        "title": "switchboard-plug-applications 8.0.0 Released",
+        "body": "<p>A Big Redesign!</p>\n<ul>\n<li>A new icon</li>\n<li>Redesigned layout that makes it faster to get to app permissions</li>\n<li>Portal permissions like Backgrounding, Location, Screenshots, and Wallpapers</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-applications/releases/tag/8.0.0"
+      },
+      {
+        "version": "7.0.1",
+        "release_date": "2023-08-27T16:54:32+00:00",
+        "title": "switchboard-plug-applications 7.0.1 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-applications/releases/tag/7.0.1"
+      },
+      {
+        "version": "7.0.0",
+        "release_date": "2023-06-26T15:46:29+00:00",
+        "title": "Applications Settings 7.0.0 Released!",
+        "body": "## What's Changed\r\n* Suppress critical messages on startup by @jeremypw in https://github.com/elementary/switchboard-plug-applications/pull/174\r\n* master: Switch to GHCR containers by @davidmhewitt in https://github.com/elementary/switchboard-plug-applications/pull/178\r\n* KeyFile: Make show and active Follow the Autostart Spec by @Marukesu in https://github.com/elementary/switchboard-plug-applications/pull/184\r\n* Metainfo Improvements by @danirabbit in https://github.com/elementary/switchboard-plug-applications/pull/186\r\n* Defaults: rewrite, responsive by @danirabbit in https://github.com/elementary/switchboard-plug-applications/pull/188\r\n* Defaults: disallow focusing flowboxchild by @danirabbit in https://github.com/elementary/switchboard-plug-applications/pull/189\r\n* DefaultPlug: remove utils class, simplify by @danirabbit in https://github.com/elementary/switchboard-plug-applications/pull/193\r\n* Ship our own icon by @danirabbit in https://github.com/elementary/switchboard-plug-applications/pull/190\r\n* Startup: AppChooser is a dialog by @danirabbit in https://github.com/elementary/switchboard-plug-applications/pull/192\r\n* Startup: clean up, clamp, backport from Gtk4 by @danirabbit in https://github.com/elementary/switchboard-plug-applications/pull/191\r\n* Permissions: Gtk4 prep by @danirabbit in https://github.com/elementary/switchboard-plug-applications/pull/194\r\n* Startup: text button for add, inline remove by @danirabbit in https://github.com/elementary/switchboard-plug-applications/pull/195\r\n* DefaultPlug: flowboxchild can't be selected with pointer by @danirabbit in https://github.com/elementary/switchboard-plug-applications/pull/198\r\n* DefaultPlug: add to scrolledwindow by @danirabbit in https://github.com/elementary/switchboard-plug-applications/pull/197\r\n* DefaultPlug: Set accessible name for combo boxes by @lenemter in https://github.com/elementary/switchboard-plug-applications/pull/200\r\n* AppChooser: Set accessible name by @lenemter in https://github.com/elementary/switchboard-plug-applications/pull/201\r\n* Permissions: Set accessible names by @lenemter in https://github.com/elementary/switchboard-plug-applications/pull/202\r\n* Permissions: Disable reset button if already default by @lenemter in https://github.com/elementary/switchboard-plug-applications/pull/203\r\n\r\n## New Contributors\r\n* @Marukesu made their first contribution in https://github.com/elementary/switchboard-plug-applications/pull/184\r\n* @lenemter made their first contribution in https://github.com/elementary/switchboard-plug-applications/pull/200\r\n\r\n**Full Changelog**: https://github.com/elementary/switchboard-plug-applications/compare/6.0.1...7.0.0",
+        "href": "https://github.com/elementary/switchboard-plug-applications/releases/tag/7.0.0"
+      },
+      {
+        "version": "6.0.1",
+        "release_date": "2021-09-27T20:30:50+00:00",
+        "title": "Applications Settings 6.0.1 Released",
+        "body": "<p>Minor updates:</p>\r\n<ul>\r\n<li>Fix an issue with setting the incorrect app for certain files types</li>\r\n<li>Don't overwrite custom overrides when unnecessary</li>\r\n<li>Updated translations</li>\r\n</ul>",
+        "href": "https://github.com/elementary/switchboard-plug-applications/releases/tag/6.0.1"
+      },
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-15T21:58:48+00:00",
+        "title": "switchboard-plug-applications 6.0.0 Released",
+        "body": "<p>New features:</p>\n<ul>\n<li>Manage permissions for Flatpak apps</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Show custom launcher files</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-applications/releases/tag/6.0.0"
+      },
+      {
+        "version": "2.1.7",
+        "release_date": "2020-04-08T20:13:26+00:00",
+        "title": "switchboard-plug-applications 2.1.7 Released",
+        "body": "<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/switchboard-plug-applications/releases/tag/2.1.7"
+      },
+      {
+        "version": "2.1.6",
+        "release_date": "2019-11-15T22:17:50+00:00",
+        "title": "switchboard-plug-applications 2.1.6 Released",
+        "body": "switchboard-plug-applications 2.1.6 is out! \n\nChanges:\n\n* Fix issues with OnlyShowIn and Snap apps\n* Updated translations\n",
+        "href": "https://github.com/elementary/switchboard-plug-applications/releases/tag/2.1.6"
+      },
+      {
+        "version": "2.1.5",
+        "release_date": "2019-01-28T13:18:32+00:00",
+        "title": "Switchboard Applications Plug 2.1.5 Released",
+        "body": "switchboard-plug-applications 2.1.5 is out!\r\n\r\nChanges:\r\n* Search keyword improvements\r\n* Updated translations",
+        "href": "https://github.com/elementary/switchboard-plug-applications/releases/tag/2.1.5"
+      },
+      {
+        "version": "2.1.4",
+        "release_date": "2018-10-16T00:59:53+00:00",
+        "title": "Switchboard Applications Plug 2.1.4 Released",
+        "body": "switchboard-plug-applications 2.1.4 is out!\r\n\r\nThis release includes updated translations.\r\n",
+        "href": "https://github.com/elementary/switchboard-plug-applications/releases/tag/2.1.4"
+      },
+      {
+        "version": "0.1.3.1",
+        "release_date": "2018-06-22T07:58:10+00:00",
+        "title": "Switchboard Applications Plug 0.1.3.1 Released",
+        "body": "switchboard-plug-applications 0.1.3.1 is out!\r\n\r\nThis release includes the following changes:\r\n* Problematic AppData character removed\r\n* New translations",
+        "href": "https://github.com/elementary/switchboard-plug-applications/releases/tag/0.1.3.1"
+      },
+      {
+        "version": "0.1.3",
+        "release_date": "2018-06-07T13:18:19+00:00",
+        "title": "Switchboard Applications Plug 0.1.3 Released",
+        "body": "switchboard-plug-applications 0.1.3 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-applications/issues?q=is%3Aclosed+milestone%3A0.1.3).",
+        "href": "https://github.com/elementary/switchboard-plug-applications/releases/tag/0.1.3"
+      },
+      {
+        "version": "0.1.2",
+        "release_date": "2017-02-11T18:48:19+00:00",
+        "title": "",
+        "body": "",
+        "href": "https://github.com/elementary/switchboard-plug-applications/releases/tag/0.1.2"
+      }
+    ],
+    "new_commits": 0,
+    "default_branch": "main"
+  },
+  {
     "name": "switchboard-plug-notifications",
     "releases": [
       {
@@ -3010,118 +4249,6 @@
     "default_branch": "main"
   },
   {
-    "name": "switchboard-plug-network",
-    "releases": [
-      {
-        "version": "2.5.0",
-        "release_date": "2024-01-05T19:38:58+00:00",
-        "title": "switchboard-plug-network 2.5.0 Released",
-        "body": "<p>New features</p>\n<ul>\n<li>WireGuard support</li>\n<li>OWE support</li>\n</ul>\n<p>Minor updates</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-network/releases/tag/2.5.0"
-      },
-      {
-        "version": "2.4.4",
-        "release_date": "2022-10-21T22:06:34+00:00",
-        "title": "switchboard-plug-network 2.4.4 Released",
-        "body": "<p>Minor updates</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-network/releases/tag/2.4.4"
-      },
-      {
-        "version": "2.4.3",
-        "release_date": "2022-07-03T07:59:59+00:00",
-        "title": "switchboard-plug-network 2.4.3 Released",
-        "body": "<p>Fixes:</p>\n<ul>\n<li>Show correct info for WPA3 networks</li>\n</ul>\n<p>Minor updates</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-network/releases/tag/2.4.3"
-      },
-      {
-        "version": "2.4.2",
-        "release_date": "2022-01-26T18:01:28+00:00",
-        "title": "switchboard-plug-network 2.4.2 Released",
-        "body": "<p>Minor updates</p>\n<ul>\n<li>Fix an issue with wired connections repeatedly reconnecting</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-network/releases/tag/2.4.2"
-      },
-      {
-        "version": "2.4.1",
-        "release_date": "2021-09-08T20:48:37+00:00",
-        "title": "switchboard-plug-network 2.4.1 Released",
-        "body": "Minor updates\r\n* Fix a crash on startup for some devices\r\n* Updated translations",
-        "href": "https://github.com/elementary/switchboard-plug-network/releases/tag/2.4.1"
-      },
-      {
-        "version": "2.4.0",
-        "release_date": "2021-07-14T20:49:52+00:00",
-        "title": "switchboard-plug-network 2.4.0 Released",
-        "body": "<p>Minor updates</p>\n<ul>\n<li>Show message when Ethernet is unplugged</li>\n<li>Show DNS info</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-network/releases/tag/2.4.0"
-      },
-      {
-        "version": "2.3.3",
-        "release_date": "2020-10-08T18:33:19+00:00",
-        "title": "switchboard-plug-network 2.3.3 Released",
-        "body": "<p>Minor updates</p>\n<ul>\n<li>Better status when wireless network is disabled</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-network/releases/tag/2.3.3"
-      },
-      {
-        "version": "2.3.2",
-        "release_date": "2020-09-03T21:38:20+00:00",
-        "title": "switchboard-plug-network 2.3.2 Released",
-        "body": "<p>Minor updates</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-network/releases/tag/2.3.2"
-      },
-      {
-        "version": "2.3.1",
-        "release_date": "2020-05-28T22:40:54+00:00",
-        "title": "switchboard-plug-network 2.3.1 Released",
-        "body": "<p>Improvements</p>\n<ul>\n<li>Better support for various network encryption types</li>\n<li>More accurately report encryption type</li>\n</ul>\n<p>Minor updates</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-network/releases/tag/2.3.1"
-      },
-      {
-        "version": "2.3.0",
-        "release_date": "2020-04-01T23:10:56+00:00",
-        "title": "switchboard-plug-network 2.3.0 Released",
-        "body": "switchboard-plug-network 2.3.0 is out! \n\n<ul>\n<li>Redesigned Wireless page</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-network/releases/tag/2.3.0"
-      },
-      {
-        "version": "2.2.0",
-        "release_date": "2019-11-15T22:45:43+00:00",
-        "title": "switchboard-plug-network 2.2.0 Released",
-        "body": "switchboard-plug-network 2.2.0 is out! \n\nChanges:\n\n* Redesigned Hotspot and VPN pages\n* Fix subnet mask calculation\n* Show an error dialog if we fail to disconnect from a network\n* Updated translations\n",
-        "href": "https://github.com/elementary/switchboard-plug-network/releases/tag/2.2.0"
-      },
-      {
-        "version": "2.1.4",
-        "release_date": "2018-12-11T00:34:34+00:00",
-        "title": "Switchboard Networking Plug 2.1.4 Released",
-        "body": "switchboard-plug-networking 2.1.4 is out!\r\n\r\nChanges:\r\n* Improved search keywords\r\n* Spelling and term consistency\r\n* Updated translations",
-        "href": "https://github.com/elementary/switchboard-plug-network/releases/tag/2.1.4"
-      },
-      {
-        "version": "2.1.3",
-        "release_date": "2018-10-16T00:00:34+00:00",
-        "title": "Switchboard Networking Plug 2.1.3 Released",
-        "body": "switchboard-plug-networking 2.1.3 is out!\r\n\r\nThis release includes updated translations.",
-        "href": "https://github.com/elementary/switchboard-plug-network/releases/tag/2.1.3"
-      },
-      {
-        "version": "0.1.2",
-        "release_date": "2018-06-08T16:26:47+00:00",
-        "title": "Switchboard Networking Plug 0.1.2 Released",
-        "body": "switchboard-plug-networking 0.1.2 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-networking/issues?q=is%3Aclosed+milestone%3A0.1.2).",
-        "href": "https://github.com/elementary/switchboard-plug-network/releases/tag/0.1.2"
-      },
-      {
-        "version": "0.1.1",
-        "release_date": "2017-09-15T09:58:26+00:00",
-        "title": "Switchboard Network Plug 0.1.1 Released",
-        "body": "switchboard-plug-networking 0.1.1 is out!\r\n\r\n**Changelog:**\r\n* Fix SOCKS proxy availability\r\n* Add an explanation for hotspot\r\n* Fix incorrect \"null\" string in supported settings value\r\n* Ignore virtual machine interfaces\r\n* Correct spelling of Wi-Fi and WLAN",
-        "href": "https://github.com/elementary/switchboard-plug-network/releases/tag/0.1.1"
-      }
-    ],
-    "new_commits": 169,
-    "default_branch": "main"
-  },
-  {
     "name": "wingpanel-indicator-network",
     "releases": [
       {
@@ -4676,90 +5803,6 @@
     "default_branch": "main"
   },
   {
-    "name": "switchboard-plug-applications",
-    "releases": [
-      {
-        "version": "7.0.1",
-        "release_date": "2023-08-27T16:54:32+00:00",
-        "title": "switchboard-plug-applications 7.0.1 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-applications/releases/tag/7.0.1"
-      },
-      {
-        "version": "7.0.0",
-        "release_date": "2023-06-26T15:46:29+00:00",
-        "title": "Applications Settings 7.0.0 Released!",
-        "body": "## What's Changed\r\n* Suppress critical messages on startup by @jeremypw in https://github.com/elementary/switchboard-plug-applications/pull/174\r\n* master: Switch to GHCR containers by @davidmhewitt in https://github.com/elementary/switchboard-plug-applications/pull/178\r\n* KeyFile: Make show and active Follow the Autostart Spec by @Marukesu in https://github.com/elementary/switchboard-plug-applications/pull/184\r\n* Metainfo Improvements by @danirabbit in https://github.com/elementary/switchboard-plug-applications/pull/186\r\n* Defaults: rewrite, responsive by @danirabbit in https://github.com/elementary/switchboard-plug-applications/pull/188\r\n* Defaults: disallow focusing flowboxchild by @danirabbit in https://github.com/elementary/switchboard-plug-applications/pull/189\r\n* DefaultPlug: remove utils class, simplify by @danirabbit in https://github.com/elementary/switchboard-plug-applications/pull/193\r\n* Ship our own icon by @danirabbit in https://github.com/elementary/switchboard-plug-applications/pull/190\r\n* Startup: AppChooser is a dialog by @danirabbit in https://github.com/elementary/switchboard-plug-applications/pull/192\r\n* Startup: clean up, clamp, backport from Gtk4 by @danirabbit in https://github.com/elementary/switchboard-plug-applications/pull/191\r\n* Permissions: Gtk4 prep by @danirabbit in https://github.com/elementary/switchboard-plug-applications/pull/194\r\n* Startup: text button for add, inline remove by @danirabbit in https://github.com/elementary/switchboard-plug-applications/pull/195\r\n* DefaultPlug: flowboxchild can't be selected with pointer by @danirabbit in https://github.com/elementary/switchboard-plug-applications/pull/198\r\n* DefaultPlug: add to scrolledwindow by @danirabbit in https://github.com/elementary/switchboard-plug-applications/pull/197\r\n* DefaultPlug: Set accessible name for combo boxes by @lenemter in https://github.com/elementary/switchboard-plug-applications/pull/200\r\n* AppChooser: Set accessible name by @lenemter in https://github.com/elementary/switchboard-plug-applications/pull/201\r\n* Permissions: Set accessible names by @lenemter in https://github.com/elementary/switchboard-plug-applications/pull/202\r\n* Permissions: Disable reset button if already default by @lenemter in https://github.com/elementary/switchboard-plug-applications/pull/203\r\n\r\n## New Contributors\r\n* @Marukesu made their first contribution in https://github.com/elementary/switchboard-plug-applications/pull/184\r\n* @lenemter made their first contribution in https://github.com/elementary/switchboard-plug-applications/pull/200\r\n\r\n**Full Changelog**: https://github.com/elementary/switchboard-plug-applications/compare/6.0.1...7.0.0",
-        "href": "https://github.com/elementary/switchboard-plug-applications/releases/tag/7.0.0"
-      },
-      {
-        "version": "6.0.1",
-        "release_date": "2021-09-27T20:30:50+00:00",
-        "title": "Applications Settings 6.0.1 Released",
-        "body": "<p>Minor updates:</p>\r\n<ul>\r\n<li>Fix an issue with setting the incorrect app for certain files types</li>\r\n<li>Don't overwrite custom overrides when unnecessary</li>\r\n<li>Updated translations</li>\r\n</ul>",
-        "href": "https://github.com/elementary/switchboard-plug-applications/releases/tag/6.0.1"
-      },
-      {
-        "version": "6.0.0",
-        "release_date": "2021-07-15T21:58:48+00:00",
-        "title": "switchboard-plug-applications 6.0.0 Released",
-        "body": "<p>New features:</p>\n<ul>\n<li>Manage permissions for Flatpak apps</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Show custom launcher files</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-applications/releases/tag/6.0.0"
-      },
-      {
-        "version": "2.1.7",
-        "release_date": "2020-04-08T20:13:26+00:00",
-        "title": "switchboard-plug-applications 2.1.7 Released",
-        "body": "<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/switchboard-plug-applications/releases/tag/2.1.7"
-      },
-      {
-        "version": "2.1.6",
-        "release_date": "2019-11-15T22:17:50+00:00",
-        "title": "switchboard-plug-applications 2.1.6 Released",
-        "body": "switchboard-plug-applications 2.1.6 is out! \n\nChanges:\n\n* Fix issues with OnlyShowIn and Snap apps\n* Updated translations\n",
-        "href": "https://github.com/elementary/switchboard-plug-applications/releases/tag/2.1.6"
-      },
-      {
-        "version": "2.1.5",
-        "release_date": "2019-01-28T13:18:32+00:00",
-        "title": "Switchboard Applications Plug 2.1.5 Released",
-        "body": "switchboard-plug-applications 2.1.5 is out!\r\n\r\nChanges:\r\n* Search keyword improvements\r\n* Updated translations",
-        "href": "https://github.com/elementary/switchboard-plug-applications/releases/tag/2.1.5"
-      },
-      {
-        "version": "2.1.4",
-        "release_date": "2018-10-16T00:59:53+00:00",
-        "title": "Switchboard Applications Plug 2.1.4 Released",
-        "body": "switchboard-plug-applications 2.1.4 is out!\r\n\r\nThis release includes updated translations.\r\n",
-        "href": "https://github.com/elementary/switchboard-plug-applications/releases/tag/2.1.4"
-      },
-      {
-        "version": "0.1.3.1",
-        "release_date": "2018-06-22T07:58:10+00:00",
-        "title": "Switchboard Applications Plug 0.1.3.1 Released",
-        "body": "switchboard-plug-applications 0.1.3.1 is out!\r\n\r\nThis release includes the following changes:\r\n* Problematic AppData character removed\r\n* New translations",
-        "href": "https://github.com/elementary/switchboard-plug-applications/releases/tag/0.1.3.1"
-      },
-      {
-        "version": "0.1.3",
-        "release_date": "2018-06-07T13:18:19+00:00",
-        "title": "Switchboard Applications Plug 0.1.3 Released",
-        "body": "switchboard-plug-applications 0.1.3 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-applications/issues?q=is%3Aclosed+milestone%3A0.1.3).",
-        "href": "https://github.com/elementary/switchboard-plug-applications/releases/tag/0.1.3"
-      },
-      {
-        "version": "0.1.2",
-        "release_date": "2017-02-11T18:48:19+00:00",
-        "title": "",
-        "body": "",
-        "href": "https://github.com/elementary/switchboard-plug-applications/releases/tag/0.1.2"
-      }
-    ],
-    "new_commits": 251,
-    "default_branch": "main"
-  },
-  {
     "name": "wingpanel-indicator-power",
     "releases": [
       {
@@ -4842,118 +5885,6 @@
     ],
     "new_commits": 61,
     "default_branch": "master"
-  },
-  {
-    "name": "switchboard-plug-keyboard",
-    "releases": [
-      {
-        "version": "3.2.1",
-        "release_date": "2023-08-22T01:07:53+00:00",
-        "title": "Keyboard Settings 3.2.1 Released!",
-        "body": "## What's Changed\r\n* Layout: remove panel indicator settings by @danirabbit in https://github.com/elementary/switchboard-plug-keyboard/pull/454\r\n* Behavior: move onboard to the behavior tab by @danirabbit in https://github.com/elementary/switchboard-plug-keyboard/pull/455\r\n* Shortcuts: Allow assigning PrintScreen key by @ryonakano in https://github.com/elementary/switchboard-plug-keyboard/pull/457\r\n* InputMethod: Fix ProgressDialog is not used by @ryonakano in https://github.com/elementary/switchboard-plug-keyboard/pull/459\r\n* InstallEngineDialog: Replace stack with Deck by @ryonakano in https://github.com/elementary/switchboard-plug-keyboard/pull/458\r\n* Check if `Granite.accel_to_string` returns `null` by @lenemter in https://github.com/elementary/switchboard-plug-keyboard/pull/463\r\n* Layout: remove leftovers from onscreen keyboard by @lenemter in https://github.com/elementary/switchboard-plug-keyboard/pull/461\r\n* Add .editorconfig by @ryonakano in https://github.com/elementary/switchboard-plug-keyboard/pull/466\r\n* Drop `Pantheon` namespace by @lenemter in https://github.com/elementary/switchboard-plug-keyboard/pull/462\r\n* Add `switch-group` shortcut by @lenemter in https://github.com/elementary/switchboard-plug-keyboard/pull/464\r\n* Work around bug with duplicating input methods by @lenemter in https://github.com/elementary/switchboard-plug-keyboard/pull/468\r\n* 3.2.1 release notes by @lenemter in https://github.com/elementary/switchboard-plug-keyboard/pull/469\r\n* Release 3.2.1 by @lenemter in https://github.com/elementary/switchboard-plug-keyboard/pull/470\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/switchboard-plug-keyboard/compare/3.2.0...3.2.1",
-        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/3.2.1"
-      },
-      {
-        "version": "3.2.0",
-        "release_date": "2023-07-24T17:02:21+00:00",
-        "title": "Keyboard Settings 3.2.0 Released!",
-        "body": "## What's Changed\r\n* Switch to GHCR containers by @davidmhewitt in https://github.com/elementary/switchboard-plug-keyboard/pull/437\r\n* Add link to custom shortcuts by @lenemter in https://github.com/elementary/switchboard-plug-keyboard/pull/443\r\n* Behavior: modernize code style by @danirabbit in https://github.com/elementary/switchboard-plug-keyboard/pull/445\r\n* Behavior: Remove spinbuttons by @danirabbit in https://github.com/elementary/switchboard-plug-keyboard/pull/447\r\n* Behavior: add a11y settings by @danirabbit in https://github.com/elementary/switchboard-plug-keyboard/pull/446\r\n* Behavior: Remove trailing space in string by @lenemter in https://github.com/elementary/switchboard-plug-keyboard/pull/449\r\n* Metainfo Improvements by @danirabbit in https://github.com/elementary/switchboard-plug-keyboard/pull/450\r\n* Update screenshots by @danirabbit in https://github.com/elementary/switchboard-plug-keyboard/pull/453\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/switchboard-plug-keyboard/compare/3.1.1...3.2.0",
-        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/3.2.0"
-      },
-      {
-        "version": "3.1.1",
-        "release_date": "2023-01-05T17:20:57+00:00",
-        "title": "Keyboard Settings 3.1.1 Released!",
-        "body": "## What's Changed\r\n* Gresource windows category icon by @danirabbit in https://github.com/elementary/switchboard-plug-keyboard/pull/428\r\n* ShortcutListBox: only add ShortcutRow when schema key is valid by @bobby285271 in https://github.com/elementary/switchboard-plug-keyboard/pull/427\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/switchboard-plug-keyboard/compare/3.1.0...3.1.1",
-        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/3.1.1"
-      },
-      {
-        "version": "3.1.0",
-        "release_date": "2022-10-21T22:09:45+00:00",
-        "title": "switchboard-plug-keyboard 3.1.0 Released",
-        "body": "<p>New features:</p>\n<ul>\n<li>Revert shortcuts to default</li>\n<li>Easily disable a shortcut</li>\n<li>Support Rime input method for Chinese</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Remove custom shortcuts from their menu</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/3.1.0"
-      },
-      {
-        "version": "3.0.0",
-        "release_date": "2022-05-10T16:57:19+00:00",
-        "title": "switchboard-plug-keyboard 3.0.0 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Update for OS 7</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/3.0.0"
-      },
-      {
-        "version": "2.7.0",
-        "release_date": "2022-04-07T06:57:29+00:00",
-        "title": "switchboard-plug-keyboard 2.7.0 Released",
-        "body": "<p>New features:</p>\n<ul>\n<li>Open Multitasking View with Super</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.7.0"
-      },
-      {
-        "version": "2.6.0",
-        "release_date": "2021-11-23T17:15:11+00:00",
-        "title": "switchboard-plug-keyboard 2.6.0 Released",
-        "body": "<p>New features:</p>\r\n<ul>\r\n<li>Redesigned custom shortcuts view</li>\r\n<li>On-screen keyboard switch in Layouts tab</li>\r\n</ul>\r\n<p>Minor updates:</p>\r\n<ul>\r\n<li>Updated translations</li>\r\n</ul>\r\n",
-        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.6.0"
-      },
-      {
-        "version": "2.5.1",
-        "release_date": "2021-09-22T20:38:10+00:00",
-        "title": "Keyboard Settings 2.5.1 Released",
-        "body": "Minor updates:\r\n* Ensure IBus automatically starts on login when needed\r\n* Updated translations",
-        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.5.1"
-      },
-      {
-        "version": "2.5.0",
-        "release_date": "2021-07-14T21:00:05+00:00",
-        "title": "switchboard-plug-keyboard 2.5.0 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Add Layout popover is now a dialog</li>\n<li>Guarantee we always have at least one layout</li>\n<li>Improvements to ibus and xkb layouts</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.5.0"
-      },
-      {
-        "version": "2.4.1",
-        "release_date": "2020-09-03T21:54:43+00:00",
-        "title": "switchboard-plug-keyboard 2.4.1 Released",
-        "body": "<p>Shortcut description for \"Play\" is now \"Play/Pause\"</p>\n<p>Fix an issue where some shortcuts would incorrectly show as disabled</p>\n<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.4.1"
-      },
-      {
-        "version": "2.4.0",
-        "release_date": "2020-08-07T18:14:32+00:00",
-        "title": "switchboard-plug-keyboard 2.4.0 Released",
-        "body": "<p>Add a view to configure input methods</p>\n<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.4.0"
-      },
-      {
-        "version": "2.3.6",
-        "release_date": "2020-04-01T23:34:57+00:00",
-        "title": "switchboard-plug-keyboard 2.3.6 Released",
-        "body": "switchboard-plug-keyboard 2.3.6 is out! \n\n<p>New \"Workspaces\" icon</p>\n<p>Exclude Space from single-key shortcuts</p>\n<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.3.6"
-      },
-      {
-        "version": "2.3.5",
-        "release_date": "2019-03-06T09:03:16+00:00",
-        "title": "Switchboard Keyboard Plug 2.3.5 Released",
-        "body": "switchboard-plug-keyboard 2.3.5 is out!\r\n\r\nChanges:\r\n* Search keyword improvements\r\n* Added window `Close` keybinding option\r\n* Keyboard navigation fix\r\n* Build system fix for `gnomekbdui` dependency\r\n* More accurate and consistent labels\r\n* Change appdata id to `io.elementary.switchboard.keyboard`\r\n* Updated translations",
-        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.3.5"
-      },
-      {
-        "version": "2.3.4",
-        "release_date": "2018-10-16T00:27:00+00:00",
-        "title": "Switchboard Keyboard Plug 2.3.4 Released",
-        "body": "switchboard-plug-keyboard 2.3.4 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-keyboard/issues?q=is%3Aclosed+milestone%3A2.3.4).",
-        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.3.4"
-      },
-      {
-        "version": "0.3.3",
-        "release_date": "2018-06-08T16:39:32+00:00",
-        "title": "Switchboard Keyboard Plug 0.3.3 Released",
-        "body": "switchboard-plug-keyboard 0.3.3 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-keyboard/issues?q=is%3Aclosed+milestone%3A0.3.3).",
-        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
-      }
-    ],
-    "new_commits": 184,
-    "default_branch": "main"
   },
   {
     "name": "default-settings",
@@ -5481,125 +6412,6 @@
     "default_branch": "main"
   },
   {
-    "name": "switchboard-plug-sound",
-    "releases": [
-      {
-        "version": "2.3.3",
-        "release_date": "2023-07-24T16:05:40+00:00",
-        "title": "Sound Settings 2.3.3 Released!",
-        "body": "## What's Changed\r\n* actions/checkout@v3 by @meisenzahl in https://github.com/elementary/switchboard-plug-sound/pull/233\r\n* Switch to GHCR containers by @davidmhewitt in https://github.com/elementary/switchboard-plug-sound/pull/237\r\n* Plug: place contents in a Clamp by @danirabbit in https://github.com/elementary/switchboard-plug-sound/pull/240\r\n* Output: more vertical layout by @danirabbit in https://github.com/elementary/switchboard-plug-sound/pull/241\r\n* InputPanel: better use vertical space by @danirabbit in https://github.com/elementary/switchboard-plug-sound/pull/242\r\n* OutputPanel: Remove extra margin by @danirabbit in https://github.com/elementary/switchboard-plug-sound/pull/243\r\n* Set volume scales sensitive based on device by @danirabbit in https://github.com/elementary/switchboard-plug-sound/pull/244\r\n* OutputPanel: include screen reader shortcut by @danirabbit in https://github.com/elementary/switchboard-plug-sound/pull/245\r\n* Try to fix crash by @lenemter in https://github.com/elementary/switchboard-plug-sound/pull/248\r\n* Metainfo Improvements by @danirabbit in https://github.com/elementary/switchboard-plug-sound/pull/249\r\n\r\n## New Contributors\r\n* @meisenzahl made their first contribution in https://github.com/elementary/switchboard-plug-sound/pull/233\r\n\r\n**Full Changelog**: https://github.com/elementary/switchboard-plug-sound/compare/2.3.2...2.3.3",
-        "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/2.3.3"
-      },
-      {
-        "version": "2.3.2",
-        "release_date": "2022-10-27T16:48:10+00:00",
-        "title": "switchboard-plug-sound 2.3.2 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Use device form factor when available to assign more accurate icons</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/2.3.2"
-      },
-      {
-        "version": "2.3.1",
-        "release_date": "2022-04-06T22:51:58+00:00",
-        "title": "switchboard-plug-sound 2.3.1 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Provide a fallback device icon in case none is available</li>\n<li>More helpful placeholder text when no input devices are found</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/2.3.1"
-      },
-      {
-        "version": "2.3.0",
-        "release_date": "2021-11-23T17:14:56+00:00",
-        "title": "switchboard-plug-sound 2.3.0 Released",
-        "body": "<p>New features:</p>\n<ul>\n<li>Show device icons</li>\n<li>Switch to enable the screen reader</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/2.3.0"
-      },
-      {
-        "version": "2.2.7",
-        "release_date": "2021-07-14T21:21:28+00:00",
-        "title": "switchboard-plug-sound 2.2.7 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/2.2.7"
-      },
-      {
-        "version": "2.2.6",
-        "release_date": "2021-01-05T22:03:37+00:00",
-        "title": "switchboard-plug-sound 2.2.6 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Smoother transition when navigating away from this view</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/2.2.6"
-      },
-      {
-        "version": "2.2.5",
-        "release_date": "2020-09-03T21:58:44+00:00",
-        "title": "switchboard-plug-sound 2.2.5 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Fix crash with PulseAudio's echo cancellation plugin</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/2.2.5"
-      },
-      {
-        "version": "2.2.4",
-        "release_date": "2020-05-28T18:48:59+00:00",
-        "title": "switchboard-plug-sound 2.2.4 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/2.2.4"
-      },
-      {
-        "version": "2.2.3",
-        "release_date": "2020-04-03T20:29:30+00:00",
-        "title": "switchboard-plug-sound 2.2.3 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/2.2.3"
-      },
-      {
-        "version": "2.2.2",
-        "release_date": "2019-11-15T23:01:23+00:00",
-        "title": "switchboard-plug-sound 2.2.2 Released",
-        "body": "switchboard-plug-sound 2.2.2 is out! \n\nChanges:\n\n* Add volume slider event sound\n* Updated translations\n",
-        "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/2.2.2"
-      },
-      {
-        "version": "2.2.1",
-        "release_date": "2019-04-08T18:36:47+00:00",
-        "title": "Switchboard Sound Plug 2.2.1",
-        "body": "switchboard-plug-sound 2.2.1 is out!\r\n\r\nChanges:\r\n* Fix crash affecting some devices such as HTC Vive\r\n* Updated translations",
-        "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/2.2.1"
-      },
-      {
-        "version": "2.2.0",
-        "release_date": "2019-03-28T10:11:52+00:00",
-        "title": "Switchboard Sound Plug 2.2.0",
-        "body": "switchboard-plug-sound 2.2.0 is out!\r\n\r\nChanges:\r\n* Major overhaul of Output Devices logic, increasing available devices (such as HDMI) and no longer burying devices under \"Ports\"\r\n* Updated translations",
-        "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/2.2.0"
-      },
-      {
-        "version": "2.1.3",
-        "release_date": "2019-01-08T13:44:35+00:00",
-        "title": "Switchboard Plug Sound 2.1.3",
-        "body": "switchboard-plug-sound 2.1.3 is out!\r\n\r\nChanges:\r\n* Expand event controls\r\n* Vala build fixes\r\n* Updated translations",
-        "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/2.1.3"
-      },
-      {
-        "version": "2.1.2",
-        "release_date": "2018-10-15T20:46:08+00:00",
-        "title": "Switchboard Sound Plug 2.1.2",
-        "body": "switchboard-plug-sound 2.1.2 is out!\r\n\r\nChanges:\r\n* Fix microphone input level is not alignment\r\n* Update translations\r\n* Enable clicking on whole row to select device\r\n* Correct display style of balance slider\r\n* Build fixes",
-        "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/2.1.2"
-      },
-      {
-        "version": "0.1.1",
-        "release_date": "2018-08-27T09:53:59+00:00",
-        "title": "Switchboard Sound Plug 0.1.1 Released",
-        "body": "switchboard-plug-sound 0.1.1 is out!\r\n\r\nChanges:\r\n* System sounds enable/disable control\r\n* Improved translations",
-        "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/0.1.1"
-      },
-      {
-        "version": "0.1",
-        "release_date": "2018-06-08T16:09:23+00:00",
-        "title": "Switchboard Sound Plug 0.1 Released",
-        "body": "switchboard-plug-sound 0.1 is out!\r\n\r\nThis is the initial release.",
-        "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/0.1"
-      }
-    ],
-    "new_commits": 107,
-    "default_branch": "main"
-  },
-  {
     "name": "tasks",
     "releases": [
       {
@@ -5850,104 +6662,6 @@
     ],
     "new_commits": 37,
     "default_branch": "master"
-  },
-  {
-    "name": "switchboard-plug-onlineaccounts",
-    "releases": [
-      {
-        "version": "6.5.3",
-        "release_date": "2023-06-29T18:20:27+00:00",
-        "title": "Online Accounts Settings 6.5.3 Released!",
-        "body": "## What's Changed\r\n* ImapDialog: Fix freeze when a server sends no response by @leolost2605 in https://github.com/elementary/switchboard-plug-onlineaccounts/pull/256\r\n* ImapDialog: Store most initial setup keys by @leolost2605 in https://github.com/elementary/switchboard-plug-onlineaccounts/pull/258\r\n* Metainfo Improvements by @danirabbit in https://github.com/elementary/switchboard-plug-onlineaccounts/pull/260\r\n* CI: unbreak fedora by @bobby285271 in https://github.com/elementary/switchboard-plug-onlineaccounts/pull/264\r\n\r\n## New Contributors\r\n* @leolost2605 made their first contribution in https://github.com/elementary/switchboard-plug-onlineaccounts/pull/256\r\n\r\n**Full Changelog**: https://github.com/elementary/switchboard-plug-onlineaccounts/compare/6.5.2...6.5.3",
-        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/6.5.3"
-      },
-      {
-        "version": "6.5.2",
-        "release_date": "2023-04-04T17:41:08+00:00",
-        "title": "Online Accounts Settings 6.5.2 released",
-        "body": "## What's Changed\r\n* Update icons by @lenemter in https://github.com/elementary/switchboard-plug-onlineaccounts/pull/246\r\n* Add support for evolution-data-server 3.45+ / libsoup-3 by @meisenzahl in https://github.com/elementary/switchboard-plug-onlineaccounts/pull/248\r\n* Fix use imap username for smtp by @stan-janssen in https://github.com/elementary/switchboard-plug-onlineaccounts/pull/253\r\n\r\n## New Contributors\r\n* @lenemter made their first contribution in https://github.com/elementary/switchboard-plug-onlineaccounts/pull/246\r\n* @meisenzahl made their first contribution in https://github.com/elementary/switchboard-plug-onlineaccounts/pull/247\r\n* @stan-janssen made their first contribution in https://github.com/elementary/switchboard-plug-onlineaccounts/pull/253\r\n\r\n**Full Changelog**: https://github.com/elementary/switchboard-plug-onlineaccounts/compare/6.5.1...6.5.2",
-        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/6.5.2"
-      },
-      {
-        "version": "6.5.1",
-        "release_date": "2022-10-21T22:07:47+00:00",
-        "title": "switchboard-plug-onlineaccounts 6.5.1 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/6.5.1"
-      },
-      {
-        "version": "6.5.0",
-        "release_date": "2022-05-16T19:21:17+00:00",
-        "title": "switchboard-plug-onlineaccounts 6.5.0 Released",
-        "body": "<p>New features:</p>\n<ul>\n<li>Added offline support for CalDAV accounts</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/6.5.0"
-      },
-      {
-        "version": "6.4.0",
-        "release_date": "2022-04-06T18:36:45+00:00",
-        "title": "switchboard-plug-onlineaccounts 6.4.0 Released",
-        "body": "<p>New features:</p>\n<ul>\n<li>Choose refresh rate for IMAP</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/6.4.0"
-      },
-      {
-        "version": "6.3.0",
-        "release_date": "2021-12-13T22:23:11+00:00",
-        "title": "switchboard-plug-onlineaccounts 6.3.0 Released",
-        "body": "<p>New features:</p>\n<ul>\n<li>Edit saved CalDAV accounts</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Dim window when creating a new IMAP account</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/6.3.0"
-      },
-      {
-        "version": "6.2.2",
-        "release_date": "2021-11-24T23:56:37+00:00",
-        "title": "switchboard-plug-onlineaccounts 6.2.2 Released",
-        "body": "<p>Fixes:</p>\n<ul>\n<li>Dim window when creating a new IMAP account</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/6.2.2"
-      },
-      {
-        "version": "6.2.1",
-        "release_date": "2021-09-28T19:26:51+00:00",
-        "title": "Online Accounts Settings 6.2.1 Released",
-        "body": "<p>Fixes:</p>\r\n<ul>\r\n<li>Make sure the refresh interval for an IMAP account is set</li>\r\n<li>Fix adding, editing, and removing lists in CalDAV apps like Tasks</li>\r\n</ul>\r\n<p>Minor updates:</p>\r\n<ul>\r\n<li>Make sure you can always navigate next by pressing the Enter key</li>\r\n<li>Close dialogs when pressing the Escape key</li>\r\n<li>Use a more complete list of authentication methods for IMAP</li>\r\n<li>Updated translations</li>\r\n</ul>",
-        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/6.2.1"
-      },
-      {
-        "version": "6.2.0",
-        "release_date": "2021-08-26T20:39:35+00:00",
-        "title": "switchboard-plug-onlineaccounts 6.2.0 Released",
-        "body": "<ul>\n<li>Edit saved IMAP accounts</li>\n<li>Automatically detect authentication method for IMAP</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/6.2.0"
-      },
-      {
-        "version": "6.1.0",
-        "release_date": "2021-07-30T20:57:04+00:00",
-        "title": "switchboard-plug-onlineaccounts 6.1.0 Released",
-        "body": "- Verify login credentials when saving IMAP accounts\r\n- Set up Archive, Drafts, Sent, and Templates folders for IMAP\r\n- Close \"Add Account\" popover when an item is selected\r\n- Updated translations",
-        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/6.1.0"
-      },
-      {
-        "version": "6.0.0",
-        "release_date": "2021-07-15T21:21:15+00:00",
-        "title": "switchboard-plug-onlineaccounts 6.0.0 Released",
-        "body": "Complete redesign based on Evolution Data Server",
-        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/6.0.0"
-      },
-      {
-        "version": "2.0.1",
-        "release_date": "2018-10-24T14:43:36+00:00",
-        "title": "Switchboard Online Accounts Plug 2.0.1 Released",
-        "body": "switchboard-plug-onlineaccounts 2.0.1 is out!\r\n\r\nChanges:\r\n* Use Granite.Toast widget\r\n* New translations",
-        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/2.0.1"
-      },
-      {
-        "version": "2.0",
-        "release_date": "2018-10-15T22:35:57+00:00",
-        "title": "Switchboard Online Accounts Plug 2.0 Released",
-        "body": "switchboard-plug-onlineaccounts 2.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-onlineaccounts/issues?q=is%3Aclosed+milestone%3A2.0).",
-        "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/2.0"
-      }
-    ],
-    "new_commits": 87,
-    "default_branch": "main"
   },
   {
     "name": "wingpanel-indicator-bluetooth",
@@ -6272,111 +6986,6 @@
     "default_branch": "master"
   },
   {
-    "name": "switchboard-plug-locale",
-    "releases": [
-      {
-        "version": "2.5.9",
-        "release_date": "2023-05-03T17:11:13+00:00",
-        "title": "Locale Settings 2.5.9 Released!",
-        "body": "## What's Changed\r\n* Remove unused variable by @lenemter in https://github.com/elementary/switchboard-plug-locale/pull/166\r\n* master: Switch to GHCR containers by @davidmhewitt in https://github.com/elementary/switchboard-plug-locale/pull/174\r\n* Cherry pick commits for 2.5.9 by @lenemter in https://github.com/elementary/switchboard-plug-locale/pull/180\r\n\r\n## New Contributors\r\n* @lenemter made their first contribution in https://github.com/elementary/switchboard-plug-locale/pull/166\r\n\r\n**Full Changelog**: https://github.com/elementary/switchboard-plug-locale/compare/2.5.8...2.5.9",
-        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.5.9"
-      },
-      {
-        "version": "2.5.8",
-        "release_date": "2022-05-12T16:36:41+00:00",
-        "title": "switchboard-plug-locale 2.5.8 Released",
-        "body": "<p>Fixes:</p>\n<ul>\n<li>Translate authentication dialog description text</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.5.8"
-      },
-      {
-        "version": "2.5.7",
-        "release_date": "2022-04-13T12:51:23+00:00",
-        "title": "switchboard-plug-locale 2.5.7 Released",
-        "body": "<p>Improvements:</p>\n<ul>\n<li>Central Kurdish is now available as an installable language</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Support installation and removal of languages with 3-letter codes</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.5.7"
-      },
-      {
-        "version": "2.5.6",
-        "release_date": "2021-11-18T20:13:42+00:00",
-        "title": "Locale Settings 2.5.6 Released",
-        "body": "## What's Changed\r\n* Select correct format after install/remove by @davidmhewitt in https://github.com/elementary/switchboard-plug-locale/pull/148\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/switchboard-plug-locale/compare/2.5.5...2.5.6",
-        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.5.6"
-      },
-      {
-        "version": "2.5.5",
-        "release_date": "2021-10-26T17:51:10+00:00",
-        "title": "Locale Settings 2.5.5 Released",
-        "body": "<p>Fixes:</p>\r\n<ul>\r\n<li>Support locales with 3-letter codes</li>\r\n</ul>\r\n<p>Minor updates:</p>\r\n<ul>\r\n<li>Better support for non-Ubuntu based distributions</li>\r\n<li>Updated translations</li>\r\n</ul>",
-        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.5.5"
-      },
-      {
-        "version": "2.5.4",
-        "release_date": "2021-07-14T20:49:44+00:00",
-        "title": "switchboard-plug-locale 2.5.4 Released",
-        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.5.4"
-      },
-      {
-        "version": "2.5.3",
-        "release_date": "2021-01-05T21:59:55+00:00",
-        "title": "switchboard-plug-locale 2.5.3 Released",
-        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.5.3"
-      },
-      {
-        "version": "2.5.2",
-        "release_date": "2020-05-28T23:42:54+00:00",
-        "title": "switchboard-plug-locale 2.5.2 Released",
-        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.5.2"
-      },
-      {
-        "version": "2.5.1",
-        "release_date": "2020-04-01T22:48:03+00:00",
-        "title": "switchboard-plug-locale 2.5.1 Released",
-        "body": "switchboard-plug-locale 2.5.1 is out! \n\n<ul>\n<li>Fix an issue with cancelling language installation</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.5.1"
-      },
-      {
-        "version": "2.5.0",
-        "release_date": "2019-11-15T23:09:58+00:00",
-        "title": "switchboard-plug-locale 2.5.0 Released",
-        "body": "switchboard-plug-locale 2.5.0 is out! \n\nChanges:\n\n* Redesigned Install Language popover\n* Asks for permission when needed. No more extra InfoBar\n* Installtion progress InfoBar is now a Dialog\n* Language list properly updates when adding or removing languages\n* Updated translations\n",
-        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.5.0"
-      },
-      {
-        "version": "2.4.1",
-        "release_date": "2018-12-19T06:28:04+00:00",
-        "title": "Switchboard Locale Plug 2.4.1 Released",
-        "body": "switchboard-plug-locale 2.4.1 is out!\r\n\r\nChanges:\r\n* Better search keywords\r\n* Don't restrict locale length\r\n* Updated translations",
-        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.4.1"
-      },
-      {
-        "version": "2.4.0",
-        "release_date": "2018-10-15T21:26:12+00:00",
-        "title": "Switchboard Locale Plug 2.4.0 Released",
-        "body": "switchboard-plug-locale 2.4.0 is out!\r\n\r\nThis list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-locale/issues?q=is%3Aclosed+milestone%3A2.4.0).",
-        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/2.4.0"
-      },
-      {
-        "version": "0.2.3",
-        "release_date": "2017-05-22T20:19:26+00:00",
-        "title": "Switchboard Locale Plug 0.2.3 Released",
-        "body": "switchboard-plug-locale 0.2.3 is out!",
-        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/0.2.3"
-      },
-      {
-        "version": "0.2.2",
-        "release_date": "2017-05-12T08:27:01+00:00",
-        "title": "Switchboard Locale Plug 0.2.2 Released",
-        "body": "switchboard-plug-locale 0.2.2 is out!",
-        "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/0.2.2"
-      }
-    ],
-    "new_commits": 133,
-    "default_branch": "main"
-  },
-  {
     "name": "applications-menu",
     "releases": [
       {
@@ -6543,286 +7152,6 @@
     ],
     "new_commits": 145,
     "default_branch": "master"
-  },
-  {
-    "name": "switchboard-plug-useraccounts",
-    "releases": [
-      {
-        "version": "2.4.3",
-        "release_date": "2022-10-21T22:08:14+00:00",
-        "title": "switchboard-plug-useraccounts 2.4.3 Released",
-        "body": "<p>Improvements:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/2.4.3"
-      },
-      {
-        "version": "2.4.2",
-        "release_date": "2021-11-23T21:19:39+00:00",
-        "title": "switchboard-plug-useraccounts 2.4.2 Released",
-        "body": "<p>Fixes:</p>\n<ul>\n<li>Update permissions when enabling and disabling accounts</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/2.4.2"
-      },
-      {
-        "version": "2.4.1",
-        "release_date": "2021-10-26T17:49:42+00:00",
-        "title": "User Accounts Settings 2.4.1 Released",
-        "body": "<p>Fixes:</p>\r\n<ul>\r\n<li>Ensure user information in sidebar updates upon changes</li>\r\n</ul>\r\n<p>Improvements:</p>\r\n<ul>\r\n<li>Support locales with 3-letter codes</li>\r\n<li>Performance improvements</li>\r\n<li>Better support for non-Ubuntu based distributions</li>\r\n<li>Updated translations</li>\r\n</ul>",
-        "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/2.4.1"
-      },
-      {
-        "version": "2.4.0",
-        "release_date": "2021-07-14T21:10:17+00:00",
-        "title": "switchboard-plug-useraccounts 2.4.0 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>New colorful avatar fallback</li>\n<li>Performance improvements</li>\n<li>Improved tooltips and labels</li>\n<li>Fix possible crash when deleting an account</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/2.4.0"
-      },
-      {
-        "version": "2.3.2",
-        "release_date": "2020-09-03T21:33:48+00:00",
-        "title": "switchboard-plug-useraccounts 2.3.2 Released",
-        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/2.3.2"
-      },
-      {
-        "version": "2.3.1",
-        "release_date": "2020-04-08T23:17:54+00:00",
-        "title": "switchboard-plug-useraccounts 2.3.1 Released",
-        "body": "<ul>\n<li>Show more accurate reasons for locked settings</li>\n<li>Improve reliability of account creation</li>\n<li>Get permission on demand for enabling or disabling accounts</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/2.3.1"
-      },
-      {
-        "version": "2.3.0",
-        "release_date": "2019-11-15T22:25:40+00:00",
-        "title": "switchboard-plug-useraccounts 2.3.0 Released",
-        "body": "switchboard-plug-useraccounts 2.3.0 is out! \n\nChanges:\n\n* Show in sidebar if an account is disabled\n* Ask for permission when adding and removing accounts\n* Animate Infobars\n* Updated translations\n",
-        "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/2.3.0"
-      },
-      {
-        "version": "2.2.1",
-        "release_date": "2019-03-15T16:51:19+00:00",
-        "title": "Switchboard User Accounts Plug 2.2.1 Released",
-        "body": "switchboard-plug-useraccounts 2.2.1 is out!\r\n\r\nChanges:\r\n* Fix getting current user on other distros\r\n* Use `Granite.MessageDialog` for avatar dialog\r\n* Updated translations",
-        "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/2.2.1"
-      },
-      {
-        "version": "2.2.0",
-        "release_date": "2018-10-23T09:16:42+00:00",
-        "title": "Switchboard User Accounts Plug 2.2.0 Released",
-        "body": "switchboard-plug-useraccounts 2.2.0 is out!\r\n\r\nChanges:\r\n* Fix guest session controls\r\n* New search keywords",
-        "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/2.2.0"
-      },
-      {
-        "version": "2.1.7",
-        "release_date": "2018-10-08T18:20:19+00:00",
-        "title": "Switchboard User Accounts Plug 2.1.7 Released",
-        "body": "switchboard-plug-useraccounts 2.1.7 is out!\r\n\r\nThis list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-useraccounts/issues?q=is%3Aclosed+milestone%3A2.1.7).",
-        "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/2.1.7"
-      },
-      {
-        "version": "0.1.6",
-        "release_date": "2017-10-10T18:56:56+00:00",
-        "title": "Switchboard User Accounts Plug 0.1.6 Released",
-        "body": "switchboard-plug-useraccounts 0.1.6 is out!\r\n\r\nThis list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-useraccounts/issues?q=is%3Aclosed+milestone%3A0.1.6).",
-        "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/0.1.6"
-      },
-      {
-        "version": "0.1.5",
-        "release_date": "2017-06-28T12:43:30+00:00",
-        "title": "Switchboard User Accounts Plug 0.1.5 Released",
-        "body": "switchboard-plug-useraccounts 0.1.5 is out!",
-        "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/0.1.5"
-      },
-      {
-        "version": "0.1.4",
-        "release_date": "2017-05-22T19:38:28+00:00",
-        "title": "Switchboard User Accounts Plug 0.1.4 Released",
-        "body": "switchboard-plug-useraccounts 0.1.4 is out!",
-        "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/0.1.4"
-      }
-    ],
-    "new_commits": 186,
-    "default_branch": "main"
-  },
-  {
-    "name": "switchboard-plug-parental-controls",
-    "releases": [
-      {
-        "version": "6.0.1",
-        "release_date": "2022-10-21T22:07:36+00:00",
-        "title": "switchboard-plug-parental-controls 6.0.1 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-parental-controls/releases/tag/6.0.1"
-      },
-      {
-        "version": "6.0.0",
-        "release_date": "2021-07-14T21:56:29+00:00",
-        "title": "switchboard-plug-parental-controls 6.0.0 Released",
-        "body": "<p>Fixes:</p>\n<ul>\n<li>Set default Screen Time from midnight to midnight to prevent accidental lockouts</li>\n<li>Improve reliability of app blocking</li>\n<li>Support blocking Flatpak apps</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Clarify how Screen Time limits work and when they take effect</li>\n<li>New colorful avatar fallback</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-parental-controls/releases/tag/6.0.0"
-      },
-      {
-        "version": "3.0.1",
-        "release_date": "2020-05-28T18:39:39+00:00",
-        "title": "switchboard-plug-parental-controls 3.0.1 Released",
-        "body": "<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/switchboard-plug-parental-controls/releases/tag/3.0.1"
-      },
-      {
-        "version": "3.0.0",
-        "release_date": "2020-04-22T21:06:36+00:00",
-        "title": "switchboard-plug-parental-controls 3.0.0 Released",
-        "body": "<p>Rename to Screen Time &amp; Limits</p>\n<p>Show your own account</p>\n<p>Redesign the app chooser</p>\n<p>Redesign the Screen Time view</p>\n<p>Fix an issue with removing URLs from restricted websites</p>\n<p>Reliably apply time restrictions</p>\n<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/switchboard-plug-parental-controls/releases/tag/3.0.0"
-      },
-      {
-        "version": "2.1.5",
-        "release_date": "2018-10-09T09:19:42+00:00",
-        "title": "Switchboard Parental Controls Plug 2.1.5 Released",
-        "body": "switchboard-plug-parental-controls 2.1.5 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-parental-controls/issues?q=is%3Aclosed+milestone%3A2.1.5).",
-        "href": "https://github.com/elementary/switchboard-plug-parental-controls/releases/tag/2.1.5"
-      },
-      {
-        "version": "0.1.4",
-        "release_date": "2018-06-19T06:31:56+00:00",
-        "title": "Switchboard Parental Controls Plug 0.1.4 Released",
-        "body": "switchboard-plug-parental-controls 0.1.4 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-parental-controls/issues?q=is%3Aclosed+milestone%3A0.1.4).",
-        "href": "https://github.com/elementary/switchboard-plug-parental-controls/releases/tag/0.1.4"
-      }
-    ],
-    "new_commits": 121,
-    "default_branch": "main"
-  },
-  {
-    "name": "switchboard-plug-sharing",
-    "releases": [
-      {
-        "version": "2.1.6",
-        "release_date": "2022-10-21T22:07:24+00:00",
-        "title": "switchboard-plug-sharing 2.1.6 Released",
-        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-sharing/releases/tag/2.1.6"
-      },
-      {
-        "version": "2.1.5",
-        "release_date": "2021-07-13T23:29:56+00:00",
-        "title": "switchboard-plug-sharing 2.1.5 Released",
-        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-sharing/releases/tag/2.1.5"
-      },
-      {
-        "version": "2.1.4",
-        "release_date": "2020-04-01T23:43:41+00:00",
-        "title": "switchboard-plug-sharing 2.1.4 Released",
-        "body": "switchboard-plug-sharing 2.1.4 is out! \n\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-sharing/releases/tag/2.1.4"
-      },
-      {
-        "version": "2.1.3",
-        "release_date": "2018-10-16T01:08:01+00:00",
-        "title": "Switchboard Sharing Plug 2.1.3 Released",
-        "body": "switchboard-plug-sharing 2.1.3 is out!\r\n\r\nThis release includes updated translations.",
-        "href": "https://github.com/elementary/switchboard-plug-sharing/releases/tag/2.1.3"
-      },
-      {
-        "version": "0.1.2",
-        "release_date": "2018-06-07T11:36:51+00:00",
-        "title": "Switchboard Sharing Plug 0.1.2 Released",
-        "body": "switchboard-plug-sharing 0.1.2 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-sharing/issues?q=is%3Aclosed+milestone%3A0.1.2).",
-        "href": "https://github.com/elementary/switchboard-plug-sharing/releases/tag/0.1.2"
-      }
-    ],
-    "new_commits": 381,
-    "default_branch": "main"
-  },
-  {
-    "name": "switchboard-plug-printers",
-    "releases": [
-      {
-        "version": "2.2.1",
-        "release_date": "2022-10-21T22:06:51+00:00",
-        "title": "switchboard-plug-printers 2.2.1 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-printers/releases/tag/2.2.1"
-      },
-      {
-        "version": "2.2.0",
-        "release_date": "2022-06-29T17:37:32+00:00",
-        "title": "switchboard-plug-printers 2.2.0 Released",
-        "body": "<p>New Features:</p>\n<ul>\n<li>Allow clearing the queue for each printer</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Improved job row layout</li>\n<li>Show the supported language for each driver</li>\n<li>Show color names below ink levels</li>\n<li>Avoid expanding the window for printers with many ink levels</li>\n<li>Use newer add/remove list pattern</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Update sidebar after adding or removing printer</li>\n<li>Update sidebar after enabling or disabling printer</li>\n<li>Update job list after job state change</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-printers/releases/tag/2.2.0"
-      },
-      {
-        "version": "2.1.10",
-        "release_date": "2021-07-21T20:19:39+00:00",
-        "title": "switchboard-plug-printers 2.1.10 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-printers/releases/tag/2.1.10"
-      },
-      {
-        "version": "2.1.9",
-        "release_date": "2020-05-28T18:51:27+00:00",
-        "title": "switchboard-plug-printers 2.1.9 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-printers/releases/tag/2.1.9"
-      },
-      {
-        "version": "2.1.8",
-        "release_date": "2020-04-03T20:26:40+00:00",
-        "title": "switchboard-plug-printers 2.1.8 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-printers/releases/tag/2.1.8"
-      },
-      {
-        "version": "2.1.7",
-        "release_date": "2019-11-15T22:46:44+00:00",
-        "title": "switchboard-plug-printers 2.1.7 Released",
-        "body": "switchboard-plug-printers 2.1.7 is out! \n\nChanges:\n\n* Show a default name if a printer is unnamed\n* Updated translations\n",
-        "href": "https://github.com/elementary/switchboard-plug-printers/releases/tag/2.1.7"
-      },
-      {
-        "version": "2.1.6",
-        "release_date": "2018-11-28T11:34:33+00:00",
-        "title": "Switchboard Printers Plug 2.1.6 Released",
-        "body": "switchboard-plug-printers 2.1.6 is out!\r\n\r\nChanges:\r\n* Fix issue where printers are disabled upon viewing in plug\r\n* Updated translations",
-        "href": "https://github.com/elementary/switchboard-plug-printers/releases/tag/2.1.6"
-      },
-      {
-        "version": "2.1.5",
-        "release_date": "2018-10-15T21:50:47+00:00",
-        "title": "Switchboard Printers Plug 2.1.5 Released",
-        "body": "switchboard-plug-printers 2.1.5 is out!\r\n\r\nThis release includes updated translations and CSS fixes.",
-        "href": "https://github.com/elementary/switchboard-plug-printers/releases/tag/2.1.5"
-      },
-      {
-        "version": "2.1.4",
-        "release_date": "2018-10-09T14:36:12+00:00",
-        "title": "Switchboard Printers Plug 2.1.4 Released",
-        "body": "switchboard-plug-printers 2.1.4 is out!\r\n\r\nThis release includes updated translations and CSS fixes.",
-        "href": "https://github.com/elementary/switchboard-plug-printers/releases/tag/2.1.4"
-      },
-      {
-        "version": "0.1.3",
-        "release_date": "2018-06-08T13:09:39+00:00",
-        "title": "Switchboard Printers Plug 0.1.3 Released",
-        "body": "switchboard-plug-printers 0.1.3 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-printers/issues?q=is%3Aclosed+milestone%3A0.1.3).",
-        "href": "https://github.com/elementary/switchboard-plug-printers/releases/tag/0.1.3"
-      },
-      {
-        "version": "0.1.2",
-        "release_date": "2017-10-16T15:55:12+00:00",
-        "title": "Switchboard Printers Plug 0.1.2 Released",
-        "body": "switchboard-plug-printers 0.1.2 is out!\r\n\r\n## What's new:\r\n* Allow canceling halted jobs\r\n* Allow renaming printer location\r\n* Ensure that jobs can made visible\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-printers/issues?q=is%3Aclosed+milestone%3A0.1.2).",
-        "href": "https://github.com/elementary/switchboard-plug-printers/releases/tag/0.1.2"
-      },
-      {
-        "version": "0.1.1",
-        "release_date": "2017-07-12T19:36:34+00:00",
-        "title": "Switchboard Printers Plug 0.1.1 Released",
-        "body": "switchboard-plug-printers 0.1.1 is out!",
-        "href": "https://github.com/elementary/switchboard-plug-printers/releases/tag/0.1.1"
-      }
-    ],
-    "new_commits": 165,
-    "default_branch": "main"
   },
   {
     "name": "wingpanel-indicator-keyboard",
@@ -7007,174 +7336,6 @@
     "default_branch": "master"
   },
   {
-    "name": "switchboard-plug-power",
-    "releases": [
-      {
-        "version": "2.7.0",
-        "release_date": "2022-05-18T05:01:37+00:00",
-        "title": "switchboard-plug-power 2.7.0 Released",
-        "body": "<p>New features:</p>\n<ul>\n<li>Add power profile management</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-power/releases/tag/2.7.0"
-      },
-      {
-        "version": "2.6.0",
-        "release_date": "2021-08-24T20:44:11+00:00",
-        "title": "switchboard-plug-power 2.6.0 Released",
-        "body": "<p>New features:</p>\n<ul>\n<li>Add toggle for showing battery percentage in Panel</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Fix a potential issue with resuming from sleep</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-power/releases/tag/2.6.0"
-      },
-      {
-        "version": "2.5.0",
-        "release_date": "2021-07-14T20:59:19+00:00",
-        "title": "switchboard-plug-power 2.5.0 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Change lid settings without restarting</li>\n<li>Show in search results for \"sleep\" and \"timeout\"</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-power/releases/tag/2.5.0"
-      },
-      {
-        "version": "2.4.2",
-        "release_date": "2020-05-16T21:31:17+00:00",
-        "title": "switchboard-plug-power 2.4.2 Released",
-        "body": "<p>Fix potential freeze when changing settings from multiple panes</p>\n<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/switchboard-plug-power/releases/tag/2.4.2"
-      },
-      {
-        "version": "2.4.1",
-        "release_date": "2020-04-01T23:33:34+00:00",
-        "title": "switchboard-plug-power 2.4.1 Released",
-        "body": "switchboard-plug-power 2.4.1 is out! \n\n<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/switchboard-plug-power/releases/tag/2.4.1"
-      },
-      {
-        "version": "2.4.0",
-        "release_date": "2019-11-15T22:48:03+00:00",
-        "title": "switchboard-plug-power 2.4.0 Released",
-        "body": "switchboard-plug-power 2.4.0 is out! \n\nChanges:\n\n* Remove broken hibernate option\n* Add prompt to shutdown to power button actions\n* Updated translations\n",
-        "href": "https://github.com/elementary/switchboard-plug-power/releases/tag/2.4.0"
-      },
-      {
-        "version": "2.3.5",
-        "release_date": "2019-01-29T07:15:14+00:00",
-        "title": "Switchboard Power Plug 2.3.5 Released",
-        "body": "switchboard-plug-power 2.3.5 is out!\r\n\r\nChanges:\r\n* Updated translations",
-        "href": "https://github.com/elementary/switchboard-plug-power/releases/tag/2.3.5"
-      },
-      {
-        "version": "2.3.4",
-        "release_date": "2018-10-10T15:23:27+00:00",
-        "title": "Switchboard Power Plug 2.3.4 Released",
-        "body": "switchboard-plug-power 2.3.4 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-power/issues?q=is%3Aclosed+milestone%3A2.3.4).",
-        "href": "https://github.com/elementary/switchboard-plug-power/releases/tag/2.3.4"
-      },
-      {
-        "version": "0.3.3",
-        "release_date": "2018-06-08T13:35:19+00:00",
-        "title": "Switchboard Plug Power 0.3.3 Released",
-        "body": "switchboard-plug-power 0.3.3 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-power/issues?q=is%3Aclosed+milestone%3A0.3.3).",
-        "href": "https://github.com/elementary/switchboard-plug-power/releases/tag/0.3.3"
-      },
-      {
-        "version": "0.3.2",
-        "release_date": "2017-07-19T18:59:28+00:00",
-        "title": "Switchboard Plug Power 0.3.2 Released",
-        "body": "switchboard-plug-power 0.3.2 is out!\r\n\r\nThe list of issues closed for this release can be found [here](https://github.com/elementary/switchboard-plug-power/milestone/2?closed=1).",
-        "href": "https://github.com/elementary/switchboard-plug-power/releases/tag/0.3.2"
-      },
-      {
-        "version": "0.3.1",
-        "release_date": "2017-05-11T07:31:06+00:00",
-        "title": "Switchboard Plug Power 0.3.1 Released",
-        "body": "switchboard-plug-power 0.3.1 is out!\r\n\r\nSee a list of associated issues [here](https://github.com/elementary/switchboard-plug-power/milestone/1?closed=1)",
-        "href": "https://github.com/elementary/switchboard-plug-power/releases/tag/0.3.1"
-      }
-    ],
-    "new_commits": 217,
-    "default_branch": "main"
-  },
-  {
-    "name": "switchboard-plug-mouse-touchpad",
-    "releases": [
-      {
-        "version": "7.0.0",
-        "release_date": "2022-05-12T16:51:49+00:00",
-        "title": "switchboard-plug-mouse-touchpad 7.0.0 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Update for OS 7</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/7.0.0"
-      },
-      {
-        "version": "6.1.0",
-        "release_date": "2021-09-22T20:37:25+00:00",
-        "title": "Mouse & Touchpad Settings 6.1.0 Released",
-        "body": "New features:\r\n* New toggle for “Double-tap and move to drag”\r\n\r\nMinor updates:\r\n* Updated translations",
-        "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/6.1.0"
-      },
-      {
-        "version": "6.0.0",
-        "release_date": "2021-07-15T22:05:21+00:00",
-        "title": "switchboard-plug-mouse-touchpad 6.0.0 Released",
-        "body": "<p>New features:</p>\n<ul>\n<li>Multitouch gesture options</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Add more snap points to pointer speed sliders</li>\n<li>Multitouch gesture options</li>\n<li>Redesigned touchpad settings</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/6.0.0"
-      },
-      {
-        "version": "2.4.2",
-        "release_date": "2020-05-28T18:41:27+00:00",
-        "title": "switchboard-plug-mouse-touchpad 2.4.2 Released",
-        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/2.4.2"
-      },
-      {
-        "version": "2.4.1",
-        "release_date": "2020-04-08T20:16:18+00:00",
-        "title": "switchboard-plug-mouse-touchpad 2.4.1 Released",
-        "body": "<ul>\n<li>Fix stretched switches when using large text</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/2.4.1"
-      },
-      {
-        "version": "2.4.0",
-        "release_date": "2020-01-21T19:59:40+00:00",
-        "title": "switchboard-plug-mouse-touchpad 2.4.0 Released",
-        "body": "switchboard-plug-mouse-touchpad 2.4.0 is out! \n\n<p>New features:</p>\n<ul>\n<li>Add Dwell Click and Pointer size settings</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Also listen to secondary button clicks when selecting Primary Button</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/2.4.0"
-      },
-      {
-        "version": "2.3.1",
-        "release_date": "2019-12-01T21:54:25+00:00",
-        "title": "switchboard-plug-mouse-touchpad 2.3.1 Released",
-        "body": "switchboard-plug-mouse-touchpad 2.3.1 is out! \n\n<ul>\n<li>Fix an issue where primary button selection doesn't apply in left-to-right languages</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/2.3.1"
-      },
-      {
-        "version": "2.3.0",
-        "release_date": "2019-11-15T22:40:24+00:00",
-        "title": "switchboard-plug-mouse-touchpad 2.3.0 Released",
-        "body": "switchboard-plug-mouse-touchpad 2.3.0 is out! \n\nChanges:\n\n* New Sidebar navigation\n* Fix middle click not appearing\n* Add Double-Click speed\n* Updated translations\n",
-        "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/2.3.0"
-      },
-      {
-        "version": "2.2.0",
-        "release_date": "2019-04-11T03:47:58+00:00",
-        "title": "Switchboard Mouse & Touchpad Plug 2.2.0 Released",
-        "body": "switchboard-plug-mouse-touchpad 2.2.0 is out!\r\n\r\nChanges:\r\n* Added settings for\r\n  * Keypad pointer control\r\n  * Ignoring touchpad when external mouse is connected\r\n  * Long-press secondary click\r\n* Use org.gnome.settings-daemon.plugins.xsettings for middle click paste\r\n* Refactored layout and added icons\r\n* Improved search terms\r\n* Updated translations",
-        "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/2.2.0"
-      },
-      {
-        "version": "2.1.4",
-        "release_date": "2018-10-15T21:15:34+00:00",
-        "title": "Switchboard Mouse & Touchpad Plug 2.1.4 Released",
-        "body": "switchboard-plug-mouse-touchpad 2.1.4 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-mouse-touchpad/issues?q=is%3Aclosed+milestone%3A2.1.4).",
-        "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/2.1.4"
-      },
-      {
-        "version": "0.1.3",
-        "release_date": "2018-06-07T14:02:00+00:00",
-        "title": "Switchboard Mouse & Touchpad Plug 0.1.3 Released",
-        "body": "switchboard-plug-mouse-touchpad 0.1.3 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-mouse-touchpad/issues?q=is%3Aclosed+milestone%3A0.1.3).",
-        "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/0.1.3"
-      }
-    ],
-    "new_commits": 234,
-    "default_branch": "main"
-  },
-  {
     "name": "plymouth-theme",
     "releases": [
       {
@@ -7187,76 +7348,6 @@
     ],
     "new_commits": 0,
     "default_branch": "master"
-  },
-  {
-    "name": "switchboard-plug-datetime",
-    "releases": [
-      {
-        "version": "2.2.0",
-        "release_date": "2021-07-15T22:19:35+00:00",
-        "title": "switchboard-plug-datetime 2.2.0 Released",
-        "body": "<p>Minor updates</p>\n<ul>\n<li>Move timezone popover contents to the main view</li>\n<li>Add options to show or hide the date, weekday, and seconds in the clock</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-datetime/releases/tag/2.2.0"
-      },
-      {
-        "version": "2.1.9",
-        "release_date": "2020-05-28T18:36:52+00:00",
-        "title": "switchboard-plug-datetime 2.1.9 Released",
-        "body": "<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/switchboard-plug-datetime/releases/tag/2.1.9"
-      },
-      {
-        "version": "2.1.8",
-        "release_date": "2020-05-18T17:43:20+00:00",
-        "title": "switchboard-plug-datetime 2.1.8 Released",
-        "body": "<p>Minor updates</p>\n<ul>\n<li>Fix potential freeze when changing settings from multiple panes</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-datetime/releases/tag/2.1.8"
-      },
-      {
-        "version": "2.1.7",
-        "release_date": "2020-04-03T18:37:06+00:00",
-        "title": "switchboard-plug-datetime 2.1.7 Released",
-        "body": "<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/switchboard-plug-datetime/releases/tag/2.1.7"
-      },
-      {
-        "version": "2.1.6",
-        "release_date": "2019-08-15T00:13:24+00:00",
-        "title": "Switchboard Date & Time Plug 2.1.6 Released",
-        "body": "switchboard-plug-datetime 2.1.6 is out!\r\n\r\n* Support TimeFormat of AccountsService\r\n* Remove deprecated timezone map\r\n* Automatic timezone is now a button and a respected setting\r\n* Fix week number visibility\r\n* Add appdata\r\n* Updated translations",
-        "href": "https://github.com/elementary/switchboard-plug-datetime/releases/tag/2.1.6"
-      },
-      {
-        "version": "2.1.5",
-        "release_date": "2018-12-10T21:20:43+00:00",
-        "title": "Switchboard Date & Time Plug 2.1.5 Released",
-        "body": "switchboard-plug-datetime 2.1.5 is out!\r\n\r\nChanges:\r\n* More robust error handling around timezones and cities\r\n* Updated translations",
-        "href": "https://github.com/elementary/switchboard-plug-datetime/releases/tag/2.1.5"
-      },
-      {
-        "version": "2.1.4",
-        "release_date": "2018-10-09T15:27:24+00:00",
-        "title": "Switchboard Date & Time Plug 2.1.4 Released",
-        "body": "switchboard-plug-datetime 2.1.4 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-datetime/issues?q=is%3Aclosed+milestone%3A2.1.4).",
-        "href": "https://github.com/elementary/switchboard-plug-datetime/releases/tag/2.1.4"
-      },
-      {
-        "version": "0.1.3",
-        "release_date": "2018-06-07T14:29:37+00:00",
-        "title": "Switchboard Date & Time Plug 0.1.3 Released",
-        "body": "switchboard-plug-datetime 0.1.3 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-datetime/issues?q=is%3Aclosed+milestone%3A0.1.3).",
-        "href": "https://github.com/elementary/switchboard-plug-datetime/releases/tag/0.1.3"
-      },
-      {
-        "version": "0.1.2",
-        "release_date": "2017-04-21T18:28:22+00:00",
-        "title": "Switchboard Date & Time Plug 0.1.2 Released",
-        "body": "switchboard-plug-datetime 0.1.2 is out!",
-        "href": "https://github.com/elementary/switchboard-plug-datetime/releases/tag/0.1.2"
-      }
-    ],
-    "new_commits": 199,
-    "default_branch": "main"
   },
   {
     "name": "switchboard-plug-bluetooth",
