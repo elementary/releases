@@ -2467,7 +2467,7 @@
         "href": "https://github.com/elementary/switchboard-plug-datetime/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 1,
+    "new_commits": 41,
     "default_branch": "main"
   },
   {
@@ -3489,8 +3489,8 @@
         "href": "https://github.com/elementary/installer/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 6,
-    "default_branch": "master"
+    "new_commits": 8,
+    "default_branch": "main"
   },
   {
     "name": "bluetooth-daemon",
@@ -7661,7 +7661,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.0"
       }
     ],
-    "new_commits": 6795,
+    "new_commits": 6796,
     "default_branch": "master"
   },
   {
