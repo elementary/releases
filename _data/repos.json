@@ -1,5 +1,96 @@
 [
   {
+    "name": "onboarding",
+    "releases": [
+      {
+        "version": "8.0.0",
+        "release_date": "2024-08-06T23:57:53+00:00",
+        "title": "Onboarding 8.0.0 Released!",
+        "body": "## What's Changed\r\n* Meson: remove deprecations by @lenemter in https://github.com/elementary/onboarding/pull/219\r\n* Application: use Granite.init by @danirabbit in https://github.com/elementary/onboarding/pull/222\r\n* Improve screenreader support by @danirabbit in https://github.com/elementary/onboarding/pull/225\r\n* UpdatesView: add OS updates by @danirabbit in https://github.com/elementary/onboarding/pull/224\r\n* Housekeeping: use elementary settings daemon by @danirabbit in https://github.com/elementary/onboarding/pull/226\r\n* OnlineAccountsView: use icon shipped with System Settings by @danirabbit in https://github.com/elementary/onboarding/pull/230\r\n* Replace Carousel with NavigationView by @danirabbit in https://github.com/elementary/onboarding/pull/232\r\n* Actions: Make sure to use latest gettext-template; remove git installation by @ryonakano in https://github.com/elementary/onboarding/pull/233\r\n* Bump libadwaita version by @ryonakano in https://github.com/elementary/onboarding/pull/234\r\n* AbstractOnboardingView: move padding, icon size, margin to CSS by @danirabbit in https://github.com/elementary/onboarding/pull/235\r\n* Improve screenreader experience by @danirabbit in https://github.com/elementary/onboarding/pull/231\r\n\r\n**Full Changelog**: https://github.com/elementary/onboarding/compare/7.2.0...8.0.0",
+        "href": "https://github.com/elementary/onboarding/releases/tag/8.0.0"
+      },
+      {
+        "version": "7.2.0",
+        "release_date": "2023-08-10T02:39:41+00:00",
+        "title": "Onboarding 7.2.0 Released",
+        "body": "## What's Changed\r\n* WelcomeView: Update description by @meisenzahl in https://github.com/elementary/onboarding/pull/210\r\n* Add screenshot files cleanup option to Housekeeping by @Antolius in https://github.com/elementary/onboarding/pull/208\r\n* StyleView: use actual background when available by @danirabbit in https://github.com/elementary/onboarding/pull/212\r\n* Meson: use gnome.post_install to compile schemas by @danirabbit in https://github.com/elementary/onboarding/pull/214\r\n\r\n## New Contributors\r\n* @Antolius made their first contribution in https://github.com/elementary/onboarding/pull/208\r\n\r\n**Full Changelog**: https://github.com/elementary/onboarding/compare/7.1.0...7.2.0",
+        "href": "https://github.com/elementary/onboarding/releases/tag/7.2.0"
+      },
+      {
+        "version": "7.1.0",
+        "release_date": "2023-05-02T17:06:16+00:00",
+        "title": "Onboarding 7.1.0 Released!",
+        "body": "## What's Changed\r\n* Use Gtk.LinkButton for AppCenter button by @lenemter in https://github.com/elementary/onboarding/pull/180\r\n* MainWindow: warn about daily builds by @meisenzahl in https://github.com/elementary/onboarding/pull/184\r\n* AppCenterView: make sideload more obvious and rework copy by @danirabbit in https://github.com/elementary/onboarding/pull/190\r\n* EarlyAccessView: use applications-development for icon by @danirabbit in https://github.com/elementary/onboarding/pull/185\r\n* CI: Switch to GHCR containers by @davidmhewitt in https://github.com/elementary/onboarding/pull/191\r\n* Bump actions/checkout from 1 to 3 by @dependabot in https://github.com/elementary/onboarding/pull/192\r\n* Metainfo: modernize by @danirabbit in https://github.com/elementary/onboarding/pull/193\r\n* EarlyAccess: use a list by @danirabbit in https://github.com/elementary/onboarding/pull/195\r\n* Application: use startup () by @danirabbit in https://github.com/elementary/onboarding/pull/194\r\n* Adjust layouts, spacing, and typography by @danirabbit in https://github.com/elementary/onboarding/pull/197\r\n* WelcomeView: adjust button spacing, shorten title by @danirabbit in https://github.com/elementary/onboarding/pull/199\r\n* Fancy logo by @danirabbit in https://github.com/elementary/onboarding/pull/198\r\n* WelcomeView: combine with what's new view by @danirabbit in https://github.com/elementary/onboarding/pull/202\r\n* MainWindow: Only show What's New if there's something other than Early Access by @danirabbit in https://github.com/elementary/onboarding/pull/203\r\n* Add GuestView by @danirabbit in https://github.com/elementary/onboarding/pull/205\r\n* Redesign app icon by @danirabbit in https://github.com/elementary/onboarding/pull/196\r\n\r\n## New Contributors\r\n* @davidmhewitt made their first contribution in https://github.com/elementary/onboarding/pull/191\r\n* @dependabot made their first contribution in https://github.com/elementary/onboarding/pull/192\r\n\r\n**Full Changelog**: https://github.com/elementary/onboarding/compare/7.0.1...7.1.0",
+        "href": "https://github.com/elementary/onboarding/releases/tag/7.1.0"
+      },
+      {
+        "version": "7.0.1",
+        "release_date": "2022-10-21T22:09:05+00:00",
+        "title": "onboarding 7.0.1 Released",
+        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/onboarding/releases/tag/7.0.1"
+      },
+      {
+        "version": "7.0.0",
+        "release_date": "2022-05-19T20:26:15+00:00",
+        "title": "onboarding 7.0.0 Released",
+        "body": "<ul>\n<li>Add Automatic Updates view</li>\n<li>Add Sunset to Sunrise to Style View</li>\n<li>Update for OS 7 and Gtk 4</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/onboarding/releases/tag/7.0.0"
+      },
+      {
+        "version": "6.1.0",
+        "release_date": "2021-11-23T21:23:04+00:00",
+        "title": "onboarding 6.1.0 Released",
+        "body": "<ul>\n<li>Redesign Housekeeping and add Downloads option</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/onboarding/releases/tag/6.1.0"
+      },
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-14T19:19:34+00:00",
+        "title": "onboarding 6.0.0 Released",
+        "body": "<ul>\n<li>Add style view</li>\n<li>Add Online Accounts view</li>\n<li>Remove location services view</li>\n<li>Mention Sideload and Flathub</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/onboarding/releases/tag/6.0.0"
+      },
+      {
+        "version": "1.2.1",
+        "release_date": "2020-05-28T18:55:07+00:00",
+        "title": "onboarding 1.2.1 Released",
+        "body": "<ul>\n<li>Fix blurry icon in AppCenter</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/onboarding/releases/tag/1.2.1"
+      },
+      {
+        "version": "1.2.0",
+        "release_date": "2020-04-01T23:56:45+00:00",
+        "title": "onboarding 1.2.0 Released",
+        "body": "onboarding 1.2.0 is out! \n\n<ul>\n<li>New app icon</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/onboarding/releases/tag/1.2.0"
+      },
+      {
+        "version": "1.1.0",
+        "release_date": "2019-11-15T20:55:45+00:00",
+        "title": "onboarding 1.1.0 Released",
+        "body": "onboarding 1.1.0 is out! \n\nChanges:\n\n* Navigate with (multi-)touch gestures\n* Use new blog URL\n* Fix errors when pressing the Skip button\n* Updated translations\n",
+        "href": "https://github.com/elementary/onboarding/releases/tag/1.1.0"
+      },
+      {
+        "version": "1.0.1",
+        "release_date": "2019-08-24T04:40:22+00:00",
+        "title": "Onboarding 1.0.1 Released",
+        "body": "Onboarding 1.0.1 is out!\r\n\r\nChanges:\r\n* Avoid crash if missing `io.elementary.desktop.agent-geoclue2` schema\r\n* Updated translations",
+        "href": "https://github.com/elementary/onboarding/releases/tag/1.0.1"
+      },
+      {
+        "version": "1.0",
+        "release_date": "2019-07-10T15:07:37+00:00",
+        "title": "Onboarding 1.0 Released",
+        "body": "Onboarding 1.0 is out!\r\n\r\nThis is the initial release.",
+        "href": "https://github.com/elementary/onboarding/releases/tag/1.0"
+      }
+    ],
+    "new_commits": 0,
+    "default_branch": "main"
+  },
+  {
     "name": "switchboard-plug-bluetooth",
     "releases": [
       {
@@ -388,7 +479,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 0,
+    "new_commits": 1,
     "default_branch": "main"
   },
   {
@@ -4084,7 +4175,7 @@
         "href": "https://github.com/elementary/sideload/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 19,
+    "new_commits": 41,
     "default_branch": "main"
   },
   {
@@ -4378,7 +4469,7 @@
         "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.0"
       }
     ],
-    "new_commits": 30,
+    "new_commits": 34,
     "default_branch": "main"
   },
   {
@@ -6528,90 +6619,6 @@
       }
     ],
     "new_commits": 22,
-    "default_branch": "main"
-  },
-  {
-    "name": "onboarding",
-    "releases": [
-      {
-        "version": "7.2.0",
-        "release_date": "2023-08-10T02:39:41+00:00",
-        "title": "Onboarding 7.2.0 Released",
-        "body": "## What's Changed\r\n* WelcomeView: Update description by @meisenzahl in https://github.com/elementary/onboarding/pull/210\r\n* Add screenshot files cleanup option to Housekeeping by @Antolius in https://github.com/elementary/onboarding/pull/208\r\n* StyleView: use actual background when available by @danirabbit in https://github.com/elementary/onboarding/pull/212\r\n* Meson: use gnome.post_install to compile schemas by @danirabbit in https://github.com/elementary/onboarding/pull/214\r\n\r\n## New Contributors\r\n* @Antolius made their first contribution in https://github.com/elementary/onboarding/pull/208\r\n\r\n**Full Changelog**: https://github.com/elementary/onboarding/compare/7.1.0...7.2.0",
-        "href": "https://github.com/elementary/onboarding/releases/tag/7.2.0"
-      },
-      {
-        "version": "7.1.0",
-        "release_date": "2023-05-02T17:06:16+00:00",
-        "title": "Onboarding 7.1.0 Released!",
-        "body": "## What's Changed\r\n* Use Gtk.LinkButton for AppCenter button by @lenemter in https://github.com/elementary/onboarding/pull/180\r\n* MainWindow: warn about daily builds by @meisenzahl in https://github.com/elementary/onboarding/pull/184\r\n* AppCenterView: make sideload more obvious and rework copy by @danirabbit in https://github.com/elementary/onboarding/pull/190\r\n* EarlyAccessView: use applications-development for icon by @danirabbit in https://github.com/elementary/onboarding/pull/185\r\n* CI: Switch to GHCR containers by @davidmhewitt in https://github.com/elementary/onboarding/pull/191\r\n* Bump actions/checkout from 1 to 3 by @dependabot in https://github.com/elementary/onboarding/pull/192\r\n* Metainfo: modernize by @danirabbit in https://github.com/elementary/onboarding/pull/193\r\n* EarlyAccess: use a list by @danirabbit in https://github.com/elementary/onboarding/pull/195\r\n* Application: use startup () by @danirabbit in https://github.com/elementary/onboarding/pull/194\r\n* Adjust layouts, spacing, and typography by @danirabbit in https://github.com/elementary/onboarding/pull/197\r\n* WelcomeView: adjust button spacing, shorten title by @danirabbit in https://github.com/elementary/onboarding/pull/199\r\n* Fancy logo by @danirabbit in https://github.com/elementary/onboarding/pull/198\r\n* WelcomeView: combine with what's new view by @danirabbit in https://github.com/elementary/onboarding/pull/202\r\n* MainWindow: Only show What's New if there's something other than Early Access by @danirabbit in https://github.com/elementary/onboarding/pull/203\r\n* Add GuestView by @danirabbit in https://github.com/elementary/onboarding/pull/205\r\n* Redesign app icon by @danirabbit in https://github.com/elementary/onboarding/pull/196\r\n\r\n## New Contributors\r\n* @davidmhewitt made their first contribution in https://github.com/elementary/onboarding/pull/191\r\n* @dependabot made their first contribution in https://github.com/elementary/onboarding/pull/192\r\n\r\n**Full Changelog**: https://github.com/elementary/onboarding/compare/7.0.1...7.1.0",
-        "href": "https://github.com/elementary/onboarding/releases/tag/7.1.0"
-      },
-      {
-        "version": "7.0.1",
-        "release_date": "2022-10-21T22:09:05+00:00",
-        "title": "onboarding 7.0.1 Released",
-        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/onboarding/releases/tag/7.0.1"
-      },
-      {
-        "version": "7.0.0",
-        "release_date": "2022-05-19T20:26:15+00:00",
-        "title": "onboarding 7.0.0 Released",
-        "body": "<ul>\n<li>Add Automatic Updates view</li>\n<li>Add Sunset to Sunrise to Style View</li>\n<li>Update for OS 7 and Gtk 4</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/onboarding/releases/tag/7.0.0"
-      },
-      {
-        "version": "6.1.0",
-        "release_date": "2021-11-23T21:23:04+00:00",
-        "title": "onboarding 6.1.0 Released",
-        "body": "<ul>\n<li>Redesign Housekeeping and add Downloads option</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/onboarding/releases/tag/6.1.0"
-      },
-      {
-        "version": "6.0.0",
-        "release_date": "2021-07-14T19:19:34+00:00",
-        "title": "onboarding 6.0.0 Released",
-        "body": "<ul>\n<li>Add style view</li>\n<li>Add Online Accounts view</li>\n<li>Remove location services view</li>\n<li>Mention Sideload and Flathub</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/onboarding/releases/tag/6.0.0"
-      },
-      {
-        "version": "1.2.1",
-        "release_date": "2020-05-28T18:55:07+00:00",
-        "title": "onboarding 1.2.1 Released",
-        "body": "<ul>\n<li>Fix blurry icon in AppCenter</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/onboarding/releases/tag/1.2.1"
-      },
-      {
-        "version": "1.2.0",
-        "release_date": "2020-04-01T23:56:45+00:00",
-        "title": "onboarding 1.2.0 Released",
-        "body": "onboarding 1.2.0 is out! \n\n<ul>\n<li>New app icon</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/onboarding/releases/tag/1.2.0"
-      },
-      {
-        "version": "1.1.0",
-        "release_date": "2019-11-15T20:55:45+00:00",
-        "title": "onboarding 1.1.0 Released",
-        "body": "onboarding 1.1.0 is out! \n\nChanges:\n\n* Navigate with (multi-)touch gestures\n* Use new blog URL\n* Fix errors when pressing the Skip button\n* Updated translations\n",
-        "href": "https://github.com/elementary/onboarding/releases/tag/1.1.0"
-      },
-      {
-        "version": "1.0.1",
-        "release_date": "2019-08-24T04:40:22+00:00",
-        "title": "Onboarding 1.0.1 Released",
-        "body": "Onboarding 1.0.1 is out!\r\n\r\nChanges:\r\n* Avoid crash if missing `io.elementary.desktop.agent-geoclue2` schema\r\n* Updated translations",
-        "href": "https://github.com/elementary/onboarding/releases/tag/1.0.1"
-      },
-      {
-        "version": "1.0",
-        "release_date": "2019-07-10T15:07:37+00:00",
-        "title": "Onboarding 1.0 Released",
-        "body": "Onboarding 1.0 is out!\r\n\r\nThis is the initial release.",
-        "href": "https://github.com/elementary/onboarding/releases/tag/1.0"
-      }
-    ],
-    "new_commits": 84,
     "default_branch": "main"
   },
   {
