@@ -87,7 +87,7 @@
         "href": "https://github.com/elementary/onboarding/releases/tag/1.0"
       }
     ],
-    "new_commits": 0,
+    "new_commits": 2,
     "default_branch": "main"
   },
   {
@@ -3580,7 +3580,7 @@
         "href": "https://github.com/elementary/installer/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 12,
+    "new_commits": 15,
     "default_branch": "main"
   },
   {
@@ -5974,7 +5974,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 223,
+    "new_commits": 224,
     "default_branch": "main"
   },
   {
