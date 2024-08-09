@@ -1,5 +1,96 @@
 [
   {
+    "name": "default-settings",
+    "releases": [
+      {
+        "version": "8.0.0",
+        "release_date": "2024-08-09T18:27:08+00:00",
+        "title": "Default Settings 8.0.0 Released!",
+        "body": "## What's Changed\r\n* Add `pantheon-portals.conf` by @Marukesu in https://github.com/elementary/default-settings/pull/293\r\n* Remove deprecated keys by @lenemter in https://github.com/elementary/default-settings/pull/291\r\n* Move some media-keys from static to their normal versions by @lenemter in https://github.com/elementary/default-settings/pull/288\r\n* Override `switch-group` and `switch-group-backward` by @lenemter in https://github.com/elementary/default-settings/pull/287\r\n* GSD: Remove volume shortcuts by @lenemter in https://github.com/elementary/default-settings/pull/297\r\n* Disable \"You are now offline\" notifications by @lenemter in https://github.com/elementary/default-settings/pull/290\r\n* Delete skel/plank directory by @danirabbit in https://github.com/elementary/default-settings/pull/300\r\n* Change \"⌘ key behavior\" to Applications menu by default by @lenemter in https://github.com/elementary/default-settings/pull/302\r\n* Install: add pantheon-portals.conf by @danirabbit in https://github.com/elementary/default-settings/pull/303\r\n* Remove Gtk settings.ini by @danirabbit in https://github.com/elementary/default-settings/pull/305\r\n* Drop Qt style overrides by @danirabbit in https://github.com/elementary/default-settings/pull/295\r\n* Skel: add Flathub to flatpak config by @danirabbit in https://github.com/elementary/default-settings/pull/306\r\n* Shortcuts: make switch workspace super shift by @danirabbit in https://github.com/elementary/default-settings/pull/308\r\n\r\n## New Contributors\r\n* @dependabot made their first contribution in https://github.com/elementary/default-settings/pull/292\r\n* @lenemter made their first contribution in https://github.com/elementary/default-settings/pull/291\r\n\r\n**Full Changelog**: https://github.com/elementary/default-settings/compare/7.1.0...8.0.0",
+        "href": "https://github.com/elementary/default-settings/releases/tag/8.0.0"
+      },
+      {
+        "version": "7.1.0",
+        "release_date": "2023-08-19T03:12:04+00:00",
+        "title": "Default Settings 7.1.0 Released!",
+        "body": "## What's Changed\r\n* Overrides: Set dark wallpaper by @danirabbit in https://github.com/elementary/default-settings/pull/282\r\n* Do Not Set a Default Dark Wallpaper by @Marukesu in https://github.com/elementary/default-settings/pull/283\r\n* Meson: use modern features and fix deprecations by @danirabbit in https://github.com/elementary/default-settings/pull/285\r\n* Release 7.1.0 by @danirabbit in https://github.com/elementary/default-settings/pull/284\r\n\r\n## New Contributors\r\n* @Marukesu made their first contribution in https://github.com/elementary/default-settings/pull/283\r\n\r\n**Full Changelog**: https://github.com/elementary/default-settings/compare/7.0.2...7.1.0",
+        "href": "https://github.com/elementary/default-settings/releases/tag/7.1.0"
+      },
+      {
+        "version": "7.0.2",
+        "release_date": "2023-06-01T05:16:58+00:00",
+        "title": "Default Settings 7.0.2 Released!",
+        "body": "## What's Changed\r\n* actions/checkout@v3 by @meisenzahl in https://github.com/elementary/default-settings/pull/276\r\n* Switch to GHCR containers by @davidmhewitt in https://github.com/elementary/default-settings/pull/277\r\n* Overrides: set location services enabled by default by @danirabbit in https://github.com/elementary/default-settings/pull/279\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/default-settings/compare/7.0.1...7.0.2",
+        "href": "https://github.com/elementary/default-settings/releases/tag/7.0.2"
+      },
+      {
+        "version": "7.0.1",
+        "release_date": "2022-12-10T16:35:32+00:00",
+        "title": "Default Settings 7.0.1 Released",
+        "body": "## What's Changed\r\n* Music Dockitem: Point to var/lib/flatpak by @danirabbit in https://github.com/elementary/default-settings/pull/274\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/default-settings/compare/7.0.0...7.0.1",
+        "href": "https://github.com/elementary/default-settings/releases/tag/7.0.1"
+      },
+      {
+        "version": "7.0.0",
+        "release_date": "2022-11-14T15:58:59+00:00",
+        "title": "Default Settings 7.0.0 Released",
+        "body": "## What's Changed\r\n* Fix warnings introduced by Gnome 40+ and last versions of Epiphany by @milouse in https://github.com/elementary/default-settings/pull/263\r\n* Delete appcenter.hiddenapps by @danirabbit in https://github.com/elementary/default-settings/pull/268\r\n* Plank: add Files dock item by @danirabbit in https://github.com/elementary/default-settings/pull/271\r\n* GPLv3+ license added by @comradekingu in https://github.com/elementary/default-settings/pull/243\r\n* Release 7.0.0 by @danirabbit in https://github.com/elementary/default-settings/pull/272\r\n\r\n## New Contributors\r\n* @milouse made their first contribution in https://github.com/elementary/default-settings/pull/263\r\n* @comradekingu made their first contribution in https://github.com/elementary/default-settings/pull/243\r\n\r\n**Full Changelog**: https://github.com/elementary/default-settings/compare/6.0.2...7.0.0",
+        "href": "https://github.com/elementary/default-settings/releases/tag/7.0.0"
+      },
+      {
+        "version": "6.0.2",
+        "release_date": "2021-10-30T21:11:17+00:00",
+        "title": "Default Settings 6.0.2 Released",
+        "body": "## What's Changed\r\n* Update settings.ini with new values for >= Odin by @davidmhewitt in https://github.com/elementary/default-settings/pull/252\r\n* Skel: Point Videos launcher to Flatpak version by @cassidyjames in https://github.com/elementary/default-settings/pull/253\r\n\r\n**Full Changelog**: https://github.com/elementary/default-settings/compare/6.0.1...6.0.2",
+        "href": "https://github.com/elementary/default-settings/releases/tag/6.0.2"
+      },
+      {
+        "version": "6.0.1",
+        "release_date": "2021-08-31T19:15:18+00:00",
+        "title": "Default Settings 6.0.1 Released",
+        "body": "Change Tasks launcher path to /usr/share",
+        "href": "https://github.com/elementary/default-settings/releases/tag/6.0.1"
+      },
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-15T19:59:55+00:00",
+        "title": "default-settings 6.0.0 Released",
+        "body": "New upstream release",
+        "href": "https://github.com/elementary/default-settings/releases/tag/6.0.0"
+      },
+      {
+        "version": "5.1.2",
+        "release_date": "2020-01-15T08:18:19+00:00",
+        "title": "default-settings 5.1.2 Released",
+        "body": "default-settings 5.1.2 is out!\r\n\r\n<ul>\r\n<li>profile.d: use GTK3_MODULES over GTK_MODULES</li>\r\n<li>Remove switchboard plugs from blacklist</li>\r\n<li>Automatically show & hide the property panel of IBus</li>\r\n<li>Make default search engine DuckDuckGo</li>\r\n<li>Activate g-s-d cursor plugin</li>\r\n<li>Removed deprecated draw-background override</li>\r\n<li>Add AccountsService interfaces for greeter power settings</li>\r\n<li>Accept only first party cookies for enhanced privacy</li>\r\n</ul>",
+        "href": "https://github.com/elementary/default-settings/releases/tag/5.1.2"
+      },
+      {
+        "version": "5.1.1",
+        "release_date": "2019-08-13T01:57:38+00:00",
+        "title": "Default Settings 5.1.1 Released",
+        "body": "elementary OS Default Settings 5.1.1 is out!\r\n\r\nChanges:\r\n* Include accountsservice files for [Greeter](https://github.com/elementary/greeter) use",
+        "href": "https://github.com/elementary/default-settings/releases/tag/5.1.1"
+      },
+      {
+        "version": "5.1.0",
+        "release_date": "2019-03-19T20:24:37+00:00",
+        "title": "Default Settings 5.1.0 Released",
+        "body": "elementary OS Default Settings 5.1.0 is out!\r\n\r\nMost of these changes were already sent out to elementary OS as snapshots, this release prepares for conditional compilation.\r\n\r\n* Change default IBus hotkey to `Ctrl+Space`\r\n* Set `QT_QPA_PLATFORMTHEME` to `gtk` for `adwaita-qt` and `qt5-gtk-platformtheme`\r\n* Set `clock-show-date` to `true` in `org.gnome.desktop.interface`\r\n* Set `Onboard` theme to `Nightshade`\r\n* Expand AppCenter blacklist entries\r\n* Manually install and compile gschema so it can support conditions\r\n* Delete unused Ayatana blacklist\r\n* Add `.inputrc`",
+        "href": "https://github.com/elementary/default-settings/releases/tag/5.1.0"
+      },
+      {
+        "version": "5.0",
+        "release_date": "2018-05-23T13:45:38+00:00",
+        "title": "Default Settings 5.0 Released",
+        "body": "`elementary-default-settings` 5.0 is out!",
+        "href": "https://github.com/elementary/default-settings/releases/tag/5.0"
+      }
+    ],
+    "new_commits": 1,
+    "default_branch": "main"
+  },
+  {
     "name": "onboarding",
     "releases": [
       {
@@ -6536,90 +6627,6 @@
     ],
     "new_commits": 75,
     "default_branch": "master"
-  },
-  {
-    "name": "default-settings",
-    "releases": [
-      {
-        "version": "7.1.0",
-        "release_date": "2023-08-19T03:12:04+00:00",
-        "title": "Default Settings 7.1.0 Released!",
-        "body": "## What's Changed\r\n* Overrides: Set dark wallpaper by @danirabbit in https://github.com/elementary/default-settings/pull/282\r\n* Do Not Set a Default Dark Wallpaper by @Marukesu in https://github.com/elementary/default-settings/pull/283\r\n* Meson: use modern features and fix deprecations by @danirabbit in https://github.com/elementary/default-settings/pull/285\r\n* Release 7.1.0 by @danirabbit in https://github.com/elementary/default-settings/pull/284\r\n\r\n## New Contributors\r\n* @Marukesu made their first contribution in https://github.com/elementary/default-settings/pull/283\r\n\r\n**Full Changelog**: https://github.com/elementary/default-settings/compare/7.0.2...7.1.0",
-        "href": "https://github.com/elementary/default-settings/releases/tag/7.1.0"
-      },
-      {
-        "version": "7.0.2",
-        "release_date": "2023-06-01T05:16:58+00:00",
-        "title": "Default Settings 7.0.2 Released!",
-        "body": "## What's Changed\r\n* actions/checkout@v3 by @meisenzahl in https://github.com/elementary/default-settings/pull/276\r\n* Switch to GHCR containers by @davidmhewitt in https://github.com/elementary/default-settings/pull/277\r\n* Overrides: set location services enabled by default by @danirabbit in https://github.com/elementary/default-settings/pull/279\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/default-settings/compare/7.0.1...7.0.2",
-        "href": "https://github.com/elementary/default-settings/releases/tag/7.0.2"
-      },
-      {
-        "version": "7.0.1",
-        "release_date": "2022-12-10T16:35:32+00:00",
-        "title": "Default Settings 7.0.1 Released",
-        "body": "## What's Changed\r\n* Music Dockitem: Point to var/lib/flatpak by @danirabbit in https://github.com/elementary/default-settings/pull/274\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/default-settings/compare/7.0.0...7.0.1",
-        "href": "https://github.com/elementary/default-settings/releases/tag/7.0.1"
-      },
-      {
-        "version": "7.0.0",
-        "release_date": "2022-11-14T15:58:59+00:00",
-        "title": "Default Settings 7.0.0 Released",
-        "body": "## What's Changed\r\n* Fix warnings introduced by Gnome 40+ and last versions of Epiphany by @milouse in https://github.com/elementary/default-settings/pull/263\r\n* Delete appcenter.hiddenapps by @danirabbit in https://github.com/elementary/default-settings/pull/268\r\n* Plank: add Files dock item by @danirabbit in https://github.com/elementary/default-settings/pull/271\r\n* GPLv3+ license added by @comradekingu in https://github.com/elementary/default-settings/pull/243\r\n* Release 7.0.0 by @danirabbit in https://github.com/elementary/default-settings/pull/272\r\n\r\n## New Contributors\r\n* @milouse made their first contribution in https://github.com/elementary/default-settings/pull/263\r\n* @comradekingu made their first contribution in https://github.com/elementary/default-settings/pull/243\r\n\r\n**Full Changelog**: https://github.com/elementary/default-settings/compare/6.0.2...7.0.0",
-        "href": "https://github.com/elementary/default-settings/releases/tag/7.0.0"
-      },
-      {
-        "version": "6.0.2",
-        "release_date": "2021-10-30T21:11:17+00:00",
-        "title": "Default Settings 6.0.2 Released",
-        "body": "## What's Changed\r\n* Update settings.ini with new values for >= Odin by @davidmhewitt in https://github.com/elementary/default-settings/pull/252\r\n* Skel: Point Videos launcher to Flatpak version by @cassidyjames in https://github.com/elementary/default-settings/pull/253\r\n\r\n**Full Changelog**: https://github.com/elementary/default-settings/compare/6.0.1...6.0.2",
-        "href": "https://github.com/elementary/default-settings/releases/tag/6.0.2"
-      },
-      {
-        "version": "6.0.1",
-        "release_date": "2021-08-31T19:15:18+00:00",
-        "title": "Default Settings 6.0.1 Released",
-        "body": "Change Tasks launcher path to /usr/share",
-        "href": "https://github.com/elementary/default-settings/releases/tag/6.0.1"
-      },
-      {
-        "version": "6.0.0",
-        "release_date": "2021-07-15T19:59:55+00:00",
-        "title": "default-settings 6.0.0 Released",
-        "body": "New upstream release",
-        "href": "https://github.com/elementary/default-settings/releases/tag/6.0.0"
-      },
-      {
-        "version": "5.1.2",
-        "release_date": "2020-01-15T08:18:19+00:00",
-        "title": "default-settings 5.1.2 Released",
-        "body": "default-settings 5.1.2 is out!\r\n\r\n<ul>\r\n<li>profile.d: use GTK3_MODULES over GTK_MODULES</li>\r\n<li>Remove switchboard plugs from blacklist</li>\r\n<li>Automatically show & hide the property panel of IBus</li>\r\n<li>Make default search engine DuckDuckGo</li>\r\n<li>Activate g-s-d cursor plugin</li>\r\n<li>Removed deprecated draw-background override</li>\r\n<li>Add AccountsService interfaces for greeter power settings</li>\r\n<li>Accept only first party cookies for enhanced privacy</li>\r\n</ul>",
-        "href": "https://github.com/elementary/default-settings/releases/tag/5.1.2"
-      },
-      {
-        "version": "5.1.1",
-        "release_date": "2019-08-13T01:57:38+00:00",
-        "title": "Default Settings 5.1.1 Released",
-        "body": "elementary OS Default Settings 5.1.1 is out!\r\n\r\nChanges:\r\n* Include accountsservice files for [Greeter](https://github.com/elementary/greeter) use",
-        "href": "https://github.com/elementary/default-settings/releases/tag/5.1.1"
-      },
-      {
-        "version": "5.1.0",
-        "release_date": "2019-03-19T20:24:37+00:00",
-        "title": "Default Settings 5.1.0 Released",
-        "body": "elementary OS Default Settings 5.1.0 is out!\r\n\r\nMost of these changes were already sent out to elementary OS as snapshots, this release prepares for conditional compilation.\r\n\r\n* Change default IBus hotkey to `Ctrl+Space`\r\n* Set `QT_QPA_PLATFORMTHEME` to `gtk` for `adwaita-qt` and `qt5-gtk-platformtheme`\r\n* Set `clock-show-date` to `true` in `org.gnome.desktop.interface`\r\n* Set `Onboard` theme to `Nightshade`\r\n* Expand AppCenter blacklist entries\r\n* Manually install and compile gschema so it can support conditions\r\n* Delete unused Ayatana blacklist\r\n* Add `.inputrc`",
-        "href": "https://github.com/elementary/default-settings/releases/tag/5.1.0"
-      },
-      {
-        "version": "5.0",
-        "release_date": "2018-05-23T13:45:38+00:00",
-        "title": "Default Settings 5.0 Released",
-        "body": "`elementary-default-settings` 5.0 is out!",
-        "href": "https://github.com/elementary/default-settings/releases/tag/5.0"
-      }
-    ],
-    "new_commits": 23,
-    "default_branch": "main"
   },
   {
     "name": "greeter",
