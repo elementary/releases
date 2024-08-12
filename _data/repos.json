@@ -1,5 +1,201 @@
 [
   {
+    "name": "session-settings",
+    "releases": [
+      {
+        "version": "8.0.0",
+        "release_date": "2024-08-12T18:29:18+00:00",
+        "title": "Session Settings 8.0.0 Release!",
+        "body": "## What's Changed\r\n* CI: remove Nix by @bobby285271 in https://github.com/elementary/session-settings/pull/61\r\n* Add systemd support by @davidmhewitt in https://github.com/elementary/session-settings/pull/55\r\n* build: add systemduserunitdir option by @bobby285271 in https://github.com/elementary/session-settings/pull/62\r\n* systemd: also pull in GSD targets by @bobby285271 in https://github.com/elementary/session-settings/pull/63\r\n* Switch to GHCR containers by @davidmhewitt in https://github.com/elementary/session-settings/pull/65\r\n* Add optional Wayland session by @danirabbit in https://github.com/elementary/session-settings/pull/66\r\n* Reflect new systemd target name by @tintou in https://github.com/elementary/session-settings/pull/67\r\n* Remove gala-daemon by @leolost2605 in https://github.com/elementary/session-settings/pull/71\r\n* Require gnome-settings-daemon 3.36.0 and deduplicate gsd_components by @bobby285271 in https://github.com/elementary/session-settings/pull/72\r\n* Use systemd managed gnome-session by @bobby285271 in https://github.com/elementary/session-settings/pull/73\r\n* systemd: Install session.conf also to gnome-session@pantheon-wayland.target.d by @leolost2605 in https://github.com/elementary/session-settings/pull/75\r\n* Rename sessions by @danirabbit in https://github.com/elementary/session-settings/pull/77\r\n* Add localization by @danirabbit in https://github.com/elementary/session-settings/pull/79\r\n\r\n## New Contributors\r\n* @bobby285271 made their first contribution in https://github.com/elementary/session-settings/pull/61\r\n* @tintou made their first contribution in https://github.com/elementary/session-settings/pull/67\r\n* @leolost2605 made their first contribution in https://github.com/elementary/session-settings/pull/71\r\n\r\n**Full Changelog**: https://github.com/elementary/session-settings/compare/6.0.0...8.0.0",
+        "href": "https://github.com/elementary/session-settings/releases/tag/8.0.0"
+      },
+      {
+        "version": "6.0.0",
+        "release_date": "2021-02-19T20:24:49+00:00",
+        "title": "Session Settings 6.0.0 Released",
+        "body": "A fairly hefty rewrite that should make things more portable to other distros!",
+        "href": "https://github.com/elementary/session-settings/releases/tag/6.0.0"
+      },
+      {
+        "version": "5.0.3",
+        "release_date": "2018-09-14T17:26:37+00:00",
+        "title": "Session Settings 5.0.3 Released",
+        "body": "`pantheon-xsession-settings` 5.0.3 is out!\r\n\r\nThis release launches `gala-daemon` as part of the Pantheon session.",
+        "href": "https://github.com/elementary/session-settings/releases/tag/5.0.3"
+      },
+      {
+        "version": "5.0.2",
+        "release_date": "2018-07-27T04:07:14+00:00",
+        "title": "Session Settings 5.0.2 Released",
+        "body": "`pantheon-xsession-settings` 5.0.2 is out!\r\n\r\nThis release includes updated mimetype associations and removes the Cerbere autostart entry now shipped by Cerbere 0.2.4 instead.",
+        "href": "https://github.com/elementary/session-settings/releases/tag/5.0.2"
+      },
+      {
+        "version": "5.0.1",
+        "release_date": "2018-05-30T22:14:56+00:00",
+        "title": "Session Settings 5.0.1 Released",
+        "body": "`pantheon-xsession-setting` 5.0.1 is out!\r\n\r\nThis release adapts the Cerbere symlink to changes found in Cerbere 0.2.3.",
+        "href": "https://github.com/elementary/session-settings/releases/tag/5.0.1"
+      },
+      {
+        "version": "5.0",
+        "release_date": "2018-05-23T13:13:58+00:00",
+        "title": "Session Settings 5.0 Released",
+        "body": "`pantheon-xsession-settings` 5.0 is out!",
+        "href": "https://github.com/elementary/session-settings/releases/tag/5.0"
+      }
+    ],
+    "new_commits": 0,
+    "default_branch": "main"
+  },
+  {
+    "name": "videos",
+    "releases": [
+      {
+        "version": "8.0.1",
+        "release_date": "2024-08-12T18:19:50+00:00",
+        "title": "videos 8.0.1 Released",
+        "body": "<p>Small hotfix release that fixes an annoying issue causing videos to play in a second window.</p>\n",
+        "href": "https://github.com/elementary/videos/releases/tag/8.0.1"
+      },
+      {
+        "version": "8.0.0",
+        "release_date": "2024-07-25T23:17:35+00:00",
+        "title": "videos 8.0.0 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Respect dark style preference</li>\n<li>Support repeat one and repeat all</li>\n<li>Performance improvements</li>\n<li>Drop support for optical media</li>\n<li>Translation updates</li>\n</ul>\n",
+        "href": "https://github.com/elementary/videos/releases/tag/8.0.0"
+      },
+      {
+        "version": "3.0.0",
+        "release_date": "2023-08-10T23:58:35+00:00",
+        "title": "Videos 3.0.0 Released!",
+        "body": "## What's Changed\r\n* Use playbin with the gst gtk widget for playback by @leolost2605 in https://github.com/elementary/videos/pull/335\r\n* Separate headerbars with deck pages by @leolost2605 in https://github.com/elementary/videos/pull/336\r\n* PlaylistItem: Some gtk4 preparations by @leolost2605 in https://github.com/elementary/videos/pull/338\r\n* Playlist: Preparations for GTK4 by @leolost2605 in https://github.com/elementary/videos/pull/337\r\n* PlaylistPopover: send app notification when adding by @danirabbit in https://github.com/elementary/videos/pull/270\r\n* LibraryItem: Simplifications and preparations for GTK4 by @leolost2605 in https://github.com/elementary/videos/pull/341\r\n* LibraryPage: Preparations for GTK4 by @leolost2605 in https://github.com/elementary/videos/pull/340\r\n* EpisodesPage: Preparations for GTK4 by @leolost2605 in https://github.com/elementary/videos/pull/339\r\n* README: build with Flatpak by @danirabbit in https://github.com/elementary/videos/pull/342\r\n* BottomBar and PlayerPage: GTK4 preparations by @leolost2605 in https://github.com/elementary/videos/pull/343\r\n* SettingsPopover: Preparations for GTK4 by @leolost2605 in https://github.com/elementary/videos/pull/344\r\n* Window: put everything in a windowhandle by @danirabbit in https://github.com/elementary/videos/pull/346\r\n* PlaybackManager: Improve position querying by @leolost2605 in https://github.com/elementary/videos/pull/348\r\n* Window: Some GTK4 preparations by @leolost2605 in https://github.com/elementary/videos/pull/349\r\n* PreviewPopover: Preparations for GTK4 by @leolost2605 in https://github.com/elementary/videos/pull/347\r\n* Remove unused Clutter by @danirabbit in https://github.com/elementary/videos/pull/350\r\n* Meson: use gnome.post_install to compile schemas by @danirabbit in https://github.com/elementary/videos/pull/351\r\n* Metainfo: 3.0.0 release notes by @danirabbit in https://github.com/elementary/videos/pull/352\r\n* Update screenshots by @danirabbit in https://github.com/elementary/videos/pull/354\r\n* Release 3.0.0 by @danirabbit in https://github.com/elementary/videos/pull/353\r\n* Meson: update to 3.0.0 by @danirabbit in https://github.com/elementary/videos/pull/355\r\n\r\n## New Contributors\r\n* @leolost2605 made their first contribution in https://github.com/elementary/videos/pull/335\r\n\r\n**Full Changelog**: https://github.com/elementary/videos/compare/2.9.1...3.0.0",
+        "href": "https://github.com/elementary/videos/releases/tag/3.0.0"
+      },
+      {
+        "version": "2.9.1",
+        "release_date": "2023-06-01T14:39:31+00:00",
+        "title": "Videos 2.9.1 Released",
+        "body": "## What's Changed\r\n* Application: store repeat state in an Action by @danirabbit in https://github.com/elementary/videos/pull/318\r\n* Create PlaybackManager by @danirabbit in https://github.com/elementary/videos/pull/319\r\n* actions/checkout@v3 by @meisenzahl in https://github.com/elementary/videos/pull/323\r\n* Move playback and pipeline to PlaybackManager by @danirabbit in https://github.com/elementary/videos/pull/321\r\n* Objects.Video: remove unused properties, signals, functions by @danirabbit in https://github.com/elementary/videos/pull/322\r\n* Bump docker/setup-qemu-action from 1 to 2 by @dependabot in https://github.com/elementary/videos/pull/327\r\n* Bump bilelmoussaoui/flatpak-github-actions from 4 to 5 by @dependabot in https://github.com/elementary/videos/pull/326\r\n* Switch to GHCR containers by @davidmhewitt in https://github.com/elementary/videos/pull/325\r\n* Update flatpak actions to new namespace by @davidmhewitt in https://github.com/elementary/videos/pull/328\r\n* Bump runtime to 7.2 by @danirabbit in https://github.com/elementary/videos/pull/329\r\n* Bump flatpak/flatpak-github-actions from 5 to 6 by @dependabot in https://github.com/elementary/videos/pull/330\r\n* Metainfo Improvements by @danirabbit in https://github.com/elementary/videos/pull/331\r\n\r\n## New Contributors\r\n* @meisenzahl made their first contribution in https://github.com/elementary/videos/pull/323\r\n* @dependabot made their first contribution in https://github.com/elementary/videos/pull/327\r\n\r\n**Full Changelog**: https://github.com/elementary/videos/compare/2.9.0...2.9.1",
+        "href": "https://github.com/elementary/videos/releases/tag/2.9.1"
+      },
+      {
+        "version": "2.9.0",
+        "release_date": "2022-12-10T04:35:28+00:00",
+        "title": "videos 2.9.0 Released",
+        "body": "<p>New features:</p>\n<ul>\n<li>Control playback from the sound indicator</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Make playback duration more accurate</li>\n<li>Translation updates</li>\n</ul>\n",
+        "href": "https://github.com/elementary/videos/releases/tag/2.9.0"
+      },
+      {
+        "version": "2.8.4",
+        "release_date": "2022-06-09T16:57:15+00:00",
+        "title": "videos 2.8.4 Released",
+        "body": "<p>Other updates:</p>\n<ul>\n<li>Update to Flatpak Platform 7</li>\n<li>Translation updates</li>\n</ul>\n",
+        "href": "https://github.com/elementary/videos/releases/tag/2.8.4"
+      },
+      {
+        "version": "2.8.3",
+        "release_date": "2022-01-10T17:54:11+00:00",
+        "title": "videos 2.8.3 Released",
+        "body": "<p>Fixes:</p>\n<ul>\n<li>Fix a crash with certain video codecs</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Update to 6.1 Flatpak runtime</li>\n<li>Translation updates</li>\n</ul>\n",
+        "href": "https://github.com/elementary/videos/releases/tag/2.8.3"
+      },
+      {
+        "version": "2.8.1",
+        "release_date": "2021-12-17T18:35:28+00:00",
+        "title": "videos 2.8.1 Released",
+        "body": "<p>Other updates:</p>\n<ul>\n<li>Fix an issue with removing videos from library</li>\n</ul>\n",
+        "href": "https://github.com/elementary/videos/releases/tag/2.8.1"
+      },
+      {
+        "version": "2.8.0",
+        "release_date": "2021-10-30T02:47:08+00:00",
+        "title": "Videos 2.8.0 Released",
+        "body": "<p>New features:</p>\r\n<ul>\r\n<li>Two-finger swipe to go back</li>\r\n</ul>\r\n<p>Other updates:</p>\r\n<ul>\r\n<li>Translation updates</li>\r\n</ul>",
+        "href": "https://github.com/elementary/videos/releases/tag/2.8.0"
+      },
+      {
+        "version": "2.7.3",
+        "release_date": "2021-07-14T19:10:48+00:00",
+        "title": "videos 2.7.3 Released",
+        "body": "<p>Other updates:</p>\n<ul>\n<li>Fix an issue with accessing library view</li>\n<li>Fix an issue with returning to the welcome page while playing multiple videos</li>\n<li>Prevent sleep while playing a video</li>\n<li>Translation updates</li>\n</ul>\n",
+        "href": "https://github.com/elementary/videos/releases/tag/2.7.3"
+      },
+      {
+        "version": "2.7.2",
+        "release_date": "2020-07-01T16:26:26+00:00",
+        "title": "videos 2.7.2 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Start up faster with large libraries</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Fix cases where subtitles refused to load</li>\n<li>Handle if library folder is deleted or moved</li>\n<li>Translation updates</li>\n</ul>\n",
+        "href": "https://github.com/elementary/videos/releases/tag/2.7.2"
+      },
+      {
+        "version": "2.7.1",
+        "release_date": "2020-04-14T22:18:45+00:00",
+        "title": "videos 2.7.1 Released",
+        "body": "<p>Other updates:</p>\n<ul>\n<li>Reliably update the replay button description and file</li>\n<li>More consistently remember the last playing video and its play position</li>\n<li>Fix missing icon in episode view</li>\n<li>Translation updates</li>\n</ul>\n",
+        "href": "https://github.com/elementary/videos/releases/tag/2.7.1"
+      },
+      {
+        "version": "2.7.0",
+        "release_date": "2019-11-25T17:17:19+00:00",
+        "title": "videos 2.7.0 Released",
+        "body": "videos 2.7.0 is out! \r\n\r\nChanges:\r\n\r\nNew features:\r\n\r\n* Option to automatically play next videos\r\n* Navigate the playlist with the keyboard\r\n* Add a button to clear the playlist\r\n* Show audio track language in settings\r\n* Show playlist item titles in their tooltips\r\n\r\nOther updates:\r\n\r\n* Show an error for unsupported files\r\n* Fix disappearing cursor on headerbar\r\n* Hide seekbar preview when switching windows with Alt + Tab\r\n* Translation updates\r\n",
+        "href": "https://github.com/elementary/videos/releases/tag/2.7.0"
+      },
+      {
+        "version": "2.6.3",
+        "release_date": "2019-01-09T10:19:08+00:00",
+        "title": "Videos 2.6.3 Released",
+        "body": "Videos 2.6.3 is out!\r\n\r\nChanges:\r\n* Build fixes\r\n* Updated translations",
+        "href": "https://github.com/elementary/videos/releases/tag/2.6.3"
+      },
+      {
+        "version": "2.6.2",
+        "release_date": "2018-10-01T06:52:12+00:00",
+        "title": "Videos 2.6.2 Released",
+        "body": "Videos 2.6.2 is out!\r\n\r\nThis release includes build fixes and updated translations.",
+        "href": "https://github.com/elementary/videos/releases/tag/2.6.2"
+      },
+      {
+        "version": "2.6.1",
+        "release_date": "2018-07-31T09:16:04+00:00",
+        "title": "Videos 2.6.1 Released",
+        "body": "Videos 2.6.1 is out!\r\n\r\nThis release includes translation updates.",
+        "href": "https://github.com/elementary/videos/releases/tag/2.6.1"
+      },
+      {
+        "version": "0.2.6",
+        "release_date": "2018-06-20T08:43:37+00:00",
+        "title": "Videos 0.2.6 Released",
+        "body": "Videos 0.2.6 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/videos/issues?q=is%3Aclosed+milestone%3A0.2.6).",
+        "href": "https://github.com/elementary/videos/releases/tag/0.2.6"
+      },
+      {
+        "version": "0.2.5",
+        "release_date": "2018-01-08T19:53:24+00:00",
+        "title": "Audience 0.2.5 Released",
+        "body": "Audience 0.2.5 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/videos/issues?q=is%3Aclosed+milestone%3A0.2.5).",
+        "href": "https://github.com/elementary/videos/releases/tag/0.2.5"
+      },
+      {
+        "version": "0.2.4",
+        "release_date": "2017-08-12T02:05:24+00:00",
+        "title": "Audience 0.2.4 Released",
+        "body": "Audience 0.2.4 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/videos/milestone/3).",
+        "href": "https://github.com/elementary/videos/releases/tag/0.2.4"
+      },
+      {
+        "version": "0.2.3",
+        "release_date": "2017-08-02T11:05:26+00:00",
+        "title": "Audience 0.2.3 Released",
+        "body": "Audience 0.2.3 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/videos/milestone/1?closed=1).",
+        "href": "https://github.com/elementary/videos/releases/tag/0.2.3"
+      }
+    ],
+    "new_commits": 0,
+    "default_branch": "main"
+  },
+  {
     "name": "default-settings",
     "releases": [
       {
@@ -1228,7 +1424,7 @@
         "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
       }
     ],
-    "new_commits": 26,
+    "new_commits": 27,
     "default_branch": "main"
   },
   {
@@ -2572,7 +2768,7 @@
         "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 14,
+    "new_commits": 15,
     "default_branch": "main"
   },
   {
@@ -3010,146 +3206,6 @@
     "default_branch": "main"
   },
   {
-    "name": "videos",
-    "releases": [
-      {
-        "version": "8.0.0",
-        "release_date": "2024-07-25T23:17:35+00:00",
-        "title": "videos 8.0.0 Released",
-        "body": "<p>Improvements:</p>\n<ul>\n<li>Respect dark style preference</li>\n<li>Support repeat one and repeat all</li>\n<li>Performance improvements</li>\n<li>Drop support for optical media</li>\n<li>Translation updates</li>\n</ul>\n",
-        "href": "https://github.com/elementary/videos/releases/tag/8.0.0"
-      },
-      {
-        "version": "3.0.0",
-        "release_date": "2023-08-10T23:58:35+00:00",
-        "title": "Videos 3.0.0 Released!",
-        "body": "## What's Changed\r\n* Use playbin with the gst gtk widget for playback by @leolost2605 in https://github.com/elementary/videos/pull/335\r\n* Separate headerbars with deck pages by @leolost2605 in https://github.com/elementary/videos/pull/336\r\n* PlaylistItem: Some gtk4 preparations by @leolost2605 in https://github.com/elementary/videos/pull/338\r\n* Playlist: Preparations for GTK4 by @leolost2605 in https://github.com/elementary/videos/pull/337\r\n* PlaylistPopover: send app notification when adding by @danirabbit in https://github.com/elementary/videos/pull/270\r\n* LibraryItem: Simplifications and preparations for GTK4 by @leolost2605 in https://github.com/elementary/videos/pull/341\r\n* LibraryPage: Preparations for GTK4 by @leolost2605 in https://github.com/elementary/videos/pull/340\r\n* EpisodesPage: Preparations for GTK4 by @leolost2605 in https://github.com/elementary/videos/pull/339\r\n* README: build with Flatpak by @danirabbit in https://github.com/elementary/videos/pull/342\r\n* BottomBar and PlayerPage: GTK4 preparations by @leolost2605 in https://github.com/elementary/videos/pull/343\r\n* SettingsPopover: Preparations for GTK4 by @leolost2605 in https://github.com/elementary/videos/pull/344\r\n* Window: put everything in a windowhandle by @danirabbit in https://github.com/elementary/videos/pull/346\r\n* PlaybackManager: Improve position querying by @leolost2605 in https://github.com/elementary/videos/pull/348\r\n* Window: Some GTK4 preparations by @leolost2605 in https://github.com/elementary/videos/pull/349\r\n* PreviewPopover: Preparations for GTK4 by @leolost2605 in https://github.com/elementary/videos/pull/347\r\n* Remove unused Clutter by @danirabbit in https://github.com/elementary/videos/pull/350\r\n* Meson: use gnome.post_install to compile schemas by @danirabbit in https://github.com/elementary/videos/pull/351\r\n* Metainfo: 3.0.0 release notes by @danirabbit in https://github.com/elementary/videos/pull/352\r\n* Update screenshots by @danirabbit in https://github.com/elementary/videos/pull/354\r\n* Release 3.0.0 by @danirabbit in https://github.com/elementary/videos/pull/353\r\n* Meson: update to 3.0.0 by @danirabbit in https://github.com/elementary/videos/pull/355\r\n\r\n## New Contributors\r\n* @leolost2605 made their first contribution in https://github.com/elementary/videos/pull/335\r\n\r\n**Full Changelog**: https://github.com/elementary/videos/compare/2.9.1...3.0.0",
-        "href": "https://github.com/elementary/videos/releases/tag/3.0.0"
-      },
-      {
-        "version": "2.9.1",
-        "release_date": "2023-06-01T14:39:31+00:00",
-        "title": "Videos 2.9.1 Released",
-        "body": "## What's Changed\r\n* Application: store repeat state in an Action by @danirabbit in https://github.com/elementary/videos/pull/318\r\n* Create PlaybackManager by @danirabbit in https://github.com/elementary/videos/pull/319\r\n* actions/checkout@v3 by @meisenzahl in https://github.com/elementary/videos/pull/323\r\n* Move playback and pipeline to PlaybackManager by @danirabbit in https://github.com/elementary/videos/pull/321\r\n* Objects.Video: remove unused properties, signals, functions by @danirabbit in https://github.com/elementary/videos/pull/322\r\n* Bump docker/setup-qemu-action from 1 to 2 by @dependabot in https://github.com/elementary/videos/pull/327\r\n* Bump bilelmoussaoui/flatpak-github-actions from 4 to 5 by @dependabot in https://github.com/elementary/videos/pull/326\r\n* Switch to GHCR containers by @davidmhewitt in https://github.com/elementary/videos/pull/325\r\n* Update flatpak actions to new namespace by @davidmhewitt in https://github.com/elementary/videos/pull/328\r\n* Bump runtime to 7.2 by @danirabbit in https://github.com/elementary/videos/pull/329\r\n* Bump flatpak/flatpak-github-actions from 5 to 6 by @dependabot in https://github.com/elementary/videos/pull/330\r\n* Metainfo Improvements by @danirabbit in https://github.com/elementary/videos/pull/331\r\n\r\n## New Contributors\r\n* @meisenzahl made their first contribution in https://github.com/elementary/videos/pull/323\r\n* @dependabot made their first contribution in https://github.com/elementary/videos/pull/327\r\n\r\n**Full Changelog**: https://github.com/elementary/videos/compare/2.9.0...2.9.1",
-        "href": "https://github.com/elementary/videos/releases/tag/2.9.1"
-      },
-      {
-        "version": "2.9.0",
-        "release_date": "2022-12-10T04:35:28+00:00",
-        "title": "videos 2.9.0 Released",
-        "body": "<p>New features:</p>\n<ul>\n<li>Control playback from the sound indicator</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Make playback duration more accurate</li>\n<li>Translation updates</li>\n</ul>\n",
-        "href": "https://github.com/elementary/videos/releases/tag/2.9.0"
-      },
-      {
-        "version": "2.8.4",
-        "release_date": "2022-06-09T16:57:15+00:00",
-        "title": "videos 2.8.4 Released",
-        "body": "<p>Other updates:</p>\n<ul>\n<li>Update to Flatpak Platform 7</li>\n<li>Translation updates</li>\n</ul>\n",
-        "href": "https://github.com/elementary/videos/releases/tag/2.8.4"
-      },
-      {
-        "version": "2.8.3",
-        "release_date": "2022-01-10T17:54:11+00:00",
-        "title": "videos 2.8.3 Released",
-        "body": "<p>Fixes:</p>\n<ul>\n<li>Fix a crash with certain video codecs</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Update to 6.1 Flatpak runtime</li>\n<li>Translation updates</li>\n</ul>\n",
-        "href": "https://github.com/elementary/videos/releases/tag/2.8.3"
-      },
-      {
-        "version": "2.8.1",
-        "release_date": "2021-12-17T18:35:28+00:00",
-        "title": "videos 2.8.1 Released",
-        "body": "<p>Other updates:</p>\n<ul>\n<li>Fix an issue with removing videos from library</li>\n</ul>\n",
-        "href": "https://github.com/elementary/videos/releases/tag/2.8.1"
-      },
-      {
-        "version": "2.8.0",
-        "release_date": "2021-10-30T02:47:08+00:00",
-        "title": "Videos 2.8.0 Released",
-        "body": "<p>New features:</p>\r\n<ul>\r\n<li>Two-finger swipe to go back</li>\r\n</ul>\r\n<p>Other updates:</p>\r\n<ul>\r\n<li>Translation updates</li>\r\n</ul>",
-        "href": "https://github.com/elementary/videos/releases/tag/2.8.0"
-      },
-      {
-        "version": "2.7.3",
-        "release_date": "2021-07-14T19:10:48+00:00",
-        "title": "videos 2.7.3 Released",
-        "body": "<p>Other updates:</p>\n<ul>\n<li>Fix an issue with accessing library view</li>\n<li>Fix an issue with returning to the welcome page while playing multiple videos</li>\n<li>Prevent sleep while playing a video</li>\n<li>Translation updates</li>\n</ul>\n",
-        "href": "https://github.com/elementary/videos/releases/tag/2.7.3"
-      },
-      {
-        "version": "2.7.2",
-        "release_date": "2020-07-01T16:26:26+00:00",
-        "title": "videos 2.7.2 Released",
-        "body": "<p>Improvements:</p>\n<ul>\n<li>Start up faster with large libraries</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Fix cases where subtitles refused to load</li>\n<li>Handle if library folder is deleted or moved</li>\n<li>Translation updates</li>\n</ul>\n",
-        "href": "https://github.com/elementary/videos/releases/tag/2.7.2"
-      },
-      {
-        "version": "2.7.1",
-        "release_date": "2020-04-14T22:18:45+00:00",
-        "title": "videos 2.7.1 Released",
-        "body": "<p>Other updates:</p>\n<ul>\n<li>Reliably update the replay button description and file</li>\n<li>More consistently remember the last playing video and its play position</li>\n<li>Fix missing icon in episode view</li>\n<li>Translation updates</li>\n</ul>\n",
-        "href": "https://github.com/elementary/videos/releases/tag/2.7.1"
-      },
-      {
-        "version": "2.7.0",
-        "release_date": "2019-11-25T17:17:19+00:00",
-        "title": "videos 2.7.0 Released",
-        "body": "videos 2.7.0 is out! \r\n\r\nChanges:\r\n\r\nNew features:\r\n\r\n* Option to automatically play next videos\r\n* Navigate the playlist with the keyboard\r\n* Add a button to clear the playlist\r\n* Show audio track language in settings\r\n* Show playlist item titles in their tooltips\r\n\r\nOther updates:\r\n\r\n* Show an error for unsupported files\r\n* Fix disappearing cursor on headerbar\r\n* Hide seekbar preview when switching windows with Alt + Tab\r\n* Translation updates\r\n",
-        "href": "https://github.com/elementary/videos/releases/tag/2.7.0"
-      },
-      {
-        "version": "2.6.3",
-        "release_date": "2019-01-09T10:19:08+00:00",
-        "title": "Videos 2.6.3 Released",
-        "body": "Videos 2.6.3 is out!\r\n\r\nChanges:\r\n* Build fixes\r\n* Updated translations",
-        "href": "https://github.com/elementary/videos/releases/tag/2.6.3"
-      },
-      {
-        "version": "2.6.2",
-        "release_date": "2018-10-01T06:52:12+00:00",
-        "title": "Videos 2.6.2 Released",
-        "body": "Videos 2.6.2 is out!\r\n\r\nThis release includes build fixes and updated translations.",
-        "href": "https://github.com/elementary/videos/releases/tag/2.6.2"
-      },
-      {
-        "version": "2.6.1",
-        "release_date": "2018-07-31T09:16:04+00:00",
-        "title": "Videos 2.6.1 Released",
-        "body": "Videos 2.6.1 is out!\r\n\r\nThis release includes translation updates.",
-        "href": "https://github.com/elementary/videos/releases/tag/2.6.1"
-      },
-      {
-        "version": "0.2.6",
-        "release_date": "2018-06-20T08:43:37+00:00",
-        "title": "Videos 0.2.6 Released",
-        "body": "Videos 0.2.6 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/videos/issues?q=is%3Aclosed+milestone%3A0.2.6).",
-        "href": "https://github.com/elementary/videos/releases/tag/0.2.6"
-      },
-      {
-        "version": "0.2.5",
-        "release_date": "2018-01-08T19:53:24+00:00",
-        "title": "Audience 0.2.5 Released",
-        "body": "Audience 0.2.5 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/videos/issues?q=is%3Aclosed+milestone%3A0.2.5).",
-        "href": "https://github.com/elementary/videos/releases/tag/0.2.5"
-      },
-      {
-        "version": "0.2.4",
-        "release_date": "2017-08-12T02:05:24+00:00",
-        "title": "Audience 0.2.4 Released",
-        "body": "Audience 0.2.4 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/videos/milestone/3).",
-        "href": "https://github.com/elementary/videos/releases/tag/0.2.4"
-      },
-      {
-        "version": "0.2.3",
-        "release_date": "2017-08-02T11:05:26+00:00",
-        "title": "Audience 0.2.3 Released",
-        "body": "Audience 0.2.3 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/videos/milestone/1?closed=1).",
-        "href": "https://github.com/elementary/videos/releases/tag/0.2.3"
-      }
-    ],
-    "new_commits": 2,
-    "default_branch": "main"
-  },
-  {
     "name": "music",
     "releases": [
       {
@@ -3419,7 +3475,7 @@
         "href": "https://github.com/elementary/settings-daemon/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 49,
+    "new_commits": 50,
     "default_branch": "main"
   },
   {
@@ -3671,7 +3727,7 @@
         "href": "https://github.com/elementary/installer/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 19,
+    "new_commits": 20,
     "default_branch": "main"
   },
   {
@@ -6065,7 +6121,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 237,
+    "new_commits": 238,
     "default_branch": "main"
   },
   {
@@ -7558,48 +7614,6 @@
     ],
     "new_commits": 0,
     "default_branch": "master"
-  },
-  {
-    "name": "session-settings",
-    "releases": [
-      {
-        "version": "6.0.0",
-        "release_date": "2021-02-19T20:24:49+00:00",
-        "title": "Session Settings 6.0.0 Released",
-        "body": "A fairly hefty rewrite that should make things more portable to other distros!",
-        "href": "https://github.com/elementary/session-settings/releases/tag/6.0.0"
-      },
-      {
-        "version": "5.0.3",
-        "release_date": "2018-09-14T17:26:37+00:00",
-        "title": "Session Settings 5.0.3 Released",
-        "body": "`pantheon-xsession-settings` 5.0.3 is out!\r\n\r\nThis release launches `gala-daemon` as part of the Pantheon session.",
-        "href": "https://github.com/elementary/session-settings/releases/tag/5.0.3"
-      },
-      {
-        "version": "5.0.2",
-        "release_date": "2018-07-27T04:07:14+00:00",
-        "title": "Session Settings 5.0.2 Released",
-        "body": "`pantheon-xsession-settings` 5.0.2 is out!\r\n\r\nThis release includes updated mimetype associations and removes the Cerbere autostart entry now shipped by Cerbere 0.2.4 instead.",
-        "href": "https://github.com/elementary/session-settings/releases/tag/5.0.2"
-      },
-      {
-        "version": "5.0.1",
-        "release_date": "2018-05-30T22:14:56+00:00",
-        "title": "Session Settings 5.0.1 Released",
-        "body": "`pantheon-xsession-setting` 5.0.1 is out!\r\n\r\nThis release adapts the Cerbere symlink to changes found in Cerbere 0.2.3.",
-        "href": "https://github.com/elementary/session-settings/releases/tag/5.0.1"
-      },
-      {
-        "version": "5.0",
-        "release_date": "2018-05-23T13:13:58+00:00",
-        "title": "Session Settings 5.0 Released",
-        "body": "`pantheon-xsession-settings` 5.0 is out!",
-        "href": "https://github.com/elementary/session-settings/releases/tag/5.0"
-      }
-    ],
-    "new_commits": 233,
-    "default_branch": "main"
   },
   {
     "name": "actions",
