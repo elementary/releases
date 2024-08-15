@@ -1172,7 +1172,7 @@
         "href": "https://github.com/elementary/tasks/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 0,
+    "new_commits": 1,
     "default_branch": "master"
   },
   {
@@ -2208,7 +2208,7 @@
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 29,
+    "new_commits": 30,
     "default_branch": "main"
   },
   {
@@ -3986,7 +3986,7 @@
         "href": "https://github.com/elementary/portals/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 77,
+    "new_commits": 79,
     "default_branch": "main"
   },
   {
