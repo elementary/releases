@@ -2845,7 +2845,7 @@
         "href": "https://github.com/elementary/switchboard-plug-datetime/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 56,
+    "new_commits": 58,
     "default_branch": "main"
   },
   {
@@ -3314,7 +3314,7 @@
         "href": "https://github.com/elementary/music/releases/tag/0.4.0.3"
       }
     ],
-    "new_commits": 14,
+    "new_commits": 16,
     "default_branch": "main"
   },
   {
@@ -3727,7 +3727,7 @@
         "href": "https://github.com/elementary/installer/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 20,
+    "new_commits": 22,
     "default_branch": "main"
   },
   {
@@ -4238,7 +4238,7 @@
         "href": "https://github.com/elementary/terminal/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 36,
+    "new_commits": 39,
     "default_branch": "master"
   },
   {
@@ -6121,7 +6121,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 243,
+    "new_commits": 246,
     "default_branch": "main"
   },
   {
