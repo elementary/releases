@@ -192,7 +192,7 @@
         "href": "https://github.com/elementary/videos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 0,
+    "new_commits": 1,
     "default_branch": "main"
   },
   {
@@ -3923,7 +3923,7 @@
         "href": "https://github.com/elementary/notifications/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 14,
+    "new_commits": 15,
     "default_branch": "master"
   },
   {
@@ -4539,7 +4539,7 @@
         "href": "https://github.com/elementary/photos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 21,
+    "new_commits": 23,
     "default_branch": "master"
   },
   {
@@ -5057,7 +5057,7 @@
         "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 32,
+    "new_commits": 33,
     "default_branch": "main"
   },
   {
