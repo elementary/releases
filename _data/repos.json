@@ -1172,7 +1172,7 @@
         "href": "https://github.com/elementary/tasks/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 1,
+    "new_commits": 4,
     "default_branch": "master"
   },
   {
@@ -3314,7 +3314,7 @@
         "href": "https://github.com/elementary/music/releases/tag/0.4.0.3"
       }
     ],
-    "new_commits": 16,
+    "new_commits": 24,
     "default_branch": "main"
   },
   {
@@ -3867,7 +3867,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 35,
+    "new_commits": 37,
     "default_branch": "master"
   },
   {
