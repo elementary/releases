@@ -1424,7 +1424,7 @@
         "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
       }
     ],
-    "new_commits": 27,
+    "new_commits": 28,
     "default_branch": "main"
   },
   {
@@ -1697,7 +1697,7 @@
         "href": "https://github.com/elementary/switchboard-plug-security-privacy/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 76,
+    "new_commits": 77,
     "default_branch": "main"
   },
   {
@@ -1879,7 +1879,7 @@
         "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/0.1"
       }
     ],
-    "new_commits": 79,
+    "new_commits": 80,
     "default_branch": "main"
   },
   {
@@ -1984,7 +1984,7 @@
         "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/2.0"
       }
     ],
-    "new_commits": 61,
+    "new_commits": 62,
     "default_branch": "main"
   },
   {
@@ -2208,7 +2208,7 @@
         "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 30,
+    "new_commits": 31,
     "default_branch": "main"
   },
   {
@@ -2565,7 +2565,7 @@
         "href": "https://github.com/elementary/switchboard-plug-power/releases/tag/0.3.1"
       }
     ],
-    "new_commits": 73,
+    "new_commits": 74,
     "default_branch": "main"
   },
   {
@@ -2768,7 +2768,7 @@
         "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 19,
+    "new_commits": 20,
     "default_branch": "main"
   },
   {
@@ -2936,7 +2936,7 @@
         "href": "https://github.com/elementary/switchboard-plug-applications/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 12,
+    "new_commits": 13,
     "default_branch": "main"
   },
   {
@@ -3202,7 +3202,7 @@
         "href": "https://github.com/elementary/switchboard-plug-about/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 29,
+    "new_commits": 30,
     "default_branch": "main"
   },
   {
@@ -3727,7 +3727,7 @@
         "href": "https://github.com/elementary/installer/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 22,
+    "new_commits": 24,
     "default_branch": "main"
   },
   {
@@ -5764,7 +5764,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 94,
+    "new_commits": 95,
     "default_branch": "master"
   },
   {
@@ -7199,7 +7199,7 @@
         "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 122,
+    "new_commits": 126,
     "default_branch": "main"
   },
   {
@@ -7367,7 +7367,7 @@
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
       }
     ],
-    "new_commits": 152,
+    "new_commits": 153,
     "default_branch": "master"
   },
   {
@@ -7549,7 +7549,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-datetime/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 84,
+    "new_commits": 85,
     "default_branch": "master"
   },
   {
