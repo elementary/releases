@@ -1,5 +1,138 @@
 [
   {
+    "name": "switchboard-plug-display",
+    "releases": [
+      {
+        "version": "8.0.0",
+        "release_date": "2024-08-20T15:16:12+00:00",
+        "title": "Display Settings 8.0.0 Released",
+        "body": "## What's Changed\r\n* Add missing deeplink handlers by @itsravenous in https://github.com/elementary/switchboard-plug-display/pull/361\r\n* DisplayWidget: Gtk4 prep by @danirabbit in https://github.com/elementary/switchboard-plug-display/pull/368\r\n* DisplaysOverlay: keep a list of widgets by @danirabbit in https://github.com/elementary/switchboard-plug-display/pull/370\r\n* DisplaysView: Gtk4 prep by @danirabbit in https://github.com/elementary/switchboard-plug-display/pull/373\r\n* Use daemon to show display labels by @leolost2605 in https://github.com/elementary/switchboard-plug-display/pull/372\r\n* Move drag gesture to overlay; simplify by @jeremypw in https://github.com/elementary/switchboard-plug-display/pull/376\r\n* DisplaysOverlay: put overlay in a box by @danirabbit in https://github.com/elementary/switchboard-plug-display/pull/378\r\n* Styles: Gtk4 prep by @danirabbit in https://github.com/elementary/switchboard-plug-display/pull/379\r\n* Port to GTK4 by @danirabbit in https://github.com/elementary/switchboard-plug-display/pull/369\r\n* Handle own titlebuttons by @danirabbit in https://github.com/elementary/switchboard-plug-display/pull/380\r\n* l10n: Make use_switch translatable by @ryonakano in https://github.com/elementary/switchboard-plug-display/pull/383\r\n* Fix apply unsensitive with only a single monitor by @leolost2605 in https://github.com/elementary/switchboard-plug-display/pull/385\r\n* MonitorManager: emit modes_changed by @leolost2605 in https://github.com/elementary/switchboard-plug-display/pull/393\r\n* Show errors when applying by @leolost2605 in https://github.com/elementary/switchboard-plug-display/pull/394\r\n* Display: Support fractional scaling if enabled by @leolost2605 in https://github.com/elementary/switchboard-plug-display/pull/392\r\n* Create SensorManager, detect before accel search result by @danirabbit in https://github.com/elementary/switchboard-plug-display/pull/388\r\n\r\n## New Contributors\r\n* @itsravenous made their first contribution in https://github.com/elementary/switchboard-plug-display/pull/361\r\n* @leolost2605 made their first contribution in https://github.com/elementary/switchboard-plug-display/pull/372\r\n\r\n**Full Changelog**: https://github.com/elementary/switchboard-plug-display/compare/7.0.0...8.0.0",
+        "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/8.0.0"
+      },
+      {
+        "version": "7.0.0",
+        "release_date": "2023-06-27T16:09:11+00:00",
+        "title": "Display Settings 7.0.0 Released!",
+        "body": "## What's Changed\r\n* Prefer the resolution modes marked is_preferred by @vjr in https://github.com/elementary/switchboard-plug-display/pull/337\r\n* Switch to GHCR containers by @davidmhewitt in https://github.com/elementary/switchboard-plug-display/pull/344\r\n* NightLightView: Redesign and cleanup by @danirabbit in https://github.com/elementary/switchboard-plug-display/pull/351\r\n* Create Filters View by @danirabbit in https://github.com/elementary/switchboard-plug-display/pull/350\r\n* Metainfo Improvements by @danirabbit in https://github.com/elementary/switchboard-plug-display/pull/354\r\n\r\n## New Contributors\r\n* @vjr made their first contribution in https://github.com/elementary/switchboard-plug-display/pull/337\r\n* @dependabot made their first contribution in https://github.com/elementary/switchboard-plug-display/pull/345\r\n\r\n**Full Changelog**: https://github.com/elementary/switchboard-plug-display/compare/2.3.3...7.0.0",
+        "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/7.0.0"
+      },
+      {
+        "version": "2.3.3",
+        "release_date": "2022-10-26T04:41:11+00:00",
+        "title": "switchboard-plug-display 2.3.3 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/2.3.3"
+      },
+      {
+        "version": "2.3.2",
+        "release_date": "2021-10-26T17:46:22+00:00",
+        "title": "Display Settings 2.3.2 Released!",
+        "body": "<p>Improvements:</p>\r\n<ul>\r\n<li>Move resolutions with a different aspect ratio to a submenu</li>\r\n<li>Improve brightness in the dark style</li>\r\n</ul>\r\n<p>Fixes:</p>\r\n<ul>\r\n<li>Show display name on all workspaces</li>\r\n</ul>\r\n<p>Minor updates:</p>\r\n<ul>\r\n<li>Updated translations</li>\r\n</ul>",
+        "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/2.3.2"
+      },
+      {
+        "version": "2.3.1",
+        "release_date": "2021-08-20T21:32:54+00:00",
+        "title": "switchboard-plug-display 2.3.1 Released",
+        "body": "<p>Fixes:</p>\n<ul>\n<li>Ensure the \"Use this display\" switch works in more circumstances</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/2.3.1"
+      },
+      {
+        "version": "2.3.0",
+        "release_date": "2021-07-14T21:44:46+00:00",
+        "title": "switchboard-plug-display 2.3.0 Released",
+        "body": "<p>New features:</p>\n<ul>\n<li>Support 3× scaling</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Reliably detect accelerometers</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/2.3.0"
+      },
+      {
+        "version": "2.2.2",
+        "release_date": "2020-05-28T23:40:12+00:00",
+        "title": "switchboard-plug-display 2.2.2 Released",
+        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/2.2.2"
+      },
+      {
+        "version": "2.2.1",
+        "release_date": "2020-04-08T20:14:06+00:00",
+        "title": "switchboard-plug-display 2.2.1 Released",
+        "body": "<ul>\n<li>Fix 1px gaps between displays</li>\n<li>Properly center rotated displays</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/2.2.1"
+      },
+      {
+        "version": "2.2.0",
+        "release_date": "2019-11-15T23:04:19+00:00",
+        "title": "switchboard-plug-display 2.2.0 Released",
+        "body": "switchboard-plug-display 2.2.0 is out! \n\nChanges:\n\n* Improved multi-display layouts with better snapping and aligning\n* Fixed the placement of display name tags\n* Updated translations\n",
+        "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/2.2.0"
+      },
+      {
+        "version": "2.1.9",
+        "release_date": "2019-09-24T15:20:51+00:00",
+        "title": "Switchboard Display Plug 2.1.9 Released",
+        "body": "switchboard-plug-display 2.1.9 is out!\r\n\r\nChanges:\r\n* Nightlight: parse minutes in schedule input properly\r\n* Build system install path fix\r\n* Updated translations",
+        "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/2.1.9"
+      },
+      {
+        "version": "2.1.8",
+        "release_date": "2019-04-22T11:09:15+00:00",
+        "title": "Switchboard Display Plug 2.1.8 Released",
+        "body": "switchboard-plug-display 2.1.8 is out!\r\n\r\nChanges:\r\n* Updated translations",
+        "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/2.1.8"
+      },
+      {
+        "version": "2.1.7",
+        "release_date": "2019-04-05T16:05:19+00:00",
+        "title": "Switchboard Display Plug 2.1.7 Released",
+        "body": "switchboard-plug-display 2.1.7 is out!\r\n\r\nChanges:\r\n* Use Mutter API to apply DPI changes\r\n* Tweak display colors CSS\r\n* DisplayWidget: Use Gtk.MenuButton instead of Gtk.ToggleButton\r\n* Updated translations",
+        "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/2.1.7"
+      },
+      {
+        "version": "2.1.6",
+        "release_date": "2018-12-21T14:18:01+00:00",
+        "title": "Switchboard Display Plug 2.1.6 Released",
+        "body": "switchboard-plug-display 2.1.6 is out!\r\n\r\nChanges:\r\n* Search keyword improvements\r\n* Refresh Rate controls\r\n* Nightlight settings are insensitive while disabled\r\n* Change \"Rotation\" label to \"Screen rotation\"\r\n* Updated translations",
+        "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/2.1.6"
+      },
+      {
+        "version": "2.1.5",
+        "release_date": "2018-10-01T07:23:46+00:00",
+        "title": "Display Plug 2.1.5 Released",
+        "body": "switchboard-plug-display 2.1.5 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-display/issues?q=is%3Aclosed+milestone%3A2.1.5).",
+        "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/2.1.5"
+      },
+      {
+        "version": "0.1.4",
+        "release_date": "2018-06-19T06:43:20+00:00",
+        "title": "Display Plug 0.1.4 Released",
+        "body": "switchboard-plug-display 0.1.4 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-display/issues?q=is%3Aclosed+milestone%3A0.1.4).",
+        "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/0.1.4"
+      },
+      {
+        "version": "0.1.3",
+        "release_date": "2017-05-02T20:26:18+00:00",
+        "title": "Display Plug 0.1.3 Released",
+        "body": "switchboard-plug-display 0.1.3 is out!",
+        "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/0.1.3"
+      }
+    ],
+    "new_commits": 1,
+    "default_branch": "main"
+  },
+  {
+    "name": "dock",
+    "releases": [
+      {
+        "version": "8.0.0",
+        "release_date": "2024-08-20T15:02:39+00:00",
+        "title": "dock 8.0.0 Released",
+        "body": "<p>Complete rewrite 🎉️</p>\n",
+        "href": "https://github.com/elementary/dock/releases/tag/8.0.0"
+      }
+    ],
+    "new_commits": 0,
+    "default_branch": "main"
+  },
+  {
     "name": "shortcut-overlay",
     "releases": [
       {
@@ -7124,118 +7257,6 @@
     ],
     "new_commits": 110,
     "default_branch": "master"
-  },
-  {
-    "name": "switchboard-plug-display",
-    "releases": [
-      {
-        "version": "7.0.0",
-        "release_date": "2023-06-27T16:09:11+00:00",
-        "title": "Display Settings 7.0.0 Released!",
-        "body": "## What's Changed\r\n* Prefer the resolution modes marked is_preferred by @vjr in https://github.com/elementary/switchboard-plug-display/pull/337\r\n* Switch to GHCR containers by @davidmhewitt in https://github.com/elementary/switchboard-plug-display/pull/344\r\n* NightLightView: Redesign and cleanup by @danirabbit in https://github.com/elementary/switchboard-plug-display/pull/351\r\n* Create Filters View by @danirabbit in https://github.com/elementary/switchboard-plug-display/pull/350\r\n* Metainfo Improvements by @danirabbit in https://github.com/elementary/switchboard-plug-display/pull/354\r\n\r\n## New Contributors\r\n* @vjr made their first contribution in https://github.com/elementary/switchboard-plug-display/pull/337\r\n* @dependabot made their first contribution in https://github.com/elementary/switchboard-plug-display/pull/345\r\n\r\n**Full Changelog**: https://github.com/elementary/switchboard-plug-display/compare/2.3.3...7.0.0",
-        "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/7.0.0"
-      },
-      {
-        "version": "2.3.3",
-        "release_date": "2022-10-26T04:41:11+00:00",
-        "title": "switchboard-plug-display 2.3.3 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/2.3.3"
-      },
-      {
-        "version": "2.3.2",
-        "release_date": "2021-10-26T17:46:22+00:00",
-        "title": "Display Settings 2.3.2 Released!",
-        "body": "<p>Improvements:</p>\r\n<ul>\r\n<li>Move resolutions with a different aspect ratio to a submenu</li>\r\n<li>Improve brightness in the dark style</li>\r\n</ul>\r\n<p>Fixes:</p>\r\n<ul>\r\n<li>Show display name on all workspaces</li>\r\n</ul>\r\n<p>Minor updates:</p>\r\n<ul>\r\n<li>Updated translations</li>\r\n</ul>",
-        "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/2.3.2"
-      },
-      {
-        "version": "2.3.1",
-        "release_date": "2021-08-20T21:32:54+00:00",
-        "title": "switchboard-plug-display 2.3.1 Released",
-        "body": "<p>Fixes:</p>\n<ul>\n<li>Ensure the \"Use this display\" switch works in more circumstances</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/2.3.1"
-      },
-      {
-        "version": "2.3.0",
-        "release_date": "2021-07-14T21:44:46+00:00",
-        "title": "switchboard-plug-display 2.3.0 Released",
-        "body": "<p>New features:</p>\n<ul>\n<li>Support 3× scaling</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Reliably detect accelerometers</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/2.3.0"
-      },
-      {
-        "version": "2.2.2",
-        "release_date": "2020-05-28T23:40:12+00:00",
-        "title": "switchboard-plug-display 2.2.2 Released",
-        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/2.2.2"
-      },
-      {
-        "version": "2.2.1",
-        "release_date": "2020-04-08T20:14:06+00:00",
-        "title": "switchboard-plug-display 2.2.1 Released",
-        "body": "<ul>\n<li>Fix 1px gaps between displays</li>\n<li>Properly center rotated displays</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/2.2.1"
-      },
-      {
-        "version": "2.2.0",
-        "release_date": "2019-11-15T23:04:19+00:00",
-        "title": "switchboard-plug-display 2.2.0 Released",
-        "body": "switchboard-plug-display 2.2.0 is out! \n\nChanges:\n\n* Improved multi-display layouts with better snapping and aligning\n* Fixed the placement of display name tags\n* Updated translations\n",
-        "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/2.2.0"
-      },
-      {
-        "version": "2.1.9",
-        "release_date": "2019-09-24T15:20:51+00:00",
-        "title": "Switchboard Display Plug 2.1.9 Released",
-        "body": "switchboard-plug-display 2.1.9 is out!\r\n\r\nChanges:\r\n* Nightlight: parse minutes in schedule input properly\r\n* Build system install path fix\r\n* Updated translations",
-        "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/2.1.9"
-      },
-      {
-        "version": "2.1.8",
-        "release_date": "2019-04-22T11:09:15+00:00",
-        "title": "Switchboard Display Plug 2.1.8 Released",
-        "body": "switchboard-plug-display 2.1.8 is out!\r\n\r\nChanges:\r\n* Updated translations",
-        "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/2.1.8"
-      },
-      {
-        "version": "2.1.7",
-        "release_date": "2019-04-05T16:05:19+00:00",
-        "title": "Switchboard Display Plug 2.1.7 Released",
-        "body": "switchboard-plug-display 2.1.7 is out!\r\n\r\nChanges:\r\n* Use Mutter API to apply DPI changes\r\n* Tweak display colors CSS\r\n* DisplayWidget: Use Gtk.MenuButton instead of Gtk.ToggleButton\r\n* Updated translations",
-        "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/2.1.7"
-      },
-      {
-        "version": "2.1.6",
-        "release_date": "2018-12-21T14:18:01+00:00",
-        "title": "Switchboard Display Plug 2.1.6 Released",
-        "body": "switchboard-plug-display 2.1.6 is out!\r\n\r\nChanges:\r\n* Search keyword improvements\r\n* Refresh Rate controls\r\n* Nightlight settings are insensitive while disabled\r\n* Change \"Rotation\" label to \"Screen rotation\"\r\n* Updated translations",
-        "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/2.1.6"
-      },
-      {
-        "version": "2.1.5",
-        "release_date": "2018-10-01T07:23:46+00:00",
-        "title": "Display Plug 2.1.5 Released",
-        "body": "switchboard-plug-display 2.1.5 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-display/issues?q=is%3Aclosed+milestone%3A2.1.5).",
-        "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/2.1.5"
-      },
-      {
-        "version": "0.1.4",
-        "release_date": "2018-06-19T06:43:20+00:00",
-        "title": "Display Plug 0.1.4 Released",
-        "body": "switchboard-plug-display 0.1.4 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-display/issues?q=is%3Aclosed+milestone%3A0.1.4).",
-        "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/0.1.4"
-      },
-      {
-        "version": "0.1.3",
-        "release_date": "2017-05-02T20:26:18+00:00",
-        "title": "Display Plug 0.1.3 Released",
-        "body": "switchboard-plug-display 0.1.3 is out!",
-        "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/0.1.3"
-      }
-    ],
-    "new_commits": 129,
-    "default_branch": "main"
   },
   {
     "name": "applications-menu",
