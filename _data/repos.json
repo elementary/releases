@@ -1,5 +1,89 @@
 [
   {
+    "name": "shortcut-overlay",
+    "releases": [
+      {
+        "version": "8.0.1",
+        "release_date": "2024-08-20T14:07:58+00:00",
+        "title": "shortcut-overlay 8.0.1 Released",
+        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/8.0.1"
+      },
+      {
+        "version": "8.0.0",
+        "release_date": "2024-06-06T19:52:26+00:00",
+        "title": "shortcut-overlay 8.0.0 Released",
+        "body": "<ul>\n<li>Updated translations</li>\n<li>Show screen reader shortcut</li>\n</ul>\n",
+        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/8.0.0"
+      },
+      {
+        "version": "2.0.1",
+        "release_date": "2022-10-26T16:51:28+00:00",
+        "title": "shortcut-overlay 2.0.1 Released",
+        "body": "<ul>\n<li>Show in the applications menu</li>\n<li>Replace keyboard settings button with a labeled link button</li>\n<li>Show on-screen keyboard shortcut</li>\n<li>Close with the shortcut Ctrl + Q</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/2.0.1"
+      },
+      {
+        "version": "2.0.0",
+        "release_date": "2022-05-12T16:35:54+00:00",
+        "title": "shortcut-overlay 2.0.0 Released",
+        "body": "<ul>\n<li>Update for OS 7 and Gtk 4</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/2.0.0"
+      },
+      {
+        "version": "1.2.1",
+        "release_date": "2021-10-29T23:12:16+00:00",
+        "title": "Shortcut Overlay 1.2.1 Released",
+        "body": "<ul>\r\n<li>Fix the app not launching if a shortcut key is set to blank</li>\r\n<li>Updated translations</li>\r\n</ul>",
+        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.2.1"
+      },
+      {
+        "version": "1.2.0",
+        "release_date": "2021-07-14T18:03:45+00:00",
+        "title": "shortcut-overlay 1.2.0 Released",
+        "body": "<ul>\n<li>Add screenshot shortcuts</li>\n<li>Fix issues with multiple windows</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.2.0"
+      },
+      {
+        "version": "1.1.2",
+        "release_date": "2020-05-28T18:52:24+00:00",
+        "title": "shortcut-overlay 1.1.2 Released",
+        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.1.2"
+      },
+      {
+        "version": "1.1.1",
+        "release_date": "2020-04-03T18:43:00+00:00",
+        "title": "shortcut-overlay 1.1.1 Released",
+        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.1.1"
+      },
+      {
+        "version": "1.1.0",
+        "release_date": "2019-11-15T21:51:50+00:00",
+        "title": "shortcut-overlay 1.1.0 Released",
+        "body": "shortcut-overlay 1.1.0 is out! \n\nChanges:\n\n* Add \"Switch Layout\" and \"Close Window\", shortcuts\n* Updated translations\n",
+        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.1.0"
+      },
+      {
+        "version": "1.0.1",
+        "release_date": "2018-09-17T22:43:39+00:00",
+        "title": "Shortcut Overlay 1.0.1 Released",
+        "body": "Shortcut Overlay 1.0.1 is out!\r\n\r\nChanges:\r\n* Delay destroying window to avoid triggering a re-open\r\n* New translations",
+        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.0.1"
+      },
+      {
+        "version": "1.0",
+        "release_date": "2018-06-05T08:43:11+00:00",
+        "title": "Shortcut Overlay 1.0 Released",
+        "body": "Shortcut Overlay 1.0 is out!\r\n\r\nThis is the initial release.",
+        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.0"
+      }
+    ],
+    "new_commits": 3,
+    "default_branch": "main"
+  },
+  {
     "name": "switchboard-plug-keyboard",
     "releases": [
       {
@@ -4716,83 +4800,6 @@
     ],
     "new_commits": 23,
     "default_branch": "master"
-  },
-  {
-    "name": "shortcut-overlay",
-    "releases": [
-      {
-        "version": "8.0.0",
-        "release_date": "2024-06-06T19:52:26+00:00",
-        "title": "shortcut-overlay 8.0.0 Released",
-        "body": "<ul>\n<li>Updated translations</li>\n<li>Show screen reader shortcut</li>\n</ul>\n",
-        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/8.0.0"
-      },
-      {
-        "version": "2.0.1",
-        "release_date": "2022-10-26T16:51:28+00:00",
-        "title": "shortcut-overlay 2.0.1 Released",
-        "body": "<ul>\n<li>Show in the applications menu</li>\n<li>Replace keyboard settings button with a labeled link button</li>\n<li>Show on-screen keyboard shortcut</li>\n<li>Close with the shortcut Ctrl + Q</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/2.0.1"
-      },
-      {
-        "version": "2.0.0",
-        "release_date": "2022-05-12T16:35:54+00:00",
-        "title": "shortcut-overlay 2.0.0 Released",
-        "body": "<ul>\n<li>Update for OS 7 and Gtk 4</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/2.0.0"
-      },
-      {
-        "version": "1.2.1",
-        "release_date": "2021-10-29T23:12:16+00:00",
-        "title": "Shortcut Overlay 1.2.1 Released",
-        "body": "<ul>\r\n<li>Fix the app not launching if a shortcut key is set to blank</li>\r\n<li>Updated translations</li>\r\n</ul>",
-        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.2.1"
-      },
-      {
-        "version": "1.2.0",
-        "release_date": "2021-07-14T18:03:45+00:00",
-        "title": "shortcut-overlay 1.2.0 Released",
-        "body": "<ul>\n<li>Add screenshot shortcuts</li>\n<li>Fix issues with multiple windows</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.2.0"
-      },
-      {
-        "version": "1.1.2",
-        "release_date": "2020-05-28T18:52:24+00:00",
-        "title": "shortcut-overlay 1.1.2 Released",
-        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.1.2"
-      },
-      {
-        "version": "1.1.1",
-        "release_date": "2020-04-03T18:43:00+00:00",
-        "title": "shortcut-overlay 1.1.1 Released",
-        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.1.1"
-      },
-      {
-        "version": "1.1.0",
-        "release_date": "2019-11-15T21:51:50+00:00",
-        "title": "shortcut-overlay 1.1.0 Released",
-        "body": "shortcut-overlay 1.1.0 is out! \n\nChanges:\n\n* Add \"Switch Layout\" and \"Close Window\", shortcuts\n* Updated translations\n",
-        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.1.0"
-      },
-      {
-        "version": "1.0.1",
-        "release_date": "2018-09-17T22:43:39+00:00",
-        "title": "Shortcut Overlay 1.0.1 Released",
-        "body": "Shortcut Overlay 1.0.1 is out!\r\n\r\nChanges:\r\n* Delay destroying window to avoid triggering a re-open\r\n* New translations",
-        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.0.1"
-      },
-      {
-        "version": "1.0",
-        "release_date": "2018-06-05T08:43:11+00:00",
-        "title": "Shortcut Overlay 1.0 Released",
-        "body": "Shortcut Overlay 1.0 is out!\r\n\r\nThis is the initial release.",
-        "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.0"
-      }
-    ],
-    "new_commits": 41,
-    "default_branch": "main"
   },
   {
     "name": "capnet-assist",
