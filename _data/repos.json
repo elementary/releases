@@ -150,7 +150,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 0,
+    "new_commits": 1,
     "default_branch": "main"
   },
   {
@@ -528,7 +528,7 @@
         "href": "https://github.com/elementary/session-settings/releases/tag/5.0"
       }
     ],
-    "new_commits": 3,
+    "new_commits": 5,
     "default_branch": "main"
   },
   {
@@ -3006,7 +3006,7 @@
         "href": "https://github.com/elementary/switchboard-plug-datetime/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 60,
+    "new_commits": 62,
     "default_branch": "main"
   },
   {
@@ -3636,7 +3636,7 @@
         "href": "https://github.com/elementary/settings-daemon/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 58,
+    "new_commits": 61,
     "default_branch": "main"
   },
   {
@@ -4147,7 +4147,7 @@
         "href": "https://github.com/elementary/portals/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 114,
+    "new_commits": 116,
     "default_branch": "main"
   },
   {
@@ -4483,7 +4483,7 @@
         "href": "https://github.com/elementary/sideload/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 51,
+    "new_commits": 52,
     "default_branch": "main"
   },
   {
@@ -5393,7 +5393,7 @@
         "href": "https://github.com/elementary/flatpak-platform/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 30,
+    "new_commits": 31,
     "default_branch": "main"
   },
   {
@@ -5743,7 +5743,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 66,
+    "new_commits": 67,
     "default_branch": "main"
   },
   {
@@ -6800,7 +6800,7 @@
         "href": "https://github.com/elementary/greeter/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 115,
+    "new_commits": 116,
     "default_branch": "master"
   },
   {
