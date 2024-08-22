@@ -521,7 +521,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-nightlight/releases/tag/2.0"
       }
     ],
-    "new_commits": 0,
+    "new_commits": 1,
     "default_branch": "master"
   },
   {
@@ -3405,7 +3405,7 @@
         "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/0.1"
       }
     ],
-    "new_commits": 81,
+    "new_commits": 82,
     "default_branch": "main"
   },
   {
@@ -3762,7 +3762,7 @@
         "href": "https://github.com/elementary/switchboard-plug-printers/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 84,
+    "new_commits": 85,
     "default_branch": "main"
   },
   {
@@ -7682,7 +7682,7 @@
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
       }
     ],
-    "new_commits": 155,
+    "new_commits": 157,
     "default_branch": "master"
   },
   {
