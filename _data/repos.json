@@ -5561,13 +5561,6 @@
         "href": "https://github.com/elementary/portals/releases/tag/7.1.0"
       },
       {
-        "version": "7.0.0",
-        "release_date": "2023-02-28T16:31:34+00:00",
-        "title": "Portals 7.0.0 Released",
-        "body": "## What's Changed\r\n* AppChooser: Make primary text translatable by @ryonakano in https://github.com/elementary/portals/pull/59\r\n* Update Meson Files by @Marukesu in https://github.com/elementary/portals/pull/61\r\n* Port to Gtk4 by @marbetschar in https://github.com/elementary/portals/pull/53\r\n* Access: Minor Rework by @Marukesu in https://github.com/elementary/portals/pull/62\r\n* Metainfo Improvements by @danirabbit in https://github.com/elementary/portals/pull/63\r\n* Release 7.0.0 by @danirabbit in https://github.com/elementary/portals/pull/64\r\n\r\n## New Contributors\r\n* @marbetschar made their first contribution in https://github.com/elementary/portals/pull/53\r\n\r\n**Full Changelog**: https://github.com/elementary/portals/compare/1.2.0...7.0.0",
-        "href": "https://github.com/elementary/portals/releases/tag/7.0.0"
-      },
-      {
         "version": "1.2.0",
         "release_date": "2022-10-27T16:44:00+00:00",
         "title": "portals 1.2.0 Released",
@@ -5587,13 +5580,6 @@
         "title": "Portals 1.0.1 Released!",
         "body": "## What's Changed\r\n* Watch for xdg-desktop-portal starting before binding style scheme by @davidmhewitt in https://github.com/elementary/portals/pull/34\r\n\r\n**Full Changelog**: https://github.com/elementary/portals/compare/1.0.0...1.0.1",
         "href": "https://github.com/elementary/portals/releases/tag/1.0.1"
-      },
-      {
-        "version": "1.0.0",
-        "release_date": "2021-10-25T16:57:13+00:00",
-        "title": "Portals 1.0.0 Released!",
-        "body": "<p>First release!</p>\r\n<ul>\r\n<li>Add OpenURI Portal</li>\r\n</ul>",
-        "href": "https://github.com/elementary/portals/releases/tag/1.0.0"
       }
     ],
     "new_commits": 116,
