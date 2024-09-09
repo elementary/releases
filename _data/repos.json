@@ -2516,7 +2516,7 @@
         "href": "https://github.com/elementary/videos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 14,
+    "new_commits": 15,
     "default_branch": "main"
   },
   {
@@ -3090,7 +3090,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 61,
+    "new_commits": 62,
     "default_branch": "main"
   },
   {
@@ -3293,7 +3293,7 @@
         "href": "https://github.com/elementary/camera/releases/tag/1.0"
       }
     ],
-    "new_commits": 20,
+    "new_commits": 22,
     "default_branch": "main"
   },
   {
@@ -5337,7 +5337,7 @@
         "href": "https://github.com/elementary/installer/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 48,
+    "new_commits": 49,
     "default_branch": "main"
   },
   {
@@ -6149,7 +6149,7 @@
         "href": "https://github.com/elementary/photos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 24,
+    "new_commits": 26,
     "default_branch": "master"
   },
   {
@@ -7115,7 +7115,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 79,
+    "new_commits": 80,
     "default_branch": "main"
   },
   {
@@ -7584,7 +7584,7 @@
         "href": "https://github.com/elementary/iconbrowser/releases/tag/2.0.0"
       }
     ],
-    "new_commits": 47,
+    "new_commits": 48,
     "default_branch": "main"
   },
   {
@@ -7857,7 +7857,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.0"
       }
     ],
-    "new_commits": 6829,
+    "new_commits": 6831,
     "default_branch": "master"
   },
   {
