@@ -2369,7 +2369,7 @@
         "href": "https://github.com/elementary/session-settings/releases/tag/5.0"
       }
     ],
-    "new_commits": 24,
+    "new_commits": 26,
     "default_branch": "main"
   },
   {
@@ -2516,7 +2516,7 @@
         "href": "https://github.com/elementary/videos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 18,
+    "new_commits": 19,
     "default_branch": "main"
   },
   {
@@ -2698,7 +2698,7 @@
         "href": "https://github.com/elementary/onboarding/releases/tag/1.0"
       }
     ],
-    "new_commits": 36,
+    "new_commits": 41,
     "default_branch": "main"
   },
   {
@@ -5848,7 +5848,7 @@
         "href": "https://github.com/elementary/terminal/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 66,
+    "new_commits": 67,
     "default_branch": "master"
   },
   {
@@ -6247,7 +6247,7 @@
         "href": "https://github.com/elementary/capnet-assist/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 49,
+    "new_commits": 50,
     "default_branch": "master"
   },
   {
@@ -7689,7 +7689,7 @@
         "href": "https://github.com/elementary/greeter/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 130,
+    "new_commits": 133,
     "default_branch": "master"
   },
   {
