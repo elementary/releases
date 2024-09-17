@@ -2103,7 +2103,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 27,
+    "new_commits": 30,
     "default_branch": "main"
   },
   {
@@ -6261,7 +6261,7 @@
         "href": "https://github.com/elementary/photos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 28,
+    "new_commits": 32,
     "default_branch": "master"
   },
   {
@@ -6814,7 +6814,7 @@
         "href": "https://github.com/elementary/switchboard/releases/tag/2.3.0"
       }
     ],
-    "new_commits": 35,
+    "new_commits": 38,
     "default_branch": "main"
   },
   {
