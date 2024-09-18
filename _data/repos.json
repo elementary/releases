@@ -1564,7 +1564,7 @@
         "href": "https://github.com/elementary/wingpanel/releases/tag/2.0.3"
       }
     ],
-    "new_commits": 15,
+    "new_commits": 19,
     "default_branch": "master"
   },
   {
@@ -2047,7 +2047,7 @@
         "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
       }
     ],
-    "new_commits": 33,
+    "new_commits": 37,
     "default_branch": "main"
   },
   {
@@ -2201,7 +2201,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 30,
+    "new_commits": 35,
     "default_branch": "main"
   },
   {
@@ -6268,7 +6268,7 @@
         "href": "https://github.com/elementary/photos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 32,
+    "new_commits": 37,
     "default_branch": "master"
   },
   {
@@ -6821,7 +6821,7 @@
         "href": "https://github.com/elementary/switchboard/releases/tag/2.3.0"
       }
     ],
-    "new_commits": 38,
+    "new_commits": 42,
     "default_branch": "main"
   },
   {
