@@ -1998,7 +1998,7 @@
         "href": "https://github.com/elementary/dock/releases/tag/8.0.0"
       }
     ],
-    "new_commits": 6,
+    "new_commits": 7,
     "default_branch": "main"
   },
   {
@@ -7255,7 +7255,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 80,
+    "new_commits": 81,
     "default_branch": "main"
   },
   {
