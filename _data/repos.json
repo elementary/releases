@@ -1487,7 +1487,7 @@
         "href": "https://github.com/elementary/monitor/releases/tag/0.2.0"
       }
     ],
-    "new_commits": 407,
+    "new_commits": 408,
     "default_branch": "dev"
   },
   {
@@ -6135,7 +6135,7 @@
         "href": "https://github.com/elementary/installer/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 111,
+    "new_commits": 116,
     "default_branch": "main"
   },
   {
