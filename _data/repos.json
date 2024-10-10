@@ -80,7 +80,7 @@
         "href": "https://github.com/elementary/switchboard-plug-datetime/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 0,
+    "new_commits": 2,
     "default_branch": "main"
   },
   {
@@ -6737,7 +6737,7 @@
         "href": "https://github.com/elementary/sideload/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 63,
+    "new_commits": 64,
     "default_branch": "main"
   },
   {
@@ -8319,7 +8319,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.0"
       }
     ],
-    "new_commits": 6876,
+    "new_commits": 6877,
     "default_branch": "master"
   },
   {
