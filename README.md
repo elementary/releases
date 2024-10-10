@@ -1,6 +1,6 @@
 # Releases
 
-See all releases and the status of repos at releases.elementary.io
+See all releases and the status of repos at [releases.elementary.io](https://releases.elementary.io)
 
 ## Building
 
