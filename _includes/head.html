@@ -15,8 +15,6 @@
   <link rel="shortcut icon" href="https://elementary.io/favicon.ico">
   <link rel="apple-touch-icon" href="https://elementary.io/images/launcher-icons/apple-touch-icon.png">
 
-  <link rel="alternate" type="application/rss+xml" title="elementary Blog" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
-
   <meta name="author" content="{% if page.author.name %}{{ page.author.name }}{% else %}{{ site.author }}{% endif %}" />
   <meta name="theme-color" content="{% if page.theme-color %}{{ page.theme-color }}{% else %}{{ site.theme-color }}{% endif %}" />
 
@@ -41,7 +39,7 @@
   <meta itemprop="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
   <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
 
-  <link rel="stylesheet" type="text/css" media="all" href="{{ '/css/main.css' | prepend: site.baseurl | append: '?v=' | append: hash }}" />
+  <link rel="stylesheet" type="text/css" media="all" href="{{ '/css/main.css' | append: '?v=' | append: hash }}" />
 
   {% if jekyll.environment == "production" %}
     <script async defer data-domain="releases.elementary.io" src="https://stats.elementary.io/js/index.js"></script>
