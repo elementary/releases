@@ -94,7 +94,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-power/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 0,
+    "new_commits": 1,
     "default_branch": "master"
   },
   {
@@ -3790,7 +3790,7 @@
         "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 21,
+    "new_commits": 25,
     "default_branch": "main"
   },
   {
@@ -4994,7 +4994,7 @@
         "href": "https://github.com/elementary/switchboard-plug-printers/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 95,
+    "new_commits": 99,
     "default_branch": "main"
   },
   {
@@ -5113,7 +5113,7 @@
         "href": "https://github.com/elementary/switchboard-plug-network/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 44,
+    "new_commits": 46,
     "default_branch": "main"
   },
   {
@@ -6289,7 +6289,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 59,
+    "new_commits": 64,
     "default_branch": "master"
   },
   {
