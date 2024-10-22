@@ -94,7 +94,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-power/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 1,
+    "new_commits": 2,
     "default_branch": "master"
   },
   {
@@ -3454,7 +3454,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 36,
+    "new_commits": 37,
     "default_branch": "main"
   },
   {
@@ -4847,7 +4847,7 @@
         "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 82,
+    "new_commits": 84,
     "default_branch": "main"
   },
   {
@@ -4994,7 +4994,7 @@
         "href": "https://github.com/elementary/switchboard-plug-printers/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 99,
+    "new_commits": 102,
     "default_branch": "main"
   },
   {
@@ -5407,7 +5407,7 @@
         "href": "https://github.com/elementary/switchboard-plug-applications/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 84,
+    "new_commits": 85,
     "default_branch": "main"
   },
   {
