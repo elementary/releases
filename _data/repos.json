@@ -1,5 +1,138 @@
 [
   {
+    "name": "code",
+    "releases": [
+      {
+        "version": "7.4.0",
+        "release_date": "2024-10-22T15:28:39+00:00",
+        "title": "code 7.4.0 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Add symbol filter to Outline pane</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/code/releases/tag/7.4.0"
+      },
+      {
+        "version": "7.3.0",
+        "release_date": "2024-07-24T19:18:43+00:00",
+        "title": "code 7.3.0 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>The Terminal pane now has a settable default directory</li>\n<li>New Tab Bar with improved animations and Drag-n-Drop</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/code/releases/tag/7.3.0"
+      },
+      {
+        "version": "7.2.0",
+        "release_date": "2024-01-18T18:09:51+00:00",
+        "title": "code 7.2.0 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>When opening a file in Code from the commandline or another app, a line/char position or selection range may be specified</li>\n<li>Add a fuzzy-find plugin which finds files in all open projects</li>\n<li>Save and restore the state of the terminal pane</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>\"Find in Folder\" now works for all folders and text files, not only \".vala\" files</li>\n<li>\"Follow System Style\" is now fully respected</li>\n<li>The \"--new-tab\" commandline option now works</li>\n<li>The symbol pane width is now synchronised and saved</li>\n<li>Project folders are automatically closed if they are externally renamed, moved or deleted</li>\n<li>Fixed temporary backup files persisting under some circumstances</li>\n<li>The Show-Replace action has been improved</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/code/releases/tag/7.2.0"
+      },
+      {
+        "version": "7.1.0",
+        "release_date": "2023-08-01T20:46:55+00:00",
+        "title": "Code 7.1.0 Released!",
+        "body": "## What's Changed\r\n* Ensure active project at startup (include non-git folders) by @jeremypw in https://github.com/elementary/code/pull/1254\r\n* Handle saving to unwritable location better to avoid data loss by @jeremypw in https://github.com/elementary/code/pull/1262\r\n* Flatpak: Use 7.1 Sdk, Update Dependencies by @Marukesu in https://github.com/elementary/code/pull/1264\r\n* Make symbol outline aware of follow-system-style setting by @jeremypw in https://github.com/elementary/code/pull/1265\r\n* Show running branch if not master by @jeremypw in https://github.com/elementary/code/pull/1258\r\n* appdata: Minor wording fixes in release notes by @davidmhewitt in https://github.com/elementary/code/pull/1269\r\n* Fix styling when no documents by @jeremypw in https://github.com/elementary/code/pull/1271\r\n* Ensure Replace button (and other search widget) states are mutually consistent  by @jeremypw in https://github.com/elementary/code/pull/1278\r\n* Switch to GHCR containers by @davidmhewitt in https://github.com/elementary/code/pull/1284\r\n* Delay asking for save location if cannot determine write access by @jeremypw in https://github.com/elementary/code/pull/1280\r\n* Additional Search options in menu by @jeremypw in https://github.com/elementary/code/pull/1276\r\n* Implement option to show files with unknown characters as new document by @jeremypw in https://github.com/elementary/code/pull/1283\r\n* Do not change document search results unexpectedly on focus in by @jeremypw in https://github.com/elementary/code/pull/1294\r\n* Add ctrl + pageUp and pageDown for switching tabs by @stan-janssen in https://github.com/elementary/code/pull/1297\r\n* Persist search settings by @jeremypw in https://github.com/elementary/code/pull/1291\r\n* Set search entry icon and styleclass according to results by @jeremypw in https://github.com/elementary/code/pull/1285\r\n* Add release metainfo and update screenshot addresses for 7.1.0 by @jeremypw in https://github.com/elementary/code/pull/1303\r\n* Ask save location with dialog by @jeremypw in https://github.com/elementary/code/pull/1308\r\n* Metainfo: set brand color to Latte 500 by @danirabbit in https://github.com/elementary/code/pull/1313\r\n* Ensure folder items in sidebar always expandable by @jeremypw in https://github.com/elementary/code/pull/1252\r\n* Fix creating duplicates of unwritable files by @jeremypw in https://github.com/elementary/code/pull/1318\r\n* Update metainfo for pull 1252 by @jeremypw in https://github.com/elementary/code/pull/1315\r\n* Fix typo in metainfo by @TomiOhl in https://github.com/elementary/code/pull/1321\r\n* Install man page with meson by @jeremypw in https://github.com/elementary/code/pull/1325\r\n* Reduce terminal noise by @jeremypw in https://github.com/elementary/code/pull/1323\r\n* Remove plugin set option by @jeremypw in https://github.com/elementary/code/pull/1324\r\n* FormatBar: Show column number not buffer offset by @jeremypw in https://github.com/elementary/code/pull/1342\r\n* Handle only relevant settings key changes by @jeremypw in https://github.com/elementary/code/pull/1345\r\n* Use dialog for external changes by @jeremypw in https://github.com/elementary/code/pull/1309\r\n* Sync tab settings by @jeremypw in https://github.com/elementary/code/pull/1347\r\n* Fix searchterm reverts by @jeremypw in https://github.com/elementary/code/pull/1336\r\n* Ensure correct sidebar item is focused, or none, when tab removed by @jeremypw in https://github.com/elementary/code/pull/1320\r\n* Fix logic for clearing search entry by @jeremypw in https://github.com/elementary/code/pull/1359\r\n* Fix spurious external change warnings by @jeremypw in https://github.com/elementary/code/pull/1354\r\n* Meson: modernize by @lenemter in https://github.com/elementary/code/pull/1360\r\n* Release 7.1.0 by @jeremypw in https://github.com/elementary/code/pull/1304\r\n\r\n## New Contributors\r\n* @dependabot made their first contribution in https://github.com/elementary/code/pull/1286\r\n* @stan-janssen made their first contribution in https://github.com/elementary/code/pull/1297\r\n* @TomiOhl made their first contribution in https://github.com/elementary/code/pull/1321\r\n* @lenemter made their first contribution in https://github.com/elementary/code/pull/1360\r\n\r\n**Full Changelog**: https://github.com/elementary/code/compare/7.0.0...7.1.0",
+        "href": "https://github.com/elementary/code/releases/tag/7.1.0"
+      },
+      {
+        "version": "7.0.0",
+        "release_date": "2023-01-24T16:59:41+00:00",
+        "title": "Code 7.0.0 Released",
+        "body": "## What's Changed\r\n* Fix compile warnings by @jeremypw in https://github.com/elementary/code/pull/1056\r\n* add code to keywords by @yuraMovsesyan in https://github.com/elementary/code/pull/1195\r\n* Fix drag and drop of accented text and between tabs by @jeremypw in https://github.com/elementary/code/pull/1194\r\n* Git ignore flatpak build files by @jeremypw in https://github.com/elementary/code/pull/1197\r\n* Ensure tab toggle label is always correct by @jeremypw in https://github.com/elementary/code/pull/1145\r\n* Add follow system style switch by @danirabbit in https://github.com/elementary/code/pull/1202\r\n* Explicitly handle missing cases by @jeremypw in https://github.com/elementary/code/pull/1199\r\n* Remove unused properties by @jeremypw in https://github.com/elementary/code/pull/1205\r\n* Change key to trigger rebuild completion word list by @jeremypw in https://github.com/elementary/code/pull/1149\r\n* Global search selected by @jeremypw in https://github.com/elementary/code/pull/1049\r\n* Move strip trailing whitespace into main code; remove plugin by @jeremypw in https://github.com/elementary/code/pull/1151\r\n* Fix meson warning for run_command by @turbobastii in https://github.com/elementary/code/pull/1207\r\n* Add custom elementary syntax styles by @micahilbery in https://github.com/elementary/code/pull/1076\r\n* Hide non-active documents when project manually chosen by @jeremypw in https://github.com/elementary/code/pull/1114\r\n* Show symbol outline pane on right of document by @jeremypw in https://github.com/elementary/code/pull/1048\r\n* ProjectFolderItem: Fix wrong ngettext syntax by @ryonakano in https://github.com/elementary/code/pull/1212\r\n* Redesign app icon as a tile by @danirabbit in https://github.com/elementary/code/pull/1211\r\n* Put the ProjectChooserButton inside the sidebar by @danirabbit in https://github.com/elementary/code/pull/1217\r\n* HeaderBar: put find actions in menu by @danirabbit in https://github.com/elementary/code/pull/1219\r\n* EditorConfig plugin overrides global settings for indent width and style by @jeremypw in https://github.com/elementary/code/pull/1204\r\n* Make sidebar pane the toplevel container by @danirabbit in https://github.com/elementary/code/pull/1218\r\n* Use elementary styles when following system style by @danirabbit in https://github.com/elementary/code/pull/1222\r\n* Change panel menu items to linkbutton by @danirabbit in https://github.com/elementary/code/pull/1223\r\n* FormatBar: use SwitchModelButton in tab popover by @danirabbit in https://github.com/elementary/code/pull/1227\r\n* Move Terminal to core by @danirabbit in https://github.com/elementary/code/pull/1225\r\n* Headerbar: remove sep before Revert by @danirabbit in https://github.com/elementary/code/pull/1230\r\n* FormatBar: use menubuttons instead of ToggleButtons by @danirabbit in https://github.com/elementary/code/pull/1231\r\n* Sidebar: Remove minimum width by @danirabbit in https://github.com/elementary/code/pull/1233\r\n* GSchema: follow system style by default by @danirabbit in https://github.com/elementary/code/pull/1235\r\n* Only restore documents for first window. by @jeremypw in https://github.com/elementary/code/pull/1239\r\n* Do not add duplicate project by @jeremypw in https://github.com/elementary/code/pull/1238\r\n* Update ci.yml by @danirabbit in https://github.com/elementary/code/pull/1242\r\n* FormatBar: Set sensitivity of affected items, fix binding by @danirabbit in https://github.com/elementary/code/pull/1236\r\n* PluginManager: Remove unused hooks by @danirabbit in https://github.com/elementary/code/pull/1240\r\n* Make Control-Scroll zooming controllable by @jeremypw in https://github.com/elementary/code/pull/1245\r\n* Metainfo improvements by @danirabbit in https://github.com/elementary/code/pull/1241\r\n* Headerbar: code style, small fixes by @danirabbit in https://github.com/elementary/code/pull/1234\r\n* Application: use built-in GLib functions in Activate by @danirabbit in https://github.com/elementary/code/pull/1243\r\n* Inactivate find actions when no current doc by @jeremypw in https://github.com/elementary/code/pull/1251\r\n* Fix startup warnings by @jeremypw in https://github.com/elementary/code/pull/1250\r\n* Styles: misc refinements by @danirabbit in https://github.com/elementary/code/pull/1226\r\n\r\n## New Contributors\r\n* @yuraMovsesyan made their first contribution in https://github.com/elementary/code/pull/1195\r\n* @turbobastii made their first contribution in https://github.com/elementary/code/pull/1207\r\n* @micahilbery made their first contribution in https://github.com/elementary/code/pull/1076\r\n\r\n**Full Changelog**: https://github.com/elementary/code/compare/6.2.0...7.0.0",
+        "href": "https://github.com/elementary/code/releases/tag/7.0.0"
+      },
+      {
+        "version": "6.2.0",
+        "release_date": "2022-04-04T16:20:49+00:00",
+        "title": "code 6.2.0 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>The current document filename is now shown as the window title in multitasking view</li>\n<li>Hidden folders are now shown in the project sidebar</li>\n<li>The currently selected result and the number of results is displayed while searching</li>\n<li>The search bar now has a regular expression mode</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>It is now possible to change Git branch with untracked files present in a project</li>\n<li>Crashes are prevented while searching in large projects</li>\n<li>The correct document is now focused after opening Code from an external program</li>\n<li>Line duplication is now actioned correctly if there is no selection present</li>\n<li>Code no longer crashes when asked to open an unknown URI format</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/code/releases/tag/6.2.0"
+      },
+      {
+        "version": "6.1.0",
+        "release_date": "2021-11-23T21:06:10+00:00",
+        "title": "code 6.1.0 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Projects with the same name now include their parent folder name as well</li>\n<li>When scrolling to search results, overshoot slightly for better visibility</li>\n<li>Use the FileChooser portal instead of the one from GTK</li>\n<li>Center the global search dialog over the main Code window</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Fix visibility of Terminal button on Welcome page</li>\n<li>Fix some keyboard shortcuts affecting unfocused Document instead of focused Terminal</li>\n<li>Close Terminal if shell exited and create new Terminal if re-opened with no shell</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>\"Visible whitespace\" combobox is now a switch</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/code/releases/tag/6.1.0"
+      },
+      {
+        "version": "6.0.1",
+        "release_date": "2021-09-28T22:06:14+00:00",
+        "title": "Code 6.0.1 Released",
+        "body": "<p>Fixes:</p>\r\n<ul>\r\n<li>Fix crash when creating new window from tab drop</li>\r\n<li>Ensure files created from the sidebar are automatically opened</li>\r\n</ul>\r\n<p>Improvements:</p>\r\n<ul>\r\n<li>Hide project chooser button when hiding sidebar</li>\r\n</ul>\r\n<p>Minor updates:</p>\r\n<ul>\r\n<li>Ensure all copy is translatable</li>\r\n<li>Updated translations</li>\r\n</ul>",
+        "href": "https://github.com/elementary/code/releases/tag/6.0.1"
+      },
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-15T21:14:07+00:00",
+        "title": "code 6.0.0 Released",
+        "body": "<p>New features:</p>\n<ul>\n<li>New Markdown plugin for WYSIWYG-like editing.</li>\n<li>Switch Git branches or create new ones in project folder context menus</li>\n<li>Show Git diff status in source view gutters</li>\n<li>Full text search within project folder.</li>\n<li>Save and restore cursor position between sessions</li>\n<li>Close files from a project when that project is closed</li>\n<li>Show full file path in tab tooltips</li>\n<li>Clear lines with Ctrl + K</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Allow Spell Checker extension in Markdown files</li>\n<li>Improve multi-line duplication</li>\n<li>Remember whether the sidebar is open</li>\n<li>Set window title to the focused file</li>\n<li>Add keyboard shortcuts for next and previous documents</li>\n<li>Show full document path in tab tooltip</li>\n<li>Update Pastebin plugin</li>\n<li>Corrently indent last line when using the preserve whitespace plugin</li>\n<li>Keep syntax highlighting when duplicating a file</li>\n<li>Expand a collapsed folder if you attempt to open it twice</li>\n<li>Fix an issue where searches are lost when Code loses focus</li>\n<li>Start Vim plugin in command mode</li>\n<li>Fix and add new Vim commands</li>\n<li>Show project folders with a hidden root folder</li>\n<li>Allow launching with pkexec and disallow launching with sudo</li>\n<li>Remove split view</li>\n<li>Remove browser preview</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/code/releases/tag/6.0.0"
+      },
+      {
+        "version": "3.4.1",
+        "release_date": "2020-06-09T19:11:16+00:00",
+        "title": "code 3.4.1 Released",
+        "body": "<p>Fixes:</p>\n<ul>\n<li>Fix empty sidebar layout, ensuring folders can always be added</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Scroll past the end of a file</li>\n<li>More efficiently save and restore window position</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/code/releases/tag/3.4.1"
+      },
+      {
+        "version": "3.4.0",
+        "release_date": "2020-04-02T00:31:58+00:00",
+        "title": "code 3.4.0 Released",
+        "body": "code 3.4.0 is out! \n\n<p>New features:</p>\n<ul>\n<li>Include Git status in file tooltips</li>\n<li>Option for explicit case-sensitive Find</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Correctly show Toggle Comment menu item when no text is selected</li>\n<li>Fixed font switch alignment</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/code/releases/tag/3.4.0"
+      },
+      {
+        "version": "3.3.0",
+        "release_date": "2020-02-29T20:15:24+00:00",
+        "title": "code 3.3.0 Released",
+        "body": "code 3.3.0 is out! \n\n<p>New features:</p>\n<ul>\n<li>New \"Close Other Folders\" menu item to help clean up your sidebar</li>\n<li>Save and restore cyclic search setting</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Add keyboard shortcuts to menu items</li>\n<li>Make sidebar folder items not selectable</li>\n<li>Center new windows</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/code/releases/tag/3.3.0"
+      },
+      {
+        "version": "3.2.0",
+        "release_date": "2020-01-10T19:59:56+00:00",
+        "title": "code 3.2.0 Released",
+        "body": "code 3.2.0 is out! \n\n<p>New features:</p>\n<ul>\n<li>Visually deprioritize .gitignored files in project sidebar</li>\n<li>Smart cut/copy lines with no active selection</li>\n<li>Add a confirmation dialog to the \"Restore\" action</li>\n<li>Add \"Open In\" menu to the top-level folder in the folder manager</li>\n<li>Don't show temporary files in the folder manager</li>\n<li>Add brackets completion and auto-indent by default</li>\n<li>Zoom terminal plugin with keyboard</li>\n<li>Honor global privacy setting when saving and restoring</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Simplify \"Draw spaces\" preference</li>\n<li>Fix the keyboard shortcut for going backwards in search results</li>\n<li>Fix opening files from relative paths in Terminal</li>\n<li>Fix null file dialog when opening a new window via the dock</li>\n<li>Add \"=\" as a zoom key</li>\n<li>Change search entry icon when results aren't found</li>\n<li>Enter name of new file before creating it</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/code/releases/tag/3.2.0"
+      },
+      {
+        "version": "3.1.1",
+        "release_date": "2019-03-14T18:43:15+00:00",
+        "title": "Code 3.1.1 Released",
+        "body": "Code 3.1.1 is out!\r\n\r\nChanges:\r\n* Use `Granite.MessageDialog` throughout\r\n* Include non-text files in sidebar\r\n* Fix `Remove Current View`",
+        "href": "https://github.com/elementary/code/releases/tag/3.1.1"
+      },
+      {
+        "version": "3.1.0",
+        "release_date": "2019-03-06T11:14:42+00:00",
+        "title": "Code 3.1.0 Released",
+        "body": "Code 3.1.0 is out!\r\n\r\nChanges:\r\n* Fix `New Window` desktop action behavior\r\n* Properly synchronize `Ctrl+N` key presses with number of new documents spawned\r\n* Build system fix for `editorconfig` dependency\r\n* Add `Change Branch` context menu item\r\n* Avoid possible startup crash related to how plugins load\r\n* Updated translations",
+        "href": "https://github.com/elementary/code/releases/tag/3.1.0"
+      },
+      {
+        "version": "3.0.2",
+        "release_date": "2019-01-03T06:34:28+00:00",
+        "title": "Code 3.0.2 Released",
+        "body": "Code 3.0.2 is out!\r\n\r\nChanges:\r\n* Smarter file saving behavior\r\n* File saving fixes\r\n* Don't add temporary files to tab restore",
+        "href": "https://github.com/elementary/code/releases/tag/3.0.2"
+      },
+      {
+        "version": "3.0.1",
+        "release_date": "2018-11-30T14:06:36+00:00",
+        "title": "Code 3.0.1 Released",
+        "body": "Code 3.0.1 is out!\r\n\r\nChanges:\r\n* Don't recreate deleted files when restoring session\r\n* Restore line wrap preference\r\n* Add accel tooltips\r\n* Minor bug fixes\r\n* Updated translations",
+        "href": "https://github.com/elementary/code/releases/tag/3.0.1"
+      },
+      {
+        "version": "3.0",
+        "release_date": "2018-10-16T09:38:13+00:00",
+        "title": "Code 3.0 Released",
+        "body": "Code 3.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/code/issues?q=is%3Aclosed+milestone%3A3.0).",
+        "href": "https://github.com/elementary/code/releases/tag/3.0"
+      }
+    ],
+    "new_commits": 0,
+    "default_branch": "master"
+  },
+  {
     "name": "files",
     "releases": [
       {
@@ -6172,132 +6305,6 @@
     ],
     "new_commits": 99,
     "default_branch": "main"
-  },
-  {
-    "name": "code",
-    "releases": [
-      {
-        "version": "7.3.0",
-        "release_date": "2024-07-24T19:18:43+00:00",
-        "title": "code 7.3.0 Released",
-        "body": "<p>Improvements:</p>\n<ul>\n<li>The Terminal pane now has a settable default directory</li>\n<li>New Tab Bar with improved animations and Drag-n-Drop</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/code/releases/tag/7.3.0"
-      },
-      {
-        "version": "7.2.0",
-        "release_date": "2024-01-18T18:09:51+00:00",
-        "title": "code 7.2.0 Released",
-        "body": "<p>Improvements:</p>\n<ul>\n<li>When opening a file in Code from the commandline or another app, a line/char position or selection range may be specified</li>\n<li>Add a fuzzy-find plugin which finds files in all open projects</li>\n<li>Save and restore the state of the terminal pane</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>\"Find in Folder\" now works for all folders and text files, not only \".vala\" files</li>\n<li>\"Follow System Style\" is now fully respected</li>\n<li>The \"--new-tab\" commandline option now works</li>\n<li>The symbol pane width is now synchronised and saved</li>\n<li>Project folders are automatically closed if they are externally renamed, moved or deleted</li>\n<li>Fixed temporary backup files persisting under some circumstances</li>\n<li>The Show-Replace action has been improved</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/code/releases/tag/7.2.0"
-      },
-      {
-        "version": "7.1.0",
-        "release_date": "2023-08-01T20:46:55+00:00",
-        "title": "Code 7.1.0 Released!",
-        "body": "## What's Changed\r\n* Ensure active project at startup (include non-git folders) by @jeremypw in https://github.com/elementary/code/pull/1254\r\n* Handle saving to unwritable location better to avoid data loss by @jeremypw in https://github.com/elementary/code/pull/1262\r\n* Flatpak: Use 7.1 Sdk, Update Dependencies by @Marukesu in https://github.com/elementary/code/pull/1264\r\n* Make symbol outline aware of follow-system-style setting by @jeremypw in https://github.com/elementary/code/pull/1265\r\n* Show running branch if not master by @jeremypw in https://github.com/elementary/code/pull/1258\r\n* appdata: Minor wording fixes in release notes by @davidmhewitt in https://github.com/elementary/code/pull/1269\r\n* Fix styling when no documents by @jeremypw in https://github.com/elementary/code/pull/1271\r\n* Ensure Replace button (and other search widget) states are mutually consistent  by @jeremypw in https://github.com/elementary/code/pull/1278\r\n* Switch to GHCR containers by @davidmhewitt in https://github.com/elementary/code/pull/1284\r\n* Delay asking for save location if cannot determine write access by @jeremypw in https://github.com/elementary/code/pull/1280\r\n* Additional Search options in menu by @jeremypw in https://github.com/elementary/code/pull/1276\r\n* Implement option to show files with unknown characters as new document by @jeremypw in https://github.com/elementary/code/pull/1283\r\n* Do not change document search results unexpectedly on focus in by @jeremypw in https://github.com/elementary/code/pull/1294\r\n* Add ctrl + pageUp and pageDown for switching tabs by @stan-janssen in https://github.com/elementary/code/pull/1297\r\n* Persist search settings by @jeremypw in https://github.com/elementary/code/pull/1291\r\n* Set search entry icon and styleclass according to results by @jeremypw in https://github.com/elementary/code/pull/1285\r\n* Add release metainfo and update screenshot addresses for 7.1.0 by @jeremypw in https://github.com/elementary/code/pull/1303\r\n* Ask save location with dialog by @jeremypw in https://github.com/elementary/code/pull/1308\r\n* Metainfo: set brand color to Latte 500 by @danirabbit in https://github.com/elementary/code/pull/1313\r\n* Ensure folder items in sidebar always expandable by @jeremypw in https://github.com/elementary/code/pull/1252\r\n* Fix creating duplicates of unwritable files by @jeremypw in https://github.com/elementary/code/pull/1318\r\n* Update metainfo for pull 1252 by @jeremypw in https://github.com/elementary/code/pull/1315\r\n* Fix typo in metainfo by @TomiOhl in https://github.com/elementary/code/pull/1321\r\n* Install man page with meson by @jeremypw in https://github.com/elementary/code/pull/1325\r\n* Reduce terminal noise by @jeremypw in https://github.com/elementary/code/pull/1323\r\n* Remove plugin set option by @jeremypw in https://github.com/elementary/code/pull/1324\r\n* FormatBar: Show column number not buffer offset by @jeremypw in https://github.com/elementary/code/pull/1342\r\n* Handle only relevant settings key changes by @jeremypw in https://github.com/elementary/code/pull/1345\r\n* Use dialog for external changes by @jeremypw in https://github.com/elementary/code/pull/1309\r\n* Sync tab settings by @jeremypw in https://github.com/elementary/code/pull/1347\r\n* Fix searchterm reverts by @jeremypw in https://github.com/elementary/code/pull/1336\r\n* Ensure correct sidebar item is focused, or none, when tab removed by @jeremypw in https://github.com/elementary/code/pull/1320\r\n* Fix logic for clearing search entry by @jeremypw in https://github.com/elementary/code/pull/1359\r\n* Fix spurious external change warnings by @jeremypw in https://github.com/elementary/code/pull/1354\r\n* Meson: modernize by @lenemter in https://github.com/elementary/code/pull/1360\r\n* Release 7.1.0 by @jeremypw in https://github.com/elementary/code/pull/1304\r\n\r\n## New Contributors\r\n* @dependabot made their first contribution in https://github.com/elementary/code/pull/1286\r\n* @stan-janssen made their first contribution in https://github.com/elementary/code/pull/1297\r\n* @TomiOhl made their first contribution in https://github.com/elementary/code/pull/1321\r\n* @lenemter made their first contribution in https://github.com/elementary/code/pull/1360\r\n\r\n**Full Changelog**: https://github.com/elementary/code/compare/7.0.0...7.1.0",
-        "href": "https://github.com/elementary/code/releases/tag/7.1.0"
-      },
-      {
-        "version": "7.0.0",
-        "release_date": "2023-01-24T16:59:41+00:00",
-        "title": "Code 7.0.0 Released",
-        "body": "## What's Changed\r\n* Fix compile warnings by @jeremypw in https://github.com/elementary/code/pull/1056\r\n* add code to keywords by @yuraMovsesyan in https://github.com/elementary/code/pull/1195\r\n* Fix drag and drop of accented text and between tabs by @jeremypw in https://github.com/elementary/code/pull/1194\r\n* Git ignore flatpak build files by @jeremypw in https://github.com/elementary/code/pull/1197\r\n* Ensure tab toggle label is always correct by @jeremypw in https://github.com/elementary/code/pull/1145\r\n* Add follow system style switch by @danirabbit in https://github.com/elementary/code/pull/1202\r\n* Explicitly handle missing cases by @jeremypw in https://github.com/elementary/code/pull/1199\r\n* Remove unused properties by @jeremypw in https://github.com/elementary/code/pull/1205\r\n* Change key to trigger rebuild completion word list by @jeremypw in https://github.com/elementary/code/pull/1149\r\n* Global search selected by @jeremypw in https://github.com/elementary/code/pull/1049\r\n* Move strip trailing whitespace into main code; remove plugin by @jeremypw in https://github.com/elementary/code/pull/1151\r\n* Fix meson warning for run_command by @turbobastii in https://github.com/elementary/code/pull/1207\r\n* Add custom elementary syntax styles by @micahilbery in https://github.com/elementary/code/pull/1076\r\n* Hide non-active documents when project manually chosen by @jeremypw in https://github.com/elementary/code/pull/1114\r\n* Show symbol outline pane on right of document by @jeremypw in https://github.com/elementary/code/pull/1048\r\n* ProjectFolderItem: Fix wrong ngettext syntax by @ryonakano in https://github.com/elementary/code/pull/1212\r\n* Redesign app icon as a tile by @danirabbit in https://github.com/elementary/code/pull/1211\r\n* Put the ProjectChooserButton inside the sidebar by @danirabbit in https://github.com/elementary/code/pull/1217\r\n* HeaderBar: put find actions in menu by @danirabbit in https://github.com/elementary/code/pull/1219\r\n* EditorConfig plugin overrides global settings for indent width and style by @jeremypw in https://github.com/elementary/code/pull/1204\r\n* Make sidebar pane the toplevel container by @danirabbit in https://github.com/elementary/code/pull/1218\r\n* Use elementary styles when following system style by @danirabbit in https://github.com/elementary/code/pull/1222\r\n* Change panel menu items to linkbutton by @danirabbit in https://github.com/elementary/code/pull/1223\r\n* FormatBar: use SwitchModelButton in tab popover by @danirabbit in https://github.com/elementary/code/pull/1227\r\n* Move Terminal to core by @danirabbit in https://github.com/elementary/code/pull/1225\r\n* Headerbar: remove sep before Revert by @danirabbit in https://github.com/elementary/code/pull/1230\r\n* FormatBar: use menubuttons instead of ToggleButtons by @danirabbit in https://github.com/elementary/code/pull/1231\r\n* Sidebar: Remove minimum width by @danirabbit in https://github.com/elementary/code/pull/1233\r\n* GSchema: follow system style by default by @danirabbit in https://github.com/elementary/code/pull/1235\r\n* Only restore documents for first window. by @jeremypw in https://github.com/elementary/code/pull/1239\r\n* Do not add duplicate project by @jeremypw in https://github.com/elementary/code/pull/1238\r\n* Update ci.yml by @danirabbit in https://github.com/elementary/code/pull/1242\r\n* FormatBar: Set sensitivity of affected items, fix binding by @danirabbit in https://github.com/elementary/code/pull/1236\r\n* PluginManager: Remove unused hooks by @danirabbit in https://github.com/elementary/code/pull/1240\r\n* Make Control-Scroll zooming controllable by @jeremypw in https://github.com/elementary/code/pull/1245\r\n* Metainfo improvements by @danirabbit in https://github.com/elementary/code/pull/1241\r\n* Headerbar: code style, small fixes by @danirabbit in https://github.com/elementary/code/pull/1234\r\n* Application: use built-in GLib functions in Activate by @danirabbit in https://github.com/elementary/code/pull/1243\r\n* Inactivate find actions when no current doc by @jeremypw in https://github.com/elementary/code/pull/1251\r\n* Fix startup warnings by @jeremypw in https://github.com/elementary/code/pull/1250\r\n* Styles: misc refinements by @danirabbit in https://github.com/elementary/code/pull/1226\r\n\r\n## New Contributors\r\n* @yuraMovsesyan made their first contribution in https://github.com/elementary/code/pull/1195\r\n* @turbobastii made their first contribution in https://github.com/elementary/code/pull/1207\r\n* @micahilbery made their first contribution in https://github.com/elementary/code/pull/1076\r\n\r\n**Full Changelog**: https://github.com/elementary/code/compare/6.2.0...7.0.0",
-        "href": "https://github.com/elementary/code/releases/tag/7.0.0"
-      },
-      {
-        "version": "6.2.0",
-        "release_date": "2022-04-04T16:20:49+00:00",
-        "title": "code 6.2.0 Released",
-        "body": "<p>Improvements:</p>\n<ul>\n<li>The current document filename is now shown as the window title in multitasking view</li>\n<li>Hidden folders are now shown in the project sidebar</li>\n<li>The currently selected result and the number of results is displayed while searching</li>\n<li>The search bar now has a regular expression mode</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>It is now possible to change Git branch with untracked files present in a project</li>\n<li>Crashes are prevented while searching in large projects</li>\n<li>The correct document is now focused after opening Code from an external program</li>\n<li>Line duplication is now actioned correctly if there is no selection present</li>\n<li>Code no longer crashes when asked to open an unknown URI format</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/code/releases/tag/6.2.0"
-      },
-      {
-        "version": "6.1.0",
-        "release_date": "2021-11-23T21:06:10+00:00",
-        "title": "code 6.1.0 Released",
-        "body": "<p>Improvements:</p>\n<ul>\n<li>Projects with the same name now include their parent folder name as well</li>\n<li>When scrolling to search results, overshoot slightly for better visibility</li>\n<li>Use the FileChooser portal instead of the one from GTK</li>\n<li>Center the global search dialog over the main Code window</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Fix visibility of Terminal button on Welcome page</li>\n<li>Fix some keyboard shortcuts affecting unfocused Document instead of focused Terminal</li>\n<li>Close Terminal if shell exited and create new Terminal if re-opened with no shell</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>\"Visible whitespace\" combobox is now a switch</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/code/releases/tag/6.1.0"
-      },
-      {
-        "version": "6.0.1",
-        "release_date": "2021-09-28T22:06:14+00:00",
-        "title": "Code 6.0.1 Released",
-        "body": "<p>Fixes:</p>\r\n<ul>\r\n<li>Fix crash when creating new window from tab drop</li>\r\n<li>Ensure files created from the sidebar are automatically opened</li>\r\n</ul>\r\n<p>Improvements:</p>\r\n<ul>\r\n<li>Hide project chooser button when hiding sidebar</li>\r\n</ul>\r\n<p>Minor updates:</p>\r\n<ul>\r\n<li>Ensure all copy is translatable</li>\r\n<li>Updated translations</li>\r\n</ul>",
-        "href": "https://github.com/elementary/code/releases/tag/6.0.1"
-      },
-      {
-        "version": "6.0.0",
-        "release_date": "2021-07-15T21:14:07+00:00",
-        "title": "code 6.0.0 Released",
-        "body": "<p>New features:</p>\n<ul>\n<li>New Markdown plugin for WYSIWYG-like editing.</li>\n<li>Switch Git branches or create new ones in project folder context menus</li>\n<li>Show Git diff status in source view gutters</li>\n<li>Full text search within project folder.</li>\n<li>Save and restore cursor position between sessions</li>\n<li>Close files from a project when that project is closed</li>\n<li>Show full file path in tab tooltips</li>\n<li>Clear lines with Ctrl + K</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Allow Spell Checker extension in Markdown files</li>\n<li>Improve multi-line duplication</li>\n<li>Remember whether the sidebar is open</li>\n<li>Set window title to the focused file</li>\n<li>Add keyboard shortcuts for next and previous documents</li>\n<li>Show full document path in tab tooltip</li>\n<li>Update Pastebin plugin</li>\n<li>Corrently indent last line when using the preserve whitespace plugin</li>\n<li>Keep syntax highlighting when duplicating a file</li>\n<li>Expand a collapsed folder if you attempt to open it twice</li>\n<li>Fix an issue where searches are lost when Code loses focus</li>\n<li>Start Vim plugin in command mode</li>\n<li>Fix and add new Vim commands</li>\n<li>Show project folders with a hidden root folder</li>\n<li>Allow launching with pkexec and disallow launching with sudo</li>\n<li>Remove split view</li>\n<li>Remove browser preview</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/code/releases/tag/6.0.0"
-      },
-      {
-        "version": "3.4.1",
-        "release_date": "2020-06-09T19:11:16+00:00",
-        "title": "code 3.4.1 Released",
-        "body": "<p>Fixes:</p>\n<ul>\n<li>Fix empty sidebar layout, ensuring folders can always be added</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Scroll past the end of a file</li>\n<li>More efficiently save and restore window position</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/code/releases/tag/3.4.1"
-      },
-      {
-        "version": "3.4.0",
-        "release_date": "2020-04-02T00:31:58+00:00",
-        "title": "code 3.4.0 Released",
-        "body": "code 3.4.0 is out! \n\n<p>New features:</p>\n<ul>\n<li>Include Git status in file tooltips</li>\n<li>Option for explicit case-sensitive Find</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Correctly show Toggle Comment menu item when no text is selected</li>\n<li>Fixed font switch alignment</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/code/releases/tag/3.4.0"
-      },
-      {
-        "version": "3.3.0",
-        "release_date": "2020-02-29T20:15:24+00:00",
-        "title": "code 3.3.0 Released",
-        "body": "code 3.3.0 is out! \n\n<p>New features:</p>\n<ul>\n<li>New \"Close Other Folders\" menu item to help clean up your sidebar</li>\n<li>Save and restore cyclic search setting</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Add keyboard shortcuts to menu items</li>\n<li>Make sidebar folder items not selectable</li>\n<li>Center new windows</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/code/releases/tag/3.3.0"
-      },
-      {
-        "version": "3.2.0",
-        "release_date": "2020-01-10T19:59:56+00:00",
-        "title": "code 3.2.0 Released",
-        "body": "code 3.2.0 is out! \n\n<p>New features:</p>\n<ul>\n<li>Visually deprioritize .gitignored files in project sidebar</li>\n<li>Smart cut/copy lines with no active selection</li>\n<li>Add a confirmation dialog to the \"Restore\" action</li>\n<li>Add \"Open In\" menu to the top-level folder in the folder manager</li>\n<li>Don't show temporary files in the folder manager</li>\n<li>Add brackets completion and auto-indent by default</li>\n<li>Zoom terminal plugin with keyboard</li>\n<li>Honor global privacy setting when saving and restoring</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Simplify \"Draw spaces\" preference</li>\n<li>Fix the keyboard shortcut for going backwards in search results</li>\n<li>Fix opening files from relative paths in Terminal</li>\n<li>Fix null file dialog when opening a new window via the dock</li>\n<li>Add \"=\" as a zoom key</li>\n<li>Change search entry icon when results aren't found</li>\n<li>Enter name of new file before creating it</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/code/releases/tag/3.2.0"
-      },
-      {
-        "version": "3.1.1",
-        "release_date": "2019-03-14T18:43:15+00:00",
-        "title": "Code 3.1.1 Released",
-        "body": "Code 3.1.1 is out!\r\n\r\nChanges:\r\n* Use `Granite.MessageDialog` throughout\r\n* Include non-text files in sidebar\r\n* Fix `Remove Current View`",
-        "href": "https://github.com/elementary/code/releases/tag/3.1.1"
-      },
-      {
-        "version": "3.1.0",
-        "release_date": "2019-03-06T11:14:42+00:00",
-        "title": "Code 3.1.0 Released",
-        "body": "Code 3.1.0 is out!\r\n\r\nChanges:\r\n* Fix `New Window` desktop action behavior\r\n* Properly synchronize `Ctrl+N` key presses with number of new documents spawned\r\n* Build system fix for `editorconfig` dependency\r\n* Add `Change Branch` context menu item\r\n* Avoid possible startup crash related to how plugins load\r\n* Updated translations",
-        "href": "https://github.com/elementary/code/releases/tag/3.1.0"
-      },
-      {
-        "version": "3.0.2",
-        "release_date": "2019-01-03T06:34:28+00:00",
-        "title": "Code 3.0.2 Released",
-        "body": "Code 3.0.2 is out!\r\n\r\nChanges:\r\n* Smarter file saving behavior\r\n* File saving fixes\r\n* Don't add temporary files to tab restore",
-        "href": "https://github.com/elementary/code/releases/tag/3.0.2"
-      },
-      {
-        "version": "3.0.1",
-        "release_date": "2018-11-30T14:06:36+00:00",
-        "title": "Code 3.0.1 Released",
-        "body": "Code 3.0.1 is out!\r\n\r\nChanges:\r\n* Don't recreate deleted files when restoring session\r\n* Restore line wrap preference\r\n* Add accel tooltips\r\n* Minor bug fixes\r\n* Updated translations",
-        "href": "https://github.com/elementary/code/releases/tag/3.0.1"
-      },
-      {
-        "version": "3.0",
-        "release_date": "2018-10-16T09:38:13+00:00",
-        "title": "Code 3.0 Released",
-        "body": "Code 3.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/code/issues?q=is%3Aclosed+milestone%3A3.0).",
-        "href": "https://github.com/elementary/code/releases/tag/3.0"
-      }
-    ],
-    "new_commits": 68,
-    "default_branch": "master"
   },
   {
     "name": "notifications",
