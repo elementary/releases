@@ -1,5 +1,96 @@
 [
   {
+    "name": "installer",
+    "releases": [
+      {
+        "version": "8.1.0",
+        "release_date": "2024-10-23T22:04:27+00:00",
+        "title": "installer 8.1.0 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Sort language variants alphabetically and automatically select main variant by default</li>\n<li>Provide more feedback for invalid values when doing a custom install</li>\n<li>Battery warning is sent as a notification instead of an infobar</li>\n<li>Update post-install driver installation instructions</li>\n<li>Improve screen reader support</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/installer/releases/tag/8.1.0"
+      },
+      {
+        "version": "8.0.0",
+        "release_date": "2024-07-25T17:38:36+00:00",
+        "title": "installer 8.0.0 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Keyboard layout preview is now in a resizable window</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/installer/releases/tag/8.0.0"
+      },
+      {
+        "version": "1.2.0",
+        "release_date": "2023-08-29T03:17:21+00:00",
+        "title": "installer 1.2.0 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Swipe to navigate back</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/installer/releases/tag/1.2.0"
+      },
+      {
+        "version": "1.1.0",
+        "release_date": "2023-07-24T15:34:16+00:00",
+        "title": "Installer 1.1.0 Released!",
+        "body": "## What's Changed\r\n* Switch to GHCR containers by @davidmhewitt in https://github.com/elementary/installer/pull/695\r\n* Fix #617 : Raise DBUS_TIMEOUT_MSEC value in src/Helpers/InstallerDaemon.vala by @aerocyber in https://github.com/elementary/installer/pull/701\r\n* Application: Use Gtk.App inhibit by @danirabbit in https://github.com/elementary/installer/pull/454\r\n* Increase DBUS_TIMEOUT_MSEC variable by @aerocyber in https://github.com/elementary/installer/pull/707\r\n* Metainfo Improvements by @danirabbit in https://github.com/elementary/installer/pull/713\r\n* Metainfo: add 1.0.8 release notes by @danirabbit in https://github.com/elementary/installer/pull/714\r\n* Prompt for screen reader shortcut after a timeout by @danirabbit in https://github.com/elementary/installer/pull/711\r\n* Don't read orca prompt if already enabled by @danirabbit in https://github.com/elementary/installer/pull/716\r\n\r\n## New Contributors\r\n* @dependabot made their first contribution in https://github.com/elementary/installer/pull/696\r\n* @aerocyber made their first contribution in https://github.com/elementary/installer/pull/701\r\n\r\n**Full Changelog**: https://github.com/elementary/installer/compare/1.0.7...1.1.0",
+        "href": "https://github.com/elementary/installer/releases/tag/1.1.0"
+      },
+      {
+        "version": "1.0.7",
+        "release_date": "2023-01-12T02:14:26+00:00",
+        "title": "Release 1.0.7",
+        "body": "## What's Changed\r\n* CheckView: Ignore → Install Anyway by @danirabbit in https://github.com/elementary/installer/pull/676\r\n* Views use 128px icons by @danirabbit in https://github.com/elementary/installer/pull/665\r\n\r\n**Full Changelog**: https://github.com/elementary/installer/compare/1.0.6...1.0.7",
+        "href": "https://github.com/elementary/installer/releases/tag/1.0.7"
+      },
+      {
+        "version": "1.0.6",
+        "release_date": "2022-12-06T16:39:34+00:00",
+        "title": "installer 1.0.6 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Show an infobar on battery instead of switching to a different page</li>\n<li>Show all system requirements warnings on a single page</li>\n<li>Warn about installing developer builds</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/installer/releases/tag/1.0.6"
+      },
+      {
+        "version": "1.0.5",
+        "release_date": "2021-12-17T19:30:23+00:00",
+        "title": "installer 1.0.5 Released",
+        "body": "\n",
+        "href": "https://github.com/elementary/installer/releases/tag/1.0.5"
+      },
+      {
+        "version": "1.0.4",
+        "release_date": "2021-12-13T22:34:35+00:00",
+        "title": "installer 1.0.4 Released",
+        "body": "\n",
+        "href": "https://github.com/elementary/installer/releases/tag/1.0.4"
+      },
+      {
+        "version": "1.0.3",
+        "release_date": "2021-08-26T02:15:09+00:00",
+        "title": "installer 1.0.3 Released",
+        "body": "\n",
+        "href": "https://github.com/elementary/installer/releases/tag/1.0.3"
+      },
+      {
+        "version": "1.0.2",
+        "release_date": "2021-08-20T21:33:08+00:00",
+        "title": "installer 1.0.2 Released",
+        "body": "\n",
+        "href": "https://github.com/elementary/installer/releases/tag/1.0.2"
+      },
+      {
+        "version": "1.0.1",
+        "release_date": "2021-07-29T19:26:54+00:00",
+        "title": "installer 1.0.1 Released",
+        "body": "\n",
+        "href": "https://github.com/elementary/installer/releases/tag/1.0.1"
+      },
+      {
+        "version": "1.0.0",
+        "release_date": "2021-07-15T23:54:35+00:00",
+        "title": "installer 1.0.0 Released",
+        "body": "\n",
+        "href": "https://github.com/elementary/installer/releases/tag/1.0.0"
+      }
+    ],
+    "new_commits": 0,
+    "default_branch": "main"
+  },
+  {
     "name": "onboarding",
     "releases": [
       {
@@ -6256,90 +6347,6 @@
     ],
     "new_commits": 29,
     "default_branch": "master"
-  },
-  {
-    "name": "installer",
-    "releases": [
-      {
-        "version": "8.0.0",
-        "release_date": "2024-07-25T17:38:36+00:00",
-        "title": "installer 8.0.0 Released",
-        "body": "<p>Improvements:</p>\n<ul>\n<li>Keyboard layout preview is now in a resizable window</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/installer/releases/tag/8.0.0"
-      },
-      {
-        "version": "1.2.0",
-        "release_date": "2023-08-29T03:17:21+00:00",
-        "title": "installer 1.2.0 Released",
-        "body": "<p>Improvements:</p>\n<ul>\n<li>Swipe to navigate back</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/installer/releases/tag/1.2.0"
-      },
-      {
-        "version": "1.1.0",
-        "release_date": "2023-07-24T15:34:16+00:00",
-        "title": "Installer 1.1.0 Released!",
-        "body": "## What's Changed\r\n* Switch to GHCR containers by @davidmhewitt in https://github.com/elementary/installer/pull/695\r\n* Fix #617 : Raise DBUS_TIMEOUT_MSEC value in src/Helpers/InstallerDaemon.vala by @aerocyber in https://github.com/elementary/installer/pull/701\r\n* Application: Use Gtk.App inhibit by @danirabbit in https://github.com/elementary/installer/pull/454\r\n* Increase DBUS_TIMEOUT_MSEC variable by @aerocyber in https://github.com/elementary/installer/pull/707\r\n* Metainfo Improvements by @danirabbit in https://github.com/elementary/installer/pull/713\r\n* Metainfo: add 1.0.8 release notes by @danirabbit in https://github.com/elementary/installer/pull/714\r\n* Prompt for screen reader shortcut after a timeout by @danirabbit in https://github.com/elementary/installer/pull/711\r\n* Don't read orca prompt if already enabled by @danirabbit in https://github.com/elementary/installer/pull/716\r\n\r\n## New Contributors\r\n* @dependabot made their first contribution in https://github.com/elementary/installer/pull/696\r\n* @aerocyber made their first contribution in https://github.com/elementary/installer/pull/701\r\n\r\n**Full Changelog**: https://github.com/elementary/installer/compare/1.0.7...1.1.0",
-        "href": "https://github.com/elementary/installer/releases/tag/1.1.0"
-      },
-      {
-        "version": "1.0.7",
-        "release_date": "2023-01-12T02:14:26+00:00",
-        "title": "Release 1.0.7",
-        "body": "## What's Changed\r\n* CheckView: Ignore → Install Anyway by @danirabbit in https://github.com/elementary/installer/pull/676\r\n* Views use 128px icons by @danirabbit in https://github.com/elementary/installer/pull/665\r\n\r\n**Full Changelog**: https://github.com/elementary/installer/compare/1.0.6...1.0.7",
-        "href": "https://github.com/elementary/installer/releases/tag/1.0.7"
-      },
-      {
-        "version": "1.0.6",
-        "release_date": "2022-12-06T16:39:34+00:00",
-        "title": "installer 1.0.6 Released",
-        "body": "<p>Improvements:</p>\n<ul>\n<li>Show an infobar on battery instead of switching to a different page</li>\n<li>Show all system requirements warnings on a single page</li>\n<li>Warn about installing developer builds</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/installer/releases/tag/1.0.6"
-      },
-      {
-        "version": "1.0.5",
-        "release_date": "2021-12-17T19:30:23+00:00",
-        "title": "installer 1.0.5 Released",
-        "body": "\n",
-        "href": "https://github.com/elementary/installer/releases/tag/1.0.5"
-      },
-      {
-        "version": "1.0.4",
-        "release_date": "2021-12-13T22:34:35+00:00",
-        "title": "installer 1.0.4 Released",
-        "body": "\n",
-        "href": "https://github.com/elementary/installer/releases/tag/1.0.4"
-      },
-      {
-        "version": "1.0.3",
-        "release_date": "2021-08-26T02:15:09+00:00",
-        "title": "installer 1.0.3 Released",
-        "body": "\n",
-        "href": "https://github.com/elementary/installer/releases/tag/1.0.3"
-      },
-      {
-        "version": "1.0.2",
-        "release_date": "2021-08-20T21:33:08+00:00",
-        "title": "installer 1.0.2 Released",
-        "body": "\n",
-        "href": "https://github.com/elementary/installer/releases/tag/1.0.2"
-      },
-      {
-        "version": "1.0.1",
-        "release_date": "2021-07-29T19:26:54+00:00",
-        "title": "installer 1.0.1 Released",
-        "body": "\n",
-        "href": "https://github.com/elementary/installer/releases/tag/1.0.1"
-      },
-      {
-        "version": "1.0.0",
-        "release_date": "2021-07-15T23:54:35+00:00",
-        "title": "installer 1.0.0 Released",
-        "body": "\n",
-        "href": "https://github.com/elementary/installer/releases/tag/1.0.0"
-      }
-    ],
-    "new_commits": 150,
-    "default_branch": "main"
   },
   {
     "name": "bluetooth-daemon",
