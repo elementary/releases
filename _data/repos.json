@@ -682,7 +682,7 @@
         "href": "https://github.com/elementary/dock/releases/tag/8.0.0"
       }
     ],
-    "new_commits": 49,
+    "new_commits": 50,
     "default_branch": "main"
   },
   {
@@ -892,7 +892,7 @@
         "href": "https://github.com/elementary/switchboard-plug-printers/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 2,
+    "new_commits": 3,
     "default_branch": "main"
   },
   {
@@ -1557,7 +1557,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 25,
+    "new_commits": 26,
     "default_branch": "main"
   },
   {
@@ -1795,7 +1795,7 @@
         "href": "https://github.com/elementary/session-settings/releases/tag/5.0"
       }
     ],
-    "new_commits": 2,
+    "new_commits": 3,
     "default_branch": "main"
   },
   {
@@ -6534,7 +6534,7 @@
         "href": "https://github.com/elementary/calendar/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 29,
+    "new_commits": 30,
     "default_branch": "master"
   },
   {
@@ -7192,7 +7192,7 @@
         "href": "https://github.com/elementary/capnet-assist/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 62,
+    "new_commits": 63,
     "default_branch": "master"
   },
   {
