@@ -2852,7 +2852,7 @@
         "href": "https://github.com/elementary/monitor/releases/tag/0.2.0"
       }
     ],
-    "new_commits": 519,
+    "new_commits": 524,
     "default_branch": "dev"
   },
   {
@@ -4973,7 +4973,7 @@
         "href": "https://github.com/elementary/camera/releases/tag/1.0"
       }
     ],
-    "new_commits": 28,
+    "new_commits": 32,
     "default_branch": "main"
   },
   {
@@ -8417,7 +8417,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.0"
       }
     ],
-    "new_commits": 6895,
+    "new_commits": 6896,
     "default_branch": "master"
   },
   {
