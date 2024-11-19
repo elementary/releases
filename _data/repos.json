@@ -549,7 +549,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 15,
+    "new_commits": 16,
     "default_branch": "main"
   },
   {
@@ -5687,7 +5687,7 @@
         "href": "https://github.com/elementary/switchboard-plug-parental-controls/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 115,
+    "new_commits": 119,
     "default_branch": "main"
   },
   {
@@ -6030,7 +6030,7 @@
         "href": "https://github.com/elementary/switchboard-plug-applications/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 92,
+    "new_commits": 93,
     "default_branch": "main"
   },
   {
