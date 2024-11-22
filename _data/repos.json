@@ -178,6 +178,13 @@
     "name": "os",
     "releases": [
       {
+        "version": "8.0.0-rc2",
+        "release_date": "2024-11-21T16:16:40+00:00",
+        "title": "OS 8 RC 2",
+        "body": "This is a release candidate image for OS 8 for testing and verification purposes",
+        "href": "https://github.com/elementary/os/releases/tag/8.0.0-rc2"
+      },
+      {
         "version": "8.0.0-rc1",
         "release_date": "2024-11-21T16:16:40+00:00",
         "title": "OS 8 RC 1",
