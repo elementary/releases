@@ -297,7 +297,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 6,
+    "new_commits": 7,
     "default_branch": "main"
   },
   {
@@ -920,7 +920,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 6,
+    "new_commits": 7,
     "default_branch": "main"
   },
   {
@@ -1193,7 +1193,7 @@
         "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 8,
+    "new_commits": 9,
     "default_branch": "main"
   },
   {
@@ -1375,7 +1375,7 @@
         "href": "https://github.com/elementary/switchboard-plug-useraccounts/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 8,
+    "new_commits": 9,
     "default_branch": "main"
   },
   {
@@ -2040,7 +2040,7 @@
         "href": "https://github.com/elementary/installer/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 28,
+    "new_commits": 29,
     "default_branch": "main"
   },
   {
@@ -7640,7 +7640,7 @@
         "href": "https://github.com/elementary/terminal/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 136,
+    "new_commits": 137,
     "default_branch": "master"
   },
   {
@@ -8529,7 +8529,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.0"
       }
     ],
-    "new_commits": 6971,
+    "new_commits": 6973,
     "default_branch": "master"
   },
   {
