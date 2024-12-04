@@ -1,5 +1,40 @@
 [
   {
+    "name": "iconbrowser",
+    "releases": [
+      {
+        "version": "8.0.0",
+        "release_date": "2024-12-04T01:33:57+00:00",
+        "title": "iconbrowser 8.0.0 Released",
+        "body": "<p>Update icon list to match Platform 8</p>\n<p>Update translations</p>\n",
+        "href": "https://github.com/elementary/iconbrowser/releases/tag/8.0.0"
+      },
+      {
+        "version": "2.2.0",
+        "release_date": "2023-08-29T15:43:39+00:00",
+        "title": "iconbrowser 2.2.0 Released",
+        "body": "<p>Update translations</p>\n",
+        "href": "https://github.com/elementary/iconbrowser/releases/tag/2.2.0"
+      },
+      {
+        "version": "2.1.1",
+        "release_date": "2022-11-08T16:56:42+00:00",
+        "title": "iconbrowser 2.1.1 Released",
+        "body": "<p>Fixed an error that prevented app startup</p>\n<p>Update translations</p>\n",
+        "href": "https://github.com/elementary/iconbrowser/releases/tag/2.1.1"
+      },
+      {
+        "version": "2.0.0",
+        "release_date": "2022-10-04T15:15:33+00:00",
+        "title": "iconbrowser 2.0.0 Released",
+        "body": "<p>A modern redesign!</p>\n<ul>\n<li>Fancy new icon</li>\n<li>Drag the window from anywhere</li>\n<li>Follow the system dark style preference</li>\n<li>Updated for Gtk 4</li>\n</ul>\n",
+        "href": "https://github.com/elementary/iconbrowser/releases/tag/2.0.0"
+      }
+    ],
+    "new_commits": 0,
+    "default_branch": "main"
+  },
+  {
     "name": "screenshot",
     "releases": [
       {
@@ -8334,34 +8369,6 @@
       }
     ],
     "new_commits": 29,
-    "default_branch": "main"
-  },
-  {
-    "name": "iconbrowser",
-    "releases": [
-      {
-        "version": "2.2.0",
-        "release_date": "2023-08-29T15:43:39+00:00",
-        "title": "iconbrowser 2.2.0 Released",
-        "body": "<p>Update translations</p>\n",
-        "href": "https://github.com/elementary/iconbrowser/releases/tag/2.2.0"
-      },
-      {
-        "version": "2.1.1",
-        "release_date": "2022-11-08T16:56:42+00:00",
-        "title": "iconbrowser 2.1.1 Released",
-        "body": "<p>Fixed an error that prevented app startup</p>\n<p>Update translations</p>\n",
-        "href": "https://github.com/elementary/iconbrowser/releases/tag/2.1.1"
-      },
-      {
-        "version": "2.0.0",
-        "release_date": "2022-10-04T15:15:33+00:00",
-        "title": "iconbrowser 2.0.0 Released",
-        "body": "<p>A modern redesign!</p>\n<ul>\n<li>Fancy new icon</li>\n<li>Drag the window from anywhere</li>\n<li>Follow the system dark style preference</li>\n<li>Updated for Gtk 4</li>\n</ul>\n",
-        "href": "https://github.com/elementary/iconbrowser/releases/tag/2.0.0"
-      }
-    ],
-    "new_commits": 85,
     "default_branch": "main"
   },
   {
