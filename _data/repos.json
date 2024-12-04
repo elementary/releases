@@ -31,7 +31,7 @@
         "href": "https://github.com/elementary/iconbrowser/releases/tag/2.0.0"
       }
     ],
-    "new_commits": 0,
+    "new_commits": 1,
     "default_branch": "main"
   },
   {
@@ -3573,7 +3573,7 @@
         "href": "https://github.com/elementary/switchboard-plug-pantheon-shell/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
       }
     ],
-    "new_commits": 18,
+    "new_commits": 26,
     "default_branch": "main"
   },
   {
