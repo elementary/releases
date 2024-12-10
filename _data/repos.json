@@ -1984,7 +1984,7 @@
         "href": "https://github.com/elementary/switchboard-plug-network/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 25,
+    "new_commits": 27,
     "default_branch": "main"
   },
   {
@@ -4525,7 +4525,7 @@
         "href": "https://github.com/elementary/settings-daemon/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 15,
+    "new_commits": 18,
     "default_branch": "main"
   },
   {
