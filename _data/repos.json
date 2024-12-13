@@ -27,7 +27,7 @@
         "version": "8.0.1",
         "release_date": "2024-12-12T23:12:50+00:00",
         "title": "appcenter 8.0.1 Released",
-        "body": "<p>Other Improvements:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "body": "## What's Changed\r\n* Add support for new developer id by @kerunaru in https://github.com/elementary/appcenter/pull/2203\r\n* Silence some minor compile warnings by @jeremypw in https://github.com/elementary/appcenter/pull/2211\r\n* Filter screenshot by environment (elementary#2210) by @edwood-grant in https://github.com/elementary/appcenter/pull/2225\r\n* Made issue_box widget a grid (elementary#2224) by @edwood-grant in https://github.com/elementary/appcenter/pull/2227\r\n* Parse all branding colors from appstream (elementary#2140) by @edwood-grant in https://github.com/elementary/appcenter/pull/2226\r\n\r\n## New Contributors\r\n* @kerunaru made their first contribution in https://github.com/elementary/appcenter/pull/2203\r\n* @edwood-grant made their first contribution in https://github.com/elementary/appcenter/pull/2225\r\n\r\n**Full Changelog**: https://github.com/elementary/appcenter/compare/8.0.0...8.0.1",
         "href": "https://github.com/elementary/appcenter/releases/tag/8.0.1"
       },
       {
@@ -363,7 +363,7 @@
         "version": "8.1.0",
         "release_date": "2024-12-12T23:12:33+00:00",
         "title": "switchboard-plug-about 8.1.0 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "body": "## What's Changed\r\n* Add hexpand by @alainm23 in https://github.com/elementary/switchboard-plug-about/pull/336\r\n* Meson: add log domain by @danirabbit in https://github.com/elementary/switchboard-plug-about/pull/340\r\n* build: Fix build with fwupd 2.0.0 by @bobby285271 in https://github.com/elementary/switchboard-plug-about/pull/343\r\n* Fix Scroll Padding by @alainm23 in https://github.com/elementary/switchboard-plug-about/pull/345\r\n* Plug: use Adw.ToolbarView by @danirabbit in https://github.com/elementary/switchboard-plug-about/pull/346\r\n* Show sponsor goal progress bar by @alainm23 in https://github.com/elementary/switchboard-plug-about/pull/347\r\n\r\n## New Contributors\r\n* @alainm23 made their first contribution in https://github.com/elementary/switchboard-plug-about/pull/336\r\n* @lenemter made their first contribution in https://github.com/elementary/switchboard-plug-about/pull/354\r\n\r\n**Full Changelog**: https://github.com/elementary/switchboard-plug-about/compare/8.0.0...8.1.0",
         "href": "https://github.com/elementary/switchboard-plug-about/releases/tag/8.1.0"
       },
       {
@@ -489,7 +489,7 @@
         "version": "8.1.1",
         "release_date": "2024-12-12T23:03:31+00:00",
         "title": "settings-daemon 8.1.1 Released",
-        "body": "<p>New features:</p>\n<ul>\n<li>Don't automatically download updates on a metered network</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "body": "## What's Changed\r\n* Launcher: add X-GNOME-UsesNotifications by @danirabbit in https://github.com/elementary/settings-daemon/pull/161\r\n* SystemUpdate: Don't auto update on a metered connection  by @leolost2605 in https://github.com/elementary/settings-daemon/pull/159\r\n* SystemUpdate: make sure we notify if network is metered by @danirabbit in https://github.com/elementary/settings-daemon/pull/164\r\n* Don't check for updates in demo mode by @danirabbit in https://github.com/elementary/settings-daemon/pull/163\r\n* build: Fix build with fwupd 2.0.0 by @bobby285271 in https://github.com/elementary/settings-daemon/pull/169\r\n* 8.1.1 release notes by @lenemter in https://github.com/elementary/settings-daemon/pull/171\r\n* Release 8.1.1 by @lenemter in https://github.com/elementary/settings-daemon/pull/172\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/settings-daemon/compare/8.1.0...8.1.1",
         "href": "https://github.com/elementary/settings-daemon/releases/tag/8.1.1"
       },
       {
@@ -552,7 +552,7 @@
         "version": "8.0.3",
         "release_date": "2024-12-12T23:02:14+00:00",
         "title": "onboarding 8.0.3 Released",
-        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "body": "## What's Changed\r\n* MainWindow: center with shell protocol by @danirabbit in https://github.com/elementary/onboarding/pull/248\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/onboarding/compare/8.0.2...8.0.3",
         "href": "https://github.com/elementary/onboarding/releases/tag/8.0.3"
       },
       {
@@ -664,7 +664,7 @@
         "version": "8.0.1",
         "release_date": "2024-12-12T20:15:48+00:00",
         "title": "switchboard-plug-locale 8.0.1 Released",
-        "body": "<p>Minor improvements:</p>\n<ul>\n<li>Selected language checkmark now follows system accent color</li>\n<li>Sidebar position is now remembered</li>\n<li>Performance improvements</li>\n<li>Updated translations</li>\n</ul>\n",
+        "body": "## What's Changed\r\n* Store Sidebar Position by @alainm23 in https://github.com/elementary/switchboard-plug-locale/pull/219\r\n* Meson: add log domain by @danirabbit in https://github.com/elementary/switchboard-plug-locale/pull/220\r\n* Use check button for selected check by @lenemter in https://github.com/elementary/switchboard-plug-locale/pull/222\r\n\r\n## New Contributors\r\n* @alainm23 made their first contribution in https://github.com/elementary/switchboard-plug-locale/pull/219\r\n\r\n**Full Changelog**: https://github.com/elementary/switchboard-plug-locale/compare/8.0.0...8.0.1",
         "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/8.0.1"
       },
       {
@@ -783,7 +783,7 @@
         "version": "8.1.0",
         "release_date": "2024-12-12T20:15:39+00:00",
         "title": "switchboard-plug-applications 8.1.0 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "body": "## What's Changed\r\n* Add Notifications settings by @danirabbit in https://github.com/elementary/switchboard-plug-applications/pull/238\r\n* AppSettingsView: Fix typo 'Notications' -> 'Notifications' by @ryonakano in https://github.com/elementary/switchboard-plug-applications/pull/239\r\n* Store Sidebar Position by @alainm23 in https://github.com/elementary/switchboard-plug-applications/pull/240\r\n* Meson: add log domain by @danirabbit in https://github.com/elementary/switchboard-plug-applications/pull/241\r\n\r\n## New Contributors\r\n* @alainm23 made their first contribution in https://github.com/elementary/switchboard-plug-applications/pull/240\r\n\r\n**Full Changelog**: https://github.com/elementary/switchboard-plug-applications/compare/8.0.0...8.1.0",
         "href": "https://github.com/elementary/switchboard-plug-applications/releases/tag/8.1.0"
       },
       {
@@ -993,7 +993,7 @@
         "version": "8.0.2",
         "release_date": "2024-12-12T20:05:44+00:00",
         "title": "dock 8.0.2 Released",
-        "body": "<p>Updated translations</p>\n",
+        "body": "## What's Changed\r\n* App: Respect startup notify key for launching animation by @leolost2605 in https://github.com/elementary/dock/pull/299\r\n* meson: Specify minimum GLib version by @tintou in https://github.com/elementary/dock/pull/306\r\n* Add spacing between icon and running indicator by @lenemter in https://github.com/elementary/dock/pull/329\r\n* Fix icons clipping when bouncing and separate background from window by @lenemter in https://github.com/elementary/dock/pull/328\r\n* MainWindow: respect reduce transparency key by @danirabbit in https://github.com/elementary/dock/pull/333\r\n\r\n## New Contributors\r\n* @lenemter made their first contribution in https://github.com/elementary/dock/pull/329\r\n\r\n**Full Changelog**: https://github.com/elementary/dock/compare/8.0.1...8.0.2",
         "href": "https://github.com/elementary/dock/releases/tag/8.0.2"
       },
       {
@@ -1021,7 +1021,7 @@
         "version": "8.1.1",
         "release_date": "2024-12-12T18:39:34+00:00",
         "title": "installer 8.1.1 Released",
-        "body": "<p>Improvements:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "body": "## What's Changed\r\n* MainWindow: center with pantheon protocol by @danirabbit in https://github.com/elementary/installer/pull/841\r\n* EncryptView: use single view by @danirabbit in https://github.com/elementary/installer/pull/847\r\n* fix(DiskBar): simplify and prevent invalid constraints by @davidmhewitt in https://github.com/elementary/installer/pull/862\r\n\r\n**Full Changelog**: https://github.com/elementary/installer/compare/8.1.0...8.1.1",
         "href": "https://github.com/elementary/installer/releases/tag/8.1.1"
       },
       {
@@ -1343,7 +1343,7 @@
         "version": "8.0.1",
         "release_date": "2024-12-11T22:44:22+00:00",
         "title": "capnet-assist 8.0.1 Released",
-        "body": "<ul>\n<li>Add CTRL+Q quit shortcut</li>\n<li>Updated translations</li>\n</ul>\n",
+        "body": "## What's Changed\r\n* l10n: Correct gettext package name by @ryonakano in https://github.com/elementary/capnet-assist/pull/122\r\n* Add quit action by @stsdc in https://github.com/elementary/capnet-assist/pull/123\r\n\r\n## New Contributors\r\n* @stsdc made their first contribution in https://github.com/elementary/capnet-assist/pull/123\r\n\r\n**Full Changelog**: https://github.com/elementary/capnet-assist/compare/8.0.0...8.0.1",
         "href": "https://github.com/elementary/capnet-assist/releases/tag/8.0.1"
       },
       {
@@ -1448,7 +1448,7 @@
         "version": "6.3.0",
         "release_date": "2024-12-11T10:02:36+00:00",
         "title": "terminal 6.3.0 Released",
-        "body": "<p>New features:</p>\n<ul>\n<li>Show zoom level in overlay when zooming</li>\n<li>Implement Clear and Reset context menu actions with accelerators</li>\n<li>Add toggle for unsafe paste warning to application menu</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Update the icon and tooltip of the cyclic search togglebutton according to its state</li>\n<li>Focus correct tab after clicking on a process finished notification</li>\n<li>Check for \"doas\", \"pkexec\", \"run0\", and \"su\" as well as \"sudo\" when text pasted into terminal</li>\n<li>Check for unsafe paste on dropping text as well</li>\n<li>Check for multiline commands in unsafe paste detection</li>\n<li>Improve gray contrast in dark theme</li>\n<li>Translation updates</li>\n</ul>\n",
+        "body": "## What's Changed\r\n* Replace Granite.DynamicNotebook with Hdy TabView and TabBar by @jeremypw in https://github.com/elementary/terminal/pull/760\r\n* TerminalView: ReLoad→Reload by @ryonakano in https://github.com/elementary/terminal/pull/767\r\n* Fix empty context menu regression by @jeremypw in https://github.com/elementary/terminal/pull/768\r\n* Use GLib.MenuModel for context menu by @jeremypw in https://github.com/elementary/terminal/pull/769\r\n* Don't set icon size for button from icon name by @danirabbit in https://github.com/elementary/terminal/pull/771\r\n* fix(Themes): increase contrast for gray, fixes #682 by @cshaa in https://github.com/elementary/terminal/pull/755\r\n* Show zoom level in centre or terminal when changing. by @jeremypw in https://github.com/elementary/terminal/pull/772\r\n* upd(TerminalWidget): add doas checking by @Elsie19 in https://github.com/elementary/terminal/pull/774\r\n* Update POTFILES by @ryonakano in https://github.com/elementary/terminal/pull/779\r\n* Focus current tab by @igordsm in https://github.com/elementary/terminal/pull/638\r\n* Gtk4Prep - Lose geometry hints by @jeremypw in https://github.com/elementary/terminal/pull/782\r\n* Gtk4Prep - Do not subclass Gtk.Label by @jeremypw in https://github.com/elementary/terminal/pull/784\r\n* Gtk4Prep - Handle restoring and syncing window state in Application by @jeremypw in https://github.com/elementary/terminal/pull/783\r\n* SettingsPopover: use provider_for_screen for theme buttons by @danirabbit in https://github.com/elementary/terminal/pull/785\r\n* Separate button controllers - Gtk4 prep by @jeremypw in https://github.com/elementary/terminal/pull/787\r\n* Gtk4 Prep - SettingsPopover - call terminal zoom functions directly by @jeremypw in https://github.com/elementary/terminal/pull/789\r\n* Code Style -  by @jeremypw in https://github.com/elementary/terminal/pull/790\r\n* Implement Clear and Reset actions with hotkeys by @jeremypw in https://github.com/elementary/terminal/pull/778\r\n* Update cyclic search button when toggled by @jeremypw in https://github.com/elementary/terminal/pull/795\r\n* Add toggle for unsafe paste by @teamcons in https://github.com/elementary/terminal/pull/798\r\n* Correctly open uris containing spaces by @jeremypw in https://github.com/elementary/terminal/pull/777\r\n* Check for unsafe  drop  by @jeremypw in https://github.com/elementary/terminal/pull/794\r\n* TerminalWidget: Fix non administrative commands not being pasted by @ryonakano in https://github.com/elementary/terminal/pull/802\r\n* Drop dead feature that disables unsafe paste warning while Terminal opens by @ryonakano in https://github.com/elementary/terminal/pull/803\r\n* TerminalWidget: Refactor validated_feed to avoid nested conditions by @ryonakano in https://github.com/elementary/terminal/pull/804\r\n* Provide fallback directory for active shell under test by @jeremypw in https://github.com/elementary/terminal/pull/810\r\n* Application: withdraw stale notifications by @danirabbit in https://github.com/elementary/terminal/pull/813\r\n* Enhance unsafe detection by @teamcons in https://github.com/elementary/terminal/pull/800\r\n* Add tab to new window created with <Shift><Ctrl>N by @jeremypw in https://github.com/elementary/terminal/pull/816\r\n\r\n## New Contributors\r\n* @cshaa made their first contribution in https://github.com/elementary/terminal/pull/755\r\n* @Elsie19 made their first contribution in https://github.com/elementary/terminal/pull/774\r\n* @teamcons made their first contribution in https://github.com/elementary/terminal/pull/798\r\n\r\n**Full Changelog**: https://github.com/elementary/terminal/compare/6.2.0...6.3.0",
         "href": "https://github.com/elementary/terminal/releases/tag/6.3.0"
       },
       {
@@ -1630,7 +1630,7 @@
         "version": "8.0.0",
         "release_date": "2024-12-04T01:33:57+00:00",
         "title": "iconbrowser 8.0.0 Released",
-        "body": "<p>Update icon list to match Platform 8</p>\n<p>Update translations</p>\n",
+        "body": "## What's Changed\r\n* AppData: Add translation info by @ryonakano in https://github.com/elementary/iconbrowser/pull/47\r\n* CI: Use flatpak gettext action by @danirabbit in https://github.com/elementary/iconbrowser/pull/50\r\n* Flatpak: bump platform to 8 by @danirabbit in https://github.com/elementary/iconbrowser/pull/51\r\n* CategoryView: update list with additions and removals for platform 8 by @danirabbit in https://github.com/elementary/iconbrowser/pull/53\r\n* Application: Replace Gtk.Window.present_with_time with present by @ryonakano in https://github.com/elementary/iconbrowser/pull/55\r\n* Add button to copy code snippet by @ryonakano in https://github.com/elementary/iconbrowser/pull/56\r\n* Focus search when typing by @alainm23 in https://github.com/elementary/iconbrowser/pull/57\r\n* Use IconCollection by @alainm23 in https://github.com/elementary/iconbrowser/pull/60\r\n\r\n## New Contributors\r\n* @alainm23 made their first contribution in https://github.com/elementary/iconbrowser/pull/57\r\n\r\n**Full Changelog**: https://github.com/elementary/iconbrowser/compare/2.2.0...8.0.0",
         "href": "https://github.com/elementary/iconbrowser/releases/tag/8.0.0"
       },
       {
@@ -1665,7 +1665,7 @@
         "version": "8.0.1",
         "release_date": "2024-12-02T17:18:14+00:00",
         "title": "screenshot 8.0.1 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "body": "## What's Changed\r\n* Use the portal by @leolost2605 in https://github.com/elementary/screenshot/pull/284\r\n* Port to GTK4 by @danirabbit in https://github.com/elementary/screenshot/pull/240\r\n* Fix copy to clipboard by @alainm23 in https://github.com/elementary/screenshot/pull/285\r\n\r\n## New Contributors\r\n* @alainm23 made their first contribution in https://github.com/elementary/screenshot/pull/285\r\n\r\n**Full Changelog**: https://github.com/elementary/screenshot/compare/8.0.0...8.0.1",
         "href": "https://github.com/elementary/screenshot/releases/tag/8.0.1"
       },
       {
@@ -1784,7 +1784,7 @@
         "version": "8.0.4",
         "release_date": "2024-12-02T16:53:42+00:00",
         "title": "gala 8.0.4 Released",
-        "body": "<p>Improvements:</p>\n<ul>\n<li>Updated translations</li>\n<li>Improved shadows performance</li>\n</ul>\n",
+        "body": "## What's Changed\r\n* ShadowEffect: Delay cache drop for switching shadow sizes performance improvements by @leolost2605 in https://github.com/elementary/gala/pull/2061\r\n* PanelClone: avoid using Timeout by @lenemter in https://github.com/elementary/gala/pull/2015\r\n* X11: move dock window out of bounds when hidden by @lenemter in https://github.com/elementary/gala/pull/2122\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/gala/compare/8.0.3...8.0.4",
         "href": "https://github.com/elementary/gala/releases/tag/8.0.4"
       },
       {
