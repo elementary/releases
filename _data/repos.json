@@ -542,7 +542,7 @@
         "href": "https://github.com/elementary/settings-daemon/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 14,
+    "new_commits": 15,
     "default_branch": "main"
   },
   {
@@ -1620,7 +1620,7 @@
         "href": "https://github.com/elementary/terminal/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 20,
+    "new_commits": 22,
     "default_branch": "master"
   },
   {
@@ -1956,7 +1956,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 46,
+    "new_commits": 48,
     "default_branch": "main"
   },
   {
@@ -2922,7 +2922,7 @@
         "href": "https://github.com/elementary/portals/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 54,
+    "new_commits": 56,
     "default_branch": "main"
   },
   {
@@ -7969,7 +7969,7 @@
         "href": "https://github.com/elementary/switchboard-plug-wacom/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 56,
+    "new_commits": 61,
     "default_branch": "main"
   },
   {
