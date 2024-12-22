@@ -542,7 +542,7 @@
         "href": "https://github.com/elementary/settings-daemon/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 15,
+    "new_commits": 16,
     "default_branch": "main"
   },
   {
@@ -1956,7 +1956,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 50,
+    "new_commits": 51,
     "default_branch": "main"
   },
   {
@@ -8641,7 +8641,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.0"
       }
     ],
-    "new_commits": 7021,
+    "new_commits": 7023,
     "default_branch": "master"
   },
   {
