@@ -1,5 +1,110 @@
 [
   {
+    "name": "switchboard-plug-mouse-touchpad",
+    "releases": [
+      {
+        "version": "8.0.2",
+        "release_date": "2024-12-27T22:51:09+00:00",
+        "title": "switchboard-plug-mouse-touchpad 8.0.2 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Sidebar position is now remembered</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/8.0.2"
+      },
+      {
+        "version": "8.0.1",
+        "release_date": "2024-08-27T22:12:53+00:00",
+        "title": "switchboard-plug-mouse-touchpad 8.0.1 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Improved screen reader compatibility</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/8.0.1"
+      },
+      {
+        "version": "8.0.0",
+        "release_date": "2024-07-26T17:10:36+00:00",
+        "title": "switchboard-plug-mouse-touchpad 8.0.0 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Redesigned, easier to read views with more helpful descriptions</li>\n<li>Add \"Cycle windows\" and \"Move active window to workspace\" as gesture options</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/8.0.0"
+      },
+      {
+        "version": "7.0.0",
+        "release_date": "2022-05-12T16:51:49+00:00",
+        "title": "switchboard-plug-mouse-touchpad 7.0.0 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Update for OS 7</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/7.0.0"
+      },
+      {
+        "version": "6.1.0",
+        "release_date": "2021-09-22T20:37:25+00:00",
+        "title": "Mouse & Touchpad Settings 6.1.0 Released",
+        "body": "New features:\r\n* New toggle for “Double-tap and move to drag”\r\n\r\nMinor updates:\r\n* Updated translations",
+        "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/6.1.0"
+      },
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-15T22:05:21+00:00",
+        "title": "switchboard-plug-mouse-touchpad 6.0.0 Released",
+        "body": "<p>New features:</p>\n<ul>\n<li>Multitouch gesture options</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Add more snap points to pointer speed sliders</li>\n<li>Multitouch gesture options</li>\n<li>Redesigned touchpad settings</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/6.0.0"
+      },
+      {
+        "version": "2.4.2",
+        "release_date": "2020-05-28T18:41:27+00:00",
+        "title": "switchboard-plug-mouse-touchpad 2.4.2 Released",
+        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/2.4.2"
+      },
+      {
+        "version": "2.4.1",
+        "release_date": "2020-04-08T20:16:18+00:00",
+        "title": "switchboard-plug-mouse-touchpad 2.4.1 Released",
+        "body": "<ul>\n<li>Fix stretched switches when using large text</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/2.4.1"
+      },
+      {
+        "version": "2.4.0",
+        "release_date": "2020-01-21T19:59:40+00:00",
+        "title": "switchboard-plug-mouse-touchpad 2.4.0 Released",
+        "body": "switchboard-plug-mouse-touchpad 2.4.0 is out! \n\n<p>New features:</p>\n<ul>\n<li>Add Dwell Click and Pointer size settings</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Also listen to secondary button clicks when selecting Primary Button</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/2.4.0"
+      },
+      {
+        "version": "2.3.1",
+        "release_date": "2019-12-01T21:54:25+00:00",
+        "title": "switchboard-plug-mouse-touchpad 2.3.1 Released",
+        "body": "switchboard-plug-mouse-touchpad 2.3.1 is out! \n\n<ul>\n<li>Fix an issue where primary button selection doesn't apply in left-to-right languages</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/2.3.1"
+      },
+      {
+        "version": "2.3.0",
+        "release_date": "2019-11-15T22:40:24+00:00",
+        "title": "switchboard-plug-mouse-touchpad 2.3.0 Released",
+        "body": "switchboard-plug-mouse-touchpad 2.3.0 is out! \n\nChanges:\n\n* New Sidebar navigation\n* Fix middle click not appearing\n* Add Double-Click speed\n* Updated translations\n",
+        "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/2.3.0"
+      },
+      {
+        "version": "2.2.0",
+        "release_date": "2019-04-11T03:47:58+00:00",
+        "title": "Switchboard Mouse & Touchpad Plug 2.2.0 Released",
+        "body": "switchboard-plug-mouse-touchpad 2.2.0 is out!\r\n\r\nChanges:\r\n* Added settings for\r\n  * Keypad pointer control\r\n  * Ignoring touchpad when external mouse is connected\r\n  * Long-press secondary click\r\n* Use org.gnome.settings-daemon.plugins.xsettings for middle click paste\r\n* Refactored layout and added icons\r\n* Improved search terms\r\n* Updated translations",
+        "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/2.2.0"
+      },
+      {
+        "version": "2.1.4",
+        "release_date": "2018-10-15T21:15:34+00:00",
+        "title": "Switchboard Mouse & Touchpad Plug 2.1.4 Released",
+        "body": "switchboard-plug-mouse-touchpad 2.1.4 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-mouse-touchpad/issues?q=is%3Aclosed+milestone%3A2.1.4).",
+        "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/2.1.4"
+      },
+      {
+        "version": "0.1.3",
+        "release_date": "2018-06-07T14:02:00+00:00",
+        "title": "Switchboard Mouse & Touchpad Plug 0.1.3 Released",
+        "body": "switchboard-plug-mouse-touchpad 0.1.3 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-mouse-touchpad/issues?q=is%3Aclosed+milestone%3A0.1.3).",
+        "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/0.1.3"
+      }
+    ],
+    "new_commits": 0,
+    "default_branch": "main"
+  },
+  {
     "name": "bluetooth-daemon",
     "releases": [
       {
@@ -5780,104 +5885,6 @@
     ],
     "new_commits": 552,
     "default_branch": "dev"
-  },
-  {
-    "name": "switchboard-plug-mouse-touchpad",
-    "releases": [
-      {
-        "version": "8.0.1",
-        "release_date": "2024-08-27T22:12:53+00:00",
-        "title": "switchboard-plug-mouse-touchpad 8.0.1 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Improved screen reader compatibility</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/8.0.1"
-      },
-      {
-        "version": "8.0.0",
-        "release_date": "2024-07-26T17:10:36+00:00",
-        "title": "switchboard-plug-mouse-touchpad 8.0.0 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Redesigned, easier to read views with more helpful descriptions</li>\n<li>Add \"Cycle windows\" and \"Move active window to workspace\" as gesture options</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/8.0.0"
-      },
-      {
-        "version": "7.0.0",
-        "release_date": "2022-05-12T16:51:49+00:00",
-        "title": "switchboard-plug-mouse-touchpad 7.0.0 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Update for OS 7</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/7.0.0"
-      },
-      {
-        "version": "6.1.0",
-        "release_date": "2021-09-22T20:37:25+00:00",
-        "title": "Mouse & Touchpad Settings 6.1.0 Released",
-        "body": "New features:\r\n* New toggle for “Double-tap and move to drag”\r\n\r\nMinor updates:\r\n* Updated translations",
-        "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/6.1.0"
-      },
-      {
-        "version": "6.0.0",
-        "release_date": "2021-07-15T22:05:21+00:00",
-        "title": "switchboard-plug-mouse-touchpad 6.0.0 Released",
-        "body": "<p>New features:</p>\n<ul>\n<li>Multitouch gesture options</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Add more snap points to pointer speed sliders</li>\n<li>Multitouch gesture options</li>\n<li>Redesigned touchpad settings</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/6.0.0"
-      },
-      {
-        "version": "2.4.2",
-        "release_date": "2020-05-28T18:41:27+00:00",
-        "title": "switchboard-plug-mouse-touchpad 2.4.2 Released",
-        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/2.4.2"
-      },
-      {
-        "version": "2.4.1",
-        "release_date": "2020-04-08T20:16:18+00:00",
-        "title": "switchboard-plug-mouse-touchpad 2.4.1 Released",
-        "body": "<ul>\n<li>Fix stretched switches when using large text</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/2.4.1"
-      },
-      {
-        "version": "2.4.0",
-        "release_date": "2020-01-21T19:59:40+00:00",
-        "title": "switchboard-plug-mouse-touchpad 2.4.0 Released",
-        "body": "switchboard-plug-mouse-touchpad 2.4.0 is out! \n\n<p>New features:</p>\n<ul>\n<li>Add Dwell Click and Pointer size settings</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Also listen to secondary button clicks when selecting Primary Button</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/2.4.0"
-      },
-      {
-        "version": "2.3.1",
-        "release_date": "2019-12-01T21:54:25+00:00",
-        "title": "switchboard-plug-mouse-touchpad 2.3.1 Released",
-        "body": "switchboard-plug-mouse-touchpad 2.3.1 is out! \n\n<ul>\n<li>Fix an issue where primary button selection doesn't apply in left-to-right languages</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/2.3.1"
-      },
-      {
-        "version": "2.3.0",
-        "release_date": "2019-11-15T22:40:24+00:00",
-        "title": "switchboard-plug-mouse-touchpad 2.3.0 Released",
-        "body": "switchboard-plug-mouse-touchpad 2.3.0 is out! \n\nChanges:\n\n* New Sidebar navigation\n* Fix middle click not appearing\n* Add Double-Click speed\n* Updated translations\n",
-        "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/2.3.0"
-      },
-      {
-        "version": "2.2.0",
-        "release_date": "2019-04-11T03:47:58+00:00",
-        "title": "Switchboard Mouse & Touchpad Plug 2.2.0 Released",
-        "body": "switchboard-plug-mouse-touchpad 2.2.0 is out!\r\n\r\nChanges:\r\n* Added settings for\r\n  * Keypad pointer control\r\n  * Ignoring touchpad when external mouse is connected\r\n  * Long-press secondary click\r\n* Use org.gnome.settings-daemon.plugins.xsettings for middle click paste\r\n* Refactored layout and added icons\r\n* Improved search terms\r\n* Updated translations",
-        "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/2.2.0"
-      },
-      {
-        "version": "2.1.4",
-        "release_date": "2018-10-15T21:15:34+00:00",
-        "title": "Switchboard Mouse & Touchpad Plug 2.1.4 Released",
-        "body": "switchboard-plug-mouse-touchpad 2.1.4 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-mouse-touchpad/issues?q=is%3Aclosed+milestone%3A2.1.4).",
-        "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/2.1.4"
-      },
-      {
-        "version": "0.1.3",
-        "release_date": "2018-06-07T14:02:00+00:00",
-        "title": "Switchboard Mouse & Touchpad Plug 0.1.3 Released",
-        "body": "switchboard-plug-mouse-touchpad 0.1.3 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-mouse-touchpad/issues?q=is%3Aclosed+milestone%3A0.1.3).",
-        "href": "https://github.com/elementary/switchboard-plug-mouse-touchpad/releases/tag/0.1.3"
-      }
-    ],
-    "new_commits": 30,
-    "default_branch": "main"
   },
   {
     "name": "applications-menu",
