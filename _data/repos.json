@@ -374,7 +374,7 @@
         "href": "https://github.com/elementary/terminal/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 10,
+    "new_commits": 13,
     "default_branch": "master"
   },
   {
@@ -1354,7 +1354,7 @@
         "href": "https://github.com/elementary/switchboard-plug-applications/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 3,
+    "new_commits": 4,
     "default_branch": "main"
   },
   {
@@ -1921,7 +1921,7 @@
         "href": "https://github.com/elementary/capnet-assist/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 18,
+    "new_commits": 22,
     "default_branch": "master"
   },
   {
@@ -1956,7 +1956,7 @@
         "href": "https://github.com/elementary/iconbrowser/releases/tag/2.0.0"
       }
     ],
-    "new_commits": 12,
+    "new_commits": 15,
     "default_branch": "main"
   },
   {
@@ -8102,7 +8102,7 @@
         "href": "https://github.com/elementary/mail/releases/tag/1.0.6"
       }
     ],
-    "new_commits": 56,
+    "new_commits": 57,
     "default_branch": "master"
   },
   {
@@ -8662,7 +8662,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.0"
       }
     ],
-    "new_commits": 7045,
+    "new_commits": 7049,
     "default_branch": "master"
   },
   {
