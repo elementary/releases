@@ -6,7 +6,7 @@
         "version": "7.0.0",
         "release_date": "2025-02-13T20:52:15+00:00",
         "title": "terminal 7.0.0 Released",
-        "body": "<p>Other updates:</p>\n<ul>\n<li>Translation updates</li>\n</ul>\n",
+        "body": "## What's Changed\r\n* Tests: add unsafe paste test by @danirabbit in https://github.com/elementary/terminal/pull/818\r\n* Fix focussing terminal after select by @jeremypw in https://github.com/elementary/terminal/pull/846\r\n* Disconnect and reconnect signals on dragging a tab out of a window by @jeremypw in https://github.com/elementary/terminal/pull/854\r\n* Metainfo: add 7.0.0 release notes by @danirabbit in https://github.com/elementary/terminal/pull/855\r\n* Release 7.0.0 by @danirabbit in https://github.com/elementary/terminal/pull/856\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/terminal/compare/6.3.1...7.0.0",
         "href": "https://github.com/elementary/terminal/releases/tag/7.0.0"
       },
       {
