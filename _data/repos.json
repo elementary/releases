@@ -8354,7 +8354,7 @@
         "href": "https://github.com/elementary/flatpak-platform/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 46,
+    "new_commits": 47,
     "default_branch": "main"
   },
   {
@@ -8711,7 +8711,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.0"
       }
     ],
-    "new_commits": 7052,
+    "new_commits": 7054,
     "default_branch": "master"
   },
   {
