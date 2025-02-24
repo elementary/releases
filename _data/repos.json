@@ -3377,7 +3377,7 @@
         "href": "https://github.com/elementary/camera/releases/tag/1.0"
       }
     ],
-    "new_commits": 8,
+    "new_commits": 12,
     "default_branch": "main"
   },
   {
@@ -7598,7 +7598,7 @@
         "href": "https://github.com/elementary/videos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 31,
+    "new_commits": 35,
     "default_branch": "main"
   },
   {
@@ -8585,7 +8585,7 @@
         "href": "https://github.com/elementary/flatpak-platform/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 51,
+    "new_commits": 52,
     "default_branch": "main"
   },
   {
