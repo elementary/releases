@@ -1627,11 +1627,11 @@
     "name": "os",
     "releases": [
       {
-        "version": "8.0.1",
+        "version": "8.0.1-rc1",
         "release_date": "2025-02-15T00:55:43+00:00",
-        "title": "OS 8.0.1",
+        "title": "OS 8.0.1 RC1",
         "body": "This is a release candidate image for testing and verification purposes",
-        "href": "https://github.com/elementary/os/releases/tag/8.0.1"
+        "href": "https://github.com/elementary/os/releases/tag/8.0.1-rc1"
       },
       {
         "version": "8.0.0-rc2",
