@@ -664,7 +664,7 @@
         "version": "8.0.1",
         "release_date": "2025-03-10T20:49:28+00:00",
         "title": "switchboard-plug-display 8.0.1 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "body": "<p>Minor updates:</p>\r\n<ul>\r\n<li>Updated translations</li>\r\n</ul>\r\n\r\n## What's Changed\r\n* Use mutter provided supported scales by @leolost2605 in https://github.com/elementary/switchboard-plug-display/pull/399\r\n* DisplayWidget: Fix text-shadow for children  by @leolost2605 in https://github.com/elementary/switchboard-plug-display/pull/407\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/switchboard-plug-display/compare/8.0.0...8.0.1",
         "href": "https://github.com/elementary/switchboard-plug-display/releases/tag/8.0.1"
       },
       {
@@ -790,7 +790,7 @@
         "version": "8.0.1",
         "release_date": "2025-03-10T20:31:25+00:00",
         "title": "wingpanel-indicator-sound 8.0.1 Released",
-        "body": "<p>Minor updates</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "body": "<p>Minor updates</p>\r\n<ul>\r\n<li>Updated translations</li>\r\n</ul>\r\n\r\n## What's Changed\r\n* PlayerRow: fix icon size by @danirabbit in https://github.com/elementary/wingpanel-indicator-sound/pull/276\r\n* Fix deprecated provider for context by @danirabbit in https://github.com/elementary/wingpanel-indicator-sound/pull/278\r\n* DeviceItem: use device object by @danirabbit in https://github.com/elementary/wingpanel-indicator-sound/pull/277\r\n* Fix loading albumArt from Chromium MPRIS by @EndarValuk in https://github.com/elementary/wingpanel-indicator-sound/pull/280\r\n\r\n## New Contributors\r\n* @EndarValuk made their first contribution in https://github.com/elementary/wingpanel-indicator-sound/pull/280\r\n\r\n**Full Changelog**: https://github.com/elementary/wingpanel-indicator-sound/compare/8.0.0...8.0.1",
         "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/8.0.1"
       },
       {
@@ -916,7 +916,7 @@
         "version": "8.0.3",
         "release_date": "2025-03-10T20:08:21+00:00",
         "title": "wingpanel 8.0.3 Released",
-        "body": "<p>Improvements:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "body": "<p>Improvements:</p>\r\n<ul>\r\n<li>Updated translations</li>\r\n</ul>\r\n\r\n## What's Changed\r\n* ISSUE-594 fix panel actual_height with scale factor by @lagoshny in https://github.com/elementary/wingpanel/pull/601\r\n* PanelWindow: Update size on scale change by @leolost2605 in https://github.com/elementary/wingpanel/pull/602\r\n\r\n## New Contributors\r\n* @lagoshny made their first contribution in https://github.com/elementary/wingpanel/pull/601\r\n\r\n**Full Changelog**: https://github.com/elementary/wingpanel/compare/8.0.2...8.0.3",
         "href": "https://github.com/elementary/wingpanel/releases/tag/8.0.3"
       },
       {
@@ -8816,7 +8816,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.0"
       }
     ],
-    "new_commits": 7074,
+    "new_commits": 7078,
     "default_branch": "master"
   },
   {
