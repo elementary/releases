@@ -356,7 +356,7 @@
         "version": "7.1.1",
         "release_date": "2025-03-13T19:12:17+00:00",
         "title": "files 7.1.1 Released",
-        "body": "<p>Minor updates:</p>\r\n<ul>\r\n<li>Updated translations</li>\r\n</ul>\r\n\r\n## What's Changed\r\n* Prefer elementary sound theme over freedesktop by @vjr in https://github.com/elementary/files/pull/2515\r\n* Ensure scroll controller only active when `<Control>` pressed by @jeremypw in https://github.com/elementary/files/pull/2513\r\n* CommonJob: Move scan_dir and this depending functions to Vala by @tintou in https://github.com/elementary/files/pull/2514\r\n* LocationBar: Correctly handle `admin://` protocol; show warning by @jeremypw in https://github.com/elementary/files/pull/2528\r\n* Fix regression in path entry when in search mode by @jeremypw in https://github.com/elementary/files/pull/2522\r\n* Replace defunct email address by @jeremypw in https://github.com/elementary/files/pull/2537\r\n* Jeremypw/gtk4 prep/bookmark list box cleanup by @jeremypw in https://github.com/elementary/files/pull/2540\r\n* Jeremypw/gtk4prep/devicelistbox cleanup by @jeremypw in https://github.com/elementary/files/pull/2541\r\n* filechooser-portal: Fix some strings are not translatable by @ryonakano in https://github.com/elementary/files/pull/2544\r\n* sidebarlistinterface: cleanup and gtk4 prep by @jeremypw in https://github.com/elementary/files/pull/2545\r\n* Quote filename on paste by @jeremypw in https://github.com/elementary/files/pull/2268\r\n* Bookmarkrow cleanup by @jeremypw in https://github.com/elementary/files/pull/2538\r\n* Rewrite template submenu to preserve hierarchy by @jeremypw in https://github.com/elementary/files/pull/2506\r\n* Fix drop on mounted after start by @jeremypw in https://github.com/elementary/files/pull/2526\r\n\r\n**Full Changelog**: https://github.com/elementary/files/compare/7.1.0...7.1.1",
+        "body": "<p>Minor updates:</p>\r\n<ul>\r\n<li>Updated translations</li>\r\n</ul>\r\n\r\n🪲️ <a href=\"https://github.com/elementary/files/issues/2523\">Entering a path into the pathbar no longer possible</a>\r\n🪲️ <a href=\"https://github.com/elementary/files/issues/1844\">Tab opened with gvfs-admin backend does not show \"As Administrator\"</a>\r\n🪲️ <a href=\"https://github.com/elementary/files/issues/2491\">Templates folder: In \"New >\" menu, the hierarchy of templates is flattened</a>\r\n🪲️ <a href=\"https://github.com/elementary/files/issues/2524\">Open As Administrator: Files does not follow stylesheet</a>\r\n🪲️ <a href=\"https://github.com/elementary/files/issues/2512\">Scroll gesture stops working after permanently deleting a file</a>\r\n\r\n## What's Changed\r\n* Prefer elementary sound theme over freedesktop by @vjr in https://github.com/elementary/files/pull/2515\r\n* Ensure scroll controller only active when `<Control>` pressed by @jeremypw in https://github.com/elementary/files/pull/2513\r\n* CommonJob: Move scan_dir and this depending functions to Vala by @tintou in https://github.com/elementary/files/pull/2514\r\n* LocationBar: Correctly handle `admin://` protocol; show warning by @jeremypw in https://github.com/elementary/files/pull/2528\r\n* Fix regression in path entry when in search mode by @jeremypw in https://github.com/elementary/files/pull/2522\r\n* Replace defunct email address by @jeremypw in https://github.com/elementary/files/pull/2537\r\n* Jeremypw/gtk4 prep/bookmark list box cleanup by @jeremypw in https://github.com/elementary/files/pull/2540\r\n* Jeremypw/gtk4prep/devicelistbox cleanup by @jeremypw in https://github.com/elementary/files/pull/2541\r\n* filechooser-portal: Fix some strings are not translatable by @ryonakano in https://github.com/elementary/files/pull/2544\r\n* sidebarlistinterface: cleanup and gtk4 prep by @jeremypw in https://github.com/elementary/files/pull/2545\r\n* Quote filename on paste by @jeremypw in https://github.com/elementary/files/pull/2268\r\n* Bookmarkrow cleanup by @jeremypw in https://github.com/elementary/files/pull/2538\r\n* Rewrite template submenu to preserve hierarchy by @jeremypw in https://github.com/elementary/files/pull/2506\r\n* Fix drop on mounted after start by @jeremypw in https://github.com/elementary/files/pull/2526\r\n\r\n**Full Changelog**: https://github.com/elementary/files/compare/7.1.0...7.1.1",
         "href": "https://github.com/elementary/files/releases/tag/7.1.1"
       },
       {
@@ -1424,7 +1424,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 26,
+    "new_commits": 27,
     "default_branch": "main"
   },
   {
@@ -4357,7 +4357,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 31,
+    "new_commits": 32,
     "default_branch": "main"
   },
   {
