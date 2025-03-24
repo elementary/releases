@@ -1452,7 +1452,7 @@
         "href": "https://github.com/elementary/quick-settings/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 14,
+    "new_commits": 15,
     "default_branch": "main"
   },
   {
@@ -2803,7 +2803,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 94,
+    "new_commits": 98,
     "default_branch": "main"
   },
   {
