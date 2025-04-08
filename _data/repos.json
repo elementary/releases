@@ -4357,7 +4357,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 78,
+    "new_commits": 79,
     "default_branch": "main"
   },
   {
@@ -6653,8 +6653,8 @@
         "href": "https://github.com/elementary/monitor/releases/tag/0.2.0"
       }
     ],
-    "new_commits": 597,
-    "default_branch": "dev"
+    "new_commits": 598,
+    "default_branch": "main"
   },
   {
     "name": "pantheon-wayland",
