@@ -2544,7 +2544,7 @@
         "href": "https://github.com/elementary/greeter/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 3,
+    "new_commits": 5,
     "default_branch": "master"
   },
   {
@@ -2614,7 +2614,7 @@
         "href": "https://github.com/elementary/settings-daemon/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 16,
+    "new_commits": 17,
     "default_branch": "main"
   },
   {
@@ -2929,7 +2929,7 @@
         "href": "https://github.com/elementary/bluetooth-daemon/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 16,
+    "new_commits": 18,
     "default_branch": "main"
   },
   {
@@ -3398,7 +3398,7 @@
         "href": "https://github.com/elementary/dock/releases/tag/8.0.0"
       }
     ],
-    "new_commits": 23,
+    "new_commits": 26,
     "default_branch": "main"
   },
   {
@@ -3720,7 +3720,7 @@
         "href": "https://github.com/elementary/feedback/releases/tag/1.0"
       }
     ],
-    "new_commits": 4,
+    "new_commits": 6,
     "default_branch": "main"
   },
   {
@@ -3825,7 +3825,7 @@
         "href": "https://github.com/elementary/capnet-assist/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 27,
+    "new_commits": 32,
     "default_branch": "master"
   },
   {
@@ -4105,7 +4105,7 @@
         "href": "https://github.com/elementary/camera/releases/tag/1.0"
       }
     ],
-    "new_commits": 16,
+    "new_commits": 19,
     "default_branch": "main"
   },
   {
@@ -4357,7 +4357,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 94,
+    "new_commits": 96,
     "default_branch": "main"
   },
   {
@@ -4532,7 +4532,7 @@
         "href": "https://github.com/elementary/stylesheet/releases/tag/5.0.4"
       }
     ],
-    "new_commits": 4,
+    "new_commits": 5,
     "default_branch": "main"
   },
   {
@@ -4630,7 +4630,7 @@
         "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 17,
+    "new_commits": 19,
     "default_branch": "main"
   },
   {
@@ -4700,7 +4700,7 @@
         "href": "https://github.com/elementary/portals/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 69,
+    "new_commits": 72,
     "default_branch": "main"
   },
   {
@@ -4952,7 +4952,7 @@
         "href": "https://github.com/elementary/sideload/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 3,
+    "new_commits": 6,
     "default_branch": "main"
   },
   {
@@ -5260,7 +5260,7 @@
         "href": "https://github.com/elementary/icons/releases/tag/4.0.1.1"
       }
     ],
-    "new_commits": 16,
+    "new_commits": 17,
     "default_branch": "main"
   },
   {
@@ -5869,7 +5869,7 @@
         "href": "https://github.com/elementary/session-settings/releases/tag/5.0"
       }
     ],
-    "new_commits": 5,
+    "new_commits": 6,
     "default_branch": "main"
   },
   {
@@ -6653,7 +6653,7 @@
         "href": "https://github.com/elementary/monitor/releases/tag/0.2.0"
       }
     ],
-    "new_commits": 602,
+    "new_commits": 604,
     "default_branch": "main"
   },
   {
@@ -7388,7 +7388,7 @@
         "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.0"
       }
     ],
-    "new_commits": 20,
+    "new_commits": 22,
     "default_branch": "main"
   },
   {
@@ -7745,7 +7745,7 @@
         "href": "https://github.com/elementary/tasks/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 28,
+    "new_commits": 30,
     "default_branch": "main"
   },
   {
@@ -8228,7 +8228,7 @@
         "href": "https://github.com/elementary/notifications/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 23,
+    "new_commits": 24,
     "default_branch": "master"
   },
   {
@@ -8305,7 +8305,7 @@
         "href": "https://github.com/elementary/wallpapers/releases/tag/5.0"
       }
     ],
-    "new_commits": 29,
+    "new_commits": 30,
     "default_branch": "main"
   },
   {
@@ -8648,7 +8648,7 @@
         "href": "https://github.com/elementary/flatpak-platform/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 55,
+    "new_commits": 56,
     "default_branch": "main"
   },
   {
