@@ -2544,7 +2544,7 @@
         "href": "https://github.com/elementary/greeter/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 7,
+    "new_commits": 9,
     "default_branch": "master"
   },
   {
@@ -2803,7 +2803,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 123,
+    "new_commits": 124,
     "default_branch": "main"
   },
   {
@@ -2929,7 +2929,7 @@
         "href": "https://github.com/elementary/bluetooth-daemon/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 20,
+    "new_commits": 22,
     "default_branch": "main"
   },
   {
@@ -3398,7 +3398,7 @@
         "href": "https://github.com/elementary/dock/releases/tag/8.0.0"
       }
     ],
-    "new_commits": 28,
+    "new_commits": 30,
     "default_branch": "main"
   },
   {
@@ -3720,7 +3720,7 @@
         "href": "https://github.com/elementary/feedback/releases/tag/1.0"
       }
     ],
-    "new_commits": 8,
+    "new_commits": 10,
     "default_branch": "main"
   },
   {
@@ -3825,7 +3825,7 @@
         "href": "https://github.com/elementary/capnet-assist/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 34,
+    "new_commits": 36,
     "default_branch": "master"
   },
   {
@@ -4630,7 +4630,7 @@
         "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 21,
+    "new_commits": 22,
     "default_branch": "main"
   },
   {
@@ -4700,7 +4700,7 @@
         "href": "https://github.com/elementary/portals/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 74,
+    "new_commits": 76,
     "default_branch": "main"
   },
   {
@@ -4952,7 +4952,7 @@
         "href": "https://github.com/elementary/sideload/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 7,
+    "new_commits": 9,
     "default_branch": "main"
   },
   {
@@ -7388,7 +7388,7 @@
         "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.0"
       }
     ],
-    "new_commits": 24,
+    "new_commits": 26,
     "default_branch": "main"
   },
   {
@@ -8228,7 +8228,7 @@
         "href": "https://github.com/elementary/notifications/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 25,
+    "new_commits": 26,
     "default_branch": "master"
   },
   {
@@ -8305,7 +8305,7 @@
         "href": "https://github.com/elementary/wallpapers/releases/tag/5.0"
       }
     ],
-    "new_commits": 31,
+    "new_commits": 32,
     "default_branch": "main"
   },
   {
@@ -8648,7 +8648,7 @@
         "href": "https://github.com/elementary/flatpak-platform/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 56,
+    "new_commits": 57,
     "default_branch": "main"
   },
   {
