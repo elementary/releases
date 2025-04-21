@@ -8951,19 +8951,5 @@
     ],
     "new_commits": 0,
     "default_branch": "master"
-  },
-  {
-    "name": "app-template",
-    "releases": [
-      {
-        "version": "v2.3.4",
-        "release_date": "2015-07-04T02:24:55+00:00",
-        "title": "Testing stuff",
-        "body": "Testing this in Houston\n",
-        "href": "https://github.com/elementary/app-template/releases/tag/v2.3.4"
-      }
-    ],
-    "new_commits": 10,
-    "default_branch": "master"
   }
 ]
