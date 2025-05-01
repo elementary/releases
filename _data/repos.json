@@ -6912,7 +6912,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 49,
+    "new_commits": 50,
     "default_branch": "master"
   },
   {
@@ -7906,7 +7906,7 @@
         "href": "https://github.com/elementary/initial-setup/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 35,
+    "new_commits": 41,
     "default_branch": "main"
   },
   {
@@ -8664,34 +8664,6 @@
     ],
     "new_commits": 57,
     "default_branch": "main"
-  },
-  {
-    "name": "wingpanel-indicator-a11y",
-    "releases": [
-      {
-        "version": "1.0.2",
-        "release_date": "2023-07-25T16:33:03+00:00",
-        "title": "Accessibility Indicator 1.0.2 Released!",
-        "body": "## What's Changed\r\n* Appdata: Add icon by @lenemter in https://github.com/elementary/wingpanel-indicator-a11y/pull/52\r\n* Set correct text size on startup by @lenemter in https://github.com/elementary/wingpanel-indicator-a11y/pull/53\r\n* actions/checkout@v3 by @meisenzahl in https://github.com/elementary/wingpanel-indicator-a11y/pull/54\r\n* Switch to GHCR containers by @davidmhewitt in https://github.com/elementary/wingpanel-indicator-a11y/pull/55\r\n* GreeterWidget: Sync with greeter session by @lenemter in https://github.com/elementary/wingpanel-indicator-a11y/pull/56\r\n* Metainfo improvements by @danirabbit in https://github.com/elementary/wingpanel-indicator-a11y/pull/57\r\n\r\n## New Contributors\r\n* @lenemter made their first contribution in https://github.com/elementary/wingpanel-indicator-a11y/pull/52\r\n* @meisenzahl made their first contribution in https://github.com/elementary/wingpanel-indicator-a11y/pull/54\r\n\r\n**Full Changelog**: https://github.com/elementary/wingpanel-indicator-a11y/compare/1.0.1...1.0.2",
-        "href": "https://github.com/elementary/wingpanel-indicator-a11y/releases/tag/1.0.2"
-      },
-      {
-        "version": "1.0.1",
-        "release_date": "2022-10-19T02:47:06+00:00",
-        "title": "wingpanel-indicator-a11y 1.0.1 Released",
-        "body": "<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/wingpanel-indicator-a11y/releases/tag/1.0.1"
-      },
-      {
-        "version": "1.0.0",
-        "release_date": "2021-07-16T18:06:46+00:00",
-        "title": "wingpanel-indicator-a11y 1.0.0 Released",
-        "body": "<p>Initial Release</p>\n",
-        "href": "https://github.com/elementary/wingpanel-indicator-a11y/releases/tag/1.0.0"
-      }
-    ],
-    "new_commits": 35,
-    "default_branch": "master"
   },
   {
     "name": "plymouth-theme",
