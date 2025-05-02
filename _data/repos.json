@@ -3629,7 +3629,7 @@
         "href": "https://github.com/elementary/installer/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 10,
+    "new_commits": 11,
     "default_branch": "main"
   },
   {
@@ -4112,7 +4112,7 @@
         "href": "https://github.com/elementary/screenshot/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 23,
+    "new_commits": 25,
     "default_branch": "main"
   },
   {
@@ -7455,129 +7455,129 @@
     "default_branch": "main"
   },
   {
-    "name": "switchboard-plug-keyboard",
+    "name": "settings-keyboard",
     "releases": [
       {
         "version": "8.0.1",
         "release_date": "2024-08-20T13:57:37+00:00",
-        "title": "switchboard-plug-keyboard 8.0.1 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/8.0.1"
+        "title": "Keyboard Settings 8.0.1 Released",
+        "body": "<p>Minor updates:</p>\r\n<ul>\r\n<li>Updated translations</li>\r\n</ul>\r\n\r\n## What's Changed\r\n* Use new keybindings schema by @lenemter in https://github.com/elementary/settings-keyboard/pull/518\r\n* Use new behavior schema by @lenemter in https://github.com/elementary/settings-keyboard/pull/519\r\n\r\n**Full Changelog**: https://github.com/elementary/settings-keyboard/compare/8.0.0...8.0.1",
+        "href": "https://github.com/elementary/settings-keyboard/releases/tag/8.0.1"
       },
       {
         "version": "8.0.0",
         "release_date": "2024-07-26T17:15:44+00:00",
         "title": "switchboard-plug-keyboard 8.0.0 Released",
         "body": "<p>Minor updates:</p>\n<ul>\n<li>Updated shortcut category icons</li>\n<li>Improved screen reader accessibility</li>\n<li>New shortcut settings for launching dock items</li>\n<li>Clearer actions for managing keyboard layouts</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/8.0.0"
+        "href": "https://github.com/elementary/settings-keyboard/releases/tag/8.0.0"
       },
       {
         "version": "3.2.1",
         "release_date": "2023-08-22T01:07:53+00:00",
         "title": "Keyboard Settings 3.2.1 Released!",
         "body": "## What's Changed\r\n* Layout: remove panel indicator settings by @danirabbit in https://github.com/elementary/switchboard-plug-keyboard/pull/454\r\n* Behavior: move onboard to the behavior tab by @danirabbit in https://github.com/elementary/switchboard-plug-keyboard/pull/455\r\n* Shortcuts: Allow assigning PrintScreen key by @ryonakano in https://github.com/elementary/switchboard-plug-keyboard/pull/457\r\n* InputMethod: Fix ProgressDialog is not used by @ryonakano in https://github.com/elementary/switchboard-plug-keyboard/pull/459\r\n* InstallEngineDialog: Replace stack with Deck by @ryonakano in https://github.com/elementary/switchboard-plug-keyboard/pull/458\r\n* Check if `Granite.accel_to_string` returns `null` by @lenemter in https://github.com/elementary/switchboard-plug-keyboard/pull/463\r\n* Layout: remove leftovers from onscreen keyboard by @lenemter in https://github.com/elementary/switchboard-plug-keyboard/pull/461\r\n* Add .editorconfig by @ryonakano in https://github.com/elementary/switchboard-plug-keyboard/pull/466\r\n* Drop `Pantheon` namespace by @lenemter in https://github.com/elementary/switchboard-plug-keyboard/pull/462\r\n* Add `switch-group` shortcut by @lenemter in https://github.com/elementary/switchboard-plug-keyboard/pull/464\r\n* Work around bug with duplicating input methods by @lenemter in https://github.com/elementary/switchboard-plug-keyboard/pull/468\r\n* 3.2.1 release notes by @lenemter in https://github.com/elementary/switchboard-plug-keyboard/pull/469\r\n* Release 3.2.1 by @lenemter in https://github.com/elementary/switchboard-plug-keyboard/pull/470\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/switchboard-plug-keyboard/compare/3.2.0...3.2.1",
-        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/3.2.1"
+        "href": "https://github.com/elementary/settings-keyboard/releases/tag/3.2.1"
       },
       {
         "version": "3.2.0",
         "release_date": "2023-07-24T17:02:21+00:00",
         "title": "Keyboard Settings 3.2.0 Released!",
         "body": "## What's Changed\r\n* Switch to GHCR containers by @davidmhewitt in https://github.com/elementary/switchboard-plug-keyboard/pull/437\r\n* Add link to custom shortcuts by @lenemter in https://github.com/elementary/switchboard-plug-keyboard/pull/443\r\n* Behavior: modernize code style by @danirabbit in https://github.com/elementary/switchboard-plug-keyboard/pull/445\r\n* Behavior: Remove spinbuttons by @danirabbit in https://github.com/elementary/switchboard-plug-keyboard/pull/447\r\n* Behavior: add a11y settings by @danirabbit in https://github.com/elementary/switchboard-plug-keyboard/pull/446\r\n* Behavior: Remove trailing space in string by @lenemter in https://github.com/elementary/switchboard-plug-keyboard/pull/449\r\n* Metainfo Improvements by @danirabbit in https://github.com/elementary/switchboard-plug-keyboard/pull/450\r\n* Update screenshots by @danirabbit in https://github.com/elementary/switchboard-plug-keyboard/pull/453\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/switchboard-plug-keyboard/compare/3.1.1...3.2.0",
-        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/3.2.0"
+        "href": "https://github.com/elementary/settings-keyboard/releases/tag/3.2.0"
       },
       {
         "version": "3.1.1",
         "release_date": "2023-01-05T17:20:57+00:00",
         "title": "Keyboard Settings 3.1.1 Released!",
         "body": "## What's Changed\r\n* Gresource windows category icon by @danirabbit in https://github.com/elementary/switchboard-plug-keyboard/pull/428\r\n* ShortcutListBox: only add ShortcutRow when schema key is valid by @bobby285271 in https://github.com/elementary/switchboard-plug-keyboard/pull/427\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/switchboard-plug-keyboard/compare/3.1.0...3.1.1",
-        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/3.1.1"
+        "href": "https://github.com/elementary/settings-keyboard/releases/tag/3.1.1"
       },
       {
         "version": "3.1.0",
         "release_date": "2022-10-21T22:09:45+00:00",
         "title": "switchboard-plug-keyboard 3.1.0 Released",
         "body": "<p>New features:</p>\n<ul>\n<li>Revert shortcuts to default</li>\n<li>Easily disable a shortcut</li>\n<li>Support Rime input method for Chinese</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Remove custom shortcuts from their menu</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/3.1.0"
+        "href": "https://github.com/elementary/settings-keyboard/releases/tag/3.1.0"
       },
       {
         "version": "3.0.0",
         "release_date": "2022-05-10T16:57:19+00:00",
         "title": "switchboard-plug-keyboard 3.0.0 Released",
         "body": "<p>Minor updates:</p>\n<ul>\n<li>Update for OS 7</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/3.0.0"
+        "href": "https://github.com/elementary/settings-keyboard/releases/tag/3.0.0"
       },
       {
         "version": "2.7.0",
         "release_date": "2022-04-07T06:57:29+00:00",
         "title": "switchboard-plug-keyboard 2.7.0 Released",
         "body": "<p>New features:</p>\n<ul>\n<li>Open Multitasking View with Super</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.7.0"
+        "href": "https://github.com/elementary/settings-keyboard/releases/tag/2.7.0"
       },
       {
         "version": "2.6.0",
         "release_date": "2021-11-23T17:15:11+00:00",
         "title": "switchboard-plug-keyboard 2.6.0 Released",
         "body": "<p>New features:</p>\r\n<ul>\r\n<li>Redesigned custom shortcuts view</li>\r\n<li>On-screen keyboard switch in Layouts tab</li>\r\n</ul>\r\n<p>Minor updates:</p>\r\n<ul>\r\n<li>Updated translations</li>\r\n</ul>\r\n",
-        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.6.0"
+        "href": "https://github.com/elementary/settings-keyboard/releases/tag/2.6.0"
       },
       {
         "version": "2.5.1",
         "release_date": "2021-09-22T20:38:10+00:00",
         "title": "Keyboard Settings 2.5.1 Released",
         "body": "Minor updates:\r\n* Ensure IBus automatically starts on login when needed\r\n* Updated translations",
-        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.5.1"
+        "href": "https://github.com/elementary/settings-keyboard/releases/tag/2.5.1"
       },
       {
         "version": "2.5.0",
         "release_date": "2021-07-14T21:00:05+00:00",
         "title": "switchboard-plug-keyboard 2.5.0 Released",
         "body": "<p>Minor updates:</p>\n<ul>\n<li>Add Layout popover is now a dialog</li>\n<li>Guarantee we always have at least one layout</li>\n<li>Improvements to ibus and xkb layouts</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.5.0"
+        "href": "https://github.com/elementary/settings-keyboard/releases/tag/2.5.0"
       },
       {
         "version": "2.4.1",
         "release_date": "2020-09-03T21:54:43+00:00",
         "title": "switchboard-plug-keyboard 2.4.1 Released",
         "body": "<p>Shortcut description for \"Play\" is now \"Play/Pause\"</p>\n<p>Fix an issue where some shortcuts would incorrectly show as disabled</p>\n<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.4.1"
+        "href": "https://github.com/elementary/settings-keyboard/releases/tag/2.4.1"
       },
       {
         "version": "2.4.0",
         "release_date": "2020-08-07T18:14:32+00:00",
         "title": "switchboard-plug-keyboard 2.4.0 Released",
         "body": "<p>Add a view to configure input methods</p>\n<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.4.0"
+        "href": "https://github.com/elementary/settings-keyboard/releases/tag/2.4.0"
       },
       {
         "version": "2.3.6",
         "release_date": "2020-04-01T23:34:57+00:00",
         "title": "switchboard-plug-keyboard 2.3.6 Released",
         "body": "switchboard-plug-keyboard 2.3.6 is out! \n\n<p>New \"Workspaces\" icon</p>\n<p>Exclude Space from single-key shortcuts</p>\n<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.3.6"
+        "href": "https://github.com/elementary/settings-keyboard/releases/tag/2.3.6"
       },
       {
         "version": "2.3.5",
         "release_date": "2019-03-06T09:03:16+00:00",
         "title": "Switchboard Keyboard Plug 2.3.5 Released",
         "body": "switchboard-plug-keyboard 2.3.5 is out!\r\n\r\nChanges:\r\n* Search keyword improvements\r\n* Added window `Close` keybinding option\r\n* Keyboard navigation fix\r\n* Build system fix for `gnomekbdui` dependency\r\n* More accurate and consistent labels\r\n* Change appdata id to `io.elementary.switchboard.keyboard`\r\n* Updated translations",
-        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.3.5"
+        "href": "https://github.com/elementary/settings-keyboard/releases/tag/2.3.5"
       },
       {
         "version": "2.3.4",
         "release_date": "2018-10-16T00:27:00+00:00",
         "title": "Switchboard Keyboard Plug 2.3.4 Released",
         "body": "switchboard-plug-keyboard 2.3.4 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-keyboard/issues?q=is%3Aclosed+milestone%3A2.3.4).",
-        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/2.3.4"
+        "href": "https://github.com/elementary/settings-keyboard/releases/tag/2.3.4"
       },
       {
         "version": "0.3.3",
         "release_date": "2018-06-08T16:39:32+00:00",
         "title": "Switchboard Keyboard Plug 0.3.3 Released",
         "body": "switchboard-plug-keyboard 0.3.3 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-keyboard/issues?q=is%3Aclosed+milestone%3A0.3.3).",
-        "href": "https://github.com/elementary/switchboard-plug-keyboard/releases/tag/0.3.3"
+        "href": "https://github.com/elementary/settings-keyboard/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 26,
+    "new_commits": 27,
     "default_branch": "main"
   },
   {
