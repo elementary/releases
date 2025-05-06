@@ -6058,7 +6058,7 @@
         "href": "https://github.com/elementary/switchboard-plug-onlineaccounts/releases/tag/2.0"
       }
     ],
-    "new_commits": 15,
+    "new_commits": 20,
     "default_branch": "main"
   },
   {
@@ -6205,7 +6205,7 @@
         "href": "https://github.com/elementary/settings-desktop/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
       }
     ],
-    "new_commits": 51,
+    "new_commits": 52,
     "default_branch": "main"
   },
   {
