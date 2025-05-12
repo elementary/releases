@@ -1,5 +1,40 @@
 [
   {
+    "name": "dock",
+    "releases": [
+      {
+        "version": "8.1.0",
+        "release_date": "2025-05-12T17:04:23+00:00",
+        "title": "dock 8.1.0 Released",
+        "body": "<p>Updated translations</p>\n<p>Open context menus with long-press</p>\n<p>Cycle through windows when hovering over an app with drag-and-drop</p>\n<p>Improve memory usage</p>\n<p>Fix dock bounds when hide mode is 'Never'</p>\n",
+        "href": "https://github.com/elementary/dock/releases/tag/8.1.0"
+      },
+      {
+        "version": "8.0.2",
+        "release_date": "2024-12-12T20:05:44+00:00",
+        "title": "dock 8.0.2 Released",
+        "body": "## What's Changed\r\n* App: Respect startup notify key for launching animation by @leolost2605 in https://github.com/elementary/dock/pull/299\r\n* meson: Specify minimum GLib version by @tintou in https://github.com/elementary/dock/pull/306\r\n* Add spacing between icon and running indicator by @lenemter in https://github.com/elementary/dock/pull/329\r\n* Fix icons clipping when bouncing and separate background from window by @lenemter in https://github.com/elementary/dock/pull/328\r\n* MainWindow: respect reduce transparency key by @danirabbit in https://github.com/elementary/dock/pull/333\r\n\r\n## New Contributors\r\n* @lenemter made their first contribution in https://github.com/elementary/dock/pull/329\r\n\r\n**Full Changelog**: https://github.com/elementary/dock/compare/8.0.1...8.0.2",
+        "href": "https://github.com/elementary/dock/releases/tag/8.0.2"
+      },
+      {
+        "version": "8.0.1",
+        "release_date": "2024-10-23T15:49:16+00:00",
+        "title": "dock 8.0.1 Released",
+        "body": "<p>Updated translations</p>\n<p>Fixes a crash when dragging a file that's not a launcher to the dock</p>\n<p>Hide badges, progressbars, and running indicators while dragging a launcher</p>\n",
+        "href": "https://github.com/elementary/dock/releases/tag/8.0.1"
+      },
+      {
+        "version": "8.0.0",
+        "release_date": "2024-08-20T15:02:39+00:00",
+        "title": "dock 8.0.0 Released",
+        "body": "<p>Complete rewrite 🎉️</p>\n",
+        "href": "https://github.com/elementary/dock/releases/tag/8.0.0"
+      }
+    ],
+    "new_commits": 0,
+    "default_branch": "main"
+  },
+  {
     "name": "switchboard-plug-locale",
     "releases": [
       {
@@ -3518,34 +3553,6 @@
       }
     ],
     "new_commits": 12,
-    "default_branch": "main"
-  },
-  {
-    "name": "dock",
-    "releases": [
-      {
-        "version": "8.0.2",
-        "release_date": "2024-12-12T20:05:44+00:00",
-        "title": "dock 8.0.2 Released",
-        "body": "## What's Changed\r\n* App: Respect startup notify key for launching animation by @leolost2605 in https://github.com/elementary/dock/pull/299\r\n* meson: Specify minimum GLib version by @tintou in https://github.com/elementary/dock/pull/306\r\n* Add spacing between icon and running indicator by @lenemter in https://github.com/elementary/dock/pull/329\r\n* Fix icons clipping when bouncing and separate background from window by @lenemter in https://github.com/elementary/dock/pull/328\r\n* MainWindow: respect reduce transparency key by @danirabbit in https://github.com/elementary/dock/pull/333\r\n\r\n## New Contributors\r\n* @lenemter made their first contribution in https://github.com/elementary/dock/pull/329\r\n\r\n**Full Changelog**: https://github.com/elementary/dock/compare/8.0.1...8.0.2",
-        "href": "https://github.com/elementary/dock/releases/tag/8.0.2"
-      },
-      {
-        "version": "8.0.1",
-        "release_date": "2024-10-23T15:49:16+00:00",
-        "title": "dock 8.0.1 Released",
-        "body": "<p>Updated translations</p>\n<p>Fixes a crash when dragging a file that's not a launcher to the dock</p>\n<p>Hide badges, progressbars, and running indicators while dragging a launcher</p>\n",
-        "href": "https://github.com/elementary/dock/releases/tag/8.0.1"
-      },
-      {
-        "version": "8.0.0",
-        "release_date": "2024-08-20T15:02:39+00:00",
-        "title": "dock 8.0.0 Released",
-        "body": "<p>Complete rewrite 🎉️</p>\n",
-        "href": "https://github.com/elementary/dock/releases/tag/8.0.0"
-      }
-    ],
-    "new_commits": 49,
     "default_branch": "main"
   },
   {
@@ -7591,7 +7598,7 @@
         "href": "https://github.com/elementary/settings-keyboard/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 29,
+    "new_commits": 30,
     "default_branch": "main"
   },
   {
