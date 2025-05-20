@@ -605,7 +605,7 @@
         "href": "https://github.com/elementary/settings-keyboard/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 16,
+    "new_commits": 62,
     "default_branch": "main"
   },
   {
@@ -7724,7 +7724,7 @@
         "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.0"
       }
     ],
-    "new_commits": 33,
+    "new_commits": 34,
     "default_branch": "main"
   },
   {
