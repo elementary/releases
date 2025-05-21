@@ -668,7 +668,7 @@
         "href": "https://github.com/elementary/settings-keyboard/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 68,
+    "new_commits": 108,
     "default_branch": "main"
   },
   {
@@ -1235,7 +1235,7 @@
         "href": "https://github.com/elementary/switchboard-plug-about/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 1,
+    "new_commits": 2,
     "default_branch": "main"
   },
   {
@@ -5911,7 +5911,7 @@
         "href": "https://github.com/elementary/switchboard-plug-printers/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 12,
+    "new_commits": 13,
     "default_branch": "main"
   },
   {
@@ -6275,7 +6275,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 213,
+    "new_commits": 216,
     "default_branch": "master"
   },
   {
