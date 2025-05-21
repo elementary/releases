@@ -1,5 +1,68 @@
 [
   {
+    "name": "notifications",
+    "releases": [
+      {
+        "version": "8.1.0",
+        "release_date": "2025-05-21T16:36:28+00:00",
+        "title": "notifications 8.1.0 Released",
+        "body": "<p>Minor Updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/notifications/releases/tag/8.1.0"
+      },
+      {
+        "version": "8.0.0",
+        "release_date": "2024-07-24T18:18:12+00:00",
+        "title": "notifications 8.0.0 Released",
+        "body": "<p>Minor Updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/notifications/releases/tag/8.0.0"
+      },
+      {
+        "version": "7.0.1",
+        "release_date": "2023-08-21T18:38:30+00:00",
+        "title": "notifications 7.0.1 Released",
+        "body": "<p>Block GSD \"Automatic Suspend\" notifications</p>\n<p>Minor Updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/notifications/releases/tag/7.0.1"
+      },
+      {
+        "version": "7.0.0",
+        "release_date": "2023-07-03T23:03:49+00:00",
+        "title": "notifications 7.0.0 Released",
+        "body": "<p>Block GSD \"Automatic Suspend\" notifications</p>\n<p>Increase sound and brightness notifications width to match other notifications</p>\n<p>Minor Updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/notifications/releases/tag/7.0.0"
+      },
+      {
+        "version": "6.0.3",
+        "release_date": "2022-10-26T16:56:20+00:00",
+        "title": "notifications 6.0.3 Released",
+        "body": "<p>Minor Updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/notifications/releases/tag/6.0.3"
+      },
+      {
+        "version": "6.0.2",
+        "release_date": "2022-06-09T20:42:33+00:00",
+        "title": "notifications 6.0.2 Released",
+        "body": "<p>Minor Updates:</p>\n<ul>\n<li>Fix missing icon when set from icon name</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/notifications/releases/tag/6.0.2"
+      },
+      {
+        "version": "6.0.1",
+        "release_date": "2022-04-07T06:42:06+00:00",
+        "title": "notifications 6.0.1 Released",
+        "body": "<p>Minor Updates:</p>\n<ul>\n<li>Performance improvements</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/notifications/releases/tag/6.0.1"
+      },
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-19T16:46:35+00:00",
+        "title": "notifications 6.0.0 Released",
+        "body": "<p>Complete rewrite:</p>\n<ul>\n<li>Support the dark style</li>\n<li>Action buttons</li>\n<li>Optional badge icons</li>\n<li>Automatically badge images with app icons</li>\n<li>Swipe away to dismiss</li>\n</ul>\n",
+        "href": "https://github.com/elementary/notifications/releases/tag/6.0.0"
+      }
+    ],
+    "new_commits": 0,
+    "default_branch": "master"
+  },
+  {
     "name": "dock",
     "releases": [
       {
@@ -8383,62 +8446,6 @@
       }
     ],
     "new_commits": 69,
-    "default_branch": "master"
-  },
-  {
-    "name": "notifications",
-    "releases": [
-      {
-        "version": "8.0.0",
-        "release_date": "2024-07-24T18:18:12+00:00",
-        "title": "notifications 8.0.0 Released",
-        "body": "<p>Minor Updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/notifications/releases/tag/8.0.0"
-      },
-      {
-        "version": "7.0.1",
-        "release_date": "2023-08-21T18:38:30+00:00",
-        "title": "notifications 7.0.1 Released",
-        "body": "<p>Block GSD \"Automatic Suspend\" notifications</p>\n<p>Minor Updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/notifications/releases/tag/7.0.1"
-      },
-      {
-        "version": "7.0.0",
-        "release_date": "2023-07-03T23:03:49+00:00",
-        "title": "notifications 7.0.0 Released",
-        "body": "<p>Block GSD \"Automatic Suspend\" notifications</p>\n<p>Increase sound and brightness notifications width to match other notifications</p>\n<p>Minor Updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/notifications/releases/tag/7.0.0"
-      },
-      {
-        "version": "6.0.3",
-        "release_date": "2022-10-26T16:56:20+00:00",
-        "title": "notifications 6.0.3 Released",
-        "body": "<p>Minor Updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/notifications/releases/tag/6.0.3"
-      },
-      {
-        "version": "6.0.2",
-        "release_date": "2022-06-09T20:42:33+00:00",
-        "title": "notifications 6.0.2 Released",
-        "body": "<p>Minor Updates:</p>\n<ul>\n<li>Fix missing icon when set from icon name</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/notifications/releases/tag/6.0.2"
-      },
-      {
-        "version": "6.0.1",
-        "release_date": "2022-04-07T06:42:06+00:00",
-        "title": "notifications 6.0.1 Released",
-        "body": "<p>Minor Updates:</p>\n<ul>\n<li>Performance improvements</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/notifications/releases/tag/6.0.1"
-      },
-      {
-        "version": "6.0.0",
-        "release_date": "2021-07-19T16:46:35+00:00",
-        "title": "notifications 6.0.0 Released",
-        "body": "<p>Complete rewrite:</p>\n<ul>\n<li>Support the dark style</li>\n<li>Action buttons</li>\n<li>Optional badge icons</li>\n<li>Automatically badge images with app icons</li>\n<li>Swipe away to dismiss</li>\n</ul>\n",
-        "href": "https://github.com/elementary/notifications/releases/tag/6.0.0"
-      }
-    ],
-    "new_commits": 28,
     "default_branch": "master"
   },
   {
