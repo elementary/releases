@@ -1032,7 +1032,7 @@
         "href": "https://github.com/elementary/switchboard-plug-locale/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 3,
+    "new_commits": 4,
     "default_branch": "main"
   },
   {
@@ -6212,7 +6212,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 206,
+    "new_commits": 207,
     "default_branch": "master"
   },
   {
@@ -6464,7 +6464,7 @@
         "href": "https://github.com/elementary/settings-onlineaccounts/releases/tag/2.0"
       }
     ],
-    "new_commits": 34,
+    "new_commits": 35,
     "default_branch": "main"
   },
   {
@@ -7234,7 +7234,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 65,
+    "new_commits": 66,
     "default_branch": "master"
   },
   {
