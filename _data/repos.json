@@ -6,7 +6,7 @@
         "version": "8.1.0",
         "release_date": "2025-05-30T18:27:50+00:00",
         "title": "shortcut-overlay 8.1.0 Released",
-        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "body": "<ul>\r\n<li>Updated translations</li>\r\n</ul>\r\n\r\n## What's Changed\r\n* ShortcutsView update multitasking view shortcut by @danirabbit in https://github.com/elementary/shortcut-overlay/pull/152\r\n* ShortcutsView: use listboxes by @danirabbit in https://github.com/elementary/shortcut-overlay/pull/157\r\n* MainWindow: center and keep above with Pantheon protocol by @danirabbit in https://github.com/elementary/shortcut-overlay/pull/158\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/shortcut-overlay/compare/8.0.1...8.1.0",
         "href": "https://github.com/elementary/shortcut-overlay/releases/tag/8.1.0"
       },
       {
@@ -3405,7 +3405,7 @@
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
       }
     ],
-    "new_commits": 15,
+    "new_commits": 19,
     "default_branch": "master"
   },
   {
@@ -8935,7 +8935,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.0"
       }
     ],
-    "new_commits": 7208,
+    "new_commits": 7213,
     "default_branch": "master"
   },
   {
