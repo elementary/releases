@@ -3405,7 +3405,7 @@
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
       }
     ],
-    "new_commits": 21,
+    "new_commits": 25,
     "default_branch": "master"
   },
   {
@@ -4084,7 +4084,7 @@
         "href": "https://github.com/elementary/bluetooth-daemon/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 26,
+    "new_commits": 30,
     "default_branch": "main"
   },
   {
@@ -8298,7 +8298,7 @@
         "href": "https://github.com/elementary/music/releases/tag/0.4.0.3"
       }
     ],
-    "new_commits": 104,
+    "new_commits": 105,
     "default_branch": "main"
   },
   {
@@ -8935,7 +8935,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.0"
       }
     ],
-    "new_commits": 7228,
+    "new_commits": 7229,
     "default_branch": "master"
   },
   {
