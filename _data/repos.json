@@ -1655,7 +1655,7 @@
         "href": "https://github.com/elementary/portals/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 2,
+    "new_commits": 3,
     "default_branch": "main"
   },
   {
@@ -3601,7 +3601,7 @@
         "href": "https://github.com/elementary/terminal/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 27,
+    "new_commits": 28,
     "default_branch": "master"
   },
   {
@@ -8655,7 +8655,7 @@
         "href": "https://github.com/elementary/mail/releases/tag/1.0.6"
       }
     ],
-    "new_commits": 65,
+    "new_commits": 66,
     "default_branch": "master"
   },
   {
