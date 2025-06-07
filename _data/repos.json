@@ -1,5 +1,82 @@
 [
   {
+    "name": "flatpak-platform",
+    "releases": [
+      {
+        "version": "8.2.1",
+        "release_date": "2025-06-06T18:24:31+00:00",
+        "title": "Platform 8.2.1 Released!",
+        "body": "## What's Changed\r\n* xcursorgen: Update xcursorgen-1.0.8.tar.gz to 1.0.9 by @elementaryBot in https://github.com/elementary/flatpak-platform/pull/200\r\n* Actions: Replace broken easimon/maximize-build-space by @ryonakano in https://github.com/elementary/flatpak-platform/pull/199\r\n* Metainfo: add release notes for 8.2.1 by @ryonakano in https://github.com/elementary/flatpak-platform/pull/204\r\n* Release 8.2.1 by @ryonakano in https://github.com/elementary/flatpak-platform/pull/205\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/flatpak-platform/compare/8.2.0...8.2.1",
+        "href": "https://github.com/elementary/flatpak-platform/releases/tag/8.2.1"
+      },
+      {
+        "version": "8.2.0",
+        "release_date": "2025-05-14T20:40:49+00:00",
+        "title": "Platform 8.2.0 Released!",
+        "body": "## What's Changed\r\n* Bump GNOME platform to 48 by @danirabbit in https://github.com/elementary/flatpak-platform/pull/191\r\n* stylesheet: Update stylesheet.git to 8.2.1 by @elementaryBot in https://github.com/elementary/flatpak-platform/pull/194\r\n\r\n**Full Changelog**: https://github.com/elementary/flatpak-platform/compare/8.0.0...8.2.0",
+        "href": "https://github.com/elementary/flatpak-platform/releases/tag/8.2.0"
+      },
+      {
+        "version": "8.0.0",
+        "release_date": "2024-05-07T17:06:36+00:00",
+        "title": "Platform 8.0.0 Released! 🎉️",
+        "body": "## What's Changed\r\n* Remove installation of settings.ini by @ryonakano in https://github.com/elementary/flatpak-platform/pull/150\r\n* Add LibPortal by @danirabbit in https://github.com/elementary/flatpak-platform/pull/149\r\n* appdata: Use newer, non-deprecated developer tag by @davidmhewitt in https://github.com/elementary/flatpak-platform/pull/153\r\n* Update xcursorgen-1.0.7.tar.gz to 1.0.8 by @elementaryBot in https://github.com/elementary/flatpak-platform/pull/154\r\n* Sdk: bump Stylesheet to 8 by @danirabbit in https://github.com/elementary/flatpak-platform/pull/155\r\n* Use Git checker for all elementary repositories by @davidmhewitt in https://github.com/elementary/flatpak-platform/pull/156\r\n* Update Stylesheet to 8.0 and Granite to 7.5. by @elementaryBot in https://github.com/elementary/flatpak-platform/pull/157\r\n\r\n## New Contributors\r\n* @elementaryBot made their first contribution in https://github.com/elementary/flatpak-platform/pull/154\r\n\r\n**Full Changelog**: https://github.com/elementary/flatpak-platform/compare/7.3.0...8.0.0",
+        "href": "https://github.com/elementary/flatpak-platform/releases/tag/8.0.0"
+      },
+      {
+        "version": "7.3.0",
+        "release_date": "2023-11-18T18:52:08+00:00",
+        "title": "Platform 7.3.0 Released!",
+        "body": "## What's Changed\r\n* Bump GNOME runtime to 45 by @davidmhewitt in https://github.com/elementary/flatpak-platform/pull/138\r\n* Bump stylesheet to 7.3.0 by @danirabbit in https://github.com/elementary/flatpak-platform/pull/140\r\n* Bump granite to 7.4.0 by @danirabbit in https://github.com/elementary/flatpak-platform/pull/139\r\n\r\n**Full Changelog**: https://github.com/elementary/flatpak-platform/compare/7.2.1...7.3.0",
+        "href": "https://github.com/elementary/flatpak-platform/releases/tag/7.3.0"
+      },
+      {
+        "version": "7.2.1",
+        "release_date": "2023-08-15T22:08:19+00:00",
+        "title": "Platform 7.2.1 Released!",
+        "body": "## What's Changed\r\n* Add missing environment variables by @tintou in https://github.com/elementary/flatpak-platform/pull/121\r\n* Release 7.2 by @davidmhewitt in https://github.com/elementary/flatpak-platform/pull/122\r\n* Bump Stylesheet to 7.2.0 by @danirabbit in https://github.com/elementary/flatpak-platform/pull/123\r\n* Bump Icons to 7.3.0 by @danirabbit in https://github.com/elementary/flatpak-platform/pull/124\r\n* Run docker image builds on a schedule by @davidmhewitt in https://github.com/elementary/flatpak-platform/pull/120\r\n* Bump Granite to 7.3.0 by @danirabbit in https://github.com/elementary/flatpak-platform/pull/127\r\n* Bump docker/build-push-action from 4.0.0 to 4.1.1 by @dependabot in https://github.com/elementary/flatpak-platform/pull/128\r\n* Update translation template by @ryonakano in https://github.com/elementary/flatpak-platform/pull/129\r\n* Bump Icons to 7.3.1 by @danirabbit in https://github.com/elementary/flatpak-platform/pull/130\r\n* Release 7.2.1 by @danirabbit in https://github.com/elementary/flatpak-platform/pull/131\r\n\r\n## New Contributors\r\n* @ryonakano made their first contribution in https://github.com/elementary/flatpak-platform/pull/129\r\n\r\n**Full Changelog**: https://github.com/elementary/flatpak-platform/compare/7.2.0...7.2.1",
+        "href": "https://github.com/elementary/flatpak-platform/releases/tag/7.2.1"
+      },
+      {
+        "version": "7.2.0",
+        "release_date": "2023-04-01T13:58:18+00:00",
+        "title": "Flatpak Platform 7.2.0 Released",
+        "body": "the 7.2 Flatpak platform brings bug fixes as well as stability and security fixes to platform libraries. It also includes newer releases of Granite and the Stylesheet to better support apps that use LibAdwaita. Be aware that the libraries contained in this runtime may be newer than those available from the Ubuntu repositories.\r\n\r\nThis update is API-breaking in some cases, so Flatpak manifests will have to be updated from using version 7.1 of the runtime to version 7.2",
+        "href": "https://github.com/elementary/flatpak-platform/releases/tag/7.2.0"
+      },
+      {
+        "version": "7.1.0",
+        "release_date": "2022-10-17T17:43:04+00:00",
+        "title": "Flatpak Platform 7.1.0 Released",
+        "body": "The 7.1 Flatpak platform brings bug fixes as well as stability and security fixes to platform libraries. Be aware that the libraries contained in this runtime may be newer than those available from the Ubuntu repositories.\r\n\r\nThis update is API-breaking in some cases, so Flatpak manifests will have to be updated from using version 7 of the runtime to version 7.1.",
+        "href": "https://github.com/elementary/flatpak-platform/releases/tag/7.1.0"
+      },
+      {
+        "version": "6.1.0",
+        "release_date": "2021-12-07T23:19:10+00:00",
+        "title": "Flatpak Platform 6.1.0 Released",
+        "body": "The 6.1 Flatpak platform brings bug fixes as well as stability and security fixes to platform libraries. We strongly recommend updating ASAP, as the `6` series of the runtime should now be considered end-of-life. Be aware that the libraries contained in this runtime are newer than those available from the Ubuntu repositories.\r\n\r\n* **This update is API-breaking in some cases, so Flatpak manifests will have to be updated from using version `6` of the runtime to version `6.1`.** \r\n* It includes a fix which makes apps use the Blueberry stylesheet from OS 6 when running on OS 5\r\n\r\nThe GNOME 41 runtime this is based on:\r\n* Updated to freedesktop-sdk 21.08, bringing in newer toolchains (such as GCC 11 and LLVM 12) and libraries (such as Mesa 21.2)\r\n* Removed `zenity` and `librest`\r\n* Added `libmanette`, enabling gamepad support in WebKit\r\n\r\nThis runtime also includes GTK4, however it does not include a version of the elementary stylesheet or Granite with GTK4 support. We recommend developers use this runtime to start looking at what they need to do to port to GTK4, but we don't recommend trying to ship GTK4 apps with this runtime just yet.",
+        "href": "https://github.com/elementary/flatpak-platform/releases/tag/6.1.0"
+      },
+      {
+        "version": "6.0.2",
+        "release_date": "2021-10-26T18:18:08+00:00",
+        "title": "Flatpak Platform 6.0.2 Released",
+        "body": "<p>Fixes:</p>\r\n<ul>\r\n<li>Fix localization issues with apps that use Granite</li>\r\n</ul>\r\n<p>Platform updates:</p>\r\n<ul>\r\n<li>Use the settings portal for time and date settings</li>\r\n<li>Use the settings portal for color scheme preference instead of requiring an AccountsService hole</li>\r\n<li>Update elementary stylesheet to 6.1.0</li>\r\n<li>Update Granite to 6.1.2</li>\r\n</ul>",
+        "href": "https://github.com/elementary/flatpak-platform/releases/tag/6.0.2"
+      },
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-20T20:53:11+00:00",
+        "title": "Flatpak Platform 6.0.0 Released",
+        "body": "The first stable version of the elementary Flatpak platform has been released!",
+        "href": "https://github.com/elementary/flatpak-platform/releases/tag/6.0.0"
+      }
+    ],
+    "new_commits": 0,
+    "default_branch": "main"
+  },
+  {
     "name": "shortcut-overlay",
     "releases": [
       {
@@ -809,76 +886,6 @@
       }
     ],
     "new_commits": 0,
-    "default_branch": "main"
-  },
-  {
-    "name": "flatpak-platform",
-    "releases": [
-      {
-        "version": "8.2.0",
-        "release_date": "2025-05-14T20:40:49+00:00",
-        "title": "Platform 8.2.0 Released!",
-        "body": "## What's Changed\r\n* Bump GNOME platform to 48 by @danirabbit in https://github.com/elementary/flatpak-platform/pull/191\r\n* stylesheet: Update stylesheet.git to 8.2.1 by @elementaryBot in https://github.com/elementary/flatpak-platform/pull/194\r\n\r\n**Full Changelog**: https://github.com/elementary/flatpak-platform/compare/8.0.0...8.2.0",
-        "href": "https://github.com/elementary/flatpak-platform/releases/tag/8.2.0"
-      },
-      {
-        "version": "8.0.0",
-        "release_date": "2024-05-07T17:06:36+00:00",
-        "title": "Platform 8.0.0 Released! 🎉️",
-        "body": "## What's Changed\r\n* Remove installation of settings.ini by @ryonakano in https://github.com/elementary/flatpak-platform/pull/150\r\n* Add LibPortal by @danirabbit in https://github.com/elementary/flatpak-platform/pull/149\r\n* appdata: Use newer, non-deprecated developer tag by @davidmhewitt in https://github.com/elementary/flatpak-platform/pull/153\r\n* Update xcursorgen-1.0.7.tar.gz to 1.0.8 by @elementaryBot in https://github.com/elementary/flatpak-platform/pull/154\r\n* Sdk: bump Stylesheet to 8 by @danirabbit in https://github.com/elementary/flatpak-platform/pull/155\r\n* Use Git checker for all elementary repositories by @davidmhewitt in https://github.com/elementary/flatpak-platform/pull/156\r\n* Update Stylesheet to 8.0 and Granite to 7.5. by @elementaryBot in https://github.com/elementary/flatpak-platform/pull/157\r\n\r\n## New Contributors\r\n* @elementaryBot made their first contribution in https://github.com/elementary/flatpak-platform/pull/154\r\n\r\n**Full Changelog**: https://github.com/elementary/flatpak-platform/compare/7.3.0...8.0.0",
-        "href": "https://github.com/elementary/flatpak-platform/releases/tag/8.0.0"
-      },
-      {
-        "version": "7.3.0",
-        "release_date": "2023-11-18T18:52:08+00:00",
-        "title": "Platform 7.3.0 Released!",
-        "body": "## What's Changed\r\n* Bump GNOME runtime to 45 by @davidmhewitt in https://github.com/elementary/flatpak-platform/pull/138\r\n* Bump stylesheet to 7.3.0 by @danirabbit in https://github.com/elementary/flatpak-platform/pull/140\r\n* Bump granite to 7.4.0 by @danirabbit in https://github.com/elementary/flatpak-platform/pull/139\r\n\r\n**Full Changelog**: https://github.com/elementary/flatpak-platform/compare/7.2.1...7.3.0",
-        "href": "https://github.com/elementary/flatpak-platform/releases/tag/7.3.0"
-      },
-      {
-        "version": "7.2.1",
-        "release_date": "2023-08-15T22:08:19+00:00",
-        "title": "Platform 7.2.1 Released!",
-        "body": "## What's Changed\r\n* Add missing environment variables by @tintou in https://github.com/elementary/flatpak-platform/pull/121\r\n* Release 7.2 by @davidmhewitt in https://github.com/elementary/flatpak-platform/pull/122\r\n* Bump Stylesheet to 7.2.0 by @danirabbit in https://github.com/elementary/flatpak-platform/pull/123\r\n* Bump Icons to 7.3.0 by @danirabbit in https://github.com/elementary/flatpak-platform/pull/124\r\n* Run docker image builds on a schedule by @davidmhewitt in https://github.com/elementary/flatpak-platform/pull/120\r\n* Bump Granite to 7.3.0 by @danirabbit in https://github.com/elementary/flatpak-platform/pull/127\r\n* Bump docker/build-push-action from 4.0.0 to 4.1.1 by @dependabot in https://github.com/elementary/flatpak-platform/pull/128\r\n* Update translation template by @ryonakano in https://github.com/elementary/flatpak-platform/pull/129\r\n* Bump Icons to 7.3.1 by @danirabbit in https://github.com/elementary/flatpak-platform/pull/130\r\n* Release 7.2.1 by @danirabbit in https://github.com/elementary/flatpak-platform/pull/131\r\n\r\n## New Contributors\r\n* @ryonakano made their first contribution in https://github.com/elementary/flatpak-platform/pull/129\r\n\r\n**Full Changelog**: https://github.com/elementary/flatpak-platform/compare/7.2.0...7.2.1",
-        "href": "https://github.com/elementary/flatpak-platform/releases/tag/7.2.1"
-      },
-      {
-        "version": "7.2.0",
-        "release_date": "2023-04-01T13:58:18+00:00",
-        "title": "Flatpak Platform 7.2.0 Released",
-        "body": "the 7.2 Flatpak platform brings bug fixes as well as stability and security fixes to platform libraries. It also includes newer releases of Granite and the Stylesheet to better support apps that use LibAdwaita. Be aware that the libraries contained in this runtime may be newer than those available from the Ubuntu repositories.\r\n\r\nThis update is API-breaking in some cases, so Flatpak manifests will have to be updated from using version 7.1 of the runtime to version 7.2",
-        "href": "https://github.com/elementary/flatpak-platform/releases/tag/7.2.0"
-      },
-      {
-        "version": "7.1.0",
-        "release_date": "2022-10-17T17:43:04+00:00",
-        "title": "Flatpak Platform 7.1.0 Released",
-        "body": "The 7.1 Flatpak platform brings bug fixes as well as stability and security fixes to platform libraries. Be aware that the libraries contained in this runtime may be newer than those available from the Ubuntu repositories.\r\n\r\nThis update is API-breaking in some cases, so Flatpak manifests will have to be updated from using version 7 of the runtime to version 7.1.",
-        "href": "https://github.com/elementary/flatpak-platform/releases/tag/7.1.0"
-      },
-      {
-        "version": "6.1.0",
-        "release_date": "2021-12-07T23:19:10+00:00",
-        "title": "Flatpak Platform 6.1.0 Released",
-        "body": "The 6.1 Flatpak platform brings bug fixes as well as stability and security fixes to platform libraries. We strongly recommend updating ASAP, as the `6` series of the runtime should now be considered end-of-life. Be aware that the libraries contained in this runtime are newer than those available from the Ubuntu repositories.\r\n\r\n* **This update is API-breaking in some cases, so Flatpak manifests will have to be updated from using version `6` of the runtime to version `6.1`.** \r\n* It includes a fix which makes apps use the Blueberry stylesheet from OS 6 when running on OS 5\r\n\r\nThe GNOME 41 runtime this is based on:\r\n* Updated to freedesktop-sdk 21.08, bringing in newer toolchains (such as GCC 11 and LLVM 12) and libraries (such as Mesa 21.2)\r\n* Removed `zenity` and `librest`\r\n* Added `libmanette`, enabling gamepad support in WebKit\r\n\r\nThis runtime also includes GTK4, however it does not include a version of the elementary stylesheet or Granite with GTK4 support. We recommend developers use this runtime to start looking at what they need to do to port to GTK4, but we don't recommend trying to ship GTK4 apps with this runtime just yet.",
-        "href": "https://github.com/elementary/flatpak-platform/releases/tag/6.1.0"
-      },
-      {
-        "version": "6.0.2",
-        "release_date": "2021-10-26T18:18:08+00:00",
-        "title": "Flatpak Platform 6.0.2 Released",
-        "body": "<p>Fixes:</p>\r\n<ul>\r\n<li>Fix localization issues with apps that use Granite</li>\r\n</ul>\r\n<p>Platform updates:</p>\r\n<ul>\r\n<li>Use the settings portal for time and date settings</li>\r\n<li>Use the settings portal for color scheme preference instead of requiring an AccountsService hole</li>\r\n<li>Update elementary stylesheet to 6.1.0</li>\r\n<li>Update Granite to 6.1.2</li>\r\n</ul>",
-        "href": "https://github.com/elementary/flatpak-platform/releases/tag/6.0.2"
-      },
-      {
-        "version": "6.0.0",
-        "release_date": "2021-07-20T20:53:11+00:00",
-        "title": "Flatpak Platform 6.0.0 Released",
-        "body": "The first stable version of the elementary Flatpak platform has been released!",
-        "href": "https://github.com/elementary/flatpak-platform/releases/tag/6.0.0"
-      }
-    ],
-    "new_commits": 4,
     "default_branch": "main"
   },
   {
@@ -3839,7 +3846,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-power/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 4,
+    "new_commits": 6,
     "default_branch": "master"
   },
   {
