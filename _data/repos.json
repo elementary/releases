@@ -6,7 +6,7 @@
         "version": "7.1.2",
         "release_date": "2025-06-09T14:26:55+00:00",
         "title": "files 7.1.2 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Further preparation for porting to Gtk4</li>\n<li>Updated translations</li>\n</ul>\n",
+        "body": "<p>Minor updates:</p>\r\n<ul>\r\n<li>Further preparation for porting to Gtk4</li>\r\n<li>Updated translations</li>\r\n</ul>\r\n\r\n## What's Changed\r\n* Styles: no space before parenth by @danirabbit in https://github.com/elementary/files/pull/2555\r\n* AbstractSlot: GTK4 prep by @danirabbit in https://github.com/elementary/files/pull/2558\r\n* Remove PortalTester by @danirabbit in https://github.com/elementary/files/pull/2559\r\n* FileUtils: use present/response/close for error_dialog by @danirabbit in https://github.com/elementary/files/pull/2562\r\n* Plugins/Trash: GTK4 prep by @danirabbit in https://github.com/elementary/files/pull/2563\r\n* FileUtils: add button consequences to ensure dialog body text by @danirabbit in https://github.com/elementary/files/pull/2561\r\n* Filechooser/Main: replace dialog show_all with present by @danirabbit in https://github.com/elementary/files/pull/2560\r\n* Gtk4 Prep - Use dialog.response.connect () pattern by @jeremypw in https://github.com/elementary/files/pull/2568\r\n* Renamer: Avoid listbox get_children by @danirabbit in https://github.com/elementary/files/pull/2564\r\n* FileChooserDialog: show_all dialog contents by @danirabbit in https://github.com/elementary/files/pull/2569\r\n* Show context menu on all areas of sidebar by @jeremypw in https://github.com/elementary/files/pull/2575\r\n* Directory View: Do not end renaming when clicking on editable widget by @jeremypw in https://github.com/elementary/files/pull/2572\r\n* Fix Files hanging when unplugging removable drive by @jeremypw in https://github.com/elementary/files/pull/2582\r\n* Prepare for release 7.1.2 by @jeremypw in https://github.com/elementary/files/pull/2583\r\n* Release v7.1.2 by @jeremypw in https://github.com/elementary/files/pull/2584\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/files/compare/7.1.1...7.1.2",
         "href": "https://github.com/elementary/files/releases/tag/7.1.2"
       },
       {
@@ -3972,7 +3972,7 @@
         "href": "https://github.com/elementary/greeter/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 19,
+    "new_commits": 20,
     "default_branch": "master"
   },
   {
