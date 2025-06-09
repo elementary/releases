@@ -3853,7 +3853,7 @@
         "href": "https://github.com/elementary/panel-power/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 8,
+    "new_commits": 12,
     "default_branch": "main"
   },
   {
@@ -3972,7 +3972,7 @@
         "href": "https://github.com/elementary/greeter/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 21,
+    "new_commits": 24,
     "default_branch": "master"
   },
   {
@@ -6506,7 +6506,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 234,
+    "new_commits": 239,
     "default_branch": "master"
   },
   {
@@ -7420,74 +7420,74 @@
     "default_branch": "master"
   },
   {
-    "name": "wingpanel-indicator-nightlight",
+    "name": "panel-nightlight",
     "releases": [
       {
         "version": "2.1.3",
         "release_date": "2024-08-21T18:27:29+00:00",
         "title": "wingpanel-indicator-nightlight 2.1.3 Released",
         "body": "<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/wingpanel-indicator-nightlight/releases/tag/2.1.3"
+        "href": "https://github.com/elementary/panel-nightlight/releases/tag/2.1.3"
       },
       {
         "version": "2.1.2",
         "release_date": "2023-07-03T22:57:27+00:00",
         "title": "Nightlight Indicator 2.1.2 Released!",
         "body": "## What's Changed\r\n* Switch to GHCR containers by @davidmhewitt in https://github.com/elementary/wingpanel-indicator-nightlight/pull/96\r\n* Resource: update icons by @danirabbit in https://github.com/elementary/wingpanel-indicator-nightlight/pull/98\r\n* Metainfo Improvements by @danirabbit in https://github.com/elementary/wingpanel-indicator-nightlight/pull/99\r\n* PopoverWidget: cleanup and Gtk4 prep by @danirabbit in https://github.com/elementary/wingpanel-indicator-nightlight/pull/103\r\n\r\n## New Contributors\r\n* @meisenzahl made their first contribution in https://github.com/elementary/wingpanel-indicator-nightlight/pull/94\r\n\r\n**Full Changelog**: https://github.com/elementary/wingpanel-indicator-nightlight/compare/2.1.1...2.1.2",
-        "href": "https://github.com/elementary/wingpanel-indicator-nightlight/releases/tag/2.1.2"
+        "href": "https://github.com/elementary/panel-nightlight/releases/tag/2.1.2"
       },
       {
         "version": "2.1.1",
         "release_date": "2022-10-19T02:47:48+00:00",
         "title": "wingpanel-indicator-nightlight 2.1.1 Released",
         "body": "<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/wingpanel-indicator-nightlight/releases/tag/2.1.1"
+        "href": "https://github.com/elementary/panel-nightlight/releases/tag/2.1.1"
       },
       {
         "version": "2.1.0",
         "release_date": "2021-07-14T20:10:02+00:00",
         "title": "wingpanel-indicator-nightlight 2.1.0 Released",
         "body": "<p>Show tooltip on hover</p>\n<p>Performance improvements</p>\n<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/wingpanel-indicator-nightlight/releases/tag/2.1.0"
+        "href": "https://github.com/elementary/panel-nightlight/releases/tag/2.1.0"
       },
       {
         "version": "2.0.4",
         "release_date": "2020-08-07T18:14:11+00:00",
         "title": "wingpanel-indicator-nightlight 2.0.4 Released",
         "body": "<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/wingpanel-indicator-nightlight/releases/tag/2.0.4"
+        "href": "https://github.com/elementary/panel-nightlight/releases/tag/2.0.4"
       },
       {
         "version": "2.0.3",
         "release_date": "2020-03-02T18:30:27+00:00",
         "title": "wingpanel-indicator-nightlight 2.0.3 Released",
         "body": "wingpanel-indicator-nightlight 2.0.3 is out! \n\n<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/wingpanel-indicator-nightlight/releases/tag/2.0.3"
+        "href": "https://github.com/elementary/panel-nightlight/releases/tag/2.0.3"
       },
       {
         "version": "2.0.2",
         "release_date": "2019-02-19T15:11:12+00:00",
         "title": "Wingpanel Nightlight Indicator 2.0.2 Released",
         "body": "wingpanel-indicator-nightlight 2.0.2 is out!\r\n\r\nChanges:\r\n* Updated translations",
-        "href": "https://github.com/elementary/wingpanel-indicator-nightlight/releases/tag/2.0.2"
+        "href": "https://github.com/elementary/panel-nightlight/releases/tag/2.0.2"
       },
       {
         "version": "2.0.1",
         "release_date": "2018-10-02T16:26:13+00:00",
         "title": "Wingpanel Nightlight Indicator 2.0.1 Released",
         "body": "wingpanel-indicator-nightlight 2.0.1 is out!\r\n\r\nThis release includes updated translations.",
-        "href": "https://github.com/elementary/wingpanel-indicator-nightlight/releases/tag/2.0.1"
+        "href": "https://github.com/elementary/panel-nightlight/releases/tag/2.0.1"
       },
       {
         "version": "2.0",
         "release_date": "2018-06-07T08:43:32+00:00",
         "title": "Wingpanel Nightlight Indicator 2.0 Released",
         "body": "wingpanel-indicator-nightlight 2.0 is out!\r\n\r\nThis is the initial release.",
-        "href": "https://github.com/elementary/wingpanel-indicator-nightlight/releases/tag/2.0"
+        "href": "https://github.com/elementary/panel-nightlight/releases/tag/2.0"
       }
     ],
-    "new_commits": 8,
-    "default_branch": "master"
+    "new_commits": 13,
+    "default_branch": "main"
   },
   {
     "name": "wingpanel-indicator-notifications",
