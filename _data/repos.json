@@ -3979,8 +3979,8 @@
         "href": "https://github.com/elementary/greeter/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 29,
-    "default_branch": "master"
+    "new_commits": 32,
+    "default_branch": "main"
   },
   {
     "name": "switchboard-plug-mouse-touchpad",
