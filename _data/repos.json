@@ -6,7 +6,7 @@
         "version": "8.3.1",
         "release_date": "2025-06-11T20:57:20+00:00",
         "title": "settings-daemon 8.3.1 Released",
-        "body": "<p>Improvements:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "body": "<p>Improvements:</p>\r\n<ul>\r\n<li>Updated translations</li>\r\n</ul>\r\n\r\n## What's Changed\r\n* Fix orientation lock sync by @lenemter in https://github.com/elementary/settings-daemon/pull/187\r\n* Sync Wingpanel transparency to Greeter by @lenemter in https://github.com/elementary/settings-daemon/pull/188\r\n* Add application shortcuts backend by @lenemter in https://github.com/elementary/settings-daemon/pull/190\r\n* Cache dynamic accent color in account settings and use it in Portal by @lenemter in https://github.com/elementary/settings-daemon/pull/192\r\n* Fix housekeeping by @lenemter in https://github.com/elementary/settings-daemon/pull/195\r\n* Update metainfo for 8.3.1 by @lenemter in https://github.com/elementary/settings-daemon/pull/197\r\n* Release 8.3.1 by @lenemter in https://github.com/elementary/settings-daemon/pull/198\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/settings-daemon/compare/8.3.0...8.3.1",
         "href": "https://github.com/elementary/settings-daemon/releases/tag/8.3.1"
       },
       {
