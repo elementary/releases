@@ -1,5 +1,145 @@
 [
   {
+    "name": "dock",
+    "releases": [
+      {
+        "version": "8.1.2",
+        "release_date": "2025-06-12T11:47:03+00:00",
+        "title": "dock 8.1.2 Released",
+        "body": "<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/dock/releases/tag/8.1.2"
+      },
+      {
+        "version": "8.1.1",
+        "release_date": "2025-05-17T15:35:23+00:00",
+        "title": "dock 8.1.1 Released",
+        "body": "<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/dock/releases/tag/8.1.1"
+      },
+      {
+        "version": "8.1.0",
+        "release_date": "2025-05-12T17:04:23+00:00",
+        "title": "dock 8.1.0 Released",
+        "body": "<p>Updated translations</p>\r\n<p>Open context menus with long-press</p>\r\n<p>Cycle through windows when hovering over an app with drag-and-drop</p>\r\n<p>Improve memory usage</p>\r\n<p>Fix dock bounds when hide mode is 'Never'</p>\r\n\r\n## What's Changed\r\n* Introduce an AppSystem by @leolost2605 in https://github.com/elementary/dock/pull/336\r\n* Rename LauncherManager into ItemManager by @lenemter in https://github.com/elementary/dock/pull/362\r\n* Introduce WindowSystem by @lenemter in https://github.com/elementary/dock/pull/363\r\n* Move reduce transparency to main window by @lenemter in https://github.com/elementary/dock/pull/372\r\n* Restructure the project by @lenemter in https://github.com/elementary/dock/pull/371\r\n* Cycle through windows when hovering over launcher with dnd by @lenemter in https://github.com/elementary/dock/pull/374\r\n* Launcher: Fix memory leaks by @leolost2605 in https://github.com/elementary/dock/pull/376\r\n* Introduce BaseItem by @lenemter in https://github.com/elementary/dock/pull/373\r\n* Fix warnings by @lenemter in https://github.com/elementary/dock/pull/378\r\n* Workspace switcher by @lenemter in https://github.com/elementary/dock/pull/361\r\n* Open MultitaskingView when clicking active workspace by @leolost2605 in https://github.com/elementary/dock/pull/384\r\n* GSchema: remove multitasking from defaults by @danirabbit in https://github.com/elementary/dock/pull/386\r\n* DynamicWorkspaceItem: open multitasking if clicked again by @danirabbit in https://github.com/elementary/dock/pull/385\r\n* WorkspaceSystem: sort windows by time they appeared on the workspace by @lenemter in https://github.com/elementary/dock/pull/388\r\n* Implement workspace reordering with drag and drop by @leolost2605 in https://github.com/elementary/dock/pull/392\r\n* Support long press on launchers by @leolost2605 in https://github.com/elementary/dock/pull/398\r\n* Remove dependency on libgee by @tintou in https://github.com/elementary/dock/pull/401\r\n* Fix crash and visual bugs with animations disabled by @lenemter in https://github.com/elementary/dock/pull/405\r\n* Make workspace switcher optional by @danirabbit in https://github.com/elementary/dock/pull/407\r\n* Revert \"GSchema: remove multitasking from defaults\" by @danirabbit in https://github.com/elementary/dock/pull/408\r\n* Fix dock bounds when hide mode is 'Never' by @lenemter in https://github.com/elementary/dock/pull/411\r\n* Fix meson options by @lenemter in https://github.com/elementary/dock/pull/413\r\n* Show multiple dots for apps with multiple windows by @lenemter in https://github.com/elementary/dock/pull/412\r\n\r\n**Full Changelog**: https://github.com/elementary/dock/compare/8.0.2...8.1.0",
+        "href": "https://github.com/elementary/dock/releases/tag/8.1.0"
+      },
+      {
+        "version": "8.0.2",
+        "release_date": "2024-12-12T20:05:44+00:00",
+        "title": "dock 8.0.2 Released",
+        "body": "## What's Changed\r\n* App: Respect startup notify key for launching animation by @leolost2605 in https://github.com/elementary/dock/pull/299\r\n* meson: Specify minimum GLib version by @tintou in https://github.com/elementary/dock/pull/306\r\n* Add spacing between icon and running indicator by @lenemter in https://github.com/elementary/dock/pull/329\r\n* Fix icons clipping when bouncing and separate background from window by @lenemter in https://github.com/elementary/dock/pull/328\r\n* MainWindow: respect reduce transparency key by @danirabbit in https://github.com/elementary/dock/pull/333\r\n\r\n## New Contributors\r\n* @lenemter made their first contribution in https://github.com/elementary/dock/pull/329\r\n\r\n**Full Changelog**: https://github.com/elementary/dock/compare/8.0.1...8.0.2",
+        "href": "https://github.com/elementary/dock/releases/tag/8.0.2"
+      },
+      {
+        "version": "8.0.1",
+        "release_date": "2024-10-23T15:49:16+00:00",
+        "title": "dock 8.0.1 Released",
+        "body": "<p>Updated translations</p>\n<p>Fixes a crash when dragging a file that's not a launcher to the dock</p>\n<p>Hide badges, progressbars, and running indicators while dragging a launcher</p>\n",
+        "href": "https://github.com/elementary/dock/releases/tag/8.0.1"
+      },
+      {
+        "version": "8.0.0",
+        "release_date": "2024-08-20T15:02:39+00:00",
+        "title": "dock 8.0.0 Released",
+        "body": "<p>Complete rewrite 🎉️</p>\n",
+        "href": "https://github.com/elementary/dock/releases/tag/8.0.0"
+      }
+    ],
+    "new_commits": 0,
+    "default_branch": "main"
+  },
+  {
+    "name": "portals",
+    "releases": [
+      {
+        "version": "8.0.3",
+        "release_date": "2025-06-12T11:46:43+00:00",
+        "title": "portals 8.0.3 Released",
+        "body": "<p>New Features:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/portals/releases/tag/8.0.3"
+      },
+      {
+        "version": "8.0.2",
+        "release_date": "2025-06-10T20:55:01+00:00",
+        "title": "portals 8.0.2 Released",
+        "body": "<p>New Features:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/portals/releases/tag/8.0.2"
+      },
+      {
+        "version": "8.0.1",
+        "release_date": "2025-05-02T15:52:25+00:00",
+        "title": "portals 8.0.1 Released",
+        "body": "<p>New Features:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/portals/releases/tag/8.0.1"
+      },
+      {
+        "version": "8.0.0",
+        "release_date": "2024-11-19T22:06:04+00:00",
+        "title": "portals 8.0.0 Released",
+        "body": "## What's Changed\r\n* Screenshot: Fix the interactive dialog being visible in screenshots of the entire screen by @leolost2605 in https://github.com/elementary/portals/pull/109\r\n* Access/Dialog: Center and keep above on wayland by @leolost2605 in https://github.com/elementary/portals/pull/114\r\n* Release 8.0.0 by @danirabbit in https://github.com/elementary/portals/pull/121\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/portals/compare/7.2.0...8.0.0",
+        "href": "https://github.com/elementary/portals/releases/tag/8.0.0"
+      },
+      {
+        "version": "7.2.0",
+        "release_date": "2024-07-24T17:52:46+00:00",
+        "title": "portals 7.2.0 Released",
+        "body": "## What's Changed\r\n* Bump actions/checkout from 3 to 4 by @dependabot in https://github.com/elementary/portals/pull/92\r\n* Create wallpaper portal by @danirabbit in https://github.com/elementary/portals/pull/98\r\n* Screenshot portal by @davidmhewitt in https://github.com/elementary/portals/pull/94\r\n* Implement screen cast portal by @leolost2605 in https://github.com/elementary/portals/pull/102\r\n* Metainfo: 8 release notes by @danirabbit in https://github.com/elementary/portals/pull/103\r\n* Release 7.2.0 by @danirabbit in https://github.com/elementary/portals/pull/104\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/portals/compare/7.1.1...7.2.0",
+        "href": "https://github.com/elementary/portals/releases/tag/7.2.0"
+      },
+      {
+        "version": "7.1.1",
+        "release_date": "2023-08-22T01:08:13+00:00",
+        "title": "portals 7.1.1 Released",
+        "body": "## What's Changed\r\n* Add background portal file to POTFILES by @lenemter in https://github.com/elementary/portals/pull/88\r\n* Update portals.metainfo.xml.in by @danirabbit in https://github.com/elementary/portals/pull/90\r\n* Respect user autostart options by @leolost2605 in https://github.com/elementary/portals/pull/89\r\n* Release 7.1.1 by @danirabbit in https://github.com/elementary/portals/pull/91\r\n\r\n## New Contributors\r\n* @lenemter made their first contribution in https://github.com/elementary/portals/pull/88\r\n\r\n**Full Changelog**: https://github.com/elementary/portals/compare/7.1.0...7.1.1",
+        "href": "https://github.com/elementary/portals/releases/tag/7.1.1"
+      },
+      {
+        "version": "7.1.0",
+        "release_date": "2023-06-26T15:45:18+00:00",
+        "title": "Portals 7.1.0 Released!",
+        "body": "## What's Changed\r\n* Switch to GHCR containers by @davidmhewitt in https://github.com/elementary/portals/pull/65\r\n* Add build support for older Vala versions by @meisenzahl in https://github.com/elementary/portals/pull/67\r\n* Background portal implementation by @leolost2605 in https://github.com/elementary/portals/pull/73\r\n* NotificationRequest: use typographical quotes by @danirabbit in https://github.com/elementary/portals/pull/75\r\n* Background: use commandline to try to get fallback app_id by @danirabbit in https://github.com/elementary/portals/pull/76\r\n* Background: Make Asynchronous by @Marukesu in https://github.com/elementary/portals/pull/84\r\n* Background: Make send_notification async and let it throw errors by @leolost2605 in https://github.com/elementary/portals/pull/85\r\n\r\n## New Contributors\r\n* @dependabot made their first contribution in https://github.com/elementary/portals/pull/66\r\n* @meisenzahl made their first contribution in https://github.com/elementary/portals/pull/67\r\n* @leolost2605 made their first contribution in https://github.com/elementary/portals/pull/73\r\n\r\n**Full Changelog**: https://github.com/elementary/portals/compare/7.0.0...7.1.0",
+        "href": "https://github.com/elementary/portals/releases/tag/7.1.0"
+      },
+      {
+        "version": "7.0.0",
+        "release_date": "2023-02-28T16:31:34+00:00",
+        "title": "Portals 7.0.0 Released",
+        "body": "## What's Changed\r\n* AppChooser: Make primary text translatable by @ryonakano in https://github.com/elementary/portals/pull/59\r\n* Update Meson Files by @Marukesu in https://github.com/elementary/portals/pull/61\r\n* Port to Gtk4 by @marbetschar in https://github.com/elementary/portals/pull/53\r\n* Access: Minor Rework by @Marukesu in https://github.com/elementary/portals/pull/62\r\n* Metainfo Improvements by @danirabbit in https://github.com/elementary/portals/pull/63\r\n* Release 7.0.0 by @danirabbit in https://github.com/elementary/portals/pull/64\r\n\r\n## New Contributors\r\n* @marbetschar made their first contribution in https://github.com/elementary/portals/pull/53\r\n\r\n**Full Changelog**: https://github.com/elementary/portals/compare/1.2.0...7.0.0",
+        "href": "https://github.com/elementary/portals/releases/tag/7.0.0"
+      },
+      {
+        "version": "1.2.0",
+        "release_date": "2022-10-27T16:44:00+00:00",
+        "title": "portals 1.2.0 Released",
+        "body": "<p>New Features:</p>\n<ul>\n<li>Support dialog parenting on wayland</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/portals/releases/tag/1.2.0"
+      },
+      {
+        "version": "1.1.0",
+        "release_date": "2022-01-26T18:02:09+00:00",
+        "title": "portals 1.1.0 Released",
+        "body": "<p>New Features:</p>\n<ul>\n<li>Add a destructive action option for access portals</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Fix a crash when opening apps in the AppChooser portal</li>\n<li>Fix window focus and position for Access portals with no parent window</li>\n<li>Set AppChooser portal as a modal dialog for proper animations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/portals/releases/tag/1.1.0"
+      },
+      {
+        "version": "1.0.1",
+        "release_date": "2021-10-28T08:07:25+00:00",
+        "title": "Portals 1.0.1 Released!",
+        "body": "## What's Changed\r\n* Watch for xdg-desktop-portal starting before binding style scheme by @davidmhewitt in https://github.com/elementary/portals/pull/34\r\n\r\n**Full Changelog**: https://github.com/elementary/portals/compare/1.0.0...1.0.1",
+        "href": "https://github.com/elementary/portals/releases/tag/1.0.1"
+      },
+      {
+        "version": "1.0.0",
+        "release_date": "2021-10-25T16:57:13+00:00",
+        "title": "Portals 1.0.0 Released!",
+        "body": "<p>First release!</p>\r\n<ul>\r\n<li>Add OpenURI Portal</li>\r\n</ul>",
+        "href": "https://github.com/elementary/portals/releases/tag/1.0.0"
+      }
+    ],
+    "new_commits": 0,
+    "default_branch": "main"
+  },
+  {
     "name": "settings-daemon",
     "releases": [
       {
@@ -81,90 +221,6 @@
       }
     ],
     "new_commits": 0,
-    "default_branch": "main"
-  },
-  {
-    "name": "portals",
-    "releases": [
-      {
-        "version": "8.0.2",
-        "release_date": "2025-06-10T20:55:01+00:00",
-        "title": "portals 8.0.2 Released",
-        "body": "<p>New Features:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/portals/releases/tag/8.0.2"
-      },
-      {
-        "version": "8.0.1",
-        "release_date": "2025-05-02T15:52:25+00:00",
-        "title": "portals 8.0.1 Released",
-        "body": "<p>New Features:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/portals/releases/tag/8.0.1"
-      },
-      {
-        "version": "8.0.0",
-        "release_date": "2024-11-19T22:06:04+00:00",
-        "title": "portals 8.0.0 Released",
-        "body": "## What's Changed\r\n* Screenshot: Fix the interactive dialog being visible in screenshots of the entire screen by @leolost2605 in https://github.com/elementary/portals/pull/109\r\n* Access/Dialog: Center and keep above on wayland by @leolost2605 in https://github.com/elementary/portals/pull/114\r\n* Release 8.0.0 by @danirabbit in https://github.com/elementary/portals/pull/121\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/portals/compare/7.2.0...8.0.0",
-        "href": "https://github.com/elementary/portals/releases/tag/8.0.0"
-      },
-      {
-        "version": "7.2.0",
-        "release_date": "2024-07-24T17:52:46+00:00",
-        "title": "portals 7.2.0 Released",
-        "body": "## What's Changed\r\n* Bump actions/checkout from 3 to 4 by @dependabot in https://github.com/elementary/portals/pull/92\r\n* Create wallpaper portal by @danirabbit in https://github.com/elementary/portals/pull/98\r\n* Screenshot portal by @davidmhewitt in https://github.com/elementary/portals/pull/94\r\n* Implement screen cast portal by @leolost2605 in https://github.com/elementary/portals/pull/102\r\n* Metainfo: 8 release notes by @danirabbit in https://github.com/elementary/portals/pull/103\r\n* Release 7.2.0 by @danirabbit in https://github.com/elementary/portals/pull/104\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/portals/compare/7.1.1...7.2.0",
-        "href": "https://github.com/elementary/portals/releases/tag/7.2.0"
-      },
-      {
-        "version": "7.1.1",
-        "release_date": "2023-08-22T01:08:13+00:00",
-        "title": "portals 7.1.1 Released",
-        "body": "## What's Changed\r\n* Add background portal file to POTFILES by @lenemter in https://github.com/elementary/portals/pull/88\r\n* Update portals.metainfo.xml.in by @danirabbit in https://github.com/elementary/portals/pull/90\r\n* Respect user autostart options by @leolost2605 in https://github.com/elementary/portals/pull/89\r\n* Release 7.1.1 by @danirabbit in https://github.com/elementary/portals/pull/91\r\n\r\n## New Contributors\r\n* @lenemter made their first contribution in https://github.com/elementary/portals/pull/88\r\n\r\n**Full Changelog**: https://github.com/elementary/portals/compare/7.1.0...7.1.1",
-        "href": "https://github.com/elementary/portals/releases/tag/7.1.1"
-      },
-      {
-        "version": "7.1.0",
-        "release_date": "2023-06-26T15:45:18+00:00",
-        "title": "Portals 7.1.0 Released!",
-        "body": "## What's Changed\r\n* Switch to GHCR containers by @davidmhewitt in https://github.com/elementary/portals/pull/65\r\n* Add build support for older Vala versions by @meisenzahl in https://github.com/elementary/portals/pull/67\r\n* Background portal implementation by @leolost2605 in https://github.com/elementary/portals/pull/73\r\n* NotificationRequest: use typographical quotes by @danirabbit in https://github.com/elementary/portals/pull/75\r\n* Background: use commandline to try to get fallback app_id by @danirabbit in https://github.com/elementary/portals/pull/76\r\n* Background: Make Asynchronous by @Marukesu in https://github.com/elementary/portals/pull/84\r\n* Background: Make send_notification async and let it throw errors by @leolost2605 in https://github.com/elementary/portals/pull/85\r\n\r\n## New Contributors\r\n* @dependabot made their first contribution in https://github.com/elementary/portals/pull/66\r\n* @meisenzahl made their first contribution in https://github.com/elementary/portals/pull/67\r\n* @leolost2605 made their first contribution in https://github.com/elementary/portals/pull/73\r\n\r\n**Full Changelog**: https://github.com/elementary/portals/compare/7.0.0...7.1.0",
-        "href": "https://github.com/elementary/portals/releases/tag/7.1.0"
-      },
-      {
-        "version": "7.0.0",
-        "release_date": "2023-02-28T16:31:34+00:00",
-        "title": "Portals 7.0.0 Released",
-        "body": "## What's Changed\r\n* AppChooser: Make primary text translatable by @ryonakano in https://github.com/elementary/portals/pull/59\r\n* Update Meson Files by @Marukesu in https://github.com/elementary/portals/pull/61\r\n* Port to Gtk4 by @marbetschar in https://github.com/elementary/portals/pull/53\r\n* Access: Minor Rework by @Marukesu in https://github.com/elementary/portals/pull/62\r\n* Metainfo Improvements by @danirabbit in https://github.com/elementary/portals/pull/63\r\n* Release 7.0.0 by @danirabbit in https://github.com/elementary/portals/pull/64\r\n\r\n## New Contributors\r\n* @marbetschar made their first contribution in https://github.com/elementary/portals/pull/53\r\n\r\n**Full Changelog**: https://github.com/elementary/portals/compare/1.2.0...7.0.0",
-        "href": "https://github.com/elementary/portals/releases/tag/7.0.0"
-      },
-      {
-        "version": "1.2.0",
-        "release_date": "2022-10-27T16:44:00+00:00",
-        "title": "portals 1.2.0 Released",
-        "body": "<p>New Features:</p>\n<ul>\n<li>Support dialog parenting on wayland</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/portals/releases/tag/1.2.0"
-      },
-      {
-        "version": "1.1.0",
-        "release_date": "2022-01-26T18:02:09+00:00",
-        "title": "portals 1.1.0 Released",
-        "body": "<p>New Features:</p>\n<ul>\n<li>Add a destructive action option for access portals</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Fix a crash when opening apps in the AppChooser portal</li>\n<li>Fix window focus and position for Access portals with no parent window</li>\n<li>Set AppChooser portal as a modal dialog for proper animations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/portals/releases/tag/1.1.0"
-      },
-      {
-        "version": "1.0.1",
-        "release_date": "2021-10-28T08:07:25+00:00",
-        "title": "Portals 1.0.1 Released!",
-        "body": "## What's Changed\r\n* Watch for xdg-desktop-portal starting before binding style scheme by @davidmhewitt in https://github.com/elementary/portals/pull/34\r\n\r\n**Full Changelog**: https://github.com/elementary/portals/compare/1.0.0...1.0.1",
-        "href": "https://github.com/elementary/portals/releases/tag/1.0.1"
-      },
-      {
-        "version": "1.0.0",
-        "release_date": "2021-10-25T16:57:13+00:00",
-        "title": "Portals 1.0.0 Released!",
-        "body": "<p>First release!</p>\r\n<ul>\r\n<li>Add OpenURI Portal</li>\r\n</ul>",
-        "href": "https://github.com/elementary/portals/releases/tag/1.0.0"
-      }
-    ],
-    "new_commits": 2,
     "default_branch": "main"
   },
   {
@@ -1183,48 +1239,6 @@
     "default_branch": "master"
   },
   {
-    "name": "dock",
-    "releases": [
-      {
-        "version": "8.1.1",
-        "release_date": "2025-05-17T15:35:23+00:00",
-        "title": "dock 8.1.1 Released",
-        "body": "<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/dock/releases/tag/8.1.1"
-      },
-      {
-        "version": "8.1.0",
-        "release_date": "2025-05-12T17:04:23+00:00",
-        "title": "dock 8.1.0 Released",
-        "body": "<p>Updated translations</p>\r\n<p>Open context menus with long-press</p>\r\n<p>Cycle through windows when hovering over an app with drag-and-drop</p>\r\n<p>Improve memory usage</p>\r\n<p>Fix dock bounds when hide mode is 'Never'</p>\r\n\r\n## What's Changed\r\n* Introduce an AppSystem by @leolost2605 in https://github.com/elementary/dock/pull/336\r\n* Rename LauncherManager into ItemManager by @lenemter in https://github.com/elementary/dock/pull/362\r\n* Introduce WindowSystem by @lenemter in https://github.com/elementary/dock/pull/363\r\n* Move reduce transparency to main window by @lenemter in https://github.com/elementary/dock/pull/372\r\n* Restructure the project by @lenemter in https://github.com/elementary/dock/pull/371\r\n* Cycle through windows when hovering over launcher with dnd by @lenemter in https://github.com/elementary/dock/pull/374\r\n* Launcher: Fix memory leaks by @leolost2605 in https://github.com/elementary/dock/pull/376\r\n* Introduce BaseItem by @lenemter in https://github.com/elementary/dock/pull/373\r\n* Fix warnings by @lenemter in https://github.com/elementary/dock/pull/378\r\n* Workspace switcher by @lenemter in https://github.com/elementary/dock/pull/361\r\n* Open MultitaskingView when clicking active workspace by @leolost2605 in https://github.com/elementary/dock/pull/384\r\n* GSchema: remove multitasking from defaults by @danirabbit in https://github.com/elementary/dock/pull/386\r\n* DynamicWorkspaceItem: open multitasking if clicked again by @danirabbit in https://github.com/elementary/dock/pull/385\r\n* WorkspaceSystem: sort windows by time they appeared on the workspace by @lenemter in https://github.com/elementary/dock/pull/388\r\n* Implement workspace reordering with drag and drop by @leolost2605 in https://github.com/elementary/dock/pull/392\r\n* Support long press on launchers by @leolost2605 in https://github.com/elementary/dock/pull/398\r\n* Remove dependency on libgee by @tintou in https://github.com/elementary/dock/pull/401\r\n* Fix crash and visual bugs with animations disabled by @lenemter in https://github.com/elementary/dock/pull/405\r\n* Make workspace switcher optional by @danirabbit in https://github.com/elementary/dock/pull/407\r\n* Revert \"GSchema: remove multitasking from defaults\" by @danirabbit in https://github.com/elementary/dock/pull/408\r\n* Fix dock bounds when hide mode is 'Never' by @lenemter in https://github.com/elementary/dock/pull/411\r\n* Fix meson options by @lenemter in https://github.com/elementary/dock/pull/413\r\n* Show multiple dots for apps with multiple windows by @lenemter in https://github.com/elementary/dock/pull/412\r\n\r\n**Full Changelog**: https://github.com/elementary/dock/compare/8.0.2...8.1.0",
-        "href": "https://github.com/elementary/dock/releases/tag/8.1.0"
-      },
-      {
-        "version": "8.0.2",
-        "release_date": "2024-12-12T20:05:44+00:00",
-        "title": "dock 8.0.2 Released",
-        "body": "## What's Changed\r\n* App: Respect startup notify key for launching animation by @leolost2605 in https://github.com/elementary/dock/pull/299\r\n* meson: Specify minimum GLib version by @tintou in https://github.com/elementary/dock/pull/306\r\n* Add spacing between icon and running indicator by @lenemter in https://github.com/elementary/dock/pull/329\r\n* Fix icons clipping when bouncing and separate background from window by @lenemter in https://github.com/elementary/dock/pull/328\r\n* MainWindow: respect reduce transparency key by @danirabbit in https://github.com/elementary/dock/pull/333\r\n\r\n## New Contributors\r\n* @lenemter made their first contribution in https://github.com/elementary/dock/pull/329\r\n\r\n**Full Changelog**: https://github.com/elementary/dock/compare/8.0.1...8.0.2",
-        "href": "https://github.com/elementary/dock/releases/tag/8.0.2"
-      },
-      {
-        "version": "8.0.1",
-        "release_date": "2024-10-23T15:49:16+00:00",
-        "title": "dock 8.0.1 Released",
-        "body": "<p>Updated translations</p>\n<p>Fixes a crash when dragging a file that's not a launcher to the dock</p>\n<p>Hide badges, progressbars, and running indicators while dragging a launcher</p>\n",
-        "href": "https://github.com/elementary/dock/releases/tag/8.0.1"
-      },
-      {
-        "version": "8.0.0",
-        "release_date": "2024-08-20T15:02:39+00:00",
-        "title": "dock 8.0.0 Released",
-        "body": "<p>Complete rewrite 🎉️</p>\n",
-        "href": "https://github.com/elementary/dock/releases/tag/8.0.0"
-      }
-    ],
-    "new_commits": 6,
-    "default_branch": "main"
-  },
-  {
     "name": "settings-desktop",
     "releases": [
       {
@@ -1508,7 +1522,7 @@
         "href": "https://github.com/elementary/settings-keyboard/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 172,
+    "new_commits": 173,
     "default_branch": "main"
   },
   {
