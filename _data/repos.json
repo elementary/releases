@@ -1,5 +1,33 @@
 [
   {
+    "name": "bluetooth-daemon",
+    "releases": [
+      {
+        "version": "1.1.0",
+        "release_date": "2025-06-17T23:11:57+00:00",
+        "title": "bluetooth-daemon 1.1.0 Released",
+        "body": "<p>Other Improvements:</p>\r\n<ul>\r\n<li>Updated translations</li>\r\n</ul>\r\n\r\n## What's Changed\r\n* Add .editorconfig by @ryonakano in https://github.com/elementary/bluetooth-daemon/pull/24\r\n* Application: Refactoring by @ryonakano in https://github.com/elementary/bluetooth-daemon/pull/25\r\n* Manager: Fix always checking whether the first adapter is discovering by @ryonakano in https://github.com/elementary/bluetooth-daemon/pull/26\r\n* ObjectManager: Refactoring by @ryonakano in https://github.com/elementary/bluetooth-daemon/pull/27\r\n* DeviceRow: GTK4 prep by @danirabbit in https://github.com/elementary/bluetooth-daemon/pull/31\r\n* Application: move dark style support to startup by @danirabbit in https://github.com/elementary/bluetooth-daemon/pull/34\r\n* SenderDialog: GTK4 prep by @danirabbit in https://github.com/elementary/bluetooth-daemon/pull/32\r\n* Manager: track and set global state by @danirabbit in https://github.com/elementary/bluetooth-daemon/pull/38\r\n* Fix send files by Bluetooth by @jeremypw in https://github.com/elementary/bluetooth-daemon/pull/41\r\n* Metainfo: add 1.1.0 release notes by @danirabbit in https://github.com/elementary/bluetooth-daemon/pull/42\r\n* Release 1.1.0 by @danirabbit in https://github.com/elementary/bluetooth-daemon/pull/43\r\n\r\n## New Contributors\r\n* @jeremypw made their first contribution in https://github.com/elementary/bluetooth-daemon/pull/41\r\n\r\n**Full Changelog**: https://github.com/elementary/bluetooth-daemon/compare/1.0.1...1.1.0",
+        "href": "https://github.com/elementary/bluetooth-daemon/releases/tag/1.1.0"
+      },
+      {
+        "version": "1.0.1",
+        "release_date": "2024-12-13T16:04:37+00:00",
+        "title": "bluetooth-daemon 1.0.1 Released",
+        "body": "<p>Other Improvements:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/bluetooth-daemon/releases/tag/1.0.1"
+      },
+      {
+        "version": "1.0.0",
+        "release_date": "2024-07-24T21:54:56+00:00",
+        "title": "bluetooth-daemon 1.0.0 Released",
+        "body": "<p>Initial Release 🎉️</p>\n",
+        "href": "https://github.com/elementary/bluetooth-daemon/releases/tag/1.0.0"
+      }
+    ],
+    "new_commits": 0,
+    "default_branch": "main"
+  },
+  {
     "name": "files",
     "releases": [
       {
@@ -4127,27 +4155,6 @@
       }
     ],
     "new_commits": 4,
-    "default_branch": "main"
-  },
-  {
-    "name": "bluetooth-daemon",
-    "releases": [
-      {
-        "version": "1.0.1",
-        "release_date": "2024-12-13T16:04:37+00:00",
-        "title": "bluetooth-daemon 1.0.1 Released",
-        "body": "<p>Other Improvements:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/bluetooth-daemon/releases/tag/1.0.1"
-      },
-      {
-        "version": "1.0.0",
-        "release_date": "2024-07-24T21:54:56+00:00",
-        "title": "bluetooth-daemon 1.0.0 Released",
-        "body": "<p>Initial Release 🎉️</p>\n",
-        "href": "https://github.com/elementary/bluetooth-daemon/releases/tag/1.0.0"
-      }
-    ],
-    "new_commits": 41,
     "default_branch": "main"
   },
   {
