@@ -6,7 +6,7 @@
         "version": "8.2.4",
         "release_date": "2025-06-30T19:35:39+00:00",
         "title": "gala 8.2.4 Released",
-        "body": "<p>Improvements:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "body": "<p>Improvements:</p>\r\n<ul>\r\n<li>Updated translations</li>\r\n</ul>\r\n\r\n## What's Changed\r\n* Start the port to Mutter 48 by @tintou in https://github.com/elementary/gala/pull/2231\r\n* Show Wingpanel in fullscreen by @lenemter in https://github.com/elementary/gala/pull/2429\r\n* WindowStateSaver: fix crash by @lenemter in https://github.com/elementary/gala/pull/2443\r\n* StyleManager: fix interaction with automatic accent color by @lenemter in https://github.com/elementary/gala/pull/2441\r\n* DesktopIntegration: Don't resend windows when switching workspace by @lenemter in https://github.com/elementary/gala/pull/2374\r\n* WindowTracker: better search for desktop file by @lenemter in https://github.com/elementary/gala/pull/2382\r\n* Revert \"Remove WindowAttentionTracker\" by @danirabbit in https://github.com/elementary/gala/pull/2448\r\n* Metainfo: add issues to 8.2.4 by @danirabbit in https://github.com/elementary/gala/pull/2456\r\n* Set \"Open in Photos\" as default action by @lenemter in https://github.com/elementary/gala/pull/2440\r\n* Release 8.2.4 by @lenemter in https://github.com/elementary/gala/pull/2442\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/gala/compare/8.2.3...8.2.4",
         "href": "https://github.com/elementary/gala/releases/tag/8.2.4"
       },
       {
