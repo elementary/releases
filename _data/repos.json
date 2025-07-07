@@ -787,7 +787,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 34,
+    "new_commits": 37,
     "default_branch": "master"
   },
   {
@@ -955,7 +955,7 @@
         "href": "https://github.com/elementary/settings-keyboard/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 4,
+    "new_commits": 5,
     "default_branch": "main"
   },
   {
@@ -2677,7 +2677,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 28,
+    "new_commits": 29,
     "default_branch": "main"
   },
   {
@@ -2712,7 +2712,7 @@
         "href": "https://github.com/elementary/quick-settings/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 45,
+    "new_commits": 46,
     "default_branch": "main"
   },
   {
@@ -3076,7 +3076,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.0.4"
       }
     ],
-    "new_commits": 21,
+    "new_commits": 22,
     "default_branch": "master"
   },
   {
@@ -3853,7 +3853,7 @@
         "href": "https://github.com/elementary/terminal/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 29,
+    "new_commits": 30,
     "default_branch": "master"
   },
   {
@@ -6464,7 +6464,7 @@
         "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 33,
+    "new_commits": 34,
     "default_branch": "main"
   },
   {
@@ -7255,7 +7255,7 @@
         "href": "https://github.com/elementary/monitor/releases/tag/0.2.0"
       }
     ],
-    "new_commits": 669,
+    "new_commits": 670,
     "default_branch": "main"
   },
   {
@@ -8284,7 +8284,7 @@
         "href": "https://github.com/elementary/initial-setup/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 58,
+    "new_commits": 59,
     "default_branch": "main"
   },
   {
@@ -9033,7 +9033,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.0"
       }
     ],
-    "new_commits": 7257,
+    "new_commits": 7260,
     "default_branch": "master"
   },
   {
