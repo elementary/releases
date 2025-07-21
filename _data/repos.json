@@ -1,5 +1,117 @@
 [
   {
+    "name": "settings-bluetooth",
+    "releases": [
+      {
+        "version": "8.0.2",
+        "release_date": "2025-07-21T19:20:36+00:00",
+        "title": "Bluetooth Settings 8.0.2",
+        "body": "## What's Changed\r\n* Manager: get settings from Daemon by @danirabbit in https://github.com/elementary/switchboard-plug-bluetooth/pull/236\r\n* PairDialog: make passkey match pincode by @danirabbit in https://github.com/elementary/switchboard-plug-bluetooth/pull/239\r\n* Manager: use GLib.Once by @danirabbit in https://github.com/elementary/switchboard-plug-bluetooth/pull/238\r\n* PairDialog: send ACCEPT when paired by @danirabbit in https://github.com/elementary/switchboard-plug-bluetooth/pull/240\r\n* Metainfo: add fixed issues for 8.0.2 by @danirabbit in https://github.com/elementary/switchboard-plug-bluetooth/pull/244\r\n* DeviceRow: use CSS for small label by @danirabbit in https://github.com/elementary/switchboard-plug-bluetooth/pull/242\r\n* DeviceRow: get adapter internally by @danirabbit in https://github.com/elementary/switchboard-plug-bluetooth/pull/241\r\n* DeviceRow: connect to activate by @danirabbit in https://github.com/elementary/switchboard-plug-bluetooth/pull/243\r\n* MainView: use list model by @danirabbit in https://github.com/elementary/switchboard-plug-bluetooth/pull/245\r\n* MainView: use two lists by @danirabbit in https://github.com/elementary/switchboard-plug-bluetooth/pull/246\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/switchboard-plug-bluetooth/compare/8.0.1...8.0.2",
+        "href": "https://github.com/elementary/settings-bluetooth/releases/tag/8.0.2"
+      },
+      {
+        "version": "8.0.1",
+        "release_date": "2024-10-23T15:48:29+00:00",
+        "title": "switchboard-plug-bluetooth 8.0.1 Released",
+        "body": "<p>Minor updates</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/settings-bluetooth/releases/tag/8.0.1"
+      },
+      {
+        "version": "8.0.0",
+        "release_date": "2024-08-06T15:24:34+00:00",
+        "title": "switchboard-plug-bluetooth 8.0.0 Released",
+        "body": "<p>Minor updates</p>\n<ul>\n<li>Fix missing link to audio settings for some headphones</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/settings-bluetooth/releases/tag/8.0.0"
+      },
+      {
+        "version": "2.3.6",
+        "release_date": "2021-07-14T18:02:07+00:00",
+        "title": "switchboard-plug-bluetooth 2.3.6 Released",
+        "body": "<p>Minor updates</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/settings-bluetooth/releases/tag/2.3.6"
+      },
+      {
+        "version": "2.3.5",
+        "release_date": "2021-03-09T19:40:58+00:00",
+        "title": "switchboard-plug-bluetooth 2.3.5 Released",
+        "body": "Security update\r\n\r\n- Fix a vulnerability that would allow a device to be paired without explicit user authorization ([CVE-2021-21367](https://github.com/elementary/switchboard-plug-bluetooth/security/advisories/GHSA-5p3g-j69g-w2mq))\r\n",
+        "href": "https://github.com/elementary/settings-bluetooth/releases/tag/2.3.5"
+      },
+      {
+        "version": "2.3.4",
+        "release_date": "2021-01-05T22:03:51+00:00",
+        "title": "switchboard-plug-bluetooth 2.3.4 Released",
+        "body": "<p>Minor updates</p>\n<ul>\n<li>Fallback to device type when name is not available</li>\n<li>Show \"Discovering\" indicator in an overlay bar</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/settings-bluetooth/releases/tag/2.3.4"
+      },
+      {
+        "version": "2.3.3",
+        "release_date": "2020-10-08T18:36:10+00:00",
+        "title": "switchboard-plug-bluetooth 2.3.3 Released",
+        "body": "<p>Fixes</p>\n<ul>\n<li>Fix crash on devices without Bluetooth</li>\n</ul>\n<p>Minor updates</p>\n<ul>\n<li>Move \"forget device\" button to each device row</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/settings-bluetooth/releases/tag/2.3.3"
+      },
+      {
+        "version": "2.3.2",
+        "release_date": "2020-05-28T20:11:49+00:00",
+        "title": "switchboard-plug-bluetooth 2.3.2 Released",
+        "body": "<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/settings-bluetooth/releases/tag/2.3.2"
+      },
+      {
+        "version": "2.3.1",
+        "release_date": "2020-02-26T21:19:52+00:00",
+        "title": "switchboard-plug-bluetooth 2.3.1 Released",
+        "body": "switchboard-plug-bluetooth 2.3.1 is out! \n\n<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/settings-bluetooth/releases/tag/2.3.1"
+      },
+      {
+        "version": "2.3.0",
+        "release_date": "2019-10-31T17:38:19+00:00",
+        "title": "switchboard-plug-bluetooth 2.3.0 Released",
+        "body": "switchboard-plug-bluetooth 2.3.0 is out! \n\nChanges:\n\n* Pair with devices that require a password, key code, or confirmation\n* Updated translations\n",
+        "href": "https://github.com/elementary/settings-bluetooth/releases/tag/2.3.0"
+      },
+      {
+        "version": "2.2.2",
+        "release_date": "2019-04-09T02:53:50+00:00",
+        "title": "Switchboard Bluetooth Plug 2.2.2 Released",
+        "body": "switchboard-plug-bluetooth 2.2.2 is out!\r\n\r\nChanges:\r\n* Auto connect to trusted devices more reliably\r\n* Updated translations",
+        "href": "https://github.com/elementary/settings-bluetooth/releases/tag/2.2.2"
+      },
+      {
+        "version": "2.2.1",
+        "release_date": "2019-01-25T06:49:14+00:00",
+        "title": "Switchboard Bluetooth Plug 2.2.1 Released",
+        "body": "switchboard-plug-bluetooth 2.2.1 is out now!\r\n\r\nChanges:\r\n* Update to new wingpanel-indicator-bluetooth schema",
+        "href": "https://github.com/elementary/settings-bluetooth/releases/tag/2.2.1"
+      },
+      {
+        "version": "2.2.0",
+        "release_date": "2019-01-24T13:45:42+00:00",
+        "title": "Switchboard Bluetooth Plug 2.2.0 Released",
+        "body": "switchboard-plug-bluetooth 2.2.0 is out now!\r\n\r\nChanges:\r\n* Improved stability\r\n* More accurate Remove button\r\n* Don't show badges for unpaired devices\r\n* Rewrite discovering label\r\n* Display disabled Bluetooth icon while disabled\r\n* Fix discoverability issues\r\n* Updated translations",
+        "href": "https://github.com/elementary/settings-bluetooth/releases/tag/2.2.0"
+      },
+      {
+        "version": "2.1.2",
+        "release_date": "2018-10-15T21:09:06+00:00",
+        "title": "Switchboard Bluetooth Plug 2.1.2 Released",
+        "body": "switchboard-plug-bluetooth 2.1.2 is out now!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-bluetooth/issues?q=is%3Aclosed+milestone%3A2.1.2).",
+        "href": "https://github.com/elementary/settings-bluetooth/releases/tag/2.1.2"
+      },
+      {
+        "version": "0.1.1",
+        "release_date": "2018-06-08T13:49:01+00:00",
+        "title": "Switchboard Bluetooth Plug 0.1.1 Released",
+        "body": "switchboard-plug-bluetooth 0.1.1 is out now!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-bluetooth/issues?q=is%3Aclosed+milestone%3A0.1.1).",
+        "href": "https://github.com/elementary/settings-bluetooth/releases/tag/0.1.1"
+      }
+    ],
+    "new_commits": 1,
+    "default_branch": "main"
+  },
+  {
     "name": "maps",
     "releases": [
       {
@@ -297,7 +409,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 14,
+    "new_commits": 15,
     "default_branch": "main"
   },
   {
@@ -864,7 +976,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 45,
+    "new_commits": 46,
     "default_branch": "master"
   },
   {
@@ -6437,111 +6549,6 @@
       }
     ],
     "new_commits": 17,
-    "default_branch": "main"
-  },
-  {
-    "name": "switchboard-plug-bluetooth",
-    "releases": [
-      {
-        "version": "8.0.1",
-        "release_date": "2024-10-23T15:48:29+00:00",
-        "title": "switchboard-plug-bluetooth 8.0.1 Released",
-        "body": "<p>Minor updates</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/8.0.1"
-      },
-      {
-        "version": "8.0.0",
-        "release_date": "2024-08-06T15:24:34+00:00",
-        "title": "switchboard-plug-bluetooth 8.0.0 Released",
-        "body": "<p>Minor updates</p>\n<ul>\n<li>Fix missing link to audio settings for some headphones</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/8.0.0"
-      },
-      {
-        "version": "2.3.6",
-        "release_date": "2021-07-14T18:02:07+00:00",
-        "title": "switchboard-plug-bluetooth 2.3.6 Released",
-        "body": "<p>Minor updates</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/2.3.6"
-      },
-      {
-        "version": "2.3.5",
-        "release_date": "2021-03-09T19:40:58+00:00",
-        "title": "switchboard-plug-bluetooth 2.3.5 Released",
-        "body": "Security update\r\n\r\n- Fix a vulnerability that would allow a device to be paired without explicit user authorization ([CVE-2021-21367](https://github.com/elementary/switchboard-plug-bluetooth/security/advisories/GHSA-5p3g-j69g-w2mq))\r\n",
-        "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/2.3.5"
-      },
-      {
-        "version": "2.3.4",
-        "release_date": "2021-01-05T22:03:51+00:00",
-        "title": "switchboard-plug-bluetooth 2.3.4 Released",
-        "body": "<p>Minor updates</p>\n<ul>\n<li>Fallback to device type when name is not available</li>\n<li>Show \"Discovering\" indicator in an overlay bar</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/2.3.4"
-      },
-      {
-        "version": "2.3.3",
-        "release_date": "2020-10-08T18:36:10+00:00",
-        "title": "switchboard-plug-bluetooth 2.3.3 Released",
-        "body": "<p>Fixes</p>\n<ul>\n<li>Fix crash on devices without Bluetooth</li>\n</ul>\n<p>Minor updates</p>\n<ul>\n<li>Move \"forget device\" button to each device row</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/2.3.3"
-      },
-      {
-        "version": "2.3.2",
-        "release_date": "2020-05-28T20:11:49+00:00",
-        "title": "switchboard-plug-bluetooth 2.3.2 Released",
-        "body": "<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/2.3.2"
-      },
-      {
-        "version": "2.3.1",
-        "release_date": "2020-02-26T21:19:52+00:00",
-        "title": "switchboard-plug-bluetooth 2.3.1 Released",
-        "body": "switchboard-plug-bluetooth 2.3.1 is out! \n\n<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/2.3.1"
-      },
-      {
-        "version": "2.3.0",
-        "release_date": "2019-10-31T17:38:19+00:00",
-        "title": "switchboard-plug-bluetooth 2.3.0 Released",
-        "body": "switchboard-plug-bluetooth 2.3.0 is out! \n\nChanges:\n\n* Pair with devices that require a password, key code, or confirmation\n* Updated translations\n",
-        "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/2.3.0"
-      },
-      {
-        "version": "2.2.2",
-        "release_date": "2019-04-09T02:53:50+00:00",
-        "title": "Switchboard Bluetooth Plug 2.2.2 Released",
-        "body": "switchboard-plug-bluetooth 2.2.2 is out!\r\n\r\nChanges:\r\n* Auto connect to trusted devices more reliably\r\n* Updated translations",
-        "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/2.2.2"
-      },
-      {
-        "version": "2.2.1",
-        "release_date": "2019-01-25T06:49:14+00:00",
-        "title": "Switchboard Bluetooth Plug 2.2.1 Released",
-        "body": "switchboard-plug-bluetooth 2.2.1 is out now!\r\n\r\nChanges:\r\n* Update to new wingpanel-indicator-bluetooth schema",
-        "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/2.2.1"
-      },
-      {
-        "version": "2.2.0",
-        "release_date": "2019-01-24T13:45:42+00:00",
-        "title": "Switchboard Bluetooth Plug 2.2.0 Released",
-        "body": "switchboard-plug-bluetooth 2.2.0 is out now!\r\n\r\nChanges:\r\n* Improved stability\r\n* More accurate Remove button\r\n* Don't show badges for unpaired devices\r\n* Rewrite discovering label\r\n* Display disabled Bluetooth icon while disabled\r\n* Fix discoverability issues\r\n* Updated translations",
-        "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/2.2.0"
-      },
-      {
-        "version": "2.1.2",
-        "release_date": "2018-10-15T21:09:06+00:00",
-        "title": "Switchboard Bluetooth Plug 2.1.2 Released",
-        "body": "switchboard-plug-bluetooth 2.1.2 is out now!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-bluetooth/issues?q=is%3Aclosed+milestone%3A2.1.2).",
-        "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/2.1.2"
-      },
-      {
-        "version": "0.1.1",
-        "release_date": "2018-06-08T13:49:01+00:00",
-        "title": "Switchboard Bluetooth Plug 0.1.1 Released",
-        "body": "switchboard-plug-bluetooth 0.1.1 is out now!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-bluetooth/issues?q=is%3Aclosed+milestone%3A0.1.1).",
-        "href": "https://github.com/elementary/switchboard-plug-bluetooth/releases/tag/0.1.1"
-      }
-    ],
-    "new_commits": 34,
     "default_branch": "main"
   },
   {
