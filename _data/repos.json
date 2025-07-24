@@ -6762,62 +6762,6 @@
     "default_branch": "main"
   },
   {
-    "name": "session-settings",
-    "releases": [
-      {
-        "version": "8.0.1",
-        "release_date": "2024-09-30T23:52:43+00:00",
-        "title": "8.0.1 Released",
-        "body": "## What's Changed\r\n* Correct po dir by @ryonakano in https://github.com/elementary/session-settings/pull/85\r\n* Rename X11 session to \"Classic Session\" by @danirabbit in https://github.com/elementary/session-settings/pull/86\r\n\r\n## New Contributors\r\n* @ryonakano made their first contribution in https://github.com/elementary/session-settings/pull/85\r\n\r\n**Full Changelog**: https://github.com/elementary/session-settings/compare/8.0.0...8.0.1",
-        "href": "https://github.com/elementary/session-settings/releases/tag/8.0.1"
-      },
-      {
-        "version": "8.0.0",
-        "release_date": "2024-08-12T18:29:18+00:00",
-        "title": "Session Settings 8.0.0 Release!",
-        "body": "## What's Changed\r\n* CI: remove Nix by @bobby285271 in https://github.com/elementary/session-settings/pull/61\r\n* Add systemd support by @davidmhewitt in https://github.com/elementary/session-settings/pull/55\r\n* build: add systemduserunitdir option by @bobby285271 in https://github.com/elementary/session-settings/pull/62\r\n* systemd: also pull in GSD targets by @bobby285271 in https://github.com/elementary/session-settings/pull/63\r\n* Switch to GHCR containers by @davidmhewitt in https://github.com/elementary/session-settings/pull/65\r\n* Add optional Wayland session by @danirabbit in https://github.com/elementary/session-settings/pull/66\r\n* Reflect new systemd target name by @tintou in https://github.com/elementary/session-settings/pull/67\r\n* Remove gala-daemon by @leolost2605 in https://github.com/elementary/session-settings/pull/71\r\n* Require gnome-settings-daemon 3.36.0 and deduplicate gsd_components by @bobby285271 in https://github.com/elementary/session-settings/pull/72\r\n* Use systemd managed gnome-session by @bobby285271 in https://github.com/elementary/session-settings/pull/73\r\n* systemd: Install session.conf also to gnome-session@pantheon-wayland.target.d by @leolost2605 in https://github.com/elementary/session-settings/pull/75\r\n* Rename sessions by @danirabbit in https://github.com/elementary/session-settings/pull/77\r\n* Add localization by @danirabbit in https://github.com/elementary/session-settings/pull/79\r\n\r\n## New Contributors\r\n* @bobby285271 made their first contribution in https://github.com/elementary/session-settings/pull/61\r\n* @tintou made their first contribution in https://github.com/elementary/session-settings/pull/67\r\n* @leolost2605 made their first contribution in https://github.com/elementary/session-settings/pull/71\r\n\r\n**Full Changelog**: https://github.com/elementary/session-settings/compare/6.0.0...8.0.0",
-        "href": "https://github.com/elementary/session-settings/releases/tag/8.0.0"
-      },
-      {
-        "version": "6.0.0",
-        "release_date": "2021-02-19T20:24:49+00:00",
-        "title": "Session Settings 6.0.0 Released",
-        "body": "A fairly hefty rewrite that should make things more portable to other distros!",
-        "href": "https://github.com/elementary/session-settings/releases/tag/6.0.0"
-      },
-      {
-        "version": "5.0.3",
-        "release_date": "2018-09-14T17:26:37+00:00",
-        "title": "Session Settings 5.0.3 Released",
-        "body": "`pantheon-xsession-settings` 5.0.3 is out!\r\n\r\nThis release launches `gala-daemon` as part of the Pantheon session.",
-        "href": "https://github.com/elementary/session-settings/releases/tag/5.0.3"
-      },
-      {
-        "version": "5.0.2",
-        "release_date": "2018-07-27T04:07:14+00:00",
-        "title": "Session Settings 5.0.2 Released",
-        "body": "`pantheon-xsession-settings` 5.0.2 is out!\r\n\r\nThis release includes updated mimetype associations and removes the Cerbere autostart entry now shipped by Cerbere 0.2.4 instead.",
-        "href": "https://github.com/elementary/session-settings/releases/tag/5.0.2"
-      },
-      {
-        "version": "5.0.1",
-        "release_date": "2018-05-30T22:14:56+00:00",
-        "title": "Session Settings 5.0.1 Released",
-        "body": "`pantheon-xsession-setting` 5.0.1 is out!\r\n\r\nThis release adapts the Cerbere symlink to changes found in Cerbere 0.2.3.",
-        "href": "https://github.com/elementary/session-settings/releases/tag/5.0.1"
-      },
-      {
-        "version": "5.0",
-        "release_date": "2018-05-23T13:13:58+00:00",
-        "title": "Session Settings 5.0 Released",
-        "body": "`pantheon-xsession-settings` 5.0 is out!",
-        "href": "https://github.com/elementary/session-settings/releases/tag/5.0"
-      }
-    ],
-    "new_commits": 8,
-    "default_branch": "main"
-  },
-  {
     "name": "photos",
     "releases": [
       {
