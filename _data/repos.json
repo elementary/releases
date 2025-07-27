@@ -409,7 +409,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 26,
+    "new_commits": 27,
     "default_branch": "main"
   },
   {
@@ -6947,7 +6947,7 @@
         "href": "https://github.com/elementary/photos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 54,
+    "new_commits": 59,
     "default_branch": "master"
   },
   {
@@ -8221,7 +8221,7 @@
         "href": "https://github.com/elementary/tasks/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 39,
+    "new_commits": 40,
     "default_branch": "main"
   },
   {
@@ -8837,7 +8837,7 @@
         "href": "https://github.com/elementary/mail/releases/tag/1.0.6"
       }
     ],
-    "new_commits": 66,
+    "new_commits": 67,
     "default_branch": "master"
   },
   {
