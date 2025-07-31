@@ -129,7 +129,7 @@
         "href": "https://github.com/elementary/switchboard/releases/tag/2.3.0"
       }
     ],
-    "new_commits": 0,
+    "new_commits": 1,
     "default_branch": "main"
   },
   {
@@ -304,7 +304,7 @@
         "href": "https://github.com/elementary/settings-bluetooth/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 3,
+    "new_commits": 5,
     "default_branch": "main"
   },
   {
@@ -374,7 +374,7 @@
         "href": "https://github.com/elementary/maps/releases/tag/0.1.0"
       }
     ],
-    "new_commits": 68,
+    "new_commits": 70,
     "default_branch": "main"
   },
   {
@@ -7598,7 +7598,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 79,
+    "new_commits": 81,
     "default_branch": "master"
   },
   {
