@@ -143,7 +143,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 1,
+    "new_commits": 2,
     "default_branch": "master"
   },
   {
@@ -1767,7 +1767,7 @@
         "href": "https://github.com/elementary/settings-onlineaccounts/releases/tag/2.0"
       }
     ],
-    "new_commits": 5,
+    "new_commits": 6,
     "default_branch": "main"
   },
   {
@@ -2719,7 +2719,7 @@
         "href": "https://github.com/elementary/switchboard-plug-wacom/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 3,
+    "new_commits": 4,
     "default_branch": "main"
   },
   {
@@ -3069,7 +3069,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 43,
+    "new_commits": 45,
     "default_branch": "main"
   },
   {
@@ -3104,7 +3104,7 @@
         "href": "https://github.com/elementary/quick-settings/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 54,
+    "new_commits": 55,
     "default_branch": "main"
   },
   {
@@ -8501,7 +8501,7 @@
         "href": "https://github.com/elementary/music/releases/tag/0.4.0.3"
       }
     ],
-    "new_commits": 109,
+    "new_commits": 111,
     "default_branch": "main"
   },
   {
