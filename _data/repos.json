@@ -2117,7 +2117,7 @@
         "href": "https://github.com/elementary/settings-desktop/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
       }
     ],
-    "new_commits": 2,
+    "new_commits": 4,
     "default_branch": "main"
   },
   {
@@ -6415,7 +6415,7 @@
         "href": "https://github.com/elementary/switchboard-plug-sound/releases/tag/0.1"
       }
     ],
-    "new_commits": 10,
+    "new_commits": 12,
     "default_branch": "main"
   },
   {
