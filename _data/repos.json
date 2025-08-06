@@ -1396,7 +1396,7 @@
         "href": "https://github.com/elementary/dock/releases/tag/8.0.0"
       }
     ],
-    "new_commits": 16,
+    "new_commits": 19,
     "default_branch": "main"
   },
   {
@@ -1648,7 +1648,7 @@
         "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.0"
       }
     ],
-    "new_commits": 10,
+    "new_commits": 11,
     "default_branch": "main"
   },
   {
@@ -5932,7 +5932,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 164,
+    "new_commits": 165,
     "default_branch": "main"
   },
   {
@@ -7360,7 +7360,7 @@
         "href": "https://github.com/elementary/monitor/releases/tag/0.2.0"
       }
     ],
-    "new_commits": 717,
+    "new_commits": 719,
     "default_branch": "main"
   },
   {
