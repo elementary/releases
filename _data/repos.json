@@ -1410,7 +1410,7 @@
         "href": "https://github.com/elementary/bluetooth-daemon/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 7,
+    "new_commits": 9,
     "default_branch": "main"
   },
   {
@@ -1683,7 +1683,7 @@
         "href": "https://github.com/elementary/settings-daemon/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 5,
+    "new_commits": 6,
     "default_branch": "main"
   },
   {
@@ -1760,7 +1760,7 @@
         "href": "https://github.com/elementary/flatpak-platform/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 2,
+    "new_commits": 3,
     "default_branch": "main"
   },
   {
@@ -2103,7 +2103,7 @@
         "href": "https://github.com/elementary/settings-display/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 7,
+    "new_commits": 8,
     "default_branch": "main"
   },
   {
@@ -2922,7 +2922,7 @@
         "href": "https://github.com/elementary/switchboard-plug-wacom/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 5,
+    "new_commits": 6,
     "default_branch": "main"
   },
   {
@@ -5232,7 +5232,7 @@
         "href": "https://github.com/elementary/switchboard-plug-power/releases/tag/0.3.1"
       }
     ],
-    "new_commits": 8,
+    "new_commits": 9,
     "default_branch": "main"
   },
   {
@@ -5750,7 +5750,7 @@
         "href": "https://github.com/elementary/switchboard-plug-parental-controls/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 11,
+    "new_commits": 12,
     "default_branch": "main"
   },
   {
@@ -8508,7 +8508,7 @@
         "href": "https://github.com/elementary/music/releases/tag/0.4.0.3"
       }
     ],
-    "new_commits": 118,
+    "new_commits": 119,
     "default_branch": "main"
   },
   {
