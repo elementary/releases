@@ -1410,7 +1410,7 @@
         "href": "https://github.com/elementary/bluetooth-daemon/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 9,
+    "new_commits": 10,
     "default_branch": "main"
   },
   {
@@ -3671,7 +3671,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.0.4"
       }
     ],
-    "new_commits": 28,
+    "new_commits": 29,
     "default_branch": "master"
   },
   {
@@ -9047,7 +9047,7 @@
         "href": "https://github.com/elementary/contractor/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 3,
+    "new_commits": 4,
     "default_branch": "master"
   },
   {
