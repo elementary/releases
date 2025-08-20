@@ -245,6 +245,139 @@
     "default_branch": "main"
   },
   {
+    "name": "camera",
+    "releases": [
+      {
+        "version": "8.0.2",
+        "release_date": "2025-08-19T20:30:33+00:00",
+        "title": "camera 8.0.2 Released",
+        "body": "## What's Changed\r\n* Actions: bump flatpak to 6.4 by @danirabbit in https://github.com/elementary/camera/pull/285\r\n* fix: pin cargo-c version by @davidmhewitt in https://github.com/elementary/camera/pull/286\r\n* CI: run arm workflows on arm runner by @davidmhewitt in https://github.com/elementary/camera/pull/287\r\n* Bump flatpak/flatpak-github-actions from 6.4 to 6.5 by @dependabot[bot] in https://github.com/elementary/camera/pull/289\r\n* Flatpak: Fix warning about redirect by @ryonakano in https://github.com/elementary/camera/pull/290\r\n* MainWindow: mark primary menubutton by @danirabbit in https://github.com/elementary/camera/pull/291\r\n* Resource: add view-* icons by @danirabbit in https://github.com/elementary/camera/pull/292\r\n* Actions: Use main branch by @ryonakano in https://github.com/elementary/camera/pull/294\r\n* Bump platform to 8.2 by @danirabbit in https://github.com/elementary/camera/pull/288\r\n* Metainfo: add 8.0.2 release notes by @danirabbit in https://github.com/elementary/camera/pull/295\r\n* Bump actions/checkout from 4 to 5 by @dependabot[bot] in https://github.com/elementary/camera/pull/298\r\n* Release 8.0.2 by @danirabbit in https://github.com/elementary/camera/pull/296\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/camera/compare/8.0.1...8.0.2",
+        "href": "https://github.com/elementary/camera/releases/tag/8.0.2"
+      },
+      {
+        "version": "8.0.1",
+        "release_date": "2024-11-21T16:05:16+00:00",
+        "title": "camera 8.0.1 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/camera/releases/tag/8.0.1"
+      },
+      {
+        "version": "8.0.0",
+        "release_date": "2024-07-31T17:51:52+00:00",
+        "title": "camera 8.0.0 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Update to elementary runtime 8</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/camera/releases/tag/8.0.0"
+      },
+      {
+        "version": "6.2.2",
+        "release_date": "2023-05-31T15:34:45+00:00",
+        "title": "Camera 6.2.2 Released!",
+        "body": "## What's Changed\r\n* actions/checkout@v3 by @meisenzahl in https://github.com/elementary/camera/pull/252\r\n* Replace Gtk.Menu with GLib.Menu by @treppenwitz03 in https://github.com/elementary/camera/pull/250\r\n* Bump bilelmoussaoui/flatpak-github-actions from 4 to 5 by @dependabot in https://github.com/elementary/camera/pull/256\r\n* Bump docker/setup-qemu-action from 1 to 2 by @dependabot in https://github.com/elementary/camera/pull/257\r\n* Update flatpak actions to new namespace by @davidmhewitt in https://github.com/elementary/camera/pull/258\r\n* Application: modernize by @Marukesu in https://github.com/elementary/camera/pull/251\r\n* Bump runtime to 7.2 by @danirabbit in https://github.com/elementary/camera/pull/259\r\n* Bump flatpak/flatpak-github-actions from 5 to 6 by @dependabot in https://github.com/elementary/camera/pull/260\r\n* Metainfo improvements by @danirabbit in https://github.com/elementary/camera/pull/263\r\n* Release 6.2.2 by @danirabbit in https://github.com/elementary/camera/pull/262\r\n\r\n## New Contributors\r\n* @dependabot made their first contribution in https://github.com/elementary/camera/pull/256\r\n\r\n**Full Changelog**: https://github.com/elementary/camera/compare/6.2.1...6.2.2",
+        "href": "https://github.com/elementary/camera/releases/tag/6.2.2"
+      },
+      {
+        "version": "6.2.1",
+        "release_date": "2022-12-06T01:42:11+00:00",
+        "title": "camera 6.2.1 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/camera/releases/tag/6.2.1"
+      },
+      {
+        "version": "6.2.0",
+        "release_date": "2022-07-02T19:32:11+00:00",
+        "title": "camera 6.2.0 Released",
+        "body": "<p>New features:</p>\n<ul>\n<li>Support MJPEG cameras</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Show error in case no camera device is available</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/camera/releases/tag/6.2.0"
+      },
+      {
+        "version": "6.1.0",
+        "release_date": "2022-06-03T17:32:32+00:00",
+        "title": "camera 6.1.0 Released",
+        "body": "<p>New features:</p>\n<ul>\n<li>Take a photo or video on secondary-click</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Ensure brightness, contrast, and mirror continue working after taking a photo</li>\n<li>Wider hardware compatibility (e.g. StarBook Mk V)</li>\n<li>Ensure photos saved properly</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Improved performance and reliability</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/camera/releases/tag/6.1.0"
+      },
+      {
+        "version": "6.0.3",
+        "release_date": "2021-12-13T22:23:22+00:00",
+        "title": "camera 6.0.3 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Update to elementary runtime 6.1</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/camera/releases/tag/6.0.3"
+      },
+      {
+        "version": "6.0.2",
+        "release_date": "2021-11-23T21:04:30+00:00",
+        "title": "camera 6.0.2 Released",
+        "body": "<p>Fixes:</p>\n<ul>\n<li>Resolve issues with cameras being unavailable when multiple cameras are connected</li>\n<li>Default to a working camera if multiple cameras are connected and one is unavailable</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/camera/releases/tag/6.0.2"
+      },
+      {
+        "version": "6.0.1",
+        "release_date": "2021-10-26T20:39:33+00:00",
+        "title": "Camera 6.0.1 Released",
+        "body": "<p>Improvements:</p>\r\n<ul>\r\n<li>Take full-resolution pictures</li>\r\n</ul>\r\n<p>Fixes:</p>\r\n<ul>\r\n<li>Fix restoring window size</li>\r\n</ul>\r\n<p>Minor updates:</p>\r\n<ul>\r\n<li>Updated translations</li>\r\n</ul>",
+        "href": "https://github.com/elementary/camera/releases/tag/6.0.1"
+      },
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-21T20:19:02+00:00",
+        "title": "camera 6.0.0 Released",
+        "body": "<ul>\n<li>Switch between multiple cameras</li>\n<li>Send a notification when recording is finished</li>\n<li>Add option to mirror the camera</li>\n<li>Add brightness and contrast adjustment</li>\n<li>Support the dark style</li>\n<li>Prevent multiple countdown timers from running at the same time</li>\n<li>Improved support for camera hardware</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/camera/releases/tag/6.0.0"
+      },
+      {
+        "version": "1.0.6",
+        "release_date": "2020-04-01T23:34:23+00:00",
+        "title": "camera 1.0.6 Released",
+        "body": "camera 1.0.6 is out! \n\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/camera/releases/tag/1.0.6"
+      },
+      {
+        "version": "1.0.5",
+        "release_date": "2019-09-24T15:10:38+00:00",
+        "title": "Camera 1.0.5 Released",
+        "body": "Camera 1.0.5 is out!\r\n\r\nChanges:\r\n* Handle null camera device name for improved hardware compatibility\r\n* Restrict camera view resolution to 640x480, same as Cheese, for improved hardware compatibility\r\n* Refactor start timeout and timerbutton sensitivity\r\n* Remember window state\r\n* Updated translations",
+        "href": "https://github.com/elementary/camera/releases/tag/1.0.5"
+      },
+      {
+        "version": "1.0.4",
+        "release_date": "2019-03-27T08:15:50+00:00",
+        "title": "Camera 1.0.4 Released",
+        "body": "Camera 1.0.4 is out!\r\n\r\nChanges:\r\n* Updated translations",
+        "href": "https://github.com/elementary/camera/releases/tag/1.0.4"
+      },
+      {
+        "version": "1.0.3",
+        "release_date": "2019-01-24T06:52:57+00:00",
+        "title": "Camera 1.0.3 Released",
+        "body": "Camera 1.0.3 is out!\r\n\r\nChanges:\r\n* Catalan: fixed camera icon name\r\n* Updated translations",
+        "href": "https://github.com/elementary/camera/releases/tag/1.0.3"
+      },
+      {
+        "version": "1.0.2",
+        "release_date": "2018-10-15T20:58:36+00:00",
+        "title": "Camera 1.0.2 Released",
+        "body": "Camera 1.0.2 is out!\r\n\r\nThis release includes updated translations.",
+        "href": "https://github.com/elementary/camera/releases/tag/1.0.2"
+      },
+      {
+        "version": "1.0.1",
+        "release_date": "2018-07-20T18:22:34+00:00",
+        "title": "Camera 1.0.1 Released",
+        "body": "Camera 1.0.1 is out!\r\n\r\nThis release includes enhanced translations.",
+        "href": "https://github.com/elementary/camera/releases/tag/1.0.1"
+      },
+      {
+        "version": "1.0",
+        "release_date": "2018-06-06T11:56:31+00:00",
+        "title": "Camera 1.0 Released",
+        "body": "Camera 1.0 is out!\r\n\r\nThis list of issues closed by this release can be found [here](https://github.com/elementary/camera/issues?q=is%3Aclosed+milestone%3A1.0).",
+        "href": "https://github.com/elementary/camera/releases/tag/1.0"
+      }
+    ],
+    "new_commits": 0,
+    "default_branch": "main"
+  },
+  {
     "name": "capnet-assist",
     "releases": [
       {
@@ -5824,132 +5957,6 @@
     "default_branch": "main"
   },
   {
-    "name": "camera",
-    "releases": [
-      {
-        "version": "8.0.1",
-        "release_date": "2024-11-21T16:05:16+00:00",
-        "title": "camera 8.0.1 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/camera/releases/tag/8.0.1"
-      },
-      {
-        "version": "8.0.0",
-        "release_date": "2024-07-31T17:51:52+00:00",
-        "title": "camera 8.0.0 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Update to elementary runtime 8</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/camera/releases/tag/8.0.0"
-      },
-      {
-        "version": "6.2.2",
-        "release_date": "2023-05-31T15:34:45+00:00",
-        "title": "Camera 6.2.2 Released!",
-        "body": "## What's Changed\r\n* actions/checkout@v3 by @meisenzahl in https://github.com/elementary/camera/pull/252\r\n* Replace Gtk.Menu with GLib.Menu by @treppenwitz03 in https://github.com/elementary/camera/pull/250\r\n* Bump bilelmoussaoui/flatpak-github-actions from 4 to 5 by @dependabot in https://github.com/elementary/camera/pull/256\r\n* Bump docker/setup-qemu-action from 1 to 2 by @dependabot in https://github.com/elementary/camera/pull/257\r\n* Update flatpak actions to new namespace by @davidmhewitt in https://github.com/elementary/camera/pull/258\r\n* Application: modernize by @Marukesu in https://github.com/elementary/camera/pull/251\r\n* Bump runtime to 7.2 by @danirabbit in https://github.com/elementary/camera/pull/259\r\n* Bump flatpak/flatpak-github-actions from 5 to 6 by @dependabot in https://github.com/elementary/camera/pull/260\r\n* Metainfo improvements by @danirabbit in https://github.com/elementary/camera/pull/263\r\n* Release 6.2.2 by @danirabbit in https://github.com/elementary/camera/pull/262\r\n\r\n## New Contributors\r\n* @dependabot made their first contribution in https://github.com/elementary/camera/pull/256\r\n\r\n**Full Changelog**: https://github.com/elementary/camera/compare/6.2.1...6.2.2",
-        "href": "https://github.com/elementary/camera/releases/tag/6.2.2"
-      },
-      {
-        "version": "6.2.1",
-        "release_date": "2022-12-06T01:42:11+00:00",
-        "title": "camera 6.2.1 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/camera/releases/tag/6.2.1"
-      },
-      {
-        "version": "6.2.0",
-        "release_date": "2022-07-02T19:32:11+00:00",
-        "title": "camera 6.2.0 Released",
-        "body": "<p>New features:</p>\n<ul>\n<li>Support MJPEG cameras</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Show error in case no camera device is available</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/camera/releases/tag/6.2.0"
-      },
-      {
-        "version": "6.1.0",
-        "release_date": "2022-06-03T17:32:32+00:00",
-        "title": "camera 6.1.0 Released",
-        "body": "<p>New features:</p>\n<ul>\n<li>Take a photo or video on secondary-click</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Ensure brightness, contrast, and mirror continue working after taking a photo</li>\n<li>Wider hardware compatibility (e.g. StarBook Mk V)</li>\n<li>Ensure photos saved properly</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Improved performance and reliability</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/camera/releases/tag/6.1.0"
-      },
-      {
-        "version": "6.0.3",
-        "release_date": "2021-12-13T22:23:22+00:00",
-        "title": "camera 6.0.3 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Update to elementary runtime 6.1</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/camera/releases/tag/6.0.3"
-      },
-      {
-        "version": "6.0.2",
-        "release_date": "2021-11-23T21:04:30+00:00",
-        "title": "camera 6.0.2 Released",
-        "body": "<p>Fixes:</p>\n<ul>\n<li>Resolve issues with cameras being unavailable when multiple cameras are connected</li>\n<li>Default to a working camera if multiple cameras are connected and one is unavailable</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/camera/releases/tag/6.0.2"
-      },
-      {
-        "version": "6.0.1",
-        "release_date": "2021-10-26T20:39:33+00:00",
-        "title": "Camera 6.0.1 Released",
-        "body": "<p>Improvements:</p>\r\n<ul>\r\n<li>Take full-resolution pictures</li>\r\n</ul>\r\n<p>Fixes:</p>\r\n<ul>\r\n<li>Fix restoring window size</li>\r\n</ul>\r\n<p>Minor updates:</p>\r\n<ul>\r\n<li>Updated translations</li>\r\n</ul>",
-        "href": "https://github.com/elementary/camera/releases/tag/6.0.1"
-      },
-      {
-        "version": "6.0.0",
-        "release_date": "2021-07-21T20:19:02+00:00",
-        "title": "camera 6.0.0 Released",
-        "body": "<ul>\n<li>Switch between multiple cameras</li>\n<li>Send a notification when recording is finished</li>\n<li>Add option to mirror the camera</li>\n<li>Add brightness and contrast adjustment</li>\n<li>Support the dark style</li>\n<li>Prevent multiple countdown timers from running at the same time</li>\n<li>Improved support for camera hardware</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/camera/releases/tag/6.0.0"
-      },
-      {
-        "version": "1.0.6",
-        "release_date": "2020-04-01T23:34:23+00:00",
-        "title": "camera 1.0.6 Released",
-        "body": "camera 1.0.6 is out! \n\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/camera/releases/tag/1.0.6"
-      },
-      {
-        "version": "1.0.5",
-        "release_date": "2019-09-24T15:10:38+00:00",
-        "title": "Camera 1.0.5 Released",
-        "body": "Camera 1.0.5 is out!\r\n\r\nChanges:\r\n* Handle null camera device name for improved hardware compatibility\r\n* Restrict camera view resolution to 640x480, same as Cheese, for improved hardware compatibility\r\n* Refactor start timeout and timerbutton sensitivity\r\n* Remember window state\r\n* Updated translations",
-        "href": "https://github.com/elementary/camera/releases/tag/1.0.5"
-      },
-      {
-        "version": "1.0.4",
-        "release_date": "2019-03-27T08:15:50+00:00",
-        "title": "Camera 1.0.4 Released",
-        "body": "Camera 1.0.4 is out!\r\n\r\nChanges:\r\n* Updated translations",
-        "href": "https://github.com/elementary/camera/releases/tag/1.0.4"
-      },
-      {
-        "version": "1.0.3",
-        "release_date": "2019-01-24T06:52:57+00:00",
-        "title": "Camera 1.0.3 Released",
-        "body": "Camera 1.0.3 is out!\r\n\r\nChanges:\r\n* Catalan: fixed camera icon name\r\n* Updated translations",
-        "href": "https://github.com/elementary/camera/releases/tag/1.0.3"
-      },
-      {
-        "version": "1.0.2",
-        "release_date": "2018-10-15T20:58:36+00:00",
-        "title": "Camera 1.0.2 Released",
-        "body": "Camera 1.0.2 is out!\r\n\r\nThis release includes updated translations.",
-        "href": "https://github.com/elementary/camera/releases/tag/1.0.2"
-      },
-      {
-        "version": "1.0.1",
-        "release_date": "2018-07-20T18:22:34+00:00",
-        "title": "Camera 1.0.1 Released",
-        "body": "Camera 1.0.1 is out!\r\n\r\nThis release includes enhanced translations.",
-        "href": "https://github.com/elementary/camera/releases/tag/1.0.1"
-      },
-      {
-        "version": "1.0",
-        "release_date": "2018-06-06T11:56:31+00:00",
-        "title": "Camera 1.0 Released",
-        "body": "Camera 1.0 is out!\r\n\r\nThis list of issues closed by this release can be found [here](https://github.com/elementary/camera/issues?q=is%3Aclosed+milestone%3A1.0).",
-        "href": "https://github.com/elementary/camera/releases/tag/1.0"
-      }
-    ],
-    "new_commits": 52,
-    "default_branch": "main"
-  },
-  {
     "name": "switchboard-plug-parental-controls",
     "releases": [
       {
@@ -9110,7 +9117,7 @@
         "href": "https://github.com/elementary/actions/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 32,
+    "new_commits": 33,
     "default_branch": "main"
   },
   {
