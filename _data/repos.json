@@ -1,5 +1,215 @@
 [
   {
+    "name": "terminal",
+    "releases": [
+      {
+        "version": "7.1.1",
+        "release_date": "2025-08-22T14:48:23+00:00",
+        "title": "terminal 7.1.1 Released",
+        "body": "<p>Other updates:</p>\n<ul>\n<li>Translation updates</li>\n</ul>\n",
+        "href": "https://github.com/elementary/terminal/releases/tag/7.1.1"
+      },
+      {
+        "version": "7.1.0",
+        "release_date": "2025-08-07T18:02:16+00:00",
+        "title": "Terminal 7.1.0",
+        "body": "## What's Changed\r\n* Utils: add a warning about commands that skip confirmation by @danirabbit in https://github.com/elementary/terminal/pull/864\r\n* Return and show all paste warnings by @jeremypw in https://github.com/elementary/terminal/pull/866\r\n* UnsafePaste: add -f and --force by @danirabbit in https://github.com/elementary/terminal/pull/868\r\n* Center the title, set min searchentry width by @jeremypw in https://github.com/elementary/terminal/pull/841\r\n* Change tab label to name of foreground child process by @jeremypw in https://github.com/elementary/terminal/pull/838\r\n* MainWindow: Ellipsize the title label by @tintou in https://github.com/elementary/terminal/pull/871\r\n* Close tab when shell killed by @jeremypw in https://github.com/elementary/terminal/pull/874\r\n* SettingsPopover: create ThemeCheckButton and use Settings action by @danirabbit in https://github.com/elementary/terminal/pull/889\r\n\r\n## Fixed Issues\r\n🪲️<a href=\"https://github.com/elementary/terminal/issues/873\">Requires exit twice to close one tab</a>\r\n🪲️<a href=\"https://github.com/elementary/terminal/issues/872\">Crash when exiting one tab</a>\r\n🪲️<a href=\"https://github.com/elementary/terminal/issues/865\">Show all detected unsafe paste warnings</a>\r\n🪲️<a href=\"https://github.com/elementary/terminal/issues/840\">Title in titlebar not centered</a>\r\n🪲️<a href=\"https://github.com/elementary/terminal/issues/698\">When using screen tab title does not change</a>\r\n🪲️<a href=\"https://github.com/elementary/terminal/issues/646\">Terminal tab title no change when ssh server</a>\r\n\r\n**Full Changelog**: https://github.com/elementary/terminal/compare/7.0.0...7.1.0",
+        "href": "https://github.com/elementary/terminal/releases/tag/7.1.0"
+      },
+      {
+        "version": "7.0.0",
+        "release_date": "2025-02-13T20:52:15+00:00",
+        "title": "terminal 7.0.0 Released",
+        "body": "## What's Changed\r\n* Tests: add unsafe paste test by @danirabbit in https://github.com/elementary/terminal/pull/818\r\n* Fix focussing terminal after select by @jeremypw in https://github.com/elementary/terminal/pull/846\r\n* Disconnect and reconnect signals on dragging a tab out of a window by @jeremypw in https://github.com/elementary/terminal/pull/854\r\n* Metainfo: add 7.0.0 release notes by @danirabbit in https://github.com/elementary/terminal/pull/855\r\n* Release 7.0.0 by @danirabbit in https://github.com/elementary/terminal/pull/856\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/terminal/compare/6.3.1...7.0.0",
+        "href": "https://github.com/elementary/terminal/releases/tag/7.0.0"
+      },
+      {
+        "version": "6.3.1",
+        "release_date": "2025-01-08T11:21:03+00:00",
+        "title": "terminal 6.3.1 Released",
+        "body": "<p>Other updates:</p>\n<ul>\n<li>Stop window size increasing when opened</li>\n<li>Change hotkeys for Reset and Clear Screen actions</li>\n<li>Translation updates</li>\n</ul>\n",
+        "href": "https://github.com/elementary/terminal/releases/tag/6.3.1"
+      },
+      {
+        "version": "6.3.0",
+        "release_date": "2024-12-11T10:02:36+00:00",
+        "title": "terminal 6.3.0 Released",
+        "body": "## What's Changed\r\n* Replace Granite.DynamicNotebook with Hdy TabView and TabBar by @jeremypw in https://github.com/elementary/terminal/pull/760\r\n* TerminalView: ReLoad→Reload by @ryonakano in https://github.com/elementary/terminal/pull/767\r\n* Fix empty context menu regression by @jeremypw in https://github.com/elementary/terminal/pull/768\r\n* Use GLib.MenuModel for context menu by @jeremypw in https://github.com/elementary/terminal/pull/769\r\n* Don't set icon size for button from icon name by @danirabbit in https://github.com/elementary/terminal/pull/771\r\n* fix(Themes): increase contrast for gray, fixes #682 by @cshaa in https://github.com/elementary/terminal/pull/755\r\n* Show zoom level in centre or terminal when changing. by @jeremypw in https://github.com/elementary/terminal/pull/772\r\n* upd(TerminalWidget): add doas checking by @Elsie19 in https://github.com/elementary/terminal/pull/774\r\n* Update POTFILES by @ryonakano in https://github.com/elementary/terminal/pull/779\r\n* Focus current tab by @igordsm in https://github.com/elementary/terminal/pull/638\r\n* Gtk4Prep - Lose geometry hints by @jeremypw in https://github.com/elementary/terminal/pull/782\r\n* Gtk4Prep - Do not subclass Gtk.Label by @jeremypw in https://github.com/elementary/terminal/pull/784\r\n* Gtk4Prep - Handle restoring and syncing window state in Application by @jeremypw in https://github.com/elementary/terminal/pull/783\r\n* SettingsPopover: use provider_for_screen for theme buttons by @danirabbit in https://github.com/elementary/terminal/pull/785\r\n* Separate button controllers - Gtk4 prep by @jeremypw in https://github.com/elementary/terminal/pull/787\r\n* Gtk4 Prep - SettingsPopover - call terminal zoom functions directly by @jeremypw in https://github.com/elementary/terminal/pull/789\r\n* Code Style -  by @jeremypw in https://github.com/elementary/terminal/pull/790\r\n* Implement Clear and Reset actions with hotkeys by @jeremypw in https://github.com/elementary/terminal/pull/778\r\n* Update cyclic search button when toggled by @jeremypw in https://github.com/elementary/terminal/pull/795\r\n* Add toggle for unsafe paste by @teamcons in https://github.com/elementary/terminal/pull/798\r\n* Correctly open uris containing spaces by @jeremypw in https://github.com/elementary/terminal/pull/777\r\n* Check for unsafe  drop  by @jeremypw in https://github.com/elementary/terminal/pull/794\r\n* TerminalWidget: Fix non administrative commands not being pasted by @ryonakano in https://github.com/elementary/terminal/pull/802\r\n* Drop dead feature that disables unsafe paste warning while Terminal opens by @ryonakano in https://github.com/elementary/terminal/pull/803\r\n* TerminalWidget: Refactor validated_feed to avoid nested conditions by @ryonakano in https://github.com/elementary/terminal/pull/804\r\n* Provide fallback directory for active shell under test by @jeremypw in https://github.com/elementary/terminal/pull/810\r\n* Application: withdraw stale notifications by @danirabbit in https://github.com/elementary/terminal/pull/813\r\n* Enhance unsafe detection by @teamcons in https://github.com/elementary/terminal/pull/800\r\n* Add tab to new window created with <Shift><Ctrl>N by @jeremypw in https://github.com/elementary/terminal/pull/816\r\n\r\n## New Contributors\r\n* @cshaa made their first contribution in https://github.com/elementary/terminal/pull/755\r\n* @Elsie19 made their first contribution in https://github.com/elementary/terminal/pull/774\r\n* @teamcons made their first contribution in https://github.com/elementary/terminal/pull/798\r\n\r\n**Full Changelog**: https://github.com/elementary/terminal/compare/6.2.0...6.3.0",
+        "href": "https://github.com/elementary/terminal/releases/tag/6.3.0"
+      },
+      {
+        "version": "6.2.0",
+        "release_date": "2024-07-18T16:48:06+00:00",
+        "title": "terminal 6.2.0 Released",
+        "body": "<p>New features:</p>\n<ul>\n<li>Allow switching event alerts on and off in the app menu</li>\n<li>Save tabs and zooms to the saved state settings when they change</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Document missing options in the man page</li>\n<li>Suppress unwanted default tab when opening a new window</li>\n<li>Translation updates</li>\n</ul>\n",
+        "href": "https://github.com/elementary/terminal/releases/tag/6.2.0"
+      },
+      {
+        "version": "6.1.2",
+        "release_date": "2023-04-04T17:39:57+00:00",
+        "title": "Terminal 6.1.2 released",
+        "body": "## What's Changed\r\n* MainWindow: Update context menu on menu key press by @ryonakano in https://github.com/elementary/terminal/pull/697\r\n* Add shortcuts Ctrl + PageUp and Ctrl + PageDown to switch between tabs by @Faelian in https://github.com/elementary/terminal/pull/700\r\n* Update Meson Files by @Marukesu in https://github.com/elementary/terminal/pull/701\r\n* Rework Application Class by @Marukesu in https://github.com/elementary/terminal/pull/702\r\n* Escape '#' except when fragment identifier by @jeremypw in https://github.com/elementary/terminal/pull/631\r\n* meson: Specify default test setup by @tintou in https://github.com/elementary/terminal/pull/711\r\n* Switch to GHCR containers by @davidmhewitt in https://github.com/elementary/terminal/pull/712\r\n* Application: Properly Unexport the DBus Interface on Exit by @Marukesu in https://github.com/elementary/terminal/pull/709\r\n* Remove ctrl + shift + left / right for tab switching by @stan-janssen in https://github.com/elementary/terminal/pull/716\r\n* Add option to start minimized by @stan-janssen in https://github.com/elementary/terminal/pull/715\r\n\r\n## New Contributors\r\n* @Faelian made their first contribution in https://github.com/elementary/terminal/pull/700\r\n* @dependabot made their first contribution in https://github.com/elementary/terminal/pull/713\r\n* @stan-janssen made their first contribution in https://github.com/elementary/terminal/pull/716\r\n\r\n**Full Changelog**: https://github.com/elementary/terminal/compare/6.1.1...6.1.2",
+        "href": "https://github.com/elementary/terminal/releases/tag/6.1.2"
+      },
+      {
+        "version": "6.1.1",
+        "release_date": "2022-10-27T16:47:44+00:00",
+        "title": "terminal 6.1.1 Released",
+        "body": "<p>Other updates:</p>\n<ul>\n<li>Translation updates</li>\n</ul>\n",
+        "href": "https://github.com/elementary/terminal/releases/tag/6.1.1"
+      },
+      {
+        "version": "6.1.0",
+        "release_date": "2022-08-12T09:53:41+00:00",
+        "title": "terminal 6.1.0 Released",
+        "body": "<p>New features:</p>\n<ul>\n<li>Option to follow system dark style preference</li>\n<li>Create a custom color palette</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Default styles are fully opaque and updated to the latest upstream values from Solarized for improved legibility</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Translation updates</li>\n<li>Performance improvements</li>\n</ul>\n",
+        "href": "https://github.com/elementary/terminal/releases/tag/6.1.0"
+      },
+      {
+        "version": "6.0.2",
+        "release_date": "2022-05-18T04:44:45+00:00",
+        "title": "terminal 6.0.2 Released",
+        "body": "<p>New features:</p>\n<ul>\n<li>Switch tabs with Alt + 1-9</li>\n<li>Quit with Ctrl + Shift + Q</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Fix build on OS 7</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Translation updates</li>\n</ul>\n",
+        "href": "https://github.com/elementary/terminal/releases/tag/6.0.2"
+      },
+      {
+        "version": "6.0.1",
+        "release_date": "2021-12-13T18:31:36+00:00",
+        "title": "terminal 6.0.1 Released",
+        "body": "<p>Fixes:</p>\n<ul>\n<li>Properly restore zoom levels for all locales</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Use XTerm title for window title if available</li>\n<li>Change \"Reload Tab\" shortcut to Shift + F5 to avoid clash with some foreground processes </li>\n<li>Change preferred shortcut for \"Reload Tab\" to Shift + Control + R</li>\n<li>Translation updates</li>\n</ul>\n",
+        "href": "https://github.com/elementary/terminal/releases/tag/6.0.1"
+      },
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-15T21:30:31+00:00",
+        "title": "terminal 6.0.0 Released",
+        "body": "<p>New features:</p>\n<ul>\n<li>Move tabs with the shortcut Ctrl + Alt + ←/→</li>\n<li>Switch tabs with the shortcuts Ctrl + Tab and Ctrl + Shift + Tab</li>\n<li>Zoom levels are now remembered per-tab</li>\n<li>Also warn about multi-line pastes</li>\n<li>Show text details in unsafe paste dialogs</li>\n<li>Open Link option when secondary clicking</li>\n<li>Reload tabs in the context menu or with the shortcut Ctrl + Shift + R</li>\n<li>Notifications indicate if a process exited with errors or not</li>\n<li>Show keyboard shortcuts in tab context menus</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Fix an issue with keyboard shortcuts not activating the first time they're pressed</li>\n<li>Avoid losing focus when closing background tabs</li>\n<li>Validate custom palette</li>\n<li>Translation updates</li>\n</ul>\n",
+        "href": "https://github.com/elementary/terminal/releases/tag/6.0.0"
+      },
+      {
+        "version": "5.5.2",
+        "release_date": "2020-04-02T00:28:39+00:00",
+        "title": "terminal 5.5.2 Released",
+        "body": "terminal 5.5.2 is out! \n\n<p>New features:</p>\n<ul>\n<li>Add commandline option for New Tab (-t)</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Fix URL selection</li>\n<li>Translation updates</li>\n</ul>\n",
+        "href": "https://github.com/elementary/terminal/releases/tag/5.5.2"
+      },
+      {
+        "version": "5.5.1",
+        "release_date": "2020-01-11T00:09:27+00:00",
+        "title": "terminal 5.5.1 Released",
+        "body": "terminal 5.5.1 is out! \n\n<p>New features:</p>\n<ul>\n<li>Add commandline option for New Window (-n)</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Prevent duplicate tab on startup</li>\n<li>Prevent unnecessary Home tab on startup</li>\n<li>Translation updates</li>\n</ul>\n",
+        "href": "https://github.com/elementary/terminal/releases/tag/5.5.1"
+      },
+      {
+        "version": "5.5.0",
+        "release_date": "2020-01-04T02:29:08+00:00",
+        "title": "terminal 5.5.0 Released",
+        "body": "terminal 5.5.0 is out! \n\n<p>New features:</p>\n<ul>\n<li>Turn Natural Copy/Paste on or off in the Settings menu</li>\n<li>Zoom with Ctrl + Scroll</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Include sudo password prompt when copying last output</li>\n<li>Apply font changes without restarting</li>\n<li>Translation updates</li>\n</ul>\n",
+        "href": "https://github.com/elementary/terminal/releases/tag/5.5.0"
+      },
+      {
+        "version": "5.4.0",
+        "release_date": "2019-11-15T23:11:23+00:00",
+        "title": "terminal 5.4.0 Released",
+        "body": "terminal 5.4.0 is out! \n\nChanges:\n\n* Don't remember tabs when History is disabled in System Settings\n* Show keyboard shortcuts in the secondary-click menu\n* Middle-click paste now properly follows System Settings\n* Shift + Control + D to duplicate tabs\n* Use neutral colors for the dark style scheme\n* Slightly pad text from the edge of the window\n* Translation updates\n",
+        "href": "https://github.com/elementary/terminal/releases/tag/5.4.0"
+      },
+      {
+        "version": "5.3.6",
+        "release_date": "2019-07-15T15:02:11+00:00",
+        "title": "Terminal 5.3.6 Released",
+        "body": "Terminal 5.3.6 is out!\r\n\r\nChanges:\r\n* Pressing the Menu key now opens the context menu\r\n* Added separator to context menu\r\n* Store state with GSettings\r\n* Updated translations",
+        "href": "https://github.com/elementary/terminal/releases/tag/5.3.6"
+      },
+      {
+        "version": "5.3.5",
+        "release_date": "2019-06-04T22:49:19+00:00",
+        "title": "Terminal 5.3.5 Released",
+        "body": "Terminal 5.3.5 is out!\r\n\r\nChanges:\r\n* Support Ctrl+Equal key combo to zoom in\r\n* Fix a wrong foreground process response code\r\n* Updated translations",
+        "href": "https://github.com/elementary/terminal/releases/tag/5.3.5"
+      },
+      {
+        "version": "5.3.4",
+        "release_date": "2019-03-29T10:45:31+00:00",
+        "title": "Terminal 5.3.4 Released",
+        "body": "Terminal 5.3.4 is out!\r\n\r\nChanges:\r\n* Return focus after popover menu closes\r\n* Prevent search and style buttons from receiving focus\r\n* Hide the cursor while typing\r\n* Updated translations",
+        "href": "https://github.com/elementary/terminal/releases/tag/5.3.4"
+      },
+      {
+        "version": "5.3.3",
+        "release_date": "2018-12-06T22:57:14+00:00",
+        "title": "Terminal 5.3.3 Released",
+        "body": "Terminal 5.3.2 is out!\r\n\r\nChanges:\r\n * Fix erratic search text highlightning behavior\r\n * Support -h flag for help\r\n * Add Alt+↑ action to scroll to last command\r\n * Add Alt+c action to copy last output\r\n * Add accels to tooltips\r\n * Update translations",
+        "href": "https://github.com/elementary/terminal/releases/tag/5.3.3"
+      },
+      {
+        "version": "5.3.2",
+        "release_date": "2018-10-30T10:48:07+00:00",
+        "title": "Terminal 5.3.2 Released",
+        "body": "Terminal 5.3.2 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/terminal/issues?q=is%3Aclosed+milestone%3A5.3.2).",
+        "href": "https://github.com/elementary/terminal/releases/tag/5.3.2"
+      },
+      {
+        "version": "5.3.1",
+        "release_date": "2018-10-16T07:39:05+00:00",
+        "title": "Terminal 5.1.3 Released",
+        "body": "Terminal 5.1.3 is out!\r\n\r\nThis release includes updated translations.",
+        "href": "https://github.com/elementary/terminal/releases/tag/5.3.1"
+      },
+      {
+        "version": "0.5.3",
+        "release_date": "2018-09-06T13:33:42+00:00",
+        "title": "Terminal 0.5.3 Released",
+        "body": "Terminal 0.5.3 is out!\r\n\r\nChanges:\r\n* Adapt to type change of Gdk.Key constants to fix build with valac 0.42\r\n* Fixed mistranslated and broken icon names\r\n* New translations",
+        "href": "https://github.com/elementary/terminal/releases/tag/0.5.3"
+      },
+      {
+        "version": "0.5.2",
+        "release_date": "2018-08-22T22:32:43+00:00",
+        "title": "Terminal 0.5.2 Released",
+        "body": "Terminal 0.5.2 is out!\r\n\r\nThis release contains translations update and a minor API fix.",
+        "href": "https://github.com/elementary/terminal/releases/tag/0.5.2"
+      },
+      {
+        "version": "0.5.1",
+        "release_date": "2018-07-23T20:01:14+00:00",
+        "title": "Terminal 0.5.1 Released",
+        "body": "Terminal 0.5.1 is out!\r\n\r\nThis release contains translations update and a minor API fix.",
+        "href": "https://github.com/elementary/terminal/releases/tag/0.5.1"
+      },
+      {
+        "version": "0.5",
+        "release_date": "2018-06-20T03:08:39+00:00",
+        "title": "Terminal 0.5 Released",
+        "body": "Terminal 0.5 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/terminal/issues?q=is%3Aclosed+milestone%3A0.5).",
+        "href": "https://github.com/elementary/terminal/releases/tag/0.5"
+      },
+      {
+        "version": "0.4.3",
+        "release_date": "2017-07-22T22:57:59+00:00",
+        "title": "Terminal 0.4.3 Released",
+        "body": "pantheon-terminal 0.4.3 is out!\r\n\r\nThe list of issues closed for this release can be found [here](https://github.com/elementary/terminal/milestone/2?closed=1).",
+        "href": "https://github.com/elementary/terminal/releases/tag/0.4.3"
+      },
+      {
+        "version": "0.4.2",
+        "release_date": "2017-05-15T12:19:53+00:00",
+        "title": "Terminal 0.4.2 Released",
+        "body": "pantheon-terminal 0.4.2 is out!\r\n\r\nThis release includes several [bug fixes](https://github.com/elementary/terminal/milestone/1?closed=1)",
+        "href": "https://github.com/elementary/terminal/releases/tag/0.4.2"
+      },
+      {
+        "version": "0.4.1",
+        "release_date": "2017-05-07T03:15:55+00:00",
+        "title": "Terminal 0.4.1 Released",
+        "body": "pantheon-terminal 0.4.1 is out!",
+        "href": "https://github.com/elementary/terminal/releases/tag/0.4.1"
+      }
+    ],
+    "new_commits": 0,
+    "default_branch": "master"
+  },
+  {
     "name": "initial-setup",
     "releases": [
       {
@@ -614,209 +824,6 @@
     ],
     "new_commits": 1,
     "default_branch": "main"
-  },
-  {
-    "name": "terminal",
-    "releases": [
-      {
-        "version": "7.1.0",
-        "release_date": "2025-08-07T18:02:16+00:00",
-        "title": "Terminal 7.1.0",
-        "body": "## What's Changed\r\n* Utils: add a warning about commands that skip confirmation by @danirabbit in https://github.com/elementary/terminal/pull/864\r\n* Return and show all paste warnings by @jeremypw in https://github.com/elementary/terminal/pull/866\r\n* UnsafePaste: add -f and --force by @danirabbit in https://github.com/elementary/terminal/pull/868\r\n* Center the title, set min searchentry width by @jeremypw in https://github.com/elementary/terminal/pull/841\r\n* Change tab label to name of foreground child process by @jeremypw in https://github.com/elementary/terminal/pull/838\r\n* MainWindow: Ellipsize the title label by @tintou in https://github.com/elementary/terminal/pull/871\r\n* Close tab when shell killed by @jeremypw in https://github.com/elementary/terminal/pull/874\r\n* SettingsPopover: create ThemeCheckButton and use Settings action by @danirabbit in https://github.com/elementary/terminal/pull/889\r\n\r\n## Fixed Issues\r\n🪲️<a href=\"https://github.com/elementary/terminal/issues/873\">Requires exit twice to close one tab</a>\r\n🪲️<a href=\"https://github.com/elementary/terminal/issues/872\">Crash when exiting one tab</a>\r\n🪲️<a href=\"https://github.com/elementary/terminal/issues/865\">Show all detected unsafe paste warnings</a>\r\n🪲️<a href=\"https://github.com/elementary/terminal/issues/840\">Title in titlebar not centered</a>\r\n🪲️<a href=\"https://github.com/elementary/terminal/issues/698\">When using screen tab title does not change</a>\r\n🪲️<a href=\"https://github.com/elementary/terminal/issues/646\">Terminal tab title no change when ssh server</a>\r\n\r\n**Full Changelog**: https://github.com/elementary/terminal/compare/7.0.0...7.1.0",
-        "href": "https://github.com/elementary/terminal/releases/tag/7.1.0"
-      },
-      {
-        "version": "7.0.0",
-        "release_date": "2025-02-13T20:52:15+00:00",
-        "title": "terminal 7.0.0 Released",
-        "body": "## What's Changed\r\n* Tests: add unsafe paste test by @danirabbit in https://github.com/elementary/terminal/pull/818\r\n* Fix focussing terminal after select by @jeremypw in https://github.com/elementary/terminal/pull/846\r\n* Disconnect and reconnect signals on dragging a tab out of a window by @jeremypw in https://github.com/elementary/terminal/pull/854\r\n* Metainfo: add 7.0.0 release notes by @danirabbit in https://github.com/elementary/terminal/pull/855\r\n* Release 7.0.0 by @danirabbit in https://github.com/elementary/terminal/pull/856\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/terminal/compare/6.3.1...7.0.0",
-        "href": "https://github.com/elementary/terminal/releases/tag/7.0.0"
-      },
-      {
-        "version": "6.3.1",
-        "release_date": "2025-01-08T11:21:03+00:00",
-        "title": "terminal 6.3.1 Released",
-        "body": "<p>Other updates:</p>\n<ul>\n<li>Stop window size increasing when opened</li>\n<li>Change hotkeys for Reset and Clear Screen actions</li>\n<li>Translation updates</li>\n</ul>\n",
-        "href": "https://github.com/elementary/terminal/releases/tag/6.3.1"
-      },
-      {
-        "version": "6.3.0",
-        "release_date": "2024-12-11T10:02:36+00:00",
-        "title": "terminal 6.3.0 Released",
-        "body": "## What's Changed\r\n* Replace Granite.DynamicNotebook with Hdy TabView and TabBar by @jeremypw in https://github.com/elementary/terminal/pull/760\r\n* TerminalView: ReLoad→Reload by @ryonakano in https://github.com/elementary/terminal/pull/767\r\n* Fix empty context menu regression by @jeremypw in https://github.com/elementary/terminal/pull/768\r\n* Use GLib.MenuModel for context menu by @jeremypw in https://github.com/elementary/terminal/pull/769\r\n* Don't set icon size for button from icon name by @danirabbit in https://github.com/elementary/terminal/pull/771\r\n* fix(Themes): increase contrast for gray, fixes #682 by @cshaa in https://github.com/elementary/terminal/pull/755\r\n* Show zoom level in centre or terminal when changing. by @jeremypw in https://github.com/elementary/terminal/pull/772\r\n* upd(TerminalWidget): add doas checking by @Elsie19 in https://github.com/elementary/terminal/pull/774\r\n* Update POTFILES by @ryonakano in https://github.com/elementary/terminal/pull/779\r\n* Focus current tab by @igordsm in https://github.com/elementary/terminal/pull/638\r\n* Gtk4Prep - Lose geometry hints by @jeremypw in https://github.com/elementary/terminal/pull/782\r\n* Gtk4Prep - Do not subclass Gtk.Label by @jeremypw in https://github.com/elementary/terminal/pull/784\r\n* Gtk4Prep - Handle restoring and syncing window state in Application by @jeremypw in https://github.com/elementary/terminal/pull/783\r\n* SettingsPopover: use provider_for_screen for theme buttons by @danirabbit in https://github.com/elementary/terminal/pull/785\r\n* Separate button controllers - Gtk4 prep by @jeremypw in https://github.com/elementary/terminal/pull/787\r\n* Gtk4 Prep - SettingsPopover - call terminal zoom functions directly by @jeremypw in https://github.com/elementary/terminal/pull/789\r\n* Code Style -  by @jeremypw in https://github.com/elementary/terminal/pull/790\r\n* Implement Clear and Reset actions with hotkeys by @jeremypw in https://github.com/elementary/terminal/pull/778\r\n* Update cyclic search button when toggled by @jeremypw in https://github.com/elementary/terminal/pull/795\r\n* Add toggle for unsafe paste by @teamcons in https://github.com/elementary/terminal/pull/798\r\n* Correctly open uris containing spaces by @jeremypw in https://github.com/elementary/terminal/pull/777\r\n* Check for unsafe  drop  by @jeremypw in https://github.com/elementary/terminal/pull/794\r\n* TerminalWidget: Fix non administrative commands not being pasted by @ryonakano in https://github.com/elementary/terminal/pull/802\r\n* Drop dead feature that disables unsafe paste warning while Terminal opens by @ryonakano in https://github.com/elementary/terminal/pull/803\r\n* TerminalWidget: Refactor validated_feed to avoid nested conditions by @ryonakano in https://github.com/elementary/terminal/pull/804\r\n* Provide fallback directory for active shell under test by @jeremypw in https://github.com/elementary/terminal/pull/810\r\n* Application: withdraw stale notifications by @danirabbit in https://github.com/elementary/terminal/pull/813\r\n* Enhance unsafe detection by @teamcons in https://github.com/elementary/terminal/pull/800\r\n* Add tab to new window created with <Shift><Ctrl>N by @jeremypw in https://github.com/elementary/terminal/pull/816\r\n\r\n## New Contributors\r\n* @cshaa made their first contribution in https://github.com/elementary/terminal/pull/755\r\n* @Elsie19 made their first contribution in https://github.com/elementary/terminal/pull/774\r\n* @teamcons made their first contribution in https://github.com/elementary/terminal/pull/798\r\n\r\n**Full Changelog**: https://github.com/elementary/terminal/compare/6.2.0...6.3.0",
-        "href": "https://github.com/elementary/terminal/releases/tag/6.3.0"
-      },
-      {
-        "version": "6.2.0",
-        "release_date": "2024-07-18T16:48:06+00:00",
-        "title": "terminal 6.2.0 Released",
-        "body": "<p>New features:</p>\n<ul>\n<li>Allow switching event alerts on and off in the app menu</li>\n<li>Save tabs and zooms to the saved state settings when they change</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Document missing options in the man page</li>\n<li>Suppress unwanted default tab when opening a new window</li>\n<li>Translation updates</li>\n</ul>\n",
-        "href": "https://github.com/elementary/terminal/releases/tag/6.2.0"
-      },
-      {
-        "version": "6.1.2",
-        "release_date": "2023-04-04T17:39:57+00:00",
-        "title": "Terminal 6.1.2 released",
-        "body": "## What's Changed\r\n* MainWindow: Update context menu on menu key press by @ryonakano in https://github.com/elementary/terminal/pull/697\r\n* Add shortcuts Ctrl + PageUp and Ctrl + PageDown to switch between tabs by @Faelian in https://github.com/elementary/terminal/pull/700\r\n* Update Meson Files by @Marukesu in https://github.com/elementary/terminal/pull/701\r\n* Rework Application Class by @Marukesu in https://github.com/elementary/terminal/pull/702\r\n* Escape '#' except when fragment identifier by @jeremypw in https://github.com/elementary/terminal/pull/631\r\n* meson: Specify default test setup by @tintou in https://github.com/elementary/terminal/pull/711\r\n* Switch to GHCR containers by @davidmhewitt in https://github.com/elementary/terminal/pull/712\r\n* Application: Properly Unexport the DBus Interface on Exit by @Marukesu in https://github.com/elementary/terminal/pull/709\r\n* Remove ctrl + shift + left / right for tab switching by @stan-janssen in https://github.com/elementary/terminal/pull/716\r\n* Add option to start minimized by @stan-janssen in https://github.com/elementary/terminal/pull/715\r\n\r\n## New Contributors\r\n* @Faelian made their first contribution in https://github.com/elementary/terminal/pull/700\r\n* @dependabot made their first contribution in https://github.com/elementary/terminal/pull/713\r\n* @stan-janssen made their first contribution in https://github.com/elementary/terminal/pull/716\r\n\r\n**Full Changelog**: https://github.com/elementary/terminal/compare/6.1.1...6.1.2",
-        "href": "https://github.com/elementary/terminal/releases/tag/6.1.2"
-      },
-      {
-        "version": "6.1.1",
-        "release_date": "2022-10-27T16:47:44+00:00",
-        "title": "terminal 6.1.1 Released",
-        "body": "<p>Other updates:</p>\n<ul>\n<li>Translation updates</li>\n</ul>\n",
-        "href": "https://github.com/elementary/terminal/releases/tag/6.1.1"
-      },
-      {
-        "version": "6.1.0",
-        "release_date": "2022-08-12T09:53:41+00:00",
-        "title": "terminal 6.1.0 Released",
-        "body": "<p>New features:</p>\n<ul>\n<li>Option to follow system dark style preference</li>\n<li>Create a custom color palette</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Default styles are fully opaque and updated to the latest upstream values from Solarized for improved legibility</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Translation updates</li>\n<li>Performance improvements</li>\n</ul>\n",
-        "href": "https://github.com/elementary/terminal/releases/tag/6.1.0"
-      },
-      {
-        "version": "6.0.2",
-        "release_date": "2022-05-18T04:44:45+00:00",
-        "title": "terminal 6.0.2 Released",
-        "body": "<p>New features:</p>\n<ul>\n<li>Switch tabs with Alt + 1-9</li>\n<li>Quit with Ctrl + Shift + Q</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Fix build on OS 7</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Translation updates</li>\n</ul>\n",
-        "href": "https://github.com/elementary/terminal/releases/tag/6.0.2"
-      },
-      {
-        "version": "6.0.1",
-        "release_date": "2021-12-13T18:31:36+00:00",
-        "title": "terminal 6.0.1 Released",
-        "body": "<p>Fixes:</p>\n<ul>\n<li>Properly restore zoom levels for all locales</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Use XTerm title for window title if available</li>\n<li>Change \"Reload Tab\" shortcut to Shift + F5 to avoid clash with some foreground processes </li>\n<li>Change preferred shortcut for \"Reload Tab\" to Shift + Control + R</li>\n<li>Translation updates</li>\n</ul>\n",
-        "href": "https://github.com/elementary/terminal/releases/tag/6.0.1"
-      },
-      {
-        "version": "6.0.0",
-        "release_date": "2021-07-15T21:30:31+00:00",
-        "title": "terminal 6.0.0 Released",
-        "body": "<p>New features:</p>\n<ul>\n<li>Move tabs with the shortcut Ctrl + Alt + ←/→</li>\n<li>Switch tabs with the shortcuts Ctrl + Tab and Ctrl + Shift + Tab</li>\n<li>Zoom levels are now remembered per-tab</li>\n<li>Also warn about multi-line pastes</li>\n<li>Show text details in unsafe paste dialogs</li>\n<li>Open Link option when secondary clicking</li>\n<li>Reload tabs in the context menu or with the shortcut Ctrl + Shift + R</li>\n<li>Notifications indicate if a process exited with errors or not</li>\n<li>Show keyboard shortcuts in tab context menus</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Fix an issue with keyboard shortcuts not activating the first time they're pressed</li>\n<li>Avoid losing focus when closing background tabs</li>\n<li>Validate custom palette</li>\n<li>Translation updates</li>\n</ul>\n",
-        "href": "https://github.com/elementary/terminal/releases/tag/6.0.0"
-      },
-      {
-        "version": "5.5.2",
-        "release_date": "2020-04-02T00:28:39+00:00",
-        "title": "terminal 5.5.2 Released",
-        "body": "terminal 5.5.2 is out! \n\n<p>New features:</p>\n<ul>\n<li>Add commandline option for New Tab (-t)</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Fix URL selection</li>\n<li>Translation updates</li>\n</ul>\n",
-        "href": "https://github.com/elementary/terminal/releases/tag/5.5.2"
-      },
-      {
-        "version": "5.5.1",
-        "release_date": "2020-01-11T00:09:27+00:00",
-        "title": "terminal 5.5.1 Released",
-        "body": "terminal 5.5.1 is out! \n\n<p>New features:</p>\n<ul>\n<li>Add commandline option for New Window (-n)</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Prevent duplicate tab on startup</li>\n<li>Prevent unnecessary Home tab on startup</li>\n<li>Translation updates</li>\n</ul>\n",
-        "href": "https://github.com/elementary/terminal/releases/tag/5.5.1"
-      },
-      {
-        "version": "5.5.0",
-        "release_date": "2020-01-04T02:29:08+00:00",
-        "title": "terminal 5.5.0 Released",
-        "body": "terminal 5.5.0 is out! \n\n<p>New features:</p>\n<ul>\n<li>Turn Natural Copy/Paste on or off in the Settings menu</li>\n<li>Zoom with Ctrl + Scroll</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Include sudo password prompt when copying last output</li>\n<li>Apply font changes without restarting</li>\n<li>Translation updates</li>\n</ul>\n",
-        "href": "https://github.com/elementary/terminal/releases/tag/5.5.0"
-      },
-      {
-        "version": "5.4.0",
-        "release_date": "2019-11-15T23:11:23+00:00",
-        "title": "terminal 5.4.0 Released",
-        "body": "terminal 5.4.0 is out! \n\nChanges:\n\n* Don't remember tabs when History is disabled in System Settings\n* Show keyboard shortcuts in the secondary-click menu\n* Middle-click paste now properly follows System Settings\n* Shift + Control + D to duplicate tabs\n* Use neutral colors for the dark style scheme\n* Slightly pad text from the edge of the window\n* Translation updates\n",
-        "href": "https://github.com/elementary/terminal/releases/tag/5.4.0"
-      },
-      {
-        "version": "5.3.6",
-        "release_date": "2019-07-15T15:02:11+00:00",
-        "title": "Terminal 5.3.6 Released",
-        "body": "Terminal 5.3.6 is out!\r\n\r\nChanges:\r\n* Pressing the Menu key now opens the context menu\r\n* Added separator to context menu\r\n* Store state with GSettings\r\n* Updated translations",
-        "href": "https://github.com/elementary/terminal/releases/tag/5.3.6"
-      },
-      {
-        "version": "5.3.5",
-        "release_date": "2019-06-04T22:49:19+00:00",
-        "title": "Terminal 5.3.5 Released",
-        "body": "Terminal 5.3.5 is out!\r\n\r\nChanges:\r\n* Support Ctrl+Equal key combo to zoom in\r\n* Fix a wrong foreground process response code\r\n* Updated translations",
-        "href": "https://github.com/elementary/terminal/releases/tag/5.3.5"
-      },
-      {
-        "version": "5.3.4",
-        "release_date": "2019-03-29T10:45:31+00:00",
-        "title": "Terminal 5.3.4 Released",
-        "body": "Terminal 5.3.4 is out!\r\n\r\nChanges:\r\n* Return focus after popover menu closes\r\n* Prevent search and style buttons from receiving focus\r\n* Hide the cursor while typing\r\n* Updated translations",
-        "href": "https://github.com/elementary/terminal/releases/tag/5.3.4"
-      },
-      {
-        "version": "5.3.3",
-        "release_date": "2018-12-06T22:57:14+00:00",
-        "title": "Terminal 5.3.3 Released",
-        "body": "Terminal 5.3.2 is out!\r\n\r\nChanges:\r\n * Fix erratic search text highlightning behavior\r\n * Support -h flag for help\r\n * Add Alt+↑ action to scroll to last command\r\n * Add Alt+c action to copy last output\r\n * Add accels to tooltips\r\n * Update translations",
-        "href": "https://github.com/elementary/terminal/releases/tag/5.3.3"
-      },
-      {
-        "version": "5.3.2",
-        "release_date": "2018-10-30T10:48:07+00:00",
-        "title": "Terminal 5.3.2 Released",
-        "body": "Terminal 5.3.2 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/terminal/issues?q=is%3Aclosed+milestone%3A5.3.2).",
-        "href": "https://github.com/elementary/terminal/releases/tag/5.3.2"
-      },
-      {
-        "version": "5.3.1",
-        "release_date": "2018-10-16T07:39:05+00:00",
-        "title": "Terminal 5.1.3 Released",
-        "body": "Terminal 5.1.3 is out!\r\n\r\nThis release includes updated translations.",
-        "href": "https://github.com/elementary/terminal/releases/tag/5.3.1"
-      },
-      {
-        "version": "0.5.3",
-        "release_date": "2018-09-06T13:33:42+00:00",
-        "title": "Terminal 0.5.3 Released",
-        "body": "Terminal 0.5.3 is out!\r\n\r\nChanges:\r\n* Adapt to type change of Gdk.Key constants to fix build with valac 0.42\r\n* Fixed mistranslated and broken icon names\r\n* New translations",
-        "href": "https://github.com/elementary/terminal/releases/tag/0.5.3"
-      },
-      {
-        "version": "0.5.2",
-        "release_date": "2018-08-22T22:32:43+00:00",
-        "title": "Terminal 0.5.2 Released",
-        "body": "Terminal 0.5.2 is out!\r\n\r\nThis release contains translations update and a minor API fix.",
-        "href": "https://github.com/elementary/terminal/releases/tag/0.5.2"
-      },
-      {
-        "version": "0.5.1",
-        "release_date": "2018-07-23T20:01:14+00:00",
-        "title": "Terminal 0.5.1 Released",
-        "body": "Terminal 0.5.1 is out!\r\n\r\nThis release contains translations update and a minor API fix.",
-        "href": "https://github.com/elementary/terminal/releases/tag/0.5.1"
-      },
-      {
-        "version": "0.5",
-        "release_date": "2018-06-20T03:08:39+00:00",
-        "title": "Terminal 0.5 Released",
-        "body": "Terminal 0.5 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/terminal/issues?q=is%3Aclosed+milestone%3A0.5).",
-        "href": "https://github.com/elementary/terminal/releases/tag/0.5"
-      },
-      {
-        "version": "0.4.3",
-        "release_date": "2017-07-22T22:57:59+00:00",
-        "title": "Terminal 0.4.3 Released",
-        "body": "pantheon-terminal 0.4.3 is out!\r\n\r\nThe list of issues closed for this release can be found [here](https://github.com/elementary/terminal/milestone/2?closed=1).",
-        "href": "https://github.com/elementary/terminal/releases/tag/0.4.3"
-      },
-      {
-        "version": "0.4.2",
-        "release_date": "2017-05-15T12:19:53+00:00",
-        "title": "Terminal 0.4.2 Released",
-        "body": "pantheon-terminal 0.4.2 is out!\r\n\r\nThis release includes several [bug fixes](https://github.com/elementary/terminal/milestone/1?closed=1)",
-        "href": "https://github.com/elementary/terminal/releases/tag/0.4.2"
-      },
-      {
-        "version": "0.4.1",
-        "release_date": "2017-05-07T03:15:55+00:00",
-        "title": "Terminal 0.4.1 Released",
-        "body": "pantheon-terminal 0.4.1 is out!",
-        "href": "https://github.com/elementary/terminal/releases/tag/0.4.1"
-      }
-    ],
-    "new_commits": 25,
-    "default_branch": "master"
   },
   {
     "name": "code",
