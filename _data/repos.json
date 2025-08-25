@@ -206,7 +206,7 @@
         "href": "https://github.com/elementary/terminal/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 1,
+    "new_commits": 4,
     "default_branch": "master"
   },
   {
@@ -7640,7 +7640,7 @@
         "href": "https://github.com/elementary/monitor/releases/tag/0.2.0"
       }
     ],
-    "new_commits": 722,
+    "new_commits": 723,
     "default_branch": "main"
   },
   {
