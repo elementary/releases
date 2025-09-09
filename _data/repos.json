@@ -1,5 +1,61 @@
 [
   {
+    "name": "dock",
+    "releases": [
+      {
+        "version": "8.2.0",
+        "release_date": "2025-09-09T16:11:16+00:00",
+        "title": "dock 8.2.0 Released",
+        "body": "<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/dock/releases/tag/8.2.0"
+      },
+      {
+        "version": "8.1.2",
+        "release_date": "2025-06-12T11:47:03+00:00",
+        "title": "dock 8.1.2 Released",
+        "body": "<p>Updated translations</p>\r\n\r\n## What's Changed\r\n* Don't store active workspace information for every window by @lenemter in https://github.com/elementary/dock/pull/406\r\n* Release 8.1.2 by @lenemter in https://github.com/elementary/dock/pull/430\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/dock/compare/8.1.1...8.1.2",
+        "href": "https://github.com/elementary/dock/releases/tag/8.1.2"
+      },
+      {
+        "version": "8.1.1",
+        "release_date": "2025-05-17T15:35:23+00:00",
+        "title": "dock 8.1.1 Released",
+        "body": "<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/dock/releases/tag/8.1.1"
+      },
+      {
+        "version": "8.1.0",
+        "release_date": "2025-05-12T17:04:23+00:00",
+        "title": "dock 8.1.0 Released",
+        "body": "<p>Updated translations</p>\r\n<p>Open context menus with long-press</p>\r\n<p>Cycle through windows when hovering over an app with drag-and-drop</p>\r\n<p>Improve memory usage</p>\r\n<p>Fix dock bounds when hide mode is 'Never'</p>\r\n\r\n## What's Changed\r\n* Introduce an AppSystem by @leolost2605 in https://github.com/elementary/dock/pull/336\r\n* Rename LauncherManager into ItemManager by @lenemter in https://github.com/elementary/dock/pull/362\r\n* Introduce WindowSystem by @lenemter in https://github.com/elementary/dock/pull/363\r\n* Move reduce transparency to main window by @lenemter in https://github.com/elementary/dock/pull/372\r\n* Restructure the project by @lenemter in https://github.com/elementary/dock/pull/371\r\n* Cycle through windows when hovering over launcher with dnd by @lenemter in https://github.com/elementary/dock/pull/374\r\n* Launcher: Fix memory leaks by @leolost2605 in https://github.com/elementary/dock/pull/376\r\n* Introduce BaseItem by @lenemter in https://github.com/elementary/dock/pull/373\r\n* Fix warnings by @lenemter in https://github.com/elementary/dock/pull/378\r\n* Workspace switcher by @lenemter in https://github.com/elementary/dock/pull/361\r\n* Open MultitaskingView when clicking active workspace by @leolost2605 in https://github.com/elementary/dock/pull/384\r\n* GSchema: remove multitasking from defaults by @danirabbit in https://github.com/elementary/dock/pull/386\r\n* DynamicWorkspaceItem: open multitasking if clicked again by @danirabbit in https://github.com/elementary/dock/pull/385\r\n* WorkspaceSystem: sort windows by time they appeared on the workspace by @lenemter in https://github.com/elementary/dock/pull/388\r\n* Implement workspace reordering with drag and drop by @leolost2605 in https://github.com/elementary/dock/pull/392\r\n* Support long press on launchers by @leolost2605 in https://github.com/elementary/dock/pull/398\r\n* Remove dependency on libgee by @tintou in https://github.com/elementary/dock/pull/401\r\n* Fix crash and visual bugs with animations disabled by @lenemter in https://github.com/elementary/dock/pull/405\r\n* Make workspace switcher optional by @danirabbit in https://github.com/elementary/dock/pull/407\r\n* Revert \"GSchema: remove multitasking from defaults\" by @danirabbit in https://github.com/elementary/dock/pull/408\r\n* Fix dock bounds when hide mode is 'Never' by @lenemter in https://github.com/elementary/dock/pull/411\r\n* Fix meson options by @lenemter in https://github.com/elementary/dock/pull/413\r\n* Show multiple dots for apps with multiple windows by @lenemter in https://github.com/elementary/dock/pull/412\r\n\r\n**Full Changelog**: https://github.com/elementary/dock/compare/8.0.2...8.1.0",
+        "href": "https://github.com/elementary/dock/releases/tag/8.1.0"
+      },
+      {
+        "version": "8.0.2",
+        "release_date": "2024-12-12T20:05:44+00:00",
+        "title": "dock 8.0.2 Released",
+        "body": "## What's Changed\r\n* App: Respect startup notify key for launching animation by @leolost2605 in https://github.com/elementary/dock/pull/299\r\n* meson: Specify minimum GLib version by @tintou in https://github.com/elementary/dock/pull/306\r\n* Add spacing between icon and running indicator by @lenemter in https://github.com/elementary/dock/pull/329\r\n* Fix icons clipping when bouncing and separate background from window by @lenemter in https://github.com/elementary/dock/pull/328\r\n* MainWindow: respect reduce transparency key by @danirabbit in https://github.com/elementary/dock/pull/333\r\n\r\n## New Contributors\r\n* @lenemter made their first contribution in https://github.com/elementary/dock/pull/329\r\n\r\n**Full Changelog**: https://github.com/elementary/dock/compare/8.0.1...8.0.2",
+        "href": "https://github.com/elementary/dock/releases/tag/8.0.2"
+      },
+      {
+        "version": "8.0.1",
+        "release_date": "2024-10-23T15:49:16+00:00",
+        "title": "dock 8.0.1 Released",
+        "body": "<p>Updated translations</p>\n<p>Fixes a crash when dragging a file that's not a launcher to the dock</p>\n<p>Hide badges, progressbars, and running indicators while dragging a launcher</p>\n",
+        "href": "https://github.com/elementary/dock/releases/tag/8.0.1"
+      },
+      {
+        "version": "8.0.0",
+        "release_date": "2024-08-20T15:02:39+00:00",
+        "title": "dock 8.0.0 Released",
+        "body": "<p>Complete rewrite 🎉️</p>\n",
+        "href": "https://github.com/elementary/dock/releases/tag/8.0.0"
+      }
+    ],
+    "new_commits": 0,
+    "default_branch": "main"
+  },
+  {
     "name": "code",
     "releases": [
       {
@@ -2821,55 +2877,6 @@
     "default_branch": "main"
   },
   {
-    "name": "dock",
-    "releases": [
-      {
-        "version": "8.1.2",
-        "release_date": "2025-06-12T11:47:03+00:00",
-        "title": "dock 8.1.2 Released",
-        "body": "<p>Updated translations</p>\r\n\r\n## What's Changed\r\n* Don't store active workspace information for every window by @lenemter in https://github.com/elementary/dock/pull/406\r\n* Release 8.1.2 by @lenemter in https://github.com/elementary/dock/pull/430\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/dock/compare/8.1.1...8.1.2",
-        "href": "https://github.com/elementary/dock/releases/tag/8.1.2"
-      },
-      {
-        "version": "8.1.1",
-        "release_date": "2025-05-17T15:35:23+00:00",
-        "title": "dock 8.1.1 Released",
-        "body": "<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/dock/releases/tag/8.1.1"
-      },
-      {
-        "version": "8.1.0",
-        "release_date": "2025-05-12T17:04:23+00:00",
-        "title": "dock 8.1.0 Released",
-        "body": "<p>Updated translations</p>\r\n<p>Open context menus with long-press</p>\r\n<p>Cycle through windows when hovering over an app with drag-and-drop</p>\r\n<p>Improve memory usage</p>\r\n<p>Fix dock bounds when hide mode is 'Never'</p>\r\n\r\n## What's Changed\r\n* Introduce an AppSystem by @leolost2605 in https://github.com/elementary/dock/pull/336\r\n* Rename LauncherManager into ItemManager by @lenemter in https://github.com/elementary/dock/pull/362\r\n* Introduce WindowSystem by @lenemter in https://github.com/elementary/dock/pull/363\r\n* Move reduce transparency to main window by @lenemter in https://github.com/elementary/dock/pull/372\r\n* Restructure the project by @lenemter in https://github.com/elementary/dock/pull/371\r\n* Cycle through windows when hovering over launcher with dnd by @lenemter in https://github.com/elementary/dock/pull/374\r\n* Launcher: Fix memory leaks by @leolost2605 in https://github.com/elementary/dock/pull/376\r\n* Introduce BaseItem by @lenemter in https://github.com/elementary/dock/pull/373\r\n* Fix warnings by @lenemter in https://github.com/elementary/dock/pull/378\r\n* Workspace switcher by @lenemter in https://github.com/elementary/dock/pull/361\r\n* Open MultitaskingView when clicking active workspace by @leolost2605 in https://github.com/elementary/dock/pull/384\r\n* GSchema: remove multitasking from defaults by @danirabbit in https://github.com/elementary/dock/pull/386\r\n* DynamicWorkspaceItem: open multitasking if clicked again by @danirabbit in https://github.com/elementary/dock/pull/385\r\n* WorkspaceSystem: sort windows by time they appeared on the workspace by @lenemter in https://github.com/elementary/dock/pull/388\r\n* Implement workspace reordering with drag and drop by @leolost2605 in https://github.com/elementary/dock/pull/392\r\n* Support long press on launchers by @leolost2605 in https://github.com/elementary/dock/pull/398\r\n* Remove dependency on libgee by @tintou in https://github.com/elementary/dock/pull/401\r\n* Fix crash and visual bugs with animations disabled by @lenemter in https://github.com/elementary/dock/pull/405\r\n* Make workspace switcher optional by @danirabbit in https://github.com/elementary/dock/pull/407\r\n* Revert \"GSchema: remove multitasking from defaults\" by @danirabbit in https://github.com/elementary/dock/pull/408\r\n* Fix dock bounds when hide mode is 'Never' by @lenemter in https://github.com/elementary/dock/pull/411\r\n* Fix meson options by @lenemter in https://github.com/elementary/dock/pull/413\r\n* Show multiple dots for apps with multiple windows by @lenemter in https://github.com/elementary/dock/pull/412\r\n\r\n**Full Changelog**: https://github.com/elementary/dock/compare/8.0.2...8.1.0",
-        "href": "https://github.com/elementary/dock/releases/tag/8.1.0"
-      },
-      {
-        "version": "8.0.2",
-        "release_date": "2024-12-12T20:05:44+00:00",
-        "title": "dock 8.0.2 Released",
-        "body": "## What's Changed\r\n* App: Respect startup notify key for launching animation by @leolost2605 in https://github.com/elementary/dock/pull/299\r\n* meson: Specify minimum GLib version by @tintou in https://github.com/elementary/dock/pull/306\r\n* Add spacing between icon and running indicator by @lenemter in https://github.com/elementary/dock/pull/329\r\n* Fix icons clipping when bouncing and separate background from window by @lenemter in https://github.com/elementary/dock/pull/328\r\n* MainWindow: respect reduce transparency key by @danirabbit in https://github.com/elementary/dock/pull/333\r\n\r\n## New Contributors\r\n* @lenemter made their first contribution in https://github.com/elementary/dock/pull/329\r\n\r\n**Full Changelog**: https://github.com/elementary/dock/compare/8.0.1...8.0.2",
-        "href": "https://github.com/elementary/dock/releases/tag/8.0.2"
-      },
-      {
-        "version": "8.0.1",
-        "release_date": "2024-10-23T15:49:16+00:00",
-        "title": "dock 8.0.1 Released",
-        "body": "<p>Updated translations</p>\n<p>Fixes a crash when dragging a file that's not a launcher to the dock</p>\n<p>Hide badges, progressbars, and running indicators while dragging a launcher</p>\n",
-        "href": "https://github.com/elementary/dock/releases/tag/8.0.1"
-      },
-      {
-        "version": "8.0.0",
-        "release_date": "2024-08-20T15:02:39+00:00",
-        "title": "dock 8.0.0 Released",
-        "body": "<p>Complete rewrite 🎉️</p>\n",
-        "href": "https://github.com/elementary/dock/releases/tag/8.0.0"
-      }
-    ],
-    "new_commits": 29,
-    "default_branch": "main"
-  },
-  {
     "name": "settings-daemon",
     "releases": [
       {
@@ -4539,7 +4546,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 119,
+    "new_commits": 121,
     "default_branch": "main"
   },
   {
