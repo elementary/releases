@@ -829,7 +829,7 @@
         "href": "https://github.com/elementary/dock/releases/tag/8.0.0"
       }
     ],
-    "new_commits": 19,
+    "new_commits": 23,
     "default_branch": "main"
   },
   {
@@ -1438,7 +1438,7 @@
         "href": "https://github.com/elementary/music/releases/tag/0.4.0.3"
       }
     ],
-    "new_commits": 11,
+    "new_commits": 12,
     "default_branch": "main"
   },
   {
@@ -2775,7 +2775,7 @@
         "href": "https://github.com/elementary/capnet-assist/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 9,
+    "new_commits": 13,
     "default_branch": "master"
   },
   {
@@ -3384,7 +3384,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 56,
+    "new_commits": 58,
     "default_branch": "main"
   },
   {
@@ -3482,7 +3482,7 @@
         "href": "https://github.com/elementary/portals/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 24,
+    "new_commits": 25,
     "default_branch": "main"
   },
   {
@@ -3811,7 +3811,7 @@
         "href": "https://github.com/elementary/flatpak-platform/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 9,
+    "new_commits": 11,
     "default_branch": "main"
   },
   {
@@ -6401,7 +6401,7 @@
         "href": "https://github.com/elementary/feedback/releases/tag/1.0"
       }
     ],
-    "new_commits": 36,
+    "new_commits": 38,
     "default_branch": "main"
   },
   {
