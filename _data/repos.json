@@ -48,7 +48,7 @@
         "version": "8.2.0",
         "release_date": "2025-09-12T18:26:39+00:00",
         "title": "settings-applications 8.2.0 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "body": "<p>Minor updates:</p>\r\n<ul>\r\n<li>Updated translations</li>\r\n</ul>\r\n\r\n## What's Changed\r\n* Sidebar: use Action, search on type by @danirabbit in https://github.com/elementary/settings-applications/pull/251\r\n* Actions: Use main branch by @ryonakano in https://github.com/elementary/settings-applications/pull/254\r\n* DefaultPlug: add settings for geo uri handler by @danirabbit in https://github.com/elementary/settings-applications/pull/255\r\n* Bump actions/checkout from 4 to 5 by @dependabot[bot] in https://github.com/elementary/settings-applications/pull/256\r\n* Metainfo: add 8.2.0 release notes by @danirabbit in https://github.com/elementary/settings-applications/pull/257\r\n* Release 8.2.0 by @danirabbit in https://github.com/elementary/settings-applications/pull/258\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/settings-applications/compare/8.1.0...8.2.0",
         "href": "https://github.com/elementary/settings-applications/releases/tag/8.2.0"
       },
       {
@@ -153,7 +153,7 @@
         "version": "8.3.0",
         "release_date": "2025-09-10T16:52:37+00:00",
         "title": "appcenter 8.3.0 Released",
-        "body": "<p>Other Improvements:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "body": "<p>Other Improvements:</p>\r\n<ul>\r\n<li>Updated translations</li>\r\n</ul>\r\n\r\n## What's Changed\r\n* AppListUpdateView: mark primary menu by @danirabbit in https://github.com/elementary/appcenter/pull/2290\r\n* MainWindow: remove back action by @danirabbit in https://github.com/elementary/appcenter/pull/2292\r\n* AppInfoView: show when a game supports controllers by @danirabbit in https://github.com/elementary/appcenter/pull/2293\r\n* AppInfoView: layout content warnings horizontally by @danirabbit in https://github.com/elementary/appcenter/pull/2294\r\n* Homepage: carousel allow overflow by @danirabbit in https://github.com/elementary/appcenter/pull/2295\r\n* Introduce CategoryManager by @danirabbit in https://github.com/elementary/appcenter/pull/2276\r\n* Homepage: label updates button for screen reader by @danirabbit in https://github.com/elementary/appcenter/pull/2301\r\n* Make Package name a property by @leolost2605 in https://github.com/elementary/appcenter/pull/2307\r\n* Emit on_metadata_remote_preprocessed always from the main thread by @leolost2605 in https://github.com/elementary/appcenter/pull/2306\r\n* Property bindings for n_updatable_apps and has_updatable_apps by @leolost2605 in https://github.com/elementary/appcenter/pull/2308\r\n* Use filter list models for updates by @leolost2605 in https://github.com/elementary/appcenter/pull/2305\r\n* Actions: Use main branch by @ryonakano in https://github.com/elementary/appcenter/pull/2310\r\n* Introduce can update all property, use action by @leolost2605 in https://github.com/elementary/appcenter/pull/2309\r\n* Make size label settable, use property binding by @leolost2605 in https://github.com/elementary/appcenter/pull/2312\r\n* get_installed_applications: mark installed on main thread by @leolost2605 in https://github.com/elementary/appcenter/pull/2315\r\n* Streamline refresh flow by @leolost2605 in https://github.com/elementary/appcenter/pull/2314\r\n* Bump actions/checkout from 4 to 5 by @dependabot[bot] in https://github.com/elementary/appcenter/pull/2318\r\n* Rewording End of life warning box with a simpler description (#2244) by @edwood-grant in https://github.com/elementary/appcenter/pull/2320\r\n* GResource: add card payment icons by @danirabbit in https://github.com/elementary/appcenter/pull/2321\r\n* Adding more license details on the license link box (#2241) by @edwood-grant in https://github.com/elementary/appcenter/pull/2319\r\n* Update updated label every minute by @leolost2605 in https://github.com/elementary/appcenter/pull/2311\r\n* LinkListBox: add warning and missing icons for licenses by @danirabbit in https://github.com/elementary/appcenter/pull/2322\r\n* Add a pretty error icon instead of the broken one (Bug #2240) by @edwood-grant in https://github.com/elementary/appcenter/pull/2323\r\n* Show addons on the app info page by @leolost2605 in https://github.com/elementary/appcenter/pull/2316\r\n* Move get_screenshots () to Package by @danirabbit in https://github.com/elementary/appcenter/pull/2287\r\n* Styles: remove placeholder app icon dim by @danirabbit in https://github.com/elementary/appcenter/pull/2324\r\n* ActionStack: change CTA to Install by @danirabbit in https://github.com/elementary/appcenter/pull/2326\r\n* Create ReleasesDialog.vala and redesign by @danirabbit in https://github.com/elementary/appcenter/pull/2328\r\n* CategoryManager: add education icon by @danirabbit in https://github.com/elementary/appcenter/pull/2327\r\n* Create ODRSProvider.vala by @danirabbit in https://github.com/elementary/appcenter/pull/2279\r\n* ODRSProvider: avoid floating point exception by @danirabbit in https://github.com/elementary/appcenter/pull/2335\r\n* AppInfoView: don't show search button by @danirabbit in https://github.com/elementary/appcenter/pull/2334\r\n* Remove AbstractPackageRowGrid.vala by @danirabbit in https://github.com/elementary/appcenter/pull/2330\r\n* CategoryView: use Gtk.ListModels for Recent by @danirabbit in https://github.com/elementary/appcenter/pull/2336\r\n* Set and use refresh action enabled by @danirabbit in https://github.com/elementary/appcenter/pull/2332\r\n* ODRSProvider: Result as return value, set out parameters only when succeeds by @ryonakano in https://github.com/elementary/appcenter/pull/2339\r\n* AppInfoView: use releases dialog by @danirabbit in https://github.com/elementary/appcenter/pull/2329\r\n* InstalledPackageRowGrid: restore action_sensitive property by @danirabbit in https://github.com/elementary/appcenter/pull/2337\r\n* AppInfoView: don't allow focusing title labels by @danirabbit in https://github.com/elementary/appcenter/pull/2346\r\n* AppListUpdateView: inline namespace, use SPDX header by @danirabbit in https://github.com/elementary/appcenter/pull/2343\r\n* SearchView: use GridView by @danirabbit in https://github.com/elementary/appcenter/pull/2325\r\n* InstalledPackageRowGrid: always show release notes by @danirabbit in https://github.com/elementary/appcenter/pull/2331\r\n* AppListUpdateView: sort installed package by newest release by @danirabbit in https://github.com/elementary/appcenter/pull/2342\r\n* Allow DBus activation by @danirabbit in https://github.com/elementary/appcenter/pull/2350\r\n* InstalledPackageRowGrid: put version number inline with name by @danirabbit in https://github.com/elementary/appcenter/pull/2347\r\n* Release 8.3.0 by @danirabbit in https://github.com/elementary/appcenter/pull/2348\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/appcenter/compare/8.2.0...8.3.0",
         "href": "https://github.com/elementary/appcenter/releases/tag/8.3.0"
       },
       {
@@ -510,7 +510,7 @@
         "version": "8.2.0",
         "release_date": "2025-09-10T16:51:14+00:00",
         "title": "switchboard-plug-network 8.2.0 Released",
-        "body": "<p>Minor updates</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "body": "<p>Minor updates</p>\r\n<ul>\r\n<li>Updated translations</li>\r\n</ul>\r\n\r\n## What's Changed\r\n* Actions: Use main branch by @ryonakano in https://github.com/elementary/settings-network/pull/435\r\n* Bump actions/checkout from 4 to 5 by @dependabot[bot] in https://github.com/elementary/settings-network/pull/437\r\n* rfkill: Use sizeof instead of literal size by @ryonakano in https://github.com/elementary/settings-network/pull/439\r\n* RKFill: add airplane mode property by @danirabbit in https://github.com/elementary/settings-network/pull/438\r\n* Release 8.2.0 by @danirabbit in https://github.com/elementary/settings-network/pull/442\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/settings-network/compare/8.1.0...8.2.0",
         "href": "https://github.com/elementary/settings-network/releases/tag/8.2.0"
       },
       {
@@ -650,7 +650,7 @@
         "version": "8.0.0",
         "release_date": "2025-09-10T16:50:51+00:00",
         "title": "wingpanel-indicator-network 8.0.0 Released",
-        "body": "<p>Improvements:</p>\n<ul>\n<li>Airplane mode disables networking radios, not bluetooth or wired networks</li>\n<li>Jump to settings by middle-clicking on toggles</li>\n<li>Updated translations</li>\n</ul>\n",
+        "body": "<p>Improvements:</p>\r\n<ul>\r\n<li>Airplane mode disables networking radios, not bluetooth or wired networks</li>\r\n<li>Jump to settings by middle-clicking on toggles</li>\r\n<li>Updated translations</li>\r\n</ul>\r\n\r\n## What's Changed\r\n* DisplayWidget: gtk4 prep by @danirabbit in https://github.com/elementary/wingpanel-indicator-network/pull/323\r\n* Replace ListBox and FlowBox iterators for GTK4 by @danirabbit in https://github.com/elementary/wingpanel-indicator-network/pull/324\r\n* Add styles to screen by @danirabbit in https://github.com/elementary/wingpanel-indicator-network/pull/325\r\n* VpnInterface: bind model by @danirabbit in https://github.com/elementary/wingpanel-indicator-network/pull/326\r\n* Indicator: use gesture for middle click by @danirabbit in https://github.com/elementary/wingpanel-indicator-network/pull/327\r\n* PopoverWidget: GTK4 prep by @danirabbit in https://github.com/elementary/wingpanel-indicator-network/pull/328\r\n* WifiMenuItem: GTK4 prep by @danirabbit in https://github.com/elementary/wingpanel-indicator-network/pull/330\r\n* WifiInterface: GTK4 prep by @danirabbit in https://github.com/elementary/wingpanel-indicator-network/pull/329\r\n* meson: Require gio-2.0 >= 2.74 by @ryonakano in https://github.com/elementary/wingpanel-indicator-network/pull/331\r\n* Create SettingsToggle widget by @danirabbit in https://github.com/elementary/wingpanel-indicator-network/pull/333\r\n* WifiMenuItem: button_release_event → notify active by @danirabbit in https://github.com/elementary/wingpanel-indicator-network/pull/334\r\n* Wifiinterface: Don't subclass Gtk.Label by @danirabbit in https://github.com/elementary/wingpanel-indicator-network/pull/335\r\n* Metainfo: add 8.0.0 release notes by @danirabbit in https://github.com/elementary/wingpanel-indicator-network/pull/336\r\n* PopoverWidget: add stateful icons to Airplane Mode by @danirabbit in https://github.com/elementary/wingpanel-indicator-network/pull/338\r\n* AirplaneMode: use RFKill by @danirabbit in https://github.com/elementary/wingpanel-indicator-network/pull/340\r\n* Check bluetooth for hardware lock before enabling by @danirabbit in https://github.com/elementary/wingpanel-indicator-network/pull/341\r\n* Fix crash in greeter by @vjr in https://github.com/elementary/wingpanel-indicator-network/pull/342\r\n* Metainfo: update 8.0.0 release notes by @danirabbit in https://github.com/elementary/wingpanel-indicator-network/pull/344\r\n* Actions: Use main branch by @ryonakano in https://github.com/elementary/wingpanel-indicator-network/pull/347\r\n* Bump actions/checkout from 4 to 5 by @dependabot[bot] in https://github.com/elementary/wingpanel-indicator-network/pull/348\r\n* rfkill: Use sizeof instead of literal size by @ryonakano in https://github.com/elementary/wingpanel-indicator-network/pull/349\r\n* Release 8.0.0 by @danirabbit in https://github.com/elementary/wingpanel-indicator-network/pull/345\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/wingpanel-indicator-network/compare/7.1.1...8.0.0",
         "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/8.0.0"
       },
       {
@@ -783,7 +783,7 @@
         "version": "8.2.0",
         "release_date": "2025-09-09T16:11:16+00:00",
         "title": "dock 8.2.0 Released",
-        "body": "<p>Updated translations</p>\n",
+        "body": "<p>Updated translations</p>\r\n\r\n## What's Changed\r\n* Use shadow width instead of custom size by @leolost2605 in https://github.com/elementary/dock/pull/437\r\n* Implement background app monitoring by @leolost2605 in https://github.com/elementary/dock/pull/394\r\n* Keep the dock visible in the MultitaskingView by @leolost2605 in https://github.com/elementary/dock/pull/375\r\n* Actions: Use main branch by @ryonakano in https://github.com/elementary/dock/pull/440\r\n* Update POTFILES by @ryonakano in https://github.com/elementary/dock/pull/442\r\n* Replace tooltip with popover by @sebastianlay in https://github.com/elementary/dock/pull/441\r\n* Fix shaking of window when moving icon by @sebastianlay in https://github.com/elementary/dock/pull/445\r\n* Bump actions/checkout from 4 to 5 by @dependabot[bot] in https://github.com/elementary/dock/pull/448\r\n* Add shake to app icon when window cannot be opened by @sebastianlay in https://github.com/elementary/dock/pull/446\r\n* Metainfo: add 8.2.0 release notes by @danirabbit in https://github.com/elementary/dock/pull/452\r\n* Styles: Fix \"Active on Other Workspace\" indicator color by @wpkelso in https://github.com/elementary/dock/pull/450\r\n* MainWindow: only request multitasking view if workspace switcher enabled by @danirabbit in https://github.com/elementary/dock/pull/454\r\n* Release 8.2.0 by @danirabbit in https://github.com/elementary/dock/pull/453\r\n\r\n## New Contributors\r\n* @sebastianlay made their first contribution in https://github.com/elementary/dock/pull/441\r\n* @wpkelso made their first contribution in https://github.com/elementary/dock/pull/450\r\n\r\n**Full Changelog**: https://github.com/elementary/dock/compare/8.1.2...8.2.0",
         "href": "https://github.com/elementary/dock/releases/tag/8.2.0"
       },
       {
@@ -829,7 +829,7 @@
         "href": "https://github.com/elementary/dock/releases/tag/8.0.0"
       }
     ],
-    "new_commits": 23,
+    "new_commits": 27,
     "default_branch": "main"
   },
   {
@@ -839,7 +839,7 @@
         "version": "8.1.1",
         "release_date": "2025-09-07T16:44:08+00:00",
         "title": "code 8.1.1 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>The terminal pane is now synchronized with the Terminal app foreground, background and palette settings</li>\n<li>The terminal pane is now synchronized with GNOME font and cursor blink settings</li>\n<li>Updated translations</li>\n</ul>\n",
+        "body": "<p>Minor updates:</p>\r\n<ul>\r\n<li>The terminal pane is now synchronized with the Terminal app foreground, background and palette settings</li>\r\n<li>The terminal pane is now synchronized with GNOME font and cursor blink settings</li>\r\n<li>Updated translations</li>\r\n</ul>\r\n\r\n## What's Changed\r\n* Actions: Use main branch by @ryonakano in https://github.com/elementary/code/pull/1639\r\n* Restart shell in terminal pane if it exits by @jeremypw in https://github.com/elementary/code/pull/1618\r\n* Rework terminal settings by @jeremypw in https://github.com/elementary/code/pull/1585\r\n* Start to prepare release 8.2.0 appdata by @jeremypw in https://github.com/elementary/code/pull/1642\r\n* Bump actions/checkout from 4 to 5 by @dependabot[bot] in https://github.com/elementary/code/pull/1644\r\n* Release version 8.1.1 by @jeremypw in https://github.com/elementary/code/pull/1645\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/code/compare/8.1.0...8.1.1",
         "href": "https://github.com/elementary/code/releases/tag/8.1.1"
       },
       {
@@ -993,7 +993,7 @@
         "version": "7.1.5",
         "release_date": "2025-09-07T16:36:39+00:00",
         "title": "files 7.1.5 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>The Properties Window now shows the exact date and time the file was last modified</li>\n<li>Updated translations</li>\n</ul>\n",
+        "body": "<p>Minor updates:</p>\r\n<ul>\r\n<li>The Properties Window now shows the exact date and time the file was last modified</li>\r\n<li>Updated translations</li>\r\n</ul>\r\n\r\n## What's Changed\r\n* Actions: Use main branch by @ryonakano in https://github.com/elementary/files/pull/2629\r\n* PropertiesWindow: Use \"iso\" format for datetimes by @jeremypw in https://github.com/elementary/files/pull/2609\r\n* Bump actions/checkout from 4 to 5 by @dependabot[bot] in https://github.com/elementary/files/pull/2631\r\n* Use overlay to show empty message by @jeremypw in https://github.com/elementary/files/pull/2567\r\n* Start appdata for release v7.1.5 by @jeremypw in https://github.com/elementary/files/pull/2621\r\n* FileOperations: Re-escape uris from Clipboard or DNDHandler before use in fileoperations by @jeremypw in https://github.com/elementary/files/pull/2616\r\n* Update metainfo for latest commit(s) by @jeremypw in https://github.com/elementary/files/pull/2633\r\n* Set no_show_all on empty_label to avoid unintended display by @jeremypw in https://github.com/elementary/files/pull/2634\r\n* Do not unquote dropped and pasted uris from uri_list by @jeremypw in https://github.com/elementary/files/pull/2638\r\n* Update metainfo for latest commit, update intended release date by @jeremypw in https://github.com/elementary/files/pull/2639\r\n* Release version 7.1.5 by @jeremypw in https://github.com/elementary/files/pull/2640\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/files/compare/7.1.4...7.1.5",
         "href": "https://github.com/elementary/files/releases/tag/7.1.5"
       },
       {
@@ -1329,7 +1329,7 @@
         "version": "8.1.0",
         "release_date": "2025-09-01T22:25:56+00:00",
         "title": "music 8.1.0 Released",
-        "body": "<p>Improvements:</p>\n<ul>\n<li>Show album art in the sound indicator</li>\n<li>Clear the queue</li>\n<li>Updated translations</li>\n</ul>\n",
+        "body": "<p>Improvements:</p>\r\n<ul>\r\n<li>Show album art in the sound indicator</li>\r\n<li>Clear the queue</li>\r\n<li>Updated translations</li>\r\n</ul>\r\n\r\n## What's Changed\r\n* Implement simple search in playlist by @jeremypw in https://github.com/elementary/music/pull/765\r\n* Add quit keyboard shortcut by @zeebok in https://github.com/elementary/music/pull/778\r\n* Actions: bump flatpak to 6.4 by @danirabbit in https://github.com/elementary/music/pull/788\r\n* CI: run arm workflows on arm runner by @davidmhewitt in https://github.com/elementary/music/pull/789\r\n* Update to Platform 8.1 by @danirabbit in https://github.com/elementary/music/pull/790\r\n* Add clear queue button by @Oowoosh0 in https://github.com/elementary/music/pull/795\r\n* Remove songs by @Oowoosh0 in https://github.com/elementary/music/pull/797\r\n* TrackRow: DRY menu popup at pointer by @danirabbit in https://github.com/elementary/music/pull/800\r\n* Fix gap below cover art by @Oowoosh0 in https://github.com/elementary/music/pull/799\r\n* MainWindow: replace ListBox with ListView by @danirabbit in https://github.com/elementary/music/pull/796\r\n* Correctly display artists name in NowPlayingView by @Oowoosh0 in https://github.com/elementary/music/pull/804\r\n* Bump flatpak/flatpak-github-actions from 6.4 to 6.5 by @dependabot[bot] in https://github.com/elementary/music/pull/807\r\n* Move lambdas into handlers by @teamcons in https://github.com/elementary/music/pull/809\r\n* Introduce save and restore methods by @teamcons in https://github.com/elementary/music/pull/810\r\n* Refresh screenshot to reflect current state by @teamcons in https://github.com/elementary/music/pull/812\r\n* Send artwork to MPRIS by @danirabbit in https://github.com/elementary/music/pull/805\r\n* Flatpak: bump platform to 8.2 by @ryonakano in https://github.com/elementary/music/pull/817\r\n* Actions: Use main branch by @ryonakano in https://github.com/elementary/music/pull/818\r\n* MainWindow: Fix missing gettext by @ryonakano in https://github.com/elementary/music/pull/819\r\n* Metainfo: add 8.1.0 release notes by @danirabbit in https://github.com/elementary/music/pull/821\r\n* Add dark mode screenshot by @danirabbit in https://github.com/elementary/music/pull/822\r\n* Metainfo: invert dark/light brand colors by @danirabbit in https://github.com/elementary/music/pull/823\r\n* README: Update dependencies list by @ryonakano in https://github.com/elementary/music/pull/826\r\n* Add accel to open files via Ctrl+O by @teamcons in https://github.com/elementary/music/pull/820\r\n* PlaybackManager: create actions internally by @danirabbit in https://github.com/elementary/music/pull/824\r\n* Restore last played by @teamcons in https://github.com/elementary/music/pull/814\r\n* Bump actions/checkout from 4 to 5 by @dependabot[bot] in https://github.com/elementary/music/pull/828\r\n* Introduce a SearchBar by @leolost2605 in https://github.com/elementary/music/pull/801\r\n* gschema: Fix invalid default value for previous-queue by @ryonakano in https://github.com/elementary/music/pull/830\r\n* Release 8.1.0 by @danirabbit in https://github.com/elementary/music/pull/825\r\n\r\n## New Contributors\r\n* @zeebok made their first contribution in https://github.com/elementary/music/pull/778\r\n* @Oowoosh0 made their first contribution in https://github.com/elementary/music/pull/795\r\n* @teamcons made their first contribution in https://github.com/elementary/music/pull/809\r\n\r\n**Full Changelog**: https://github.com/elementary/music/compare/8.0.0...8.1.0",
         "href": "https://github.com/elementary/music/releases/tag/8.1.0"
       },
       {
@@ -1448,7 +1448,7 @@
         "version": "8.1.2",
         "release_date": "2025-09-01T14:28:34+00:00",
         "title": "installer 8.1.2 Released",
-        "body": "<p>Improvements:</p>\n<ul>\n<li>Improve screen reader support</li>\n<li>Updated translations</li>\n</ul>\n",
+        "body": "<p>Improvements:</p>\r\n<ul>\r\n<li>Improve screen reader support</li>\r\n<li>Updated translations</li>\r\n</ul>\r\n\r\n## What's Changed\r\n* Gresource non-fdo media-memory by @danirabbit in https://github.com/elementary/installer/pull/876\r\n* CheckView: make warning items screen reader accessible by @danirabbit in https://github.com/elementary/installer/pull/885\r\n* InstallTypeGrid: improve screenreader labeling by @danirabbit in https://github.com/elementary/installer/pull/889\r\n* DiskGrid: improve screen reader labels by @danirabbit in https://github.com/elementary/installer/pull/890\r\n* Metainfo: add 8.1.2 release notes by @danirabbit in https://github.com/elementary/installer/pull/894\r\n* MainWindow: center on X11 by @danirabbit in https://github.com/elementary/installer/pull/884\r\n* Use CSS for tnum instead of Pango by @danirabbit in https://github.com/elementary/installer/pull/887\r\n* Actions: Use main branch by @ryonakano in https://github.com/elementary/installer/pull/899\r\n* EncryptView: make entries screen reader accessible by @danirabbit in https://github.com/elementary/installer/pull/896\r\n* EncryptView: make warnings messages screen reader accessible by @danirabbit in https://github.com/elementary/installer/pull/897\r\n* DiskBar: Add some safety checks to constraints calculations by @lenemter in https://github.com/elementary/installer/pull/901\r\n* Metainfo: add new issue fixes to 8.1.2 notes by @danirabbit in https://github.com/elementary/installer/pull/903\r\n* Bump actions/checkout from 4 to 5 by @dependabot[bot] in https://github.com/elementary/installer/pull/904\r\n* Release 8.1.2 by @danirabbit in https://github.com/elementary/installer/pull/895\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/installer/compare/8.1.1...8.1.2",
         "href": "https://github.com/elementary/installer/releases/tag/8.1.2"
       },
       {
@@ -1553,7 +1553,7 @@
         "version": "8.0.1",
         "release_date": "2025-08-28T16:47:05+00:00",
         "title": "calculator 8.0.1 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Replace \"Del\" button with an icon</li>\n<li>Updated translations</li>\n</ul>\n",
+        "body": "<p>Minor updates:</p>\r\n<ul>\r\n<li>Replace \"Del\" button with an icon</li>\r\n<li>Updated translations</li>\r\n</ul>\r\n\r\n## What's Changed\r\n* Actions: bump flatpak to 6.4 by @danirabbit in https://github.com/elementary/calculator/pull/280\r\n* CI: run arm workflows on arm runner by @davidmhewitt in https://github.com/elementary/calculator/pull/281\r\n* Bump platform to 8.1 by @danirabbit in https://github.com/elementary/calculator/pull/282\r\n* Bump flatpak/flatpak-github-actions from 6.4 to 6.5 by @dependabot[bot] in https://github.com/elementary/calculator/pull/283\r\n* Add action icon by @danirabbit in https://github.com/elementary/calculator/pull/284\r\n* Replace \"Del\" button with 'edit-clear-symbolic' icon by @alainm23 in https://github.com/elementary/calculator/pull/279\r\n* Flatpak: bump platform to 8.2 by @danirabbit in https://github.com/elementary/calculator/pull/285\r\n* Actions: Use main branch by @ryonakano in https://github.com/elementary/calculator/pull/288\r\n* Metainfo: add 8.0.1 release notes by @danirabbit in https://github.com/elementary/calculator/pull/286\r\n* Bump actions/checkout from 4 to 5 by @dependabot[bot] in https://github.com/elementary/calculator/pull/291\r\n* Release 8.0.1 by @danirabbit in https://github.com/elementary/calculator/pull/289\r\n\r\n## New Contributors\r\n* @alainm23 made their first contribution in https://github.com/elementary/calculator/pull/279\r\n\r\n**Full Changelog**: https://github.com/elementary/calculator/compare/8.0.0...8.0.1",
         "href": "https://github.com/elementary/calculator/releases/tag/8.0.1"
       },
       {
@@ -1700,14 +1700,14 @@
         "version": "8.0.3",
         "release_date": "2025-08-25T22:05:45+00:00",
         "title": "screenshot 8.0.3 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "body": "<p>Minor updates:</p>\r\n<ul>\r\n<li>Updated translations</li>\r\n</ul>\r\n\r\n## What's Changed\r\n* patch: fix screenshot crashing when image height exceeds width enough by @Tbusk in https://github.com/elementary/screenshot/pull/317\r\n* Metainfo: add 8.0.3 release notes by @danirabbit in https://github.com/elementary/screenshot/pull/318\r\n* Release 8.0.3 by @danirabbit in https://github.com/elementary/screenshot/pull/319\r\n\r\n## New Contributors\r\n* @Tbusk made their first contribution in https://github.com/elementary/screenshot/pull/317\r\n\r\n**Full Changelog**: https://github.com/elementary/screenshot/compare/8.0.2...8.0.3",
         "href": "https://github.com/elementary/screenshot/releases/tag/8.0.3"
       },
       {
         "version": "8.0.2",
         "release_date": "2025-08-13T15:21:39+00:00",
         "title": "Screenshot 8.0.2",
-        "body": "## What's Changed\r\n* CI: run ARM workflows on arm64 runner by @davidmhewitt in https://github.com/elementary/screenshot/pull/300\r\n* ScreenshotBackend: check for redacted font by @lenemter in https://github.com/elementary/screenshot/pull/302\r\n* Use Gtk.FileDialog to choose screenshots folder by @ryonakano in https://github.com/elementary/screenshot/pull/305\r\n* Fix screenshot is not saved to the selected folder if changed by @ryonakano in https://github.com/elementary/screenshot/pull/307\r\n* Bump Platform to 8.2 by @danirabbit in https://github.com/elementary/screenshot/pull/311\r\n* Actions: Use main branch by @ryonakano in https://github.com/elementary/screenshot/pull/314\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/screenshot/compare/8.0.1...8.0.2",
+        "body": "## What's Changed\r\n* CI: run ARM workflows on arm64 runner by @davidmhewitt in https://github.com/elementary/screenshot/pull/300\r\n* ScreenshotBackend: check for redacted font by @lenemter in https://github.com/elementary/screenshot/pull/302\r\n* Use Gtk.FileDialog to choose screenshots folder by @ryonakano in https://github.com/elementary/screenshot/pull/305\r\n* Fix screenshot is not saved to the selected folder if changed by @ryonakano in https://github.com/elementary/screenshot/pull/307\r\n* Bump Platform to 8.2 by @danirabbit in https://github.com/elementary/screenshot/pull/311\r\n* Actions: Use main branch by @ryonakano in https://github.com/elementary/screenshot/pull/314\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/screenshot/compare/8.0.1...8.0.2\r\n\r\n## What's Changed\r\n* Actions: bump flatpak to 6.4 by @danirabbit in https://github.com/elementary/screenshot/pull/298\r\n* CI: run ARM workflows on arm64 runner by @davidmhewitt in https://github.com/elementary/screenshot/pull/300\r\n* Bump platform to 8.1 by @danirabbit in https://github.com/elementary/screenshot/pull/301\r\n* ScreenshotBackend: check for redacted font by @lenemter in https://github.com/elementary/screenshot/pull/302\r\n* Bump flatpak/flatpak-github-actions from 6.4 to 6.5 by @dependabot[bot] in https://github.com/elementary/screenshot/pull/304\r\n* Use Gtk.FileDialog to choose screenshots folder by @ryonakano in https://github.com/elementary/screenshot/pull/305\r\n* Fix screenshot is not saved to the selected folder if changed by @ryonakano in https://github.com/elementary/screenshot/pull/307\r\n* Bump Platform to 8.2 by @danirabbit in https://github.com/elementary/screenshot/pull/311\r\n* Actions: Use main branch by @ryonakano in https://github.com/elementary/screenshot/pull/314\r\n* Bump actions/checkout from 4 to 5 by @dependabot[bot] in https://github.com/elementary/screenshot/pull/315\r\n* Release 8.0.2 by @danirabbit in https://github.com/elementary/screenshot/pull/312\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/screenshot/compare/8.0.1...8.0.2",
         "href": "https://github.com/elementary/screenshot/releases/tag/8.0.2"
       },
       {
@@ -1833,7 +1833,7 @@
         "version": "7.1.1",
         "release_date": "2025-08-22T14:48:23+00:00",
         "title": "terminal 7.1.1 Released",
-        "body": "<p>Other updates:</p>\n<ul>\n<li>Translation updates</li>\n</ul>\n",
+        "body": "<p>Other updates:</p>\r\n<ul>\r\n<li>Translation updates</li>\r\n</ul>\r\n\r\n## What's Changed\r\n* SearchToolbar: Modernise, prepare for Gtk4 by @jeremypw in https://github.com/elementary/terminal/pull/880\r\n* Unsafepastedialog: Modernise, Gtk4 preparation by @jeremypw in https://github.com/elementary/terminal/pull/881\r\n* ForegroundProcessDialog: Modernise/Gtk4 preparation by @jeremypw in https://github.com/elementary/terminal/pull/882\r\n* Colorpreferencesdialog: Modernise/Gtk4prep by @jeremypw in https://github.com/elementary/terminal/pull/883\r\n* TerminalView: Clean/Gtk4 preparation by @jeremypw in https://github.com/elementary/terminal/pull/886\r\n* Application: Gtk4 preparation by @jeremypw in https://github.com/elementary/terminal/pull/887\r\n* ZoomOverlay: Modernize/gtk4 preparation by @jeremypw in https://github.com/elementary/terminal/pull/884\r\n* Mainwindow: Gtk4 preparation by @jeremypw in https://github.com/elementary/terminal/pull/888\r\n* Check for possibly null primary monitor (e.g. in CI) by @jeremypw in https://github.com/elementary/terminal/pull/893\r\n* Fix incorrect line breaks when pasting/dropping into foreground processes by @jeremypw in https://github.com/elementary/terminal/pull/862\r\n* Remove tab process-finished icon on select by @jeremypw in https://github.com/elementary/terminal/pull/847\r\n* Start appdata for release 7.1.1 by @jeremypw in https://github.com/elementary/terminal/pull/895\r\n* Don't sanitize URI on drop by @lenemter in https://github.com/elementary/terminal/pull/894\r\n* No longer set window size from monitor as fallback by @jeremypw in https://github.com/elementary/terminal/pull/896\r\n* Prepare release 7.1.1 - update by @jeremypw in https://github.com/elementary/terminal/pull/900\r\n* Bump actions/checkout from 4 to 5 by @dependabot[bot] in https://github.com/elementary/terminal/pull/902\r\n* Focus tab when opening new window by @lenemter in https://github.com/elementary/terminal/pull/903\r\n* Release version 7.1.1 by @jeremypw in https://github.com/elementary/terminal/pull/905\r\n\r\n## New Contributors\r\n* @lenemter made their first contribution in https://github.com/elementary/terminal/pull/894\r\n\r\n**Full Changelog**: https://github.com/elementary/terminal/compare/7.1.0...7.1.1",
         "href": "https://github.com/elementary/terminal/releases/tag/7.1.1"
       },
       {
@@ -2775,7 +2775,7 @@
         "href": "https://github.com/elementary/capnet-assist/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 13,
+    "new_commits": 17,
     "default_branch": "master"
   },
   {
@@ -3384,7 +3384,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 58,
+    "new_commits": 60,
     "default_branch": "main"
   },
   {
@@ -3510,7 +3510,7 @@
         "href": "https://github.com/elementary/bluetooth-daemon/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 27,
+    "new_commits": 31,
     "default_branch": "main"
   },
   {
@@ -3811,7 +3811,7 @@
         "href": "https://github.com/elementary/flatpak-platform/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 12,
+    "new_commits": 14,
     "default_branch": "main"
   },
   {
@@ -6401,7 +6401,7 @@
         "href": "https://github.com/elementary/feedback/releases/tag/1.0"
       }
     ],
-    "new_commits": 38,
+    "new_commits": 40,
     "default_branch": "main"
   },
   {
@@ -6688,7 +6688,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 186,
+    "new_commits": 190,
     "default_branch": "main"
   },
   {
@@ -9285,7 +9285,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.0"
       }
     ],
-    "new_commits": 7303,
+    "new_commits": 7305,
     "default_branch": "master"
   },
   {
