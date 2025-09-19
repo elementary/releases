@@ -2278,7 +2278,7 @@
         "href": "https://github.com/elementary/videos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 8,
+    "new_commits": 9,
     "default_branch": "main"
   },
   {
@@ -6499,7 +6499,7 @@
         "href": "https://github.com/elementary/switchboard-plug-parental-controls/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 16,
+    "new_commits": 18,
     "default_branch": "main"
   },
   {
@@ -9145,7 +9145,7 @@
         "href": "https://github.com/elementary/mail/releases/tag/1.0.6"
       }
     ],
-    "new_commits": 77,
+    "new_commits": 78,
     "default_branch": "master"
   },
   {
