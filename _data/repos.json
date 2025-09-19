@@ -1438,7 +1438,7 @@
         "href": "https://github.com/elementary/music/releases/tag/0.4.0.3"
       }
     ],
-    "new_commits": 12,
+    "new_commits": 13,
     "default_branch": "main"
   },
   {
@@ -5099,7 +5099,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.0.4"
       }
     ],
-    "new_commits": 34,
+    "new_commits": 35,
     "default_branch": "master"
   },
   {
@@ -5904,7 +5904,7 @@
         "href": "https://github.com/elementary/greeter/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 71,
+    "new_commits": 72,
     "default_branch": "main"
   },
   {
