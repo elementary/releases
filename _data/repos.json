@@ -38,7 +38,7 @@
         "href": "https://github.com/elementary/quick-settings/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 5,
+    "new_commits": 6,
     "default_branch": "main"
   },
   {
@@ -4371,7 +4371,7 @@
         "href": "https://github.com/elementary/settings-desktop/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
       }
     ],
-    "new_commits": 10,
+    "new_commits": 11,
     "default_branch": "main"
   },
   {
@@ -4672,7 +4672,7 @@
         "href": "https://github.com/elementary/stylesheet/releases/tag/5.0.4"
       }
     ],
-    "new_commits": 29,
+    "new_commits": 30,
     "default_branch": "main"
   },
   {
@@ -6898,7 +6898,7 @@
         "href": "https://github.com/elementary/settings-useraccounts/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 42,
+    "new_commits": 43,
     "default_branch": "main"
   },
   {
@@ -8725,7 +8725,7 @@
         "href": "https://github.com/elementary/tasks/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 48,
+    "new_commits": 49,
     "default_branch": "main"
   },
   {
@@ -9285,7 +9285,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.0"
       }
     ],
-    "new_commits": 7298,
+    "new_commits": 7302,
     "default_branch": "master"
   },
   {
