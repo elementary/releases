@@ -640,7 +640,7 @@
         "href": "https://github.com/elementary/settings-network/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 5,
+    "new_commits": 6,
     "default_branch": "main"
   },
   {
@@ -983,7 +983,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 6,
+    "new_commits": 12,
     "default_branch": "master"
   },
   {
@@ -5904,7 +5904,7 @@
         "href": "https://github.com/elementary/greeter/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 70,
+    "new_commits": 71,
     "default_branch": "main"
   },
   {
