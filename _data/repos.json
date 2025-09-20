@@ -500,7 +500,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 3,
+    "new_commits": 4,
     "default_branch": "main"
   },
   {
@@ -829,7 +829,7 @@
         "href": "https://github.com/elementary/dock/releases/tag/8.0.0"
       }
     ],
-    "new_commits": 27,
+    "new_commits": 28,
     "default_branch": "main"
   },
   {
@@ -6688,7 +6688,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 191,
+    "new_commits": 192,
     "default_branch": "main"
   },
   {
@@ -9033,7 +9033,7 @@
         "href": "https://github.com/elementary/wallpapers/releases/tag/5.0"
       }
     ],
-    "new_commits": 41,
+    "new_commits": 42,
     "default_branch": "main"
   },
   {
