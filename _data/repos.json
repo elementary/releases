@@ -2950,8 +2950,8 @@
         "href": "https://github.com/elementary/os/releases/tag/5.1.1"
       }
     ],
-    "new_commits": 0,
-    "default_branch": "master"
+    "new_commits": 1,
+    "default_branch": "main"
   },
   {
     "name": "capnet-assist",
@@ -4434,7 +4434,7 @@
         "href": "https://github.com/elementary/notifications/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 18,
+    "new_commits": 19,
     "default_branch": "main"
   },
   {
@@ -6121,7 +6121,7 @@
         "href": "https://github.com/elementary/greeter/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 77,
+    "new_commits": 79,
     "default_branch": "main"
   },
   {
@@ -8144,7 +8144,7 @@
         "href": "https://github.com/elementary/monitor/releases/tag/0.2.0"
       }
     ],
-    "new_commits": 771,
+    "new_commits": 776,
     "default_branch": "main"
   },
   {
