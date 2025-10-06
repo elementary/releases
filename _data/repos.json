@@ -1452,7 +1452,7 @@
         "href": "https://github.com/elementary/dock/releases/tag/8.0.0"
       }
     ],
-    "new_commits": 31,
+    "new_commits": 32,
     "default_branch": "main"
   },
   {
@@ -3321,7 +3321,7 @@
         "href": "https://github.com/elementary/switchboard/releases/tag/2.3.0"
       }
     ],
-    "new_commits": 11,
+    "new_commits": 12,
     "default_branch": "main"
   },
   {
@@ -4154,7 +4154,7 @@
         "href": "https://github.com/elementary/flatpak-platform/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 15,
+    "new_commits": 16,
     "default_branch": "main"
   },
   {
