@@ -5320,6 +5320,20 @@
     "default_branch": "main"
   },
   {
+    "name": "live-chart",
+    "releases": [
+      {
+        "version": "2.0.0",
+        "release_date": "2025-04-16T00:09:28+00:00",
+        "title": "LiveChart 2.0.0",
+        "body": "",
+        "href": "https://github.com/elementary/live-chart/releases/tag/2.0.0"
+      }
+    ],
+    "new_commits": 0,
+    "default_branch": "main"
+  },
+  {
     "name": "wingpanel-indicator-sound",
     "releases": [
       {
