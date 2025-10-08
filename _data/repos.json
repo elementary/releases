@@ -612,7 +612,7 @@
         "href": "https://github.com/elementary/maps/releases/tag/0.1.0"
       }
     ],
-    "new_commits": 10,
+    "new_commits": 11,
     "default_branch": "main"
   },
   {
@@ -1942,7 +1942,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 35,
+    "new_commits": 37,
     "default_branch": "main"
   },
   {
@@ -5456,7 +5456,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.0.4"
       }
     ],
-    "new_commits": 47,
+    "new_commits": 49,
     "default_branch": "master"
   },
   {
