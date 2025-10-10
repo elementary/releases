@@ -1,5 +1,404 @@
 [
   {
+    "name": "monitor",
+    "releases": [
+      {
+        "version": "8.0.0",
+        "release_date": "2025-10-10T09:53:49+00:00",
+        "title": "monitor 8.0.0 Released",
+        "body": "<p>Other Improvements:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/monitor/releases/tag/8.0.0"
+      },
+      {
+        "version": "0.17.2",
+        "release_date": "2024-09-09T14:13:10+00:00",
+        "title": "0.17.2",
+        "body": "## What's Changed\r\n\r\n* Fix: If card0 is not available try card1\r\n* added: additional monitors and status info for cpu freq and vram usage by @ProPuke in https://github.com/stsdc/monitor/pull/373\r\n* Update Japanese translation by @ryonakano in https://github.com/stsdc/monitor/pull/374\r\n* Update Russian translation by @lenemter in https://github.com/stsdc/monitor/pull/375\r\n* [TRANS] Updated french translations by @RedNeath in https://github.com/stsdc/monitor/pull/376\r\n\r\n## New Contributors\r\n* @ProPuke made their first contribution in https://github.com/stsdc/monitor/pull/373\r\n* @lenemter made their first contribution in https://github.com/stsdc/monitor/pull/375\r\n* @RedNeath made their first contribution in https://github.com/stsdc/monitor/pull/376\r\n\r\n**Full Changelog**: https://github.com/stsdc/monitor/compare/0.17.1...0.17.2",
+        "href": "https://github.com/elementary/monitor/releases/tag/0.17.2"
+      },
+      {
+        "version": "0.17.1",
+        "release_date": "2024-04-02T16:20:00+00:00",
+        "title": "0.17.1",
+        "body": "  * Fix VRAM percentage\r\n\r\nSpecial thanks to @davidak",
+        "href": "https://github.com/elementary/monitor/releases/tag/0.17.1"
+      },
+      {
+        "version": "0.17.0",
+        "release_date": "2023-07-22T22:42:52+00:00",
+        "title": "0.17.0",
+        "body": "  * Add GPU temperature to the Indicator\r\n  * Fix assigning right icon and name to a process (special thanks to @ppvan and @nahuelwexd)\r\n  * Allow to filter processes by command\r\n  * Fix for icons appear slightly smaller in detailed process view",
+        "href": "https://github.com/elementary/monitor/releases/tag/0.17.0"
+      },
+      {
+        "version": "0.17.0-1",
+        "release_date": "2023-07-22T22:50:58+00:00",
+        "title": "",
+        "body": "",
+        "href": "https://github.com/elementary/monitor/releases/tag/0.17.0-1"
+      },
+      {
+        "version": "0.16.1-0",
+        "release_date": "2023-03-09T16:04:13+00:00",
+        "title": "0.16.1-0",
+        "body": "* Technical release to fix Launchpad package building",
+        "href": "https://github.com/elementary/monitor/releases/tag/0.16.1-0"
+      },
+      {
+        "version": "0.16.1",
+        "release_date": "2023-03-04T13:04:21+00:00",
+        "title": "0.16.1",
+        "body": "* Fix segfault when user can't be retrieved for process",
+        "href": "https://github.com/elementary/monitor/releases/tag/0.16.1"
+      },
+      {
+        "version": "0.16.0",
+        "release_date": "2023-02-24T19:16:47+00:00",
+        "title": "0.16.0",
+        "body": "  * Show processes from all users\r\n  * Refresh icons\r\n  * Fix some typos (@kianmeng)",
+        "href": "https://github.com/elementary/monitor/releases/tag/0.16.0"
+      },
+      {
+        "version": "0.15.1",
+        "release_date": "2023-01-28T18:04:26+00:00",
+        "title": "0.15.1",
+        "body": "- Fix error when trying to get percentage from non-detected GPU",
+        "href": "https://github.com/elementary/monitor/releases/tag/0.15.1"
+      },
+      {
+        "version": "0.15.0",
+        "release_date": "2023-01-22T15:02:23+00:00",
+        "title": "0.15.0",
+        "body": "  * Show containers stats (inspired by [Whaler](https://github.com/sdv43/whaler))\r\n  * Add GPU usage in Indicator\r\n  * Remove transparency from CPU stacked chart\r\n  * Add docker icon\r\n  * Update Ukrainian translation\r\n  * Update Portuguese translation @hugok79 \r\n  * Update Japanese translation @ryonakano \r\n  * Update Russian translation @camellan \r\n  * Fix segfaults caused by issue in assigning colors in charts @vjr \r\n  * Add an option to choose refresh rate\r\n  * Use harmonic mean to calculate frequency values @adm313",
+        "href": "https://github.com/elementary/monitor/releases/tag/0.15.0"
+      },
+      {
+        "version": "0.14.0",
+        "release_date": "2022-06-16T12:02:53+00:00",
+        "title": "0.14.0",
+        "body": "  * Sort list of opened files by process for easier reading\r\n  * Improve command parsing: support python commands\r\n  * Display bash icon for bash processes\r\n  * improve wording for disabling smooth lines option\r\n  * Fix incorrect spacing when confirming to kill process\r\n  * Hide search bar when avtive view is not a ProcessView\r\n  * Render charts for more than 36 cores\r\n  \r\n  Special thanks to contributors @andrewdbate, @MobileAZN and @adm313 ^^",
+        "href": "https://github.com/elementary/monitor/releases/tag/0.14.0"
+      },
+      {
+        "version": "0.13.0",
+        "release_date": "2022-03-16T21:19:30+00:00",
+        "title": "0.13.0",
+        "body": "  * Fix saving indicator preferences\r\n  * Fix displaying cache values\r\n  * CPU is now stacked chart\r\n  \r\nSpecial thanks to @andrewdbate and @NZTimKeegan :heart: ",
+        "href": "https://github.com/elementary/monitor/releases/tag/0.13.0"
+      },
+      {
+        "version": "0.12.0",
+        "release_date": "2022-01-10T20:57:28+00:00",
+        "title": "0.12.0",
+        "body": "* Handle LUKS volumes\r\n* Update Russian translation (@camellan)\r\n* Better CPU info UI\r\n* Add support for GPUs (AMD, Nvidia: @camellan)\r\n* Indicate high usage of cpu and memory in the Indicator\r\n* Better CPU temperature detection\r\n\r\n<a href=\"https://paypal.me/stsdc/10\">\r\n <img src=\"https://img.shields.io/badge/Donate-PayPal-green.svg\">\r\n </a>\r\n\r\n\r\nSpecial thanks for supporters: @MikoSh95",
+        "href": "https://github.com/elementary/monitor/releases/tag/0.12.0"
+      },
+      {
+        "version": "0.11.0",
+        "release_date": "2021-10-24T19:44:49+00:00",
+        "title": "0.11.0",
+        "body": "* Add info about drives (based on @Dirli's code)\r\n",
+        "href": "https://github.com/elementary/monitor/releases/tag/0.11.0"
+      },
+      {
+        "version": "0.10.1",
+        "release_date": "2021-10-22T19:53:53+00:00",
+        "title": "0.10.1",
+        "body": "  * Add support for vdx (vm) and nvme disks by @dr-Styki \r\n",
+        "href": "https://github.com/elementary/monitor/releases/tag/0.10.1"
+      },
+      {
+        "version": "0.10.0",
+        "release_date": "2021-09-23T18:50:37+00:00",
+        "title": "0.10.0",
+        "body": "* Adds dark theme 🌚",
+        "href": "https://github.com/elementary/monitor/releases/tag/0.10.0"
+      },
+      {
+        "version": "0.9.5",
+        "release_date": "2021-08-30T17:49:30+00:00",
+        "title": "0.9.5",
+        "body": "- Use Wingpanel 3.0\r\n- @krisives is a new maintainer of deb package\r\n- Update Ukrainian translation",
+        "href": "https://github.com/elementary/monitor/releases/tag/0.9.5"
+      },
+      {
+        "version": "0.9.4",
+        "release_date": "2021-04-23T20:30:00+00:00",
+        "title": "0.9.4",
+        "body": "",
+        "href": "https://github.com/elementary/monitor/releases/tag/0.9.4"
+      },
+      {
+        "version": "0.9.3",
+        "release_date": "2021-04-16T23:54:15+00:00",
+        "title": "0.9.3",
+        "body": "* 🐛 Try to fix frequent GUI hangs 🥶\r\n* 🇳🇱 Update Dutch translation (@Vistaus)\r\n* 🇵🇹 Update Portuguese translation (@hugok79)\r\n* 🇷🇴 Add Romanian translation (@tiberiufrat)",
+        "href": "https://github.com/elementary/monitor/releases/tag/0.9.3"
+      },
+      {
+        "version": "0.9.2",
+        "release_date": "2020-12-13T23:58:21+00:00",
+        "title": "0.9.2",
+        "body": "* Display Storage usage\r\n* Update Russian translation (@camellan)\r\n*  Update Portuguese translation (@hugok79)\r\n* Different colours for Upload and Download",
+        "href": "https://github.com/elementary/monitor/releases/tag/0.9.2"
+      },
+      {
+        "version": "0.9.1",
+        "release_date": "2020-09-04T16:23:02+00:00",
+        "title": "0.9.1",
+        "body": "* Update Portuguese translation (@rottenpants466)\r\n* Update Dutch translation (@Vistaus)\r\n* Smoother animations (@DevAlien)\r\n* Preselect first entry so that the info panel is always open (@DevAlien)\r\n* Show CPU temperature in the Indicator\r\n",
+        "href": "https://github.com/elementary/monitor/releases/tag/0.9.1"
+      },
+      {
+        "version": "0.9.0",
+        "release_date": "2020-08-18T19:15:24+00:00",
+        "title": "0.9.0",
+        "body": "* Better System Tab\r\n* Update Portuguese translation (@rottenpants466)\r\n* Save last opened view (@ryonakano)",
+        "href": "https://github.com/elementary/monitor/releases/tag/0.9.0"
+      },
+      {
+        "version": "0.8.1",
+        "release_date": "2020-07-20T19:39:05+00:00",
+        "title": "0.8.1",
+        "body": "* Update Japanese translation (Ryo Nakano)\r\n* Disable search entry, when System tab is active\r\n* Add screenshots",
+        "href": "https://github.com/elementary/monitor/releases/tag/0.8.1"
+      },
+      {
+        "version": "0.8.0",
+        "release_date": "2020-07-18T22:33:21+00:00",
+        "title": "0.8.0",
+        "body": "* Introduces new System tab",
+        "href": "https://github.com/elementary/monitor/releases/tag/0.8.0"
+      },
+      {
+        "version": "0.7.3",
+        "release_date": "2020-06-22T18:29:19+00:00",
+        "title": "0.7.3",
+        "body": "* Added tooltips to process state label (@ryonakano)\r\n* Small bugfix",
+        "href": "https://github.com/elementary/monitor/releases/tag/0.7.3"
+      },
+      {
+        "version": "0.7.2",
+        "release_date": "2020-05-04T22:26:49+00:00",
+        "title": "0.7.2",
+        "body": "* Fix sorting arrows\r\n* Update Russian translation (@camellan)\r\n* Add Turkish translation (@harunyasar)\r\n* Use newest version of [live-chart](https://github.com/lcallarec/live-chart) (@lcallarec)",
+        "href": "https://github.com/elementary/monitor/releases/tag/0.7.2"
+      },
+      {
+        "version": "0.7.1",
+        "release_date": "2020-04-14T23:14:33+00:00",
+        "title": "0.7.1",
+        "body": "",
+        "href": "https://github.com/elementary/monitor/releases/tag/0.7.1"
+      },
+      {
+        "version": "0.7.0",
+        "release_date": "2020-04-11T19:48:28+00:00",
+        "title": "0.7.0",
+        "body": "* Detailed process info in sidebar\r\n* CPU frequency in tooltip (Ryo Nakano)\r\n* Removed tree view . This fixes high CPU usage, indicator hangs, and app crashes\r\n* Special  thanks to gavr, Ryo Nakano, Adam Bieńkowski and Daniele Cocca",
+        "href": "https://github.com/elementary/monitor/releases/tag/0.7.0"
+      },
+      {
+        "version": "0.6.2",
+        "release_date": "2019-12-21T13:08:06+00:00",
+        "title": "0.6.2",
+        "body": "* Bugfix (potential) of crushes and high CPU usage</li>\r\n* Update German translation (Carsten Dietrich)</li>",
+        "href": "https://github.com/elementary/monitor/releases/tag/0.6.2"
+      },
+      {
+        "version": "0.6.1",
+        "release_date": "2019-11-13T20:21:29+00:00",
+        "title": "",
+        "body": "  * Update Portuguese translation (Hugo Carvalho)\r\n  * Update French translation (Nathan Bonnemains and Skeudwenn)\r\n  * Fix: Don't show swap percentage when it's not available (Ryo Nakano)",
+        "href": "https://github.com/elementary/monitor/releases/tag/0.6.1"
+      },
+      {
+        "version": "0.6.0",
+        "release_date": "2019-10-29T16:52:53+00:00",
+        "title": "",
+        "body": "* Update Italian translation (Mirko Brombin)\r\n* Show swap usage (Ryo Nakano)\r\n* Update Russian translation (camellan)\r\n* Code refactoring (Ryo Nakano)\r\n* Update Japanese translation (Ryo Nakano)",
+        "href": "https://github.com/elementary/monitor/releases/tag/0.6.0"
+      },
+      {
+        "version": "0.5.0",
+        "release_date": "2019-06-07T09:06:34+00:00",
+        "title": "",
+        "body": "* Fix contents of the window are not shown (Ryo Nakano)\r\n* Fix no row is still selected when indicator options are enabled (Ryo Nakano)\r\n* Fix the app crashes by clicking the \"End/Kill Process\" buttons when no process is selected (Ryo Nakano)\r\n* Added buttons to either \"kill\" or \"end\" a process. (Evan Buss)\r\n* Change screenshot to English (Christopher Crouse)\r\n* Update Russian translation (camellan)\r\n* Check if the default display is a X11 display (Hannes Schulze)\r\n* Update German translation (J0Ar)\r\n* Update Spanish translation (Mario Rodrigo)",
+        "href": "https://github.com/elementary/monitor/releases/tag/0.5.0"
+      },
+      {
+        "version": "0.4.4",
+        "release_date": "2019-04-12T16:29:28+00:00",
+        "title": "",
+        "body": " * Add start-in-background option to UI\r\n",
+        "href": "https://github.com/elementary/monitor/releases/tag/0.4.4"
+      },
+      {
+        "version": "0.4.3",
+        "release_date": "2019-04-03T18:26:04+00:00",
+        "title": "",
+        "body": "  * Add `--start-in-background` or `-b` command line option\r\n  * Add Italian and Portuguese translations\r\n  * Update Dutch, French and Spanish translations\r\n  * Fix Japanese translation",
+        "href": "https://github.com/elementary/monitor/releases/tag/0.4.3"
+      },
+      {
+        "version": "0.4.2",
+        "release_date": "2019-03-11T20:24:05+00:00",
+        "title": "",
+        "body": " * Minor bug fix\r\n * Make End process button red\r\n * Add Japanese translation",
+        "href": "https://github.com/elementary/monitor/releases/tag/0.4.2"
+      },
+      {
+        "version": "0.4.1",
+        "release_date": "2019-02-19T23:54:53+00:00",
+        "title": "",
+        "body": "  * Add CPU and RAM icons\r\n  * Update Polish and Russian translation\r\n  * Fix bug, that caused hanging",
+        "href": "https://github.com/elementary/monitor/releases/tag/0.4.1"
+      },
+      {
+        "version": "0.4.0",
+        "release_date": "2019-01-31T22:28:05+00:00",
+        "title": "",
+        "body": " * Add Monitor indicator\r\n * Add missing extra French translations\r\n  * Fix: if icon missing for the process, icon is taken from previous process\r\n * Fix: search erases my input while I'm typing\r\n * Fix POTFILES\r\n",
+        "href": "https://github.com/elementary/monitor/releases/tag/0.4.0"
+      },
+      {
+        "version": "0.3.7",
+        "release_date": "2019-01-23T16:45:19+00:00",
+        "title": "",
+        "body": "* Update French translation",
+        "href": "https://github.com/elementary/monitor/releases/tag/0.3.7"
+      },
+      {
+        "version": "0.3.6",
+        "release_date": "2018-11-23T15:27:29+00:00",
+        "title": "",
+        "body": "* New icon\r\n* Quit the app with Ctrl+Q",
+        "href": "https://github.com/elementary/monitor/releases/tag/0.3.6"
+      },
+      {
+        "version": "0.3.5",
+        "release_date": "2018-01-20T13:10:46+00:00",
+        "title": "",
+        "body": " * fix missing separator in rules file",
+        "href": "https://github.com/elementary/monitor/releases/tag/0.3.5"
+      },
+      {
+        "version": "0.3.4",
+        "release_date": "2018-01-20T13:05:08+00:00",
+        "title": "",
+        "body": "* fix debian package data",
+        "href": "https://github.com/elementary/monitor/releases/tag/0.3.4"
+      },
+      {
+        "version": "0.3.3",
+        "release_date": "2018-01-20T00:56:20+00:00",
+        "title": "",
+        "body": "* Fix showing icon for some apps\r\n* Pressing Enter focuses on process list\r\n* Filtering: process will be highlighted if its group has no other processes",
+        "href": "https://github.com/elementary/monitor/releases/tag/0.3.3"
+      },
+      {
+        "version": "0.3.2",
+        "release_date": "2017-11-28T17:22:25+00:00",
+        "title": "",
+        "body": "  * Ukrainian translation\r\n  * French translation\r\n  * Lithuanian translation\r\n  * German translation\r\n  * Spanish translation",
+        "href": "https://github.com/elementary/monitor/releases/tag/0.3.2"
+      },
+      {
+        "version": "0.3.1",
+        "release_date": "2017-09-05T17:17:08+00:00",
+        "title": "",
+        "body": "  * Added Russian translation\r\n",
+        "href": "https://github.com/elementary/monitor/releases/tag/0.3.1"
+      },
+      {
+        "version": "0.3.0",
+        "release_date": "2017-09-05T13:30:09+00:00",
+        "title": "",
+        "body": "  * A few bugs fixed\r\n  * Added Dutch and Polish translation\r\n  * Added shortcuts (CTRL + E to end process, arrows to navigate in tree)\r\n  * Added statusbar showing CPU and RAM usage",
+        "href": "https://github.com/elementary/monitor/releases/tag/0.3.0"
+      },
+      {
+        "version": "0.2.10",
+        "release_date": "2017-08-20T19:34:24+00:00",
+        "title": "",
+        "body": "* Update screenshot",
+        "href": "https://github.com/elementary/monitor/releases/tag/0.2.10"
+      },
+      {
+        "version": "0.2.9",
+        "release_date": "2017-08-20T16:05:03+00:00",
+        "title": "",
+        "body": "* Bug fixes.",
+        "href": "https://github.com/elementary/monitor/releases/tag/0.2.9"
+      },
+      {
+        "version": "0.2.8",
+        "release_date": "2017-08-20T12:43:38+00:00",
+        "title": "",
+        "body": "* Fixes.",
+        "href": "https://github.com/elementary/monitor/releases/tag/0.2.8"
+      },
+      {
+        "version": "0.2.7",
+        "release_date": "2017-08-20T10:43:35+00:00",
+        "title": "",
+        "body": "* Unique and ugly icon added.",
+        "href": "https://github.com/elementary/monitor/releases/tag/0.2.7"
+      },
+      {
+        "version": "0.2.6",
+        "release_date": "2017-08-18T21:55:47+00:00",
+        "title": "",
+        "body": "  * Initial Release.",
+        "href": "https://github.com/elementary/monitor/releases/tag/0.2.6"
+      },
+      {
+        "version": "0.2.5",
+        "release_date": "2017-08-18T16:12:25+00:00",
+        "title": "",
+        "body": "  * Initial Release.\r\n",
+        "href": "https://github.com/elementary/monitor/releases/tag/0.2.5"
+      },
+      {
+        "version": "0.2.4",
+        "release_date": "2017-08-18T14:49:13+00:00",
+        "title": "",
+        "body": "  * Initial Release.\r\n",
+        "href": "https://github.com/elementary/monitor/releases/tag/0.2.4"
+      },
+      {
+        "version": "0.2.3",
+        "release_date": "2017-08-18T14:30:46+00:00",
+        "title": "",
+        "body": "  * Initial Release.\r\n",
+        "href": "https://github.com/elementary/monitor/releases/tag/0.2.3"
+      },
+      {
+        "version": "0.2.2",
+        "release_date": "2017-08-18T14:24:12+00:00",
+        "title": "",
+        "body": "  * Initial Release.",
+        "href": "https://github.com/elementary/monitor/releases/tag/0.2.2"
+      },
+      {
+        "version": "0.2.1",
+        "release_date": "2017-08-18T10:42:24+00:00",
+        "title": "",
+        "body": "* Initial release.",
+        "href": "https://github.com/elementary/monitor/releases/tag/0.2.1"
+      },
+      {
+        "version": "0.2.0",
+        "release_date": "2017-08-18T10:42:24+00:00",
+        "title": "0.2.0",
+        "body": "  * Initial Release.",
+        "href": "https://github.com/elementary/monitor/releases/tag/0.2.0"
+      }
+    ],
+    "new_commits": 0,
+    "default_branch": "main"
+  },
+  {
     "name": "greeter",
     "releases": [
       {
@@ -7775,398 +8174,6 @@
     ],
     "new_commits": 85,
     "default_branch": "master"
-  },
-  {
-    "name": "monitor",
-    "releases": [
-      {
-        "version": "0.17.2",
-        "release_date": "2024-09-09T14:13:10+00:00",
-        "title": "0.17.2",
-        "body": "## What's Changed\r\n\r\n* Fix: If card0 is not available try card1\r\n* added: additional monitors and status info for cpu freq and vram usage by @ProPuke in https://github.com/stsdc/monitor/pull/373\r\n* Update Japanese translation by @ryonakano in https://github.com/stsdc/monitor/pull/374\r\n* Update Russian translation by @lenemter in https://github.com/stsdc/monitor/pull/375\r\n* [TRANS] Updated french translations by @RedNeath in https://github.com/stsdc/monitor/pull/376\r\n\r\n## New Contributors\r\n* @ProPuke made their first contribution in https://github.com/stsdc/monitor/pull/373\r\n* @lenemter made their first contribution in https://github.com/stsdc/monitor/pull/375\r\n* @RedNeath made their first contribution in https://github.com/stsdc/monitor/pull/376\r\n\r\n**Full Changelog**: https://github.com/stsdc/monitor/compare/0.17.1...0.17.2",
-        "href": "https://github.com/elementary/monitor/releases/tag/0.17.2"
-      },
-      {
-        "version": "0.17.1",
-        "release_date": "2024-04-02T16:20:00+00:00",
-        "title": "0.17.1",
-        "body": "  * Fix VRAM percentage\r\n\r\nSpecial thanks to @davidak",
-        "href": "https://github.com/elementary/monitor/releases/tag/0.17.1"
-      },
-      {
-        "version": "0.17.0",
-        "release_date": "2023-07-22T22:42:52+00:00",
-        "title": "0.17.0",
-        "body": "  * Add GPU temperature to the Indicator\r\n  * Fix assigning right icon and name to a process (special thanks to @ppvan and @nahuelwexd)\r\n  * Allow to filter processes by command\r\n  * Fix for icons appear slightly smaller in detailed process view",
-        "href": "https://github.com/elementary/monitor/releases/tag/0.17.0"
-      },
-      {
-        "version": "0.17.0-1",
-        "release_date": "2023-07-22T22:50:58+00:00",
-        "title": "",
-        "body": "",
-        "href": "https://github.com/elementary/monitor/releases/tag/0.17.0-1"
-      },
-      {
-        "version": "0.16.1-0",
-        "release_date": "2023-03-09T16:04:13+00:00",
-        "title": "0.16.1-0",
-        "body": "* Technical release to fix Launchpad package building",
-        "href": "https://github.com/elementary/monitor/releases/tag/0.16.1-0"
-      },
-      {
-        "version": "0.16.1",
-        "release_date": "2023-03-04T13:04:21+00:00",
-        "title": "0.16.1",
-        "body": "* Fix segfault when user can't be retrieved for process",
-        "href": "https://github.com/elementary/monitor/releases/tag/0.16.1"
-      },
-      {
-        "version": "0.16.0",
-        "release_date": "2023-02-24T19:16:47+00:00",
-        "title": "0.16.0",
-        "body": "  * Show processes from all users\r\n  * Refresh icons\r\n  * Fix some typos (@kianmeng)",
-        "href": "https://github.com/elementary/monitor/releases/tag/0.16.0"
-      },
-      {
-        "version": "0.15.1",
-        "release_date": "2023-01-28T18:04:26+00:00",
-        "title": "0.15.1",
-        "body": "- Fix error when trying to get percentage from non-detected GPU",
-        "href": "https://github.com/elementary/monitor/releases/tag/0.15.1"
-      },
-      {
-        "version": "0.15.0",
-        "release_date": "2023-01-22T15:02:23+00:00",
-        "title": "0.15.0",
-        "body": "  * Show containers stats (inspired by [Whaler](https://github.com/sdv43/whaler))\r\n  * Add GPU usage in Indicator\r\n  * Remove transparency from CPU stacked chart\r\n  * Add docker icon\r\n  * Update Ukrainian translation\r\n  * Update Portuguese translation @hugok79 \r\n  * Update Japanese translation @ryonakano \r\n  * Update Russian translation @camellan \r\n  * Fix segfaults caused by issue in assigning colors in charts @vjr \r\n  * Add an option to choose refresh rate\r\n  * Use harmonic mean to calculate frequency values @adm313",
-        "href": "https://github.com/elementary/monitor/releases/tag/0.15.0"
-      },
-      {
-        "version": "0.14.0",
-        "release_date": "2022-06-16T12:02:53+00:00",
-        "title": "0.14.0",
-        "body": "  * Sort list of opened files by process for easier reading\r\n  * Improve command parsing: support python commands\r\n  * Display bash icon for bash processes\r\n  * improve wording for disabling smooth lines option\r\n  * Fix incorrect spacing when confirming to kill process\r\n  * Hide search bar when avtive view is not a ProcessView\r\n  * Render charts for more than 36 cores\r\n  \r\n  Special thanks to contributors @andrewdbate, @MobileAZN and @adm313 ^^",
-        "href": "https://github.com/elementary/monitor/releases/tag/0.14.0"
-      },
-      {
-        "version": "0.13.0",
-        "release_date": "2022-03-16T21:19:30+00:00",
-        "title": "0.13.0",
-        "body": "  * Fix saving indicator preferences\r\n  * Fix displaying cache values\r\n  * CPU is now stacked chart\r\n  \r\nSpecial thanks to @andrewdbate and @NZTimKeegan :heart: ",
-        "href": "https://github.com/elementary/monitor/releases/tag/0.13.0"
-      },
-      {
-        "version": "0.12.0",
-        "release_date": "2022-01-10T20:57:28+00:00",
-        "title": "0.12.0",
-        "body": "* Handle LUKS volumes\r\n* Update Russian translation (@camellan)\r\n* Better CPU info UI\r\n* Add support for GPUs (AMD, Nvidia: @camellan)\r\n* Indicate high usage of cpu and memory in the Indicator\r\n* Better CPU temperature detection\r\n\r\n<a href=\"https://paypal.me/stsdc/10\">\r\n <img src=\"https://img.shields.io/badge/Donate-PayPal-green.svg\">\r\n </a>\r\n\r\n\r\nSpecial thanks for supporters: @MikoSh95",
-        "href": "https://github.com/elementary/monitor/releases/tag/0.12.0"
-      },
-      {
-        "version": "0.11.0",
-        "release_date": "2021-10-24T19:44:49+00:00",
-        "title": "0.11.0",
-        "body": "* Add info about drives (based on @Dirli's code)\r\n",
-        "href": "https://github.com/elementary/monitor/releases/tag/0.11.0"
-      },
-      {
-        "version": "0.10.1",
-        "release_date": "2021-10-22T19:53:53+00:00",
-        "title": "0.10.1",
-        "body": "  * Add support for vdx (vm) and nvme disks by @dr-Styki \r\n",
-        "href": "https://github.com/elementary/monitor/releases/tag/0.10.1"
-      },
-      {
-        "version": "0.10.0",
-        "release_date": "2021-09-23T18:50:37+00:00",
-        "title": "0.10.0",
-        "body": "* Adds dark theme 🌚",
-        "href": "https://github.com/elementary/monitor/releases/tag/0.10.0"
-      },
-      {
-        "version": "0.9.5",
-        "release_date": "2021-08-30T17:49:30+00:00",
-        "title": "0.9.5",
-        "body": "- Use Wingpanel 3.0\r\n- @krisives is a new maintainer of deb package\r\n- Update Ukrainian translation",
-        "href": "https://github.com/elementary/monitor/releases/tag/0.9.5"
-      },
-      {
-        "version": "0.9.4",
-        "release_date": "2021-04-23T20:30:00+00:00",
-        "title": "0.9.4",
-        "body": "",
-        "href": "https://github.com/elementary/monitor/releases/tag/0.9.4"
-      },
-      {
-        "version": "0.9.3",
-        "release_date": "2021-04-16T23:54:15+00:00",
-        "title": "0.9.3",
-        "body": "* 🐛 Try to fix frequent GUI hangs 🥶\r\n* 🇳🇱 Update Dutch translation (@Vistaus)\r\n* 🇵🇹 Update Portuguese translation (@hugok79)\r\n* 🇷🇴 Add Romanian translation (@tiberiufrat)",
-        "href": "https://github.com/elementary/monitor/releases/tag/0.9.3"
-      },
-      {
-        "version": "0.9.2",
-        "release_date": "2020-12-13T23:58:21+00:00",
-        "title": "0.9.2",
-        "body": "* Display Storage usage\r\n* Update Russian translation (@camellan)\r\n*  Update Portuguese translation (@hugok79)\r\n* Different colours for Upload and Download",
-        "href": "https://github.com/elementary/monitor/releases/tag/0.9.2"
-      },
-      {
-        "version": "0.9.1",
-        "release_date": "2020-09-04T16:23:02+00:00",
-        "title": "0.9.1",
-        "body": "* Update Portuguese translation (@rottenpants466)\r\n* Update Dutch translation (@Vistaus)\r\n* Smoother animations (@DevAlien)\r\n* Preselect first entry so that the info panel is always open (@DevAlien)\r\n* Show CPU temperature in the Indicator\r\n",
-        "href": "https://github.com/elementary/monitor/releases/tag/0.9.1"
-      },
-      {
-        "version": "0.9.0",
-        "release_date": "2020-08-18T19:15:24+00:00",
-        "title": "0.9.0",
-        "body": "* Better System Tab\r\n* Update Portuguese translation (@rottenpants466)\r\n* Save last opened view (@ryonakano)",
-        "href": "https://github.com/elementary/monitor/releases/tag/0.9.0"
-      },
-      {
-        "version": "0.8.1",
-        "release_date": "2020-07-20T19:39:05+00:00",
-        "title": "0.8.1",
-        "body": "* Update Japanese translation (Ryo Nakano)\r\n* Disable search entry, when System tab is active\r\n* Add screenshots",
-        "href": "https://github.com/elementary/monitor/releases/tag/0.8.1"
-      },
-      {
-        "version": "0.8.0",
-        "release_date": "2020-07-18T22:33:21+00:00",
-        "title": "0.8.0",
-        "body": "* Introduces new System tab",
-        "href": "https://github.com/elementary/monitor/releases/tag/0.8.0"
-      },
-      {
-        "version": "0.7.3",
-        "release_date": "2020-06-22T18:29:19+00:00",
-        "title": "0.7.3",
-        "body": "* Added tooltips to process state label (@ryonakano)\r\n* Small bugfix",
-        "href": "https://github.com/elementary/monitor/releases/tag/0.7.3"
-      },
-      {
-        "version": "0.7.2",
-        "release_date": "2020-05-04T22:26:49+00:00",
-        "title": "0.7.2",
-        "body": "* Fix sorting arrows\r\n* Update Russian translation (@camellan)\r\n* Add Turkish translation (@harunyasar)\r\n* Use newest version of [live-chart](https://github.com/lcallarec/live-chart) (@lcallarec)",
-        "href": "https://github.com/elementary/monitor/releases/tag/0.7.2"
-      },
-      {
-        "version": "0.7.1",
-        "release_date": "2020-04-14T23:14:33+00:00",
-        "title": "0.7.1",
-        "body": "",
-        "href": "https://github.com/elementary/monitor/releases/tag/0.7.1"
-      },
-      {
-        "version": "0.7.0",
-        "release_date": "2020-04-11T19:48:28+00:00",
-        "title": "0.7.0",
-        "body": "* Detailed process info in sidebar\r\n* CPU frequency in tooltip (Ryo Nakano)\r\n* Removed tree view . This fixes high CPU usage, indicator hangs, and app crashes\r\n* Special  thanks to gavr, Ryo Nakano, Adam Bieńkowski and Daniele Cocca",
-        "href": "https://github.com/elementary/monitor/releases/tag/0.7.0"
-      },
-      {
-        "version": "0.6.2",
-        "release_date": "2019-12-21T13:08:06+00:00",
-        "title": "0.6.2",
-        "body": "* Bugfix (potential) of crushes and high CPU usage</li>\r\n* Update German translation (Carsten Dietrich)</li>",
-        "href": "https://github.com/elementary/monitor/releases/tag/0.6.2"
-      },
-      {
-        "version": "0.6.1",
-        "release_date": "2019-11-13T20:21:29+00:00",
-        "title": "",
-        "body": "  * Update Portuguese translation (Hugo Carvalho)\r\n  * Update French translation (Nathan Bonnemains and Skeudwenn)\r\n  * Fix: Don't show swap percentage when it's not available (Ryo Nakano)",
-        "href": "https://github.com/elementary/monitor/releases/tag/0.6.1"
-      },
-      {
-        "version": "0.6.0",
-        "release_date": "2019-10-29T16:52:53+00:00",
-        "title": "",
-        "body": "* Update Italian translation (Mirko Brombin)\r\n* Show swap usage (Ryo Nakano)\r\n* Update Russian translation (camellan)\r\n* Code refactoring (Ryo Nakano)\r\n* Update Japanese translation (Ryo Nakano)",
-        "href": "https://github.com/elementary/monitor/releases/tag/0.6.0"
-      },
-      {
-        "version": "0.5.0",
-        "release_date": "2019-06-07T09:06:34+00:00",
-        "title": "",
-        "body": "* Fix contents of the window are not shown (Ryo Nakano)\r\n* Fix no row is still selected when indicator options are enabled (Ryo Nakano)\r\n* Fix the app crashes by clicking the \"End/Kill Process\" buttons when no process is selected (Ryo Nakano)\r\n* Added buttons to either \"kill\" or \"end\" a process. (Evan Buss)\r\n* Change screenshot to English (Christopher Crouse)\r\n* Update Russian translation (camellan)\r\n* Check if the default display is a X11 display (Hannes Schulze)\r\n* Update German translation (J0Ar)\r\n* Update Spanish translation (Mario Rodrigo)",
-        "href": "https://github.com/elementary/monitor/releases/tag/0.5.0"
-      },
-      {
-        "version": "0.4.4",
-        "release_date": "2019-04-12T16:29:28+00:00",
-        "title": "",
-        "body": " * Add start-in-background option to UI\r\n",
-        "href": "https://github.com/elementary/monitor/releases/tag/0.4.4"
-      },
-      {
-        "version": "0.4.3",
-        "release_date": "2019-04-03T18:26:04+00:00",
-        "title": "",
-        "body": "  * Add `--start-in-background` or `-b` command line option\r\n  * Add Italian and Portuguese translations\r\n  * Update Dutch, French and Spanish translations\r\n  * Fix Japanese translation",
-        "href": "https://github.com/elementary/monitor/releases/tag/0.4.3"
-      },
-      {
-        "version": "0.4.2",
-        "release_date": "2019-03-11T20:24:05+00:00",
-        "title": "",
-        "body": " * Minor bug fix\r\n * Make End process button red\r\n * Add Japanese translation",
-        "href": "https://github.com/elementary/monitor/releases/tag/0.4.2"
-      },
-      {
-        "version": "0.4.1",
-        "release_date": "2019-02-19T23:54:53+00:00",
-        "title": "",
-        "body": "  * Add CPU and RAM icons\r\n  * Update Polish and Russian translation\r\n  * Fix bug, that caused hanging",
-        "href": "https://github.com/elementary/monitor/releases/tag/0.4.1"
-      },
-      {
-        "version": "0.4.0",
-        "release_date": "2019-01-31T22:28:05+00:00",
-        "title": "",
-        "body": " * Add Monitor indicator\r\n * Add missing extra French translations\r\n  * Fix: if icon missing for the process, icon is taken from previous process\r\n * Fix: search erases my input while I'm typing\r\n * Fix POTFILES\r\n",
-        "href": "https://github.com/elementary/monitor/releases/tag/0.4.0"
-      },
-      {
-        "version": "0.3.7",
-        "release_date": "2019-01-23T16:45:19+00:00",
-        "title": "",
-        "body": "* Update French translation",
-        "href": "https://github.com/elementary/monitor/releases/tag/0.3.7"
-      },
-      {
-        "version": "0.3.6",
-        "release_date": "2018-11-23T15:27:29+00:00",
-        "title": "",
-        "body": "* New icon\r\n* Quit the app with Ctrl+Q",
-        "href": "https://github.com/elementary/monitor/releases/tag/0.3.6"
-      },
-      {
-        "version": "0.3.5",
-        "release_date": "2018-01-20T13:10:46+00:00",
-        "title": "",
-        "body": " * fix missing separator in rules file",
-        "href": "https://github.com/elementary/monitor/releases/tag/0.3.5"
-      },
-      {
-        "version": "0.3.4",
-        "release_date": "2018-01-20T13:05:08+00:00",
-        "title": "",
-        "body": "* fix debian package data",
-        "href": "https://github.com/elementary/monitor/releases/tag/0.3.4"
-      },
-      {
-        "version": "0.3.3",
-        "release_date": "2018-01-20T00:56:20+00:00",
-        "title": "",
-        "body": "* Fix showing icon for some apps\r\n* Pressing Enter focuses on process list\r\n* Filtering: process will be highlighted if its group has no other processes",
-        "href": "https://github.com/elementary/monitor/releases/tag/0.3.3"
-      },
-      {
-        "version": "0.3.2",
-        "release_date": "2017-11-28T17:22:25+00:00",
-        "title": "",
-        "body": "  * Ukrainian translation\r\n  * French translation\r\n  * Lithuanian translation\r\n  * German translation\r\n  * Spanish translation",
-        "href": "https://github.com/elementary/monitor/releases/tag/0.3.2"
-      },
-      {
-        "version": "0.3.1",
-        "release_date": "2017-09-05T17:17:08+00:00",
-        "title": "",
-        "body": "  * Added Russian translation\r\n",
-        "href": "https://github.com/elementary/monitor/releases/tag/0.3.1"
-      },
-      {
-        "version": "0.3.0",
-        "release_date": "2017-09-05T13:30:09+00:00",
-        "title": "",
-        "body": "  * A few bugs fixed\r\n  * Added Dutch and Polish translation\r\n  * Added shortcuts (CTRL + E to end process, arrows to navigate in tree)\r\n  * Added statusbar showing CPU and RAM usage",
-        "href": "https://github.com/elementary/monitor/releases/tag/0.3.0"
-      },
-      {
-        "version": "0.2.10",
-        "release_date": "2017-08-20T19:34:24+00:00",
-        "title": "",
-        "body": "* Update screenshot",
-        "href": "https://github.com/elementary/monitor/releases/tag/0.2.10"
-      },
-      {
-        "version": "0.2.9",
-        "release_date": "2017-08-20T16:05:03+00:00",
-        "title": "",
-        "body": "* Bug fixes.",
-        "href": "https://github.com/elementary/monitor/releases/tag/0.2.9"
-      },
-      {
-        "version": "0.2.8",
-        "release_date": "2017-08-20T12:43:38+00:00",
-        "title": "",
-        "body": "* Fixes.",
-        "href": "https://github.com/elementary/monitor/releases/tag/0.2.8"
-      },
-      {
-        "version": "0.2.7",
-        "release_date": "2017-08-20T10:43:35+00:00",
-        "title": "",
-        "body": "* Unique and ugly icon added.",
-        "href": "https://github.com/elementary/monitor/releases/tag/0.2.7"
-      },
-      {
-        "version": "0.2.6",
-        "release_date": "2017-08-18T21:55:47+00:00",
-        "title": "",
-        "body": "  * Initial Release.",
-        "href": "https://github.com/elementary/monitor/releases/tag/0.2.6"
-      },
-      {
-        "version": "0.2.5",
-        "release_date": "2017-08-18T16:12:25+00:00",
-        "title": "",
-        "body": "  * Initial Release.\r\n",
-        "href": "https://github.com/elementary/monitor/releases/tag/0.2.5"
-      },
-      {
-        "version": "0.2.4",
-        "release_date": "2017-08-18T14:49:13+00:00",
-        "title": "",
-        "body": "  * Initial Release.\r\n",
-        "href": "https://github.com/elementary/monitor/releases/tag/0.2.4"
-      },
-      {
-        "version": "0.2.3",
-        "release_date": "2017-08-18T14:30:46+00:00",
-        "title": "",
-        "body": "  * Initial Release.\r\n",
-        "href": "https://github.com/elementary/monitor/releases/tag/0.2.3"
-      },
-      {
-        "version": "0.2.2",
-        "release_date": "2017-08-18T14:24:12+00:00",
-        "title": "",
-        "body": "  * Initial Release.",
-        "href": "https://github.com/elementary/monitor/releases/tag/0.2.2"
-      },
-      {
-        "version": "0.2.1",
-        "release_date": "2017-08-18T10:42:24+00:00",
-        "title": "",
-        "body": "* Initial release.",
-        "href": "https://github.com/elementary/monitor/releases/tag/0.2.1"
-      },
-      {
-        "version": "0.2.0",
-        "release_date": "2017-08-18T10:42:24+00:00",
-        "title": "0.2.0",
-        "body": "  * Initial Release.",
-        "href": "https://github.com/elementary/monitor/releases/tag/0.2.0"
-      }
-    ],
-    "new_commits": 838,
-    "default_branch": "main"
   },
   {
     "name": "pantheon-wayland",
