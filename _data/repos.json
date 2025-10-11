@@ -180,8 +180,8 @@
       {
         "version": "8.0.0",
         "release_date": "2025-10-10T09:53:49+00:00",
-        "title": "monitor 8.0.0 Released",
-        "body": "<p>Other Improvements:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "title": "Monitor 8.0.0 Released",
+        "body": "<p>Other Improvements:</p>\r\n<ul>\r\n<li>Updated translations</li>\r\n<li>The app has been ported to GTK4\r\n<li>New GPU detection mechanism based on libpci\r\n</ul>\r\n",
         "href": "https://github.com/elementary/monitor/releases/tag/8.0.0"
       },
       {
