@@ -1697,7 +1697,7 @@
         "href": "https://github.com/elementary/settings-applications/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 9,
+    "new_commits": 10,
     "default_branch": "main"
   },
   {
@@ -3895,7 +3895,7 @@
         "href": "https://github.com/elementary/switchboard/releases/tag/2.3.0"
       }
     ],
-    "new_commits": 17,
+    "new_commits": 18,
     "default_branch": "main"
   },
   {
@@ -4301,7 +4301,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 98,
+    "new_commits": 99,
     "default_branch": "main"
   },
   {
@@ -4399,7 +4399,7 @@
         "href": "https://github.com/elementary/portals/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 41,
+    "new_commits": 42,
     "default_branch": "main"
   },
   {
@@ -4427,7 +4427,7 @@
         "href": "https://github.com/elementary/bluetooth-daemon/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 37,
+    "new_commits": 38,
     "default_branch": "main"
   },
   {
@@ -4567,7 +4567,7 @@
         "href": "https://github.com/elementary/settings-keyboard/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 27,
+    "new_commits": 28,
     "default_branch": "main"
   },
   {
@@ -4819,7 +4819,7 @@
         "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.0"
       }
     ],
-    "new_commits": 28,
+    "new_commits": 29,
     "default_branch": "main"
   },
   {
@@ -6079,7 +6079,7 @@
         "href": "https://github.com/elementary/wingpanel/releases/tag/2.0.3"
       }
     ],
-    "new_commits": 38,
+    "new_commits": 39,
     "default_branch": "master"
   },
   {
@@ -7150,7 +7150,7 @@
         "href": "https://github.com/elementary/switchboard-plug-parental-controls/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 21,
+    "new_commits": 22,
     "default_branch": "main"
   },
   {
@@ -7248,7 +7248,7 @@
         "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 45,
+    "new_commits": 46,
     "default_branch": "main"
   },
   {
@@ -7633,7 +7633,7 @@
         "href": "https://github.com/elementary/settings-sound/releases/tag/0.1"
       }
     ],
-    "new_commits": 25,
+    "new_commits": 26,
     "default_branch": "main"
   },
   {
@@ -8515,7 +8515,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.0.1"
       }
     ],
-    "new_commits": 49,
+    "new_commits": 50,
     "default_branch": "master"
   },
   {
@@ -8858,7 +8858,7 @@
         "href": "https://github.com/elementary/settings-notifications/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 72,
+    "new_commits": 74,
     "default_branch": "main"
   },
   {
@@ -9355,7 +9355,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.0"
       }
     ],
-    "new_commits": 7364,
+    "new_commits": 7370,
     "default_branch": "master"
   },
   {
