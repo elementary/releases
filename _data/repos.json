@@ -1144,7 +1144,7 @@
         "href": "https://github.com/elementary/greeter/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 4,
+    "new_commits": 6,
     "default_branch": "main"
   },
   {
@@ -9040,7 +9040,7 @@
         "href": "https://github.com/elementary/calendar/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 141,
+    "new_commits": 143,
     "default_branch": "master"
   },
   {
