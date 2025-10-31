@@ -3755,7 +3755,7 @@
         "href": "https://github.com/elementary/camera/releases/tag/1.0"
       }
     ],
-    "new_commits": 9,
+    "new_commits": 11,
     "default_branch": "main"
   },
   {
@@ -5645,7 +5645,7 @@
         "href": "https://github.com/elementary/settings-desktop/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
       }
     ],
-    "new_commits": 20,
+    "new_commits": 21,
     "default_branch": "main"
   },
   {
@@ -9054,7 +9054,7 @@
         "href": "https://github.com/elementary/calendar/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 147,
+    "new_commits": 150,
     "default_branch": "master"
   },
   {
