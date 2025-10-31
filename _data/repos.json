@@ -2481,7 +2481,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-network/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 10,
+    "new_commits": 12,
     "default_branch": "master"
   },
   {
@@ -2537,7 +2537,7 @@
         "href": "https://github.com/elementary/dock/releases/tag/8.0.0"
       }
     ],
-    "new_commits": 40,
+    "new_commits": 41,
     "default_branch": "main"
   },
   {
@@ -6660,7 +6660,7 @@
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
       }
     ],
-    "new_commits": 76,
+    "new_commits": 78,
     "default_branch": "master"
   },
   {
@@ -8326,7 +8326,7 @@
         "href": "https://github.com/elementary/panel-bluetooth/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 37,
+    "new_commits": 38,
     "default_branch": "main"
   },
   {
@@ -8536,7 +8536,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-notifications/releases/tag/2.0.1"
       }
     ],
-    "new_commits": 50,
+    "new_commits": 52,
     "default_branch": "master"
   },
   {
@@ -8613,7 +8613,7 @@
         "href": "https://github.com/elementary/panel-keyboard/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 42,
+    "new_commits": 44,
     "default_branch": "main"
   },
   {
