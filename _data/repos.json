@@ -1,5 +1,264 @@
 [
   {
+    "name": "mail",
+    "releases": [
+      {
+        "version": "8.0.1",
+        "release_date": "2025-11-11T23:44:28+00:00",
+        "title": "mail 8.0.1 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/mail/releases/tag/8.0.1"
+      },
+      {
+        "version": "8.0.0",
+        "release_date": "2024-05-29T18:44:58+00:00",
+        "title": "mail 8.0.0 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Use the actual recipients of a message as sender when replying or forwarding</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/mail/releases/tag/8.0.0"
+      },
+      {
+        "version": "7.2.0",
+        "release_date": "2023-08-01T20:44:00+00:00",
+        "title": "Mail 7.2.0 Released!",
+        "body": "## What's Changed\r\n* WebView: Update height after images were loaded by @leolost2605 in https://github.com/elementary/mail/pull/889\r\n* MainWindow: Updates for gtk4 by @leolost2605 in https://github.com/elementary/mail/pull/867\r\n* Always start InboxMonitor by @leolost2605 in https://github.com/elementary/mail/pull/890\r\n* Unify trash/archive by @leolost2605 in https://github.com/elementary/mail/pull/888\r\n* Handle network availability by @leolost2605 in https://github.com/elementary/mail/pull/871\r\n* Fix an issue that causes mail to never connect to the network by @leolost2605 in https://github.com/elementary/mail/pull/899\r\n* Application: hard code Gtk theme settings by @danirabbit in https://github.com/elementary/mail/pull/892\r\n* Improve performance when moving messages by @leolost2605 in https://github.com/elementary/mail/pull/897\r\n* Move capability by @leolost2605 in https://github.com/elementary/mail/pull/895\r\n* Application: force use of Portals by @danirabbit in https://github.com/elementary/mail/pull/902\r\n* Move menu to FoldersListView by @danirabbit in https://github.com/elementary/mail/pull/905\r\n* Use flatpak portal for background and autostart by @leolost2605 in https://github.com/elementary/mail/pull/882\r\n* Create flatpak-x-checker.yml by @danirabbit in https://github.com/elementary/mail/pull/909\r\n* Add support for inline images in the composer by @leolost2605 in https://github.com/elementary/mail/pull/907\r\n* Sort special folders to top by @leolost2605 in https://github.com/elementary/mail/pull/910\r\n* Move the composer editor toolbar into its own class by @leolost2605 in https://github.com/elementary/mail/pull/908\r\n* Update composing by @leolost2605 in https://github.com/elementary/mail/pull/894\r\n* Include attachments when forwarding by @leolost2605 in https://github.com/elementary/mail/pull/891\r\n* Improve move menu and make it searchable by @leolost2605 in https://github.com/elementary/mail/pull/916\r\n* CellRendererBadge: Remove reference of non-existent image by @bobby285271 in https://github.com/elementary/mail/pull/917\r\n* Allow renaming of folders by @leolost2605 in https://github.com/elementary/mail/pull/911\r\n* MessageList: use mail-move icon by @danirabbit in https://github.com/elementary/mail/pull/921\r\n* Metainfo: Distinguish the mails themselves and the app name by @ryonakano in https://github.com/elementary/mail/pull/924\r\n* FolderPopover: increase white space, natural height, search placeholder by @danirabbit in https://github.com/elementary/mail/pull/923\r\n* Gresource mail-move icon by @danirabbit in https://github.com/elementary/mail/pull/925\r\n* MainWindow: throw dialog for errors by @danirabbit in https://github.com/elementary/mail/pull/926\r\n* Show an InfoBar if attachments include an ICS file by @leolost2605 in https://github.com/elementary/mail/pull/915\r\n* Fix grouped archive folder by @leolost2605 in https://github.com/elementary/mail/pull/929\r\n* Gresource: add mail-archive by @danirabbit in https://github.com/elementary/mail/pull/933\r\n* Add support for signatures by @leolost2605 in https://github.com/elementary/mail/pull/900\r\n* Update metainfo by @leolost2605 in https://github.com/elementary/mail/pull/935\r\n* Swipe to archive and trash by @leolost2605 in https://github.com/elementary/mail/pull/930\r\n* Update screenshots by @danirabbit in https://github.com/elementary/mail/pull/938\r\n* Improve performance when switching between folders by @leolost2605 in https://github.com/elementary/mail/pull/928\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/mail/compare/7.1.0...7.2.0",
+        "href": "https://github.com/elementary/mail/releases/tag/7.2.0"
+      },
+      {
+        "version": "7.1.0",
+        "release_date": "2023-05-02T16:42:35+00:00",
+        "title": "Mail 7.1.0 Released!",
+        "body": "## What's Changed\r\n* Make SourceList internal by @danirabbit in https://github.com/elementary/mail/pull/827\r\n* MessageListItem: avoid crashing on empty Mime by @tintou in https://github.com/elementary/mail/pull/828\r\n* ci: Use JSON instead of YAML by @tintou in https://github.com/elementary/mail/pull/829\r\n* Switch to GHCR container by @davidmhewitt in https://github.com/elementary/mail/pull/831\r\n* Bump docker/setup-qemu-action from 1 to 2 by @dependabot in https://github.com/elementary/mail/pull/833\r\n* Bump bilelmoussaoui/flatpak-github-actions from 4 to 5 by @dependabot in https://github.com/elementary/mail/pull/832\r\n* Update flatpak actions to new namespace by @davidmhewitt in https://github.com/elementary/mail/pull/834\r\n* ComposerWidget: replace grid/box, code style by @danirabbit in https://github.com/elementary/mail/pull/839\r\n* AttachmentBar: Update style classes, include dialog by @danirabbit in https://github.com/elementary/mail/pull/841\r\n* Dialogs use present and response connect by @danirabbit in https://github.com/elementary/mail/pull/838\r\n* MessageListBox: set action enabled directly by @danirabbit in https://github.com/elementary/mail/pull/840\r\n* Replace unnecessary grids with boxes by @leolost2605 in https://github.com/elementary/mail/pull/843\r\n* InlineComposer: Small preparations for GTK4 by @leolost2605 in https://github.com/elementary/mail/pull/846\r\n* Prep for GTK4 MessageListItem cleanup by @leolost2605 in https://github.com/elementary/mail/pull/848\r\n* Bump flatpak/flatpak-github-actions from 5 to 6 by @dependabot in https://github.com/elementary/mail/pull/850\r\n* Prep GTK4: Include AttachmentBar in MessageListItem by @leolost2605 in https://github.com/elementary/mail/pull/849\r\n* Application: use startup by @danirabbit in https://github.com/elementary/mail/pull/837\r\n* Subclass Gtk.Box instead of Gtk.ListBox in Mail.MessageListBox by @leolost2605 in https://github.com/elementary/mail/pull/845\r\n* MainWindow: don't allow pane to shrink past contents by @danirabbit in https://github.com/elementary/mail/pull/854\r\n* MessageList: code style and cleanup by @danirabbit in https://github.com/elementary/mail/pull/853\r\n* Handle account adding live by @leolost2605 in https://github.com/elementary/mail/pull/855\r\n* Derive MessageListBox from Gtk.Box in preparation for GTK4 by @leolost2605 in https://github.com/elementary/mail/pull/856\r\n* ConversationListItem: Small updates for gtk4 by @leolost2605 in https://github.com/elementary/mail/pull/861\r\n* AttachmentButton: Updates for gtk4 by @leolost2605 in https://github.com/elementary/mail/pull/862\r\n* Remove inline composer by @leolost2605 in https://github.com/elementary/mail/pull/860\r\n* Composer: remove construction property that is always true by @danirabbit in https://github.com/elementary/mail/pull/863\r\n* Composer: use Hdy.Window and Hdy.HeaderBar by @danirabbit in https://github.com/elementary/mail/pull/864\r\n* Composer: Remove unused can_change_sender by @leolost2605 in https://github.com/elementary/mail/pull/865\r\n* Application.css: add scrolledwindow undershoot by @danirabbit in https://github.com/elementary/mail/pull/869\r\n* ConversationList: put the filter menu next to the searchbar by @danirabbit in https://github.com/elementary/mail/pull/868\r\n* MessageList: Use parameters for reply etc. actions by @leolost2605 in https://github.com/elementary/mail/pull/859\r\n* WelcomeView: Updates for gtk4 by @leolost2605 in https://github.com/elementary/mail/pull/870\r\n* Composer: add keyboard shortcuts by @danirabbit in https://github.com/elementary/mail/pull/873\r\n* Composer: set parent internally, use present by @danirabbit in https://github.com/elementary/mail/pull/872\r\n* InsertLinkDialog: Update for GTK4 by @leolost2605 in https://github.com/elementary/mail/pull/878\r\n* MessageListItem: Make Gravatar work again by @leolost2605 in https://github.com/elementary/mail/pull/883\r\n* Composer: Remove Ctrl + Backspace/Delete shortcuts by @lenemter in https://github.com/elementary/mail/pull/887\r\n\r\n## New Contributors\r\n* @dependabot made their first contribution in https://github.com/elementary/mail/pull/833\r\n* @lenemter made their first contribution in https://github.com/elementary/mail/pull/887\r\n\r\n**Full Changelog**: https://github.com/elementary/mail/compare/7.0.1...7.1.0",
+        "href": "https://github.com/elementary/mail/releases/tag/7.1.0"
+      },
+      {
+        "version": "7.0.1",
+        "release_date": "2023-03-15T02:08:07+00:00",
+        "title": "Mail 7.0.1 Released",
+        "body": "## What's Changed\r\n* MainWindow: Spelling: ellipsis by @comradekingu in https://github.com/elementary/mail/pull/791\r\n* build: fix documentation build by @bobby285271 in https://github.com/elementary/mail/pull/795\r\n* Docs: Add curiously omitted dependency on meson to the readme by @turbobastii in https://github.com/elementary/mail/pull/803\r\n* actions/checkout@v3 by @meisenzahl in https://github.com/elementary/mail/pull/811\r\n* build: support webkit2gtk-4.1 by @bobby285271 in https://github.com/elementary/mail/pull/794\r\n* Make a link containing '%' valid (Fix for #810) by @leolost2605 in https://github.com/elementary/mail/pull/813\r\n* Metainfo Improvements by @danirabbit in https://github.com/elementary/mail/pull/821\r\n* Fix #814: Crash on setting a message flag by @leolost2605 in https://github.com/elementary/mail/pull/825\r\n* Release 7.0.1 by @danirabbit in https://github.com/elementary/mail/pull/826\r\n\r\n## New Contributors\r\n* @bobby285271 made their first contribution in https://github.com/elementary/mail/pull/795\r\n* @turbobastii made their first contribution in https://github.com/elementary/mail/pull/803\r\n* @leolost2605 made their first contribution in https://github.com/elementary/mail/pull/813\r\n\r\n**Full Changelog**: https://github.com/elementary/mail/compare/7.0.0...7.0.1",
+        "href": "https://github.com/elementary/mail/releases/tag/7.0.1"
+      },
+      {
+        "version": "7.0.0",
+        "release_date": "2022-05-23T23:42:49+00:00",
+        "title": "mail 7.0.0 Released",
+        "body": "<p>Fixes:</p>\n<ul>\n<li>Fixed an error which caused mail accounts to be loaded multiple times</li>\n<li>Fixed a bug which caused Mail to crash occasionally</li>\n<li>Display recipient in Sent folder instead of sender</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Updated app icon</li>\n<li>New design</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/mail/releases/tag/7.0.0"
+      },
+      {
+        "version": "6.4.0",
+        "release_date": "2022-01-24T20:17:46+00:00",
+        "title": "mail 6.4.0 Released",
+        "body": "<p>New features:</p>\n<ul>\n<li>Use message subject for composer window title</li>\n<li>Added support for Unified Inbox for Microsoft 365 accounts</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Fixed an error which caused the inbox monitoring in the background to crash</li>\n<li>Removed duplicate sender addresses when composing a message</li>\n<li>Fix a freeze when archiving the last message in a folder</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Renamed Office 365 to Microsoft 365 to follow suite on Microsoft's rebranding</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/mail/releases/tag/6.4.0"
+      },
+      {
+        "version": "6.3.1",
+        "release_date": "2021-12-13T18:31:38+00:00",
+        "title": "mail 6.3.1 Released",
+        "body": "<p>Fixes:</p>\n<ul>\n<li>Fix a potential crash while loading messages</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/mail/releases/tag/6.3.1"
+      },
+      {
+        "version": "6.3.0",
+        "release_date": "2021-10-27T20:13:09+00:00",
+        "title": "Mail 6.3.0 Released",
+        "body": "<p>New features:</p>\r\n<ul>\r\n<li>Secondary-click menu on the conversations list</li>\r\n</ul>\r\n<p>Fixes:</p>\r\n<ul>\r\n<li>Ensure conversations are re-sorted by date when new messages appear</li>\r\n<li>Fixed sender combobox after opening a mailto link</li>\r\n<li>Mark sent messages as read</li>\r\n<li>Fix a hang when deleting the last message in a mailbox</li>\r\n<li>Fix an issue where some mail fails to be deleted</li>\r\n</ul>\r\n<p>Improvements:</p>\r\n<ul>\r\n<li>Use accent color for unread message titles</li>\r\n<li>Autoselect the next message after archiving</li>\r\n<li>Use local time in message headers</li>\r\n<li>Updated translations</li>\r\n</ul>",
+        "href": "https://github.com/elementary/mail/releases/tag/6.3.0"
+      },
+      {
+        "version": "6.2.0",
+        "release_date": "2021-09-27T20:37:50+00:00",
+        "title": "Mail 6.2.0 Released",
+        "body": "<p>New features:</p>\r\n<ul>\r\n<li>Send a notification when new messages arrive</li>\r\n<li>Add a button to manually fetch new messages</li>\r\n<li>Automatically select the next message after deleting</li>\r\n<li>Filter unread or starred conversations</li>\r\n</ul>\r\n<p>Fixes:</p>\r\n<ul>\r\n<li>Make sure we don't save sent messages twice for outlook.com accounts</li>\r\n<li>Fix a potential crash when changing folders</li>\r\n</ul>\r\n<p>Improvements:</p>\r\n<ul>\r\n<li>Improve search performance</li>\r\n<li>Updated translations</li>\r\n</ul>",
+        "href": "https://github.com/elementary/mail/releases/tag/6.2.0"
+      },
+      {
+        "version": "6.1.1",
+        "release_date": "2021-08-31T02:55:23+00:00",
+        "title": "mail 6.1.1 Released",
+        "body": "<p>Fixes:</p>\n<ul>\n<li>Fix an issue that prevented some messaging from rendering at all</li>\n<li>Set the correct \"From\" address when replying and multiple accounts are set up</li>\n<li>Fix a crash on startup for some conversations</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Only save drafts when there are new changes</li>\n<li>Move Undo notification to the message view</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/mail/releases/tag/6.1.1"
+      },
+      {
+        "version": "6.1.0",
+        "release_date": "2021-07-28T18:26:21+00:00",
+        "title": "mail 6.1.0 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Preserve conversation subjects when replying or forwarding</li>\n<li>Disable the composer while messages are being sent</li>\n<li>Edit saved draft messages</li>\n<li>Make sure we don't save sent messages twice for some account types</li>\n<li>Stability improvements</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/mail/releases/tag/6.1.0"
+      },
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-16T19:25:32+00:00",
+        "title": "mail 6.0.0 Released",
+        "body": "<p>Complete rewrite from scratch</p>\n",
+        "href": "https://github.com/elementary/mail/releases/tag/6.0.0"
+      },
+      {
+        "version": "1.0.8",
+        "release_date": "2018-10-15T22:57:24+00:00",
+        "title": "Mail 1.0.8 Released",
+        "body": "pantheon-mail 1.0.8 is out!\r\n\r\nChanges:\r\n* Don't automatically load messages on the first run\r\n* Support libsignon-glib instead of libgsignon-glib\r\n* Build fixes\r\n* Updated translations",
+        "href": "https://github.com/elementary/mail/releases/tag/1.0.8"
+      },
+      {
+        "version": "1.0.7",
+        "release_date": "2018-06-05T08:50:36+00:00",
+        "title": "Mail 1.0.7 Released",
+        "body": "pantheon-mail 1.0.7 is out!\r\n\r\nThis release contains minor fixes for deprecations and missing translations.",
+        "href": "https://github.com/elementary/mail/releases/tag/1.0.7"
+      },
+      {
+        "version": "1.0.6",
+        "release_date": "2017-08-24T06:23:03+00:00",
+        "title": "Mail 1.0.6 Released",
+        "body": "pantheon-mail 1.0.6 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/mail/milestone/2?closed=1).",
+        "href": "https://github.com/elementary/mail/releases/tag/1.0.6"
+      }
+    ],
+    "new_commits": 0,
+    "default_branch": "master"
+  },
+  {
+    "name": "settings-sound",
+    "releases": [
+      {
+        "version": "8.0.2",
+        "release_date": "2025-11-11T23:44:06+00:00",
+        "title": "settings-sound 8.0.2 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/settings-sound/releases/tag/8.0.2"
+      },
+      {
+        "version": "8.0.1",
+        "release_date": "2024-11-18T20:06:41+00:00",
+        "title": "switchboard-plug-sound 8.0.1 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Fix crash when connecting bluetooth audio players</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/settings-sound/releases/tag/8.0.1"
+      },
+      {
+        "version": "8.0.0",
+        "release_date": "2024-07-26T17:18:14+00:00",
+        "title": "switchboard-plug-sound 8.0.0 Released",
+        "body": "<p>New Features:</p>\n<ul>\n<li>Control the volume of individual apps</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Include missing output items in search results</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/settings-sound/releases/tag/8.0.0"
+      },
+      {
+        "version": "2.3.3",
+        "release_date": "2023-07-24T16:05:40+00:00",
+        "title": "Sound Settings 2.3.3 Released!",
+        "body": "## What's Changed\r\n* actions/checkout@v3 by @meisenzahl in https://github.com/elementary/switchboard-plug-sound/pull/233\r\n* Switch to GHCR containers by @davidmhewitt in https://github.com/elementary/switchboard-plug-sound/pull/237\r\n* Plug: place contents in a Clamp by @danirabbit in https://github.com/elementary/switchboard-plug-sound/pull/240\r\n* Output: more vertical layout by @danirabbit in https://github.com/elementary/switchboard-plug-sound/pull/241\r\n* InputPanel: better use vertical space by @danirabbit in https://github.com/elementary/switchboard-plug-sound/pull/242\r\n* OutputPanel: Remove extra margin by @danirabbit in https://github.com/elementary/switchboard-plug-sound/pull/243\r\n* Set volume scales sensitive based on device by @danirabbit in https://github.com/elementary/switchboard-plug-sound/pull/244\r\n* OutputPanel: include screen reader shortcut by @danirabbit in https://github.com/elementary/switchboard-plug-sound/pull/245\r\n* Try to fix crash by @lenemter in https://github.com/elementary/switchboard-plug-sound/pull/248\r\n* Metainfo Improvements by @danirabbit in https://github.com/elementary/switchboard-plug-sound/pull/249\r\n\r\n## New Contributors\r\n* @meisenzahl made their first contribution in https://github.com/elementary/switchboard-plug-sound/pull/233\r\n\r\n**Full Changelog**: https://github.com/elementary/switchboard-plug-sound/compare/2.3.2...2.3.3",
+        "href": "https://github.com/elementary/settings-sound/releases/tag/2.3.3"
+      },
+      {
+        "version": "2.3.2",
+        "release_date": "2022-10-27T16:48:10+00:00",
+        "title": "switchboard-plug-sound 2.3.2 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Use device form factor when available to assign more accurate icons</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/settings-sound/releases/tag/2.3.2"
+      },
+      {
+        "version": "2.3.1",
+        "release_date": "2022-04-06T22:51:58+00:00",
+        "title": "switchboard-plug-sound 2.3.1 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Provide a fallback device icon in case none is available</li>\n<li>More helpful placeholder text when no input devices are found</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/settings-sound/releases/tag/2.3.1"
+      },
+      {
+        "version": "2.3.0",
+        "release_date": "2021-11-23T17:14:56+00:00",
+        "title": "switchboard-plug-sound 2.3.0 Released",
+        "body": "<p>New features:</p>\n<ul>\n<li>Show device icons</li>\n<li>Switch to enable the screen reader</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/settings-sound/releases/tag/2.3.0"
+      },
+      {
+        "version": "2.2.7",
+        "release_date": "2021-07-14T21:21:28+00:00",
+        "title": "switchboard-plug-sound 2.2.7 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/settings-sound/releases/tag/2.2.7"
+      },
+      {
+        "version": "2.2.6",
+        "release_date": "2021-01-05T22:03:37+00:00",
+        "title": "switchboard-plug-sound 2.2.6 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Smoother transition when navigating away from this view</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/settings-sound/releases/tag/2.2.6"
+      },
+      {
+        "version": "2.2.5",
+        "release_date": "2020-09-03T21:58:44+00:00",
+        "title": "switchboard-plug-sound 2.2.5 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Fix crash with PulseAudio's echo cancellation plugin</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/settings-sound/releases/tag/2.2.5"
+      },
+      {
+        "version": "2.2.4",
+        "release_date": "2020-05-28T18:48:59+00:00",
+        "title": "switchboard-plug-sound 2.2.4 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/settings-sound/releases/tag/2.2.4"
+      },
+      {
+        "version": "2.2.3",
+        "release_date": "2020-04-03T20:29:30+00:00",
+        "title": "switchboard-plug-sound 2.2.3 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/settings-sound/releases/tag/2.2.3"
+      },
+      {
+        "version": "2.2.2",
+        "release_date": "2019-11-15T23:01:23+00:00",
+        "title": "switchboard-plug-sound 2.2.2 Released",
+        "body": "switchboard-plug-sound 2.2.2 is out! \n\nChanges:\n\n* Add volume slider event sound\n* Updated translations\n",
+        "href": "https://github.com/elementary/settings-sound/releases/tag/2.2.2"
+      },
+      {
+        "version": "2.2.1",
+        "release_date": "2019-04-08T18:36:47+00:00",
+        "title": "Switchboard Sound Plug 2.2.1",
+        "body": "switchboard-plug-sound 2.2.1 is out!\r\n\r\nChanges:\r\n* Fix crash affecting some devices such as HTC Vive\r\n* Updated translations",
+        "href": "https://github.com/elementary/settings-sound/releases/tag/2.2.1"
+      },
+      {
+        "version": "2.2.0",
+        "release_date": "2019-03-28T10:11:52+00:00",
+        "title": "Switchboard Sound Plug 2.2.0",
+        "body": "switchboard-plug-sound 2.2.0 is out!\r\n\r\nChanges:\r\n* Major overhaul of Output Devices logic, increasing available devices (such as HDMI) and no longer burying devices under \"Ports\"\r\n* Updated translations",
+        "href": "https://github.com/elementary/settings-sound/releases/tag/2.2.0"
+      },
+      {
+        "version": "2.1.3",
+        "release_date": "2019-01-08T13:44:35+00:00",
+        "title": "Switchboard Plug Sound 2.1.3",
+        "body": "switchboard-plug-sound 2.1.3 is out!\r\n\r\nChanges:\r\n* Expand event controls\r\n* Vala build fixes\r\n* Updated translations",
+        "href": "https://github.com/elementary/settings-sound/releases/tag/2.1.3"
+      },
+      {
+        "version": "2.1.2",
+        "release_date": "2018-10-15T20:46:08+00:00",
+        "title": "Switchboard Sound Plug 2.1.2",
+        "body": "switchboard-plug-sound 2.1.2 is out!\r\n\r\nChanges:\r\n* Fix microphone input level is not alignment\r\n* Update translations\r\n* Enable clicking on whole row to select device\r\n* Correct display style of balance slider\r\n* Build fixes",
+        "href": "https://github.com/elementary/settings-sound/releases/tag/2.1.2"
+      },
+      {
+        "version": "0.1.1",
+        "release_date": "2018-08-27T09:53:59+00:00",
+        "title": "Switchboard Sound Plug 0.1.1 Released",
+        "body": "switchboard-plug-sound 0.1.1 is out!\r\n\r\nChanges:\r\n* System sounds enable/disable control\r\n* Improved translations",
+        "href": "https://github.com/elementary/settings-sound/releases/tag/0.1.1"
+      },
+      {
+        "version": "0.1",
+        "release_date": "2018-06-08T16:09:23+00:00",
+        "title": "Switchboard Sound Plug 0.1 Released",
+        "body": "switchboard-plug-sound 0.1 is out!\r\n\r\nThis is the initial release.",
+        "href": "https://github.com/elementary/settings-sound/releases/tag/0.1"
+      }
+    ],
+    "new_commits": 0,
+    "default_branch": "main"
+  },
+  {
     "name": "notifications",
     "releases": [
       {
@@ -7784,139 +8043,6 @@
     "default_branch": "main"
   },
   {
-    "name": "settings-sound",
-    "releases": [
-      {
-        "version": "8.0.1",
-        "release_date": "2024-11-18T20:06:41+00:00",
-        "title": "switchboard-plug-sound 8.0.1 Released",
-        "body": "<p>Improvements:</p>\n<ul>\n<li>Fix crash when connecting bluetooth audio players</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/settings-sound/releases/tag/8.0.1"
-      },
-      {
-        "version": "8.0.0",
-        "release_date": "2024-07-26T17:18:14+00:00",
-        "title": "switchboard-plug-sound 8.0.0 Released",
-        "body": "<p>New Features:</p>\n<ul>\n<li>Control the volume of individual apps</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Include missing output items in search results</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/settings-sound/releases/tag/8.0.0"
-      },
-      {
-        "version": "2.3.3",
-        "release_date": "2023-07-24T16:05:40+00:00",
-        "title": "Sound Settings 2.3.3 Released!",
-        "body": "## What's Changed\r\n* actions/checkout@v3 by @meisenzahl in https://github.com/elementary/switchboard-plug-sound/pull/233\r\n* Switch to GHCR containers by @davidmhewitt in https://github.com/elementary/switchboard-plug-sound/pull/237\r\n* Plug: place contents in a Clamp by @danirabbit in https://github.com/elementary/switchboard-plug-sound/pull/240\r\n* Output: more vertical layout by @danirabbit in https://github.com/elementary/switchboard-plug-sound/pull/241\r\n* InputPanel: better use vertical space by @danirabbit in https://github.com/elementary/switchboard-plug-sound/pull/242\r\n* OutputPanel: Remove extra margin by @danirabbit in https://github.com/elementary/switchboard-plug-sound/pull/243\r\n* Set volume scales sensitive based on device by @danirabbit in https://github.com/elementary/switchboard-plug-sound/pull/244\r\n* OutputPanel: include screen reader shortcut by @danirabbit in https://github.com/elementary/switchboard-plug-sound/pull/245\r\n* Try to fix crash by @lenemter in https://github.com/elementary/switchboard-plug-sound/pull/248\r\n* Metainfo Improvements by @danirabbit in https://github.com/elementary/switchboard-plug-sound/pull/249\r\n\r\n## New Contributors\r\n* @meisenzahl made their first contribution in https://github.com/elementary/switchboard-plug-sound/pull/233\r\n\r\n**Full Changelog**: https://github.com/elementary/switchboard-plug-sound/compare/2.3.2...2.3.3",
-        "href": "https://github.com/elementary/settings-sound/releases/tag/2.3.3"
-      },
-      {
-        "version": "2.3.2",
-        "release_date": "2022-10-27T16:48:10+00:00",
-        "title": "switchboard-plug-sound 2.3.2 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Use device form factor when available to assign more accurate icons</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/settings-sound/releases/tag/2.3.2"
-      },
-      {
-        "version": "2.3.1",
-        "release_date": "2022-04-06T22:51:58+00:00",
-        "title": "switchboard-plug-sound 2.3.1 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Provide a fallback device icon in case none is available</li>\n<li>More helpful placeholder text when no input devices are found</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/settings-sound/releases/tag/2.3.1"
-      },
-      {
-        "version": "2.3.0",
-        "release_date": "2021-11-23T17:14:56+00:00",
-        "title": "switchboard-plug-sound 2.3.0 Released",
-        "body": "<p>New features:</p>\n<ul>\n<li>Show device icons</li>\n<li>Switch to enable the screen reader</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/settings-sound/releases/tag/2.3.0"
-      },
-      {
-        "version": "2.2.7",
-        "release_date": "2021-07-14T21:21:28+00:00",
-        "title": "switchboard-plug-sound 2.2.7 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/settings-sound/releases/tag/2.2.7"
-      },
-      {
-        "version": "2.2.6",
-        "release_date": "2021-01-05T22:03:37+00:00",
-        "title": "switchboard-plug-sound 2.2.6 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Smoother transition when navigating away from this view</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/settings-sound/releases/tag/2.2.6"
-      },
-      {
-        "version": "2.2.5",
-        "release_date": "2020-09-03T21:58:44+00:00",
-        "title": "switchboard-plug-sound 2.2.5 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Fix crash with PulseAudio's echo cancellation plugin</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/settings-sound/releases/tag/2.2.5"
-      },
-      {
-        "version": "2.2.4",
-        "release_date": "2020-05-28T18:48:59+00:00",
-        "title": "switchboard-plug-sound 2.2.4 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/settings-sound/releases/tag/2.2.4"
-      },
-      {
-        "version": "2.2.3",
-        "release_date": "2020-04-03T20:29:30+00:00",
-        "title": "switchboard-plug-sound 2.2.3 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/settings-sound/releases/tag/2.2.3"
-      },
-      {
-        "version": "2.2.2",
-        "release_date": "2019-11-15T23:01:23+00:00",
-        "title": "switchboard-plug-sound 2.2.2 Released",
-        "body": "switchboard-plug-sound 2.2.2 is out! \n\nChanges:\n\n* Add volume slider event sound\n* Updated translations\n",
-        "href": "https://github.com/elementary/settings-sound/releases/tag/2.2.2"
-      },
-      {
-        "version": "2.2.1",
-        "release_date": "2019-04-08T18:36:47+00:00",
-        "title": "Switchboard Sound Plug 2.2.1",
-        "body": "switchboard-plug-sound 2.2.1 is out!\r\n\r\nChanges:\r\n* Fix crash affecting some devices such as HTC Vive\r\n* Updated translations",
-        "href": "https://github.com/elementary/settings-sound/releases/tag/2.2.1"
-      },
-      {
-        "version": "2.2.0",
-        "release_date": "2019-03-28T10:11:52+00:00",
-        "title": "Switchboard Sound Plug 2.2.0",
-        "body": "switchboard-plug-sound 2.2.0 is out!\r\n\r\nChanges:\r\n* Major overhaul of Output Devices logic, increasing available devices (such as HDMI) and no longer burying devices under \"Ports\"\r\n* Updated translations",
-        "href": "https://github.com/elementary/settings-sound/releases/tag/2.2.0"
-      },
-      {
-        "version": "2.1.3",
-        "release_date": "2019-01-08T13:44:35+00:00",
-        "title": "Switchboard Plug Sound 2.1.3",
-        "body": "switchboard-plug-sound 2.1.3 is out!\r\n\r\nChanges:\r\n* Expand event controls\r\n* Vala build fixes\r\n* Updated translations",
-        "href": "https://github.com/elementary/settings-sound/releases/tag/2.1.3"
-      },
-      {
-        "version": "2.1.2",
-        "release_date": "2018-10-15T20:46:08+00:00",
-        "title": "Switchboard Sound Plug 2.1.2",
-        "body": "switchboard-plug-sound 2.1.2 is out!\r\n\r\nChanges:\r\n* Fix microphone input level is not alignment\r\n* Update translations\r\n* Enable clicking on whole row to select device\r\n* Correct display style of balance slider\r\n* Build fixes",
-        "href": "https://github.com/elementary/settings-sound/releases/tag/2.1.2"
-      },
-      {
-        "version": "0.1.1",
-        "release_date": "2018-08-27T09:53:59+00:00",
-        "title": "Switchboard Sound Plug 0.1.1 Released",
-        "body": "switchboard-plug-sound 0.1.1 is out!\r\n\r\nChanges:\r\n* System sounds enable/disable control\r\n* Improved translations",
-        "href": "https://github.com/elementary/settings-sound/releases/tag/0.1.1"
-      },
-      {
-        "version": "0.1",
-        "release_date": "2018-06-08T16:09:23+00:00",
-        "title": "Switchboard Sound Plug 0.1 Released",
-        "body": "switchboard-plug-sound 0.1 is out!\r\n\r\nThis is the initial release.",
-        "href": "https://github.com/elementary/settings-sound/releases/tag/0.1"
-      }
-    ],
-    "new_commits": 33,
-    "default_branch": "main"
-  },
-  {
     "name": "settings-printers",
     "releases": [
       {
@@ -9154,118 +9280,6 @@
     ],
     "new_commits": 45,
     "default_branch": "main"
-  },
-  {
-    "name": "mail",
-    "releases": [
-      {
-        "version": "8.0.0",
-        "release_date": "2024-05-29T18:44:58+00:00",
-        "title": "mail 8.0.0 Released",
-        "body": "<p>Improvements:</p>\n<ul>\n<li>Use the actual recipients of a message as sender when replying or forwarding</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/mail/releases/tag/8.0.0"
-      },
-      {
-        "version": "7.2.0",
-        "release_date": "2023-08-01T20:44:00+00:00",
-        "title": "Mail 7.2.0 Released!",
-        "body": "## What's Changed\r\n* WebView: Update height after images were loaded by @leolost2605 in https://github.com/elementary/mail/pull/889\r\n* MainWindow: Updates for gtk4 by @leolost2605 in https://github.com/elementary/mail/pull/867\r\n* Always start InboxMonitor by @leolost2605 in https://github.com/elementary/mail/pull/890\r\n* Unify trash/archive by @leolost2605 in https://github.com/elementary/mail/pull/888\r\n* Handle network availability by @leolost2605 in https://github.com/elementary/mail/pull/871\r\n* Fix an issue that causes mail to never connect to the network by @leolost2605 in https://github.com/elementary/mail/pull/899\r\n* Application: hard code Gtk theme settings by @danirabbit in https://github.com/elementary/mail/pull/892\r\n* Improve performance when moving messages by @leolost2605 in https://github.com/elementary/mail/pull/897\r\n* Move capability by @leolost2605 in https://github.com/elementary/mail/pull/895\r\n* Application: force use of Portals by @danirabbit in https://github.com/elementary/mail/pull/902\r\n* Move menu to FoldersListView by @danirabbit in https://github.com/elementary/mail/pull/905\r\n* Use flatpak portal for background and autostart by @leolost2605 in https://github.com/elementary/mail/pull/882\r\n* Create flatpak-x-checker.yml by @danirabbit in https://github.com/elementary/mail/pull/909\r\n* Add support for inline images in the composer by @leolost2605 in https://github.com/elementary/mail/pull/907\r\n* Sort special folders to top by @leolost2605 in https://github.com/elementary/mail/pull/910\r\n* Move the composer editor toolbar into its own class by @leolost2605 in https://github.com/elementary/mail/pull/908\r\n* Update composing by @leolost2605 in https://github.com/elementary/mail/pull/894\r\n* Include attachments when forwarding by @leolost2605 in https://github.com/elementary/mail/pull/891\r\n* Improve move menu and make it searchable by @leolost2605 in https://github.com/elementary/mail/pull/916\r\n* CellRendererBadge: Remove reference of non-existent image by @bobby285271 in https://github.com/elementary/mail/pull/917\r\n* Allow renaming of folders by @leolost2605 in https://github.com/elementary/mail/pull/911\r\n* MessageList: use mail-move icon by @danirabbit in https://github.com/elementary/mail/pull/921\r\n* Metainfo: Distinguish the mails themselves and the app name by @ryonakano in https://github.com/elementary/mail/pull/924\r\n* FolderPopover: increase white space, natural height, search placeholder by @danirabbit in https://github.com/elementary/mail/pull/923\r\n* Gresource mail-move icon by @danirabbit in https://github.com/elementary/mail/pull/925\r\n* MainWindow: throw dialog for errors by @danirabbit in https://github.com/elementary/mail/pull/926\r\n* Show an InfoBar if attachments include an ICS file by @leolost2605 in https://github.com/elementary/mail/pull/915\r\n* Fix grouped archive folder by @leolost2605 in https://github.com/elementary/mail/pull/929\r\n* Gresource: add mail-archive by @danirabbit in https://github.com/elementary/mail/pull/933\r\n* Add support for signatures by @leolost2605 in https://github.com/elementary/mail/pull/900\r\n* Update metainfo by @leolost2605 in https://github.com/elementary/mail/pull/935\r\n* Swipe to archive and trash by @leolost2605 in https://github.com/elementary/mail/pull/930\r\n* Update screenshots by @danirabbit in https://github.com/elementary/mail/pull/938\r\n* Improve performance when switching between folders by @leolost2605 in https://github.com/elementary/mail/pull/928\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/mail/compare/7.1.0...7.2.0",
-        "href": "https://github.com/elementary/mail/releases/tag/7.2.0"
-      },
-      {
-        "version": "7.1.0",
-        "release_date": "2023-05-02T16:42:35+00:00",
-        "title": "Mail 7.1.0 Released!",
-        "body": "## What's Changed\r\n* Make SourceList internal by @danirabbit in https://github.com/elementary/mail/pull/827\r\n* MessageListItem: avoid crashing on empty Mime by @tintou in https://github.com/elementary/mail/pull/828\r\n* ci: Use JSON instead of YAML by @tintou in https://github.com/elementary/mail/pull/829\r\n* Switch to GHCR container by @davidmhewitt in https://github.com/elementary/mail/pull/831\r\n* Bump docker/setup-qemu-action from 1 to 2 by @dependabot in https://github.com/elementary/mail/pull/833\r\n* Bump bilelmoussaoui/flatpak-github-actions from 4 to 5 by @dependabot in https://github.com/elementary/mail/pull/832\r\n* Update flatpak actions to new namespace by @davidmhewitt in https://github.com/elementary/mail/pull/834\r\n* ComposerWidget: replace grid/box, code style by @danirabbit in https://github.com/elementary/mail/pull/839\r\n* AttachmentBar: Update style classes, include dialog by @danirabbit in https://github.com/elementary/mail/pull/841\r\n* Dialogs use present and response connect by @danirabbit in https://github.com/elementary/mail/pull/838\r\n* MessageListBox: set action enabled directly by @danirabbit in https://github.com/elementary/mail/pull/840\r\n* Replace unnecessary grids with boxes by @leolost2605 in https://github.com/elementary/mail/pull/843\r\n* InlineComposer: Small preparations for GTK4 by @leolost2605 in https://github.com/elementary/mail/pull/846\r\n* Prep for GTK4 MessageListItem cleanup by @leolost2605 in https://github.com/elementary/mail/pull/848\r\n* Bump flatpak/flatpak-github-actions from 5 to 6 by @dependabot in https://github.com/elementary/mail/pull/850\r\n* Prep GTK4: Include AttachmentBar in MessageListItem by @leolost2605 in https://github.com/elementary/mail/pull/849\r\n* Application: use startup by @danirabbit in https://github.com/elementary/mail/pull/837\r\n* Subclass Gtk.Box instead of Gtk.ListBox in Mail.MessageListBox by @leolost2605 in https://github.com/elementary/mail/pull/845\r\n* MainWindow: don't allow pane to shrink past contents by @danirabbit in https://github.com/elementary/mail/pull/854\r\n* MessageList: code style and cleanup by @danirabbit in https://github.com/elementary/mail/pull/853\r\n* Handle account adding live by @leolost2605 in https://github.com/elementary/mail/pull/855\r\n* Derive MessageListBox from Gtk.Box in preparation for GTK4 by @leolost2605 in https://github.com/elementary/mail/pull/856\r\n* ConversationListItem: Small updates for gtk4 by @leolost2605 in https://github.com/elementary/mail/pull/861\r\n* AttachmentButton: Updates for gtk4 by @leolost2605 in https://github.com/elementary/mail/pull/862\r\n* Remove inline composer by @leolost2605 in https://github.com/elementary/mail/pull/860\r\n* Composer: remove construction property that is always true by @danirabbit in https://github.com/elementary/mail/pull/863\r\n* Composer: use Hdy.Window and Hdy.HeaderBar by @danirabbit in https://github.com/elementary/mail/pull/864\r\n* Composer: Remove unused can_change_sender by @leolost2605 in https://github.com/elementary/mail/pull/865\r\n* Application.css: add scrolledwindow undershoot by @danirabbit in https://github.com/elementary/mail/pull/869\r\n* ConversationList: put the filter menu next to the searchbar by @danirabbit in https://github.com/elementary/mail/pull/868\r\n* MessageList: Use parameters for reply etc. actions by @leolost2605 in https://github.com/elementary/mail/pull/859\r\n* WelcomeView: Updates for gtk4 by @leolost2605 in https://github.com/elementary/mail/pull/870\r\n* Composer: add keyboard shortcuts by @danirabbit in https://github.com/elementary/mail/pull/873\r\n* Composer: set parent internally, use present by @danirabbit in https://github.com/elementary/mail/pull/872\r\n* InsertLinkDialog: Update for GTK4 by @leolost2605 in https://github.com/elementary/mail/pull/878\r\n* MessageListItem: Make Gravatar work again by @leolost2605 in https://github.com/elementary/mail/pull/883\r\n* Composer: Remove Ctrl + Backspace/Delete shortcuts by @lenemter in https://github.com/elementary/mail/pull/887\r\n\r\n## New Contributors\r\n* @dependabot made their first contribution in https://github.com/elementary/mail/pull/833\r\n* @lenemter made their first contribution in https://github.com/elementary/mail/pull/887\r\n\r\n**Full Changelog**: https://github.com/elementary/mail/compare/7.0.1...7.1.0",
-        "href": "https://github.com/elementary/mail/releases/tag/7.1.0"
-      },
-      {
-        "version": "7.0.1",
-        "release_date": "2023-03-15T02:08:07+00:00",
-        "title": "Mail 7.0.1 Released",
-        "body": "## What's Changed\r\n* MainWindow: Spelling: ellipsis by @comradekingu in https://github.com/elementary/mail/pull/791\r\n* build: fix documentation build by @bobby285271 in https://github.com/elementary/mail/pull/795\r\n* Docs: Add curiously omitted dependency on meson to the readme by @turbobastii in https://github.com/elementary/mail/pull/803\r\n* actions/checkout@v3 by @meisenzahl in https://github.com/elementary/mail/pull/811\r\n* build: support webkit2gtk-4.1 by @bobby285271 in https://github.com/elementary/mail/pull/794\r\n* Make a link containing '%' valid (Fix for #810) by @leolost2605 in https://github.com/elementary/mail/pull/813\r\n* Metainfo Improvements by @danirabbit in https://github.com/elementary/mail/pull/821\r\n* Fix #814: Crash on setting a message flag by @leolost2605 in https://github.com/elementary/mail/pull/825\r\n* Release 7.0.1 by @danirabbit in https://github.com/elementary/mail/pull/826\r\n\r\n## New Contributors\r\n* @bobby285271 made their first contribution in https://github.com/elementary/mail/pull/795\r\n* @turbobastii made their first contribution in https://github.com/elementary/mail/pull/803\r\n* @leolost2605 made their first contribution in https://github.com/elementary/mail/pull/813\r\n\r\n**Full Changelog**: https://github.com/elementary/mail/compare/7.0.0...7.0.1",
-        "href": "https://github.com/elementary/mail/releases/tag/7.0.1"
-      },
-      {
-        "version": "7.0.0",
-        "release_date": "2022-05-23T23:42:49+00:00",
-        "title": "mail 7.0.0 Released",
-        "body": "<p>Fixes:</p>\n<ul>\n<li>Fixed an error which caused mail accounts to be loaded multiple times</li>\n<li>Fixed a bug which caused Mail to crash occasionally</li>\n<li>Display recipient in Sent folder instead of sender</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Updated app icon</li>\n<li>New design</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/mail/releases/tag/7.0.0"
-      },
-      {
-        "version": "6.4.0",
-        "release_date": "2022-01-24T20:17:46+00:00",
-        "title": "mail 6.4.0 Released",
-        "body": "<p>New features:</p>\n<ul>\n<li>Use message subject for composer window title</li>\n<li>Added support for Unified Inbox for Microsoft 365 accounts</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Fixed an error which caused the inbox monitoring in the background to crash</li>\n<li>Removed duplicate sender addresses when composing a message</li>\n<li>Fix a freeze when archiving the last message in a folder</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Renamed Office 365 to Microsoft 365 to follow suite on Microsoft's rebranding</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/mail/releases/tag/6.4.0"
-      },
-      {
-        "version": "6.3.1",
-        "release_date": "2021-12-13T18:31:38+00:00",
-        "title": "mail 6.3.1 Released",
-        "body": "<p>Fixes:</p>\n<ul>\n<li>Fix a potential crash while loading messages</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/mail/releases/tag/6.3.1"
-      },
-      {
-        "version": "6.3.0",
-        "release_date": "2021-10-27T20:13:09+00:00",
-        "title": "Mail 6.3.0 Released",
-        "body": "<p>New features:</p>\r\n<ul>\r\n<li>Secondary-click menu on the conversations list</li>\r\n</ul>\r\n<p>Fixes:</p>\r\n<ul>\r\n<li>Ensure conversations are re-sorted by date when new messages appear</li>\r\n<li>Fixed sender combobox after opening a mailto link</li>\r\n<li>Mark sent messages as read</li>\r\n<li>Fix a hang when deleting the last message in a mailbox</li>\r\n<li>Fix an issue where some mail fails to be deleted</li>\r\n</ul>\r\n<p>Improvements:</p>\r\n<ul>\r\n<li>Use accent color for unread message titles</li>\r\n<li>Autoselect the next message after archiving</li>\r\n<li>Use local time in message headers</li>\r\n<li>Updated translations</li>\r\n</ul>",
-        "href": "https://github.com/elementary/mail/releases/tag/6.3.0"
-      },
-      {
-        "version": "6.2.0",
-        "release_date": "2021-09-27T20:37:50+00:00",
-        "title": "Mail 6.2.0 Released",
-        "body": "<p>New features:</p>\r\n<ul>\r\n<li>Send a notification when new messages arrive</li>\r\n<li>Add a button to manually fetch new messages</li>\r\n<li>Automatically select the next message after deleting</li>\r\n<li>Filter unread or starred conversations</li>\r\n</ul>\r\n<p>Fixes:</p>\r\n<ul>\r\n<li>Make sure we don't save sent messages twice for outlook.com accounts</li>\r\n<li>Fix a potential crash when changing folders</li>\r\n</ul>\r\n<p>Improvements:</p>\r\n<ul>\r\n<li>Improve search performance</li>\r\n<li>Updated translations</li>\r\n</ul>",
-        "href": "https://github.com/elementary/mail/releases/tag/6.2.0"
-      },
-      {
-        "version": "6.1.1",
-        "release_date": "2021-08-31T02:55:23+00:00",
-        "title": "mail 6.1.1 Released",
-        "body": "<p>Fixes:</p>\n<ul>\n<li>Fix an issue that prevented some messaging from rendering at all</li>\n<li>Set the correct \"From\" address when replying and multiple accounts are set up</li>\n<li>Fix a crash on startup for some conversations</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Only save drafts when there are new changes</li>\n<li>Move Undo notification to the message view</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/mail/releases/tag/6.1.1"
-      },
-      {
-        "version": "6.1.0",
-        "release_date": "2021-07-28T18:26:21+00:00",
-        "title": "mail 6.1.0 Released",
-        "body": "<p>Improvements:</p>\n<ul>\n<li>Preserve conversation subjects when replying or forwarding</li>\n<li>Disable the composer while messages are being sent</li>\n<li>Edit saved draft messages</li>\n<li>Make sure we don't save sent messages twice for some account types</li>\n<li>Stability improvements</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/mail/releases/tag/6.1.0"
-      },
-      {
-        "version": "6.0.0",
-        "release_date": "2021-07-16T19:25:32+00:00",
-        "title": "mail 6.0.0 Released",
-        "body": "<p>Complete rewrite from scratch</p>\n",
-        "href": "https://github.com/elementary/mail/releases/tag/6.0.0"
-      },
-      {
-        "version": "1.0.8",
-        "release_date": "2018-10-15T22:57:24+00:00",
-        "title": "Mail 1.0.8 Released",
-        "body": "pantheon-mail 1.0.8 is out!\r\n\r\nChanges:\r\n* Don't automatically load messages on the first run\r\n* Support libsignon-glib instead of libgsignon-glib\r\n* Build fixes\r\n* Updated translations",
-        "href": "https://github.com/elementary/mail/releases/tag/1.0.8"
-      },
-      {
-        "version": "1.0.7",
-        "release_date": "2018-06-05T08:50:36+00:00",
-        "title": "Mail 1.0.7 Released",
-        "body": "pantheon-mail 1.0.7 is out!\r\n\r\nThis release contains minor fixes for deprecations and missing translations.",
-        "href": "https://github.com/elementary/mail/releases/tag/1.0.7"
-      },
-      {
-        "version": "1.0.6",
-        "release_date": "2017-08-24T06:23:03+00:00",
-        "title": "Mail 1.0.6 Released",
-        "body": "pantheon-mail 1.0.6 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/mail/milestone/2?closed=1).",
-        "href": "https://github.com/elementary/mail/releases/tag/1.0.6"
-      }
-    ],
-    "new_commits": 93,
-    "default_branch": "master"
   },
   {
     "name": "plymouth-theme",
