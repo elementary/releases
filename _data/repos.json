@@ -1,5 +1,985 @@
 [
   {
+    "name": "settings-security-privacy",
+    "releases": [
+      {
+        "version": "8.0.2",
+        "release_date": "2025-11-17T16:38:16+00:00",
+        "title": "settings-security-privacy 8.0.2 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Translation updates</li>\n</ul>\n",
+        "href": "https://github.com/elementary/settings-security-privacy/releases/tag/8.0.2"
+      },
+      {
+        "version": "8.0.1",
+        "release_date": "2024-12-12T20:08:00+00:00",
+        "title": "switchboard-plug-security-privacy 8.0.1 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Translation updates</li>\n</ul>\n",
+        "href": "https://github.com/elementary/settings-security-privacy/releases/tag/8.0.1"
+      },
+      {
+        "version": "8.0.0",
+        "release_date": "2024-07-29T17:16:47+00:00",
+        "title": "switchboard-plug-security-privacy 8.0.0 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Improved screen reader accessibility</li>\n<li>Translation updates</li>\n</ul>\n",
+        "href": "https://github.com/elementary/settings-security-privacy/releases/tag/8.0.0"
+      },
+      {
+        "version": "7.1.0",
+        "release_date": "2023-08-01T08:08:04+00:00",
+        "title": "Security & Privacy Settings 7.1.0 Released!",
+        "body": "## What's Changed\r\n* Add screenshot files cleanup option to Housekeeping by @Antolius in https://github.com/elementary/switchboard-plug-security-privacy/pull/141\r\n* LocationPanel: Check that apps are installed before listing by @danirabbit in https://github.com/elementary/switchboard-plug-security-privacy/pull/160\r\n* Meson: Fix deprecations and require newer version by @lenemter in https://github.com/elementary/switchboard-plug-security-privacy/pull/162\r\n\r\n## New Contributors\r\n* @Antolius made their first contribution in https://github.com/elementary/switchboard-plug-security-privacy/pull/141\r\n* @lenemter made their first contribution in https://github.com/elementary/switchboard-plug-security-privacy/pull/162\r\n\r\n**Full Changelog**: https://github.com/elementary/switchboard-plug-security-privacy/compare/7.0.0...7.1.0",
+        "href": "https://github.com/elementary/settings-security-privacy/releases/tag/7.1.0"
+      },
+      {
+        "version": "7.0.0",
+        "release_date": "2023-06-01T04:46:04+00:00",
+        "title": "Security & Privacy Settings 7.0.0 Released",
+        "body": "## What's Changed\r\n* Switch to GHCR containers by @davidmhewitt in https://github.com/elementary/switchboard-plug-security-privacy/pull/146\r\n* Bump actions/checkout from 1 to 3 by @dependabot in https://github.com/elementary/switchboard-plug-security-privacy/pull/147\r\n* Use location settings icon by @danirabbit in https://github.com/elementary/switchboard-plug-security-privacy/pull/152\r\n* Use Location Portal by @danirabbit in https://github.com/elementary/switchboard-plug-security-privacy/pull/148\r\n* Metainfo improvements by @danirabbit in https://github.com/elementary/switchboard-plug-security-privacy/pull/153\r\n* README: Update screenshot path by @ryonakano in https://github.com/elementary/switchboard-plug-security-privacy/pull/154\r\n* Release 7.0.0 by @danirabbit in https://github.com/elementary/switchboard-plug-security-privacy/pull/155\r\n\r\n## New Contributors\r\n* @dependabot made their first contribution in https://github.com/elementary/switchboard-plug-security-privacy/pull/147\r\n\r\n**Full Changelog**: https://github.com/elementary/switchboard-plug-security-privacy/compare/2.4.1...7.0.0",
+        "href": "https://github.com/elementary/settings-security-privacy/releases/tag/7.0.0"
+      },
+      {
+        "version": "2.4.1",
+        "release_date": "2022-10-26T04:41:36+00:00",
+        "title": "switchboard-plug-security-privacy 2.4.1 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Translation updates</li>\n</ul>\n",
+        "href": "https://github.com/elementary/settings-security-privacy/releases/tag/2.4.1"
+      },
+      {
+        "version": "2.4.0",
+        "release_date": "2022-05-18T22:52:56+00:00",
+        "title": "switchboard-plug-security-privacy 2.4.0 Released",
+        "body": "<p>New features:</p>\n<ul>\n<li>Option to forbid new USB devices while locked</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Translation updates</li>\n</ul>\n",
+        "href": "https://github.com/elementary/settings-security-privacy/releases/tag/2.4.0"
+      },
+      {
+        "version": "2.3.0",
+        "release_date": "2021-11-23T21:13:06+00:00",
+        "title": "switchboard-plug-security-privacy 2.3.0 Released",
+        "body": "<p>New features:</p>\n<ul>\n<li>Add Downloads option to Housekeeping</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Translation updates</li>\n</ul>\n",
+        "href": "https://github.com/elementary/settings-security-privacy/releases/tag/2.3.0"
+      },
+      {
+        "version": "2.2.5",
+        "release_date": "2021-07-14T22:02:36+00:00",
+        "title": "switchboard-plug-security-privacy 2.2.5 Released",
+        "body": "<ul>\n<li>Translation updates</li>\n</ul>\n",
+        "href": "https://github.com/elementary/settings-security-privacy/releases/tag/2.2.5"
+      },
+      {
+        "version": "2.2.4",
+        "release_date": "2020-05-25T18:11:21+00:00",
+        "title": "switchboard-plug-security-privacy 2.2.4 Released",
+        "body": "<ul>\n<li>Translation updates</li>\n</ul>\n",
+        "href": "https://github.com/elementary/settings-security-privacy/releases/tag/2.2.4"
+      },
+      {
+        "version": "2.2.3",
+        "release_date": "2020-04-08T20:06:40+00:00",
+        "title": "switchboard-plug-security-privacy 2.2.3 Released",
+        "body": "<ul>\n<li>Translation updates</li>\n</ul>\n",
+        "href": "https://github.com/elementary/settings-security-privacy/releases/tag/2.2.3"
+      },
+      {
+        "version": "2.2.2",
+        "release_date": "2019-10-29T22:10:13+00:00",
+        "title": "switchboard-plug-security-privacy 2.2.2 Released",
+        "body": "switchboard-plug-security-privacy 2.2.2 is out! \n\nChanges:\n\n* Redesigned \"Housekeeping\" page\n* Translation updates\n",
+        "href": "https://github.com/elementary/settings-security-privacy/releases/tag/2.2.2"
+      },
+      {
+        "version": "2.2.1",
+        "release_date": "2019-03-15T19:26:59+00:00",
+        "title": "Switchboard Security & Privacy Plug 2.2.1 Released",
+        "body": "switchboard-plug-security-privacy 2.2.1 is out!\r\n\r\nChanges:\r\n* Search keyword improvements\r\n* Updated translations",
+        "href": "https://github.com/elementary/settings-security-privacy/releases/tag/2.2.1"
+      },
+      {
+        "version": "2.2.0",
+        "release_date": "2018-10-16T02:10:58+00:00",
+        "title": "Switchboard Security & Privacy Plug 2.2.0 Released",
+        "body": "switchboard-plug-security-privacy 2.2.0 is out!\r\n\r\nChanges:\r\n* Housekeeping panel for temporary file management\r\n* Updated translations\r\n",
+        "href": "https://github.com/elementary/settings-security-privacy/releases/tag/2.2.0"
+      },
+      {
+        "version": "0.1.3",
+        "release_date": "2018-06-19T07:30:52+00:00",
+        "title": "Switchboard Security & Privacy Plug 0.1.3 Released",
+        "body": "switchboard-plug-security-privacy 0.1.3 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-security-privacy/issues?q=is%3Aclosed+milestone%3A0.1.3).",
+        "href": "https://github.com/elementary/settings-security-privacy/releases/tag/0.1.3"
+      },
+      {
+        "version": "0.1.2",
+        "release_date": "2017-05-22T19:20:44+00:00",
+        "title": "Switchboard Security & Privacy Plug 0.1.2 Released",
+        "body": "switchboard-plug-security-privacy 0.1.2 is out!",
+        "href": "https://github.com/elementary/settings-security-privacy/releases/tag/0.1.2"
+      }
+    ],
+    "new_commits": 0,
+    "default_branch": "main"
+  },
+  {
+    "name": "settings-desktop",
+    "releases": [
+      {
+        "version": "8.2.1",
+        "release_date": "2025-11-17T16:24:27+00:00",
+        "title": "settings-desktop 8.2.1 Released",
+        "body": "<p>Other updates:</p>\n<ul>\n<li>Update dock style</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/settings-desktop/releases/tag/8.2.1"
+      },
+      {
+        "version": "8.2.0",
+        "release_date": "2025-05-16T18:32:51+00:00",
+        "title": "settings-desktop 8.2.0 Released",
+        "body": "<p>Other updates:</p>\r\n<ul>\r\n<li>Add setting for fullscreen hotcorners</li>\r\n<li>Updated translations</li>\r\n</ul>\r\n\r\n## What's Changed\r\n* Vertical Align SpinButton by @alainm23 in https://github.com/elementary/settings-desktop/pull/422\r\n* Store Sidebar Position by @alainm23 in https://github.com/elementary/settings-desktop/pull/424\r\n* Meson: add log domain by @danirabbit in https://github.com/elementary/settings-desktop/pull/425\r\n* Multitasking: add a switch for fullscreen hotcorners by @danirabbit in https://github.com/elementary/settings-desktop/pull/428\r\n* HotcornerControl/CustomCommand: Fix infinite loop by @leolost2605 in https://github.com/elementary/settings-desktop/pull/433\r\n* Appearance: get/set animations from interface key by @danirabbit in https://github.com/elementary/settings-desktop/pull/438\r\n* Appearance: use stateful action for radios by @danirabbit in https://github.com/elementary/settings-desktop/pull/444\r\n* Multitasking: show apps menu hotcorner at the same corner as panel by @danirabbit in https://github.com/elementary/settings-desktop/pull/447\r\n* Appearance: use settings.create_action by @danirabbit in https://github.com/elementary/settings-desktop/pull/445\r\n\r\n## New Contributors\r\n* @alainm23 made their first contribution in https://github.com/elementary/settings-desktop/pull/422\r\n\r\n**Full Changelog**: https://github.com/elementary/settings-desktop/compare/8.1.0...8.2.0",
+        "href": "https://github.com/elementary/settings-desktop/releases/tag/8.2.0"
+      },
+      {
+        "version": "8.1.0",
+        "release_date": "2024-09-23T12:49:06+00:00",
+        "title": "switchboard-plug-pantheon-shell 8.1.0 Released",
+        "body": "<p>Other updates:</p>\n<ul>\n<li>Add setting for scroll to switch workspaces</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/settings-desktop/releases/tag/8.1.0"
+      },
+      {
+        "version": "8.0.1",
+        "release_date": "2024-08-20T13:57:15+00:00",
+        "title": "switchboard-plug-pantheon-shell 8.0.1 Released",
+        "body": "<p>Other updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/settings-desktop/releases/tag/8.0.1"
+      },
+      {
+        "version": "8.0.0",
+        "release_date": "2024-07-31T17:49:22+00:00",
+        "title": "switchboard-plug-pantheon-shell 8.0.0 Released",
+        "body": "<p>New Features:</p>\n<ul>\n<li>Always Show Scrollbars setting</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Redundant labels have been cleaned up on the Appearance tab</li>\n<li>The Dim Wallpaper setting has moved to the Appearance tab</li>\n<li>The style selector now shows of a preview of your wallpaper as well as previewing the dim setting</li>\n<li>Improved screen reader accessibility</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/settings-desktop/releases/tag/8.0.0"
+      },
+      {
+        "version": "6.5.0",
+        "release_date": "2023-07-24T17:02:15+00:00",
+        "title": "Desktop Settings 6.5.0 Released!",
+        "body": "## What's Changed\r\n* set-wallpaper: Fix delay value not shown as translated by @ryonakano in https://github.com/elementary/switchboard-plug-pantheon-shell/pull/352\r\n* Mark \"Dim with dark style:\" string as translatable by @1280px in https://github.com/elementary/switchboard-plug-pantheon-shell/pull/353\r\n* Wallpaper: Confirm wallpaper removal when hidden by @lenemter in https://github.com/elementary/switchboard-plug-pantheon-shell/pull/359\r\n* Dock: add checks for panel indicators by @danirabbit in https://github.com/elementary/switchboard-plug-pantheon-shell/pull/358\r\n* Dock: redesign by @danirabbit in https://github.com/elementary/switchboard-plug-pantheon-shell/pull/360\r\n* Multitasking: Remove top margin to match other pages by @lenemter in https://github.com/elementary/switchboard-plug-pantheon-shell/pull/362\r\n* Rely on settings-daemon to copy wallpaper to greeter by @lenemter in https://github.com/elementary/switchboard-plug-pantheon-shell/pull/361\r\n* Update screenshots by @danirabbit in https://github.com/elementary/switchboard-plug-pantheon-shell/pull/366\r\n\r\n## New Contributors\r\n* @ryonakano made their first contribution in https://github.com/elementary/switchboard-plug-pantheon-shell/pull/352\r\n* @1280px made their first contribution in https://github.com/elementary/switchboard-plug-pantheon-shell/pull/353\r\n\r\n**Full Changelog**: https://github.com/elementary/switchboard-plug-pantheon-shell/compare/6.4.0...6.5.0",
+        "href": "https://github.com/elementary/settings-desktop/releases/tag/6.5.0"
+      },
+      {
+        "version": "6.4.0",
+        "release_date": "2023-05-02T16:59:51+00:00",
+        "title": "Desktop Settings 6.4.0 Released",
+        "body": "## What's Changed\r\n* Meta: use preferences-desktop for icon by @danirabbit in https://github.com/elementary/switchboard-plug-pantheon-shell/pull/312\r\n* actions/checkout@v3 by @meisenzahl in https://github.com/elementary/switchboard-plug-pantheon-shell/pull/339\r\n* Switch to GHCR containers by @davidmhewitt in https://github.com/elementary/switchboard-plug-pantheon-shell/pull/341\r\n* Add previous/next workspace to hot corners by @lenemter in https://github.com/elementary/switchboard-plug-pantheon-shell/pull/342\r\n* Add an option to dim wallpapers when dark style is active by @lenemter in https://github.com/elementary/switchboard-plug-pantheon-shell/pull/343\r\n* Dock: fix icon size images by @danirabbit in https://github.com/elementary/switchboard-plug-pantheon-shell/pull/346\r\n* Text: use more vertical layout with headerlabels by @danirabbit in https://github.com/elementary/switchboard-plug-pantheon-shell/pull/345\r\n* Appearance: add reduce motion option by @danirabbit in https://github.com/elementary/switchboard-plug-pantheon-shell/pull/347\r\n* Metainfo Improvements by @danirabbit in https://github.com/elementary/switchboard-plug-pantheon-shell/pull/349\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/switchboard-plug-pantheon-shell/compare/6.3.1...6.4.0",
+        "href": "https://github.com/elementary/settings-desktop/releases/tag/6.4.0"
+      },
+      {
+        "version": "6.3.1",
+        "release_date": "2022-10-21T22:06:25+00:00",
+        "title": "switchboard-plug-pantheon-shell 6.3.1 Released",
+        "body": "<p>Other updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/settings-desktop/releases/tag/6.3.1"
+      },
+      {
+        "version": "6.3.0",
+        "release_date": "2022-08-15T18:15:27+00:00",
+        "title": "switchboard-plug-pantheon-shell 6.3.0 Released",
+        "body": "<p>New features:</p>\n<ul>\n<li>There is now an undo option after removing a wallpaper</li>\n<li>Wallpapers are now sorted with custom wallpapers first</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Wallpaper accent color follows system setting</li>\n<li>Set-wallpaper contract fails gracefully when run as sudo</li>\n<li>Wallpapers with the same name are distinguished</li>\n<li>Switching styles with the keyboard cancels dark style scheduling</li>\n<li>Style dyslexia-friendly switch properly</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/settings-desktop/releases/tag/6.3.0"
+      },
+      {
+        "version": "6.2.0",
+        "release_date": "2022-07-03T07:56:14+00:00",
+        "title": "switchboard-plug-pantheon-shell 6.2.0 Released",
+        "body": "<p>New features:</p>\n<ul>\n<li>Set custom Terminal commands for each hotcorner</li>\n<li>Redesigned Appearance and Multitasking views</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/settings-desktop/releases/tag/6.2.0"
+      },
+      {
+        "version": "6.1.0",
+        "release_date": "2021-11-23T21:26:47+00:00",
+        "title": "switchboard-plug-pantheon-shell 6.1.0 Released",
+        "body": "<p>New features:</p>\n<ul>\n<li>Move Text settings to their own page</li>\n<li>More granular settings for text scale</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/settings-desktop/releases/tag/6.1.0"
+      },
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-15T22:29:46+00:00",
+        "title": "switchboard-plug-pantheon-shell 6.0.0 Released",
+        "body": "<p>New features:</p>\n<ul>\n<li>Accent color and dark style options</li>\n<li>Dyslexia-friendly text preference to use the OpenDyslexia font system-wide</li>\n<li>Maximize and fullscreen workspace management options</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Fix a freeze after opening Power settings</li>\n<li>Improved filter for image file types when importing</li>\n<li>Visual updates</li>\n<li>Some options now appear in different tabs</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/settings-desktop/releases/tag/6.0.0"
+      },
+      {
+        "version": "2.8.4",
+        "release_date": "2020-04-22T21:37:28+00:00",
+        "title": "switchboard-plug-pantheon-shell 2.8.4 Released",
+        "body": "<p>Illustrate Dock icon sizes</p>\n<p>Fix system wallpapers being copied</p>\n<p>Update search results</p>\n<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/settings-desktop/releases/tag/2.8.4"
+      },
+      {
+        "version": "2.8.3",
+        "release_date": "2020-04-08T20:19:29+00:00",
+        "title": "switchboard-plug-pantheon-shell 2.8.3 Released",
+        "body": "<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/settings-desktop/releases/tag/2.8.3"
+      },
+      {
+        "version": "2.8.2",
+        "release_date": "2019-11-15T22:18:40+00:00",
+        "title": "switchboard-plug-pantheon-shell 2.8.2 Released",
+        "body": "switchboard-plug-pantheon-shell 2.8.2 is out! \n\nChanges:\n\n* Fix issues with setting wallpapers on the Login and Lock screen\n* Updated translations\n",
+        "href": "https://github.com/elementary/settings-desktop/releases/tag/2.8.2"
+      },
+      {
+        "version": "2.8.1",
+        "release_date": "2019-03-27T11:34:07+00:00",
+        "title": "Switchboard Desktop Plug 2.8.1 Released",
+        "body": "switchboard-plug-pantheon-shell 2.8.1 is out!\r\n\r\nChanges:\r\n* Updated translations",
+        "href": "https://github.com/elementary/settings-desktop/releases/tag/2.8.1"
+      },
+      {
+        "version": "2.8.0",
+        "release_date": "2018-12-21T11:29:38+00:00",
+        "title": "Switchboard Desktop Plug 2.8.0 Released",
+        "body": "switchboard-plug-pantheon-shell 2.8.0 is out!\r\n\r\nChanges:\r\n* Appearance tab\r\n* Ignore all wallpaper symlinks\r\n* Updated translations",
+        "href": "https://github.com/elementary/settings-desktop/releases/tag/2.8.0"
+      },
+      {
+        "version": "2.7.2",
+        "release_date": "2018-11-28T13:34:36+00:00",
+        "title": "Switchboard Desktop Plug 2.7.2 Released",
+        "body": "switchboard-plug-pantheon-shell 2.7.2 is out!\r\n\r\nChanges:\r\n* Scan sub-directories for wallpapers\r\n* Updated translations",
+        "href": "https://github.com/elementary/settings-desktop/releases/tag/2.7.2"
+      },
+      {
+        "version": "2.7.1",
+        "release_date": "2018-10-16T00:20:01+00:00",
+        "title": "Switchboard Desktop Plug 2.7.1 Released",
+        "body": "switchboard-plug-pantheon-shell 2.7.1 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-pantheon-shell/issues?q=is%3Aclosed+milestone%3A2.7.1).",
+        "href": "https://github.com/elementary/settings-desktop/releases/tag/2.7.1"
+      },
+      {
+        "version": "0.2.7",
+        "release_date": "2018-06-08T16:48:34+00:00",
+        "title": "Switchboard Desktop Plug 0.2.7 Released",
+        "body": "switchboard-plug-pantheon-shell 0.2.7 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-pantheon-shell/issues?q=is%3Aclosed+milestone%3A0.2.7).",
+        "href": "https://github.com/elementary/settings-desktop/releases/tag/0.2.7"
+      },
+      {
+        "version": "0.2.6",
+        "release_date": "2017-06-14T23:02:26+00:00",
+        "title": "Switchboard Desktop Plug 0.2.6 Released",
+        "body": "switchboard-plug-pantheon-shell 0.2.6 is out!",
+        "href": "https://github.com/elementary/settings-desktop/releases/tag/0.2.6"
+      },
+      {
+        "version": "switchboard-plug-pantheon-shell-0.2.5",
+        "release_date": "2017-04-15T05:25:53+00:00",
+        "title": "Switchboard Desktop Plug 0.2.5 Released",
+        "body": "switchboard-plug-pantheon-shell 0.2.5 is out!",
+        "href": "https://github.com/elementary/settings-desktop/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
+      }
+    ],
+    "new_commits": 0,
+    "default_branch": "main"
+  },
+  {
+    "name": "settings-notifications",
+    "releases": [
+      {
+        "version": "8.0.1",
+        "release_date": "2025-11-17T16:17:53+00:00",
+        "title": "settings-notifications 8.0.1 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Restore sidebar position</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/settings-notifications/releases/tag/8.0.1"
+      },
+      {
+        "version": "8.0.0",
+        "release_date": "2024-07-26T16:59:05+00:00",
+        "title": "switchboard-plug-notifications 8.0.0 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Updated illustrations with better RTL support</li>\n<li>More responsive layout</li>\n<li>Don't block settings when Do Not Disturb is active</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/settings-notifications/releases/tag/8.0.0"
+      },
+      {
+        "version": "2.2.0",
+        "release_date": "2021-07-14T21:10:11+00:00",
+        "title": "switchboard-plug-notifications 2.2.0 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>New illustrations</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/settings-notifications/releases/tag/2.2.0"
+      },
+      {
+        "version": "2.1.7",
+        "release_date": "2020-05-28T23:43:12+00:00",
+        "title": "switchboard-plug-notifications 2.1.7 Released",
+        "body": "<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/settings-notifications/releases/tag/2.1.7"
+      },
+      {
+        "version": "2.1.6",
+        "release_date": "2020-04-01T23:40:00+00:00",
+        "title": "switchboard-plug-notifications 2.1.6 Released",
+        "body": "switchboard-plug-notifications 2.1.6 is out! \n\n<p>Updated translations</p>\n",
+        "href": "https://github.com/elementary/settings-notifications/releases/tag/2.1.6"
+      },
+      {
+        "version": "2.1.5",
+        "release_date": "2018-10-16T08:05:38+00:00",
+        "title": "Switchboard Notifications Plug 2.1.5 Released",
+        "body": "switchboard-plug-notifications 2.1.5 is out!\r\n\r\nThis release includes updated translations.",
+        "href": "https://github.com/elementary/settings-notifications/releases/tag/2.1.5"
+      },
+      {
+        "version": "0.1.4",
+        "release_date": "2018-06-11T15:29:47+00:00",
+        "title": "Switchboard Notifications Plug 0.1.4 Released",
+        "body": "switchboard-plug-notifications 0.1.4 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-notifications/issues?q=is%3Aclosed+milestone%3A0.1.4).",
+        "href": "https://github.com/elementary/settings-notifications/releases/tag/0.1.4"
+      },
+      {
+        "version": "0.1.3",
+        "release_date": "2017-10-03T20:40:51+00:00",
+        "title": "Switchboard Notifications Plug 0.1.3 Released",
+        "body": "switchboard-plug-notifications 0.1.3 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-notifications/issues?q=is%3Aclosed+milestone%3A0.1.3).",
+        "href": "https://github.com/elementary/settings-notifications/releases/tag/0.1.3"
+      },
+      {
+        "version": "0.1.2",
+        "release_date": "2017-05-24T22:05:45+00:00",
+        "title": "Switchboard Notifications Plug 0.1.2 Released",
+        "body": "switchboard-plug-notifications 0.1.2 is out!",
+        "href": "https://github.com/elementary/settings-notifications/releases/tag/0.1.2"
+      }
+    ],
+    "new_commits": 0,
+    "default_branch": "main"
+  },
+  {
+    "name": "settings-printers",
+    "releases": [
+      {
+        "version": "8.0.2",
+        "release_date": "2025-11-17T16:17:13+00:00",
+        "title": "settings-printers 8.0.2 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/settings-printers/releases/tag/8.0.2"
+      },
+      {
+        "version": "8.0.1",
+        "release_date": "2024-10-23T15:48:51+00:00",
+        "title": "switchboard-plug-printers 8.0.1 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Restore sidebar position</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/settings-printers/releases/tag/8.0.1"
+      },
+      {
+        "version": "8.0.0",
+        "release_date": "2024-07-26T17:13:39+00:00",
+        "title": "switchboard-plug-printers 8.0.0 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Improved screen reader support</li>\n<li>Provide feedback for form validation when adding printers</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/settings-printers/releases/tag/8.0.0"
+      },
+      {
+        "version": "2.2.1",
+        "release_date": "2022-10-21T22:06:51+00:00",
+        "title": "switchboard-plug-printers 2.2.1 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/settings-printers/releases/tag/2.2.1"
+      },
+      {
+        "version": "2.2.0",
+        "release_date": "2022-06-29T17:37:32+00:00",
+        "title": "switchboard-plug-printers 2.2.0 Released",
+        "body": "<p>New Features:</p>\n<ul>\n<li>Allow clearing the queue for each printer</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Improved job row layout</li>\n<li>Show the supported language for each driver</li>\n<li>Show color names below ink levels</li>\n<li>Avoid expanding the window for printers with many ink levels</li>\n<li>Use newer add/remove list pattern</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Update sidebar after adding or removing printer</li>\n<li>Update sidebar after enabling or disabling printer</li>\n<li>Update job list after job state change</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/settings-printers/releases/tag/2.2.0"
+      },
+      {
+        "version": "2.1.10",
+        "release_date": "2021-07-21T20:19:39+00:00",
+        "title": "switchboard-plug-printers 2.1.10 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/settings-printers/releases/tag/2.1.10"
+      },
+      {
+        "version": "2.1.9",
+        "release_date": "2020-05-28T18:51:27+00:00",
+        "title": "switchboard-plug-printers 2.1.9 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/settings-printers/releases/tag/2.1.9"
+      },
+      {
+        "version": "2.1.8",
+        "release_date": "2020-04-03T20:26:40+00:00",
+        "title": "switchboard-plug-printers 2.1.8 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/settings-printers/releases/tag/2.1.8"
+      },
+      {
+        "version": "2.1.7",
+        "release_date": "2019-11-15T22:46:44+00:00",
+        "title": "switchboard-plug-printers 2.1.7 Released",
+        "body": "switchboard-plug-printers 2.1.7 is out! \n\nChanges:\n\n* Show a default name if a printer is unnamed\n* Updated translations\n",
+        "href": "https://github.com/elementary/settings-printers/releases/tag/2.1.7"
+      },
+      {
+        "version": "2.1.6",
+        "release_date": "2018-11-28T11:34:33+00:00",
+        "title": "Switchboard Printers Plug 2.1.6 Released",
+        "body": "switchboard-plug-printers 2.1.6 is out!\r\n\r\nChanges:\r\n* Fix issue where printers are disabled upon viewing in plug\r\n* Updated translations",
+        "href": "https://github.com/elementary/settings-printers/releases/tag/2.1.6"
+      },
+      {
+        "version": "2.1.5",
+        "release_date": "2018-10-15T21:50:47+00:00",
+        "title": "Switchboard Printers Plug 2.1.5 Released",
+        "body": "switchboard-plug-printers 2.1.5 is out!\r\n\r\nThis release includes updated translations and CSS fixes.",
+        "href": "https://github.com/elementary/settings-printers/releases/tag/2.1.5"
+      },
+      {
+        "version": "2.1.4",
+        "release_date": "2018-10-09T14:36:12+00:00",
+        "title": "Switchboard Printers Plug 2.1.4 Released",
+        "body": "switchboard-plug-printers 2.1.4 is out!\r\n\r\nThis release includes updated translations and CSS fixes.",
+        "href": "https://github.com/elementary/settings-printers/releases/tag/2.1.4"
+      },
+      {
+        "version": "0.1.3",
+        "release_date": "2018-06-08T13:09:39+00:00",
+        "title": "Switchboard Printers Plug 0.1.3 Released",
+        "body": "switchboard-plug-printers 0.1.3 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-printers/issues?q=is%3Aclosed+milestone%3A0.1.3).",
+        "href": "https://github.com/elementary/settings-printers/releases/tag/0.1.3"
+      },
+      {
+        "version": "0.1.2",
+        "release_date": "2017-10-16T15:55:12+00:00",
+        "title": "Switchboard Printers Plug 0.1.2 Released",
+        "body": "switchboard-plug-printers 0.1.2 is out!\r\n\r\n## What's new:\r\n* Allow canceling halted jobs\r\n* Allow renaming printer location\r\n* Ensure that jobs can made visible\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-printers/issues?q=is%3Aclosed+milestone%3A0.1.2).",
+        "href": "https://github.com/elementary/settings-printers/releases/tag/0.1.2"
+      },
+      {
+        "version": "0.1.1",
+        "release_date": "2017-07-12T19:36:34+00:00",
+        "title": "Switchboard Printers Plug 0.1.1 Released",
+        "body": "switchboard-plug-printers 0.1.1 is out!",
+        "href": "https://github.com/elementary/settings-printers/releases/tag/0.1.1"
+      }
+    ],
+    "new_commits": 0,
+    "default_branch": "main"
+  },
+  {
+    "name": "sideload",
+    "releases": [
+      {
+        "version": "6.3.1",
+        "release_date": "2025-11-17T16:14:28+00:00",
+        "title": "sideload 6.3.1 Released",
+        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/sideload/releases/tag/6.3.1"
+      },
+      {
+        "version": "6.3.0",
+        "release_date": "2024-11-18T20:07:13+00:00",
+        "title": "sideload 6.3.0 Released",
+        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/sideload/releases/tag/6.3.0"
+      },
+      {
+        "version": "6.2.2",
+        "release_date": "2024-07-10T22:00:48+00:00",
+        "title": "sideload 6.2.2 Released",
+        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/sideload/releases/tag/6.2.2"
+      },
+      {
+        "version": "6.2.1",
+        "release_date": "2023-06-29T18:14:04+00:00",
+        "title": "Sideload 6.2.1 Released",
+        "body": "## What's Changed\r\n* Make Open button default widget by @lenemter in https://github.com/elementary/sideload/pull/160\r\n* Fix glitches by @lenemter in https://github.com/elementary/sideload/pull/159\r\n* 6.2.1 Release Notes by @lenemter in https://github.com/elementary/sideload/pull/161\r\n* Release 6.2.1 by @danirabbit in https://github.com/elementary/sideload/pull/162\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/sideload/compare/6.2.0...6.2.1",
+        "href": "https://github.com/elementary/sideload/releases/tag/6.2.1"
+      },
+      {
+        "version": "6.2.0",
+        "release_date": "2023-04-04T17:40:13+00:00",
+        "title": "Sideload 6.2.0 released",
+        "body": "## What's Changed\r\n* MainView: update copy by @danirabbit in https://github.com/elementary/sideload/pull/151\r\n* Switch to GHCR containers by @davidmhewitt in https://github.com/elementary/sideload/pull/154\r\n* Show flatpak permission warning by @danirabbit in https://github.com/elementary/sideload/pull/153\r\n\r\n## New Contributors\r\n* @dependabot made their first contribution in https://github.com/elementary/sideload/pull/155\r\n\r\n**Full Changelog**: https://github.com/elementary/sideload/compare/6.1.0...6.2.0",
+        "href": "https://github.com/elementary/sideload/releases/tag/6.2.0"
+      },
+      {
+        "version": "6.1.0",
+        "release_date": "2022-10-24T17:10:34+00:00",
+        "title": "sideload 6.1.0 Released",
+        "body": "<ul>\n<li>Use updated Flatpak branding</li>\n<li>Badge notifications with the sideloaded app's icon</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/sideload/releases/tag/6.1.0"
+      },
+      {
+        "version": "6.0.2",
+        "release_date": "2021-09-22T20:56:34+00:00",
+        "title": "sideload 6.0.2 Released",
+        "body": "* Fix blurry app icon in multitasking view\r\n* Updated translations",
+        "href": "https://github.com/elementary/sideload/releases/tag/6.0.2"
+      },
+      {
+        "version": "6.0.1",
+        "release_date": "2021-08-26T02:19:48+00:00",
+        "title": "sideload 6.0.1 Released",
+        "body": "<ul>\n<li>Use system Flatpak runtimes for locally installed apps</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/sideload/releases/tag/6.0.1"
+      },
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-15T18:20:30+00:00",
+        "title": "sideload 6.0.0 Released",
+        "body": "<ul>\n<li>Control notifications in System Settings</li>\n<li>Offer to trash Flatpak files after installing</li>\n<li>Support dark style</li>\n<li>Support Flatpak bundle files</li>\n<li>Fix crashes on installation failure</li>\n<li>Updated translations</li>\n<li>Link to System Settings → Applications → Permissions</li>\n</ul>\n",
+        "href": "https://github.com/elementary/sideload/releases/tag/6.0.0"
+      },
+      {
+        "version": "1.1.1",
+        "release_date": "2020-05-28T23:39:24+00:00",
+        "title": "sideload 1.1.1 Released",
+        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/sideload/releases/tag/1.1.1"
+      },
+      {
+        "version": "1.1.0",
+        "release_date": "2020-04-01T20:05:38+00:00",
+        "title": "sideload 1.1.0 Released",
+        "body": "sideload 1.1.0 is out! \n\n<ul>\n<li>Show app name in the main view once it's loaded</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/sideload/releases/tag/1.1.0"
+      },
+      {
+        "version": "1.0.1",
+        "release_date": "2020-02-26T06:40:15+00:00",
+        "title": "sideload 1.0.1 Released",
+        "body": "sideload 1.0.1 is out! \n\n<ul>\n<li>Improve performance of download size calculation</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/sideload/releases/tag/1.0.1"
+      },
+      {
+        "version": "1.0.0",
+        "release_date": "2019-10-29T19:57:23+00:00",
+        "title": "sideload 1.0.0 Released",
+        "body": "sideload 1.0.0 is out! \n\nChanges:\n\n* First release. Hello world!\n",
+        "href": "https://github.com/elementary/sideload/releases/tag/1.0.0"
+      }
+    ],
+    "new_commits": 0,
+    "default_branch": "main"
+  },
+  {
+    "name": "settings-mouse-touchpad",
+    "releases": [
+      {
+        "version": "8.0.3",
+        "release_date": "2025-11-17T16:13:22+00:00",
+        "title": "settings-mouse-touchpad 8.0.3 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/settings-mouse-touchpad/releases/tag/8.0.3"
+      },
+      {
+        "version": "8.0.2",
+        "release_date": "2024-12-27T22:51:09+00:00",
+        "title": "switchboard-plug-mouse-touchpad 8.0.2 Released",
+        "body": "## What's Changed\r\n* Store Sidebar Position by @alainm23 in https://github.com/elementary/switchboard-plug-mouse-touchpad/pull/249\r\n* Meson: add log domain by @danirabbit in https://github.com/elementary/switchboard-plug-mouse-touchpad/pull/250\r\n* Update pointer icons by @danirabbit in https://github.com/elementary/switchboard-plug-mouse-touchpad/pull/252\r\n* Release 8.0.2 by @danirabbit in https://github.com/elementary/switchboard-plug-mouse-touchpad/pull/251\r\n\r\n## New Contributors\r\n* @alainm23 made their first contribution in https://github.com/elementary/switchboard-plug-mouse-touchpad/pull/249\r\n\r\n**Full Changelog**: https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/8.0.1...8.0.2",
+        "href": "https://github.com/elementary/settings-mouse-touchpad/releases/tag/8.0.2"
+      },
+      {
+        "version": "8.0.1",
+        "release_date": "2024-08-27T22:12:53+00:00",
+        "title": "switchboard-plug-mouse-touchpad 8.0.1 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Improved screen reader compatibility</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/settings-mouse-touchpad/releases/tag/8.0.1"
+      },
+      {
+        "version": "8.0.0",
+        "release_date": "2024-07-26T17:10:36+00:00",
+        "title": "switchboard-plug-mouse-touchpad 8.0.0 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Redesigned, easier to read views with more helpful descriptions</li>\n<li>Add \"Cycle windows\" and \"Move active window to workspace\" as gesture options</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/settings-mouse-touchpad/releases/tag/8.0.0"
+      },
+      {
+        "version": "7.0.0",
+        "release_date": "2022-05-12T16:51:49+00:00",
+        "title": "switchboard-plug-mouse-touchpad 7.0.0 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Update for OS 7</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/settings-mouse-touchpad/releases/tag/7.0.0"
+      },
+      {
+        "version": "6.1.0",
+        "release_date": "2021-09-22T20:37:25+00:00",
+        "title": "Mouse & Touchpad Settings 6.1.0 Released",
+        "body": "New features:\r\n* New toggle for “Double-tap and move to drag”\r\n\r\nMinor updates:\r\n* Updated translations",
+        "href": "https://github.com/elementary/settings-mouse-touchpad/releases/tag/6.1.0"
+      },
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-15T22:05:21+00:00",
+        "title": "switchboard-plug-mouse-touchpad 6.0.0 Released",
+        "body": "<p>New features:</p>\n<ul>\n<li>Multitouch gesture options</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Add more snap points to pointer speed sliders</li>\n<li>Multitouch gesture options</li>\n<li>Redesigned touchpad settings</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/settings-mouse-touchpad/releases/tag/6.0.0"
+      },
+      {
+        "version": "2.4.2",
+        "release_date": "2020-05-28T18:41:27+00:00",
+        "title": "switchboard-plug-mouse-touchpad 2.4.2 Released",
+        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/settings-mouse-touchpad/releases/tag/2.4.2"
+      },
+      {
+        "version": "2.4.1",
+        "release_date": "2020-04-08T20:16:18+00:00",
+        "title": "switchboard-plug-mouse-touchpad 2.4.1 Released",
+        "body": "<ul>\n<li>Fix stretched switches when using large text</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/settings-mouse-touchpad/releases/tag/2.4.1"
+      },
+      {
+        "version": "2.4.0",
+        "release_date": "2020-01-21T19:59:40+00:00",
+        "title": "switchboard-plug-mouse-touchpad 2.4.0 Released",
+        "body": "switchboard-plug-mouse-touchpad 2.4.0 is out! \n\n<p>New features:</p>\n<ul>\n<li>Add Dwell Click and Pointer size settings</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Also listen to secondary button clicks when selecting Primary Button</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/settings-mouse-touchpad/releases/tag/2.4.0"
+      },
+      {
+        "version": "2.3.1",
+        "release_date": "2019-12-01T21:54:25+00:00",
+        "title": "switchboard-plug-mouse-touchpad 2.3.1 Released",
+        "body": "switchboard-plug-mouse-touchpad 2.3.1 is out! \n\n<ul>\n<li>Fix an issue where primary button selection doesn't apply in left-to-right languages</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/settings-mouse-touchpad/releases/tag/2.3.1"
+      },
+      {
+        "version": "2.3.0",
+        "release_date": "2019-11-15T22:40:24+00:00",
+        "title": "switchboard-plug-mouse-touchpad 2.3.0 Released",
+        "body": "switchboard-plug-mouse-touchpad 2.3.0 is out! \n\nChanges:\n\n* New Sidebar navigation\n* Fix middle click not appearing\n* Add Double-Click speed\n* Updated translations\n",
+        "href": "https://github.com/elementary/settings-mouse-touchpad/releases/tag/2.3.0"
+      },
+      {
+        "version": "2.2.0",
+        "release_date": "2019-04-11T03:47:58+00:00",
+        "title": "Switchboard Mouse & Touchpad Plug 2.2.0 Released",
+        "body": "switchboard-plug-mouse-touchpad 2.2.0 is out!\r\n\r\nChanges:\r\n* Added settings for\r\n  * Keypad pointer control\r\n  * Ignoring touchpad when external mouse is connected\r\n  * Long-press secondary click\r\n* Use org.gnome.settings-daemon.plugins.xsettings for middle click paste\r\n* Refactored layout and added icons\r\n* Improved search terms\r\n* Updated translations",
+        "href": "https://github.com/elementary/settings-mouse-touchpad/releases/tag/2.2.0"
+      },
+      {
+        "version": "2.1.4",
+        "release_date": "2018-10-15T21:15:34+00:00",
+        "title": "Switchboard Mouse & Touchpad Plug 2.1.4 Released",
+        "body": "switchboard-plug-mouse-touchpad 2.1.4 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-mouse-touchpad/issues?q=is%3Aclosed+milestone%3A2.1.4).",
+        "href": "https://github.com/elementary/settings-mouse-touchpad/releases/tag/2.1.4"
+      },
+      {
+        "version": "0.1.3",
+        "release_date": "2018-06-07T14:02:00+00:00",
+        "title": "Switchboard Mouse & Touchpad Plug 0.1.3 Released",
+        "body": "switchboard-plug-mouse-touchpad 0.1.3 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-mouse-touchpad/issues?q=is%3Aclosed+milestone%3A0.1.3).",
+        "href": "https://github.com/elementary/settings-mouse-touchpad/releases/tag/0.1.3"
+      }
+    ],
+    "new_commits": 0,
+    "default_branch": "main"
+  },
+  {
+    "name": "settings-locale",
+    "releases": [
+      {
+        "version": "8.0.3",
+        "release_date": "2025-11-17T16:12:36+00:00",
+        "title": "settings-locale 8.0.3 Released",
+        "body": "<p>Minor improvements:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/settings-locale/releases/tag/8.0.3"
+      },
+      {
+        "version": "8.0.2",
+        "release_date": "2025-05-06T17:56:10+00:00",
+        "title": "switchboard-plug-locale 8.0.2 Released",
+        "body": "<p>Minor improvements:</p>\n<ul>\n<li>More responsive design layout</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/settings-locale/releases/tag/8.0.2"
+      },
+      {
+        "version": "8.0.1",
+        "release_date": "2024-12-12T20:15:48+00:00",
+        "title": "switchboard-plug-locale 8.0.1 Released",
+        "body": "## What's Changed\r\n* Store Sidebar Position by @alainm23 in https://github.com/elementary/switchboard-plug-locale/pull/219\r\n* Meson: add log domain by @danirabbit in https://github.com/elementary/switchboard-plug-locale/pull/220\r\n* Use check button for selected check by @lenemter in https://github.com/elementary/switchboard-plug-locale/pull/222\r\n\r\n## New Contributors\r\n* @alainm23 made their first contribution in https://github.com/elementary/switchboard-plug-locale/pull/219\r\n\r\n**Full Changelog**: https://github.com/elementary/switchboard-plug-locale/compare/8.0.0...8.0.1",
+        "href": "https://github.com/elementary/settings-locale/releases/tag/8.0.1"
+      },
+      {
+        "version": "8.0.0",
+        "release_date": "2024-07-26T17:11:04+00:00",
+        "title": "switchboard-plug-locale 8.0.0 Released",
+        "body": "<p>A big redesign!</p>\n<ul>\n<li>Prevent fcitx5 packages from being installed</li>\n<li>Add links to other places locale-related settings are managed</li>\n<li>Improve screen reader accessibility</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/settings-locale/releases/tag/8.0.0"
+      },
+      {
+        "version": "2.5.9",
+        "release_date": "2023-05-03T17:11:13+00:00",
+        "title": "Locale Settings 2.5.9 Released!",
+        "body": "## What's Changed\r\n* Remove unused variable by @lenemter in https://github.com/elementary/switchboard-plug-locale/pull/166\r\n* master: Switch to GHCR containers by @davidmhewitt in https://github.com/elementary/switchboard-plug-locale/pull/174\r\n* Cherry pick commits for 2.5.9 by @lenemter in https://github.com/elementary/switchboard-plug-locale/pull/180\r\n\r\n## New Contributors\r\n* @lenemter made their first contribution in https://github.com/elementary/switchboard-plug-locale/pull/166\r\n\r\n**Full Changelog**: https://github.com/elementary/switchboard-plug-locale/compare/2.5.8...2.5.9",
+        "href": "https://github.com/elementary/settings-locale/releases/tag/2.5.9"
+      },
+      {
+        "version": "2.5.8",
+        "release_date": "2022-05-12T16:36:41+00:00",
+        "title": "switchboard-plug-locale 2.5.8 Released",
+        "body": "<p>Fixes:</p>\n<ul>\n<li>Translate authentication dialog description text</li>\n</ul>\n",
+        "href": "https://github.com/elementary/settings-locale/releases/tag/2.5.8"
+      },
+      {
+        "version": "2.5.7",
+        "release_date": "2022-04-13T12:51:23+00:00",
+        "title": "switchboard-plug-locale 2.5.7 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Central Kurdish is now available as an installable language</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Support installation and removal of languages with 3-letter codes</li>\n</ul>\n",
+        "href": "https://github.com/elementary/settings-locale/releases/tag/2.5.7"
+      },
+      {
+        "version": "2.5.6",
+        "release_date": "2021-11-18T20:13:42+00:00",
+        "title": "Locale Settings 2.5.6 Released",
+        "body": "## What's Changed\r\n* Select correct format after install/remove by @davidmhewitt in https://github.com/elementary/switchboard-plug-locale/pull/148\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/switchboard-plug-locale/compare/2.5.5...2.5.6",
+        "href": "https://github.com/elementary/settings-locale/releases/tag/2.5.6"
+      },
+      {
+        "version": "2.5.5",
+        "release_date": "2021-10-26T17:51:10+00:00",
+        "title": "Locale Settings 2.5.5 Released",
+        "body": "<p>Fixes:</p>\r\n<ul>\r\n<li>Support locales with 3-letter codes</li>\r\n</ul>\r\n<p>Minor updates:</p>\r\n<ul>\r\n<li>Better support for non-Ubuntu based distributions</li>\r\n<li>Updated translations</li>\r\n</ul>",
+        "href": "https://github.com/elementary/settings-locale/releases/tag/2.5.5"
+      },
+      {
+        "version": "2.5.4",
+        "release_date": "2021-07-14T20:49:44+00:00",
+        "title": "switchboard-plug-locale 2.5.4 Released",
+        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/settings-locale/releases/tag/2.5.4"
+      },
+      {
+        "version": "2.5.3",
+        "release_date": "2021-01-05T21:59:55+00:00",
+        "title": "switchboard-plug-locale 2.5.3 Released",
+        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/settings-locale/releases/tag/2.5.3"
+      },
+      {
+        "version": "2.5.2",
+        "release_date": "2020-05-28T23:42:54+00:00",
+        "title": "switchboard-plug-locale 2.5.2 Released",
+        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/settings-locale/releases/tag/2.5.2"
+      },
+      {
+        "version": "2.5.1",
+        "release_date": "2020-04-01T22:48:03+00:00",
+        "title": "switchboard-plug-locale 2.5.1 Released",
+        "body": "switchboard-plug-locale 2.5.1 is out! \n\n<ul>\n<li>Fix an issue with cancelling language installation</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/settings-locale/releases/tag/2.5.1"
+      },
+      {
+        "version": "2.5.0",
+        "release_date": "2019-11-15T23:09:58+00:00",
+        "title": "switchboard-plug-locale 2.5.0 Released",
+        "body": "switchboard-plug-locale 2.5.0 is out! \n\nChanges:\n\n* Redesigned Install Language popover\n* Asks for permission when needed. No more extra InfoBar\n* Installtion progress InfoBar is now a Dialog\n* Language list properly updates when adding or removing languages\n* Updated translations\n",
+        "href": "https://github.com/elementary/settings-locale/releases/tag/2.5.0"
+      },
+      {
+        "version": "2.4.1",
+        "release_date": "2018-12-19T06:28:04+00:00",
+        "title": "Switchboard Locale Plug 2.4.1 Released",
+        "body": "switchboard-plug-locale 2.4.1 is out!\r\n\r\nChanges:\r\n* Better search keywords\r\n* Don't restrict locale length\r\n* Updated translations",
+        "href": "https://github.com/elementary/settings-locale/releases/tag/2.4.1"
+      },
+      {
+        "version": "2.4.0",
+        "release_date": "2018-10-15T21:26:12+00:00",
+        "title": "Switchboard Locale Plug 2.4.0 Released",
+        "body": "switchboard-plug-locale 2.4.0 is out!\r\n\r\nThis list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-locale/issues?q=is%3Aclosed+milestone%3A2.4.0).",
+        "href": "https://github.com/elementary/settings-locale/releases/tag/2.4.0"
+      },
+      {
+        "version": "0.2.3",
+        "release_date": "2017-05-22T20:19:26+00:00",
+        "title": "Switchboard Locale Plug 0.2.3 Released",
+        "body": "switchboard-plug-locale 0.2.3 is out!",
+        "href": "https://github.com/elementary/settings-locale/releases/tag/0.2.3"
+      },
+      {
+        "version": "0.2.2",
+        "release_date": "2017-05-12T08:27:01+00:00",
+        "title": "Switchboard Locale Plug 0.2.2 Released",
+        "body": "switchboard-plug-locale 0.2.2 is out!",
+        "href": "https://github.com/elementary/settings-locale/releases/tag/0.2.2"
+      }
+    ],
+    "new_commits": 0,
+    "default_branch": "main"
+  },
+  {
+    "name": "calendar",
+    "releases": [
+      {
+        "version": "8.0.1",
+        "release_date": "2025-11-17T16:04:47+00:00",
+        "title": "calendar 8.0.1 Released",
+        "body": "<p>Minor Updates:</p>\n<ul>\n<li>Improve screen reader support</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/calendar/releases/tag/8.0.1"
+      },
+      {
+        "version": "8.0.0",
+        "release_date": "2024-07-25T17:38:55+00:00",
+        "title": "calendar 8.0.0 Released",
+        "body": "<p>Minor Updates:</p>\n<ul>\n<li>New flatter design</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/calendar/releases/tag/8.0.0"
+      },
+      {
+        "version": "7.0.0",
+        "release_date": "2023-07-24T15:36:22+00:00",
+        "title": "Calendar 7.0.0 Released",
+        "body": "## What's Changed\r\n* Add support for Evolution Data Server 3.46 by @tintou in https://github.com/elementary/calendar/pull/758\r\n* actions: Fix trigger syntax by @davidmhewitt in https://github.com/elementary/calendar/pull/772\r\n* Update flatpak actions to new namespace by @davidmhewitt in https://github.com/elementary/calendar/pull/775\r\n* Fix meson warning for run_command by @turbobastii in https://github.com/elementary/calendar/pull/762\r\n* Require newer meson and fix deprecations by @lenemter in https://github.com/elementary/calendar/pull/783\r\n* Allow to fallback to statically linked libchamplain by @tintou in https://github.com/elementary/calendar/pull/787\r\n* Flatpak: Create Autostart File Via Background Portal by @Marukesu in https://github.com/elementary/calendar/pull/681\r\n* Metainfo Improvements by @danirabbit in https://github.com/elementary/calendar/pull/789\r\n* Flatpak Updates by @danirabbit in https://github.com/elementary/calendar/pull/790\r\n* Application: Force use of portals by @danirabbit in https://github.com/elementary/calendar/pull/717\r\n* Style updates by @leolost2605 in https://github.com/elementary/calendar/pull/780\r\n\r\n## New Contributors\r\n* @davidmhewitt made their first contribution in https://github.com/elementary/calendar/pull/772\r\n* @dependabot made their first contribution in https://github.com/elementary/calendar/pull/774\r\n* @turbobastii made their first contribution in https://github.com/elementary/calendar/pull/762\r\n* @lenemter made their first contribution in https://github.com/elementary/calendar/pull/783\r\n* @leolost2605 made their first contribution in https://github.com/elementary/calendar/pull/780\r\n\r\n**Full Changelog**: https://github.com/elementary/calendar/compare/6.1.2...7.0.0",
+        "href": "https://github.com/elementary/calendar/releases/tag/7.0.0"
+      },
+      {
+        "version": "6.1.2",
+        "release_date": "2022-11-15T19:30:59+00:00",
+        "title": "calendar 6.1.2 Released",
+        "body": "<p>Minor Updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/calendar/releases/tag/6.1.2"
+      },
+      {
+        "version": "6.1.1",
+        "release_date": "2022-05-18T04:43:29+00:00",
+        "title": "calendar 6.1.1 Released",
+        "body": "<p>Minor Updates:</p>\n<ul>\n<li>Updated app icon</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/calendar/releases/tag/6.1.1"
+      },
+      {
+        "version": "6.1.0",
+        "release_date": "2022-01-21T17:38:38+00:00",
+        "title": "calendar 6.1.0 Released",
+        "body": "<p>Features:</p>\n<ul>\n<li>Ask for confirmation before deleting events</li>\n<li>Follow email and web links in the event description with Control + Click</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Disabled checkbox \"Mark as default calendar\" in calendar settings, if the calendar is read-only</li>\n<li>Removed no longer needed sandbox permission for accounts service</li>\n<li>Fixed potential memory leak</li>\n</ul>\n",
+        "href": "https://github.com/elementary/calendar/releases/tag/6.1.0"
+      },
+      {
+        "version": "6.0.3",
+        "release_date": "2021-10-26T17:57:07+00:00",
+        "title": "Calendar 6.0.3 Released",
+        "body": "<p>Fixes:</p>\r\n<ul>\r\n<li>Ensure Calendar runs in the background on startup</li>\r\n<li>Fix memory leak when getting timezone information</li>\r\n<li>Reliably read Windows-style timezones</li>\r\n</ul>\r\n<p>Minor Updates:</p>\r\n<ul>\r\n<li>Updated translations</li>\r\n</ul>",
+        "href": "https://github.com/elementary/calendar/releases/tag/6.0.3"
+      },
+      {
+        "version": "6.0.2",
+        "release_date": "2021-09-22T20:45:44+00:00",
+        "title": "Calendar 6.0.2 Released",
+        "body": "Fixes:\r\n* Fix notification icons in the notification indicator\r\n* Fix an issue where event timezones were overwritten\r\n* Ensure Calendar is launched when notifications are clicked\r\n\r\nMinor Updates:\r\n* Updated translations",
+        "href": "https://github.com/elementary/calendar/releases/tag/6.0.2"
+      },
+      {
+        "version": "6.0.1",
+        "release_date": "2021-08-26T21:11:55+00:00",
+        "title": "calendar 6.0.1 Released",
+        "body": "<p>Fixes:</p>\n<ul>\n<li>Fix broken calendar color with some online providers</li>\n<li>Fix an issue with some all-day events</li>\n</ul>\n<p>Minor Updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/calendar/releases/tag/6.0.1"
+      },
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-21T02:56:10+00:00",
+        "title": "calendar 6.0.0 Released",
+        "body": "<p>New Features:</p>\n<ul>\n<li>Import ICS files from the gear menu</li>\n<li>Support the dark style</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Properly show events on the last day of the month</li>\n<li>Fix end times for all-day events</li>\n<li>Notify for all alarms on an event</li>\n</ul>\n<p>Minor Updates:</p>\n<ul>\n<li>Improved offline support</li>\n<li>New colorful avatar fallbacks</li>\n<li>Include \"film\" as an event icon keyword</li>\n<li>Add Mint and Bubblegum to calendar color chooser</li>\n<li>Link to Online Accounts settings in the gear menu</li>\n<li>Performance improvements</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/calendar/releases/tag/6.0.0"
+      },
+      {
+        "version": "5.1.1",
+        "release_date": "2020-10-08T20:26:30+00:00",
+        "title": "calendar 5.1.1 Released",
+        "body": "<p>Minor Updates:</p>\n<ul>\n<li>Fix an issue where new events could appear twice in Calendar</li>\n<li>\"Mark as default calendar\" box is now correctly checked when editing a calendar</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/calendar/releases/tag/5.1.1"
+      },
+      {
+        "version": "5.1.0",
+        "release_date": "2020-09-03T21:57:16+00:00",
+        "title": "calendar 5.1.0 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Allow modification of recurring events</li>\n<li>Improve handling of week start day</li>\n<li>Fix timezone errors with all-day events</li>\n</ul>\n<p>Minor Updates:</p>\n<ul>\n<li>Don't resize the sidebar when resizing the window</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/calendar/releases/tag/5.1.0"
+      },
+      {
+        "version": "5.0.6",
+        "release_date": "2020-06-30T19:03:24+00:00",
+        "title": "calendar 5.0.6 Released",
+        "body": "<p>Minor Updates:</p>\n<ul>\n<li>Fix issues with time zones not being recognized</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/calendar/releases/tag/5.0.6"
+      },
+      {
+        "version": "5.0.5",
+        "release_date": "2020-06-02T04:44:14+00:00",
+        "title": "calendar 5.0.5 Released",
+        "body": "<p>Minor Updates:</p>\n<ul>\n<li>Fix several issues with adding and removing monthly recurring events</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/calendar/releases/tag/5.0.5"
+      },
+      {
+        "version": "5.0.4",
+        "release_date": "2020-04-03T20:09:04+00:00",
+        "title": "calendar 5.0.4 Released",
+        "body": "<p>Minor Updates:</p>\n<ul>\n<li>Correctly save event reminders</li>\n<li>Ellipsize event participant details if necessary</li>\n<li>Fix unwanted rescheduling when editing event title</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/calendar/releases/tag/5.0.4"
+      },
+      {
+        "version": "5.0.3",
+        "release_date": "2019-11-27T19:39:03+00:00",
+        "title": "calendar 5.0.3 Released",
+        "body": "calendar 5.0.3 is out! \n\n<p>Fix crash when editing an event with no location</p>\n",
+        "href": "https://github.com/elementary/calendar/releases/tag/5.0.3"
+      },
+      {
+        "version": "5.0.2",
+        "release_date": "2019-11-26T18:12:31+00:00",
+        "title": "calendar 5.0.2 Released",
+        "body": "calendar 5.0.2 is out! \n\n<p>Fix potential crash when loading events with no start or end time</p>\n",
+        "href": "https://github.com/elementary/calendar/releases/tag/5.0.2"
+      },
+      {
+        "version": "5.0.1",
+        "release_date": "2019-11-25T22:50:33+00:00",
+        "title": "calendar 5.0.1 Released",
+        "body": "calendar 5.0.1 is out! \r\n\r\n- Make agenda pane fill the whole space\r\n- Set the suggested time for new events to the next whole hour\r\n- Fix issues with recurring events\r\n- Performance improvements\r\n- Updated translations\r\n",
+        "href": "https://github.com/elementary/calendar/releases/tag/5.0.1"
+      },
+      {
+        "version": "5.0",
+        "release_date": "2019-03-01T00:38:47+00:00",
+        "title": "Calendar 5.0 Released",
+        "body": "Calendar 5.0 is out!\r\n\r\nChanges:\r\n* Present import window when opening ICS files\r\n* Add a search entry for calendars\r\n* Always use calendar icon in notifications\r\n* Agenda view can now be navigated by keyboard\r\n* Right-to-left improvements\r\n* Various UI overhauls including lime accent color\r\n* Overall code cleanup and rewrites\r\n* Updated translations",
+        "href": "https://github.com/elementary/calendar/releases/tag/5.0"
+      },
+      {
+        "version": "4.2.3",
+        "release_date": "2018-10-16T09:26:43+00:00",
+        "title": "Calendar 4.2.3 Released",
+        "body": "Changes:\r\n* Styling adjustments\r\n* Fix location panel initialization\r\n* Updated translations",
+        "href": "https://github.com/elementary/calendar/releases/tag/4.2.3"
+      },
+      {
+        "version": "4.2.2",
+        "release_date": "2018-10-03T08:17:05+00:00",
+        "title": "Calendar 4.2.2 Released",
+        "body": "Calendar 4.2.2 is out!\r\n\r\nChanges:\r\n* Meson build system\r\n* Date format fixes\r\n* Miscellaneous build fixes\r\n* Updated translations",
+        "href": "https://github.com/elementary/calendar/releases/tag/4.2.2"
+      },
+      {
+        "version": "0.4.2.1",
+        "release_date": "2018-06-22T09:51:25+00:00",
+        "title": "Calendar 0.4.2.1 Released",
+        "body": "Calendar 0.4.2.1 is out!\r\n\r\nThis release includes the following changes:\r\n* Update `wingpanel-indicator-datetime` settings path\r\n* New translations",
+        "href": "https://github.com/elementary/calendar/releases/tag/0.4.2.1"
+      },
+      {
+        "version": "0.4.2",
+        "release_date": "2018-06-06T09:04:54+00:00",
+        "title": "Calendar 0.4.2 Released",
+        "body": "Calendar 0.4.2 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/calendar/issues?q=is%3Aclosed+milestone%3A0.4.2).",
+        "href": "https://github.com/elementary/calendar/releases/tag/0.4.2"
+      },
+      {
+        "version": "0.4.1",
+        "release_date": "2017-12-01T20:54:43+00:00",
+        "title": "Maya (Calendar) 0.4.1 Released",
+        "body": "maya-calendar 0.4.1 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/calendar/issues?q=is%3Aclosed+milestone%3A0.4.1).",
+        "href": "https://github.com/elementary/calendar/releases/tag/0.4.1"
+      }
+    ],
+    "new_commits": 0,
+    "default_branch": "master"
+  },
+  {
     "name": "terminal",
     "releases": [
       {
@@ -4704,136 +5684,136 @@
     "default_branch": "master"
   },
   {
-    "name": "switchboard",
+    "name": "settings",
     "releases": [
       {
         "version": "8.0.3",
         "release_date": "2025-07-29T16:31:49+00:00",
         "title": "System Settings 8.0.3 Released",
         "body": "## What's Changed\r\n* Application: don't set gtk_use_portal by @danirabbit in https://github.com/elementary/switchboard/pull/339\r\n* SettingsSideBar: Fix selection of the correct row by @leolost2605 in https://github.com/elementary/switchboard/pull/344\r\n* README: Fix broken Weblate badge by @ryonakano in https://github.com/elementary/switchboard/pull/345\r\n* SettingsSidebar: Fix null access when selection of SettingsSidebarRow is cleared by @ryonakano in https://github.com/elementary/switchboard/pull/347\r\n* Enable DBus Activation by @Marukesu in https://github.com/elementary/switchboard/pull/349\r\n* meson: prepend prefix to BINDIR by @Marukesu in https://github.com/elementary/switchboard/pull/353\r\n* Add System Updates action by @danirabbit in https://github.com/elementary/switchboard/pull/357\r\n\r\n## New Contributors\r\n* @leolost2605 made their first contribution in https://github.com/elementary/switchboard/pull/336\r\n* @Marukesu made their first contribution in https://github.com/elementary/switchboard/pull/349\r\n\r\n**Full Changelog**: https://github.com/elementary/switchboard/compare/8.0.2...8.0.3",
-        "href": "https://github.com/elementary/switchboard/releases/tag/8.0.3"
+        "href": "https://github.com/elementary/settings/releases/tag/8.0.3"
       },
       {
         "version": "8.0.2",
         "release_date": "2024-10-23T00:57:45+00:00",
         "title": "switchboard 8.0.2 Released",
         "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard/releases/tag/8.0.2"
+        "href": "https://github.com/elementary/settings/releases/tag/8.0.2"
       },
       {
         "version": "8.0.1",
         "release_date": "2024-09-24T18:12:32+00:00",
         "title": "switchboard 8.0.1 Released",
         "body": "<ul>\n<li>Screen reader improvements</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard/releases/tag/8.0.1"
+        "href": "https://github.com/elementary/settings/releases/tag/8.0.1"
       },
       {
         "version": "8.0.0",
         "release_date": "2024-05-23T15:33:12+00:00",
         "title": "switchboard 8.0.0 Released",
         "body": "<p>App Updates:</p>\n<ul>\n<li>New redesigned app icon</li>\n<li>New flatter and more responsive design</li>\n<li>Smoother animations</li>\n<li>Search results are more relevant and more clearly formatted</li>\n<li>Use Portals when available</li>\n<li>Back Buttons have a secondary-click menu for faster navigation</li>\n<li>Window now has a reasonable minimum size</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard/releases/tag/8.0.0"
+        "href": "https://github.com/elementary/settings/releases/tag/8.0.0"
       },
       {
         "version": "6.0.2",
         "release_date": "2022-06-14T17:47:21+00:00",
         "title": "switchboard 6.0.2 Released",
         "body": "<ul>\n<li>Bundle app icon</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard/releases/tag/6.0.2"
+        "href": "https://github.com/elementary/settings/releases/tag/6.0.2"
       },
       {
         "version": "6.0.1",
         "release_date": "2022-05-03T19:46:42+00:00",
         "title": "switchboard 6.0.1 Released",
         "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard/releases/tag/6.0.1"
+        "href": "https://github.com/elementary/settings/releases/tag/6.0.1"
       },
       {
         "version": "6.0.0",
         "release_date": "2021-07-14T17:10:58+00:00",
         "title": "switchboard 6.0.0 Released",
         "body": "<ul>\n<li>Add multitouch navigation gestures</li>\n<li>Better support smaller displays</li>\n<li>Remove old GNOME Control Center compatability layer</li>\n<li>Stability and performance improvements</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard/releases/tag/6.0.0"
+        "href": "https://github.com/elementary/settings/releases/tag/6.0.0"
       },
       {
         "version": "2.4.0",
         "release_date": "2020-04-30T20:47:16+00:00",
         "title": "switchboard 2.4.0 Released",
         "body": "<ul>\n<li>Redesign search results view</li>\n<li>Tab key moves focus out of search</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard/releases/tag/2.4.0"
+        "href": "https://github.com/elementary/settings/releases/tag/2.4.0"
       },
       {
         "version": "2.3.9",
         "release_date": "2020-03-30T21:01:11+00:00",
         "title": "switchboard 2.3.9 Released",
         "body": "switchboard 2.3.9 is out! \n\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard/releases/tag/2.3.9"
+        "href": "https://github.com/elementary/settings/releases/tag/2.3.9"
       },
       {
         "version": "2.3.8",
         "release_date": "2020-01-14T23:17:14+00:00",
         "title": "switchboard 2.3.8 Released",
         "body": "switchboard 2.3.8 is out! \n\n<ul>\n<li>Fix an issue that prevented tiling on small displays</li>\n<li>Fix an issue with restoring the correct window size</li>\n<li>Make the category grid fill the available space when maximized</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/switchboard/releases/tag/2.3.8"
+        "href": "https://github.com/elementary/settings/releases/tag/2.3.8"
       },
       {
         "version": "2.3.7",
         "release_date": "2019-11-04T22:08:38+00:00",
         "title": "switchboard 2.3.7 Released",
         "body": "switchboard 2.3.7 is out! \n\nChanges:\n\n* Pressing the \"Down\" arrow key from the search box correctly focuses the first row\n* Drop dynamic items from the Dock secondary-click menu\n* Updated translations\n",
-        "href": "https://github.com/elementary/switchboard/releases/tag/2.3.7"
+        "href": "https://github.com/elementary/settings/releases/tag/2.3.7"
       },
       {
         "version": "2.3.6",
         "release_date": "2019-01-23T08:18:24+00:00",
         "title": "Switchboard 2.3.6 Released",
         "body": "Switchboard 2.3.6 is out!\r\n\r\nChanges:\r\n* Add accel tooltip to navigation button\r\n* Updated translations",
-        "href": "https://github.com/elementary/switchboard/releases/tag/2.3.6"
+        "href": "https://github.com/elementary/settings/releases/tag/2.3.6"
       },
       {
         "version": "2.3.5",
         "release_date": "2018-11-29T15:44:15+00:00",
         "title": "Switchboard 2.3.5 Released",
         "body": "Switchboard 2.3.5 is out!\r\n\r\nChanges:\r\n* Improved window state saving code\r\n* Updated translations",
-        "href": "https://github.com/elementary/switchboard/releases/tag/2.3.5"
+        "href": "https://github.com/elementary/settings/releases/tag/2.3.5"
       },
       {
         "version": "2.3.4",
         "release_date": "2018-10-08T16:03:13+00:00",
         "title": "Switchboard 2.3.4 Released",
         "body": "Switchboard 2.3.4 is out!\r\n\r\nChanges:\r\n* Fixed incorrect gettext domain value causing missing translations",
-        "href": "https://github.com/elementary/switchboard/releases/tag/2.3.4"
+        "href": "https://github.com/elementary/settings/releases/tag/2.3.4"
       },
       {
         "version": "2.3.3",
         "release_date": "2018-10-04T11:56:54+00:00",
         "title": "Switchboard 2.3.3 Released",
         "body": "Switchboard 2.3.3 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard/issues?q=is%3Aclosed+milestone%3A2.3.3).",
-        "href": "https://github.com/elementary/switchboard/releases/tag/2.3.3"
+        "href": "https://github.com/elementary/settings/releases/tag/2.3.3"
       },
       {
         "version": "2.3.2",
         "release_date": "2018-07-27T07:39:49+00:00",
         "title": "Switchboard 2.3.2 Released",
         "body": "Switchboard 2.3.2 is out!\r\n\r\nThis release includes new translations.",
-        "href": "https://github.com/elementary/switchboard/releases/tag/2.3.2"
+        "href": "https://github.com/elementary/settings/releases/tag/2.3.2"
       },
       {
         "version": "2.3.1",
         "release_date": "2018-06-06T09:21:40+00:00",
         "title": "Switchboard 2.3.1 Released",
         "body": "Switchboard 2.3.1 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard/issues?q=is%3Aclosed+milestone%3A2.3.1).",
-        "href": "https://github.com/elementary/switchboard/releases/tag/2.3.1"
+        "href": "https://github.com/elementary/settings/releases/tag/2.3.1"
       },
       {
         "version": "2.3.0",
         "release_date": "2017-07-28T01:39:04+00:00",
         "title": "Switchboard 2.3.0 Released",
         "body": "Switchboard 2.3.0 is out!",
-        "href": "https://github.com/elementary/switchboard/releases/tag/2.3.0"
+        "href": "https://github.com/elementary/settings/releases/tag/2.3.0"
       }
     ],
-    "new_commits": 23,
+    "new_commits": 24,
     "default_branch": "main"
   },
   {
@@ -5782,160 +6762,6 @@
     "default_branch": "main"
   },
   {
-    "name": "settings-desktop",
-    "releases": [
-      {
-        "version": "8.2.0",
-        "release_date": "2025-05-16T18:32:51+00:00",
-        "title": "settings-desktop 8.2.0 Released",
-        "body": "<p>Other updates:</p>\r\n<ul>\r\n<li>Add setting for fullscreen hotcorners</li>\r\n<li>Updated translations</li>\r\n</ul>\r\n\r\n## What's Changed\r\n* Vertical Align SpinButton by @alainm23 in https://github.com/elementary/settings-desktop/pull/422\r\n* Store Sidebar Position by @alainm23 in https://github.com/elementary/settings-desktop/pull/424\r\n* Meson: add log domain by @danirabbit in https://github.com/elementary/settings-desktop/pull/425\r\n* Multitasking: add a switch for fullscreen hotcorners by @danirabbit in https://github.com/elementary/settings-desktop/pull/428\r\n* HotcornerControl/CustomCommand: Fix infinite loop by @leolost2605 in https://github.com/elementary/settings-desktop/pull/433\r\n* Appearance: get/set animations from interface key by @danirabbit in https://github.com/elementary/settings-desktop/pull/438\r\n* Appearance: use stateful action for radios by @danirabbit in https://github.com/elementary/settings-desktop/pull/444\r\n* Multitasking: show apps menu hotcorner at the same corner as panel by @danirabbit in https://github.com/elementary/settings-desktop/pull/447\r\n* Appearance: use settings.create_action by @danirabbit in https://github.com/elementary/settings-desktop/pull/445\r\n\r\n## New Contributors\r\n* @alainm23 made their first contribution in https://github.com/elementary/settings-desktop/pull/422\r\n\r\n**Full Changelog**: https://github.com/elementary/settings-desktop/compare/8.1.0...8.2.0",
-        "href": "https://github.com/elementary/settings-desktop/releases/tag/8.2.0"
-      },
-      {
-        "version": "8.1.0",
-        "release_date": "2024-09-23T12:49:06+00:00",
-        "title": "switchboard-plug-pantheon-shell 8.1.0 Released",
-        "body": "<p>Other updates:</p>\n<ul>\n<li>Add setting for scroll to switch workspaces</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/settings-desktop/releases/tag/8.1.0"
-      },
-      {
-        "version": "8.0.1",
-        "release_date": "2024-08-20T13:57:15+00:00",
-        "title": "switchboard-plug-pantheon-shell 8.0.1 Released",
-        "body": "<p>Other updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/settings-desktop/releases/tag/8.0.1"
-      },
-      {
-        "version": "8.0.0",
-        "release_date": "2024-07-31T17:49:22+00:00",
-        "title": "switchboard-plug-pantheon-shell 8.0.0 Released",
-        "body": "<p>New Features:</p>\n<ul>\n<li>Always Show Scrollbars setting</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Redundant labels have been cleaned up on the Appearance tab</li>\n<li>The Dim Wallpaper setting has moved to the Appearance tab</li>\n<li>The style selector now shows of a preview of your wallpaper as well as previewing the dim setting</li>\n<li>Improved screen reader accessibility</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/settings-desktop/releases/tag/8.0.0"
-      },
-      {
-        "version": "6.5.0",
-        "release_date": "2023-07-24T17:02:15+00:00",
-        "title": "Desktop Settings 6.5.0 Released!",
-        "body": "## What's Changed\r\n* set-wallpaper: Fix delay value not shown as translated by @ryonakano in https://github.com/elementary/switchboard-plug-pantheon-shell/pull/352\r\n* Mark \"Dim with dark style:\" string as translatable by @1280px in https://github.com/elementary/switchboard-plug-pantheon-shell/pull/353\r\n* Wallpaper: Confirm wallpaper removal when hidden by @lenemter in https://github.com/elementary/switchboard-plug-pantheon-shell/pull/359\r\n* Dock: add checks for panel indicators by @danirabbit in https://github.com/elementary/switchboard-plug-pantheon-shell/pull/358\r\n* Dock: redesign by @danirabbit in https://github.com/elementary/switchboard-plug-pantheon-shell/pull/360\r\n* Multitasking: Remove top margin to match other pages by @lenemter in https://github.com/elementary/switchboard-plug-pantheon-shell/pull/362\r\n* Rely on settings-daemon to copy wallpaper to greeter by @lenemter in https://github.com/elementary/switchboard-plug-pantheon-shell/pull/361\r\n* Update screenshots by @danirabbit in https://github.com/elementary/switchboard-plug-pantheon-shell/pull/366\r\n\r\n## New Contributors\r\n* @ryonakano made their first contribution in https://github.com/elementary/switchboard-plug-pantheon-shell/pull/352\r\n* @1280px made their first contribution in https://github.com/elementary/switchboard-plug-pantheon-shell/pull/353\r\n\r\n**Full Changelog**: https://github.com/elementary/switchboard-plug-pantheon-shell/compare/6.4.0...6.5.0",
-        "href": "https://github.com/elementary/settings-desktop/releases/tag/6.5.0"
-      },
-      {
-        "version": "6.4.0",
-        "release_date": "2023-05-02T16:59:51+00:00",
-        "title": "Desktop Settings 6.4.0 Released",
-        "body": "## What's Changed\r\n* Meta: use preferences-desktop for icon by @danirabbit in https://github.com/elementary/switchboard-plug-pantheon-shell/pull/312\r\n* actions/checkout@v3 by @meisenzahl in https://github.com/elementary/switchboard-plug-pantheon-shell/pull/339\r\n* Switch to GHCR containers by @davidmhewitt in https://github.com/elementary/switchboard-plug-pantheon-shell/pull/341\r\n* Add previous/next workspace to hot corners by @lenemter in https://github.com/elementary/switchboard-plug-pantheon-shell/pull/342\r\n* Add an option to dim wallpapers when dark style is active by @lenemter in https://github.com/elementary/switchboard-plug-pantheon-shell/pull/343\r\n* Dock: fix icon size images by @danirabbit in https://github.com/elementary/switchboard-plug-pantheon-shell/pull/346\r\n* Text: use more vertical layout with headerlabels by @danirabbit in https://github.com/elementary/switchboard-plug-pantheon-shell/pull/345\r\n* Appearance: add reduce motion option by @danirabbit in https://github.com/elementary/switchboard-plug-pantheon-shell/pull/347\r\n* Metainfo Improvements by @danirabbit in https://github.com/elementary/switchboard-plug-pantheon-shell/pull/349\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/switchboard-plug-pantheon-shell/compare/6.3.1...6.4.0",
-        "href": "https://github.com/elementary/settings-desktop/releases/tag/6.4.0"
-      },
-      {
-        "version": "6.3.1",
-        "release_date": "2022-10-21T22:06:25+00:00",
-        "title": "switchboard-plug-pantheon-shell 6.3.1 Released",
-        "body": "<p>Other updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/settings-desktop/releases/tag/6.3.1"
-      },
-      {
-        "version": "6.3.0",
-        "release_date": "2022-08-15T18:15:27+00:00",
-        "title": "switchboard-plug-pantheon-shell 6.3.0 Released",
-        "body": "<p>New features:</p>\n<ul>\n<li>There is now an undo option after removing a wallpaper</li>\n<li>Wallpapers are now sorted with custom wallpapers first</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Wallpaper accent color follows system setting</li>\n<li>Set-wallpaper contract fails gracefully when run as sudo</li>\n<li>Wallpapers with the same name are distinguished</li>\n<li>Switching styles with the keyboard cancels dark style scheduling</li>\n<li>Style dyslexia-friendly switch properly</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/settings-desktop/releases/tag/6.3.0"
-      },
-      {
-        "version": "6.2.0",
-        "release_date": "2022-07-03T07:56:14+00:00",
-        "title": "switchboard-plug-pantheon-shell 6.2.0 Released",
-        "body": "<p>New features:</p>\n<ul>\n<li>Set custom Terminal commands for each hotcorner</li>\n<li>Redesigned Appearance and Multitasking views</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/settings-desktop/releases/tag/6.2.0"
-      },
-      {
-        "version": "6.1.0",
-        "release_date": "2021-11-23T21:26:47+00:00",
-        "title": "switchboard-plug-pantheon-shell 6.1.0 Released",
-        "body": "<p>New features:</p>\n<ul>\n<li>Move Text settings to their own page</li>\n<li>More granular settings for text scale</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/settings-desktop/releases/tag/6.1.0"
-      },
-      {
-        "version": "6.0.0",
-        "release_date": "2021-07-15T22:29:46+00:00",
-        "title": "switchboard-plug-pantheon-shell 6.0.0 Released",
-        "body": "<p>New features:</p>\n<ul>\n<li>Accent color and dark style options</li>\n<li>Dyslexia-friendly text preference to use the OpenDyslexia font system-wide</li>\n<li>Maximize and fullscreen workspace management options</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Fix a freeze after opening Power settings</li>\n<li>Improved filter for image file types when importing</li>\n<li>Visual updates</li>\n<li>Some options now appear in different tabs</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/settings-desktop/releases/tag/6.0.0"
-      },
-      {
-        "version": "2.8.4",
-        "release_date": "2020-04-22T21:37:28+00:00",
-        "title": "switchboard-plug-pantheon-shell 2.8.4 Released",
-        "body": "<p>Illustrate Dock icon sizes</p>\n<p>Fix system wallpapers being copied</p>\n<p>Update search results</p>\n<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/settings-desktop/releases/tag/2.8.4"
-      },
-      {
-        "version": "2.8.3",
-        "release_date": "2020-04-08T20:19:29+00:00",
-        "title": "switchboard-plug-pantheon-shell 2.8.3 Released",
-        "body": "<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/settings-desktop/releases/tag/2.8.3"
-      },
-      {
-        "version": "2.8.2",
-        "release_date": "2019-11-15T22:18:40+00:00",
-        "title": "switchboard-plug-pantheon-shell 2.8.2 Released",
-        "body": "switchboard-plug-pantheon-shell 2.8.2 is out! \n\nChanges:\n\n* Fix issues with setting wallpapers on the Login and Lock screen\n* Updated translations\n",
-        "href": "https://github.com/elementary/settings-desktop/releases/tag/2.8.2"
-      },
-      {
-        "version": "2.8.1",
-        "release_date": "2019-03-27T11:34:07+00:00",
-        "title": "Switchboard Desktop Plug 2.8.1 Released",
-        "body": "switchboard-plug-pantheon-shell 2.8.1 is out!\r\n\r\nChanges:\r\n* Updated translations",
-        "href": "https://github.com/elementary/settings-desktop/releases/tag/2.8.1"
-      },
-      {
-        "version": "2.8.0",
-        "release_date": "2018-12-21T11:29:38+00:00",
-        "title": "Switchboard Desktop Plug 2.8.0 Released",
-        "body": "switchboard-plug-pantheon-shell 2.8.0 is out!\r\n\r\nChanges:\r\n* Appearance tab\r\n* Ignore all wallpaper symlinks\r\n* Updated translations",
-        "href": "https://github.com/elementary/settings-desktop/releases/tag/2.8.0"
-      },
-      {
-        "version": "2.7.2",
-        "release_date": "2018-11-28T13:34:36+00:00",
-        "title": "Switchboard Desktop Plug 2.7.2 Released",
-        "body": "switchboard-plug-pantheon-shell 2.7.2 is out!\r\n\r\nChanges:\r\n* Scan sub-directories for wallpapers\r\n* Updated translations",
-        "href": "https://github.com/elementary/settings-desktop/releases/tag/2.7.2"
-      },
-      {
-        "version": "2.7.1",
-        "release_date": "2018-10-16T00:20:01+00:00",
-        "title": "Switchboard Desktop Plug 2.7.1 Released",
-        "body": "switchboard-plug-pantheon-shell 2.7.1 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-pantheon-shell/issues?q=is%3Aclosed+milestone%3A2.7.1).",
-        "href": "https://github.com/elementary/settings-desktop/releases/tag/2.7.1"
-      },
-      {
-        "version": "0.2.7",
-        "release_date": "2018-06-08T16:48:34+00:00",
-        "title": "Switchboard Desktop Plug 0.2.7 Released",
-        "body": "switchboard-plug-pantheon-shell 0.2.7 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-pantheon-shell/issues?q=is%3Aclosed+milestone%3A0.2.7).",
-        "href": "https://github.com/elementary/settings-desktop/releases/tag/0.2.7"
-      },
-      {
-        "version": "0.2.6",
-        "release_date": "2017-06-14T23:02:26+00:00",
-        "title": "Switchboard Desktop Plug 0.2.6 Released",
-        "body": "switchboard-plug-pantheon-shell 0.2.6 is out!",
-        "href": "https://github.com/elementary/settings-desktop/releases/tag/0.2.6"
-      },
-      {
-        "version": "switchboard-plug-pantheon-shell-0.2.5",
-        "release_date": "2017-04-15T05:25:53+00:00",
-        "title": "Switchboard Desktop Plug 0.2.5 Released",
-        "body": "switchboard-plug-pantheon-shell 0.2.5 is out!",
-        "href": "https://github.com/elementary/settings-desktop/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
-      }
-    ],
-    "new_commits": 32,
-    "default_branch": "main"
-  },
-  {
     "name": "default-settings",
     "releases": [
       {
@@ -6234,132 +7060,6 @@
       }
     ],
     "new_commits": 35,
-    "default_branch": "main"
-  },
-  {
-    "name": "settings-locale",
-    "releases": [
-      {
-        "version": "8.0.2",
-        "release_date": "2025-05-06T17:56:10+00:00",
-        "title": "switchboard-plug-locale 8.0.2 Released",
-        "body": "<p>Minor improvements:</p>\n<ul>\n<li>More responsive design layout</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/settings-locale/releases/tag/8.0.2"
-      },
-      {
-        "version": "8.0.1",
-        "release_date": "2024-12-12T20:15:48+00:00",
-        "title": "switchboard-plug-locale 8.0.1 Released",
-        "body": "## What's Changed\r\n* Store Sidebar Position by @alainm23 in https://github.com/elementary/switchboard-plug-locale/pull/219\r\n* Meson: add log domain by @danirabbit in https://github.com/elementary/switchboard-plug-locale/pull/220\r\n* Use check button for selected check by @lenemter in https://github.com/elementary/switchboard-plug-locale/pull/222\r\n\r\n## New Contributors\r\n* @alainm23 made their first contribution in https://github.com/elementary/switchboard-plug-locale/pull/219\r\n\r\n**Full Changelog**: https://github.com/elementary/switchboard-plug-locale/compare/8.0.0...8.0.1",
-        "href": "https://github.com/elementary/settings-locale/releases/tag/8.0.1"
-      },
-      {
-        "version": "8.0.0",
-        "release_date": "2024-07-26T17:11:04+00:00",
-        "title": "switchboard-plug-locale 8.0.0 Released",
-        "body": "<p>A big redesign!</p>\n<ul>\n<li>Prevent fcitx5 packages from being installed</li>\n<li>Add links to other places locale-related settings are managed</li>\n<li>Improve screen reader accessibility</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/settings-locale/releases/tag/8.0.0"
-      },
-      {
-        "version": "2.5.9",
-        "release_date": "2023-05-03T17:11:13+00:00",
-        "title": "Locale Settings 2.5.9 Released!",
-        "body": "## What's Changed\r\n* Remove unused variable by @lenemter in https://github.com/elementary/switchboard-plug-locale/pull/166\r\n* master: Switch to GHCR containers by @davidmhewitt in https://github.com/elementary/switchboard-plug-locale/pull/174\r\n* Cherry pick commits for 2.5.9 by @lenemter in https://github.com/elementary/switchboard-plug-locale/pull/180\r\n\r\n## New Contributors\r\n* @lenemter made their first contribution in https://github.com/elementary/switchboard-plug-locale/pull/166\r\n\r\n**Full Changelog**: https://github.com/elementary/switchboard-plug-locale/compare/2.5.8...2.5.9",
-        "href": "https://github.com/elementary/settings-locale/releases/tag/2.5.9"
-      },
-      {
-        "version": "2.5.8",
-        "release_date": "2022-05-12T16:36:41+00:00",
-        "title": "switchboard-plug-locale 2.5.8 Released",
-        "body": "<p>Fixes:</p>\n<ul>\n<li>Translate authentication dialog description text</li>\n</ul>\n",
-        "href": "https://github.com/elementary/settings-locale/releases/tag/2.5.8"
-      },
-      {
-        "version": "2.5.7",
-        "release_date": "2022-04-13T12:51:23+00:00",
-        "title": "switchboard-plug-locale 2.5.7 Released",
-        "body": "<p>Improvements:</p>\n<ul>\n<li>Central Kurdish is now available as an installable language</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Support installation and removal of languages with 3-letter codes</li>\n</ul>\n",
-        "href": "https://github.com/elementary/settings-locale/releases/tag/2.5.7"
-      },
-      {
-        "version": "2.5.6",
-        "release_date": "2021-11-18T20:13:42+00:00",
-        "title": "Locale Settings 2.5.6 Released",
-        "body": "## What's Changed\r\n* Select correct format after install/remove by @davidmhewitt in https://github.com/elementary/switchboard-plug-locale/pull/148\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/switchboard-plug-locale/compare/2.5.5...2.5.6",
-        "href": "https://github.com/elementary/settings-locale/releases/tag/2.5.6"
-      },
-      {
-        "version": "2.5.5",
-        "release_date": "2021-10-26T17:51:10+00:00",
-        "title": "Locale Settings 2.5.5 Released",
-        "body": "<p>Fixes:</p>\r\n<ul>\r\n<li>Support locales with 3-letter codes</li>\r\n</ul>\r\n<p>Minor updates:</p>\r\n<ul>\r\n<li>Better support for non-Ubuntu based distributions</li>\r\n<li>Updated translations</li>\r\n</ul>",
-        "href": "https://github.com/elementary/settings-locale/releases/tag/2.5.5"
-      },
-      {
-        "version": "2.5.4",
-        "release_date": "2021-07-14T20:49:44+00:00",
-        "title": "switchboard-plug-locale 2.5.4 Released",
-        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/settings-locale/releases/tag/2.5.4"
-      },
-      {
-        "version": "2.5.3",
-        "release_date": "2021-01-05T21:59:55+00:00",
-        "title": "switchboard-plug-locale 2.5.3 Released",
-        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/settings-locale/releases/tag/2.5.3"
-      },
-      {
-        "version": "2.5.2",
-        "release_date": "2020-05-28T23:42:54+00:00",
-        "title": "switchboard-plug-locale 2.5.2 Released",
-        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/settings-locale/releases/tag/2.5.2"
-      },
-      {
-        "version": "2.5.1",
-        "release_date": "2020-04-01T22:48:03+00:00",
-        "title": "switchboard-plug-locale 2.5.1 Released",
-        "body": "switchboard-plug-locale 2.5.1 is out! \n\n<ul>\n<li>Fix an issue with cancelling language installation</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/settings-locale/releases/tag/2.5.1"
-      },
-      {
-        "version": "2.5.0",
-        "release_date": "2019-11-15T23:09:58+00:00",
-        "title": "switchboard-plug-locale 2.5.0 Released",
-        "body": "switchboard-plug-locale 2.5.0 is out! \n\nChanges:\n\n* Redesigned Install Language popover\n* Asks for permission when needed. No more extra InfoBar\n* Installtion progress InfoBar is now a Dialog\n* Language list properly updates when adding or removing languages\n* Updated translations\n",
-        "href": "https://github.com/elementary/settings-locale/releases/tag/2.5.0"
-      },
-      {
-        "version": "2.4.1",
-        "release_date": "2018-12-19T06:28:04+00:00",
-        "title": "Switchboard Locale Plug 2.4.1 Released",
-        "body": "switchboard-plug-locale 2.4.1 is out!\r\n\r\nChanges:\r\n* Better search keywords\r\n* Don't restrict locale length\r\n* Updated translations",
-        "href": "https://github.com/elementary/settings-locale/releases/tag/2.4.1"
-      },
-      {
-        "version": "2.4.0",
-        "release_date": "2018-10-15T21:26:12+00:00",
-        "title": "Switchboard Locale Plug 2.4.0 Released",
-        "body": "switchboard-plug-locale 2.4.0 is out!\r\n\r\nThis list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-locale/issues?q=is%3Aclosed+milestone%3A2.4.0).",
-        "href": "https://github.com/elementary/settings-locale/releases/tag/2.4.0"
-      },
-      {
-        "version": "0.2.3",
-        "release_date": "2017-05-22T20:19:26+00:00",
-        "title": "Switchboard Locale Plug 0.2.3 Released",
-        "body": "switchboard-plug-locale 0.2.3 is out!",
-        "href": "https://github.com/elementary/settings-locale/releases/tag/0.2.3"
-      },
-      {
-        "version": "0.2.2",
-        "release_date": "2017-05-12T08:27:01+00:00",
-        "title": "Switchboard Locale Plug 0.2.2 Released",
-        "body": "switchboard-plug-locale 0.2.2 is out!",
-        "href": "https://github.com/elementary/settings-locale/releases/tag/0.2.2"
-      }
-    ],
-    "new_commits": 36,
     "default_branch": "main"
   },
   {
@@ -7238,111 +7938,6 @@
     "default_branch": "main"
   },
   {
-    "name": "settings-mouse-touchpad",
-    "releases": [
-      {
-        "version": "8.0.2",
-        "release_date": "2024-12-27T22:51:09+00:00",
-        "title": "switchboard-plug-mouse-touchpad 8.0.2 Released",
-        "body": "## What's Changed\r\n* Store Sidebar Position by @alainm23 in https://github.com/elementary/switchboard-plug-mouse-touchpad/pull/249\r\n* Meson: add log domain by @danirabbit in https://github.com/elementary/switchboard-plug-mouse-touchpad/pull/250\r\n* Update pointer icons by @danirabbit in https://github.com/elementary/switchboard-plug-mouse-touchpad/pull/252\r\n* Release 8.0.2 by @danirabbit in https://github.com/elementary/switchboard-plug-mouse-touchpad/pull/251\r\n\r\n## New Contributors\r\n* @alainm23 made their first contribution in https://github.com/elementary/switchboard-plug-mouse-touchpad/pull/249\r\n\r\n**Full Changelog**: https://github.com/elementary/switchboard-plug-mouse-touchpad/compare/8.0.1...8.0.2",
-        "href": "https://github.com/elementary/settings-mouse-touchpad/releases/tag/8.0.2"
-      },
-      {
-        "version": "8.0.1",
-        "release_date": "2024-08-27T22:12:53+00:00",
-        "title": "switchboard-plug-mouse-touchpad 8.0.1 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Improved screen reader compatibility</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/settings-mouse-touchpad/releases/tag/8.0.1"
-      },
-      {
-        "version": "8.0.0",
-        "release_date": "2024-07-26T17:10:36+00:00",
-        "title": "switchboard-plug-mouse-touchpad 8.0.0 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Redesigned, easier to read views with more helpful descriptions</li>\n<li>Add \"Cycle windows\" and \"Move active window to workspace\" as gesture options</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/settings-mouse-touchpad/releases/tag/8.0.0"
-      },
-      {
-        "version": "7.0.0",
-        "release_date": "2022-05-12T16:51:49+00:00",
-        "title": "switchboard-plug-mouse-touchpad 7.0.0 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Update for OS 7</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/settings-mouse-touchpad/releases/tag/7.0.0"
-      },
-      {
-        "version": "6.1.0",
-        "release_date": "2021-09-22T20:37:25+00:00",
-        "title": "Mouse & Touchpad Settings 6.1.0 Released",
-        "body": "New features:\r\n* New toggle for “Double-tap and move to drag”\r\n\r\nMinor updates:\r\n* Updated translations",
-        "href": "https://github.com/elementary/settings-mouse-touchpad/releases/tag/6.1.0"
-      },
-      {
-        "version": "6.0.0",
-        "release_date": "2021-07-15T22:05:21+00:00",
-        "title": "switchboard-plug-mouse-touchpad 6.0.0 Released",
-        "body": "<p>New features:</p>\n<ul>\n<li>Multitouch gesture options</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Add more snap points to pointer speed sliders</li>\n<li>Multitouch gesture options</li>\n<li>Redesigned touchpad settings</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/settings-mouse-touchpad/releases/tag/6.0.0"
-      },
-      {
-        "version": "2.4.2",
-        "release_date": "2020-05-28T18:41:27+00:00",
-        "title": "switchboard-plug-mouse-touchpad 2.4.2 Released",
-        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/settings-mouse-touchpad/releases/tag/2.4.2"
-      },
-      {
-        "version": "2.4.1",
-        "release_date": "2020-04-08T20:16:18+00:00",
-        "title": "switchboard-plug-mouse-touchpad 2.4.1 Released",
-        "body": "<ul>\n<li>Fix stretched switches when using large text</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/settings-mouse-touchpad/releases/tag/2.4.1"
-      },
-      {
-        "version": "2.4.0",
-        "release_date": "2020-01-21T19:59:40+00:00",
-        "title": "switchboard-plug-mouse-touchpad 2.4.0 Released",
-        "body": "switchboard-plug-mouse-touchpad 2.4.0 is out! \n\n<p>New features:</p>\n<ul>\n<li>Add Dwell Click and Pointer size settings</li>\n</ul>\n<p>Other updates:</p>\n<ul>\n<li>Also listen to secondary button clicks when selecting Primary Button</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/settings-mouse-touchpad/releases/tag/2.4.0"
-      },
-      {
-        "version": "2.3.1",
-        "release_date": "2019-12-01T21:54:25+00:00",
-        "title": "switchboard-plug-mouse-touchpad 2.3.1 Released",
-        "body": "switchboard-plug-mouse-touchpad 2.3.1 is out! \n\n<ul>\n<li>Fix an issue where primary button selection doesn't apply in left-to-right languages</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/settings-mouse-touchpad/releases/tag/2.3.1"
-      },
-      {
-        "version": "2.3.0",
-        "release_date": "2019-11-15T22:40:24+00:00",
-        "title": "switchboard-plug-mouse-touchpad 2.3.0 Released",
-        "body": "switchboard-plug-mouse-touchpad 2.3.0 is out! \n\nChanges:\n\n* New Sidebar navigation\n* Fix middle click not appearing\n* Add Double-Click speed\n* Updated translations\n",
-        "href": "https://github.com/elementary/settings-mouse-touchpad/releases/tag/2.3.0"
-      },
-      {
-        "version": "2.2.0",
-        "release_date": "2019-04-11T03:47:58+00:00",
-        "title": "Switchboard Mouse & Touchpad Plug 2.2.0 Released",
-        "body": "switchboard-plug-mouse-touchpad 2.2.0 is out!\r\n\r\nChanges:\r\n* Added settings for\r\n  * Keypad pointer control\r\n  * Ignoring touchpad when external mouse is connected\r\n  * Long-press secondary click\r\n* Use org.gnome.settings-daemon.plugins.xsettings for middle click paste\r\n* Refactored layout and added icons\r\n* Improved search terms\r\n* Updated translations",
-        "href": "https://github.com/elementary/settings-mouse-touchpad/releases/tag/2.2.0"
-      },
-      {
-        "version": "2.1.4",
-        "release_date": "2018-10-15T21:15:34+00:00",
-        "title": "Switchboard Mouse & Touchpad Plug 2.1.4 Released",
-        "body": "switchboard-plug-mouse-touchpad 2.1.4 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-mouse-touchpad/issues?q=is%3Aclosed+milestone%3A2.1.4).",
-        "href": "https://github.com/elementary/settings-mouse-touchpad/releases/tag/2.1.4"
-      },
-      {
-        "version": "0.1.3",
-        "release_date": "2018-06-07T14:02:00+00:00",
-        "title": "Switchboard Mouse & Touchpad Plug 0.1.3 Released",
-        "body": "switchboard-plug-mouse-touchpad 0.1.3 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-mouse-touchpad/issues?q=is%3Aclosed+milestone%3A0.1.3).",
-        "href": "https://github.com/elementary/settings-mouse-touchpad/releases/tag/0.1.3"
-      }
-    ],
-    "new_commits": 28,
-    "default_branch": "main"
-  },
-  {
     "name": "onboarding",
     "releases": [
       {
@@ -7452,118 +8047,6 @@
       }
     ],
     "new_commits": 26,
-    "default_branch": "main"
-  },
-  {
-    "name": "settings-security-privacy",
-    "releases": [
-      {
-        "version": "8.0.1",
-        "release_date": "2024-12-12T20:08:00+00:00",
-        "title": "switchboard-plug-security-privacy 8.0.1 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Translation updates</li>\n</ul>\n",
-        "href": "https://github.com/elementary/settings-security-privacy/releases/tag/8.0.1"
-      },
-      {
-        "version": "8.0.0",
-        "release_date": "2024-07-29T17:16:47+00:00",
-        "title": "switchboard-plug-security-privacy 8.0.0 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Improved screen reader accessibility</li>\n<li>Translation updates</li>\n</ul>\n",
-        "href": "https://github.com/elementary/settings-security-privacy/releases/tag/8.0.0"
-      },
-      {
-        "version": "7.1.0",
-        "release_date": "2023-08-01T08:08:04+00:00",
-        "title": "Security & Privacy Settings 7.1.0 Released!",
-        "body": "## What's Changed\r\n* Add screenshot files cleanup option to Housekeeping by @Antolius in https://github.com/elementary/switchboard-plug-security-privacy/pull/141\r\n* LocationPanel: Check that apps are installed before listing by @danirabbit in https://github.com/elementary/switchboard-plug-security-privacy/pull/160\r\n* Meson: Fix deprecations and require newer version by @lenemter in https://github.com/elementary/switchboard-plug-security-privacy/pull/162\r\n\r\n## New Contributors\r\n* @Antolius made their first contribution in https://github.com/elementary/switchboard-plug-security-privacy/pull/141\r\n* @lenemter made their first contribution in https://github.com/elementary/switchboard-plug-security-privacy/pull/162\r\n\r\n**Full Changelog**: https://github.com/elementary/switchboard-plug-security-privacy/compare/7.0.0...7.1.0",
-        "href": "https://github.com/elementary/settings-security-privacy/releases/tag/7.1.0"
-      },
-      {
-        "version": "7.0.0",
-        "release_date": "2023-06-01T04:46:04+00:00",
-        "title": "Security & Privacy Settings 7.0.0 Released",
-        "body": "## What's Changed\r\n* Switch to GHCR containers by @davidmhewitt in https://github.com/elementary/switchboard-plug-security-privacy/pull/146\r\n* Bump actions/checkout from 1 to 3 by @dependabot in https://github.com/elementary/switchboard-plug-security-privacy/pull/147\r\n* Use location settings icon by @danirabbit in https://github.com/elementary/switchboard-plug-security-privacy/pull/152\r\n* Use Location Portal by @danirabbit in https://github.com/elementary/switchboard-plug-security-privacy/pull/148\r\n* Metainfo improvements by @danirabbit in https://github.com/elementary/switchboard-plug-security-privacy/pull/153\r\n* README: Update screenshot path by @ryonakano in https://github.com/elementary/switchboard-plug-security-privacy/pull/154\r\n* Release 7.0.0 by @danirabbit in https://github.com/elementary/switchboard-plug-security-privacy/pull/155\r\n\r\n## New Contributors\r\n* @dependabot made their first contribution in https://github.com/elementary/switchboard-plug-security-privacy/pull/147\r\n\r\n**Full Changelog**: https://github.com/elementary/switchboard-plug-security-privacy/compare/2.4.1...7.0.0",
-        "href": "https://github.com/elementary/settings-security-privacy/releases/tag/7.0.0"
-      },
-      {
-        "version": "2.4.1",
-        "release_date": "2022-10-26T04:41:36+00:00",
-        "title": "switchboard-plug-security-privacy 2.4.1 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Translation updates</li>\n</ul>\n",
-        "href": "https://github.com/elementary/settings-security-privacy/releases/tag/2.4.1"
-      },
-      {
-        "version": "2.4.0",
-        "release_date": "2022-05-18T22:52:56+00:00",
-        "title": "switchboard-plug-security-privacy 2.4.0 Released",
-        "body": "<p>New features:</p>\n<ul>\n<li>Option to forbid new USB devices while locked</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Translation updates</li>\n</ul>\n",
-        "href": "https://github.com/elementary/settings-security-privacy/releases/tag/2.4.0"
-      },
-      {
-        "version": "2.3.0",
-        "release_date": "2021-11-23T21:13:06+00:00",
-        "title": "switchboard-plug-security-privacy 2.3.0 Released",
-        "body": "<p>New features:</p>\n<ul>\n<li>Add Downloads option to Housekeeping</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Translation updates</li>\n</ul>\n",
-        "href": "https://github.com/elementary/settings-security-privacy/releases/tag/2.3.0"
-      },
-      {
-        "version": "2.2.5",
-        "release_date": "2021-07-14T22:02:36+00:00",
-        "title": "switchboard-plug-security-privacy 2.2.5 Released",
-        "body": "<ul>\n<li>Translation updates</li>\n</ul>\n",
-        "href": "https://github.com/elementary/settings-security-privacy/releases/tag/2.2.5"
-      },
-      {
-        "version": "2.2.4",
-        "release_date": "2020-05-25T18:11:21+00:00",
-        "title": "switchboard-plug-security-privacy 2.2.4 Released",
-        "body": "<ul>\n<li>Translation updates</li>\n</ul>\n",
-        "href": "https://github.com/elementary/settings-security-privacy/releases/tag/2.2.4"
-      },
-      {
-        "version": "2.2.3",
-        "release_date": "2020-04-08T20:06:40+00:00",
-        "title": "switchboard-plug-security-privacy 2.2.3 Released",
-        "body": "<ul>\n<li>Translation updates</li>\n</ul>\n",
-        "href": "https://github.com/elementary/settings-security-privacy/releases/tag/2.2.3"
-      },
-      {
-        "version": "2.2.2",
-        "release_date": "2019-10-29T22:10:13+00:00",
-        "title": "switchboard-plug-security-privacy 2.2.2 Released",
-        "body": "switchboard-plug-security-privacy 2.2.2 is out! \n\nChanges:\n\n* Redesigned \"Housekeeping\" page\n* Translation updates\n",
-        "href": "https://github.com/elementary/settings-security-privacy/releases/tag/2.2.2"
-      },
-      {
-        "version": "2.2.1",
-        "release_date": "2019-03-15T19:26:59+00:00",
-        "title": "Switchboard Security & Privacy Plug 2.2.1 Released",
-        "body": "switchboard-plug-security-privacy 2.2.1 is out!\r\n\r\nChanges:\r\n* Search keyword improvements\r\n* Updated translations",
-        "href": "https://github.com/elementary/settings-security-privacy/releases/tag/2.2.1"
-      },
-      {
-        "version": "2.2.0",
-        "release_date": "2018-10-16T02:10:58+00:00",
-        "title": "Switchboard Security & Privacy Plug 2.2.0 Released",
-        "body": "switchboard-plug-security-privacy 2.2.0 is out!\r\n\r\nChanges:\r\n* Housekeeping panel for temporary file management\r\n* Updated translations\r\n",
-        "href": "https://github.com/elementary/settings-security-privacy/releases/tag/2.2.0"
-      },
-      {
-        "version": "0.1.3",
-        "release_date": "2018-06-19T07:30:52+00:00",
-        "title": "Switchboard Security & Privacy Plug 0.1.3 Released",
-        "body": "switchboard-plug-security-privacy 0.1.3 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-security-privacy/issues?q=is%3Aclosed+milestone%3A0.1.3).",
-        "href": "https://github.com/elementary/settings-security-privacy/releases/tag/0.1.3"
-      },
-      {
-        "version": "0.1.2",
-        "release_date": "2017-05-22T19:20:44+00:00",
-        "title": "Switchboard Security & Privacy Plug 0.1.2 Released",
-        "body": "switchboard-plug-security-privacy 0.1.2 is out!",
-        "href": "https://github.com/elementary/settings-security-privacy/releases/tag/0.1.2"
-      }
-    ],
-    "new_commits": 37,
     "default_branch": "main"
   },
   {
@@ -7957,202 +8440,6 @@
     ],
     "new_commits": 0,
     "default_branch": "8.0"
-  },
-  {
-    "name": "sideload",
-    "releases": [
-      {
-        "version": "6.3.0",
-        "release_date": "2024-11-18T20:07:13+00:00",
-        "title": "sideload 6.3.0 Released",
-        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/sideload/releases/tag/6.3.0"
-      },
-      {
-        "version": "6.2.2",
-        "release_date": "2024-07-10T22:00:48+00:00",
-        "title": "sideload 6.2.2 Released",
-        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/sideload/releases/tag/6.2.2"
-      },
-      {
-        "version": "6.2.1",
-        "release_date": "2023-06-29T18:14:04+00:00",
-        "title": "Sideload 6.2.1 Released",
-        "body": "## What's Changed\r\n* Make Open button default widget by @lenemter in https://github.com/elementary/sideload/pull/160\r\n* Fix glitches by @lenemter in https://github.com/elementary/sideload/pull/159\r\n* 6.2.1 Release Notes by @lenemter in https://github.com/elementary/sideload/pull/161\r\n* Release 6.2.1 by @danirabbit in https://github.com/elementary/sideload/pull/162\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/sideload/compare/6.2.0...6.2.1",
-        "href": "https://github.com/elementary/sideload/releases/tag/6.2.1"
-      },
-      {
-        "version": "6.2.0",
-        "release_date": "2023-04-04T17:40:13+00:00",
-        "title": "Sideload 6.2.0 released",
-        "body": "## What's Changed\r\n* MainView: update copy by @danirabbit in https://github.com/elementary/sideload/pull/151\r\n* Switch to GHCR containers by @davidmhewitt in https://github.com/elementary/sideload/pull/154\r\n* Show flatpak permission warning by @danirabbit in https://github.com/elementary/sideload/pull/153\r\n\r\n## New Contributors\r\n* @dependabot made their first contribution in https://github.com/elementary/sideload/pull/155\r\n\r\n**Full Changelog**: https://github.com/elementary/sideload/compare/6.1.0...6.2.0",
-        "href": "https://github.com/elementary/sideload/releases/tag/6.2.0"
-      },
-      {
-        "version": "6.1.0",
-        "release_date": "2022-10-24T17:10:34+00:00",
-        "title": "sideload 6.1.0 Released",
-        "body": "<ul>\n<li>Use updated Flatpak branding</li>\n<li>Badge notifications with the sideloaded app's icon</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/sideload/releases/tag/6.1.0"
-      },
-      {
-        "version": "6.0.2",
-        "release_date": "2021-09-22T20:56:34+00:00",
-        "title": "sideload 6.0.2 Released",
-        "body": "* Fix blurry app icon in multitasking view\r\n* Updated translations",
-        "href": "https://github.com/elementary/sideload/releases/tag/6.0.2"
-      },
-      {
-        "version": "6.0.1",
-        "release_date": "2021-08-26T02:19:48+00:00",
-        "title": "sideload 6.0.1 Released",
-        "body": "<ul>\n<li>Use system Flatpak runtimes for locally installed apps</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/sideload/releases/tag/6.0.1"
-      },
-      {
-        "version": "6.0.0",
-        "release_date": "2021-07-15T18:20:30+00:00",
-        "title": "sideload 6.0.0 Released",
-        "body": "<ul>\n<li>Control notifications in System Settings</li>\n<li>Offer to trash Flatpak files after installing</li>\n<li>Support dark style</li>\n<li>Support Flatpak bundle files</li>\n<li>Fix crashes on installation failure</li>\n<li>Updated translations</li>\n<li>Link to System Settings → Applications → Permissions</li>\n</ul>\n",
-        "href": "https://github.com/elementary/sideload/releases/tag/6.0.0"
-      },
-      {
-        "version": "1.1.1",
-        "release_date": "2020-05-28T23:39:24+00:00",
-        "title": "sideload 1.1.1 Released",
-        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/sideload/releases/tag/1.1.1"
-      },
-      {
-        "version": "1.1.0",
-        "release_date": "2020-04-01T20:05:38+00:00",
-        "title": "sideload 1.1.0 Released",
-        "body": "sideload 1.1.0 is out! \n\n<ul>\n<li>Show app name in the main view once it's loaded</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/sideload/releases/tag/1.1.0"
-      },
-      {
-        "version": "1.0.1",
-        "release_date": "2020-02-26T06:40:15+00:00",
-        "title": "sideload 1.0.1 Released",
-        "body": "sideload 1.0.1 is out! \n\n<ul>\n<li>Improve performance of download size calculation</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/sideload/releases/tag/1.0.1"
-      },
-      {
-        "version": "1.0.0",
-        "release_date": "2019-10-29T19:57:23+00:00",
-        "title": "sideload 1.0.0 Released",
-        "body": "sideload 1.0.0 is out! \n\nChanges:\n\n* First release. Hello world!\n",
-        "href": "https://github.com/elementary/sideload/releases/tag/1.0.0"
-      }
-    ],
-    "new_commits": 37,
-    "default_branch": "main"
-  },
-  {
-    "name": "settings-printers",
-    "releases": [
-      {
-        "version": "8.0.1",
-        "release_date": "2024-10-23T15:48:51+00:00",
-        "title": "switchboard-plug-printers 8.0.1 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Restore sidebar position</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/settings-printers/releases/tag/8.0.1"
-      },
-      {
-        "version": "8.0.0",
-        "release_date": "2024-07-26T17:13:39+00:00",
-        "title": "switchboard-plug-printers 8.0.0 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Improved screen reader support</li>\n<li>Provide feedback for form validation when adding printers</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/settings-printers/releases/tag/8.0.0"
-      },
-      {
-        "version": "2.2.1",
-        "release_date": "2022-10-21T22:06:51+00:00",
-        "title": "switchboard-plug-printers 2.2.1 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/settings-printers/releases/tag/2.2.1"
-      },
-      {
-        "version": "2.2.0",
-        "release_date": "2022-06-29T17:37:32+00:00",
-        "title": "switchboard-plug-printers 2.2.0 Released",
-        "body": "<p>New Features:</p>\n<ul>\n<li>Allow clearing the queue for each printer</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Improved job row layout</li>\n<li>Show the supported language for each driver</li>\n<li>Show color names below ink levels</li>\n<li>Avoid expanding the window for printers with many ink levels</li>\n<li>Use newer add/remove list pattern</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Update sidebar after adding or removing printer</li>\n<li>Update sidebar after enabling or disabling printer</li>\n<li>Update job list after job state change</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/settings-printers/releases/tag/2.2.0"
-      },
-      {
-        "version": "2.1.10",
-        "release_date": "2021-07-21T20:19:39+00:00",
-        "title": "switchboard-plug-printers 2.1.10 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/settings-printers/releases/tag/2.1.10"
-      },
-      {
-        "version": "2.1.9",
-        "release_date": "2020-05-28T18:51:27+00:00",
-        "title": "switchboard-plug-printers 2.1.9 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/settings-printers/releases/tag/2.1.9"
-      },
-      {
-        "version": "2.1.8",
-        "release_date": "2020-04-03T20:26:40+00:00",
-        "title": "switchboard-plug-printers 2.1.8 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/settings-printers/releases/tag/2.1.8"
-      },
-      {
-        "version": "2.1.7",
-        "release_date": "2019-11-15T22:46:44+00:00",
-        "title": "switchboard-plug-printers 2.1.7 Released",
-        "body": "switchboard-plug-printers 2.1.7 is out! \n\nChanges:\n\n* Show a default name if a printer is unnamed\n* Updated translations\n",
-        "href": "https://github.com/elementary/settings-printers/releases/tag/2.1.7"
-      },
-      {
-        "version": "2.1.6",
-        "release_date": "2018-11-28T11:34:33+00:00",
-        "title": "Switchboard Printers Plug 2.1.6 Released",
-        "body": "switchboard-plug-printers 2.1.6 is out!\r\n\r\nChanges:\r\n* Fix issue where printers are disabled upon viewing in plug\r\n* Updated translations",
-        "href": "https://github.com/elementary/settings-printers/releases/tag/2.1.6"
-      },
-      {
-        "version": "2.1.5",
-        "release_date": "2018-10-15T21:50:47+00:00",
-        "title": "Switchboard Printers Plug 2.1.5 Released",
-        "body": "switchboard-plug-printers 2.1.5 is out!\r\n\r\nThis release includes updated translations and CSS fixes.",
-        "href": "https://github.com/elementary/settings-printers/releases/tag/2.1.5"
-      },
-      {
-        "version": "2.1.4",
-        "release_date": "2018-10-09T14:36:12+00:00",
-        "title": "Switchboard Printers Plug 2.1.4 Released",
-        "body": "switchboard-plug-printers 2.1.4 is out!\r\n\r\nThis release includes updated translations and CSS fixes.",
-        "href": "https://github.com/elementary/settings-printers/releases/tag/2.1.4"
-      },
-      {
-        "version": "0.1.3",
-        "release_date": "2018-06-08T13:09:39+00:00",
-        "title": "Switchboard Printers Plug 0.1.3 Released",
-        "body": "switchboard-plug-printers 0.1.3 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-printers/issues?q=is%3Aclosed+milestone%3A0.1.3).",
-        "href": "https://github.com/elementary/settings-printers/releases/tag/0.1.3"
-      },
-      {
-        "version": "0.1.2",
-        "release_date": "2017-10-16T15:55:12+00:00",
-        "title": "Switchboard Printers Plug 0.1.2 Released",
-        "body": "switchboard-plug-printers 0.1.2 is out!\r\n\r\n## What's new:\r\n* Allow canceling halted jobs\r\n* Allow renaming printer location\r\n* Ensure that jobs can made visible\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-printers/issues?q=is%3Aclosed+milestone%3A0.1.2).",
-        "href": "https://github.com/elementary/settings-printers/releases/tag/0.1.2"
-      },
-      {
-        "version": "0.1.1",
-        "release_date": "2017-07-12T19:36:34+00:00",
-        "title": "Switchboard Printers Plug 0.1.1 Released",
-        "body": "switchboard-plug-printers 0.1.1 is out!",
-        "href": "https://github.com/elementary/settings-printers/releases/tag/0.1.1"
-      }
-    ],
-    "new_commits": 49,
-    "default_branch": "main"
   },
   {
     "name": "settings-datetime",
@@ -8979,237 +9266,6 @@
     ],
     "new_commits": 58,
     "default_branch": "main"
-  },
-  {
-    "name": "settings-notifications",
-    "releases": [
-      {
-        "version": "8.0.0",
-        "release_date": "2024-07-26T16:59:05+00:00",
-        "title": "switchboard-plug-notifications 8.0.0 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Updated illustrations with better RTL support</li>\n<li>More responsive layout</li>\n<li>Don't block settings when Do Not Disturb is active</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/settings-notifications/releases/tag/8.0.0"
-      },
-      {
-        "version": "2.2.0",
-        "release_date": "2021-07-14T21:10:11+00:00",
-        "title": "switchboard-plug-notifications 2.2.0 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>New illustrations</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/settings-notifications/releases/tag/2.2.0"
-      },
-      {
-        "version": "2.1.7",
-        "release_date": "2020-05-28T23:43:12+00:00",
-        "title": "switchboard-plug-notifications 2.1.7 Released",
-        "body": "<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/settings-notifications/releases/tag/2.1.7"
-      },
-      {
-        "version": "2.1.6",
-        "release_date": "2020-04-01T23:40:00+00:00",
-        "title": "switchboard-plug-notifications 2.1.6 Released",
-        "body": "switchboard-plug-notifications 2.1.6 is out! \n\n<p>Updated translations</p>\n",
-        "href": "https://github.com/elementary/settings-notifications/releases/tag/2.1.6"
-      },
-      {
-        "version": "2.1.5",
-        "release_date": "2018-10-16T08:05:38+00:00",
-        "title": "Switchboard Notifications Plug 2.1.5 Released",
-        "body": "switchboard-plug-notifications 2.1.5 is out!\r\n\r\nThis release includes updated translations.",
-        "href": "https://github.com/elementary/settings-notifications/releases/tag/2.1.5"
-      },
-      {
-        "version": "0.1.4",
-        "release_date": "2018-06-11T15:29:47+00:00",
-        "title": "Switchboard Notifications Plug 0.1.4 Released",
-        "body": "switchboard-plug-notifications 0.1.4 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-notifications/issues?q=is%3Aclosed+milestone%3A0.1.4).",
-        "href": "https://github.com/elementary/settings-notifications/releases/tag/0.1.4"
-      },
-      {
-        "version": "0.1.3",
-        "release_date": "2017-10-03T20:40:51+00:00",
-        "title": "Switchboard Notifications Plug 0.1.3 Released",
-        "body": "switchboard-plug-notifications 0.1.3 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-notifications/issues?q=is%3Aclosed+milestone%3A0.1.3).",
-        "href": "https://github.com/elementary/settings-notifications/releases/tag/0.1.3"
-      },
-      {
-        "version": "0.1.2",
-        "release_date": "2017-05-24T22:05:45+00:00",
-        "title": "Switchboard Notifications Plug 0.1.2 Released",
-        "body": "switchboard-plug-notifications 0.1.2 is out!",
-        "href": "https://github.com/elementary/settings-notifications/releases/tag/0.1.2"
-      }
-    ],
-    "new_commits": 96,
-    "default_branch": "main"
-  },
-  {
-    "name": "calendar",
-    "releases": [
-      {
-        "version": "8.0.0",
-        "release_date": "2024-07-25T17:38:55+00:00",
-        "title": "calendar 8.0.0 Released",
-        "body": "<p>Minor Updates:</p>\n<ul>\n<li>New flatter design</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/calendar/releases/tag/8.0.0"
-      },
-      {
-        "version": "7.0.0",
-        "release_date": "2023-07-24T15:36:22+00:00",
-        "title": "Calendar 7.0.0 Released",
-        "body": "## What's Changed\r\n* Add support for Evolution Data Server 3.46 by @tintou in https://github.com/elementary/calendar/pull/758\r\n* actions: Fix trigger syntax by @davidmhewitt in https://github.com/elementary/calendar/pull/772\r\n* Update flatpak actions to new namespace by @davidmhewitt in https://github.com/elementary/calendar/pull/775\r\n* Fix meson warning for run_command by @turbobastii in https://github.com/elementary/calendar/pull/762\r\n* Require newer meson and fix deprecations by @lenemter in https://github.com/elementary/calendar/pull/783\r\n* Allow to fallback to statically linked libchamplain by @tintou in https://github.com/elementary/calendar/pull/787\r\n* Flatpak: Create Autostart File Via Background Portal by @Marukesu in https://github.com/elementary/calendar/pull/681\r\n* Metainfo Improvements by @danirabbit in https://github.com/elementary/calendar/pull/789\r\n* Flatpak Updates by @danirabbit in https://github.com/elementary/calendar/pull/790\r\n* Application: Force use of portals by @danirabbit in https://github.com/elementary/calendar/pull/717\r\n* Style updates by @leolost2605 in https://github.com/elementary/calendar/pull/780\r\n\r\n## New Contributors\r\n* @davidmhewitt made their first contribution in https://github.com/elementary/calendar/pull/772\r\n* @dependabot made their first contribution in https://github.com/elementary/calendar/pull/774\r\n* @turbobastii made their first contribution in https://github.com/elementary/calendar/pull/762\r\n* @lenemter made their first contribution in https://github.com/elementary/calendar/pull/783\r\n* @leolost2605 made their first contribution in https://github.com/elementary/calendar/pull/780\r\n\r\n**Full Changelog**: https://github.com/elementary/calendar/compare/6.1.2...7.0.0",
-        "href": "https://github.com/elementary/calendar/releases/tag/7.0.0"
-      },
-      {
-        "version": "6.1.2",
-        "release_date": "2022-11-15T19:30:59+00:00",
-        "title": "calendar 6.1.2 Released",
-        "body": "<p>Minor Updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/calendar/releases/tag/6.1.2"
-      },
-      {
-        "version": "6.1.1",
-        "release_date": "2022-05-18T04:43:29+00:00",
-        "title": "calendar 6.1.1 Released",
-        "body": "<p>Minor Updates:</p>\n<ul>\n<li>Updated app icon</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/calendar/releases/tag/6.1.1"
-      },
-      {
-        "version": "6.1.0",
-        "release_date": "2022-01-21T17:38:38+00:00",
-        "title": "calendar 6.1.0 Released",
-        "body": "<p>Features:</p>\n<ul>\n<li>Ask for confirmation before deleting events</li>\n<li>Follow email and web links in the event description with Control + Click</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Disabled checkbox \"Mark as default calendar\" in calendar settings, if the calendar is read-only</li>\n<li>Removed no longer needed sandbox permission for accounts service</li>\n<li>Fixed potential memory leak</li>\n</ul>\n",
-        "href": "https://github.com/elementary/calendar/releases/tag/6.1.0"
-      },
-      {
-        "version": "6.0.3",
-        "release_date": "2021-10-26T17:57:07+00:00",
-        "title": "Calendar 6.0.3 Released",
-        "body": "<p>Fixes:</p>\r\n<ul>\r\n<li>Ensure Calendar runs in the background on startup</li>\r\n<li>Fix memory leak when getting timezone information</li>\r\n<li>Reliably read Windows-style timezones</li>\r\n</ul>\r\n<p>Minor Updates:</p>\r\n<ul>\r\n<li>Updated translations</li>\r\n</ul>",
-        "href": "https://github.com/elementary/calendar/releases/tag/6.0.3"
-      },
-      {
-        "version": "6.0.2",
-        "release_date": "2021-09-22T20:45:44+00:00",
-        "title": "Calendar 6.0.2 Released",
-        "body": "Fixes:\r\n* Fix notification icons in the notification indicator\r\n* Fix an issue where event timezones were overwritten\r\n* Ensure Calendar is launched when notifications are clicked\r\n\r\nMinor Updates:\r\n* Updated translations",
-        "href": "https://github.com/elementary/calendar/releases/tag/6.0.2"
-      },
-      {
-        "version": "6.0.1",
-        "release_date": "2021-08-26T21:11:55+00:00",
-        "title": "calendar 6.0.1 Released",
-        "body": "<p>Fixes:</p>\n<ul>\n<li>Fix broken calendar color with some online providers</li>\n<li>Fix an issue with some all-day events</li>\n</ul>\n<p>Minor Updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/calendar/releases/tag/6.0.1"
-      },
-      {
-        "version": "6.0.0",
-        "release_date": "2021-07-21T02:56:10+00:00",
-        "title": "calendar 6.0.0 Released",
-        "body": "<p>New Features:</p>\n<ul>\n<li>Import ICS files from the gear menu</li>\n<li>Support the dark style</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Properly show events on the last day of the month</li>\n<li>Fix end times for all-day events</li>\n<li>Notify for all alarms on an event</li>\n</ul>\n<p>Minor Updates:</p>\n<ul>\n<li>Improved offline support</li>\n<li>New colorful avatar fallbacks</li>\n<li>Include \"film\" as an event icon keyword</li>\n<li>Add Mint and Bubblegum to calendar color chooser</li>\n<li>Link to Online Accounts settings in the gear menu</li>\n<li>Performance improvements</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/calendar/releases/tag/6.0.0"
-      },
-      {
-        "version": "5.1.1",
-        "release_date": "2020-10-08T20:26:30+00:00",
-        "title": "calendar 5.1.1 Released",
-        "body": "<p>Minor Updates:</p>\n<ul>\n<li>Fix an issue where new events could appear twice in Calendar</li>\n<li>\"Mark as default calendar\" box is now correctly checked when editing a calendar</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/calendar/releases/tag/5.1.1"
-      },
-      {
-        "version": "5.1.0",
-        "release_date": "2020-09-03T21:57:16+00:00",
-        "title": "calendar 5.1.0 Released",
-        "body": "<p>Improvements:</p>\n<ul>\n<li>Allow modification of recurring events</li>\n<li>Improve handling of week start day</li>\n<li>Fix timezone errors with all-day events</li>\n</ul>\n<p>Minor Updates:</p>\n<ul>\n<li>Don't resize the sidebar when resizing the window</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/calendar/releases/tag/5.1.0"
-      },
-      {
-        "version": "5.0.6",
-        "release_date": "2020-06-30T19:03:24+00:00",
-        "title": "calendar 5.0.6 Released",
-        "body": "<p>Minor Updates:</p>\n<ul>\n<li>Fix issues with time zones not being recognized</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/calendar/releases/tag/5.0.6"
-      },
-      {
-        "version": "5.0.5",
-        "release_date": "2020-06-02T04:44:14+00:00",
-        "title": "calendar 5.0.5 Released",
-        "body": "<p>Minor Updates:</p>\n<ul>\n<li>Fix several issues with adding and removing monthly recurring events</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/calendar/releases/tag/5.0.5"
-      },
-      {
-        "version": "5.0.4",
-        "release_date": "2020-04-03T20:09:04+00:00",
-        "title": "calendar 5.0.4 Released",
-        "body": "<p>Minor Updates:</p>\n<ul>\n<li>Correctly save event reminders</li>\n<li>Ellipsize event participant details if necessary</li>\n<li>Fix unwanted rescheduling when editing event title</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/calendar/releases/tag/5.0.4"
-      },
-      {
-        "version": "5.0.3",
-        "release_date": "2019-11-27T19:39:03+00:00",
-        "title": "calendar 5.0.3 Released",
-        "body": "calendar 5.0.3 is out! \n\n<p>Fix crash when editing an event with no location</p>\n",
-        "href": "https://github.com/elementary/calendar/releases/tag/5.0.3"
-      },
-      {
-        "version": "5.0.2",
-        "release_date": "2019-11-26T18:12:31+00:00",
-        "title": "calendar 5.0.2 Released",
-        "body": "calendar 5.0.2 is out! \n\n<p>Fix potential crash when loading events with no start or end time</p>\n",
-        "href": "https://github.com/elementary/calendar/releases/tag/5.0.2"
-      },
-      {
-        "version": "5.0.1",
-        "release_date": "2019-11-25T22:50:33+00:00",
-        "title": "calendar 5.0.1 Released",
-        "body": "calendar 5.0.1 is out! \r\n\r\n- Make agenda pane fill the whole space\r\n- Set the suggested time for new events to the next whole hour\r\n- Fix issues with recurring events\r\n- Performance improvements\r\n- Updated translations\r\n",
-        "href": "https://github.com/elementary/calendar/releases/tag/5.0.1"
-      },
-      {
-        "version": "5.0",
-        "release_date": "2019-03-01T00:38:47+00:00",
-        "title": "Calendar 5.0 Released",
-        "body": "Calendar 5.0 is out!\r\n\r\nChanges:\r\n* Present import window when opening ICS files\r\n* Add a search entry for calendars\r\n* Always use calendar icon in notifications\r\n* Agenda view can now be navigated by keyboard\r\n* Right-to-left improvements\r\n* Various UI overhauls including lime accent color\r\n* Overall code cleanup and rewrites\r\n* Updated translations",
-        "href": "https://github.com/elementary/calendar/releases/tag/5.0"
-      },
-      {
-        "version": "4.2.3",
-        "release_date": "2018-10-16T09:26:43+00:00",
-        "title": "Calendar 4.2.3 Released",
-        "body": "Changes:\r\n* Styling adjustments\r\n* Fix location panel initialization\r\n* Updated translations",
-        "href": "https://github.com/elementary/calendar/releases/tag/4.2.3"
-      },
-      {
-        "version": "4.2.2",
-        "release_date": "2018-10-03T08:17:05+00:00",
-        "title": "Calendar 4.2.2 Released",
-        "body": "Calendar 4.2.2 is out!\r\n\r\nChanges:\r\n* Meson build system\r\n* Date format fixes\r\n* Miscellaneous build fixes\r\n* Updated translations",
-        "href": "https://github.com/elementary/calendar/releases/tag/4.2.2"
-      },
-      {
-        "version": "0.4.2.1",
-        "release_date": "2018-06-22T09:51:25+00:00",
-        "title": "Calendar 0.4.2.1 Released",
-        "body": "Calendar 0.4.2.1 is out!\r\n\r\nThis release includes the following changes:\r\n* Update `wingpanel-indicator-datetime` settings path\r\n* New translations",
-        "href": "https://github.com/elementary/calendar/releases/tag/0.4.2.1"
-      },
-      {
-        "version": "0.4.2",
-        "release_date": "2018-06-06T09:04:54+00:00",
-        "title": "Calendar 0.4.2 Released",
-        "body": "Calendar 0.4.2 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/calendar/issues?q=is%3Aclosed+milestone%3A0.4.2).",
-        "href": "https://github.com/elementary/calendar/releases/tag/0.4.2"
-      },
-      {
-        "version": "0.4.1",
-        "release_date": "2017-12-01T20:54:43+00:00",
-        "title": "Maya (Calendar) 0.4.1 Released",
-        "body": "maya-calendar 0.4.1 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/calendar/issues?q=is%3Aclosed+milestone%3A0.4.1).",
-        "href": "https://github.com/elementary/calendar/releases/tag/0.4.1"
-      }
-    ],
-    "new_commits": 160,
-    "default_branch": "master"
   },
   {
     "name": "wallpapers",
