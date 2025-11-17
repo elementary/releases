@@ -1200,8 +1200,8 @@
         "href": "https://github.com/elementary/terminal/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 0,
-    "default_branch": "master"
+    "new_commits": 4,
+    "default_branch": "main"
   },
   {
     "name": "mail",
