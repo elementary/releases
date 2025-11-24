@@ -1599,7 +1599,7 @@
         "href": "https://github.com/elementary/terminal/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 15,
+    "new_commits": 16,
     "default_branch": "main"
   },
   {
@@ -8550,7 +8550,7 @@
         "href": "https://github.com/elementary/settings-datetime/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 30,
+    "new_commits": 31,
     "default_branch": "main"
   },
   {
