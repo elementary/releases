@@ -150,7 +150,7 @@
         "href": "https://github.com/elementary/dock/releases/tag/8.0.0"
       }
     ],
-    "new_commits": 3,
+    "new_commits": 9,
     "default_branch": "main"
   },
   {
@@ -605,7 +605,7 @@
         "href": "https://github.com/elementary/settings-security-privacy/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 0,
+    "new_commits": 1,
     "default_branch": "main"
   },
   {
@@ -948,7 +948,7 @@
         "href": "https://github.com/elementary/settings-printers/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 0,
+    "new_commits": 1,
     "default_branch": "main"
   },
   {
@@ -1291,7 +1291,7 @@
         "href": "https://github.com/elementary/settings-locale/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 0,
+    "new_commits": 1,
     "default_branch": "main"
   },
   {
@@ -2257,7 +2257,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 41,
+    "new_commits": 42,
     "default_branch": "main"
   },
   {
@@ -3111,7 +3111,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 53,
+    "new_commits": 54,
     "default_branch": "main"
   },
   {
@@ -4084,7 +4084,7 @@
         "href": "https://github.com/elementary/maps/releases/tag/0.1.0"
       }
     ],
-    "new_commits": 21,
+    "new_commits": 22,
     "default_branch": "main"
   },
   {
@@ -5512,7 +5512,7 @@
         "href": "https://github.com/elementary/videos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 17,
+    "new_commits": 18,
     "default_branch": "main"
   },
   {
