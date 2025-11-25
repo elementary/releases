@@ -1,5 +1,138 @@
 [
   {
+    "name": "greeter",
+    "releases": [
+      {
+        "version": "8.1.1",
+        "release_date": "2025-11-25T18:43:02+00:00",
+        "title": "greeter 8.1.1 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/greeter/releases/tag/8.1.1"
+      },
+      {
+        "version": "8.1.0",
+        "release_date": "2025-10-03T20:14:14+00:00",
+        "title": "greeter 8.1.0 Released",
+        "body": "<p>Minor updates:</p>\r\n<ul>\r\n<li>Updated translations</li>\r\n</ul>\r\n\r\n## What's Changed\r\n* Remove unused values from config by @lenemter in https://github.com/elementary/greeter/pull/787\r\n* Compositor: remove more dead code by @lenemter in https://github.com/elementary/greeter/pull/781\r\n* Add dark style support by @lenemter in https://github.com/elementary/greeter/pull/786\r\n* Use gsettings to store last user by @lenemter in https://github.com/elementary/greeter/pull/793\r\n* Compositor: remove unused x11 specific code by @lenemter in https://github.com/elementary/greeter/pull/780\r\n* Move session action into application by @lenemter in https://github.com/elementary/greeter/pull/795\r\n* Push Greeter to the background using pantheon shell protocol by @lenemter in https://github.com/elementary/greeter/pull/796\r\n* Fix popover keyboard nav by @lenemter in https://github.com/elementary/greeter/pull/797\r\n* Remove unused PromptText by @lenemter in https://github.com/elementary/greeter/pull/799\r\n* Cleanup StyleContext use by @lenemter in https://github.com/elementary/greeter/pull/800\r\n* Set power settings of active user by @lenemter in https://github.com/elementary/greeter/pull/801\r\n* Connect to lightdm daemon early by @lenemter in https://github.com/elementary/greeter/pull/802\r\n* Cleanup UserCard property sync by @lenemter in https://github.com/elementary/greeter/pull/803\r\n* Cleanup BaseCard by @lenemter in https://github.com/elementary/greeter/pull/804\r\n* Small CapsLockRevealer cleanup by @lenemter in https://github.com/elementary/greeter/pull/805\r\n* Cleanup FPrintUtils by @lenemter in https://github.com/elementary/greeter/pull/806\r\n* Cleanup DateTimeWidget by @lenemter in https://github.com/elementary/greeter/pull/807\r\n* Compositor: remove old unused texture by @lenemter in https://github.com/elementary/greeter/pull/808\r\n* Require Mutter >=45 by @danirabbit in https://github.com/elementary/greeter/pull/773\r\n* Compositor: sync shell clients code with gala by @lenemter in https://github.com/elementary/greeter/pull/810\r\n* Follow automatic accent color preference by @lenemter in https://github.com/elementary/greeter/pull/813\r\n* Position Greeter window in the compositor by @lenemter in https://github.com/elementary/greeter/pull/811\r\n* Save and restore last selected session type by @lenemter in https://github.com/elementary/greeter/pull/809\r\n* SessionButton: subclass bin by @danirabbit in https://github.com/elementary/greeter/pull/815\r\n* Start the port to Mutter 48 by @tintou in https://github.com/elementary/greeter/pull/812\r\n* Prepare metainfo for 8.1.0 by @lenemter in https://github.com/elementary/greeter/pull/816\r\n* Center caps lock label by @lenemter in https://github.com/elementary/greeter/pull/798\r\n* Sync Wingpanel transparency by @lenemter in https://github.com/elementary/greeter/pull/788\r\n* Add OpenSUSE Leap CI by @lenemter in https://github.com/elementary/greeter/pull/820\r\n* Bump actions/checkout from 4 to 5 by @dependabot[bot] in https://github.com/elementary/greeter/pull/823\r\n* Select classic session when using a11y features by @danirabbit in https://github.com/elementary/greeter/pull/821\r\n* Conf: set wayland as default session by @danirabbit in https://github.com/elementary/greeter/pull/747\r\n* Do not try to fallback to x11 session when it is unavailable by @bobby285271 in https://github.com/elementary/greeter/pull/824\r\n* Change manual card workflow by @lenemter in https://github.com/elementary/greeter/pull/794\r\n* Application.css: fix invalid icon shadow by @danirabbit in https://github.com/elementary/greeter/pull/826\r\n* Add blur protocol by @lenemter in https://github.com/elementary/greeter/pull/827\r\n* Simplify disabling tiling shortcuts by @lenemter in https://github.com/elementary/greeter/pull/828\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/greeter/compare/8.0.1...8.1.0",
+        "href": "https://github.com/elementary/greeter/releases/tag/8.1.0"
+      },
+      {
+        "version": "8.0.1",
+        "release_date": "2025-02-12T17:09:33+00:00",
+        "title": "greeter 8.0.1 Released",
+        "body": "<p>Minor updates:</p>\r\n<ul>\r\n<li>Updated translations</li>\r\n</ul>\r\n\r\n## What's Changed\r\n* ci: Update mutter version for noble by @ryonakano in https://github.com/elementary/greeter/pull/762\r\n* Application: subclass Gtk.Application by @danirabbit in https://github.com/elementary/greeter/pull/728\r\n* Create Application.css by @danirabbit in https://github.com/elementary/greeter/pull/763\r\n* MainWindow: use built-in action group for select-session by @danirabbit in https://github.com/elementary/greeter/pull/766\r\n* CapsLockRevealer: GTK4 prep by @danirabbit in https://github.com/elementary/greeter/pull/764\r\n* CSS: specify window.background opacity by @danirabbit in https://github.com/elementary/greeter/pull/769\r\n* Main: don't start settings daemon in installer session by @danirabbit in https://github.com/elementary/greeter/pull/761\r\n* Add Mutter 47 support by @danirabbit in https://github.com/elementary/greeter/pull/772\r\n* Run our session manager as a separate process by @lenemter in https://github.com/elementary/greeter/pull/779\r\n\r\n**Full Changelog**: https://github.com/elementary/greeter/compare/8.0.0...8.0.1",
+        "href": "https://github.com/elementary/greeter/releases/tag/8.0.1"
+      },
+      {
+        "version": "8.0.0",
+        "release_date": "2024-09-16T14:51:47+00:00",
+        "title": "greeter 8.0.0 Released",
+        "body": "<p>New Features:</p>\n<ul>\n<li>Add blurred wallpaper as background</li>\n<li>Make Date and Time larger and bolder with softer shadows</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/greeter/releases/tag/8.0.0"
+      },
+      {
+        "version": "7.0.0",
+        "release_date": "2023-07-25T16:34:37+00:00",
+        "title": "Greeter 7.0.0 Released!",
+        "body": "## What's Changed\r\n* actions/checkout@v3 by @meisenzahl in https://github.com/elementary/greeter/pull/631\r\n* ci: Switch to mutter-10 by @tintou in https://github.com/elementary/greeter/pull/638\r\n* Compositor: Remove unused functions by @lenemter in https://github.com/elementary/greeter/pull/635\r\n* AccessDialog: Copy changes from Gala by @lenemter in https://github.com/elementary/greeter/pull/636\r\n* WindowManager: confirm_display_change() Fixes by @lenemter in https://github.com/elementary/greeter/pull/637\r\n* build: require mutter 42 by @tintou in https://github.com/elementary/greeter/pull/639\r\n* Switch to GHCR containers by @davidmhewitt in https://github.com/elementary/greeter/pull/642\r\n* Copy KeyboardManager from Gala by @lenemter in https://github.com/elementary/greeter/pull/644\r\n* KeyboardManager: Set keyboard layout on startup by @lenemter in https://github.com/elementary/greeter/pull/645\r\n* Add support for Mutter 44 by @bobby285271 in https://github.com/elementary/greeter/pull/643\r\n* Fix meson warnings by @lenemter in https://github.com/elementary/greeter/pull/649\r\n* meson: Install lightdm config by @meisenzahl in https://github.com/elementary/greeter/pull/651\r\n* CI: Use any available mutter version by @lenemter in https://github.com/elementary/greeter/pull/657\r\n* Compositor: Mask corners by @lenemter in https://github.com/elementary/greeter/pull/661\r\n* Metainfo Improvements by @danirabbit in https://github.com/elementary/greeter/pull/663\r\n* Use user's mouse and touchpad settings by @lenemter in https://github.com/elementary/greeter/pull/655\r\n* Use user's xkb options by @lenemter in https://github.com/elementary/greeter/pull/658\r\n* Update metainfo by @lenemter in https://github.com/elementary/greeter/pull/666\r\n* Improve handling of users' accent color by @lenemter in https://github.com/elementary/greeter/pull/667\r\n* Fix screenreader shortcut by @lenemter in https://github.com/elementary/greeter/pull/668\r\n* Save screenreader state between sessions by @lenemter in https://github.com/elementary/greeter/pull/669\r\n* Use user's interface settings by @lenemter in https://github.com/elementary/greeter/pull/670\r\n* Use user's night light settings by @lenemter in https://github.com/elementary/greeter/pull/662\r\n* Compositor: Implement PointerLocator by @lenemter in https://github.com/elementary/greeter/pull/674\r\n* ManualCard: Small Gtk4 prep by @lenemter in https://github.com/elementary/greeter/pull/676\r\n* UserCard: Small Gtk4 prep by @lenemter in https://github.com/elementary/greeter/pull/675\r\n* Use users' fonts by @lenemter in https://github.com/elementary/greeter/pull/677\r\n* UserCard: Handle click event using `Gtk.GestureMultiPress` by @lenemter in https://github.com/elementary/greeter/pull/680\r\n* Don't reset user settings when entering wrong credentials by @lenemter in https://github.com/elementary/greeter/pull/681\r\n* Respect solid color wallpaper by @lenemter in https://github.com/elementary/greeter/pull/672\r\n\r\n## New Contributors\r\n* @lenemter made their first contribution in https://github.com/elementary/greeter/pull/635\r\n\r\n**Full Changelog**: https://github.com/elementary/greeter/compare/6.1.1...7.0.0",
+        "href": "https://github.com/elementary/greeter/releases/tag/7.0.0"
+      },
+      {
+        "version": "6.1.1",
+        "release_date": "2022-11-15T19:20:57+00:00",
+        "title": "greeter 6.1.1 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/greeter/releases/tag/6.1.1"
+      },
+      {
+        "version": "6.1.0",
+        "release_date": "2022-05-10T16:52:42+00:00",
+        "title": "greeter 6.1.0 Released",
+        "body": "<p>New Features:</p>\n<ul>\n<li>Provide panel background color interface</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/greeter/releases/tag/6.1.0"
+      },
+      {
+        "version": "6.0.2",
+        "release_date": "2022-02-28T16:19:59+00:00",
+        "title": "greeter 6.0.2 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Fix a random issue where Greeter does not load correctly on boot</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/greeter/releases/tag/6.0.2"
+      },
+      {
+        "version": "6.0.1",
+        "release_date": "2021-09-22T20:52:37+00:00",
+        "title": "Greeter 6.0.1 Released",
+        "body": "Improvements:\r\n* Hide clock during initial setup\r\n* Use selected accent color for logged in checkmark\r\n\r\nMinor updates:\r\n* Updated translations",
+        "href": "https://github.com/elementary/greeter/releases/tag/6.0.1"
+      },
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-14T19:41:27+00:00",
+        "title": "greeter 6.0.0 Released",
+        "body": "<ul>\n<li>Add multitouch finger tracking</li>\n<li>Add keyboard layout support</li>\n<li>New colorful avatar fallbacks</li>\n<li>Fix clock when resuming from sleep</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/greeter/releases/tag/6.0.0"
+      },
+      {
+        "version": "5.0.4",
+        "release_date": "2020-05-28T18:48:15+00:00",
+        "title": "greeter 5.0.4 Released",
+        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/greeter/releases/tag/5.0.4"
+      },
+      {
+        "version": "5.0.3",
+        "release_date": "2020-04-05T17:48:45+00:00",
+        "title": "greeter 5.0.3 Released",
+        "body": "<ul>\n<li>Fix an issue with media keys</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/greeter/releases/tag/5.0.3"
+      },
+      {
+        "version": "5.0.2",
+        "release_date": "2020-02-26T06:34:51+00:00",
+        "title": "greeter 5.0.2 Released",
+        "body": "greeter 5.0.2 is out! \n\n<ul>\n<li>Ensure that manual login is available when users are hidden</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/greeter/releases/tag/5.0.2"
+      },
+      {
+        "version": "5.0.1",
+        "release_date": "2019-10-31T21:10:21+00:00",
+        "title": "greeter 5.0.1 Released",
+        "body": "greeter 5.0.1 is out! \n\nChanges:\n\n* Save last user on attempted login\n* Handle all background aspect ratios\n* Give non-focused user cards smaller usernames\n* Better respect NumLock settings\n* Enable sounds in greeter\n* Select password text on error instead of immediately clearing it\n* Code cleanup\n* Updated translations\n",
+        "href": "https://github.com/elementary/greeter/releases/tag/5.0.1"
+      },
+      {
+        "version": "5.0",
+        "release_date": "2019-08-27T02:22:07+00:00",
+        "title": "Greeter 5.0 Released",
+        "body": "Greeter 5.0 is out!\r\n\r\nChanges:\r\n* Extensive overhaul\r\n* New card-based appearance\r\n* Improved HiDPI support\r\n* AccountsService functionality\r\n* Various bug fixes\r\n\r\nFor the full list of issues closed by this release, see [here](https://github.com/elementary/greeter/milestone/2).",
+        "href": "https://github.com/elementary/greeter/releases/tag/5.0"
+      },
+      {
+        "version": "3.3.1",
+        "release_date": "2018-11-05T22:05:52+00:00",
+        "title": "Greeter 3.3.1 Released",
+        "body": "pantheon-greeter 3.3.1 is out!\r\n\r\nThis release includes build fixes and updated translations.",
+        "href": "https://github.com/elementary/greeter/releases/tag/3.3.1"
+      },
+      {
+        "version": "3.3.0",
+        "release_date": "2018-10-02T11:50:49+00:00",
+        "title": "Greeter 3.3.0 Released",
+        "body": "pantheon-greeter 3.3.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/greeter/issues?q=is%3Aclosed+milestone%3A3.3.0).",
+        "href": "https://github.com/elementary/greeter/releases/tag/3.3.0"
+      },
+      {
+        "version": "3.2.0",
+        "release_date": "2017-09-12T05:17:56+00:00",
+        "title": "Greeter 3.2.0 Released",
+        "body": "pantheon-greeter 3.2.0 is out!\r\n\r\nThis release is mostly code cleanup.",
+        "href": "https://github.com/elementary/greeter/releases/tag/3.2.0"
+      }
+    ],
+    "new_commits": 0,
+    "default_branch": "main"
+  },
+  {
     "name": "wingpanel-indicator-network",
     "releases": [
       {
@@ -3826,132 +3959,6 @@
       }
     ],
     "new_commits": 45,
-    "default_branch": "main"
-  },
-  {
-    "name": "greeter",
-    "releases": [
-      {
-        "version": "8.1.0",
-        "release_date": "2025-10-03T20:14:14+00:00",
-        "title": "greeter 8.1.0 Released",
-        "body": "<p>Minor updates:</p>\r\n<ul>\r\n<li>Updated translations</li>\r\n</ul>\r\n\r\n## What's Changed\r\n* Remove unused values from config by @lenemter in https://github.com/elementary/greeter/pull/787\r\n* Compositor: remove more dead code by @lenemter in https://github.com/elementary/greeter/pull/781\r\n* Add dark style support by @lenemter in https://github.com/elementary/greeter/pull/786\r\n* Use gsettings to store last user by @lenemter in https://github.com/elementary/greeter/pull/793\r\n* Compositor: remove unused x11 specific code by @lenemter in https://github.com/elementary/greeter/pull/780\r\n* Move session action into application by @lenemter in https://github.com/elementary/greeter/pull/795\r\n* Push Greeter to the background using pantheon shell protocol by @lenemter in https://github.com/elementary/greeter/pull/796\r\n* Fix popover keyboard nav by @lenemter in https://github.com/elementary/greeter/pull/797\r\n* Remove unused PromptText by @lenemter in https://github.com/elementary/greeter/pull/799\r\n* Cleanup StyleContext use by @lenemter in https://github.com/elementary/greeter/pull/800\r\n* Set power settings of active user by @lenemter in https://github.com/elementary/greeter/pull/801\r\n* Connect to lightdm daemon early by @lenemter in https://github.com/elementary/greeter/pull/802\r\n* Cleanup UserCard property sync by @lenemter in https://github.com/elementary/greeter/pull/803\r\n* Cleanup BaseCard by @lenemter in https://github.com/elementary/greeter/pull/804\r\n* Small CapsLockRevealer cleanup by @lenemter in https://github.com/elementary/greeter/pull/805\r\n* Cleanup FPrintUtils by @lenemter in https://github.com/elementary/greeter/pull/806\r\n* Cleanup DateTimeWidget by @lenemter in https://github.com/elementary/greeter/pull/807\r\n* Compositor: remove old unused texture by @lenemter in https://github.com/elementary/greeter/pull/808\r\n* Require Mutter >=45 by @danirabbit in https://github.com/elementary/greeter/pull/773\r\n* Compositor: sync shell clients code with gala by @lenemter in https://github.com/elementary/greeter/pull/810\r\n* Follow automatic accent color preference by @lenemter in https://github.com/elementary/greeter/pull/813\r\n* Position Greeter window in the compositor by @lenemter in https://github.com/elementary/greeter/pull/811\r\n* Save and restore last selected session type by @lenemter in https://github.com/elementary/greeter/pull/809\r\n* SessionButton: subclass bin by @danirabbit in https://github.com/elementary/greeter/pull/815\r\n* Start the port to Mutter 48 by @tintou in https://github.com/elementary/greeter/pull/812\r\n* Prepare metainfo for 8.1.0 by @lenemter in https://github.com/elementary/greeter/pull/816\r\n* Center caps lock label by @lenemter in https://github.com/elementary/greeter/pull/798\r\n* Sync Wingpanel transparency by @lenemter in https://github.com/elementary/greeter/pull/788\r\n* Add OpenSUSE Leap CI by @lenemter in https://github.com/elementary/greeter/pull/820\r\n* Bump actions/checkout from 4 to 5 by @dependabot[bot] in https://github.com/elementary/greeter/pull/823\r\n* Select classic session when using a11y features by @danirabbit in https://github.com/elementary/greeter/pull/821\r\n* Conf: set wayland as default session by @danirabbit in https://github.com/elementary/greeter/pull/747\r\n* Do not try to fallback to x11 session when it is unavailable by @bobby285271 in https://github.com/elementary/greeter/pull/824\r\n* Change manual card workflow by @lenemter in https://github.com/elementary/greeter/pull/794\r\n* Application.css: fix invalid icon shadow by @danirabbit in https://github.com/elementary/greeter/pull/826\r\n* Add blur protocol by @lenemter in https://github.com/elementary/greeter/pull/827\r\n* Simplify disabling tiling shortcuts by @lenemter in https://github.com/elementary/greeter/pull/828\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/greeter/compare/8.0.1...8.1.0",
-        "href": "https://github.com/elementary/greeter/releases/tag/8.1.0"
-      },
-      {
-        "version": "8.0.1",
-        "release_date": "2025-02-12T17:09:33+00:00",
-        "title": "greeter 8.0.1 Released",
-        "body": "<p>Minor updates:</p>\r\n<ul>\r\n<li>Updated translations</li>\r\n</ul>\r\n\r\n## What's Changed\r\n* ci: Update mutter version for noble by @ryonakano in https://github.com/elementary/greeter/pull/762\r\n* Application: subclass Gtk.Application by @danirabbit in https://github.com/elementary/greeter/pull/728\r\n* Create Application.css by @danirabbit in https://github.com/elementary/greeter/pull/763\r\n* MainWindow: use built-in action group for select-session by @danirabbit in https://github.com/elementary/greeter/pull/766\r\n* CapsLockRevealer: GTK4 prep by @danirabbit in https://github.com/elementary/greeter/pull/764\r\n* CSS: specify window.background opacity by @danirabbit in https://github.com/elementary/greeter/pull/769\r\n* Main: don't start settings daemon in installer session by @danirabbit in https://github.com/elementary/greeter/pull/761\r\n* Add Mutter 47 support by @danirabbit in https://github.com/elementary/greeter/pull/772\r\n* Run our session manager as a separate process by @lenemter in https://github.com/elementary/greeter/pull/779\r\n\r\n**Full Changelog**: https://github.com/elementary/greeter/compare/8.0.0...8.0.1",
-        "href": "https://github.com/elementary/greeter/releases/tag/8.0.1"
-      },
-      {
-        "version": "8.0.0",
-        "release_date": "2024-09-16T14:51:47+00:00",
-        "title": "greeter 8.0.0 Released",
-        "body": "<p>New Features:</p>\n<ul>\n<li>Add blurred wallpaper as background</li>\n<li>Make Date and Time larger and bolder with softer shadows</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/greeter/releases/tag/8.0.0"
-      },
-      {
-        "version": "7.0.0",
-        "release_date": "2023-07-25T16:34:37+00:00",
-        "title": "Greeter 7.0.0 Released!",
-        "body": "## What's Changed\r\n* actions/checkout@v3 by @meisenzahl in https://github.com/elementary/greeter/pull/631\r\n* ci: Switch to mutter-10 by @tintou in https://github.com/elementary/greeter/pull/638\r\n* Compositor: Remove unused functions by @lenemter in https://github.com/elementary/greeter/pull/635\r\n* AccessDialog: Copy changes from Gala by @lenemter in https://github.com/elementary/greeter/pull/636\r\n* WindowManager: confirm_display_change() Fixes by @lenemter in https://github.com/elementary/greeter/pull/637\r\n* build: require mutter 42 by @tintou in https://github.com/elementary/greeter/pull/639\r\n* Switch to GHCR containers by @davidmhewitt in https://github.com/elementary/greeter/pull/642\r\n* Copy KeyboardManager from Gala by @lenemter in https://github.com/elementary/greeter/pull/644\r\n* KeyboardManager: Set keyboard layout on startup by @lenemter in https://github.com/elementary/greeter/pull/645\r\n* Add support for Mutter 44 by @bobby285271 in https://github.com/elementary/greeter/pull/643\r\n* Fix meson warnings by @lenemter in https://github.com/elementary/greeter/pull/649\r\n* meson: Install lightdm config by @meisenzahl in https://github.com/elementary/greeter/pull/651\r\n* CI: Use any available mutter version by @lenemter in https://github.com/elementary/greeter/pull/657\r\n* Compositor: Mask corners by @lenemter in https://github.com/elementary/greeter/pull/661\r\n* Metainfo Improvements by @danirabbit in https://github.com/elementary/greeter/pull/663\r\n* Use user's mouse and touchpad settings by @lenemter in https://github.com/elementary/greeter/pull/655\r\n* Use user's xkb options by @lenemter in https://github.com/elementary/greeter/pull/658\r\n* Update metainfo by @lenemter in https://github.com/elementary/greeter/pull/666\r\n* Improve handling of users' accent color by @lenemter in https://github.com/elementary/greeter/pull/667\r\n* Fix screenreader shortcut by @lenemter in https://github.com/elementary/greeter/pull/668\r\n* Save screenreader state between sessions by @lenemter in https://github.com/elementary/greeter/pull/669\r\n* Use user's interface settings by @lenemter in https://github.com/elementary/greeter/pull/670\r\n* Use user's night light settings by @lenemter in https://github.com/elementary/greeter/pull/662\r\n* Compositor: Implement PointerLocator by @lenemter in https://github.com/elementary/greeter/pull/674\r\n* ManualCard: Small Gtk4 prep by @lenemter in https://github.com/elementary/greeter/pull/676\r\n* UserCard: Small Gtk4 prep by @lenemter in https://github.com/elementary/greeter/pull/675\r\n* Use users' fonts by @lenemter in https://github.com/elementary/greeter/pull/677\r\n* UserCard: Handle click event using `Gtk.GestureMultiPress` by @lenemter in https://github.com/elementary/greeter/pull/680\r\n* Don't reset user settings when entering wrong credentials by @lenemter in https://github.com/elementary/greeter/pull/681\r\n* Respect solid color wallpaper by @lenemter in https://github.com/elementary/greeter/pull/672\r\n\r\n## New Contributors\r\n* @lenemter made their first contribution in https://github.com/elementary/greeter/pull/635\r\n\r\n**Full Changelog**: https://github.com/elementary/greeter/compare/6.1.1...7.0.0",
-        "href": "https://github.com/elementary/greeter/releases/tag/7.0.0"
-      },
-      {
-        "version": "6.1.1",
-        "release_date": "2022-11-15T19:20:57+00:00",
-        "title": "greeter 6.1.1 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/greeter/releases/tag/6.1.1"
-      },
-      {
-        "version": "6.1.0",
-        "release_date": "2022-05-10T16:52:42+00:00",
-        "title": "greeter 6.1.0 Released",
-        "body": "<p>New Features:</p>\n<ul>\n<li>Provide panel background color interface</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/greeter/releases/tag/6.1.0"
-      },
-      {
-        "version": "6.0.2",
-        "release_date": "2022-02-28T16:19:59+00:00",
-        "title": "greeter 6.0.2 Released",
-        "body": "<p>Improvements:</p>\n<ul>\n<li>Fix a random issue where Greeter does not load correctly on boot</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/greeter/releases/tag/6.0.2"
-      },
-      {
-        "version": "6.0.1",
-        "release_date": "2021-09-22T20:52:37+00:00",
-        "title": "Greeter 6.0.1 Released",
-        "body": "Improvements:\r\n* Hide clock during initial setup\r\n* Use selected accent color for logged in checkmark\r\n\r\nMinor updates:\r\n* Updated translations",
-        "href": "https://github.com/elementary/greeter/releases/tag/6.0.1"
-      },
-      {
-        "version": "6.0.0",
-        "release_date": "2021-07-14T19:41:27+00:00",
-        "title": "greeter 6.0.0 Released",
-        "body": "<ul>\n<li>Add multitouch finger tracking</li>\n<li>Add keyboard layout support</li>\n<li>New colorful avatar fallbacks</li>\n<li>Fix clock when resuming from sleep</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/greeter/releases/tag/6.0.0"
-      },
-      {
-        "version": "5.0.4",
-        "release_date": "2020-05-28T18:48:15+00:00",
-        "title": "greeter 5.0.4 Released",
-        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/greeter/releases/tag/5.0.4"
-      },
-      {
-        "version": "5.0.3",
-        "release_date": "2020-04-05T17:48:45+00:00",
-        "title": "greeter 5.0.3 Released",
-        "body": "<ul>\n<li>Fix an issue with media keys</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/greeter/releases/tag/5.0.3"
-      },
-      {
-        "version": "5.0.2",
-        "release_date": "2020-02-26T06:34:51+00:00",
-        "title": "greeter 5.0.2 Released",
-        "body": "greeter 5.0.2 is out! \n\n<ul>\n<li>Ensure that manual login is available when users are hidden</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/greeter/releases/tag/5.0.2"
-      },
-      {
-        "version": "5.0.1",
-        "release_date": "2019-10-31T21:10:21+00:00",
-        "title": "greeter 5.0.1 Released",
-        "body": "greeter 5.0.1 is out! \n\nChanges:\n\n* Save last user on attempted login\n* Handle all background aspect ratios\n* Give non-focused user cards smaller usernames\n* Better respect NumLock settings\n* Enable sounds in greeter\n* Select password text on error instead of immediately clearing it\n* Code cleanup\n* Updated translations\n",
-        "href": "https://github.com/elementary/greeter/releases/tag/5.0.1"
-      },
-      {
-        "version": "5.0",
-        "release_date": "2019-08-27T02:22:07+00:00",
-        "title": "Greeter 5.0 Released",
-        "body": "Greeter 5.0 is out!\r\n\r\nChanges:\r\n* Extensive overhaul\r\n* New card-based appearance\r\n* Improved HiDPI support\r\n* AccountsService functionality\r\n* Various bug fixes\r\n\r\nFor the full list of issues closed by this release, see [here](https://github.com/elementary/greeter/milestone/2).",
-        "href": "https://github.com/elementary/greeter/releases/tag/5.0"
-      },
-      {
-        "version": "3.3.1",
-        "release_date": "2018-11-05T22:05:52+00:00",
-        "title": "Greeter 3.3.1 Released",
-        "body": "pantheon-greeter 3.3.1 is out!\r\n\r\nThis release includes build fixes and updated translations.",
-        "href": "https://github.com/elementary/greeter/releases/tag/3.3.1"
-      },
-      {
-        "version": "3.3.0",
-        "release_date": "2018-10-02T11:50:49+00:00",
-        "title": "Greeter 3.3.0 Released",
-        "body": "pantheon-greeter 3.3.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/greeter/issues?q=is%3Aclosed+milestone%3A3.3.0).",
-        "href": "https://github.com/elementary/greeter/releases/tag/3.3.0"
-      },
-      {
-        "version": "3.2.0",
-        "release_date": "2017-09-12T05:17:56+00:00",
-        "title": "Greeter 3.2.0 Released",
-        "body": "pantheon-greeter 3.2.0 is out!\r\n\r\nThis release is mostly code cleanup.",
-        "href": "https://github.com/elementary/greeter/releases/tag/3.2.0"
-      }
-    ],
-    "new_commits": 17,
     "default_branch": "main"
   },
   {
