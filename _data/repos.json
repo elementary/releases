@@ -402,7 +402,7 @@
         "href": "https://github.com/elementary/monitor/releases/tag/0.2.0"
       }
     ],
-    "new_commits": 0,
+    "new_commits": 2,
     "default_branch": "main"
   },
   {
@@ -2341,7 +2341,7 @@
         "href": "https://github.com/elementary/calendar/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 14,
+    "new_commits": 18,
     "default_branch": "master"
   },
   {
@@ -3223,7 +3223,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 38,
+    "new_commits": 41,
     "default_branch": "master"
   },
   {
@@ -4364,7 +4364,7 @@
         "href": "https://github.com/elementary/maps/releases/tag/0.1.0"
       }
     ],
-    "new_commits": 22,
+    "new_commits": 25,
     "default_branch": "main"
   },
   {
@@ -4728,7 +4728,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 39,
+    "new_commits": 42,
     "default_branch": "main"
   },
   {
@@ -5281,7 +5281,7 @@
         "href": "https://github.com/elementary/calculator/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 13,
+    "new_commits": 15,
     "default_branch": "main"
   },
   {
@@ -5792,7 +5792,7 @@
         "href": "https://github.com/elementary/camera/releases/tag/1.0"
       }
     ],
-    "new_commits": 12,
+    "new_commits": 13,
     "default_branch": "main"
   },
   {
@@ -6590,7 +6590,7 @@
         "href": "https://github.com/elementary/bluetooth-daemon/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 43,
+    "new_commits": 45,
     "default_branch": "main"
   },
   {
@@ -6898,7 +6898,7 @@
         "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.0"
       }
     ],
-    "new_commits": 33,
+    "new_commits": 34,
     "default_branch": "main"
   },
   {
@@ -8725,7 +8725,7 @@
         "href": "https://github.com/elementary/photos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 95,
+    "new_commits": 96,
     "default_branch": "master"
   },
   {
