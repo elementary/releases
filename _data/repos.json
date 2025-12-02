@@ -6,7 +6,7 @@
         "version": "8.3.1",
         "release_date": "2025-12-02T16:47:23+00:00",
         "title": "dock 8.3.1 Released",
-        "body": "<p>Updated translations</p>\n",
+        "body": "<p>Updated translations</p>\r\n\r\n## What's Changed\r\n* Launcher: remove duplicate action constants by @danirabbit in https://github.com/elementary/dock/pull/507\r\n* Fix tooltip when hide dock is set to never by @lenemter in https://github.com/elementary/dock/pull/512\r\n* DynamicWorkspaecItem: add tooltip by @danirabbit in https://github.com/elementary/dock/pull/514\r\n* Fit popovers interaction with hide mode never by @lenemter in https://github.com/elementary/dock/pull/515\r\n* BaseIconGroup: make flowbox child unfocusable by @danirabbit in https://github.com/elementary/dock/pull/518\r\n* Make pinned action a property action by @leolost2605 in https://github.com/elementary/dock/pull/521\r\n* Allow to dnd a window icon to the new workspace item by @leolost2605 in https://github.com/elementary/dock/pull/509\r\n* ItemManager: sync_pinned when launcher added by @danirabbit in https://github.com/elementary/dock/pull/525\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/dock/compare/8.3.0...8.3.1",
         "href": "https://github.com/elementary/dock/releases/tag/8.3.1"
       },
       {
@@ -4924,7 +4924,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 43,
+    "new_commits": 45,
     "default_branch": "main"
   },
   {
@@ -7647,7 +7647,7 @@
         "href": "https://github.com/elementary/stylesheet/releases/tag/5.0.4"
       }
     ],
-    "new_commits": 36,
+    "new_commits": 37,
     "default_branch": "main"
   },
   {
@@ -7871,7 +7871,7 @@
         "href": "https://github.com/elementary/wingpanel/releases/tag/2.0.3"
       }
     ],
-    "new_commits": 44,
+    "new_commits": 46,
     "default_branch": "master"
   },
   {
