@@ -437,7 +437,7 @@
         "href": "https://github.com/elementary/dock/releases/tag/8.0.0"
       }
     ],
-    "new_commits": 0,
+    "new_commits": 1,
     "default_branch": "main"
   },
   {
@@ -1781,7 +1781,7 @@
         "href": "https://github.com/elementary/feedback/releases/tag/1.0"
       }
     ],
-    "new_commits": 16,
+    "new_commits": 18,
     "default_branch": "main"
   },
   {
@@ -2908,7 +2908,7 @@
         "href": "https://github.com/elementary/calendar/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 18,
+    "new_commits": 19,
     "default_branch": "master"
   },
   {
@@ -3790,7 +3790,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 41,
+    "new_commits": 43,
     "default_branch": "master"
   },
   {
