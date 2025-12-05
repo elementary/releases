@@ -1,5 +1,110 @@
 [
   {
+    "name": "pantheon-agent-polkit",
+    "releases": [
+      {
+        "version": "8.0.2",
+        "release_date": "2025-12-05T19:41:03+00:00",
+        "title": "pantheon-agent-polkit 8.0.2 Released",
+        "body": "<ul>\r\n<li>Updated translations</li>\r\n</ul>\r\n\r\n## What's Changed\r\n* Actions: Use main branch by @ryonakano in https://github.com/elementary/pantheon-agent-polkit/pull/87\r\n* PolkitDialog: use Gtk.PasswordEntry by @danirabbit in https://github.com/elementary/pantheon-agent-polkit/pull/91\r\n* Make the polkit dialog modal on wayland by @leolost2605 in https://github.com/elementary/pantheon-agent-polkit/pull/92\r\n* Application: rely on Granite.StyleManager by @danirabbit in https://github.com/elementary/pantheon-agent-polkit/pull/97\r\n* PolkitDialog: fix Granite CSS deprecations by @danirabbit in https://github.com/elementary/pantheon-agent-polkit/pull/101\r\n\r\n**Full Changelog**: https://github.com/elementary/pantheon-agent-polkit/compare/8.0.1...8.0.2",
+        "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/8.0.2"
+      },
+      {
+        "version": "8.0.1",
+        "release_date": "2024-11-20T21:22:12+00:00",
+        "title": "pantheon-agent-polkit 8.0.1 Released",
+        "body": "<ul>\n<li>Always on top and centered</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/8.0.1"
+      },
+      {
+        "version": "8.0.0",
+        "release_date": "2024-05-23T16:45:23+00:00",
+        "title": "pantheon-agent-polkit 8.0.0 Released",
+        "body": "<ul>\n<li>Update to the latest platform libraries</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/8.0.0"
+      },
+      {
+        "version": "1.0.5",
+        "release_date": "2022-04-28T06:31:15+00:00",
+        "title": "pantheon-agent-polkit 1.0.5 Released",
+        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/1.0.5"
+      },
+      {
+        "version": "1.0.4",
+        "release_date": "2021-07-14T18:12:33+00:00",
+        "title": "pantheon-agent-polkit 1.0.4 Released",
+        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/1.0.4"
+      },
+      {
+        "version": "1.0.3",
+        "release_date": "2020-06-19T19:01:42+00:00",
+        "title": "pantheon-agent-polkit 1.0.3 Released",
+        "body": "<ul>\n<li>Fix a potential issue when ending the session</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/1.0.3"
+      },
+      {
+        "version": "1.0.2",
+        "release_date": "2020-05-28T18:47:09+00:00",
+        "title": "pantheon-agent-polkit 1.0.2 Released",
+        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/1.0.2"
+      },
+      {
+        "version": "1.0.1",
+        "release_date": "2020-04-06T17:12:33+00:00",
+        "title": "pantheon-agent-polkit 1.0.1 Released",
+        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/1.0.1"
+      },
+      {
+        "version": "1.0.0",
+        "release_date": "2019-11-15T21:54:11+00:00",
+        "title": "pantheon-agent-polkit 1.0.0 Released",
+        "body": "pantheon-agent-polkit 1.0.0 is out! \n\nChanges:\n\n* Updated translations\n",
+        "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/1.0.0"
+      },
+      {
+        "version": "0.1.6",
+        "release_date": "2018-12-12T02:17:59+00:00",
+        "title": "Pantheon Polkit Agent 0.1.6 Released",
+        "body": "pantheon-agent-polkit 0.1.6 is out!\r\n\r\nChanges:\r\n* Wrap error message label\r\n* Updated translations",
+        "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/0.1.6"
+      },
+      {
+        "version": "0.1.5",
+        "release_date": "2018-06-04T07:12:34+00:00",
+        "title": "Pantheon Polkit Agent 0.1.5 Released",
+        "body": "`pantheon-agent-polkit` 0.1.5 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/pantheon-agent-polkit/issues?q=is%3Aclosed+milestone%3A0.1.5).",
+        "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/0.1.5"
+      },
+      {
+        "version": "0.1.4",
+        "release_date": "2017-05-26T21:44:20+00:00",
+        "title": "Pantheon Polkit Agent 0.1.4 Released",
+        "body": "pantheon-agent-polkit 0.1.4 is out!",
+        "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/0.1.4"
+      },
+      {
+        "version": "0.1.3",
+        "release_date": "2017-05-02T01:39:24+00:00",
+        "title": "Pantheon Polkit Agent 0.1.3 Released",
+        "body": "pantheon-agent-polkit 0.1.3 is out!",
+        "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/0.1.3"
+      },
+      {
+        "version": "0.1.2",
+        "release_date": "2017-02-12T10:03:52+00:00",
+        "title": "",
+        "body": "",
+        "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/0.1.2"
+      }
+    ],
+    "new_commits": 0,
+    "default_branch": "main"
+  },
+  {
     "name": "pantheon-wayland",
     "releases": [
       {
@@ -703,7 +808,7 @@
         "href": "https://github.com/elementary/dock/releases/tag/8.0.0"
       }
     ],
-    "new_commits": 2,
+    "new_commits": 3,
     "default_branch": "main"
   },
   {
@@ -4686,7 +4791,7 @@
         "href": "https://github.com/elementary/wingpanel-indicator-sound/releases/tag/2.0.4"
       }
     ],
-    "new_commits": 8,
+    "new_commits": 9,
     "default_branch": "master"
   },
   {
@@ -5876,7 +5981,7 @@
         "href": "https://github.com/elementary/calculator/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 15,
+    "new_commits": 16,
     "default_branch": "main"
   },
   {
@@ -6387,7 +6492,7 @@
         "href": "https://github.com/elementary/camera/releases/tag/1.0"
       }
     ],
-    "new_commits": 13,
+    "new_commits": 14,
     "default_branch": "main"
   },
   {
@@ -8309,104 +8414,6 @@
     "default_branch": "main"
   },
   {
-    "name": "pantheon-agent-polkit",
-    "releases": [
-      {
-        "version": "8.0.1",
-        "release_date": "2024-11-20T21:22:12+00:00",
-        "title": "pantheon-agent-polkit 8.0.1 Released",
-        "body": "<ul>\n<li>Always on top and centered</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/8.0.1"
-      },
-      {
-        "version": "8.0.0",
-        "release_date": "2024-05-23T16:45:23+00:00",
-        "title": "pantheon-agent-polkit 8.0.0 Released",
-        "body": "<ul>\n<li>Update to the latest platform libraries</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/8.0.0"
-      },
-      {
-        "version": "1.0.5",
-        "release_date": "2022-04-28T06:31:15+00:00",
-        "title": "pantheon-agent-polkit 1.0.5 Released",
-        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/1.0.5"
-      },
-      {
-        "version": "1.0.4",
-        "release_date": "2021-07-14T18:12:33+00:00",
-        "title": "pantheon-agent-polkit 1.0.4 Released",
-        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/1.0.4"
-      },
-      {
-        "version": "1.0.3",
-        "release_date": "2020-06-19T19:01:42+00:00",
-        "title": "pantheon-agent-polkit 1.0.3 Released",
-        "body": "<ul>\n<li>Fix a potential issue when ending the session</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/1.0.3"
-      },
-      {
-        "version": "1.0.2",
-        "release_date": "2020-05-28T18:47:09+00:00",
-        "title": "pantheon-agent-polkit 1.0.2 Released",
-        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/1.0.2"
-      },
-      {
-        "version": "1.0.1",
-        "release_date": "2020-04-06T17:12:33+00:00",
-        "title": "pantheon-agent-polkit 1.0.1 Released",
-        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/1.0.1"
-      },
-      {
-        "version": "1.0.0",
-        "release_date": "2019-11-15T21:54:11+00:00",
-        "title": "pantheon-agent-polkit 1.0.0 Released",
-        "body": "pantheon-agent-polkit 1.0.0 is out! \n\nChanges:\n\n* Updated translations\n",
-        "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/1.0.0"
-      },
-      {
-        "version": "0.1.6",
-        "release_date": "2018-12-12T02:17:59+00:00",
-        "title": "Pantheon Polkit Agent 0.1.6 Released",
-        "body": "pantheon-agent-polkit 0.1.6 is out!\r\n\r\nChanges:\r\n* Wrap error message label\r\n* Updated translations",
-        "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/0.1.6"
-      },
-      {
-        "version": "0.1.5",
-        "release_date": "2018-06-04T07:12:34+00:00",
-        "title": "Pantheon Polkit Agent 0.1.5 Released",
-        "body": "`pantheon-agent-polkit` 0.1.5 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/pantheon-agent-polkit/issues?q=is%3Aclosed+milestone%3A0.1.5).",
-        "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/0.1.5"
-      },
-      {
-        "version": "0.1.4",
-        "release_date": "2017-05-26T21:44:20+00:00",
-        "title": "Pantheon Polkit Agent 0.1.4 Released",
-        "body": "pantheon-agent-polkit 0.1.4 is out!",
-        "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/0.1.4"
-      },
-      {
-        "version": "0.1.3",
-        "release_date": "2017-05-02T01:39:24+00:00",
-        "title": "Pantheon Polkit Agent 0.1.3 Released",
-        "body": "pantheon-agent-polkit 0.1.3 is out!",
-        "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/0.1.3"
-      },
-      {
-        "version": "0.1.2",
-        "release_date": "2017-02-12T10:03:52+00:00",
-        "title": "",
-        "body": "",
-        "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/0.1.2"
-      }
-    ],
-    "new_commits": 57,
-    "default_branch": "main"
-  },
-  {
     "name": "settings-useraccounts",
     "releases": [
       {
@@ -9593,7 +9600,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.0"
       }
     ],
-    "new_commits": 7440,
+    "new_commits": 7442,
     "default_branch": "master"
   },
   {
