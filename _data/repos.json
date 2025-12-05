@@ -5470,7 +5470,7 @@
         "href": "https://github.com/elementary/settings-applications/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 18,
+    "new_commits": 20,
     "default_branch": "main"
   },
   {
@@ -5729,7 +5729,7 @@
         "href": "https://github.com/elementary/music/releases/tag/0.4.0.3"
       }
     ],
-    "new_commits": 28,
+    "new_commits": 32,
     "default_branch": "main"
   },
   {
@@ -8403,7 +8403,7 @@
         "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 55,
+    "new_commits": 57,
     "default_branch": "main"
   },
   {
@@ -9593,7 +9593,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.0"
       }
     ],
-    "new_commits": 7438,
+    "new_commits": 7440,
     "default_branch": "master"
   },
   {
