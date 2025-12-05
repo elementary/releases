@@ -1,5 +1,26 @@
 [
   {
+    "name": "pantheon-wayland",
+    "releases": [
+      {
+        "version": "1.1.0",
+        "release_date": "2025-12-05T15:43:13+00:00",
+        "title": "LibPantheonWayland 1.1.0 Released!",
+        "body": "## What's Changed\r\n* Actions: Use main branch by @ryonakano in https://github.com/elementary/pantheon-wayland/pull/6\r\n* Add the make_modal method by @leolost2605 in https://github.com/elementary/pantheon-wayland/pull/7\r\n\r\n## New Contributors\r\n* @ryonakano made their first contribution in https://github.com/elementary/pantheon-wayland/pull/6\r\n\r\n**Full Changelog**: https://github.com/elementary/pantheon-wayland/compare/1.0.0...1.1.0",
+        "href": "https://github.com/elementary/pantheon-wayland/releases/tag/1.1.0"
+      },
+      {
+        "version": "1.0.0",
+        "release_date": "2024-08-22T16:11:02+00:00",
+        "title": "LibPantheon-Wayland 1.0.0 Released!",
+        "body": "## What's Changed\r\n* Fix valadoc and some style issues by @leolost2605 in https://github.com/elementary/pantheon-wayland/pull/1\r\n\r\n**Full Changelog**: https://github.com/elementary/pantheon-wayland/commits/1.0.0",
+        "href": "https://github.com/elementary/pantheon-wayland/releases/tag/1.0.0"
+      }
+    ],
+    "new_commits": 0,
+    "default_branch": "main"
+  },
+  {
     "name": "gala",
     "releases": [
       {
@@ -8762,20 +8783,6 @@
     ],
     "new_commits": 96,
     "default_branch": "master"
-  },
-  {
-    "name": "pantheon-wayland",
-    "releases": [
-      {
-        "version": "1.0.0",
-        "release_date": "2024-08-22T16:11:02+00:00",
-        "title": "LibPantheon-Wayland 1.0.0 Released!",
-        "body": "## What's Changed\r\n* Fix valadoc and some style issues by @leolost2605 in https://github.com/elementary/pantheon-wayland/pull/1\r\n\r\n**Full Changelog**: https://github.com/elementary/pantheon-wayland/commits/1.0.0",
-        "href": "https://github.com/elementary/pantheon-wayland/releases/tag/1.0.0"
-      }
-    ],
-    "new_commits": 3,
-    "default_branch": "main"
   },
   {
     "name": "panel-bluetooth",
