@@ -1263,7 +1263,7 @@
         "href": "https://github.com/elementary/applications-menu/releases/tag/2.1.2"
       }
     ],
-    "new_commits": 0,
+    "new_commits": 1,
     "default_branch": "master"
   },
   {
@@ -5841,7 +5841,7 @@
         "href": "https://github.com/elementary/settings-applications/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 20,
+    "new_commits": 21,
     "default_branch": "main"
   },
   {
