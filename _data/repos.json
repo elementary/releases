@@ -367,7 +367,7 @@
         "href": "https://github.com/elementary/pantheon-agent-polkit/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 0,
+    "new_commits": 1,
     "default_branch": "main"
   },
   {
@@ -1865,7 +1865,7 @@
         "href": "https://github.com/elementary/notifications/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 2,
+    "new_commits": 3,
     "default_branch": "main"
   },
   {
@@ -8361,7 +8361,7 @@
         "href": "https://github.com/elementary/panel-power/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 33,
+    "new_commits": 34,
     "default_branch": "main"
   },
   {
@@ -8977,7 +8977,7 @@
         "href": "https://github.com/elementary/panel-nightlight/releases/tag/2.0"
       }
     ],
-    "new_commits": 34,
+    "new_commits": 35,
     "default_branch": "main"
   },
   {
@@ -9194,7 +9194,7 @@
         "href": "https://github.com/elementary/panel-keyboard/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 45,
+    "new_commits": 46,
     "default_branch": "main"
   },
   {
