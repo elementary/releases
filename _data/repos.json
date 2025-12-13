@@ -1,5 +1,61 @@
 [
   {
+    "name": "press-kit",
+    "releases": [
+      {
+        "version": "8.1.0",
+        "release_date": "2025-12-12T23:53:20+00:00",
+        "title": "OS 8.1 Press Kit",
+        "body": "See README.md for more info",
+        "href": "https://github.com/elementary/press-kit/releases/tag/8.1.0"
+      },
+      {
+        "version": "8.0.0",
+        "release_date": "2024-11-18T20:58:10+00:00",
+        "title": "8",
+        "body": "",
+        "href": "https://github.com/elementary/press-kit/releases/tag/8.0.0"
+      },
+      {
+        "version": "7.1.0",
+        "release_date": "2023-09-25T20:08:41+00:00",
+        "title": "7.1",
+        "body": "**Full Changelog**: https://github.com/elementary/press-kit/compare/7.0.0...7.1.0",
+        "href": "https://github.com/elementary/press-kit/releases/tag/7.1.0"
+      },
+      {
+        "version": "7.0.0",
+        "release_date": "2023-01-24T19:21:43+00:00",
+        "title": "7.0 Horus",
+        "body": "**Full Changelog**: https://github.com/elementary/press-kit/compare/6.1-jolnir...7.0.0",
+        "href": "https://github.com/elementary/press-kit/releases/tag/7.0.0"
+      },
+      {
+        "version": "6.1-jolnir",
+        "release_date": "2021-12-17T22:32:27+00:00",
+        "title": "6.1 Jólnir",
+        "body": "",
+        "href": "https://github.com/elementary/press-kit/releases/tag/6.1-jolnir"
+      },
+      {
+        "version": "5.1-hera",
+        "release_date": "2019-07-29T18:42:54+00:00",
+        "title": "5.1 Hera",
+        "body": "Never made an official release. :upside_down_face: ",
+        "href": "https://github.com/elementary/press-kit/releases/tag/5.1-hera"
+      },
+      {
+        "version": "5.0-juno",
+        "release_date": "2018-10-04T20:05:17+00:00",
+        "title": "Juno",
+        "body": "",
+        "href": "https://github.com/elementary/press-kit/releases/tag/5.0-juno"
+      }
+    ],
+    "new_commits": 0,
+    "default_branch": "8.0"
+  },
+  {
     "name": "os",
     "releases": [
       {
@@ -8552,55 +8608,6 @@
     ],
     "new_commits": 61,
     "default_branch": "main"
-  },
-  {
-    "name": "press-kit",
-    "releases": [
-      {
-        "version": "8.0.0",
-        "release_date": "2024-11-18T20:58:10+00:00",
-        "title": "8",
-        "body": "",
-        "href": "https://github.com/elementary/press-kit/releases/tag/8.0.0"
-      },
-      {
-        "version": "7.1.0",
-        "release_date": "2023-09-25T20:08:41+00:00",
-        "title": "7.1",
-        "body": "**Full Changelog**: https://github.com/elementary/press-kit/compare/7.0.0...7.1.0",
-        "href": "https://github.com/elementary/press-kit/releases/tag/7.1.0"
-      },
-      {
-        "version": "7.0.0",
-        "release_date": "2023-01-24T19:21:43+00:00",
-        "title": "7.0 Horus",
-        "body": "**Full Changelog**: https://github.com/elementary/press-kit/compare/6.1-jolnir...7.0.0",
-        "href": "https://github.com/elementary/press-kit/releases/tag/7.0.0"
-      },
-      {
-        "version": "6.1-jolnir",
-        "release_date": "2021-12-17T22:32:27+00:00",
-        "title": "6.1 Jólnir",
-        "body": "",
-        "href": "https://github.com/elementary/press-kit/releases/tag/6.1-jolnir"
-      },
-      {
-        "version": "5.1-hera",
-        "release_date": "2019-07-29T18:42:54+00:00",
-        "title": "5.1 Hera",
-        "body": "Never made an official release. :upside_down_face: ",
-        "href": "https://github.com/elementary/press-kit/releases/tag/5.1-hera"
-      },
-      {
-        "version": "5.0-juno",
-        "release_date": "2018-10-04T20:05:17+00:00",
-        "title": "Juno",
-        "body": "",
-        "href": "https://github.com/elementary/press-kit/releases/tag/5.0-juno"
-      }
-    ],
-    "new_commits": 0,
-    "default_branch": "8.0"
   },
   {
     "name": "settings-datetime",
