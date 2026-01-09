@@ -332,8 +332,8 @@
         "href": "https://github.com/elementary/press-kit/releases/tag/5.0-juno"
       }
     ],
-    "new_commits": 0,
-    "default_branch": "8.0"
+    "new_commits": 1,
+    "default_branch": "8.1"
   },
   {
     "name": "os",
