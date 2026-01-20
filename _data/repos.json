@@ -4028,7 +4028,7 @@
         "href": "https://github.com/elementary/calendar/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 49,
+    "new_commits": 50,
     "default_branch": "master"
   },
   {
@@ -6632,7 +6632,7 @@
         "href": "https://github.com/elementary/videos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 21,
+    "new_commits": 22,
     "default_branch": "main"
   },
   {
@@ -6765,7 +6765,7 @@
         "href": "https://github.com/elementary/camera/releases/tag/1.0"
       }
     ],
-    "new_commits": 18,
+    "new_commits": 19,
     "default_branch": "main"
   },
   {
@@ -7619,7 +7619,7 @@
         "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.0"
       }
     ],
-    "new_commits": 38,
+    "new_commits": 40,
     "default_branch": "main"
   },
   {
