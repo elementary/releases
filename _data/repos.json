@@ -3398,7 +3398,7 @@
         "href": "https://github.com/elementary/settings-notifications/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 4,
+    "new_commits": 5,
     "default_branch": "main"
   },
   {
@@ -3720,7 +3720,7 @@
         "href": "https://github.com/elementary/settings-mouse-touchpad/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 6,
+    "new_commits": 7,
     "default_branch": "main"
   },
   {
@@ -3853,7 +3853,7 @@
         "href": "https://github.com/elementary/settings-locale/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 2,
+    "new_commits": 3,
     "default_branch": "main"
   },
   {
@@ -4511,7 +4511,7 @@
         "href": "https://github.com/elementary/settings-sound/releases/tag/0.1"
       }
     ],
-    "new_commits": 3,
+    "new_commits": 4,
     "default_branch": "main"
   },
   {
@@ -5022,7 +5022,7 @@
         "href": "https://github.com/elementary/settings-power/releases/tag/0.3.1"
       }
     ],
-    "new_commits": 11,
+    "new_commits": 12,
     "default_branch": "main"
   },
   {
@@ -6121,7 +6121,7 @@
         "href": "https://github.com/elementary/settings-network/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 19,
+    "new_commits": 20,
     "default_branch": "main"
   },
   {
@@ -7185,7 +7185,7 @@
         "href": "https://github.com/elementary/settings-bluetooth/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 26,
+    "new_commits": 27,
     "default_branch": "main"
   },
   {
@@ -8627,7 +8627,7 @@
         "href": "https://github.com/elementary/settings-datetime/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 32,
+    "new_commits": 33,
     "default_branch": "main"
   },
   {
