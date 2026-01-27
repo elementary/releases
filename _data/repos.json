@@ -1984,7 +1984,7 @@
         "href": "https://github.com/elementary/dock/releases/tag/8.0.0"
       }
     ],
-    "new_commits": 21,
+    "new_commits": 25,
     "default_branch": "main"
   },
   {
@@ -4777,7 +4777,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 60,
+    "new_commits": 63,
     "default_branch": "master"
   },
   {
