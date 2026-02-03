@@ -3279,7 +3279,7 @@
         "href": "https://github.com/elementary/settings-system/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 13,
+    "new_commits": 15,
     "default_branch": "main"
   },
   {
@@ -4259,7 +4259,7 @@
         "href": "https://github.com/elementary/calendar/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 90,
+    "new_commits": 93,
     "default_branch": "master"
   },
   {
@@ -4742,7 +4742,7 @@
         "href": "https://github.com/elementary/settings-sound/releases/tag/0.1"
       }
     ],
-    "new_commits": 4,
+    "new_commits": 5,
     "default_branch": "main"
   },
   {
@@ -5253,7 +5253,7 @@
         "href": "https://github.com/elementary/settings-power/releases/tag/0.3.1"
       }
     ],
-    "new_commits": 12,
+    "new_commits": 13,
     "default_branch": "main"
   },
   {
@@ -6310,7 +6310,7 @@
         "href": "https://github.com/elementary/settings-network/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 20,
+    "new_commits": 21,
     "default_branch": "main"
   },
   {
@@ -7766,7 +7766,7 @@
         "href": "https://github.com/elementary/settings-onlineaccounts/releases/tag/2.0"
       }
     ],
-    "new_commits": 25,
+    "new_commits": 26,
     "default_branch": "main"
   },
   {
