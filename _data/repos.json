@@ -1,5 +1,75 @@
 [
   {
+    "name": "settings-sharing",
+    "releases": [
+      {
+        "version": "8.0.3",
+        "release_date": "2026-02-02T20:42:10+00:00",
+        "title": "settings-sharing 8.0.3 Released",
+        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/settings-sharing/releases/tag/8.0.3"
+      },
+      {
+        "version": "8.0.2",
+        "release_date": "2025-07-29T16:31:19+00:00",
+        "title": "Sharing Settings 8.0.2",
+        "body": "## What's Changed\r\n* DLNAPage: use Gtk.FileDialog by @danirabbit in https://github.com/elementary/switchboard-plug-sharing/pull/89\r\n* Fix no titlebar buttons when network is not available by @ryonakano in https://github.com/elementary/switchboard-plug-sharing/pull/92\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/switchboard-plug-sharing/compare/8.0.1...8.0.2",
+        "href": "https://github.com/elementary/settings-sharing/releases/tag/8.0.2"
+      },
+      {
+        "version": "8.0.1",
+        "release_date": "2024-12-11T22:45:35+00:00",
+        "title": "switchboard-plug-sharing 8.0.1 Released",
+        "body": "## What's Changed\r\n* Bluetooth in the title case by @ryonakano in https://github.com/elementary/switchboard-plug-sharing/pull/82\r\n* Store Sidebar Position by @alainm23 in https://github.com/elementary/switchboard-plug-sharing/pull/84\r\n* Meson: add log domain by @danirabbit in https://github.com/elementary/switchboard-plug-sharing/pull/85\r\n\r\n## New Contributors\r\n* @alainm23 made their first contribution in https://github.com/elementary/switchboard-plug-sharing/pull/84\r\n\r\n**Full Changelog**: https://github.com/elementary/switchboard-plug-sharing/compare/8.0.0...8.0.1",
+        "href": "https://github.com/elementary/settings-sharing/releases/tag/8.0.1"
+      },
+      {
+        "version": "8.0.0",
+        "release_date": "2024-07-26T17:15:25+00:00",
+        "title": "switchboard-plug-sharing 8.0.0 Released",
+        "body": "<ul>\n<li>Bluetooth sharing options</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/settings-sharing/releases/tag/8.0.0"
+      },
+      {
+        "version": "2.1.6",
+        "release_date": "2022-10-21T22:07:24+00:00",
+        "title": "switchboard-plug-sharing 2.1.6 Released",
+        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/settings-sharing/releases/tag/2.1.6"
+      },
+      {
+        "version": "2.1.5",
+        "release_date": "2021-07-13T23:29:56+00:00",
+        "title": "switchboard-plug-sharing 2.1.5 Released",
+        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/settings-sharing/releases/tag/2.1.5"
+      },
+      {
+        "version": "2.1.4",
+        "release_date": "2020-04-01T23:43:41+00:00",
+        "title": "switchboard-plug-sharing 2.1.4 Released",
+        "body": "switchboard-plug-sharing 2.1.4 is out! \n\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/settings-sharing/releases/tag/2.1.4"
+      },
+      {
+        "version": "2.1.3",
+        "release_date": "2018-10-16T01:08:01+00:00",
+        "title": "Switchboard Sharing Plug 2.1.3 Released",
+        "body": "switchboard-plug-sharing 2.1.3 is out!\r\n\r\nThis release includes updated translations.",
+        "href": "https://github.com/elementary/settings-sharing/releases/tag/2.1.3"
+      },
+      {
+        "version": "0.1.2",
+        "release_date": "2018-06-07T11:36:51+00:00",
+        "title": "Switchboard Sharing Plug 0.1.2 Released",
+        "body": "switchboard-plug-sharing 0.1.2 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-sharing/issues?q=is%3Aclosed+milestone%3A0.1.2).",
+        "href": "https://github.com/elementary/settings-sharing/releases/tag/0.1.2"
+      }
+    ],
+    "new_commits": 0,
+    "default_branch": "main"
+  },
+  {
     "name": "settings-daemon",
     "releases": [
       {
@@ -7130,69 +7200,6 @@
       }
     ],
     "new_commits": 31,
-    "default_branch": "main"
-  },
-  {
-    "name": "settings-sharing",
-    "releases": [
-      {
-        "version": "8.0.2",
-        "release_date": "2025-07-29T16:31:19+00:00",
-        "title": "Sharing Settings 8.0.2",
-        "body": "## What's Changed\r\n* DLNAPage: use Gtk.FileDialog by @danirabbit in https://github.com/elementary/switchboard-plug-sharing/pull/89\r\n* Fix no titlebar buttons when network is not available by @ryonakano in https://github.com/elementary/switchboard-plug-sharing/pull/92\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/switchboard-plug-sharing/compare/8.0.1...8.0.2",
-        "href": "https://github.com/elementary/settings-sharing/releases/tag/8.0.2"
-      },
-      {
-        "version": "8.0.1",
-        "release_date": "2024-12-11T22:45:35+00:00",
-        "title": "switchboard-plug-sharing 8.0.1 Released",
-        "body": "## What's Changed\r\n* Bluetooth in the title case by @ryonakano in https://github.com/elementary/switchboard-plug-sharing/pull/82\r\n* Store Sidebar Position by @alainm23 in https://github.com/elementary/switchboard-plug-sharing/pull/84\r\n* Meson: add log domain by @danirabbit in https://github.com/elementary/switchboard-plug-sharing/pull/85\r\n\r\n## New Contributors\r\n* @alainm23 made their first contribution in https://github.com/elementary/switchboard-plug-sharing/pull/84\r\n\r\n**Full Changelog**: https://github.com/elementary/switchboard-plug-sharing/compare/8.0.0...8.0.1",
-        "href": "https://github.com/elementary/settings-sharing/releases/tag/8.0.1"
-      },
-      {
-        "version": "8.0.0",
-        "release_date": "2024-07-26T17:15:25+00:00",
-        "title": "switchboard-plug-sharing 8.0.0 Released",
-        "body": "<ul>\n<li>Bluetooth sharing options</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/settings-sharing/releases/tag/8.0.0"
-      },
-      {
-        "version": "2.1.6",
-        "release_date": "2022-10-21T22:07:24+00:00",
-        "title": "switchboard-plug-sharing 2.1.6 Released",
-        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/settings-sharing/releases/tag/2.1.6"
-      },
-      {
-        "version": "2.1.5",
-        "release_date": "2021-07-13T23:29:56+00:00",
-        "title": "switchboard-plug-sharing 2.1.5 Released",
-        "body": "<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/settings-sharing/releases/tag/2.1.5"
-      },
-      {
-        "version": "2.1.4",
-        "release_date": "2020-04-01T23:43:41+00:00",
-        "title": "switchboard-plug-sharing 2.1.4 Released",
-        "body": "switchboard-plug-sharing 2.1.4 is out! \n\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/settings-sharing/releases/tag/2.1.4"
-      },
-      {
-        "version": "2.1.3",
-        "release_date": "2018-10-16T01:08:01+00:00",
-        "title": "Switchboard Sharing Plug 2.1.3 Released",
-        "body": "switchboard-plug-sharing 2.1.3 is out!\r\n\r\nThis release includes updated translations.",
-        "href": "https://github.com/elementary/settings-sharing/releases/tag/2.1.3"
-      },
-      {
-        "version": "0.1.2",
-        "release_date": "2018-06-07T11:36:51+00:00",
-        "title": "Switchboard Sharing Plug 0.1.2 Released",
-        "body": "switchboard-plug-sharing 0.1.2 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/switchboard-plug-sharing/issues?q=is%3Aclosed+milestone%3A0.1.2).",
-        "href": "https://github.com/elementary/settings-sharing/releases/tag/0.1.2"
-      }
-    ],
-    "new_commits": 24,
     "default_branch": "main"
   },
   {
