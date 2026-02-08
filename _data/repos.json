@@ -192,7 +192,7 @@
         "href": "https://github.com/elementary/feedback/releases/tag/1.0"
       }
     ],
-    "new_commits": 2,
+    "new_commits": 4,
     "default_branch": "main"
   },
   {
@@ -654,7 +654,7 @@
         "href": "https://github.com/elementary/settings-mouse-touchpad/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 0,
+    "new_commits": 1,
     "default_branch": "main"
   },
   {
@@ -1151,7 +1151,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 0,
+    "new_commits": 1,
     "default_branch": "main"
   },
   {
@@ -1473,7 +1473,7 @@
         "href": "https://github.com/elementary/portals/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 21,
+    "new_commits": 22,
     "default_branch": "main"
   },
   {
@@ -3160,7 +3160,7 @@
         "href": "https://github.com/elementary/dock/releases/tag/8.0.0"
       }
     ],
-    "new_commits": 28,
+    "new_commits": 29,
     "default_branch": "main"
   },
   {
@@ -5029,7 +5029,7 @@
         "href": "https://github.com/elementary/calendar/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 114,
+    "new_commits": 117,
     "default_branch": "master"
   },
   {
@@ -8102,7 +8102,7 @@
         "href": "https://github.com/elementary/settings-wacom/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 46,
+    "new_commits": 48,
     "default_branch": "main"
   },
   {
