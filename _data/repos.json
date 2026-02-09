@@ -1,5 +1,47 @@
 [
   {
+    "name": "settings-wacom",
+    "releases": [
+      {
+        "version": "8.0.2",
+        "release_date": "2026-02-09T17:06:49+00:00",
+        "title": "settings-wacom 8.0.2 Released",
+        "body": "<p>Updates:</p>\n<ul>\n<li>Rename as Pen &amp; Drawing</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/settings-wacom/releases/tag/8.0.2"
+      },
+      {
+        "version": "8.0.1",
+        "release_date": "2025-05-02T15:52:18+00:00",
+        "title": "switchboard-plug-wacom 8.0.1 Released",
+        "body": "<p>Updates:</p>\r\n<ul>\r\n<li>Updated translations</li>\r\n</ul>\r\n\r\n## What's Changed\r\n* Meson: add log domain by @danirabbit in https://github.com/elementary/switchboard-plug-wacom/pull/67\r\n* Fix some build warnings by @ryonakano in https://github.com/elementary/switchboard-plug-wacom/pull/71\r\n* Add check for stylus detection by @stsdc in https://github.com/elementary/switchboard-plug-wacom/pull/70\r\n\r\n## New Contributors\r\n* @stsdc made their first contribution in https://github.com/elementary/switchboard-plug-wacom/pull/70\r\n\r\n**Full Changelog**: https://github.com/elementary/switchboard-plug-wacom/compare/8.0.0...8.0.1",
+        "href": "https://github.com/elementary/settings-wacom/releases/tag/8.0.1"
+      },
+      {
+        "version": "8.0.0",
+        "release_date": "2024-07-02T15:47:52+00:00",
+        "title": "switchboard-plug-wacom 8.0.0 Released",
+        "body": "<p>A Big Redesign!</p>\n<ul>\n<li>See all settings in a single page</li>\n<li>Show pen names</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/settings-wacom/releases/tag/8.0.0"
+      },
+      {
+        "version": "1.0.1",
+        "release_date": "2022-07-03T15:32:26+00:00",
+        "title": "switchboard-plug-wacom 1.0.1 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/settings-wacom/releases/tag/1.0.1"
+      },
+      {
+        "version": "1.0.0",
+        "release_date": "2021-07-27T19:14:26+00:00",
+        "title": "switchboard-plug-wacom 1.0.0 Released",
+        "body": "<p>Initial Release!</p>\n",
+        "href": "https://github.com/elementary/settings-wacom/releases/tag/1.0.0"
+      }
+    ],
+    "new_commits": 0,
+    "default_branch": "main"
+  },
+  {
     "name": "settings-applications",
     "releases": [
       {
@@ -5253,7 +5295,7 @@
         "href": "https://github.com/elementary/terminal/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 65,
+    "new_commits": 66,
     "default_branch": "main"
   },
   {
@@ -8068,41 +8110,6 @@
       }
     ],
     "new_commits": 23,
-    "default_branch": "main"
-  },
-  {
-    "name": "settings-wacom",
-    "releases": [
-      {
-        "version": "8.0.1",
-        "release_date": "2025-05-02T15:52:18+00:00",
-        "title": "switchboard-plug-wacom 8.0.1 Released",
-        "body": "<p>Updates:</p>\r\n<ul>\r\n<li>Updated translations</li>\r\n</ul>\r\n\r\n## What's Changed\r\n* Meson: add log domain by @danirabbit in https://github.com/elementary/switchboard-plug-wacom/pull/67\r\n* Fix some build warnings by @ryonakano in https://github.com/elementary/switchboard-plug-wacom/pull/71\r\n* Add check for stylus detection by @stsdc in https://github.com/elementary/switchboard-plug-wacom/pull/70\r\n\r\n## New Contributors\r\n* @stsdc made their first contribution in https://github.com/elementary/switchboard-plug-wacom/pull/70\r\n\r\n**Full Changelog**: https://github.com/elementary/switchboard-plug-wacom/compare/8.0.0...8.0.1",
-        "href": "https://github.com/elementary/settings-wacom/releases/tag/8.0.1"
-      },
-      {
-        "version": "8.0.0",
-        "release_date": "2024-07-02T15:47:52+00:00",
-        "title": "switchboard-plug-wacom 8.0.0 Released",
-        "body": "<p>A Big Redesign!</p>\n<ul>\n<li>See all settings in a single page</li>\n<li>Show pen names</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/settings-wacom/releases/tag/8.0.0"
-      },
-      {
-        "version": "1.0.1",
-        "release_date": "2022-07-03T15:32:26+00:00",
-        "title": "switchboard-plug-wacom 1.0.1 Released",
-        "body": "<p>Minor updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/settings-wacom/releases/tag/1.0.1"
-      },
-      {
-        "version": "1.0.0",
-        "release_date": "2021-07-27T19:14:26+00:00",
-        "title": "switchboard-plug-wacom 1.0.0 Released",
-        "body": "<p>Initial Release!</p>\n",
-        "href": "https://github.com/elementary/settings-wacom/releases/tag/1.0.0"
-      }
-    ],
-    "new_commits": 48,
     "default_branch": "main"
   },
   {
