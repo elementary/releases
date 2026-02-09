@@ -1,5 +1,208 @@
 [
   {
+    "name": "granite",
+    "releases": [
+      {
+        "version": "7.8.0",
+        "release_date": "2026-02-09T22:22:26+00:00",
+        "title": "granite 7.8.0 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>HeaderLabel now has ellipsize property</li>\n<li>ListItem now has a menu_model property</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/granite/releases/tag/7.8.0"
+      },
+      {
+        "version": "7.7.0",
+        "release_date": "2025-09-30T21:20:30+00:00",
+        "title": "granite 7.7.0 Released",
+        "body": "<p>New Icons:</p>\r\n<ul>\r\n<li>View icons for columns, grids, lists, and reader mode. Plus horizontal and vertical ellipsis icons</li>\r\n<li>Start and End show/hide sidebar icons</li>\r\n<li>Emoji category icons used by GTK's emoji picker</li>\r\n<li>Eye icons required by Gtk.PasswordEntry</li>\r\n</ul>\r\n<p>New Features:</p>\r\n<ul>\r\n<li>Box is an orientable widget that includes standardized spacing and linked styles</li>\r\n<li>ListItem is a standard list widget that includes styles and spacing</li>\r\n<li>ToolBox is a vertical layout widget for top and bottom toolbars</li>\r\n<li>new style class constants for labels: CssClass.NUMERIC and CssClass.MONOSPACE</li>\r\n<li>StyleManager handles automatically setting dark and light modes as well as system accent colors using Portals</li>\r\n<li>BackButton is a standardized navigation button that activates \"navigation.pop\" and includes a shortcut tooltip</li>\r\n</ul>\r\n<p>Improvements:</p>\r\n<ul>\r\n<li>accel_to_string now uses the word \"Super\" instead of the \"⌘\" symbol</li>\r\n<li>HeaderLabel has a new property for H1-H4 sizes and H2 styles are now bolder</li>\r\n<li>CssClass.CARD is now rounded by default</li>\r\n<li>Updated translations</li>\r\n</ul>\r\n<p>Deprecations:</p>\r\n<ul>\r\n<li>Utils.set_color_primary. Modern apps have moved to more of a split paned design and this style is no longer very fashionable</li>\r\n<li>Nearly all of the old `STYLE_CLASS` constants have been deprecated. Some of them have been replaced by `CssClass` constants, others by widgets.</li>\r\n</ul>\r\n<p>Demo Improvements:</p>\r\n<ul>\r\n<li>More demo pages with more widgets</li>\r\n<li>Color scheme switcher in the sidebar</li>\r\n</ul>\r\n\r\n## What's Changed\r\n* Add version annotation to Granite.Bin by @davidmhewitt in https://github.com/elementary/granite/pull/740\r\n* Icons: add alias for adw-entry-apply-symbolic by @danirabbit in https://github.com/elementary/granite/pull/743\r\n* Constants: add numeric css class by @danirabbit in https://github.com/elementary/granite/pull/745\r\n* Add gettext to dependencies by @wpkelso in https://github.com/elementary/granite/pull/748\r\n* Icons: add eye icons required by Gtk.PasswordEntry by @danirabbit in https://github.com/elementary/granite/pull/750\r\n* Constants/CssClass: add colors and deprecate old ones by @danirabbit in https://github.com/elementary/granite/pull/753\r\n* Propose naming scheme for styling files by @wpkelso in https://github.com/elementary/granite/pull/752\r\n* Constants: add button styles by @danirabbit in https://github.com/elementary/granite/pull/755\r\n* Use CSS properties defined in :root for exporting colors by @wpkelso in https://github.com/elementary/granite/pull/756\r\n* Styles: Add compile time option for including Gtk stylesheets by @wpkelso in https://github.com/elementary/granite/pull/758\r\n* Styles: add checkerboard class by @danirabbit in https://github.com/elementary/granite/pull/759\r\n* Styles: Move expander code from stylesheet by @wpkelso in https://github.com/elementary/granite/pull/763\r\n* Styles: make cards rounded, expand demo, new constants by @danirabbit in https://github.com/elementary/granite/pull/765\r\n* Demo/WelcomeView: use Gtk.UriLauncher by @danirabbit in https://github.com/elementary/granite/pull/760\r\n* Introduce a style manager by @leolost2605 in https://github.com/elementary/granite/pull/731\r\n* Styles: Propose Common mixin & variables directory structure by @wpkelso in https://github.com/elementary/granite/pull/769\r\n* Styles/Gtk: add Arrow.scss by @danirabbit in https://github.com/elementary/granite/pull/771\r\n* HeaderLabel: add size property by @danirabbit in https://github.com/elementary/granite/pull/766\r\n* Styles: add CheckButton by @danirabbit in https://github.com/elementary/granite/pull/773\r\n* Add Granite.Box by @danirabbit in https://github.com/elementary/granite/pull/767\r\n* Styles: use button-spacing in popover, headerbar, overlaybar by @danirabbit in https://github.com/elementary/granite/pull/774\r\n* Demo/CssView: add a switch to toggle list separators by @danirabbit in https://github.com/elementary/granite/pull/772\r\n* HeaderLabel: add default for to_string by @danirabbit in https://github.com/elementary/granite/pull/778\r\n* Demo: create DemoPage by @danirabbit in https://github.com/elementary/granite/pull/777\r\n* Utils: mark set_color_primary as deprecated by @danirabbit in https://github.com/elementary/granite/pull/762\r\n* Avoid adding empty style classes by @danirabbit in https://github.com/elementary/granite/pull/781\r\n* Styles/Animate: add spin by @danirabbit in https://github.com/elementary/granite/pull/782\r\n* Add basic mixins for styling controls by @wpkelso in https://github.com/elementary/granite/pull/775\r\n* Styles/Button: support linked buttons by @danirabbit in https://github.com/elementary/granite/pull/784\r\n* Styles/Controls: merge in background styles by @danirabbit in https://github.com/elementary/granite/pull/785\r\n* Icons: add emoji categories by @danirabbit in https://github.com/elementary/granite/pull/788\r\n* Demo: ModeButtonView → ControlsView by @danirabbit in https://github.com/elementary/granite/pull/786\r\n* Styles: create Granite-empty by @danirabbit in https://github.com/elementary/granite/pull/780\r\n* Styles/Classes: reduce card border opacity by @danirabbit in https://github.com/elementary/granite/pull/792\r\n* Styles/Popover: add emoji-picker by @danirabbit in https://github.com/elementary/granite/pull/791\r\n* Box: add half spacing by @danirabbit in https://github.com/elementary/granite/pull/793\r\n* Styles/Popovers: add styles for Gtk.PopoverMenu by @danirabbit in https://github.com/elementary/granite/pull/795\r\n* Styles/Popover: add undershoot styles by @danirabbit in https://github.com/elementary/granite/pull/794\r\n* Styles: add switch by @danirabbit in https://github.com/elementary/granite/pull/708\r\n* Styles: add Entry by @danirabbit in https://github.com/elementary/granite/pull/712\r\n* Add basic Shumate support by @danirabbit in https://github.com/elementary/granite/pull/815\r\n* Styles: Interpolate palette to expand number of named colors for UI by @wpkelso in https://github.com/elementary/granite/pull/820\r\n* StyleManager: set accent color from portal by @danirabbit in https://github.com/elementary/granite/pull/704\r\n* Styles: Detail pass for buttons by @wpkelso in https://github.com/elementary/granite/pull/818\r\n* Add ListBox styles, Granite.ListItem by @danirabbit in https://github.com/elementary/granite/pull/783\r\n* Styles: use accent in checked states by @danirabbit in https://github.com/elementary/granite/pull/824\r\n* Styles: add Scale by @danirabbit in https://github.com/elementary/granite/pull/825\r\n* Constants: deprecate dialog style classes by @danirabbit in https://github.com/elementary/granite/pull/828\r\n* Constants: deprecate menu related style classes by @danirabbit in https://github.com/elementary/granite/pull/827\r\n* Constants: add CssClass.CIRCULAR by @danirabbit in https://github.com/elementary/granite/pull/832\r\n* Constants: deprecate MODE_SWITCH by @danirabbit in https://github.com/elementary/granite/pull/833\r\n* Constants: deprecate scale styles by @danirabbit in https://github.com/elementary/granite/pull/831\r\n* Header: modernize h2 styles by @danirabbit in https://github.com/elementary/granite/pull/834\r\n* Styles/Scale: add dragging style for slider by @danirabbit in https://github.com/elementary/granite/pull/830\r\n* Constants: add CssClass.SMALL by @danirabbit in https://github.com/elementary/granite/pull/837\r\n* Constants: deprecate KEYCAP by @danirabbit in https://github.com/elementary/granite/pull/836\r\n* Styles: Add padding and minimum sizes for buttons by @wpkelso in https://github.com/elementary/granite/pull/835\r\n* Styles/GTK: add selection by @danirabbit in https://github.com/elementary/granite/pull/841\r\n* Styles: add Gtk.Video by @danirabbit in https://github.com/elementary/granite/pull/840\r\n* Styles/Gtk: add ProgressBar by @danirabbit in https://github.com/elementary/granite/pull/842\r\n* Styles/Scale: style values by @danirabbit in https://github.com/elementary/granite/pull/829\r\n* Constants: deprecate STYLE_CLASS_FRAME by @danirabbit in https://github.com/elementary/granite/pull/844\r\n* Styles: fix selected colors for dark mode by @danirabbit in https://github.com/elementary/granite/pull/851\r\n* Style (pane) separators and sidebars by @wpkelso in https://github.com/elementary/granite/pull/850\r\n* Styles/Gtk: add .toolbar by @danirabbit in https://github.com/elementary/granite/pull/853\r\n* Styles/Gtk/Button: checked extends selection by @danirabbit in https://github.com/elementary/granite/pull/852\r\n* Icons: add sidebar icons by @danirabbit in https://github.com/elementary/granite/pull/854\r\n* Styles: make dark theme darker by @danirabbit in https://github.com/elementary/granite/pull/855\r\n* Styles/Controls: make active/checked .text-button flat by @danirabbit in https://github.com/elementary/granite/pull/856\r\n* Styles/Gtk/Video: fix dark mode contrast by @danirabbit in https://github.com/elementary/granite/pull/859\r\n* Styles/Gtk/Button: make all image-buttons bouncy by @danirabbit in https://github.com/elementary/granite/pull/858\r\n* Demo: check toggles by default by @danirabbit in https://github.com/elementary/granite/pull/860\r\n* Add ToolBox by @danirabbit in https://github.com/elementary/granite/pull/776\r\n* Add GridView styles by @danirabbit in https://github.com/elementary/granite/pull/863\r\n* Add `.monospace` class by @wpkelso in https://github.com/elementary/granite/pull/861\r\n* accel_to_string: ⌘ → Super by @danirabbit in https://github.com/elementary/granite/pull/865\r\n* Add BackButton by @leolost2605 in https://github.com/elementary/granite/pull/692\r\n* Export variables expected by dock by @wpkelso in https://github.com/elementary/granite/pull/869\r\n* StyleManager: Allow the GLib.Application to be null by @tintou in https://github.com/elementary/granite/pull/876\r\n* Constants: add since to each CssClass by @danirabbit in https://github.com/elementary/granite/pull/878\r\n* ListItem: subclass Gtk.Widget directly by @danirabbit in https://github.com/elementary/granite/pull/879\r\n* GraniteDemo: add color scheme switcher to sidebar by @danirabbit in https://github.com/elementary/granite/pull/862\r\n* Move Granite specific button styles to Granite Dir by @wpkelso in https://github.com/elementary/granite/pull/872\r\n* Demo: gresource welcome icons by @danirabbit in https://github.com/elementary/granite/pull/884\r\n* Icons: add view-* action icons by @danirabbit in https://github.com/elementary/granite/pull/885\r\n* AccelLabelView: fix menu button styles by @danirabbit in https://github.com/elementary/granite/pull/886\r\n* Demo/UtilsView: fix deprecation warnings by @danirabbit in https://github.com/elementary/granite/pull/761\r\n* Metainfo: add 7.7.0 release notes by @danirabbit in https://github.com/elementary/granite/pull/891\r\n* MapsView: add marker demos by @danirabbit in https://github.com/elementary/granite/pull/896\r\n* Init: Avoid crash with Gtk >= 4.17 by @ryonakano in https://github.com/elementary/granite/pull/893\r\n* Demo: application-default-icon → package-x-generic by @danirabbit in https://github.com/elementary/granite/pull/899\r\n* Actions: Use main branch by @ryonakano in https://github.com/elementary/granite/pull/900\r\n* Utils: markup_accel_tooltip: Correctly markup documentation by @ryonakano in https://github.com/elementary/granite/pull/901\r\n* Bump actions/checkout from 4 to 5 by @dependabot[bot] in https://github.com/elementary/granite/pull/904\r\n* markup_accel_tooltip: Handle null-terminated accels by @ryonakano in https://github.com/elementary/granite/pull/903\r\n* Remove colors defined in root pseudo-class by @wpkelso in https://github.com/elementary/granite/pull/907\r\n* StyleManager: Fix build error with valadoc by @ryonakano in https://github.com/elementary/granite/pull/910\r\n* meson: Explicit setup by @ryonakano in https://github.com/elementary/granite/pull/911\r\n* Actions: Check for documentation generation by @ryonakano in https://github.com/elementary/granite/pull/912\r\n* demo: Replace deprecated Granite.STYLE_CLASS_FRAME by @ryonakano in https://github.com/elementary/granite/pull/913\r\n\r\n**Full Changelog**: https://github.com/elementary/granite/compare/7.6.0...7.7.0",
+        "href": "https://github.com/elementary/granite/releases/tag/7.7.0"
+      },
+      {
+        "version": "7.6.0",
+        "release_date": "2024-11-21T16:03:03+00:00",
+        "title": "granite 7.6.0 Released",
+        "body": "## What's Changed\r\n* Dialog: Add since annotation to new method by @davidmhewitt in https://github.com/elementary/granite/pull/721\r\n* SwitchModelButton: set accessible label, description, and state by @danirabbit in https://github.com/elementary/granite/pull/723\r\n* ValidatedEntry: set AccessibleState by @danirabbit in https://github.com/elementary/granite/pull/724\r\n* HeaderLabel: set accessible description by @danirabbit in https://github.com/elementary/granite/pull/725\r\n* AbstractSimpleSettingsPage: Correct replacement class by @ryonakano in https://github.com/elementary/granite/pull/726\r\n* meson: Use gnome module to compile schemas by @ryonakano in https://github.com/elementary/granite/pull/727\r\n* SwitchModelButton: wrap label by @danirabbit in https://github.com/elementary/granite/pull/729\r\n* Introduce Granite.Bin for subclassing by @leolost2605 in https://github.com/elementary/granite/pull/730\r\n* Fix dead link (#734) by @salim-b in https://github.com/elementary/granite/pull/735\r\n\r\n## New Contributors\r\n* @alainm23 made their first contribution in https://github.com/elementary/granite/pull/736\r\n\r\n**Full Changelog**: https://github.com/elementary/granite/compare/7.5.0...7.6.0",
+        "href": "https://github.com/elementary/granite/releases/tag/7.6.0"
+      },
+      {
+        "version": "7.5.0",
+        "release_date": "2024-05-06T22:14:49+00:00",
+        "title": "granite 7.5.0 Released",
+        "body": "<p>New Features:</p>\n<ul>\n<li>Toast: add a new dismissed signal that includes the reason for dismissal</li>\n<li>Add STYLE_CLASS_SUCCESS</li>\n<li>HeaderLabel: allow secondary text to use markup</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Make building Demo optional</li>\n<li>Demo now uses a modern split-pane design</li>\n<li>DateTime: handle relative datetime when epoch</li>\n<li>MessageDialog: Set last button as focus widget</li>\n<li>SwitchModelButton: Remove redundant switch keyboard focusing</li>\n<li>Load fallback styles for widgets when using Granite.init</li>\n<li>Updated translations</li>\n</ul>\n<p>Deprecations:</p>\n<ul>\n<li>SettingsPage and SettingsSidebar: these widgets have moved to LibSwitchboard</li>\n</ul>\n",
+        "href": "https://github.com/elementary/granite/releases/tag/7.5.0"
+      },
+      {
+        "version": "7.4.0",
+        "release_date": "2023-11-18T17:41:39+00:00",
+        "title": "granite 7.4.0 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Add a withdraw method for Granite.Toast</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/granite/releases/tag/7.4.0"
+      },
+      {
+        "version": "7.3.0",
+        "release_date": "2023-06-12T11:39:43+00:00",
+        "title": "Granite 7.3.0 Released!",
+        "body": "## What's Changed\r\n* Fix build with newer Vala by @Exalm in https://github.com/elementary/granite/pull/637\r\n* Switch to GHCR containers by @davidmhewitt in https://github.com/elementary/granite/pull/640\r\n* settings: remove inappropriate ownership annotation by @mcatanzaro in https://github.com/elementary/granite/pull/642\r\n* Add granite styles as a gresource by @danirabbit in https://github.com/elementary/granite/pull/639\r\n* Init: load gresourced styles if present by @danirabbit in https://github.com/elementary/granite/pull/644\r\n* Fix demo desktop file by @meisenzahl in https://github.com/elementary/granite/pull/647\r\n* Settings Urls by @Antolius in https://github.com/elementary/granite/pull/649\r\n* Constants: Add since versions to new URI values by @davidmhewitt in https://github.com/elementary/granite/pull/651\r\n* Styles: add basics by @danirabbit in https://github.com/elementary/granite/pull/646\r\n* Metainfo improvements by @danirabbit in https://github.com/elementary/granite/pull/652\r\n* Update POTFILES by @ryonakano in https://github.com/elementary/granite/pull/654\r\n* README: Point to granite-7 version of valadoc by @ryonakano in https://github.com/elementary/granite/pull/655\r\n\r\n## New Contributors\r\n* @Exalm made their first contribution in https://github.com/elementary/granite/pull/637\r\n* @mcatanzaro made their first contribution in https://github.com/elementary/granite/pull/642\r\n* @Antolius made their first contribution in https://github.com/elementary/granite/pull/649\r\n\r\n**Full Changelog**: https://github.com/elementary/granite/compare/7.2.0...7.3.0",
+        "href": "https://github.com/elementary/granite/releases/tag/7.3.0"
+      },
+      {
+        "version": "7.2.0",
+        "release_date": "2023-02-27T18:26:53+00:00",
+        "title": "Granite 7.2.0 Released!",
+        "body": "## What's Changed\r\n* Add icon and use it by @danirabbit in https://github.com/elementary/granite/pull/629\r\n* Init: add ensure type by @danirabbit in https://github.com/elementary/granite/pull/632\r\n* Add 'since' annotations to things added in 7.1 by @davidmhewitt in https://github.com/elementary/granite/pull/635\r\n* Add since annotation to new public init method by @davidmhewitt in https://github.com/elementary/granite/pull/636\r\n\r\n**Full Changelog**: https://github.com/elementary/granite/compare/7.1.0...7.2.0",
+        "href": "https://github.com/elementary/granite/releases/tag/7.2.0"
+      },
+      {
+        "version": "7.1.0",
+        "release_date": "2022-10-10T23:50:48+00:00",
+        "title": "granite 7.1.0 Released",
+        "body": "<p>New Features:</p>\n<ul>\n<li>Granite.STYLE_CLASS_RICH_LIST for standard Gtk.ListBox row padding</li>\n<li>Granite.STYLE_CLASS_FRAME for adding a border to Gtk.LisBox, Gtk.InfoBar, and others</li>\n<li>Granite.STYLE_CLASS_SIDEBAR for styling application sidebars</li>\n<li>Granite.STYLE_CLASS_BACKGROUND to use the default background color for a widget</li>\n<li>Add optional secondary text to Granite.HeaderLabel</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Allow text in Granite.Toast to wrap</li>\n<li>SimpleSettingsPage: Wrap titles and allow description text to go under switches</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/granite/releases/tag/7.1.0"
+      },
+      {
+        "version": "7.0.0",
+        "release_date": "2022-04-30T18:14:07+00:00",
+        "title": "granite 7.0.0 Released",
+        "body": "<p>New Features:</p>\n<ul>\n<li>Ported to GTK4! 🎉️</li>\n<li>Granite.Placeholder: replaces AlertView and Welcome</li>\n<li>SimpleSettingsPage: Allow markup in description</li>\n</ul>\n<p>Removals:</p>\n<ul>\n<li>Application: use Gtk.Application instead</li>\n<li>Drawing: Use Gtk.CSS</li>\n<li>DynamicNotebook: use Adw.TabBar instead</li>\n<li>Logger: use GLib.log instead</li>\n<li>ModeButton: Use Gtk.ToggleButton with the \"group\" property and \"linked\" style class instead</li>\n<li>Paths: use GLib.Environment instead</li>\n<li>Seekbar</li>\n<li>Services.Settings: use GLib.Settings instead</li>\n<li>SimpleCommand: use GLib.AppInfo.create_from_commandline instead</li>\n<li>SourceList: use Gtk.ListBox with the \"sidebar\" style class instead</li>\n<li>StorageBar</li>\n<li>TextStyle: use style class constants instead</li>\n<li>Several functions in System were replaced by GLib.AppInfo</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li/>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/granite/releases/tag/7.0.0"
+      },
+      {
+        "version": "6.2.0",
+        "release_date": "2021-11-23T21:36:35+00:00",
+        "title": "granite 6.2.0 Released",
+        "body": "<p>New Features:</p>\n<ul>\n<li>min_length property for Granite.ValidatedEntry</li>\n<li>Granite.HyperTextView for navigatable URLs in text views</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Prevent crashing on environments without dark style preference support</li>\n</ul>\n",
+        "href": "https://github.com/elementary/granite/releases/tag/6.2.0"
+      },
+      {
+        "version": "6.1.2",
+        "release_date": "2021-10-25T18:46:08+00:00",
+        "title": "Granite 6.1.2",
+        "body": "<p>Fixes:</p>\r\n<ul>\r\n<li>Use values from the Settings Portal when possible</li>\r\n<li>Disable horizontal scrolling by default in SettingsPage</li>\r\n<li>Updated translations</li>\r\n</ul>",
+        "href": "https://github.com/elementary/granite/releases/tag/6.1.2"
+      },
+      {
+        "version": "6.1.1",
+        "release_date": "2021-08-25T22:06:34+00:00",
+        "title": "granite 6.1.1 Released",
+        "body": "<p>Fixes:</p>\n<ul>\n<li>Ensure accel_to_string works with multiple modifiers</li>\n<li>Fix locale issues in Flatpaks</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/granite/releases/tag/6.1.1"
+      },
+      {
+        "version": "6.1.0",
+        "release_date": "2021-07-13T22:02:51+00:00",
+        "title": "granite 6.1.0 Released",
+        "body": "<p>Additions:</p>\n<ul>\n<li>TRANSITION_DURATION_IN_PLACE for consistent in-place widget transformations</li>\n</ul>\n<p>Other Changes:</p>\n<ul>\n<li>accel_to_string handles accel markup without modifiers or that are only modifiers</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/granite/releases/tag/6.1.0"
+      },
+      {
+        "version": "6.0.0",
+        "release_date": "2021-03-22T23:22:21+00:00",
+        "title": "granite 6.0.0 Released",
+        "body": "<p>Additions:</p>\n<ul>\n<li>Granite.Dialog replaces Gtk.Dialog for consistent styling</li>\n<li>Granite.SwitchModelButton for use in Gtk.Popover menus</li>\n<li>Granite.ValidatedEntry for client-side verification in forms</li>\n</ul>\n<p>New Constants:</p>\n<ul>\n<li>TOOLTIP_SECONDARY_TEXT_MARKUP for smaller second line text in Gtk.Tooltips</li>\n<li>SMALL_LABEL for smaller Gtk.Labels without Pango</li>\n<li>STYLE_CLASS_WARMTH and STYLE_CLASS_TEMPERATURE for scales</li>\n<li>STYLE_CLASS_DEFAULT_DECORATION for slim headerbars</li>\n<li>TRANSITION_DURATION_OPEN and TRANSITION_DURATION_CLOSE for consistent animations</li>\n</ul>\n<p>Removals:</p>\n<ul>\n<li>Granite.Widgets.AboutDialog. Provide AppStream metadata instead.</li>\n<li>Granite.Widgets.AppMenu. Use Gtk.MenuButton instead.</li>\n</ul>\n<p>Deprecations:</p>\n<ul>\n<li>Granite.Widgets.Avatar. Use Hdy.Avatar instead</li>\n</ul>\n<p>Other Changes:</p>\n<ul>\n<li>Toasts now reset their timeout when sending a new notification and the timeout is stopped while hovering</li>\n<li>Backlash, Right Control, and Left Control are now handled by accel_to_string</li>\n<li>Make tab tooltips of DynamicNotebook settable</li>\n<li>Timepicker corrrectly fires time_changed when AM and PM buttons are selected</li>\n<li>Granite.MessageDialog now uses the messagedialog CSS name</li>\n<li>Visible child name is now properly synced in Granite.SettingsSidebar</li>\n<li>Status can be set in Granite.AbstractSettingsPage on construct</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/granite/releases/tag/6.0.0"
+      },
+      {
+        "version": "5.5.0",
+        "release_date": "2020-07-01T16:27:01+00:00",
+        "title": "granite 5.5.0 Released",
+        "body": "<p>New Style Constants:</p>\n<ul>\n<li>STYLE_CLASS_COLOR_BUTTON</li>\n<li>STYLE_CLASS_ROUNDED</li>\n</ul>\n<p>Deprecations:</p>\n<ul>\n<li>Several theming utilities. Use Gtk.CssProvider and Gtk.StyleContext instead</li>\n<li>Granite.Services.SimpleCommand. Use GLib.AppInfo.create_from_commandline instead</li>\n<li>Old unused utilities like get_button_layout_schema, get_default_close_button_position, and Granite.Services.Paths</li>\n<li>Old unused widgets like CollapsiblePaned and CompositedWindow</li>\n</ul>\n<p>Other Changes:</p>\n<ul>\n<li>Granite.SourceList now gets Gtk.STYLE_CLASS_SIDEBAR by default</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/granite/releases/tag/5.5.0"
+      },
+      {
+        "version": "5.4.0",
+        "release_date": "2020-04-29T22:16:12+00:00",
+        "title": "granite 5.4.0 Released",
+        "body": "<p>New features:</p>\n<ul>\n<li>New Settings class to share Pantheon desktop settings with apps</li>\n<li>Introduced Settings.prefers_color_scheme to get a user's color scheme preference, i.e. for a dark style</li>\n</ul>\n<p>Deprecations:</p>\n<ul>\n<li>It is now recommended to use GLib.Settings instead of Granite.Services.Settings</li>\n</ul>\n",
+        "href": "https://github.com/elementary/granite/releases/tag/5.4.0"
+      },
+      {
+        "version": "5.3.1",
+        "release_date": "2020-04-02T00:21:23+00:00",
+        "title": "granite 5.3.1 Released",
+        "body": "granite 5.3.1 is out! \n\n<p>Improvements:</p>\n<ul>\n<li>Better align labels in settings sidebars</li>\n<li>Make AccelLabel.label settable</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/granite/releases/tag/5.3.1"
+      },
+      {
+        "version": "5.3.0",
+        "release_date": "2019-12-13T19:42:03+00:00",
+        "title": "granite 5.3.0 Released",
+        "body": "granite 5.3.0 is out! \r\n\r\n<p>New features:</p>\r\n<ul>\r\n<li>Add tooltips to source list items and their actions</li>\r\n<li>New AccelLabel widget for use in menus and popovers</li>\r\n</ul>\r\n<p>Improvements:</p>\r\n<ul>\r\n<li>Delay tab resizing when closing tabs</li>\r\n<li>Updated translations</li>\r\n</ul>\r\n",
+        "href": "https://github.com/elementary/granite/releases/tag/5.3.0"
+      },
+      {
+        "version": "5.2.5",
+        "release_date": "2019-09-05T23:49:51+00:00",
+        "title": "Granite 5.2.5 Released",
+        "body": "Granite 5.2.5 is out!\r\n\r\nChanges:\r\n* meson: fix shared library path\r\n* Utils: Add equal keys to accel_to_string\r\n* Provide Badge and Progress support for an Application using same DBus API as libunity\r\n* DynamicNotebook: support `Close Tabs to the Right`\r\n* DynamicNotebook: don’t re-open closed tabs while rapidly closing tabs\r\n* Updated translations",
+        "href": "https://github.com/elementary/granite/releases/tag/5.2.5"
+      },
+      {
+        "version": "5.2.4",
+        "release_date": "2019-07-06T19:40:55+00:00",
+        "title": "Granite 5.2.4 Released",
+        "body": "Granite 5.2.4 is out!\r\n\r\nChanges:\r\n* Deprecate IconFactory\r\n* System: deprecate utilies provided by GLib\r\n* Utils: Add more keys to `accel-to-string` (Left and Right Alt, Left and Right Shift)\r\n* MessageDialog: Add the ability to set icon badges\r\n* Revert from custom Wingpanel DateTime settings schema (`io.elementary.desktop.wingpanel.datetime`) to GNOME (`org.gnome.desktop.interface`)\r\n* SimpleSettingsPage: make title and description selectable\r\n* Updated translations",
+        "href": "https://github.com/elementary/granite/releases/tag/5.2.4"
+      },
+      {
+        "version": "5.2.3",
+        "release_date": "2019-02-14T21:36:29+00:00",
+        "title": "Granite 5.2.3 Released",
+        "body": "Granite 5.2.3 is out!\r\n\r\nChanges:\r\n* Switch from CMake to Meson build system\r\n* DateTime: Strip leading spaces from time formats\r\n* Support Gdk.Key.Return for Enter markup\r\n* MessageDialog: Add show_error_expander method\r\n* Add function `history_is_enabled`\r\n* Fix typos in documentation\r\n* TimePicker: Use more compact boolean comparison syntax\r\n* Updated translations",
+        "href": "https://github.com/elementary/granite/releases/tag/5.2.3"
+      },
+      {
+        "version": "5.2.2",
+        "release_date": "2018-12-17T13:02:11+00:00",
+        "title": "Granite 5.2.2 Released",
+        "body": "Granite 5.2.2 is out!\r\n\r\nChanges:\r\n* Utils: Ignore empty accel strings\r\n* Updated translations",
+        "href": "https://github.com/elementary/granite/releases/tag/5.2.2"
+      },
+      {
+        "version": "5.2.1",
+        "release_date": "2018-11-07T19:18:54+00:00",
+        "title": "Granite 5.2.1 Released",
+        "body": "Granite 5.2.1 is out!\r\n\r\nChanges:\r\n* Utils: Make accels optional\r\n* Updated translations",
+        "href": "https://github.com/elementary/granite/releases/tag/5.2.1"
+      },
+      {
+        "version": "5.2.0",
+        "release_date": "2018-11-01T20:50:16+00:00",
+        "title": "Granite 5.2.0 Released",
+        "body": "Granite 5.2.0 is out!\r\n\r\nChanges:\r\n* Added `Granite.STYLE_CLASS_CHECKERBOARD`\r\n* Added Accel utilities:\r\n  * `accel_to_string`, takes something like \"<Super>Right\" and returns \"⌘ + →\"\r\n  * `markup_accel_tooltip`, takes a description and an accel string array and returns the markup for tooltips\r\n* DateTime: use `io.elementary.desktop.wingpanel.datetime` for settings instead of `org.gnome.desktop.interface`\r\n* Updated translations",
+        "href": "https://github.com/elementary/granite/releases/tag/5.2.0"
+      },
+      {
+        "version": "5.1.0",
+        "release_date": "2018-08-23T23:54:44+00:00",
+        "title": "Granite 5.1.0 Released",
+        "body": "Granite 5.1.0 is out!\r\n\r\nChanges:\r\n* Add Granite.ModeSwitch\r\n* Deprecate Granite.Application\r\n* SourceList: Don't propagate right click\r\n* DateTime: Add commas in date format\r\n* Improved translations",
+        "href": "https://github.com/elementary/granite/releases/tag/5.1.0"
+      },
+      {
+        "version": "5.0",
+        "release_date": "2018-06-05T07:59:34+00:00",
+        "title": "Granite 5.0 Released",
+        "body": "Granite 5.0 is out!\r\n\r\nThis list of issues closed by this release can be found [here](https://github.com/elementary/granite/issues?q=is%3Aclosed+milestone%3A5.0).",
+        "href": "https://github.com/elementary/granite/releases/tag/5.0"
+      },
+      {
+        "version": "0.5",
+        "release_date": "2017-11-02T03:08:51+00:00",
+        "title": "Granite 0.5 Released",
+        "body": "Granite 0.5 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/granite/issues?q=is%3Aclosed+milestone%3A0.5).",
+        "href": "https://github.com/elementary/granite/releases/tag/0.5"
+      },
+      {
+        "version": "0.4.1",
+        "release_date": "2017-05-07T02:08:52+00:00",
+        "title": "Granite 0.4.1 Released",
+        "body": "Granite 0.4.1 is out!\r\n\r\nA detailed change log is available [here](https://github.com/elementary/granite/milestone/1?closed=1)",
+        "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
+      }
+    ],
+    "new_commits": 2,
+    "default_branch": "main"
+  },
+  {
     "name": "settings-wacom",
     "releases": [
       {
@@ -38,7 +241,7 @@
         "href": "https://github.com/elementary/settings-wacom/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 0,
+    "new_commits": 1,
     "default_branch": "main"
   },
   {
@@ -234,7 +437,7 @@
         "href": "https://github.com/elementary/feedback/releases/tag/1.0"
       }
     ],
-    "new_commits": 4,
+    "new_commits": 6,
     "default_branch": "main"
   },
   {
@@ -696,7 +899,7 @@
         "href": "https://github.com/elementary/settings-mouse-touchpad/releases/tag/0.1.3"
       }
     ],
-    "new_commits": 1,
+    "new_commits": 2,
     "default_branch": "main"
   },
   {
@@ -1515,7 +1718,7 @@
         "href": "https://github.com/elementary/portals/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 22,
+    "new_commits": 23,
     "default_branch": "main"
   },
   {
@@ -3202,7 +3405,7 @@
         "href": "https://github.com/elementary/dock/releases/tag/8.0.0"
       }
     ],
-    "new_commits": 29,
+    "new_commits": 30,
     "default_branch": "main"
   },
   {
@@ -3727,7 +3930,7 @@
         "href": "https://github.com/elementary/onboarding/releases/tag/1.0"
       }
     ],
-    "new_commits": 22,
+    "new_commits": 23,
     "default_branch": "main"
   },
   {
@@ -6108,202 +6311,6 @@
       }
     ],
     "new_commits": 9,
-    "default_branch": "main"
-  },
-  {
-    "name": "granite",
-    "releases": [
-      {
-        "version": "7.7.0",
-        "release_date": "2025-09-30T21:20:30+00:00",
-        "title": "granite 7.7.0 Released",
-        "body": "<p>New Icons:</p>\r\n<ul>\r\n<li>View icons for columns, grids, lists, and reader mode. Plus horizontal and vertical ellipsis icons</li>\r\n<li>Start and End show/hide sidebar icons</li>\r\n<li>Emoji category icons used by GTK's emoji picker</li>\r\n<li>Eye icons required by Gtk.PasswordEntry</li>\r\n</ul>\r\n<p>New Features:</p>\r\n<ul>\r\n<li>Box is an orientable widget that includes standardized spacing and linked styles</li>\r\n<li>ListItem is a standard list widget that includes styles and spacing</li>\r\n<li>ToolBox is a vertical layout widget for top and bottom toolbars</li>\r\n<li>new style class constants for labels: CssClass.NUMERIC and CssClass.MONOSPACE</li>\r\n<li>StyleManager handles automatically setting dark and light modes as well as system accent colors using Portals</li>\r\n<li>BackButton is a standardized navigation button that activates \"navigation.pop\" and includes a shortcut tooltip</li>\r\n</ul>\r\n<p>Improvements:</p>\r\n<ul>\r\n<li>accel_to_string now uses the word \"Super\" instead of the \"⌘\" symbol</li>\r\n<li>HeaderLabel has a new property for H1-H4 sizes and H2 styles are now bolder</li>\r\n<li>CssClass.CARD is now rounded by default</li>\r\n<li>Updated translations</li>\r\n</ul>\r\n<p>Deprecations:</p>\r\n<ul>\r\n<li>Utils.set_color_primary. Modern apps have moved to more of a split paned design and this style is no longer very fashionable</li>\r\n<li>Nearly all of the old `STYLE_CLASS` constants have been deprecated. Some of them have been replaced by `CssClass` constants, others by widgets.</li>\r\n</ul>\r\n<p>Demo Improvements:</p>\r\n<ul>\r\n<li>More demo pages with more widgets</li>\r\n<li>Color scheme switcher in the sidebar</li>\r\n</ul>\r\n\r\n## What's Changed\r\n* Add version annotation to Granite.Bin by @davidmhewitt in https://github.com/elementary/granite/pull/740\r\n* Icons: add alias for adw-entry-apply-symbolic by @danirabbit in https://github.com/elementary/granite/pull/743\r\n* Constants: add numeric css class by @danirabbit in https://github.com/elementary/granite/pull/745\r\n* Add gettext to dependencies by @wpkelso in https://github.com/elementary/granite/pull/748\r\n* Icons: add eye icons required by Gtk.PasswordEntry by @danirabbit in https://github.com/elementary/granite/pull/750\r\n* Constants/CssClass: add colors and deprecate old ones by @danirabbit in https://github.com/elementary/granite/pull/753\r\n* Propose naming scheme for styling files by @wpkelso in https://github.com/elementary/granite/pull/752\r\n* Constants: add button styles by @danirabbit in https://github.com/elementary/granite/pull/755\r\n* Use CSS properties defined in :root for exporting colors by @wpkelso in https://github.com/elementary/granite/pull/756\r\n* Styles: Add compile time option for including Gtk stylesheets by @wpkelso in https://github.com/elementary/granite/pull/758\r\n* Styles: add checkerboard class by @danirabbit in https://github.com/elementary/granite/pull/759\r\n* Styles: Move expander code from stylesheet by @wpkelso in https://github.com/elementary/granite/pull/763\r\n* Styles: make cards rounded, expand demo, new constants by @danirabbit in https://github.com/elementary/granite/pull/765\r\n* Demo/WelcomeView: use Gtk.UriLauncher by @danirabbit in https://github.com/elementary/granite/pull/760\r\n* Introduce a style manager by @leolost2605 in https://github.com/elementary/granite/pull/731\r\n* Styles: Propose Common mixin & variables directory structure by @wpkelso in https://github.com/elementary/granite/pull/769\r\n* Styles/Gtk: add Arrow.scss by @danirabbit in https://github.com/elementary/granite/pull/771\r\n* HeaderLabel: add size property by @danirabbit in https://github.com/elementary/granite/pull/766\r\n* Styles: add CheckButton by @danirabbit in https://github.com/elementary/granite/pull/773\r\n* Add Granite.Box by @danirabbit in https://github.com/elementary/granite/pull/767\r\n* Styles: use button-spacing in popover, headerbar, overlaybar by @danirabbit in https://github.com/elementary/granite/pull/774\r\n* Demo/CssView: add a switch to toggle list separators by @danirabbit in https://github.com/elementary/granite/pull/772\r\n* HeaderLabel: add default for to_string by @danirabbit in https://github.com/elementary/granite/pull/778\r\n* Demo: create DemoPage by @danirabbit in https://github.com/elementary/granite/pull/777\r\n* Utils: mark set_color_primary as deprecated by @danirabbit in https://github.com/elementary/granite/pull/762\r\n* Avoid adding empty style classes by @danirabbit in https://github.com/elementary/granite/pull/781\r\n* Styles/Animate: add spin by @danirabbit in https://github.com/elementary/granite/pull/782\r\n* Add basic mixins for styling controls by @wpkelso in https://github.com/elementary/granite/pull/775\r\n* Styles/Button: support linked buttons by @danirabbit in https://github.com/elementary/granite/pull/784\r\n* Styles/Controls: merge in background styles by @danirabbit in https://github.com/elementary/granite/pull/785\r\n* Icons: add emoji categories by @danirabbit in https://github.com/elementary/granite/pull/788\r\n* Demo: ModeButtonView → ControlsView by @danirabbit in https://github.com/elementary/granite/pull/786\r\n* Styles: create Granite-empty by @danirabbit in https://github.com/elementary/granite/pull/780\r\n* Styles/Classes: reduce card border opacity by @danirabbit in https://github.com/elementary/granite/pull/792\r\n* Styles/Popover: add emoji-picker by @danirabbit in https://github.com/elementary/granite/pull/791\r\n* Box: add half spacing by @danirabbit in https://github.com/elementary/granite/pull/793\r\n* Styles/Popovers: add styles for Gtk.PopoverMenu by @danirabbit in https://github.com/elementary/granite/pull/795\r\n* Styles/Popover: add undershoot styles by @danirabbit in https://github.com/elementary/granite/pull/794\r\n* Styles: add switch by @danirabbit in https://github.com/elementary/granite/pull/708\r\n* Styles: add Entry by @danirabbit in https://github.com/elementary/granite/pull/712\r\n* Add basic Shumate support by @danirabbit in https://github.com/elementary/granite/pull/815\r\n* Styles: Interpolate palette to expand number of named colors for UI by @wpkelso in https://github.com/elementary/granite/pull/820\r\n* StyleManager: set accent color from portal by @danirabbit in https://github.com/elementary/granite/pull/704\r\n* Styles: Detail pass for buttons by @wpkelso in https://github.com/elementary/granite/pull/818\r\n* Add ListBox styles, Granite.ListItem by @danirabbit in https://github.com/elementary/granite/pull/783\r\n* Styles: use accent in checked states by @danirabbit in https://github.com/elementary/granite/pull/824\r\n* Styles: add Scale by @danirabbit in https://github.com/elementary/granite/pull/825\r\n* Constants: deprecate dialog style classes by @danirabbit in https://github.com/elementary/granite/pull/828\r\n* Constants: deprecate menu related style classes by @danirabbit in https://github.com/elementary/granite/pull/827\r\n* Constants: add CssClass.CIRCULAR by @danirabbit in https://github.com/elementary/granite/pull/832\r\n* Constants: deprecate MODE_SWITCH by @danirabbit in https://github.com/elementary/granite/pull/833\r\n* Constants: deprecate scale styles by @danirabbit in https://github.com/elementary/granite/pull/831\r\n* Header: modernize h2 styles by @danirabbit in https://github.com/elementary/granite/pull/834\r\n* Styles/Scale: add dragging style for slider by @danirabbit in https://github.com/elementary/granite/pull/830\r\n* Constants: add CssClass.SMALL by @danirabbit in https://github.com/elementary/granite/pull/837\r\n* Constants: deprecate KEYCAP by @danirabbit in https://github.com/elementary/granite/pull/836\r\n* Styles: Add padding and minimum sizes for buttons by @wpkelso in https://github.com/elementary/granite/pull/835\r\n* Styles/GTK: add selection by @danirabbit in https://github.com/elementary/granite/pull/841\r\n* Styles: add Gtk.Video by @danirabbit in https://github.com/elementary/granite/pull/840\r\n* Styles/Gtk: add ProgressBar by @danirabbit in https://github.com/elementary/granite/pull/842\r\n* Styles/Scale: style values by @danirabbit in https://github.com/elementary/granite/pull/829\r\n* Constants: deprecate STYLE_CLASS_FRAME by @danirabbit in https://github.com/elementary/granite/pull/844\r\n* Styles: fix selected colors for dark mode by @danirabbit in https://github.com/elementary/granite/pull/851\r\n* Style (pane) separators and sidebars by @wpkelso in https://github.com/elementary/granite/pull/850\r\n* Styles/Gtk: add .toolbar by @danirabbit in https://github.com/elementary/granite/pull/853\r\n* Styles/Gtk/Button: checked extends selection by @danirabbit in https://github.com/elementary/granite/pull/852\r\n* Icons: add sidebar icons by @danirabbit in https://github.com/elementary/granite/pull/854\r\n* Styles: make dark theme darker by @danirabbit in https://github.com/elementary/granite/pull/855\r\n* Styles/Controls: make active/checked .text-button flat by @danirabbit in https://github.com/elementary/granite/pull/856\r\n* Styles/Gtk/Video: fix dark mode contrast by @danirabbit in https://github.com/elementary/granite/pull/859\r\n* Styles/Gtk/Button: make all image-buttons bouncy by @danirabbit in https://github.com/elementary/granite/pull/858\r\n* Demo: check toggles by default by @danirabbit in https://github.com/elementary/granite/pull/860\r\n* Add ToolBox by @danirabbit in https://github.com/elementary/granite/pull/776\r\n* Add GridView styles by @danirabbit in https://github.com/elementary/granite/pull/863\r\n* Add `.monospace` class by @wpkelso in https://github.com/elementary/granite/pull/861\r\n* accel_to_string: ⌘ → Super by @danirabbit in https://github.com/elementary/granite/pull/865\r\n* Add BackButton by @leolost2605 in https://github.com/elementary/granite/pull/692\r\n* Export variables expected by dock by @wpkelso in https://github.com/elementary/granite/pull/869\r\n* StyleManager: Allow the GLib.Application to be null by @tintou in https://github.com/elementary/granite/pull/876\r\n* Constants: add since to each CssClass by @danirabbit in https://github.com/elementary/granite/pull/878\r\n* ListItem: subclass Gtk.Widget directly by @danirabbit in https://github.com/elementary/granite/pull/879\r\n* GraniteDemo: add color scheme switcher to sidebar by @danirabbit in https://github.com/elementary/granite/pull/862\r\n* Move Granite specific button styles to Granite Dir by @wpkelso in https://github.com/elementary/granite/pull/872\r\n* Demo: gresource welcome icons by @danirabbit in https://github.com/elementary/granite/pull/884\r\n* Icons: add view-* action icons by @danirabbit in https://github.com/elementary/granite/pull/885\r\n* AccelLabelView: fix menu button styles by @danirabbit in https://github.com/elementary/granite/pull/886\r\n* Demo/UtilsView: fix deprecation warnings by @danirabbit in https://github.com/elementary/granite/pull/761\r\n* Metainfo: add 7.7.0 release notes by @danirabbit in https://github.com/elementary/granite/pull/891\r\n* MapsView: add marker demos by @danirabbit in https://github.com/elementary/granite/pull/896\r\n* Init: Avoid crash with Gtk >= 4.17 by @ryonakano in https://github.com/elementary/granite/pull/893\r\n* Demo: application-default-icon → package-x-generic by @danirabbit in https://github.com/elementary/granite/pull/899\r\n* Actions: Use main branch by @ryonakano in https://github.com/elementary/granite/pull/900\r\n* Utils: markup_accel_tooltip: Correctly markup documentation by @ryonakano in https://github.com/elementary/granite/pull/901\r\n* Bump actions/checkout from 4 to 5 by @dependabot[bot] in https://github.com/elementary/granite/pull/904\r\n* markup_accel_tooltip: Handle null-terminated accels by @ryonakano in https://github.com/elementary/granite/pull/903\r\n* Remove colors defined in root pseudo-class by @wpkelso in https://github.com/elementary/granite/pull/907\r\n* StyleManager: Fix build error with valadoc by @ryonakano in https://github.com/elementary/granite/pull/910\r\n* meson: Explicit setup by @ryonakano in https://github.com/elementary/granite/pull/911\r\n* Actions: Check for documentation generation by @ryonakano in https://github.com/elementary/granite/pull/912\r\n* demo: Replace deprecated Granite.STYLE_CLASS_FRAME by @ryonakano in https://github.com/elementary/granite/pull/913\r\n\r\n**Full Changelog**: https://github.com/elementary/granite/compare/7.6.0...7.7.0",
-        "href": "https://github.com/elementary/granite/releases/tag/7.7.0"
-      },
-      {
-        "version": "7.6.0",
-        "release_date": "2024-11-21T16:03:03+00:00",
-        "title": "granite 7.6.0 Released",
-        "body": "## What's Changed\r\n* Dialog: Add since annotation to new method by @davidmhewitt in https://github.com/elementary/granite/pull/721\r\n* SwitchModelButton: set accessible label, description, and state by @danirabbit in https://github.com/elementary/granite/pull/723\r\n* ValidatedEntry: set AccessibleState by @danirabbit in https://github.com/elementary/granite/pull/724\r\n* HeaderLabel: set accessible description by @danirabbit in https://github.com/elementary/granite/pull/725\r\n* AbstractSimpleSettingsPage: Correct replacement class by @ryonakano in https://github.com/elementary/granite/pull/726\r\n* meson: Use gnome module to compile schemas by @ryonakano in https://github.com/elementary/granite/pull/727\r\n* SwitchModelButton: wrap label by @danirabbit in https://github.com/elementary/granite/pull/729\r\n* Introduce Granite.Bin for subclassing by @leolost2605 in https://github.com/elementary/granite/pull/730\r\n* Fix dead link (#734) by @salim-b in https://github.com/elementary/granite/pull/735\r\n\r\n## New Contributors\r\n* @alainm23 made their first contribution in https://github.com/elementary/granite/pull/736\r\n\r\n**Full Changelog**: https://github.com/elementary/granite/compare/7.5.0...7.6.0",
-        "href": "https://github.com/elementary/granite/releases/tag/7.6.0"
-      },
-      {
-        "version": "7.5.0",
-        "release_date": "2024-05-06T22:14:49+00:00",
-        "title": "granite 7.5.0 Released",
-        "body": "<p>New Features:</p>\n<ul>\n<li>Toast: add a new dismissed signal that includes the reason for dismissal</li>\n<li>Add STYLE_CLASS_SUCCESS</li>\n<li>HeaderLabel: allow secondary text to use markup</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Make building Demo optional</li>\n<li>Demo now uses a modern split-pane design</li>\n<li>DateTime: handle relative datetime when epoch</li>\n<li>MessageDialog: Set last button as focus widget</li>\n<li>SwitchModelButton: Remove redundant switch keyboard focusing</li>\n<li>Load fallback styles for widgets when using Granite.init</li>\n<li>Updated translations</li>\n</ul>\n<p>Deprecations:</p>\n<ul>\n<li>SettingsPage and SettingsSidebar: these widgets have moved to LibSwitchboard</li>\n</ul>\n",
-        "href": "https://github.com/elementary/granite/releases/tag/7.5.0"
-      },
-      {
-        "version": "7.4.0",
-        "release_date": "2023-11-18T17:41:39+00:00",
-        "title": "granite 7.4.0 Released",
-        "body": "<p>Improvements:</p>\n<ul>\n<li>Add a withdraw method for Granite.Toast</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/granite/releases/tag/7.4.0"
-      },
-      {
-        "version": "7.3.0",
-        "release_date": "2023-06-12T11:39:43+00:00",
-        "title": "Granite 7.3.0 Released!",
-        "body": "## What's Changed\r\n* Fix build with newer Vala by @Exalm in https://github.com/elementary/granite/pull/637\r\n* Switch to GHCR containers by @davidmhewitt in https://github.com/elementary/granite/pull/640\r\n* settings: remove inappropriate ownership annotation by @mcatanzaro in https://github.com/elementary/granite/pull/642\r\n* Add granite styles as a gresource by @danirabbit in https://github.com/elementary/granite/pull/639\r\n* Init: load gresourced styles if present by @danirabbit in https://github.com/elementary/granite/pull/644\r\n* Fix demo desktop file by @meisenzahl in https://github.com/elementary/granite/pull/647\r\n* Settings Urls by @Antolius in https://github.com/elementary/granite/pull/649\r\n* Constants: Add since versions to new URI values by @davidmhewitt in https://github.com/elementary/granite/pull/651\r\n* Styles: add basics by @danirabbit in https://github.com/elementary/granite/pull/646\r\n* Metainfo improvements by @danirabbit in https://github.com/elementary/granite/pull/652\r\n* Update POTFILES by @ryonakano in https://github.com/elementary/granite/pull/654\r\n* README: Point to granite-7 version of valadoc by @ryonakano in https://github.com/elementary/granite/pull/655\r\n\r\n## New Contributors\r\n* @Exalm made their first contribution in https://github.com/elementary/granite/pull/637\r\n* @mcatanzaro made their first contribution in https://github.com/elementary/granite/pull/642\r\n* @Antolius made their first contribution in https://github.com/elementary/granite/pull/649\r\n\r\n**Full Changelog**: https://github.com/elementary/granite/compare/7.2.0...7.3.0",
-        "href": "https://github.com/elementary/granite/releases/tag/7.3.0"
-      },
-      {
-        "version": "7.2.0",
-        "release_date": "2023-02-27T18:26:53+00:00",
-        "title": "Granite 7.2.0 Released!",
-        "body": "## What's Changed\r\n* Add icon and use it by @danirabbit in https://github.com/elementary/granite/pull/629\r\n* Init: add ensure type by @danirabbit in https://github.com/elementary/granite/pull/632\r\n* Add 'since' annotations to things added in 7.1 by @davidmhewitt in https://github.com/elementary/granite/pull/635\r\n* Add since annotation to new public init method by @davidmhewitt in https://github.com/elementary/granite/pull/636\r\n\r\n**Full Changelog**: https://github.com/elementary/granite/compare/7.1.0...7.2.0",
-        "href": "https://github.com/elementary/granite/releases/tag/7.2.0"
-      },
-      {
-        "version": "7.1.0",
-        "release_date": "2022-10-10T23:50:48+00:00",
-        "title": "granite 7.1.0 Released",
-        "body": "<p>New Features:</p>\n<ul>\n<li>Granite.STYLE_CLASS_RICH_LIST for standard Gtk.ListBox row padding</li>\n<li>Granite.STYLE_CLASS_FRAME for adding a border to Gtk.LisBox, Gtk.InfoBar, and others</li>\n<li>Granite.STYLE_CLASS_SIDEBAR for styling application sidebars</li>\n<li>Granite.STYLE_CLASS_BACKGROUND to use the default background color for a widget</li>\n<li>Add optional secondary text to Granite.HeaderLabel</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Allow text in Granite.Toast to wrap</li>\n<li>SimpleSettingsPage: Wrap titles and allow description text to go under switches</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/granite/releases/tag/7.1.0"
-      },
-      {
-        "version": "7.0.0",
-        "release_date": "2022-04-30T18:14:07+00:00",
-        "title": "granite 7.0.0 Released",
-        "body": "<p>New Features:</p>\n<ul>\n<li>Ported to GTK4! 🎉️</li>\n<li>Granite.Placeholder: replaces AlertView and Welcome</li>\n<li>SimpleSettingsPage: Allow markup in description</li>\n</ul>\n<p>Removals:</p>\n<ul>\n<li>Application: use Gtk.Application instead</li>\n<li>Drawing: Use Gtk.CSS</li>\n<li>DynamicNotebook: use Adw.TabBar instead</li>\n<li>Logger: use GLib.log instead</li>\n<li>ModeButton: Use Gtk.ToggleButton with the \"group\" property and \"linked\" style class instead</li>\n<li>Paths: use GLib.Environment instead</li>\n<li>Seekbar</li>\n<li>Services.Settings: use GLib.Settings instead</li>\n<li>SimpleCommand: use GLib.AppInfo.create_from_commandline instead</li>\n<li>SourceList: use Gtk.ListBox with the \"sidebar\" style class instead</li>\n<li>StorageBar</li>\n<li>TextStyle: use style class constants instead</li>\n<li>Several functions in System were replaced by GLib.AppInfo</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li/>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/granite/releases/tag/7.0.0"
-      },
-      {
-        "version": "6.2.0",
-        "release_date": "2021-11-23T21:36:35+00:00",
-        "title": "granite 6.2.0 Released",
-        "body": "<p>New Features:</p>\n<ul>\n<li>min_length property for Granite.ValidatedEntry</li>\n<li>Granite.HyperTextView for navigatable URLs in text views</li>\n</ul>\n<p>Improvements:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n<p>Fixes:</p>\n<ul>\n<li>Prevent crashing on environments without dark style preference support</li>\n</ul>\n",
-        "href": "https://github.com/elementary/granite/releases/tag/6.2.0"
-      },
-      {
-        "version": "6.1.2",
-        "release_date": "2021-10-25T18:46:08+00:00",
-        "title": "Granite 6.1.2",
-        "body": "<p>Fixes:</p>\r\n<ul>\r\n<li>Use values from the Settings Portal when possible</li>\r\n<li>Disable horizontal scrolling by default in SettingsPage</li>\r\n<li>Updated translations</li>\r\n</ul>",
-        "href": "https://github.com/elementary/granite/releases/tag/6.1.2"
-      },
-      {
-        "version": "6.1.1",
-        "release_date": "2021-08-25T22:06:34+00:00",
-        "title": "granite 6.1.1 Released",
-        "body": "<p>Fixes:</p>\n<ul>\n<li>Ensure accel_to_string works with multiple modifiers</li>\n<li>Fix locale issues in Flatpaks</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/granite/releases/tag/6.1.1"
-      },
-      {
-        "version": "6.1.0",
-        "release_date": "2021-07-13T22:02:51+00:00",
-        "title": "granite 6.1.0 Released",
-        "body": "<p>Additions:</p>\n<ul>\n<li>TRANSITION_DURATION_IN_PLACE for consistent in-place widget transformations</li>\n</ul>\n<p>Other Changes:</p>\n<ul>\n<li>accel_to_string handles accel markup without modifiers or that are only modifiers</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/granite/releases/tag/6.1.0"
-      },
-      {
-        "version": "6.0.0",
-        "release_date": "2021-03-22T23:22:21+00:00",
-        "title": "granite 6.0.0 Released",
-        "body": "<p>Additions:</p>\n<ul>\n<li>Granite.Dialog replaces Gtk.Dialog for consistent styling</li>\n<li>Granite.SwitchModelButton for use in Gtk.Popover menus</li>\n<li>Granite.ValidatedEntry for client-side verification in forms</li>\n</ul>\n<p>New Constants:</p>\n<ul>\n<li>TOOLTIP_SECONDARY_TEXT_MARKUP for smaller second line text in Gtk.Tooltips</li>\n<li>SMALL_LABEL for smaller Gtk.Labels without Pango</li>\n<li>STYLE_CLASS_WARMTH and STYLE_CLASS_TEMPERATURE for scales</li>\n<li>STYLE_CLASS_DEFAULT_DECORATION for slim headerbars</li>\n<li>TRANSITION_DURATION_OPEN and TRANSITION_DURATION_CLOSE for consistent animations</li>\n</ul>\n<p>Removals:</p>\n<ul>\n<li>Granite.Widgets.AboutDialog. Provide AppStream metadata instead.</li>\n<li>Granite.Widgets.AppMenu. Use Gtk.MenuButton instead.</li>\n</ul>\n<p>Deprecations:</p>\n<ul>\n<li>Granite.Widgets.Avatar. Use Hdy.Avatar instead</li>\n</ul>\n<p>Other Changes:</p>\n<ul>\n<li>Toasts now reset their timeout when sending a new notification and the timeout is stopped while hovering</li>\n<li>Backlash, Right Control, and Left Control are now handled by accel_to_string</li>\n<li>Make tab tooltips of DynamicNotebook settable</li>\n<li>Timepicker corrrectly fires time_changed when AM and PM buttons are selected</li>\n<li>Granite.MessageDialog now uses the messagedialog CSS name</li>\n<li>Visible child name is now properly synced in Granite.SettingsSidebar</li>\n<li>Status can be set in Granite.AbstractSettingsPage on construct</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/granite/releases/tag/6.0.0"
-      },
-      {
-        "version": "5.5.0",
-        "release_date": "2020-07-01T16:27:01+00:00",
-        "title": "granite 5.5.0 Released",
-        "body": "<p>New Style Constants:</p>\n<ul>\n<li>STYLE_CLASS_COLOR_BUTTON</li>\n<li>STYLE_CLASS_ROUNDED</li>\n</ul>\n<p>Deprecations:</p>\n<ul>\n<li>Several theming utilities. Use Gtk.CssProvider and Gtk.StyleContext instead</li>\n<li>Granite.Services.SimpleCommand. Use GLib.AppInfo.create_from_commandline instead</li>\n<li>Old unused utilities like get_button_layout_schema, get_default_close_button_position, and Granite.Services.Paths</li>\n<li>Old unused widgets like CollapsiblePaned and CompositedWindow</li>\n</ul>\n<p>Other Changes:</p>\n<ul>\n<li>Granite.SourceList now gets Gtk.STYLE_CLASS_SIDEBAR by default</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/granite/releases/tag/5.5.0"
-      },
-      {
-        "version": "5.4.0",
-        "release_date": "2020-04-29T22:16:12+00:00",
-        "title": "granite 5.4.0 Released",
-        "body": "<p>New features:</p>\n<ul>\n<li>New Settings class to share Pantheon desktop settings with apps</li>\n<li>Introduced Settings.prefers_color_scheme to get a user's color scheme preference, i.e. for a dark style</li>\n</ul>\n<p>Deprecations:</p>\n<ul>\n<li>It is now recommended to use GLib.Settings instead of Granite.Services.Settings</li>\n</ul>\n",
-        "href": "https://github.com/elementary/granite/releases/tag/5.4.0"
-      },
-      {
-        "version": "5.3.1",
-        "release_date": "2020-04-02T00:21:23+00:00",
-        "title": "granite 5.3.1 Released",
-        "body": "granite 5.3.1 is out! \n\n<p>Improvements:</p>\n<ul>\n<li>Better align labels in settings sidebars</li>\n<li>Make AccelLabel.label settable</li>\n<li>Updated translations</li>\n</ul>\n",
-        "href": "https://github.com/elementary/granite/releases/tag/5.3.1"
-      },
-      {
-        "version": "5.3.0",
-        "release_date": "2019-12-13T19:42:03+00:00",
-        "title": "granite 5.3.0 Released",
-        "body": "granite 5.3.0 is out! \r\n\r\n<p>New features:</p>\r\n<ul>\r\n<li>Add tooltips to source list items and their actions</li>\r\n<li>New AccelLabel widget for use in menus and popovers</li>\r\n</ul>\r\n<p>Improvements:</p>\r\n<ul>\r\n<li>Delay tab resizing when closing tabs</li>\r\n<li>Updated translations</li>\r\n</ul>\r\n",
-        "href": "https://github.com/elementary/granite/releases/tag/5.3.0"
-      },
-      {
-        "version": "5.2.5",
-        "release_date": "2019-09-05T23:49:51+00:00",
-        "title": "Granite 5.2.5 Released",
-        "body": "Granite 5.2.5 is out!\r\n\r\nChanges:\r\n* meson: fix shared library path\r\n* Utils: Add equal keys to accel_to_string\r\n* Provide Badge and Progress support for an Application using same DBus API as libunity\r\n* DynamicNotebook: support `Close Tabs to the Right`\r\n* DynamicNotebook: don’t re-open closed tabs while rapidly closing tabs\r\n* Updated translations",
-        "href": "https://github.com/elementary/granite/releases/tag/5.2.5"
-      },
-      {
-        "version": "5.2.4",
-        "release_date": "2019-07-06T19:40:55+00:00",
-        "title": "Granite 5.2.4 Released",
-        "body": "Granite 5.2.4 is out!\r\n\r\nChanges:\r\n* Deprecate IconFactory\r\n* System: deprecate utilies provided by GLib\r\n* Utils: Add more keys to `accel-to-string` (Left and Right Alt, Left and Right Shift)\r\n* MessageDialog: Add the ability to set icon badges\r\n* Revert from custom Wingpanel DateTime settings schema (`io.elementary.desktop.wingpanel.datetime`) to GNOME (`org.gnome.desktop.interface`)\r\n* SimpleSettingsPage: make title and description selectable\r\n* Updated translations",
-        "href": "https://github.com/elementary/granite/releases/tag/5.2.4"
-      },
-      {
-        "version": "5.2.3",
-        "release_date": "2019-02-14T21:36:29+00:00",
-        "title": "Granite 5.2.3 Released",
-        "body": "Granite 5.2.3 is out!\r\n\r\nChanges:\r\n* Switch from CMake to Meson build system\r\n* DateTime: Strip leading spaces from time formats\r\n* Support Gdk.Key.Return for Enter markup\r\n* MessageDialog: Add show_error_expander method\r\n* Add function `history_is_enabled`\r\n* Fix typos in documentation\r\n* TimePicker: Use more compact boolean comparison syntax\r\n* Updated translations",
-        "href": "https://github.com/elementary/granite/releases/tag/5.2.3"
-      },
-      {
-        "version": "5.2.2",
-        "release_date": "2018-12-17T13:02:11+00:00",
-        "title": "Granite 5.2.2 Released",
-        "body": "Granite 5.2.2 is out!\r\n\r\nChanges:\r\n* Utils: Ignore empty accel strings\r\n* Updated translations",
-        "href": "https://github.com/elementary/granite/releases/tag/5.2.2"
-      },
-      {
-        "version": "5.2.1",
-        "release_date": "2018-11-07T19:18:54+00:00",
-        "title": "Granite 5.2.1 Released",
-        "body": "Granite 5.2.1 is out!\r\n\r\nChanges:\r\n* Utils: Make accels optional\r\n* Updated translations",
-        "href": "https://github.com/elementary/granite/releases/tag/5.2.1"
-      },
-      {
-        "version": "5.2.0",
-        "release_date": "2018-11-01T20:50:16+00:00",
-        "title": "Granite 5.2.0 Released",
-        "body": "Granite 5.2.0 is out!\r\n\r\nChanges:\r\n* Added `Granite.STYLE_CLASS_CHECKERBOARD`\r\n* Added Accel utilities:\r\n  * `accel_to_string`, takes something like \"<Super>Right\" and returns \"⌘ + →\"\r\n  * `markup_accel_tooltip`, takes a description and an accel string array and returns the markup for tooltips\r\n* DateTime: use `io.elementary.desktop.wingpanel.datetime` for settings instead of `org.gnome.desktop.interface`\r\n* Updated translations",
-        "href": "https://github.com/elementary/granite/releases/tag/5.2.0"
-      },
-      {
-        "version": "5.1.0",
-        "release_date": "2018-08-23T23:54:44+00:00",
-        "title": "Granite 5.1.0 Released",
-        "body": "Granite 5.1.0 is out!\r\n\r\nChanges:\r\n* Add Granite.ModeSwitch\r\n* Deprecate Granite.Application\r\n* SourceList: Don't propagate right click\r\n* DateTime: Add commas in date format\r\n* Improved translations",
-        "href": "https://github.com/elementary/granite/releases/tag/5.1.0"
-      },
-      {
-        "version": "5.0",
-        "release_date": "2018-06-05T07:59:34+00:00",
-        "title": "Granite 5.0 Released",
-        "body": "Granite 5.0 is out!\r\n\r\nThis list of issues closed by this release can be found [here](https://github.com/elementary/granite/issues?q=is%3Aclosed+milestone%3A5.0).",
-        "href": "https://github.com/elementary/granite/releases/tag/5.0"
-      },
-      {
-        "version": "0.5",
-        "release_date": "2017-11-02T03:08:51+00:00",
-        "title": "Granite 0.5 Released",
-        "body": "Granite 0.5 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/granite/issues?q=is%3Aclosed+milestone%3A0.5).",
-        "href": "https://github.com/elementary/granite/releases/tag/0.5"
-      },
-      {
-        "version": "0.4.1",
-        "release_date": "2017-05-07T02:08:52+00:00",
-        "title": "Granite 0.4.1 Released",
-        "body": "Granite 0.4.1 is out!\r\n\r\nA detailed change log is available [here](https://github.com/elementary/granite/milestone/1?closed=1)",
-        "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
-      }
-    ],
-    "new_commits": 47,
     "default_branch": "main"
   },
   {
@@ -9656,7 +9663,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.0"
       }
     ],
-    "new_commits": 7518,
+    "new_commits": 7519,
     "default_branch": "master"
   },
   {
