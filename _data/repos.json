@@ -1725,7 +1725,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 3,
+    "new_commits": 4,
     "default_branch": "main"
   },
   {
@@ -5288,7 +5288,7 @@
         "href": "https://github.com/elementary/calendar/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 121,
+    "new_commits": 122,
     "default_branch": "master"
   },
   {
@@ -5771,7 +5771,7 @@
         "href": "https://github.com/elementary/settings-sound/releases/tag/0.1"
       }
     ],
-    "new_commits": 9,
+    "new_commits": 22,
     "default_branch": "main"
   },
   {
