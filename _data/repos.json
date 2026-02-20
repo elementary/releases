@@ -2089,7 +2089,7 @@
         "href": "https://github.com/elementary/settings-daemon/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 0,
+    "new_commits": 1,
     "default_branch": "main"
   },
   {
@@ -2138,7 +2138,7 @@
         "href": "https://github.com/elementary/quick-settings/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 0,
+    "new_commits": 1,
     "default_branch": "main"
   },
   {
@@ -3237,7 +3237,7 @@
         "href": "https://github.com/elementary/wingpanel/releases/tag/2.0.3"
       }
     ],
-    "new_commits": 4,
+    "new_commits": 5,
     "default_branch": "main"
   },
   {
@@ -8655,7 +8655,7 @@
         "href": "https://github.com/elementary/settings-useraccounts/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 66,
+    "new_commits": 67,
     "default_branch": "main"
   },
   {
@@ -9047,7 +9047,7 @@
         "href": "https://github.com/elementary/panel-nightlight/releases/tag/2.0"
       }
     ],
-    "new_commits": 36,
+    "new_commits": 38,
     "default_branch": "main"
   },
   {
