@@ -724,7 +724,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 2,
+    "new_commits": 6,
     "default_branch": "main"
   },
   {
@@ -1921,7 +1921,7 @@
         "href": "https://github.com/elementary/appcenter/releases/tag/0.2"
       }
     ],
-    "new_commits": 7,
+    "new_commits": 9,
     "default_branch": "main"
   },
   {
@@ -5295,7 +5295,7 @@
         "href": "https://github.com/elementary/calendar/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 126,
+    "new_commits": 127,
     "default_branch": "master"
   },
   {
@@ -9608,7 +9608,7 @@
       }
     ],
     "new_commits": 1,
-    "default_branch": "master"
+    "default_branch": "main"
   },
   {
     "name": "actions",
