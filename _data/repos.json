@@ -4546,7 +4546,7 @@
         "href": "https://github.com/elementary/settings-security-privacy/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 3,
+    "new_commits": 7,
     "default_branch": "main"
   },
   {
@@ -8543,7 +8543,7 @@
         "href": "https://github.com/elementary/settings-screentime-limits/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 30,
+    "new_commits": 31,
     "default_branch": "main"
   },
   {
@@ -9558,8 +9558,8 @@
         "href": "https://github.com/elementary/plymouth-theme/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 2,
-    "default_branch": "master"
+    "new_commits": 3,
+    "default_branch": "main"
   },
   {
     "name": "contractor",
