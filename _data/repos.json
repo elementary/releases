@@ -766,7 +766,7 @@
         "href": "https://github.com/elementary/settings-wacom/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 11,
+    "new_commits": 13,
     "default_branch": "main"
   },
   {
@@ -8543,7 +8543,7 @@
         "href": "https://github.com/elementary/settings-screentime-limits/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 40,
+    "new_commits": 42,
     "default_branch": "main"
   },
   {
