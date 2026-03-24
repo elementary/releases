@@ -206,7 +206,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 9,
+    "new_commits": 10,
     "default_branch": "main"
   },
   {
@@ -7731,7 +7731,7 @@
         "href": "https://github.com/elementary/settings-keyboard/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 47,
+    "new_commits": 48,
     "default_branch": "main"
   },
   {
@@ -9397,7 +9397,7 @@
         "href": "https://github.com/elementary/panel-datetime/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 50,
+    "new_commits": 51,
     "default_branch": "main"
   },
   {
