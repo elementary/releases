@@ -1284,7 +1284,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 13,
+    "new_commits": 17,
     "default_branch": "main"
   },
   {
@@ -1725,7 +1725,7 @@
         "href": "https://github.com/elementary/dock/releases/tag/8.0.0"
       }
     ],
-    "new_commits": 5,
+    "new_commits": 9,
     "default_branch": "main"
   },
   {
@@ -7493,7 +7493,7 @@
         "href": "https://github.com/elementary/capnet-assist/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 29,
+    "new_commits": 31,
     "default_branch": "master"
   },
   {
@@ -7843,7 +7843,7 @@
         "href": "https://github.com/elementary/flatpak-platform/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 49,
+    "new_commits": 52,
     "default_branch": "main"
   },
   {
@@ -9593,7 +9593,7 @@
         "href": "https://github.com/elementary/wallpapers/releases/tag/5.0"
       }
     ],
-    "new_commits": 50,
+    "new_commits": 52,
     "default_branch": "main"
   },
   {
