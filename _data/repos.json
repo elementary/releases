@@ -1683,7 +1683,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 12,
+    "new_commits": 15,
     "default_branch": "master"
   },
   {
@@ -9439,7 +9439,7 @@
         "href": "https://github.com/elementary/panel-datetime/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 52,
+    "new_commits": 53,
     "default_branch": "main"
   },
   {
