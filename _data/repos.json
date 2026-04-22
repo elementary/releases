@@ -3,6 +3,13 @@
     "name": "action-appcenter-review-parse",
     "releases": [
       {
+        "version": "v1.3.0",
+        "release_date": "2026-04-22T11:47:18+00:00",
+        "title": "v1.3.0",
+        "body": "# [1.3.0](https://github.com/elementary/action-appcenter-review-parse/compare/v1.2.6...v1.3.0) (2026-04-22)\n\n\n### Features\n\n* switch to Node 24.x runtime ([#124](https://github.com/elementary/action-appcenter-review-parse/issues/124)) ([3e79e51](https://github.com/elementary/action-appcenter-review-parse/commit/3e79e5101f2006cfbd614919e42796f112155220))\n\n\n\n",
+        "href": "https://github.com/elementary/action-appcenter-review-parse/releases/tag/v1.3.0"
+      },
+      {
         "version": "v1.2.6",
         "release_date": "2026-04-21T14:52:22+00:00",
         "title": "v1.2.6",
@@ -87,7 +94,7 @@
         "href": "https://github.com/elementary/action-appcenter-review-parse/releases/tag/v1.0.1"
       }
     ],
-    "new_commits": 9,
+    "new_commits": 0,
     "default_branch": "main"
   },
   {
@@ -1018,7 +1025,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 15,
+    "new_commits": 18,
     "default_branch": "main"
   },
   {
@@ -8389,7 +8396,7 @@
         "href": "https://github.com/elementary/action-appcenter-review-find-manifest/releases/tag/v1.0.1"
       }
     ],
-    "new_commits": 2,
+    "new_commits": 5,
     "default_branch": "main"
   },
   {
