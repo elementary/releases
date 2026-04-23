@@ -1767,7 +1767,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 23,
+    "new_commits": 24,
     "default_branch": "main"
   },
   {
@@ -2131,7 +2131,7 @@
         "href": "https://github.com/elementary/os/releases/tag/5.1.1"
       }
     ],
-    "new_commits": 0,
+    "new_commits": 1,
     "default_branch": "main"
   },
   {
@@ -4042,7 +4042,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 122,
+    "new_commits": 123,
     "default_branch": "main"
   },
   {
