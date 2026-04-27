@@ -507,7 +507,7 @@
         "href": "https://github.com/elementary/action-appcenter-review-find-manifest/releases/tag/v1.0.1"
       }
     ],
-    "new_commits": 0,
+    "new_commits": 1,
     "default_branch": "main"
   },
   {
@@ -4956,6 +4956,83 @@
     "default_branch": "main"
   },
   {
+    "name": "notifications",
+    "releases": [
+      {
+        "version": "8.1.2",
+        "release_date": "2025-11-25T23:39:58+00:00",
+        "title": "notifications 8.1.2 Released",
+        "body": "<p>Minor Updates:</p>\r\n<ul>\r\n<li>Updated translations</li>\r\n</ul>\r\n\r\n## What's Changed\r\n* X11: Avoid using present by @lenemter in https://github.com/elementary/notifications/pull/280\r\n* Make screen reader announce notifications by @danirabbit in https://github.com/elementary/notifications/pull/283\r\n* Handle \"urgency\" and \"desktop-entry\" hints in server by @lenemter in https://github.com/elementary/notifications/pull/265\r\n* Notification: create find_icon function by @danirabbit in https://github.com/elementary/notifications/pull/285\r\n\r\n**Full Changelog**: https://github.com/elementary/notifications/compare/8.1.1...8.1.2",
+        "href": "https://github.com/elementary/notifications/releases/tag/8.1.2"
+      },
+      {
+        "version": "8.1.1",
+        "release_date": "2025-11-07T15:12:35+00:00",
+        "title": "notifications 8.1.1 Released",
+        "body": "<p>Minor Updates:</p>\r\n<ul>\r\n<li>Updated translations</li>\r\n</ul>\r\n\r\n## What's Changed\r\n* Actions: Use main branch by @ryonakano in https://github.com/elementary/notifications/pull/246\r\n* Port to Gtk4 by @danirabbit in https://github.com/elementary/notifications/pull/227\r\n* MaskedImage: fix deprecated Granite styles by @danirabbit in https://github.com/elementary/notifications/pull/250\r\n* Remove no longer used libcanberra-gtk3.vapi by @ryonakano in https://github.com/elementary/notifications/pull/254\r\n* demo: Port to Gtk4 by @ryonakano in https://github.com/elementary/notifications/pull/253\r\n* Remove custom close animation by @lenemter in https://github.com/elementary/notifications/pull/252\r\n* Add background blur by @lenemter in https://github.com/elementary/notifications/pull/251\r\n* Fix meson warning and gettext ci by @lenemter in https://github.com/elementary/notifications/pull/255\r\n* Set notification window type on X11 by @lenemter in https://github.com/elementary/notifications/pull/257\r\n* Add support for notification spec 1.3 by @lenemter in https://github.com/elementary/notifications/pull/259\r\n* Use correct sound theme by @lenemter in https://github.com/elementary/notifications/pull/264\r\n* Don't set dark/light style manually by @lenemter in https://github.com/elementary/notifications/pull/268\r\n* AbstractBubble: Fix memory leak by @lenemter in https://github.com/elementary/notifications/pull/272\r\n* Move Settings object into Application class by @lenemter in https://github.com/elementary/notifications/pull/267\r\n* Move send_sound from Server to Application by @lenemter in https://github.com/elementary/notifications/pull/269\r\n* Move CloseReason to AbstractBubble by @lenemter in https://github.com/elementary/notifications/pull/270\r\n* CSS: rounder notification, flatter close button by @danirabbit in https://github.com/elementary/notifications/pull/273\r\n\r\n\r\n**Full Changelog**: https://github.com/elementary/notifications/compare/8.1.0...8.1.1",
+        "href": "https://github.com/elementary/notifications/releases/tag/8.1.1"
+      },
+      {
+        "version": "8.1.0",
+        "release_date": "2025-05-21T16:36:28+00:00",
+        "title": "notifications 8.1.0 Released",
+        "body": "<p>Minor Updates:</p>\r\n<ul>\r\n<li>Updated translations</li>\r\n</ul>\r\n\r\n## What's Changed\r\n* ISSUE_TEMPLATE: Sync with .github repository by @ryonakano in https://github.com/elementary/notifications/pull/239\r\n* Bubble: set accessible properties by @danirabbit in https://github.com/elementary/notifications/pull/240\r\n\r\n## New Contributors\r\n* @ryonakano made their first contribution in https://github.com/elementary/notifications/pull/239\r\n\r\n**Full Changelog**: https://github.com/elementary/notifications/compare/8.0.0...8.1.0",
+        "href": "https://github.com/elementary/notifications/releases/tag/8.1.0"
+      },
+      {
+        "version": "8.0.0",
+        "release_date": "2024-07-24T18:18:12+00:00",
+        "title": "notifications 8.0.0 Released",
+        "body": "<p>Minor Updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/notifications/releases/tag/8.0.0"
+      },
+      {
+        "version": "7.0.1",
+        "release_date": "2023-08-21T18:38:30+00:00",
+        "title": "notifications 7.0.1 Released",
+        "body": "<p>Block GSD \"Automatic Suspend\" notifications</p>\n<p>Minor Updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/notifications/releases/tag/7.0.1"
+      },
+      {
+        "version": "7.0.0",
+        "release_date": "2023-07-03T23:03:49+00:00",
+        "title": "notifications 7.0.0 Released",
+        "body": "<p>Block GSD \"Automatic Suspend\" notifications</p>\n<p>Increase sound and brightness notifications width to match other notifications</p>\n<p>Minor Updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/notifications/releases/tag/7.0.0"
+      },
+      {
+        "version": "6.0.3",
+        "release_date": "2022-10-26T16:56:20+00:00",
+        "title": "notifications 6.0.3 Released",
+        "body": "<p>Minor Updates:</p>\n<ul>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/notifications/releases/tag/6.0.3"
+      },
+      {
+        "version": "6.0.2",
+        "release_date": "2022-06-09T20:42:33+00:00",
+        "title": "notifications 6.0.2 Released",
+        "body": "<p>Minor Updates:</p>\n<ul>\n<li>Fix missing icon when set from icon name</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/notifications/releases/tag/6.0.2"
+      },
+      {
+        "version": "6.0.1",
+        "release_date": "2022-04-07T06:42:06+00:00",
+        "title": "notifications 6.0.1 Released",
+        "body": "<p>Minor Updates:</p>\n<ul>\n<li>Performance improvements</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/notifications/releases/tag/6.0.1"
+      },
+      {
+        "version": "6.0.0",
+        "release_date": "2021-07-19T16:46:35+00:00",
+        "title": "notifications 6.0.0 Released",
+        "body": "<p>Complete rewrite:</p>\n<ul>\n<li>Support the dark style</li>\n<li>Action buttons</li>\n<li>Optional badge icons</li>\n<li>Automatically badge images with app icons</li>\n<li>Swipe away to dismiss</li>\n</ul>\n",
+        "href": "https://github.com/elementary/notifications/releases/tag/6.0.0"
+      }
+    ],
+    "new_commits": 6,
+    "default_branch": "main"
+  },
+  {
     "name": "panel-network",
     "releases": [
       {
@@ -8755,6 +8832,139 @@
     ],
     "new_commits": 33,
     "default_branch": "main"
+  },
+  {
+    "name": "photos",
+    "releases": [
+      {
+        "version": "8.0.1",
+        "release_date": "2024-09-18T17:19:27+00:00",
+        "title": "photos 8.0.1 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Expand image viewer permissions to include the entire home folder</li>\n<li>Fix loading slideshow plugins</li>\n<li>Translation updates</li>\n</ul>\n",
+        "href": "https://github.com/elementary/photos/releases/tag/8.0.1"
+      },
+      {
+        "version": "8.0.0",
+        "release_date": "2024-06-11T16:51:50+00:00",
+        "title": "photos 8.0.0 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Remove dead publishing plugins</li>\n<li>Use wallpaper portal</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Translation updates</li>\n</ul>\n",
+        "href": "https://github.com/elementary/photos/releases/tag/8.0.0"
+      },
+      {
+        "version": "2.8.0",
+        "release_date": "2022-11-15T19:10:06+00:00",
+        "title": "photos 2.8.0 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>New actions to copy image or metadata to clipboard</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Redesigned Photo Viewer icon</li>\n<li>Translation updates</li>\n</ul>\n",
+        "href": "https://github.com/elementary/photos/releases/tag/2.8.0"
+      },
+      {
+        "version": "2.7.5",
+        "release_date": "2022-05-17T19:44:22+00:00",
+        "title": "photos 2.7.5 Released",
+        "body": "<p>Minor updates:</p>\n<ul>\n<li>Redesigned app icon</li>\n<li>Translation updates</li>\n</ul>\n",
+        "href": "https://github.com/elementary/photos/releases/tag/2.7.5"
+      },
+      {
+        "version": "2.7.4",
+        "release_date": "2022-02-01T18:38:16+00:00",
+        "title": "photos 2.7.4 Released",
+        "body": "<p>Fixes:</p>\n<ul>\n<li>Photos taken on the same day show under the same event</li>\n<li>Replace all instances of \"Shotwell\" with \"Photos\"</li>\n<li>Avoid a crash when importing videos</li>\n</ul>\n<p>Minor updates:</p>\n<ul>\n<li>Translation updates</li>\n</ul>\n",
+        "href": "https://github.com/elementary/photos/releases/tag/2.7.4"
+      },
+      {
+        "version": "2.7.3",
+        "release_date": "2021-10-26T18:29:34+00:00",
+        "title": "Photos 2.7.3 Released",
+        "body": "<p>Fixes:</p>\r\n<ul>\r\n<li>Focus photos on startup when previewing to fix navigating with left and right arrow keys</li>\r\n<li>Fix a possible crash with invalid date and time info</li>\r\n</ul>\r\n<p>Minor updates:</p>\r\n<ul>\r\n<li>Move Toggle Sidebar and Toggle Photo Info actions to the main menubutton</li>\r\n<li>Translation updates</li>\r\n</ul>",
+        "href": "https://github.com/elementary/photos/releases/tag/2.7.3"
+      },
+      {
+        "version": "2.7.2",
+        "release_date": "2021-09-23T01:31:05+00:00",
+        "title": "Photos 2.7.2 Released",
+        "body": "* Draw selection rectangle when dragging to select\r\n* Show image titles in preview mode\r\n* Translation updates",
+        "href": "https://github.com/elementary/photos/releases/tag/2.7.2"
+      },
+      {
+        "version": "2.7.1",
+        "release_date": "2021-07-14T18:01:14+00:00",
+        "title": "photos 2.7.1 Released",
+        "body": "<ul>\n<li>Fix keyboard activation in tool windows</li>\n<li>Show saved state correctly in the context-menu</li>\n<li>Translation updates</li>\n</ul>\n",
+        "href": "https://github.com/elementary/photos/releases/tag/2.7.1"
+      },
+      {
+        "version": "2.7.0",
+        "release_date": "2020-04-08T20:18:53+00:00",
+        "title": "photos 2.7.0 Released",
+        "body": "<ul>\n<li>Add Open In menu to the photo viewer</li>\n<li>Translation updates</li>\n</ul>\n",
+        "href": "https://github.com/elementary/photos/releases/tag/2.7.0"
+      },
+      {
+        "version": "2.6.5",
+        "release_date": "2019-11-15T22:14:37+00:00",
+        "title": "photos 2.6.5 Released",
+        "body": "photos 2.6.5 is out! \n\nChanges:\n\n* Add checkerboard behind semi-transparent photos in grid view\n* Fix pasting in comment box\n* Make sure we show the right apps in the Open In menu\n* Redesign a large number of dialogs\n* Translation updates\n",
+        "href": "https://github.com/elementary/photos/releases/tag/2.6.5"
+      },
+      {
+        "version": "2.6.4",
+        "release_date": "2019-05-16T10:50:25+00:00",
+        "title": "Photos 2.6.4 Released",
+        "body": "Photos 2.6.4 is out!\r\n\r\nChanges:\r\n* Fix building against latest gexiv2\r\n* Updated translations",
+        "href": "https://github.com/elementary/photos/releases/tag/2.6.4"
+      },
+      {
+        "version": "2.6.3",
+        "release_date": "2019-04-08T17:15:05+00:00",
+        "title": "Photos 2.6.3 Released",
+        "body": "Photos 2.6.3 is out!\r\n\r\nChanges:\r\n* Fix building against latest gexiv2\r\n* Use Granite.MessageDialog throughout\r\n* Use Gtk.FileChooserNative throughout\r\n* Updated translations",
+        "href": "https://github.com/elementary/photos/releases/tag/2.6.3"
+      },
+      {
+        "version": "2.6.2",
+        "release_date": "2019-01-28T06:20:27+00:00",
+        "title": "Photos 2.6.2 Released",
+        "body": "Photos 2.6.2 is out!\r\n\r\nChanges:\r\n* Updated translations",
+        "href": "https://github.com/elementary/photos/releases/tag/2.6.2"
+      },
+      {
+        "version": "2.6.1",
+        "release_date": "2018-10-29T15:03:00+00:00",
+        "title": "Photos 2.6.1 Released",
+        "body": "Photos 2.6.1 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/photos/issues?q=is%3Aclosed+milestone%3A2.6.1).",
+        "href": "https://github.com/elementary/photos/releases/tag/2.6.1"
+      },
+      {
+        "version": "2.6.0",
+        "release_date": "2018-10-16T02:54:25+00:00",
+        "title": "Photos 2.6.0 Released",
+        "body": "Photos 2.6.0 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/photos/issues?q=is%3Aclosed+milestone%3A2.6.0).",
+        "href": "https://github.com/elementary/photos/releases/tag/2.6.0"
+      },
+      {
+        "version": "0.2.5",
+        "release_date": "2018-06-20T07:23:42+00:00",
+        "title": "Photos 0.2.5 Released",
+        "body": "Photos 0.2.5 is out!\r\n\r\nThe list of issues closed by this release can be found [here](https://github.com/elementary/photos/issues?q=is%3Aclosed+milestone%3A0.2.5).",
+        "href": "https://github.com/elementary/photos/releases/tag/0.2.5"
+      },
+      {
+        "version": "0.2.4",
+        "release_date": "2017-07-28T02:26:23+00:00",
+        "title": "Photos 0.2.4 Released",
+        "body": "pantheon-photos 0.2.4 is out!",
+        "href": "https://github.com/elementary/photos/releases/tag/0.2.4"
+      },
+      {
+        "version": "0.2.3",
+        "release_date": "2017-05-02T20:03:49+00:00",
+        "title": "Photos 0.2.3 Released",
+        "body": "pantheon-photos 0.2.3 is out!",
+        "href": "https://github.com/elementary/photos/releases/tag/0.2.3"
+      }
+    ],
+    "new_commits": 100,
+    "default_branch": "master"
   },
   {
     "name": "panel-bluetooth",
