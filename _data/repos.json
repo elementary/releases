@@ -444,7 +444,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 4,
+    "new_commits": 9,
     "default_branch": "main"
   },
   {
@@ -9852,7 +9852,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.0"
       }
     ],
-    "new_commits": 7604,
+    "new_commits": 7605,
     "default_branch": "master"
   },
   {
