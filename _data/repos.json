@@ -2103,7 +2103,7 @@
         "href": "https://github.com/elementary/settings-desktop/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
       }
     ],
-    "new_commits": 11,
+    "new_commits": 12,
     "default_branch": "main"
   },
   {
@@ -5946,7 +5946,7 @@
         "href": "https://github.com/elementary/settings-printers/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 2,
+    "new_commits": 6,
     "default_branch": "main"
   },
   {
@@ -6653,7 +6653,7 @@
         "href": "https://github.com/elementary/icons/releases/tag/4.0.1.1"
       }
     ],
-    "new_commits": 38,
+    "new_commits": 39,
     "default_branch": "main"
   },
   {
