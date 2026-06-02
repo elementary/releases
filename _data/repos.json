@@ -2264,7 +2264,7 @@
         "href": "https://github.com/elementary/settings-keyboard/releases/tag/0.3.3"
       }
     ],
-    "new_commits": 3,
+    "new_commits": 4,
     "default_branch": "main"
   },
   {
@@ -8921,7 +8921,7 @@
         "href": "https://github.com/elementary/settings-datetime/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 33,
+    "new_commits": 35,
     "default_branch": "main"
   },
   {
