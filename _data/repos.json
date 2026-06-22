@@ -4952,7 +4952,7 @@
         "href": "https://github.com/elementary/stylesheet/releases/tag/5.0.4"
       }
     ],
-    "new_commits": 4,
+    "new_commits": 5,
     "default_branch": "main"
   },
   {
@@ -6394,7 +6394,7 @@
         "href": "https://github.com/elementary/calendar/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 152,
+    "new_commits": 153,
     "default_branch": "master"
   },
   {
@@ -8753,7 +8753,7 @@
         "href": "https://github.com/elementary/settings-screentime-limits/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 57,
+    "new_commits": 58,
     "default_branch": "main"
   },
   {
