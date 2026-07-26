@@ -7682,7 +7682,7 @@
         "href": "https://github.com/elementary/videos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 28,
+    "new_commits": 29,
     "default_branch": "main"
   },
   {
@@ -9306,7 +9306,7 @@
         "href": "https://github.com/elementary/panel-nightlight/releases/tag/2.0"
       }
     ],
-    "new_commits": 41,
+    "new_commits": 43,
     "default_branch": "main"
   },
   {
@@ -9726,7 +9726,7 @@
         "href": "https://github.com/elementary/tasks/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 73,
+    "new_commits": 74,
     "default_branch": "main"
   },
   {
@@ -9943,7 +9943,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.0"
       }
     ],
-    "new_commits": 7706,
+    "new_commits": 7711,
     "default_branch": "master"
   },
   {
