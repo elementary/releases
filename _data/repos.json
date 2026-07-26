@@ -4308,7 +4308,7 @@
         "href": "https://github.com/elementary/greeter/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 34,
+    "new_commits": 35,
     "default_branch": "main"
   },
   {
@@ -6912,7 +6912,7 @@
         "href": "https://github.com/elementary/settings-power/releases/tag/0.3.1"
       }
     ],
-    "new_commits": 22,
+    "new_commits": 23,
     "default_branch": "main"
   },
   {
@@ -8739,7 +8739,7 @@
         "href": "https://github.com/elementary/panel-power/releases/tag/2.1.0"
       }
     ],
-    "new_commits": 42,
+    "new_commits": 43,
     "default_branch": "main"
   },
   {
