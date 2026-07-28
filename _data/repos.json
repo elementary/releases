@@ -3,6 +3,13 @@
     "name": "action-appcenter-review-checklist",
     "releases": [
       {
+        "version": "v1.3.6",
+        "release_date": "2026-07-28T03:20:49+00:00",
+        "title": "v1.3.6",
+        "body": "## [1.3.6](https://github.com/elementary/action-appcenter-review-checklist/compare/v1.3.5...v1.3.6) (2026-07-28)\n\n\n### Bug Fixes\n\n* **deps:** bump undici ([#174](https://github.com/elementary/action-appcenter-review-checklist/issues/174)) ([6a8060f](https://github.com/elementary/action-appcenter-review-checklist/commit/6a8060fb3f5eb52574b845bd9e4acff9ed70c140))\n\n\n\n",
+        "href": "https://github.com/elementary/action-appcenter-review-checklist/releases/tag/v1.3.6"
+      },
+      {
         "version": "v1.3.5",
         "release_date": "2026-07-20T22:13:47+00:00",
         "title": "v1.3.5",
@@ -94,7 +101,7 @@
         "href": "https://github.com/elementary/action-appcenter-review-checklist/releases/tag/v1.0.1"
       }
     ],
-    "new_commits": 1,
+    "new_commits": 0,
     "default_branch": "main"
   },
   {
@@ -6562,7 +6569,7 @@
         "href": "https://github.com/elementary/mail/releases/tag/1.0.6"
       }
     ],
-    "new_commits": 22,
+    "new_commits": 23,
     "default_branch": "master"
   },
   {
