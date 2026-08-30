@@ -892,7 +892,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 37,
+    "new_commits": 40,
     "default_branch": "master"
   },
   {
@@ -3076,7 +3076,7 @@
         "href": "https://github.com/elementary/settings-desktop/releases/tag/switchboard-plug-pantheon-shell-0.2.5"
       }
     ],
-    "new_commits": 19,
+    "new_commits": 20,
     "default_branch": "main"
   },
   {
@@ -4049,7 +4049,7 @@
         "href": "https://github.com/elementary/settings-wacom/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 22,
+    "new_commits": 23,
     "default_branch": "main"
   },
   {
@@ -6184,7 +6184,7 @@
         "href": "https://github.com/elementary/monitor/releases/tag/0.2.0"
       }
     ],
-    "new_commits": 63,
+    "new_commits": 64,
     "default_branch": "main"
   },
   {
@@ -6912,7 +6912,7 @@
         "href": "https://github.com/elementary/sideload/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 13,
+    "new_commits": 14,
     "default_branch": "main"
   },
   {
@@ -7164,7 +7164,7 @@
         "href": "https://github.com/elementary/mail/releases/tag/1.0.6"
       }
     ],
-    "new_commits": 62,
+    "new_commits": 63,
     "default_branch": "master"
   },
   {
@@ -7374,7 +7374,7 @@
         "href": "https://github.com/elementary/iconbrowser/releases/tag/2.0.0"
       }
     ],
-    "new_commits": 19,
+    "new_commits": 21,
     "default_branch": "main"
   },
   {
@@ -9124,7 +9124,7 @@
         "href": "https://github.com/elementary/settings-useraccounts/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 76,
+    "new_commits": 77,
     "default_branch": "main"
   },
   {
@@ -9719,7 +9719,7 @@
         "href": "https://github.com/elementary/panel-datetime/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 63,
+    "new_commits": 64,
     "default_branch": "main"
   },
   {
@@ -9803,7 +9803,7 @@
         "href": "https://github.com/elementary/tasks/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 75,
+    "new_commits": 76,
     "default_branch": "main"
   },
   {
@@ -10020,7 +10020,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.0"
       }
     ],
-    "new_commits": 7777,
+    "new_commits": 7780,
     "default_branch": "master"
   },
   {
