@@ -1172,7 +1172,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 51,
+    "new_commits": 52,
     "default_branch": "master"
   },
   {
@@ -8599,7 +8599,7 @@
         "href": "https://github.com/elementary/settings-bluetooth/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 37,
+    "new_commits": 39,
     "default_branch": "main"
   },
   {
@@ -9530,7 +9530,7 @@
         "href": "https://github.com/elementary/panel-notifications/releases/tag/2.0.1"
       }
     ],
-    "new_commits": 99,
+    "new_commits": 105,
     "default_branch": "main"
   },
   {
