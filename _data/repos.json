@@ -3,6 +3,13 @@
     "name": "gala",
     "releases": [
       {
+        "version": "8.6.1",
+        "release_date": "2026-09-04T14:59:31+00:00",
+        "title": "gala 8.6.1 Released",
+        "body": "<p>Improvements:</p>\n<ul>\n<li>Fixed a frequent crash when using the classic session</li>\n<li>Updated translations</li>\n</ul>\n",
+        "href": "https://github.com/elementary/gala/releases/tag/8.6.1"
+      },
+      {
         "version": "8.6.0",
         "release_date": "2026-09-01T12:49:29+00:00",
         "title": "gala 8.6.0 Released",
@@ -276,7 +283,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 6,
+    "new_commits": 2,
     "default_branch": "main"
   },
   {
@@ -360,7 +367,7 @@
         "href": "https://github.com/elementary/flatpak-platform/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 1,
+    "new_commits": 2,
     "default_branch": "main"
   },
   {
@@ -8718,7 +8725,7 @@
         "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.0"
       }
     ],
-    "new_commits": 58,
+    "new_commits": 59,
     "default_branch": "main"
   },
   {
