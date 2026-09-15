@@ -3,6 +3,20 @@
     "name": "os",
     "releases": [
       {
+        "version": "daily-20260915171853-amd64",
+        "release_date": "2026-09-15T17:13:36+00:00",
+        "title": "Extension release 20260915171853 (daily) for amd64",
+        "body": null,
+        "href": "https://github.com/elementary/os/releases/tag/daily-20260915171853-amd64"
+      },
+      {
+        "version": "daily-20260915171628-arm64",
+        "release_date": "2026-09-15T17:13:36+00:00",
+        "title": "Extension release 20260915171628 (daily) for arm64",
+        "body": null,
+        "href": "https://github.com/elementary/os/releases/tag/daily-20260915171628-arm64"
+      },
+      {
         "version": "daily-20260915164234-amd64",
         "release_date": "2026-09-15T16:38:46+00:00",
         "title": "Extension release 20260915164234 (daily) for amd64",
@@ -15,13 +29,6 @@
         "title": "Extension release 20260915164010 (daily) for arm64",
         "body": null,
         "href": "https://github.com/elementary/os/releases/tag/daily-20260915164010-arm64"
-      },
-      {
-        "version": "daily-20260915154126-${ARCH}",
-        "release_date": "2026-09-15T15:38:14+00:00",
-        "title": "Extension release 20260915154126 (daily) for ${ARCH}",
-        "body": null,
-        "href": "https://github.com/elementary/os/releases/tag/daily-20260915154126-%24%7BARCH%7D"
       },
       {
         "version": "8.1.1-rc1",
@@ -6233,7 +6240,7 @@
         "href": "https://github.com/elementary/monitor/releases/tag/0.2.0"
       }
     ],
-    "new_commits": 76,
+    "new_commits": 84,
     "default_branch": "main"
   },
   {
