@@ -3,6 +3,20 @@
     "name": "os",
     "releases": [
       {
+        "version": "daily-20260916161858-x86-64",
+        "release_date": "2026-09-16T16:17:03+00:00",
+        "title": "Extension release 20260916161858 (daily) for x86-64",
+        "body": null,
+        "href": "https://github.com/elementary/os/releases/tag/daily-20260916161858-x86-64"
+      },
+      {
+        "version": "daily-20260916161828-arm64",
+        "release_date": "2026-09-16T16:17:03+00:00",
+        "title": "Extension release 20260916161828 (daily) for arm64",
+        "body": null,
+        "href": "https://github.com/elementary/os/releases/tag/daily-20260916161828-arm64"
+      },
+      {
         "version": "daily-20260916073918-x86-64",
         "release_date": "2026-09-16T07:36:37+00:00",
         "title": "Extension release 20260916073918 (daily) for x86-64",
