@@ -738,7 +738,7 @@
         "href": "https://github.com/elementary/gala/releases/tag/3.2.0"
       }
     ],
-    "new_commits": 13,
+    "new_commits": 14,
     "default_branch": "main"
   },
   {
@@ -822,7 +822,7 @@
         "href": "https://github.com/elementary/flatpak-platform/releases/tag/6.0.0"
       }
     ],
-    "new_commits": 16,
+    "new_commits": 17,
     "default_branch": "main"
   },
   {
@@ -2432,7 +2432,7 @@
         "href": "https://github.com/elementary/portals/releases/tag/1.0.0"
       }
     ],
-    "new_commits": 37,
+    "new_commits": 38,
     "default_branch": "main"
   },
   {
@@ -2817,7 +2817,7 @@
         "href": "https://github.com/elementary/dock/releases/tag/8.0.0"
       }
     ],
-    "new_commits": 24,
+    "new_commits": 25,
     "default_branch": "main"
   },
   {
@@ -3846,7 +3846,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 93,
+    "new_commits": 95,
     "default_branch": "main"
   },
   {
@@ -4280,7 +4280,7 @@
         "href": "https://github.com/elementary/feedback/releases/tag/1.0"
       }
     ],
-    "new_commits": 24,
+    "new_commits": 25,
     "default_branch": "main"
   },
   {
@@ -5813,7 +5813,7 @@
         "href": "https://github.com/elementary/stylesheet/releases/tag/5.0.4"
       }
     ],
-    "new_commits": 39,
+    "new_commits": 40,
     "default_branch": "main"
   },
   {
@@ -6219,7 +6219,7 @@
         "href": "https://github.com/elementary/monitor/releases/tag/0.2.0"
       }
     ],
-    "new_commits": 161,
+    "new_commits": 162,
     "default_branch": "main"
   },
   {
@@ -8382,7 +8382,7 @@
         "href": "https://github.com/elementary/capnet-assist/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 42,
+    "new_commits": 43,
     "default_branch": "master"
   },
   {
@@ -8746,7 +8746,7 @@
         "href": "https://github.com/elementary/shortcut-overlay/releases/tag/1.0"
       }
     ],
-    "new_commits": 64,
+    "new_commits": 66,
     "default_branch": "main"
   },
   {
@@ -9558,7 +9558,7 @@
         "href": "https://github.com/elementary/panel-notifications/releases/tag/2.0.1"
       }
     ],
-    "new_commits": 147,
+    "new_commits": 148,
     "default_branch": "main"
   },
   {
