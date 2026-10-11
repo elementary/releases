@@ -2614,7 +2614,7 @@
         "href": "https://github.com/elementary/settings-sound/releases/tag/0.1"
       }
     ],
-    "new_commits": 18,
+    "new_commits": 19,
     "default_branch": "main"
   },
   {
@@ -2768,7 +2768,7 @@
         "href": "https://github.com/elementary/settings-system/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 11,
+    "new_commits": 12,
     "default_branch": "main"
   },
   {
@@ -4231,7 +4231,7 @@
         "href": "https://github.com/elementary/settings-applications/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 25,
+    "new_commits": 26,
     "default_branch": "main"
   },
   {
@@ -7661,7 +7661,7 @@
         "href": "https://github.com/elementary/settings-network/releases/tag/0.1.1"
       }
     ],
-    "new_commits": 31,
+    "new_commits": 32,
     "default_branch": "main"
   },
   {
@@ -9082,7 +9082,7 @@
         "href": "https://github.com/elementary/settings-screentime-limits/releases/tag/0.1.4"
       }
     ],
-    "new_commits": 67,
+    "new_commits": 69,
     "default_branch": "main"
   },
   {
