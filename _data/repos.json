@@ -1480,7 +1480,7 @@
         "href": "https://github.com/elementary/files/releases/tag/4.0"
       }
     ],
-    "new_commits": 12,
+    "new_commits": 13,
     "default_branch": "main"
   },
   {
@@ -2663,7 +2663,7 @@
         "href": "https://github.com/elementary/calendar/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 17,
+    "new_commits": 19,
     "default_branch": "master"
   },
   {
@@ -4693,7 +4693,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 117,
+    "new_commits": 118,
     "default_branch": "main"
   },
   {
@@ -8459,7 +8459,7 @@
         "href": "https://github.com/elementary/capnet-assist/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 46,
+    "new_commits": 47,
     "default_branch": "master"
   },
   {
@@ -8592,7 +8592,7 @@
         "href": "https://github.com/elementary/settings/releases/tag/2.3.0"
       }
     ],
-    "new_commits": 40,
+    "new_commits": 41,
     "default_branch": "main"
   },
   {
@@ -9425,7 +9425,7 @@
         "href": "https://github.com/elementary/panel-bluetooth/releases/tag/2.0.2"
       }
     ],
-    "new_commits": 55,
+    "new_commits": 56,
     "default_branch": "main"
   },
   {
