@@ -486,7 +486,7 @@
         "href": "https://github.com/elementary/maps/releases/tag/0.1.0"
       }
     ],
-    "new_commits": 1,
+    "new_commits": 3,
     "default_branch": "main"
   },
   {
@@ -10146,7 +10146,7 @@
         "href": "https://github.com/elementary/website/releases/tag/0.3.0"
       }
     ],
-    "new_commits": 7871,
+    "new_commits": 7879,
     "default_branch": "master"
   },
   {
