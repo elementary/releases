@@ -3,6 +3,13 @@
     "name": "action-appcenter-review-checklist",
     "releases": [
       {
+        "version": "v1.3.10",
+        "release_date": "2026-10-26T22:47:21+00:00",
+        "title": "v1.3.10",
+        "body": "## [1.3.10](https://github.com/elementary/action-appcenter-review-checklist/compare/v1.3.9...v1.3.10) (2026-10-26)\n\n\n### Bug Fixes\n\n* **deps:** bump undici ([#190](https://github.com/elementary/action-appcenter-review-checklist/issues/190)) ([d957253](https://github.com/elementary/action-appcenter-review-checklist/commit/d9572537c5f9c0f30fb450cfec403e0ecc00d2e7))\n\n\n\n",
+        "href": "https://github.com/elementary/action-appcenter-review-checklist/releases/tag/v1.3.10"
+      },
+      {
         "version": "v1.3.9",
         "release_date": "2026-10-17T11:01:56+00:00",
         "title": "v1.3.9",
@@ -122,7 +129,7 @@
         "href": "https://github.com/elementary/action-appcenter-review-checklist/releases/tag/v1.0.1"
       }
     ],
-    "new_commits": 1,
+    "new_commits": 0,
     "default_branch": "main"
   },
   {
@@ -3790,7 +3797,7 @@
         "href": "https://github.com/elementary/dock/releases/tag/8.0.0"
       }
     ],
-    "new_commits": 28,
+    "new_commits": 30,
     "default_branch": "main"
   },
   {
@@ -5253,7 +5260,7 @@
         "href": "https://github.com/elementary/feedback/releases/tag/1.0"
       }
     ],
-    "new_commits": 33,
+    "new_commits": 34,
     "default_branch": "main"
   },
   {
