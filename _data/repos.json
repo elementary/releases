@@ -4833,7 +4833,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 160,
+    "new_commits": 161,
     "default_branch": "main"
   },
   {
@@ -5183,7 +5183,7 @@
         "href": "https://github.com/elementary/settings-applications/releases/tag/0.1.2"
       }
     ],
-    "new_commits": 26,
+    "new_commits": 27,
     "default_branch": "main"
   },
   {
@@ -7927,7 +7927,7 @@
         "href": "https://github.com/elementary/settings-locale/releases/tag/0.2.2"
       }
     ],
-    "new_commits": 35,
+    "new_commits": 36,
     "default_branch": "main"
   },
   {
@@ -8620,7 +8620,7 @@
         "href": "https://github.com/elementary/settings/releases/tag/2.3.0"
       }
     ],
-    "new_commits": 45,
+    "new_commits": 46,
     "default_branch": "main"
   },
   {
