@@ -2180,7 +2180,7 @@
         "href": "https://github.com/elementary/code/releases/tag/3.0"
       }
     ],
-    "new_commits": 15,
+    "new_commits": 16,
     "default_branch": "master"
   },
   {
@@ -2621,7 +2621,7 @@
         "href": "https://github.com/elementary/photos/releases/tag/0.2.3"
       }
     ],
-    "new_commits": 11,
+    "new_commits": 12,
     "default_branch": "master"
   },
   {
@@ -4833,7 +4833,7 @@
         "href": "https://github.com/elementary/granite/releases/tag/0.4.1"
       }
     ],
-    "new_commits": 162,
+    "new_commits": 164,
     "default_branch": "main"
   },
   {
@@ -8970,7 +8970,7 @@
         "href": "https://github.com/elementary/settings-onlineaccounts/releases/tag/2.0"
       }
     ],
-    "new_commits": 38,
+    "new_commits": 39,
     "default_branch": "main"
   },
   {
